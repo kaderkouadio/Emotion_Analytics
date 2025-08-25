@@ -7,30 +7,12 @@ __pycache__/
 *.pyd
 *$py.class
 
-# .gitignore
-Data/raw/
-*.log
-
-
-
-####################################
-#        DONNÉES & FICHIERS RAW   #
-####################################
-Data/raw/
-Data/glove/*.txt      # Fichiers GloVe ou embeddings volumineux
-*.parquet
-*.csv
-*.tsv
-
-# Ignorer tous les fichiers .joblib (modèles ML)
-*.joblib
-
 # Environnements virtuels
 .env
-.venv
-env/
+.venv/
 venv/
 ENV/
+env/
 env.bak/
 venv.bak/
 
@@ -43,15 +25,42 @@ build/
 pip-log.txt
 pip-delete-this-directory.txt
 
+
+####################################
+#        DONNÉES & FICHIERS RAW    #
+####################################
+Data/raw/
+Data/glove/*.txt        # Fichiers GloVe ou embeddings volumineux
+
+# Fichiers data lourds
+*.parquet
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Ignorer les modèles ML
+*.joblib
+*.h5
+*.hdf5
+*.pkl
+*.sav
+*.pth
+*.pt
+models/
+
+
 ####################################
 #         JUPYTER NOTEBOOKS        #
 ####################################
 .ipynb_checkpoints/
 
-####################################
-#         FICHIERS PARQUET         #
-####################################
-*.parquet  
 
 ####################################
 #       LOGS & FICHIERS TEMP       #
@@ -61,8 +70,11 @@ pip-delete-this-directory.txt
 *.bak
 *.swp
 *.swo
+*.out
+*.err
 *.DS_Store
 Thumbs.db
+
 
 ####################################
 #          OUTILS D’ANALYSE        #
@@ -79,6 +91,7 @@ coverage.xml
 *.py,cover
 .hypothesis/
 
+
 ####################################
 #          OUTILS STATIQUES        #
 ####################################
@@ -87,6 +100,7 @@ coverage.xml
 .pytype/
 .ruff_cache/
 .pyre/
+
 
 ####################################
 #      FICHIERS DE CONFIG CACHE    #
@@ -101,6 +115,7 @@ Pipfile.lock
 poetry.lock
 uv.lock
 
+
 ####################################
 #          FICHIERS DOCKER         #
 ####################################
@@ -109,11 +124,13 @@ uv.lock
 *.pid.lock
 docker-compose.override.yml
 
+
 ####################################
 #            DOCUMENTATION         #
 ####################################
 docs/_build/
 site/
+
 
 ####################################
 #        OUTILS ET ÉDITEURS        #
@@ -139,6 +156,7 @@ site/
 # Abstra
 .abstra/
 
+
 ####################################
 #         FICHIERS PERSONNELS      #
 ####################################
@@ -148,6 +166,4 @@ site/
 *.env.local
 secrets/
 config/local.yaml
-
-
-###########################
+secrets.json
