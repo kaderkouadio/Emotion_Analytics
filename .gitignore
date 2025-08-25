@@ -11,6 +11,17 @@ __pycache__/
 Data/raw/
 *.log
 
+
+
+####################################
+#        DONNÉES & FICHIERS RAW   #
+####################################
+Data/raw/
+Data/glove/*.txt      # Fichiers GloVe ou embeddings volumineux
+*.parquet
+*.csv
+*.tsv
+
 # Ignorer tous les fichiers .joblib (modèles ML)
 *.joblib
 
@@ -137,3 +148,6 @@ site/
 *.env.local
 secrets/
 config/local.yaml
+
+
+###########################
