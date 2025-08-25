@@ -1,1 +1,3 @@
-This film seems to be well remembered as the time Tom & Jerry signed a peace treaty. Things are idyllic for a time but, predictably, it goes sour. Probably the most memorable moment was the endless fight involving a pipe, a frying pan, and a baseball bat that the two plus Butch the dog engage in at the beginning and end of the short. I enjoyed one a bunch and you should try to catch it on Cartoon Network.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b134b5b37b33422b989b475bf830025b9713e7e59b17e902f1cd7bd3ad9a448
+size 408

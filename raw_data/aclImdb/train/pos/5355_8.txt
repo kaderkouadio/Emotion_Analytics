@@ -1,1 +1,3 @@
-Running Man viciously lampoons the modern-day American media complex, and hits its target dead-center. It may be an easy target, but they pull it off none the less. RM effortless takes on pro-wrestling (featuring some pro wrestlers as the Hunters), network television, the Nielsen ratings, the American government (suggesting it's entertainment-oriented anyway), crime & punishment, and a half-dozen other things along the way. It's a far cry from the original Stephen King novella, and Arnold is not the Ben Richards of the novella either. But who cares? It's basically a Arnie flick, with all the well-choreographed action sequences and one-liners such an undertaking requires.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff23dc84738b44d05f7c3ef705084ab9e0746744eef35b6d8a59b581bb1bb213
+size 679

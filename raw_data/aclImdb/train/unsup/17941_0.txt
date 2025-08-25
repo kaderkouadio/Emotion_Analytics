@@ -1,1 +1,3 @@
-I watched this movie at about 3 am one night, and perhaps it was just the late hour, but I was pleasantly surprised by this film. Aside from the aesthetically pleasing aspects of the movie (I'll leave that to your imagination), I actually didn't know who the killer was right up until the end. A feat most better movies can't pull off. I recommend renting this on a lonely, late night, if you have nothing better to do. This movie also contained a brilliant cameo by a flawless look-alike of an aged Dave Jourabchi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a42fdee04257a0aa42ffe22a1be4f6dd4260a907508dca5c1f30bdf96cf11cd
+size 515

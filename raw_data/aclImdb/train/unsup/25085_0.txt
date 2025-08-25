@@ -1,1 +1,3 @@
-I really enjoyed this movie and have recommended it to many people. The acting was excellent, the writing wonderful, with believable, interesting characters and plotting. All in all, a first class production. I thought the director did a superb job giving enough location shots to make you swoon while allowing the actors do what they do so well. Plus the intrigue of wondering about the likelihood of all the events that transpired was provocative. If you're over 30 and have a single, adventurous bone in your body, not to mention a romantic one, you'll love this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4a9e661a51d5c55ce0ebaf384d2b142ecdf896eb4a74d1f2c399db370481e5
+size 572

@@ -1,1 +1,3 @@
-This is my favorite movie of all time. I just love all the trouble all the teams get into! Its great. Michael J. Fox looked so young.. but then again i guess he was!<br /><br />The teams are so stereotypical you just have to laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63478b69224eaf292954dfed3958965ab7bb0b586d58f5fd4d2c88a81c331db6
+size 231

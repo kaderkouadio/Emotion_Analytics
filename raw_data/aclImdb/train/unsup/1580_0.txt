@@ -1,1 +1,3 @@
-An episode with a theme near and dear to Serling's heart: intellectual freedom and the will and power of the "little" guy. It's an obvious tribute to novels like "1984", and while not as well executed as that novel, there is something to be said for the startling visuals presented on such a low budget that bring to life the horrors of a totalitarian regime. My only criticism is the ending -- not to give anything away, but did they run out of money for something better? Regardless, this is an episode that makes you wonder what today's political realities and quasi-religious governments would have inspired Serling to write.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c2860c4a538954e2b0ef4cbbf800215e0a90366f5012b96974cc8d439d72a24
+size 629

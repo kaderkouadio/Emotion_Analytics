@@ -1,1 +1,3 @@
-OK, this movie was cool. I don't think it was the best movie ever made but it sure was fun. My brother and I still act out scenes once in a while, and will occasionally yank the movie out of the cupboard, blow off the dust and pop it in. Enjoyable all the way until the end, but a great concept. This is a movie that one has to just forget criticism all together and just enjoy. Judgment is victory for Robot Jox.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ca0b510eebbef937da0beb43ae21b67c6ed1fafba9b7ee95137cc10dcaa263
+size 413

@@ -1,1 +1,3 @@
-To say that Jodorowsky uses symbolism in this film is an understatement. There is no plot; it's all symbolism, a Biblical allegory exploring themes that only Jodorowsky and his fans can appreciate. The script, if it could be called that, is amateurish and pointless, featuring random acts of violence, which veers from silly to repellent. The self-indulgent Jodorowsky may be called a poor man's Sergio Leone, but doing so would be an insult to the Italian master. The acting is uniformly terrible, including Jodorowsky himself in the title role, a la The Man With No Name. Films like this give surrealism a bad name.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ec21ae159f9f48d97f2180afb2fde8bc069bc3780627bac5121b8422d16d13f
+size 617

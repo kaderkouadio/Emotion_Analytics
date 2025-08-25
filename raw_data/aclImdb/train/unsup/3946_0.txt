@@ -1,1 +1,3 @@
-The story really sucks and I guess you'd better ignore it but I recommend that all martial artists watch the final fights; "The Fly", "Gypsy Billy" and "Hotdog's" opponent show good Shotokan Karate style fighting, not fancy but basic and effective!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba5574d4a1507befdc6e2fb095d549e81f02c9a57b21cb51398edcb6b2791fb1
+size 248

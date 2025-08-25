@@ -1,1 +1,3 @@
-This is definatley one of the best stand-up shows evre. EVER. Eddie is so off the wall that I've been watching this damn show for nearly five years now, and it still rocks every single time. Just everything from his big broad physical comedy down to the little off the top of the head side remarks, it's a masterpeice. You need look no further than this line "The word herb. You say erb, and we say herb, cuz ther's a f###ing h in it". Brilliant.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e32a74fbd4f4fcbc850f1219c79b57a5bff2337d88e9de4d465913a19e718d2
+size 446

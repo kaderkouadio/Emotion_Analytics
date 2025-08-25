@@ -1,1 +1,3 @@
-There are lots of short film parodies out there, but this is unquestionably the best one I've seen. Actually, to simply call it parody doesn't do it justice. Whereas most parodies are disposable little one-joke pieces of fluff, this one is actually ABOUT something universal and profound, kind of the way "Shawshank" was. It's funny, yes but it's also very touching and very well made. Morgan Freeman's son is hilarious in that he mimics his dad in any uncanny fashion, yet brings his own style to the role. Really well directed and written, with fantastic music.<br /><br />See it if you can.
+version https://git-lfs.github.com/spec/v1
+oid sha256:308972b4c800cac433cdf90c94e5a4210e793442c5baec5977397d04350e08c5
+size 593

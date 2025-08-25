@@ -1,1 +1,3 @@
-"Kids Like These" could have been a decent film, given the subject matter. But instead it has become a below-average, run-of-the-mill TV-movie of the week, with not much going for it. The acting is stale, the plot predictable and the direction non-existent. For a better movie on the same subject, try the excellent "Le Huitième Jour", a film that really cares about the people with Down-syndrome. In "Kids Like These" they are merely used as an excuse for weepy sentimentality. Pretty appalling. 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb550a4b55b914c4cf0a00c5023e7e2f2500363be8e62f023db544b8ea76978
+size 502

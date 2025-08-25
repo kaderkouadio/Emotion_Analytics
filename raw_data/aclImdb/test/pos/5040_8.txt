@@ -1,1 +1,3 @@
-Possibly the best John Travolta role ever. Saturday Night Fever was a great movie & role, but a LONG time ago. I can't think of many of his movies or roles I've even liked, and it's easy to think of rotten ones. He can do meanies like in Pulp Fiction, but he makes the perfect funky angel, and it's hard to imagine anyone doing a better (equally slobby) job with it. Plot summaries are available everywhere, but the plot isn't the point. Just go for the ride and enjoy the cleverness of the little funnies along the way. There is nothing to dislike about this movie, unless one is searching for something profound. I wish there were more movies like this. We need a break from deep or awesome or grisly or complex or hysterical.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0851457197fccd4b87633a66df3062dda8b9509f326b8d58f4826b7818d8370
+size 728

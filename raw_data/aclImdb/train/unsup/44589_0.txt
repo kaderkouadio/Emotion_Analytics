@@ -1,1 +1,3 @@
-I didn't actually intend to watch this. It was one of those movies of the week with incredibly low production values and a script weaker than aged parchment.<br /><br />I don't actually need to get into details here. The film is predictable enough that anybody watching it should have it figured out within about ten minutes. However, to give you a brief clue, yes, it's exactly what you think.<br /><br />Worst film I've seen in a while.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0b4d5718c96fb79024f009e43dd14f1f5821b90b754ee9f5d0a6bab970c34a
+size 438

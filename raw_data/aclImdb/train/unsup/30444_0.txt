@@ -1,1 +1,3 @@
-A Christmas Wish's greatest gift is its humanity. Frank Orth (Jimmy Durante) displays rare human qualities from another era (he was born in the 19th century) such as warmth, thoughtfulness, sweetness, gentleness, friendliness, and forgiveness. This may not sound exciting, yet I found inspiration in the many displays of quiet sincerity throughout the film. Terry Moore's (Rosalinda Amendola) portrayal of a young woman in love was beautifully kind and loving, for example her lack of money paled in comparison to her interest to have a closer relationship with her neighbor (Pete)...."we can manage". Her dates with a important,wealthy, Chick Chandler (Phil Davis) were never considered serious since sincere feeling can not be purchased in this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b8d991f168e8318da5bc3d477b10aeafef84276cb89eefb6e62b937375c5ac2
+size 752

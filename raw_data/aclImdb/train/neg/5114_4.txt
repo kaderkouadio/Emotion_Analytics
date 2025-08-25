@@ -1,1 +1,3 @@
-This film was bad. Bad acting, bad directing, bad writing. But it wasn't bad in a funny way. It was bad in a boring way. I watched "Surface to Air" because I thought it might be a laugh. It wasn't. Don't make the mistake I did. There are plenty of more enjoyable ways to spend an hour and a half such as watching paint dry or reading the dictionary. Seriously.
+version https://git-lfs.github.com/spec/v1
+oid sha256:390de968709bef9b0a540a10764936bc73cfe1de4b5a5bec1262a0bf118536d0
+size 360

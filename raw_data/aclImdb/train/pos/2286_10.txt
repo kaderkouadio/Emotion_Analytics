@@ -1,1 +1,3 @@
-The folk who produced this masterful film have done fine service to a novel that stands as perhaps the best fiction work centering upon human guilt and human responsibility ever published. Nolte takes the role of Howard W. Campbell, Jr., and makes it his own, remaining true to Vonnegut's depiction of a man who has lost ALL (to and) for Love.<br /><br />No weaknesses in this fine adaptation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d106c1263e47e9782a57c532527f0e8c2ec7fd1c3e368f72ef782b9619e8a559
+size 393

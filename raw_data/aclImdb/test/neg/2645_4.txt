@@ -1,1 +1,3 @@
-This was one of the most mixed up films I have ever seen. Everything in the movie seemed to be attached to justify some other element that had been glued on. There is even a talking buffalo that wants his wet nose rubbed to make the magic happen. Even the brutal father seems to be stuck in just to give the kids an excuse to fly away in a wagon. It was laughable, but in an uncomfortable way because of the serious subjects that seemed to be used just to set up the plot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:264e967bfca805c7a4333077aace0843f32bc333b65c728798c69ed26ca8e568
+size 472

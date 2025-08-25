@@ -1,1 +1,3 @@
-I live in Rome where the Turkish director of this film lives and works. From my Italian friends I have heard many good things about his films...so after seeing the preview I really wanted to see "Cuore Sacro". I am deeply disappointed, one of the most pompous, pseudo-religious, highly improbable and naive films. I love film but this one is really heavy and bad. The main character is really crazy, and should be locked up in a madhouse...made me sympathise with the negative character of an aunt, who runs a dirty-dealing company that only wants to make money...and I consider myself an anti-capitalist...that bad!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0157ef22b00bf95052b393f1dbefce360606e4071320f648102cbb87aa14609f
+size 618

@@ -1,1 +1,3 @@
-This film would be particularly fun for anyone who has been in the film industry, especially in any indie capacity... those whose inheritance includes a film introduction may not appreciate it quite as much. I am hard to please in the documentary category. This doc is different though- its pleasure comes from an earthy realism of indie filmmaker punks who are a hoot to be around and watch. Whether you've ever wondered what it is like to be in films, in front of or behind the camera, or whether you have worked your way through the sometimes painful and hard but rewarding indie world, you'll certainly get a kick out of this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b988b7da3904078dd4d19daaed0d2a5d35b51bd53acff4b5eb522ed22eb9ff88
+size 635

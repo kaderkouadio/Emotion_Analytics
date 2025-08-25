@@ -1,1 +1,3 @@
-While I loved this movie, the trailers that circulated the internet the year before it hit theaters set my expectations a bit high.<br /><br />I own the DVD, so don't get me wrong, I am not saying don't watch it or even buy it! It's just that I still think the first scene was the best, and nothing throughout the entire movie ever topped it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf9960a3290b26169213e2c35ce106b27f1304aea5f083a7617f95f496c1863
+size 342

@@ -1,1 +1,3 @@
-Cary Grant had a definate talent for slapstick humor. He and Irene Dunne are superb in this film about a wife who "comes back from the dead" after seven years. Dunne just sparkles and twinkles as she reunites with her husband who has just remarried.<br /><br />Grant had an underrated gift for comedy that should have been utilized far more often. He is perfect as the husband who's life is out-of-control when his wife returns the same day he's had her declared dead. His joy of realizing she's still alive is second only to the manic gyrations he puts himself through as he tries to deal with the situation without letting his new wife in on the news.<br /><br />Too bad this isn't avaiable on DVD or VHS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a31a1d3e558f98f9f9a819d0c34d661a59a016e24d6fc3b456f592b2e7c0a8be
+size 707

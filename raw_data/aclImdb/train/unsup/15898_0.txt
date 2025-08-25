@@ -1,1 +1,3 @@
-One of the best documentaries ever filmed. Zwigoff is a genius; Crumb is a genius (eccentric but a genius) and the film is brilliant. If you enjoyed it at all you have to see "Ghost World" and "American Movie". Cannot recommend it enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac85742cd883211724888eec2c82202e43b64fd8884a93d1d6a7f2e277fbadd5
+size 238

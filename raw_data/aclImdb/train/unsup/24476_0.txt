@@ -1,1 +1,3 @@
-Handsome lad takes a computer course and finds the male teacher making warm advances to him. The next thing we know, Bobby is contemplating coming out of the closet, much to the shame and embarrassment of his father. Being a typically rebellious youth, Bobby decides to live up to his father's vision of a 'sissy' by coming to the dinner-table in drag. Only in the movies...
+version https://git-lfs.github.com/spec/v1
+oid sha256:16fec32d493b94c3adce67d9ac5d2851979ea95a412e645d9816a93c10663a3a
+size 374

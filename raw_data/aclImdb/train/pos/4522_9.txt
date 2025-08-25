@@ -1,1 +1,3 @@
-This one took me by surprise because i had often been disappointed by Adrian Pasdar in the past, but he caught the perfect balance in this performance, avoiding both farce and pathos while delivering humour and real emotions. The always-wonderful Julie Waters is terrific here, and anyone who has not yet scene her in 1983's Educating Rita should rent it immediately (marvelous film). The rest of the supporting characters are well-played as well, many marvelously eccentric without going over the top. This one is fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34c444b6b94f047349387511ddf107357a8e89da9843fd2e7cfcf0b2ac6b63b
+size 519

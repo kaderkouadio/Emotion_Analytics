@@ -1,1 +1,3 @@
-There are two of these moral messages in this movie: <br /><br />First: The usual women's libber tale: Beware of Males; The only superior beings in the world are Females. It even goes as far, that they try to suggest, it's only the (bad) males, who are killing the prey.<br /><br />Second: (Usual since 10 years as well): It's only because of you male punks (Car-drivers, electricity-users and so on) that these cuddly (female) creatures won't be able to live (hunt???) in the years forthcoming, because of your blame only, their world is going to disappear.<br /><br />You realise the intention - thus you are displeased.
+version https://git-lfs.github.com/spec/v1
+oid sha256:386dd237219817a65fe8784dc4bf9a213a6bd5191d6a38fd1feb7d33f4771a65
+size 622

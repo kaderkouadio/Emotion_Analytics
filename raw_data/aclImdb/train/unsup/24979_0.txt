@@ -1,1 +1,3 @@
-This movie is a must-rent and a sleeper phenom! The very best cast has come together to create a memorable romantic comedy with some of the best quotes in movie-dom! Of course, Mike Myers has that gift! His blurbs get repeated at the water cooler the next day... His portrayal as son AND Father is precious, and Brenda Fricker is a marvelous mum, giving the willies and the grins as she leers at Mike's buddy (Anthony LaPaglia)! My favorite scenes are LaPaglia with Alan Arkin as his Police Boss, doing the Serpico stuff! Wonderful!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6774808d2d3f83c899599b745232f34c5483c9288676e8038e59d007396575c4
+size 532

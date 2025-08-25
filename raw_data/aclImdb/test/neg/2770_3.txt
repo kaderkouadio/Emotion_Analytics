@@ -1,1 +1,3 @@
-My question is what was the worst element of this movie? Was it the acting? directing? script?. Maybe it was the waste of Alan Ladd and Jack LaRue. LaRue and, especially, Ladd are capable of bringing extreme sinisterness to a role. In this movie, it was hard to tell who the bad guy was. Granted, Ladd was playing an undercover good guy, but even in his good guy roles, he could be very chilling. So, the net result was a potentially good movie bereft of any feeling of conflict.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccf6fe593fc9e79708c6d14c4695400dc686bf10c764c2b478f8def274ff45d2
+size 479

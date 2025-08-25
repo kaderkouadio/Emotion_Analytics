@@ -1,1 +1,3 @@
-I rented this movie thinking that it would be scary and suspensful, but it is totally the opposite! It is dumb and boring, I even almost fell asleep. Don't waste money renting this movie, instead if you see it, throw it in the trash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f890277dcbe7138f8ad8e165cb012cfe60659d0162b0f21e5d539e0be9160ae8
+size 233

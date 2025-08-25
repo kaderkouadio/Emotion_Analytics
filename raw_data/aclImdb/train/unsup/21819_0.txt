@@ -1,1 +1,3 @@
-I was convinced in 2001 that the worst film that I ever had the displeasure of watching was 13 Ghosts. Now I'm afraid to admit that I may have very well come across another movie that just might be even worse. I can't even put into words how ridiculous this is so I'm not gonna waste any of my time doing so. This has to be seen in order to understand how awful it is. I believe this would be the shortest review I've ever given and I've never been so sure of myself quite like this before.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b959316538d4685e387e5f3396f3d789f32b96430016c4ebf81f80461a459e6
+size 490

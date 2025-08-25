@@ -1,1 +1,3 @@
-99 words or less:<br /><br />Well-intentioned, but the writer/director Zach Helm has no faith in the audience, nor in film as a visual medium. There is no wonder here, only great swells of music where it says in the script. What little he has to say is spoon fed to you by the dialog and the voice-overs. Colorful SFX can't compensate for the walking clichés that replace real characters: Magical Guy. Blocked Artist. Lonely Child. Boring Accountant. Yeah, it's a Kid's Movie. Cap'n Krunch is Kid's Cereal. Does that make it good? <br /><br />I feel better now.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51743d984f35ba2e53fb13d29f039f4639e2760873b7d54a5dee604fe0e3bcec
+size 562

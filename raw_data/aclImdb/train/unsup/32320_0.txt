@@ -1,1 +1,3 @@
-Bob Newhart is probably one of the funniest comics in American history. He brought clean and wholesome entertainment to American television before the days of cable access. This show, his second TV series, is very enjoyable to watch and the characters are funny to the bone.<br /><br />There are several episodes that make me laugh by just thinking about them. Examples being "The Great White Buck", "Pick on Dick", or the episode where Dick stays on the air to do a TV marathon in which Stephanie has to sing "Old Man River" to get him off the set. Not to count any of the Larry , Darrell, and Darrell or "Sweater Girl" episodes.<br /><br />I can't wait for this classic sitcom to come to DVD. Newhart is a classic ! Bob Newhart is a great American !
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebc00ebe065f08969c2e6b1663cca7ce1b729d4a1df8da4657f97acc2c767a8
+size 751

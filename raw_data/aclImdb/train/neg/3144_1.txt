@@ -1,1 +1,3 @@
-Shallow, shallow script ...stilted acting ...the shadows of boom mikes lingering over the actors' heads in scenes ...worth watching because Kate Mulgrew plays the most selfish mother in TV movie history and it's all before Ben Affleck got his teeth capped.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41e8c8f528dcb46d3209c5a7e2af990e75c12de460b3b37385054547c3fb5df5
+size 256

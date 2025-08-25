@@ -1,1 +1,3 @@
-Although it flirts with agitprop and its stereotypes, The Violin is ultimately a small, moving, human drama centered on the perseverance, against a ruthless military government, of a poor, frail, self-effacing grandfather and his family. The late Ángel Tavira is excellent as the grandfather -- the human face of an underground resistance -- whose weapon of choice is a violin. The long shots, in black-and-white, of Tavira on his borrowed mule reminded me of the scene in The Grapes of Wrath where Tom Joad leads his family of Dust Bowl émigrés across the ridge of a California hill or the panoramic shots of Sicilian hillsides in Godfather II. It's man in nature, man against a heavily armed nature, and tragically nature wins. Good independent film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:662a75c5cf212d98aa947455c88fb806b0a530fb527ca8cca3271b00769ab9b0
+size 755

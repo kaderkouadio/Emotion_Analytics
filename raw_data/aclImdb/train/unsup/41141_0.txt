@@ -1,1 +1,3 @@
-This movie is a typical teens get into trouble on the road story. While going off to Vegas to celebrate graduation, 6 teens in an Escalade take a short cut and exchange road rage with the disfigured father of a reclusive family named Mayhew living way off the beaten path. In typical teen fashion they make some really bad decisions and wind up unknowingly invading the home of the Mayhew's where they run from the clan and try and find a way back to reality. During their ordeal 'some' of them are killed in semi-goriness. With a title like The Butcher, it could have been a lot worse. The editing, continuity, and other technical aspects were pretty good. The end holds a few twists that were not totally unexpected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e20b87f69e6d0dcbd94716dc71d10450c627351934d0629c84aaecace812fd12
+size 718

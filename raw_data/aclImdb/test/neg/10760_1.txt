@@ -1,1 +1,3 @@
-Filmmaker Bryan Forbes, who once displayed a light, sardonic touch with beguiling material such as "Whistle Down the Wind" and the original "Stepford Wives", completely bottoms out here. Not only is his direction inept, he also sloppily adapted Sidney Sheldon's early novel; the results are atrocious. Roger Moore plays a psychiatrist framed for the murder of one of his patients; Rod Steiger, chewing the scenery, is a hot-under-the-collar cop (it's easily his most embarrassing performance). The only actor here to exhibit some life is Elliott Gould, who knows a thing or two about enlivening a bum script. Bland, choppy, and produced on the cheap. NO STARS from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e51765df9081f49896d17f094a361d3df780e44a9c451733d560c2821cd248e
+size 669

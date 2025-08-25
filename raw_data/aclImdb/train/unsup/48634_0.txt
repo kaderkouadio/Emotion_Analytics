@@ -1,1 +1,3 @@
-It's like the worst parts of every Godzilla movie decided to combine with Power Rangers and form the biggest load of idiocy ever to hit my TV screen. The moment I saw people in jetpacks shooting at a fireball-spewing plastic dinosaur with machine guns, I recruited about 5 friends via telephone and instant messenger to gape in awe over how awful this was. It was a laugh riot, not over the movie being funny (because it wasn't) but more over the fact that such a piece of crap was even being aired. Painfully bad in every way, not even worth paying for a rental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af6505f4989898c556a3d6b0fcb17c8448702c9b1ca6bc56c8f78bac45b65c3
+size 563

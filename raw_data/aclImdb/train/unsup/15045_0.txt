@@ -1,1 +1,3 @@
-OK, this movie isn't high art. It's a silly comedy for kids or families. But if that's what you're looking for then this is a good one. Some of the performances are goofy, some of the images are goofy, but hey, there's nothing wrong with enjoying this movie. Just don't take it too seriously (because you can't) and let yourself be a kid for a while.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f75cfe631c463a55b8ee4cca77238f5a249017204819de027ff69633f92d1bb
+size 350

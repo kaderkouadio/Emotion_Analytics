@@ -1,1 +1,3 @@
-Christopher Lee is one of my favorite actors! I'm trying to view all of his work. He has been known to single-handedly save movies with his presence. Unfortunately, this is not one of them. This movie suffers from a low budget and it's production values are disturbing. Please...for the love of Christopher....avoid this film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:64718d0d2e2aac97ff82698f8c554a2ba414982f49638ad96840c63fd0450d27
+size 326

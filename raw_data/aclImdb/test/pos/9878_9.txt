@@ -1,1 +1,3 @@
-This video has heartfelt memories. It has a great cast and all the actors did a great job. I have been searching to buy this video. If anybody knows of where I can purchase, please e-mail me. I really want to add this to my collection.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5afc9835e195051f8f8aa98d8d2c861dce4ccbd2dd1a50301adacddbbc9c9a4
+size 235

@@ -1,1 +1,3 @@
-I must confess that I don't remember this film very well. But, certainly I liked it. I think it was the best adaptation from Burroughs novel, really. And of course it's one of the best movie from Christopher Lambert.<br /><br />A good movie about Tarzan, as cult as the ones with Weissmuller.
+version https://git-lfs.github.com/spec/v1
+oid sha256:533de6fb1b5d58b06f1d53e8ceab593317ac733fd8f557bde3cfbd3620423591
+size 292

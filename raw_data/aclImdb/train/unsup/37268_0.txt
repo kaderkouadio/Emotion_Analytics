@@ -1,1 +1,3 @@
-I've seen some bad movies in my time and this one has to top the list. Val Kilmer and William McNamara are two of my favorite actors. They should be ashamed of themselves to have their quality acting names associated with this awful thing called a movie. Its and Ed Wood reject.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84bb8fa357cbbfe6037812ec2e26be585f0c00992de742d398cdec378efee769
+size 278

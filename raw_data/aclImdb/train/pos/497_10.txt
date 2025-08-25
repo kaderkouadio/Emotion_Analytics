@@ -1,1 +1,3 @@
-Call me adolescent but I really do think that this is a great series. If you haven't had a chance to experience a few episodes of the latest Star Trek series, you should definitely watch this one. Perhaps more compelling than that of Voyager's Caretaker, which launched the series with Cpt. Janeway, Archer's adventures are completely different, yet strangely familiar...The music is catchy too. No true Sci-fi fan can go without seeing at least one Star Trek episode--and these installments make the wait worthwhile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:879a9d87b141b4b7a1fb93442a0becacc6815cadeed30f5704f5216bdbbed2b6
+size 517

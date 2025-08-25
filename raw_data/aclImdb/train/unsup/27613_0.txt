@@ -1,1 +1,3 @@
-This movie is just hilarious, It's definately the best movie Pryor or Wilder ever did. The slapstick comedy, and jokes from Pryor and Wilder still have me laughing. The plot does need some work, but it's so funny I dont even notice! If you are a fan of any of the actors in this movie, check it out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea4ce2928a7913f9ddf57657f1c28e04c7733718d25e6e6bcaf009d98217647
+size 299

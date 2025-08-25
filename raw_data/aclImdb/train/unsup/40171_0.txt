@@ -1,1 +1,3 @@
-There are good films I have seen. There are good films I won't bother watching e.g. Love Story. There are poor films of good books, which is annoying. There are bad films that are so bad that they get a cult following. Then below that there are films that the word bad isn't enough, i.e. There's bad films and there's BAD.<br /><br />I cannot find a single redeeming factor to this film. It is obvious that this film had a household sized budget, but that is no excuse for poor dialogue hanging plot lines, disjointed direction, poor acting, and the list goes on. It is unfortunate that I cannot give this film a score of 0. <br /><br />The only way I could recommend this film is to film students as an exercise in how not to do everything in a film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39691592d7d48b4a13551b34d8b184350d4d02070cd784c8861ccb68c6b16267
+size 751

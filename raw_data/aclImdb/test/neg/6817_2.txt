@@ -1,1 +1,3 @@
-PDQ Bach did it better. Much of "Bach"'s speaking part is letters written to various patrons complaining about the amount and speed of his payment. Anna Magdalena's diary, mostly about the death of children and sundry other family matters, is an iota more engaging. The music is disconcerting: 17th century sized chapel orchestras and choirs producing 20th century concert hall sound. The overall production quality reminded me of a junior high slide show. J S Bach was a brilliant man whose music speaks for itself. This film adds nothing. Netflix sent me 2 discs that wouldn't play, so I streamed the movie. Clearly Netflix was trying to tell me something.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6780614ce93ce2b1f8e5257491bd12bc5996d5313caa30a82ae82fafe5c4ec1
+size 658

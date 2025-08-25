@@ -1,1 +1,3 @@
-Movies like this should be outlawed, or at least come with a warning. I have never left a movie before, but this was too much. I was dry-heaving after the movie was over, and thought i was going to throw up. Not only was the theme of the story grotesque and repulsive, but there was absolutely no plot. I was going to ask for a refund after seeing this vile work, but it's not the theater's fault for letting trash like this into society.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0877d892ffba038d4c3b462cba368499cdd1c99349f79d4d4f939631eb8eb9c5
+size 438

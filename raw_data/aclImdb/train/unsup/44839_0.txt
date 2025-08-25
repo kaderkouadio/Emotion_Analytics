@@ -1,1 +1,3 @@
-This was one of the worst movies I've ever seen. Absolutely no suspense. A lot of really bad acting. Very poor special effects. Avoid wasting your time with this one. Nothing more to say, but here's the required minimum 4th line anyway.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20f3c3cfe7d06088c37cc999532d91f3210845ecb336f0d642d7158cd0ca14ca
+size 236

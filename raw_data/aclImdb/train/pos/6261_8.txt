@@ -1,1 +1,3 @@
-Fantastic documentary of 1924. This early 20th century geography of today's Iraq was powerful. Watch this and tell me if Cecil B. DeMille didn't take notes before making his The Ten Commandments. Merian C. Cooper, the photographer, later created Cinerama, an idea that probably hatched while filming the remarkable landscapes in this film. Fans of Werner Herzog will find this film to be a treasure, with heartbreaking tales of struggle, complimented by the land around them, never has the human capacity to endure been so evident. The fact that this was made when it was shows not only the will of the subjects, but of the filmmakers themselves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00bce350ce709009f56142aa4fe5895eb6012eaea8a4858916f16c43842ffe25
+size 646

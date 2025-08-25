@@ -1,1 +1,3 @@
-I saw "Solas" (called "Alone" in English) at the 2000 Portland International Film Festival. It's always good to be able to see something non-Hollywood, especially considering the subject matter here. Maria (Ana Fernandez) comes from an abusive household and seeks to get away. When the father ends up in the hospital, Maria and the mother resist the idea of going to see him, but end up going anyway to see whether or not they can make amends with him.<br /><br />A major point is that the mother actually looks like someone who has been in an abusive relationship (in a Hollywood movie, she would probably look like Julia Roberts; or be played by her). It's a truly effective look at relationships and how they shape who we are.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d590c2814eb01bba2df4d0cef1b405b487ecc9201a24bf92049d2a77dc1285d
+size 729

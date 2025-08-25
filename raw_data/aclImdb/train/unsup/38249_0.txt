@@ -1,1 +1,3 @@
-I wasn't thrilled by this movie, or even vaguely moved. I was<br /><br />restless and listless and found myself looking at the scenery and<br /><br />the camera movement, a sure sign that it is not working on any<br /><br />level. As Emanuel Levy says in his book Cinema of Outsiders, this<br /><br />film has a "senseless narrative and flaunts an arrogant style, but<br /><br />like The Usual Suspects, it's hollow at the center." I agree. .
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f3475467986a6c8bff5e4ac27582eebf6b26cc6592cfa9bb63ff3a1c0f4cbf
+size 442

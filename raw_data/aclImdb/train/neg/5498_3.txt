@@ -1,1 +1,3 @@
-I think my summary sums it up. I found it inane and stupid. I also saw the ending a mile a way. Everyone is copying that ending anymore when doing a TV/Theater crossover anymore. Sometimes, it's better to let the movie stand alone.<br /><br />Others, its better to forget the movie altogether. This is one of the others....
+version https://git-lfs.github.com/spec/v1
+oid sha256:11779c058e4895f00d20a58afd38d6b9a29b941b9294a87805fcf62c00bd2be8
+size 323

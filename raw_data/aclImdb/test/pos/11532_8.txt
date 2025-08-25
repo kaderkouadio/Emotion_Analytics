@@ -1,1 +1,3 @@
-I've seen this film three times and each time I appreciate it more. I think Jordana Brewster should have received an Emmy nomination for her real and natural performance. Many of us who were Phoebe's age at this time the story takes place will understand how real it is. Life for most of us is neither softly glowing romantic or harshly cynical pessimism. It is a blurred balance, and this film captures this balance. It is well constructed, too, with so many fine details in its composition. Like the film or not, judging from the extraordinarily high ratings it gets from the demographic of females under 18, we can know that this movie reveals some important truth about how young women see themselves in the world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81344d8744abd477730afc5ef74d228bb636208034988eebcc6a5b427db0e109
+size 718

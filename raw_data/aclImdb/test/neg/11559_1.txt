@@ -1,1 +1,3 @@
-After watching this movie, I couldn't help but notice the parallels between it and another film called America 3000. Both were very bad mid 1980's post apocalypse disasters on celluloid. Obviously fake sets, wooden acting and stupid monsters are found in both films. About the only difference between the two is that the lead villainess here (played by Angelika Jager) has a very thick accent. Avoid this one unless you're watching the MST3K version. Joel and the bots barely salvage this turkey.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41a5647ea7104b6faa1989d02773371fba861f87e4113e9d56859f7218175ca7
+size 496

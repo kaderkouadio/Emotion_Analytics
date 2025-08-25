@@ -1,1 +1,3 @@
-I watched the premiere of "Path to Paradise" way back and was stunned by it, dramatic license and all. I lived in NYC (Brooklyn) a few years and kept in mind. Today, given the links to groups such as Al-Queda, Hamas, and the Islamic Jihad, I see it as a warning not recognized by our government. For that I place the blame on our bureaucracy and leaders. 9.11.01 was a new tactic to behead two of our branches of gov't and there is no excuse for our gov't to prevent it, period. "Path to Paradise" was but a dramatic view of the '93 preview, and no one cared. Now, nearly 3,000 deaths later, and years behind, we struggle to find an answer that is decades to resolve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb2a9fe8962cd791a9ccf550ef35fb4c65e8eaddbd42291015ad3a679b92691
+size 667

@@ -1,1 +1,3 @@
-Went to see this finnish film and I've got to say that it is one of the better films I've seen this year. The intrigue is made up of 5-6 different stories, all taking place the very same day in a small finnish town. The stories come together very nicely in the end, reminding, perhaps, a bit of the way Tarantino's movies are made. Most of the actors performed very well, which most certainly is needed in realistic dramas of this type. I especially enjoyed the acting by Sanna Hietala, the lead actress, and Juha Kukkonen. I noticed btw that IMDB has got the wrong information about Sanna. Her name, as you might have noticed in my review ;), is NOT Heikkilä, but Hietala.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0cf445cb5f4eb550b978dd8986ad7713fd93d31d778c0b8f4221c58b04b15f
+size 674

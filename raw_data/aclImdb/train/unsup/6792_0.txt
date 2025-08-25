@@ -1,1 +1,3 @@
-I find that it is a good animation movie. This a comedy and drama animation. The music was very good, and the drawings are well drawn, especially when they are made with the hand. It is a film which makes reflect on the good to be company. The whole, it does not have there a scene of violence like the majority of the American and Japanese animation. The main character is a trouble maker but he has a good heart.People will cry after seeing this animation. I recommend to all to look at, even to the children, although it is sad and too heavy for them, because it is an example to be followed for all, children and adults.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af4b3ac5c48ef4e19314ed778d0bd2f85ff500d55c1881970b0d121e9197f92c
+size 624

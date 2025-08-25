@@ -1,1 +1,3 @@
-The kind of film that you spend 30% of your life watching, because you can't help yourself... especially when you have nothing to do late at night except to channel surf and watch B movies...<br /><br />Good premise of a film, got me interested, forgave the cheesy acting, didn't mind the simple FX, but the script was real bad. I could have cried.<br /><br />If you have nothing better to do, go to sleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c7022af161c6b5b52f3b14a0f3f0125013b93b6585bd2e81e3d6b201ad8d226
+size 406

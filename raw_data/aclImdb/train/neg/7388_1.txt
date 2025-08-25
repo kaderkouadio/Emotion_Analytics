@@ -1,1 +1,3 @@
-drss1942 really took the words right out of my mouth. I loved Segal's early films and feel like the only one who is still faithful to him. I just saw this movie (ok, fell asleep about 90% through, so I didn't see the end). When I woke up and saw I was at the DVD menu, I was thankful I didn't subject myself to any more of that movie and didn't dare find out what happened at the end. There was something strange about the voice of Segal and others. Kinda reminded me of the original Mad Max where the voice were dubbed, but in the same language (Australlian is English, right? :) Anyway, if I had 10 thumbs, they'd all point down right now for this Segal injustice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b6e78e4d887ca131648adb8d7a69fc780c9f2f182c2c5ca7fe6159d258c912a
+size 666

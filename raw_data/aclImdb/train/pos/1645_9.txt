@@ -1,1 +1,3 @@
-This western is done in a different manner than most others. Realism is the key here. Conchata Farrell comes to Wyoming to work for Rip Torn on his ranch. How this is presented makes for a most interesting slice of Americana. I would have preferred to see this on the big screen rather than on tape, but it's worth a look to see just how life was back in the real west. Cinematography is excellent. Solid 9. Torn & Farrell excel in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbe37d63311637c770d2b5e448d6e6f399397016d5fca219cbed7128d0ffee4a
+size 443

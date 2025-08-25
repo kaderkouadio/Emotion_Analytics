@@ -1,1 +1,3 @@
-I found this film to be nearly intolerable.<br /><br />John Cassavetes in many ways was a love him or leave him director. His films were never easy -- he definitely required his audience to work, not sit passively and let his films quietly come at them. I don't mind this approach to film-making, but I do require that the rewards I receive are worth the effort I bring to the experience. Not so here. "The Killing of a Chinese Bookie" simply wore me out, until by the end of the movie I could not have cared less what happened to anyone in it or to the story itself. This is Cassavetes at his self-indulgent worst.<br /><br />The only thing I liked about this movie was Ben Gazarra, who I've always thought was a fine and overlooked actor.<br /><br />Grade: F
+version https://git-lfs.github.com/spec/v1
+oid sha256:513a66940e95aebab0131e6d5653a5970d932005bb0e96f1e627f7f57183a1f3
+size 760

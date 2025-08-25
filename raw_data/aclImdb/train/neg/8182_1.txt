@@ -1,1 +1,3 @@
-Ludicrous violations of the most basic security regs are only the beginning. It's hard to see how they achieved such abysmal trash on such a low budget. I turned it off once, then got curious to see if it could get any worse. It did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5757624754af8318a5c2db02e459ba0dae2be6ea249a4290a11182f4bedffe6
+size 233

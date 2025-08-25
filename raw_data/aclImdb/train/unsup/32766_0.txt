@@ -1,1 +1,3 @@
-Well the Direction was okay, given the potency of the movie. Cinematography was horrid, having allowed flawed lighting in shot movements. The art direction was simple. It dealt with themes of religion. There were I feel undertones of black and white view points. It is a generic horror film. The dialogue had an overabundance of clichés and the shots did little to acquaint the viewer with the characters surroundings. However, this film was not bad given the fact that Poche is a novice film maker. I am a fan of B movies because they are so darned corny and funny, and this one fits the bill. It's 35 minutes of hell.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55427f47ad8b7cc4326f932593b32b426a84aa292d13299e7a66c6f2bb9caa5b
+size 620

@@ -1,1 +1,3 @@
-The fact that this movie is a rip-off of Tod Browning's "Freaks" should not be construed as a reason to see it. The photography and acting are bottom drawer, the direction is listless and unimaginative, and writing is rarely sly (or at least it's hard to get any good dialogue out of these actors' mouths). There isn't even all that much exploitation footage here.<br /><br />What is kind of interesting is the picture of carnival life in the 60s (a period of decline for that art form) it provides. Roustabouts, geeks, carneys, all are presented with some sort of versimilitude. <br /><br />With a stronger lead actress and a more competent cast/director, this film could at least have been a memorable shock-fest. Instead, it's ultimately forgettable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5cf98641f3d4c5bf699fa1ecf95e6931df5a885e0890879be5a8015bdfdfae0
+size 753

@@ -1,1 +1,3 @@
-The good thing about this film is that it stands alone - you don't have to have seen the original. Unfortunately this is also it's biggest drawback. It would have been nice to have included a few of the original characters in the new story and seen how their lives had developed. Sinclair as in the original is excellent and provides the films best comic moments as he attempts to deal with awkward and embarrassing situations but the supporting cast is not as strong as in the original movie. Forsyth is to be congratulated on a brave attempt to move the character on and create an original sequel but the film is ultimately flawed and lacks the warmth of the original
+version https://git-lfs.github.com/spec/v1
+oid sha256:b725120fb34a6c249340199cfe8bd6d99922e72e3360e404a294810049c5eb30
+size 669

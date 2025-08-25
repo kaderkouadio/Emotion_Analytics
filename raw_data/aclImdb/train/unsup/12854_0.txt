@@ -1,1 +1,3 @@
-This is not a movie for everyone, especially with the prominent LDS community here in Utah, but it can appeal to everyone who has dealt with the confusing and entangling situations of love. I was definitely struck by the authenticity of the love scenes and their awkwardness, which is so often accompanied with a new lover. Marguerite Moreau delivers a stand-out performance - I would love to see her in more films... she offers a unique innocence, like she's almost broken, but holding on to hope. She fits the character of Jamie Harris perfectly. The movie was longer than I expected, but without being long-winded. It moved with a mellow pace while adding unexpected, humorous and dramatic twists to the plot.<br /><br />Worth a Look
+version https://git-lfs.github.com/spec/v1
+oid sha256:a38fae4afa254ef9ab3e332d4d56f750ccc74aa6166519ec646f8fc5a863761f
+size 736

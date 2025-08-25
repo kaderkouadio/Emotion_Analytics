@@ -1,1 +1,3 @@
-This is one of may all-time favourite films. Parker Posey's character is over-the-top entertaining, and the librarian motif won't be lost on anyone who has ever worked in the books and stacks world.<br /><br />If you're a library student, RENT THIS. Then buy the poster and hang it on your wall. The soundtrack is highly recommendable too. I've shown this film to more library friends than any other -- they all fall in love with it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:617255706a96770f9762dcfc47edf6f6a48ed01b3c6786b615388a0b7b467e13
+size 433

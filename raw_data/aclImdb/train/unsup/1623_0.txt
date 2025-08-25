@@ -1,1 +1,3 @@
-Andre de Toth directed this 1954 noir, Crime Wave, starring Sterling Hayden, Gene Nelson, Phyllis Kirk, and Charles Buchinsky, who later became Charles Bronson. Nelson plays Steve Lacey, an ex-con, now married to the beautiful Kirk. He's gone straight, but he is consumed by his past, and former inmates keep calling him for help. When three guys escape from prison and one is injured, they crowd in on Lacey. Holding his wife hostage, they force him to drive the getaway car in a planned robbery.<br /><br />Very neat, gritty, short noir, with Hayden as the tough, no-nonsense cop. de Toth doesn't spare us the mean streets or violence, either, in this fast-moving flick. Recommended for noir/crime fans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b89dfff1c5e4a88a3f61afde6300315898b67a03e7f1b062a2950af2bf91e2a
+size 705

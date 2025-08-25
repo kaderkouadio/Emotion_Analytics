@@ -1,1 +1,3 @@
-This is just about as bad as it gets folks. If this is 'European art' then the words 'Emperor's clothes' springs to mind. The only skill the director and producer have is to lead you along so that just as you think it can't get much worse, it does. The number of flaws in the plot is countless and I won't list them all here. The baddies drift around in their car; we are led to think they are following the two main actors, in which case why don't they just pounce. The final image of the girl, rotating as it does back and forth, summed it up for me: No one knew where this movie was going and no one knew how to finish it off. Uggh. I hope this was not made with European taxpayers money, but I have a horrible feeling it was.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b8e258d3e4dbd312ab5848f2b459d9204419d1cd1fd891847a930f23c5dacd6
+size 729

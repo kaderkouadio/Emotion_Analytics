@@ -1,1 +1,3 @@
-In the opening sequence, about 3 1/2 minutes into the movie when the Director of Photography credit is on..<br /><br />Both the Lambo and the police car are driving down a 2 lane road in the left lane for no apparent reason. Soon after, a car passes them going the opposite direction and therefore also driving in the left lane. Has anyone else noticed this? I've rolled back through this a number of times. I can't see anything based on the plot or even based on filming requirements that would explain the reason for running on the left side. Also, I wondered if maybe this was filmed outside of the US, but I don't see any reference to overseas filming locations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:471d79175e761efd634a1e31a0b5a935ce3910ee7c8ee713d9aa4dc5f4283ef0
+size 666

@@ -1,1 +1,3 @@
-In a sordid setting, the plot unfolds with a Contemporary feeling of British realism. Failure of relationships and family emerge in an Inner City environment. Suddenly the characters relate in a humanistic fashion. Though slightly contrived, we begin to accept to the message of the film. Brilliance of movement and color are stated and warmth and understanding are born. With a tear, we face sensitive and tentative feelings with the intent of the film, "Wonderland."
+version https://git-lfs.github.com/spec/v1
+oid sha256:7014a1475538dce5f2eaa90007e7507d13eff16cbb761ba4097bf932772012c6
+size 468

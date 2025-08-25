@@ -1,1 +1,3 @@
-I don't recall walking out of a movie theater except this once. Not only that, but I was with 7 friends, and we all wanted to go. An uninteresting plot, characters made of clay, violence with no point. I didn't care when the good guys died; I didn't care when the bad guys got it. The fantasy and magic was laid on thick as liver pudding and there was no coherency. In short, fine entertainment if you happen to be spending an eternity in Hell.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdaf23b81e344f45ea1a9139f211b60e2c5ac8c1b9b219c131b7c76922e007ce
+size 444

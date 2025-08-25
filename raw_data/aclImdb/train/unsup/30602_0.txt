@@ -1,1 +1,3 @@
-Lester's "serious" film is a stylistic and cinematic masterpiece that -like much of Lester's work- has been underrated for decades. "Petulia" features the performance of a lifetime for Julie Christie and stunning work by George C. Scott and Richard Chamberlain.<br /><br />This film is amazingly shot by Nicholas Roeg (!) and is a riveting piece of timeless cinema. A must-see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:153d9df135c365562c9d5e5dc43c56620e30924082d866218f6f01a25ac9b1cb
+size 377

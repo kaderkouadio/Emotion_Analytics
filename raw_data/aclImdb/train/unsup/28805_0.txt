@@ -1,1 +1,3 @@
-This is a thoroughly enjoyable movie, with some classic rantings by Cary Grant. A first rate movie for people of any era and age.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e79cd1d817e597e3bd41490b36bd6a85c6dba00c316dc410d4c5ca9f948e442e
+size 129

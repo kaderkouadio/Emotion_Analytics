@@ -1,1 +1,3 @@
-DNA joins aspects of those two films to make something very cliched indeed. The river scene is lifted right out of Predator. Also, the special effects attempt to look full blown, but defects are too obvious - such as the scale of the exploding helicopters being the same size as the people running away from them. Avoid if you favour originality.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13dbe1bd4ab58268ed4820a713c763549881651639567ac1b8d79dc8e731a7e9
+size 346

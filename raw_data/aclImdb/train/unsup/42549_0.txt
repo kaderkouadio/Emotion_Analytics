@@ -1,1 +1,3 @@
-If you want to see a movie about things that will happen when you stop taking your medication, then this is a movie to see. <br /><br />I guess if you think way into things, it is a creepy movie, but just watching it, its not that bad. <br /><br />I saw it at the NuArt in LA and I really could have waited.<br /><br />The cinematography was interesting, and the camera was really shaky at times. However, due to the fact that it was filmed in 8 days, I do give them props.<br /><br />One more thing, the movie tends to drop focus points...and has minimal dialogue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:394e7220386fc199cdbf0d5ae6b4d686228d66b24ca95961500a52c6832b000a
+size 565

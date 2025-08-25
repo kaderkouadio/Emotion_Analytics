@@ -1,1 +1,3 @@
-Kerrigan has proved his genius with "Clean, Shaven" - but this film even beats that one. Intense, human, unforgettable. I have never seen a director get at what Lodge Kerrigan does. He is an uncompromising artist and, in my opinion, America should be honored to have him. The best art is the most difficult, and for some this film may be quite difficult. There is a lot of space for interpretation. If you aren't the type of person who can handle truth over Hollywood-style entertainment, I would suggest avoiding this film. If you appreciate art, please see it immediately. I doubt that you'll be disappointed. I've already seen it 4 times and I can't wait to see it again. Thanks. Oh, and P.S. Skip the Soderbergh version. Kerrigan's blows it away.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0316e1ebe9fd515839e895664f98340d96a679e0b3168666cf933f4064df8e
+size 750

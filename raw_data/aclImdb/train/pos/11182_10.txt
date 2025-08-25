@@ -1,1 +1,3 @@
-I am a fairly big fan of most of the films that have been based on Stephen King's books - this one rates as one of the scariest and most memorable.<br /><br />I have just finished rewatching it for about the tenth time and I still find it heart-wrenching as well as scary.<br /><br />The scene where Gage is on a sure collision course with the monster truck is one which stands out. And the "No fair" uttered by little Miko Hughes near the end is a touch of brilliance.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:85581289466d8b18c684c612ff42ac009ec202d2274562437704007ea25a5d58
+size 481

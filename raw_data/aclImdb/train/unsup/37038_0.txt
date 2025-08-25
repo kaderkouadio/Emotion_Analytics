@@ -1,1 +1,3 @@
-This movie was terrible. We rented it because it looked cute. We recognized the boys from Zack and Cody, a show my kids have enjoyed for years. We were really shocked by how inappropriate this movie was for little kids. It is full of sexual innuendos. It is the little kids using the foul language and showing age inappropriate behavior regarding women. This movie is not for kids under 10. The characters in it are a bad role model for kids over 10!! There are so many good sports movies for kids. All the Sandlot movies. The Angels in the outfield. There are tons of them out there... without 9 year old saying P***ed or drooling over a woman's cleavage!
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ebf01a07008a7ed955e94648d6be29ab8be82d59db4ecf865d6541810f38d4
+size 656

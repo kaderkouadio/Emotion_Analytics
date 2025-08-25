@@ -1,1 +1,3 @@
-Diane Keaton has played a few "heavy" parts in her many years on the big screen but she's mostly known for the "light and fluffy" stuff with Woody Allen, such as Annie Hall. She deserves an Oscar for best actress in a drama for this effort and it doesn't really matter what the competition was the year it was first shown. Try and find a scene in which she doesn't appear. And it was all heavy drama, exhausting in its pace and retakes, action, all at full speed. The make-up made her as young as possible and she fit the 30s age category even in close-ups, but she was playing half her age and at a very fast pace. The movie, overall was fairly well done, staged and shot well with a strong supporting cast but Keaton carried the load.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a66ed946f144879b70dfe09f3826a98a753291911fbd6af2e80a926f5326ce1d
+size 736

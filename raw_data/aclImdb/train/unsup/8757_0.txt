@@ -1,1 +1,3 @@
-Maybe I'm not even the right person to be reviewing this documentary, seeing as to how I was born long after the '60s were over. But still, "Woodstock" transports you back to the era, and everything associated with it. Too bad that they didn't show Janis Joplin's performance, though. I understand that she was so messed up that she could barely perform, but she was still part of the gig. Of course, Jimi Hendrix playing "The Star-Spangled Banner" is beyond electrifying. Richie Havens, Arlo Guthrie, The Who, Country Joe & the Fish, and the other performers all combine to create something that can never be equalled. Perfect.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae3c4810534c67ca9e2640f1b7a645dfd0de416f325a433d4a5c1e30bc03040
+size 628

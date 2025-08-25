@@ -1,1 +1,3 @@
-Purple Rain is a great film if you are a 40-something music lover who partied to Prince music in the 1980s. The story is a much-used formula: Rising musical talent must overcome personal and professional hurdles to find his audience and self-respect. Prince is a bad actor, but his performance, especially of Purple Rain/I Would Die 4 U make it worth sitting through the film. He is himself and as a showman, as powerful on stage as Mick Jagger or Michael Jackson, circa Thriller. Apollonia Kotero, a former Prince protégé, is beautiful and shows some acting talent and chemistry with Prince, but her script doesn't let her far. Morris Day and other supporting actors provide comedic elements.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b331f607e9c7743afc2037e50d8441096b5457528d8b47592c1727c636a5b4af
+size 695

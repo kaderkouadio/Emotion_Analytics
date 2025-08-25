@@ -1,1 +1,3 @@
-This is the kind of film for a snowy Sunday afternoon when the rest of the world can go ahead with its own business as you descend into a big arm-chair and mellow for a couple of hours. Wonderful performances from Cher and Nicolas Cage (as always) gently row the plot along. There are no rapids to cross, no dangerous waters, just a warm and witty paddle through New York life at its best. A family film in every sense and one that deserves the praise it received.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a7f1f18d180c6914e3706088306612e8fa33ba4fcebfcb8f00f3283ef410d8
+size 464

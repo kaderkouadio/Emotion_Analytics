@@ -1,1 +1,3 @@
-...but memorable because it includes an actor I actually recognize! James Horan is, by these types of movies' standards, Lawrence Olivier. He's given some decent performances on stuff like Highlander and various Star Treks, so it's kind of amusing, if mildly depressing, watching him degrade himself here. Okay, yeah, there's a plot. Horan's character and his wife are fighting, he's having an affair with a movie reviewer while trying to do his "masterpiece" film, and their guest decides to enjoy the wonders of stripping. But watching Horan is really the only enjoyment to be found here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad06931dbfc2884e55efd48d4f29e7e8a45c6e9057e15e34c262bd243bd7f44a
+size 590

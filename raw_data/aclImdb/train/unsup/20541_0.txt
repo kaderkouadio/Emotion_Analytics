@@ -1,1 +1,3 @@
-It has struck me that despite the implausible pairing of Quincy with much younger women, the clashes with the management and the police, this show covered some pretty controversial topics for a 30 year old mainstream show:- * Teenage alcoholism * Elder abuse * Mental health issues * Legislation for lief jackets on plains * Drunk driving *Public health issues such as food contamination/pollution Yes it can be cheesy but I still find many of them watchable and find the range of issues covered impressive for the times. I also think it's quite cool that Mark was actually a technician not an actor who is now a leading DNA expert!
+version https://git-lfs.github.com/spec/v1
+oid sha256:253af7fceb0d49a8661b0cdc499caeaeb8707e1616cbedece44e9ce37f8e57d5
+size 632

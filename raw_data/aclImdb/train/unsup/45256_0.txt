@@ -1,1 +1,3 @@
-What is the definition of a gullible idiot? <br /><br />A: Anybody who buys the patronizingly glowing reviews posted above! <br /><br />In case you aren't aware, it has now become standard practice for individuals with a vested interest in low budget movies to talk them up on sites like this in the hope that the public will pay money to watch them at the cinema or on DVD.<br /><br />Ask yourself this: why would these people need to generate favorable publicity for a movie when a good movie will generate its own favorable publicity through word of mouth? <br /><br />The answer is obvious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d722d00176f61a96fd7ef890c9e3320514dc9b0fa1d4ea9974b1408cf01ec4f
+size 594

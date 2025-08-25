@@ -1,1 +1,3 @@
-I didn't rate this movie higher only because of what I considered flaws in pacing and continuity--as others have noted, the ages of the brothers and their physical dissimilarities seemed peculiar and it seemed to drag at times, but the actors were so good and played their roles with such intensity and skill, and the intelligence and insight of the movie was so sharp that I feel guilty for not giving it another star. It seems like my own problem rather than the film's.<br /><br />If you haven't seen this movie, you are missing one of the most powerful essays on the corrosive, self-destructive effects of lives addicted to criminality ever made, and if you have I'd be happy to hear you agree or disagree with my assessment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc159cf8d8b95b1df0aa1037f14f5360840fc1eb053677fd5ef1d22bdc05a19
+size 729

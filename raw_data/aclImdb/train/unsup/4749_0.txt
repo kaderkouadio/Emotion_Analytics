@@ -1,1 +1,3 @@
-There are no words to describe this movie. I found it hillarious and heartwarming. The two principle actors were great as their roles as Ben and Andie. Kate Hudson was great at driving Ben nuts. I laughed for days.<br /><br />I loved the soundtrack too. It had classics and modern day classics.<br /><br />I feel this movie will go down as a classic with such films as Pretty Woman and Dirty Dancing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b8f7ab675c6d8a66e798299abdbd8e36669b4ef261921d37ed34191e597064
+size 400

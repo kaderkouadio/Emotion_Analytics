@@ -1,1 +1,3 @@
-This movie is an incredible piece of work. It explores every nook and cranny of the human mind, focusing on the characters relationships with the people around them. Stellar performances all around. This one had me weeping for about half an hour straight. Spend some real time with this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e3781a6cc9b9026cefdc2b03fa704b7fafb9653903242b966d21ca4e4ac121
+size 291

@@ -1,1 +1,3 @@
-A highly stylized spin on the Biblical story of Lot--and I mean highly stylized, with a generous amount of avant garde tossed in. Lots of beautiful guys, but very sparse on gals. Supple and ethereal editing, yet put the entire thing together, and it doesn't make much sense at all. "Lot in Sodom" makes an Andy Warhol flick seem like a Doris Day feature. Unless you're wired radically different than most of us, I'd give this one a wide pass.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cab8a916317457318ae7c30033542b7ab4c2db467915d3e721fed5156306bd0
+size 442

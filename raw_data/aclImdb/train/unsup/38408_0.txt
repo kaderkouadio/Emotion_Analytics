@@ -1,1 +1,3 @@
-....other than that I found the film pretty dire. The connection between the two stories told in the film is nebulous to say the least. The story of the original murder is told in a very straight forward fashion, but what is going on in the modern story is most unclear. After watching the film, I honestly don't know if it is meant to be the case that the Sean Penn character had an affair with the Elizabeth Hurley Character, whether she was trying to seduce him, whether he and his wife are happy, and many more things that are hard to mention without creating spoilers.<br /><br />Watch something else!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e93b43718add638894b1939b145467bb9aa64ffbacae5b8b50ae7044a54353c
+size 606

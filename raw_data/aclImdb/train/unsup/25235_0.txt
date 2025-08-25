@@ -1,1 +1,3 @@
-Joan Crawford's first talkie reveals her to be irresistibly sexy and personable, but her role is hamstrung by the inane plot and contrived dialogue. Unfortunately, this is characteristic of most early MGM talkies. Ernest Torrence is notable as the guardian of Joan's character, but the rest of the cast, Robert Taylor included, is submerged in the froth of this lightweight comedy. See it for Joan, but don't say you weren't warned.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7a3353a650c0e94c0f16e246baf33f480276c5dfac60dac11890791586803d
+size 432

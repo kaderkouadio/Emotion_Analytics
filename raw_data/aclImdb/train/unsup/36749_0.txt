@@ -1,1 +1,3 @@
-Totally unconvincing fantasy/love story which tries to combine a theme of undying love with that of time travel and fails dismally.<br /><br />Steve Miner's film lacks depth in many areas. The premise was okay, but the plot was far too simple and badly needed more work. Characterisation was also poor, with each person behaving in ways that were completely unbelievable. Performances are weak, as is the comedy, in a movie which played a lot like a cross between "The Rocketeer" and "Somewhere in Time".<br /><br />With too many ridiculous situations and a hastily explained script, "Forever Young" remained too hokey to even make an effective love story.<br /><br />Monday, April 12, 1993 - Balwyn Cinema
+version https://git-lfs.github.com/spec/v1
+oid sha256:df67667ceb92644925d0e662f3649a146deaf9be5a7fb9cc4a2cabe5ebe09a46
+size 706

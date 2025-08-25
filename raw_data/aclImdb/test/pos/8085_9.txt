@@ -1,1 +1,3 @@
-Yes, I am sentimental, and yes, I love movies where kids are the better humans. True, Klatretøsen does have some logical or even plot shortcomings. These are more than compensated by the kids' great acting (Julias first movie role at all!) and the charm of a Dogma film (I liked this kind of cinematografic art long before the Dogma; ever since Herzog's 'Herz aus Glas'). Well, I cried through the last fifteen minutes which is a higher tear factor than bambi or Fly away home had for me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db94833cf8a37a93e248dd09ee3f0ae5cad2d58b627760d7492331245ba4c069
+size 489

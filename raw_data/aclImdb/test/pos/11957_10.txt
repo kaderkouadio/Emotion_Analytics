@@ -1,1 +1,3 @@
-John Cusack stars as Hoops in this silly little movie that has to be one of the best of the eighties teen comedies.Believe it or not Demi Moore is his co star...If you love the eighties,grew up around that time,or are an angst ridden teenage artist get ready to laugh.Wait until you see the cartoons..what a riot....
+version https://git-lfs.github.com/spec/v1
+oid sha256:a33f40e2befb66eb7fbdb0367d2193bb8c4ef91b53542715efad3e2d9f7bebe4
+size 316

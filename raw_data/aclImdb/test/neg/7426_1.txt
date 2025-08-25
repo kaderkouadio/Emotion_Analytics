@@ -1,1 +1,3 @@
-Nemesis 3 is the worst movie what I have ever seen!!! I think that Nemesis 3 was only 30 minutes long. And that movie was so boo-oo-ring. When that movie ends and I saw word: NEMESIS 4... I thought I will...NOT watch that movie never again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e78606ede3e0e19aa7a2630a0f6d43afed0e6b5ea501300bb3551947c873931
+size 240

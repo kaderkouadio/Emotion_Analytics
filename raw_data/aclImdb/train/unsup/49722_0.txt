@@ -1,1 +1,3 @@
-What is it about this turgid piece of rubbish that attracts such high praise? It's long, it's dull, and it goes absolutely nowhere. There are no spoilers in this review - there's nothing to spoil. The story, such as it is, centres on one dull American who meets another. To make this story more interesting, it's set in Tokyo, not the US. Whoopee! The characters are still dull, but they're in an interesting place. This could have converted the movie into something that had a pulse, but unfortunately Ms Coppola sucks the life out of one of the most vibrant cities in the world and reduces it to a caricature. Tokyo deserves better than this - and it's had Godzilla to contend with...
+version https://git-lfs.github.com/spec/v1
+oid sha256:0736dbd4ec9a405f2d3255ac693bcbe960c88a6b3414bf98bf90294bc296c269
+size 686

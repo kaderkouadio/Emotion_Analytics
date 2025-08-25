@@ -1,1 +1,3 @@
-In this ass kicking, mother eating high tech action film the former king of Hollywood once again gives a water proof performance in the role of Jack Carter. The film is a full blooded hit in the mix of excitement and sensibility and I wish and hope that everyone goes and sees it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b52a672653c02f1fbb1bcafca2921fb79dbb9c06e3e60365e18d9e09a1e00327
+size 280

@@ -1,1 +1,3 @@
-Probably neither. Difficult to understand all the negative reviews for this enjoyable and well acted movie. Domineering ambitious mothers do exist. Some of their sons, however good looking, are sometimes both stupid and heterosexual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e16031aea682475bb218c5032b8155d44c3f0797fdb1e0c0e1cf46ddd07ed1b
+size 233

@@ -1,1 +1,3 @@
-Atlantis: The Lost Empire is a better movie than I thought. I never thought this movie would lead to my expectations. True, this movie started slow, but as the movie wore on it became more to my liking. The story takes place in 1914 and is about a guy named Milo. Milo believes in the fabled Atlantis. Along with friends of his grandfather, he embarks on an amazing adventure of his own. Along the way, he must endear friendship, betrayal, trust, and more. The voice cast is great. They surely know how to carry movies with only their voice talent. The music is nothing special but likable anyway. The animation is not the best, but it is still good enough. Overall, this is a good family movie for all ages. I rate this movie 9/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd3e228aeae2205f29294a27b5142836c4684b43caa80c5045e94b440d1e9677
+size 732

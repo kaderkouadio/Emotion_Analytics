@@ -1,1 +1,3 @@
-It is such a great film that i have been watching it for over 9 times at the cinema at the strange film festival. She is so dynamic, beautiful and outrageous. I really do admirer her, she is my idol! I love you Annabel Chong!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2b70a5c59378b8fb92c51607be041c001f744f1188e5a2e9994d260a9e9f51
+size 225

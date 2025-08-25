@@ -1,1 +1,3 @@
-This movie is practically my all time favorite. At least favorite comedy. It is absolutely brilliant, with lovely actors hilarious script, everything really.<br /><br />Jez (Stuart Townsend) is very cute and just incredible. Georgie (Kate Beckinsale) is almost like I would have wanted to be if I could choose.<br /><br />I love this movie so much, and I laughed just as much when I'd seen it three times as after the first.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a731a3f4a7a88307de75200bc761bc47d47f9d2283989ead99601b1d1c7130d
+size 424

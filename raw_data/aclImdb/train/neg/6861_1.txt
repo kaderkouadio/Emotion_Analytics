@@ -1,1 +1,3 @@
-My first exposure to the Templarios & not a good one. I was excited to find this title among the offerings from Anchor Bay Video, which has brought us other cult classics such as "Spider Baby". The print quality is excellent, but this alone can't hide the fact that the film is deadly dull. There's a thrilling opening sequence in which the villagers exact a terrible revenge on the Templars (& set the whole thing in motion), but everything else in the movie is slow, ponderous &, ultimately, unfulfilling. Adding insult to injury: the movie was dubbed, not subtitled, as promised on the video jacket.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f591d5e973176347b7bec6f1ca089e15dc2c2790eaabdcaeee66dba1a109ca1
+size 602

@@ -1,1 +1,3 @@
-I have seen this film a number of times, most memorably at the Nederlands Film Museum, Vondelpark, Amsterdam, to live accompaniment. When seen with such accompaniment, the film is a delight to watch, with the film and music and live sound effects making a real evenings entertainment.<br /><br />A classic silent movie with all fun of the fairground. A fairy tale which is enriched by the style and presentation of the times.<br /><br />Fairbanks plays an excellent thief full of mischief and daring.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb6a3ea3d78241610bcd0a70f06436c8c737e696d5f59d5a3e43acd19dfb26d
+size 500

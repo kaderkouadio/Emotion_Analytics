@@ -1,1 +1,3 @@
-This movie is incredible.With great characters,specially the old swordsman that can fly in the shape of fireball and jump across the trees,this film tells a classic story of battle between good and forces of evil.The final showdown is specially breathtaking and the music score is kinda cool.<br /><br />Very,very recommendable.Not for the smallest children though.This one deserves a 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87b7fc85dfa77f7cbdb97bbf7e8341de5fa5ccad0e972fae546a9786fdb39b34
+size 388

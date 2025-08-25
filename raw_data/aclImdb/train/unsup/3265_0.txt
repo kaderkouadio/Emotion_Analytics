@@ -1,1 +1,3 @@
-This is an animation classic in Denmark! Unfortunately, it has been a while since it was shown in national television, but everybody my age (22) know it and love it. Just whistle the first few notes of the tune and people above twenty whistle along.<br /><br />This is a must see in Scandinavia. In Denmark a radioshow ran a campaign a couple of years ago so this movie could be shown in national tv.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73296456d9f039084ab387e2a7cb1dc00d6ad4d85a712d6294b4504a64ca127
+size 412

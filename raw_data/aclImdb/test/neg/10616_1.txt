@@ -1,1 +1,3 @@
-The worst movie i've seen in years (and i've seen a lot of movies). Acting is terrible, there is no plot whatsoever, there is no point whatsoever, i felt robbed after i rented this movie. they recommended it to me mind you! a disgrace for terrible movies! stay away from this terrible piece of c**p. save your money !
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b88f597a217be72b184f0dfb192d879397136fa58f9bd035e5f7a5303c1b46
+size 317

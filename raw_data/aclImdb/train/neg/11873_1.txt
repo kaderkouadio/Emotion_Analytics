@@ -1,1 +1,3 @@
-"Ally McBeal" was a decent enough show, but it was very overrated. The characters become boring after a while and the jokes begin to fall short.<br /><br />I think it chose an appropriate point in time to leave - it was starting to outstay its welcome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b035c1f0d40f60f3af374637a34d15f817c380f8323c03709a6c0669ce79b73
+size 252

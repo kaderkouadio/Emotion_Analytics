@@ -1,1 +1,3 @@
-Tim Curry is right up amongst the top brilliant actors, and I've always admired the acting of Daryl Hannah and Ray Walston as well. But their skills are completely hidden in this movie. They were all hopelessly miscast, and misdirected, with a childish script. A complete disaster all round. <br /><br />Gone is the clever, witty, black humour. Gone are the cleverly portrayed demented characters. Gone is the magic of the Addams superb support, understanding and love for each other. <br /><br />Watch the TV series over and over. See the first two Addams Family movies too, relishing every moment. And avoid this awful movie like the plague.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64a3c71eee97c800edef45088f6b6377b4569f40835251aa4ffe451c04c410a6
+size 643

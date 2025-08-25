@@ -1,1 +1,3 @@
-Just watched the film for the 3rd time and enjoyed Lindsay Crouse and the rest of the cast just as much as before. It just keeps getting better and better. You simply have to marvel at the carefully measured way of speech, the slow deliberate action, everything being exactly in place.<br /><br />Truly one of the great ones and definitely my all-time favourite!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4261f4a1b3af2b80d8cb287977c3e7346ab9821953a9302bf05366f463323e0
+size 364

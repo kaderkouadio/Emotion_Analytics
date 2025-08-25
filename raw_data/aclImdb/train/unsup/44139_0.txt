@@ -1,1 +1,3 @@
-I`ve never seen as many bad actors in a single movie, it seems that they have bought their acting diplomas - if they have one!Not even Brooke's beauty makes this movie tolerable. Unless you are a big fan of her, don't waste your precious time watching it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49d402d17030f739835ba0e92791cae46bbc9ff411a0e9bd9d731654daaa524e
+size 255

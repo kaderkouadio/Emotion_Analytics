@@ -1,1 +1,3 @@
-I have not seen and heard the original version.<br /><br />I am no Russian, but I am learning right now.<br /><br />I also have no preferences for Russia, Bulgaia, the US etc.<br /><br />But what I have to mention is:<br /><br />In the German synchronisation in the whole film all Russians speak with Russian accent. Americans talk "Hochdeutsch" (without accent)! I have never heard such a stupidity! Besides, this is boring.<br /><br />I hope the original is better.<br /><br />The rest is a simple thriller, not really good ideas. Like a cheap version of a James Bond film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3c016d041fa1f79a03beef62e34df1a97faede31f947f4c090cea702f580bb0
+size 575

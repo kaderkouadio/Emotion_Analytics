@@ -1,1 +1,3 @@
-This must be one of Shue's worst yet, While watching the film I was intrigued by the sheer mystery of the film. <br /><br />I had no idea or could have guessed what the outcome would be... <br /><br />And then a truly awful ending which ruined what originally had me gripped. <br /><br />I only voted four because of my original impression of the film(before Isaw the end) Avoid at all costs!!!!!<br /><br />Story outline - A dancer (shue) finds she is pregnant, her husband , an up and coming businessman moves them out to a big house to raise their child away from the city, While battling her own depression the lonely house starts to eat away at her , causing a large amount of paranoia, or is it?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebb88b636aa78316e50dc0f9c882fbfbaa1bbe2260866fa8101fbb8883f0e82e
+size 701

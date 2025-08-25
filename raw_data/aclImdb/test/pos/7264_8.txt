@@ -1,1 +1,3 @@
-If you liked Lock, Stock and Two Smoking Barrels, the chances are you'll like this, too. Although I guess a few of the British in-jokes (like calling two London characters Dixon and Winterburn, after Arsenal soccer players) may be lost on some, this is still cracking entertainment, which veritably pumps with vitality.<br /><br />Carlyle, Miller and Tyler are all excellent, bringing depth to their characters, and the interplay between the two protagonists is always well-judged. In fact Scott's direction is very assured, considering that this is his first feature film, and proves that he has his father's talent for putting us at ease in unfamiliar surroundings.<br /><br />Hell, I've convinced myself. I'm gonna see it again!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e3b9edd06e4e4a5e957405a70764b2e72b4aab61ddbd987ed35b9041bc9147
+size 731

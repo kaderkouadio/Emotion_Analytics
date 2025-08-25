@@ -1,1 +1,3 @@
-I don't know why some people have to look for deep "inner or psychological meanings in movies. Fortunately, I just love the movies and accept them for what they are - sheer entertainment! And if you are the same, then you need to see this one. Loretta Young, William Holden and Robert Mitchum are absolutely WONDERFUL in their roles. It is a great story with just the right hint of comedy and romance. So, if you love the movies, and love entertainment, you will truly enjoy this wonderful classic, "RACHEL AND THE STRANGER"!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dffef3581b8ea43ff1cc3647493c699ab4623a8d55f054f901674a60faf2494
+size 525

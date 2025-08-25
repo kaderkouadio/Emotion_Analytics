@@ -1,1 +1,3 @@
-In the long history of Godzilla films, Yonggary adds a small twist of alien invasion and tells the story of a monster, determined to destroy Earth. It's a low budget film with low budget digital effects and quite simple plot, reminding us B Movies in which actors play flat, monsters are unable to fright even the children, nobody cares about what it's going to happen next and everything is silly but entertaining.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b44b31070ac5276fced8cefdc2df7753ab76c8d9ecfeec95b3baa79297ffd429
+size 415

@@ -1,1 +1,3 @@
-This is a nice light comedy. If you enjoy the first two Dundee movies, especially the first, you'll probably enjoy this as well. This movie isn't one of the all time greats, but good for a fun evening. A cute movie which deserves a good notch or so above the overall rating here. As another review stated, just don't analyze it as if it were a serious movie and simply enjoy the fun. Personally I prefer this one over the second movie which I thought came off too heavy, took itself too seriously. <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed6c1b9145f97d4fc152aef3d8b0bc3328da3539d6733e429ec7fa7fc8c99dd
+size 510

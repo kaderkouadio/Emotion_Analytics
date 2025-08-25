@@ -1,1 +1,3 @@
-Angus is a film in which some might identify with...you have all those fun issues as a child..angus addresses a few with respect. I could watch this film over and over. The cast is great, not too over-acted ..just right. First time I ever wanted to hear what George C. Scott had to say..and now I must watch again to hear him again..Point is this movie is a gentle look at the life of a kid with a few problems that only others seem to have. Ohh..and great soundtrack also!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e6ee01a59f8abe4118c958ab058735ee2efe026ed2a16f80e64759f053f8727
+size 474

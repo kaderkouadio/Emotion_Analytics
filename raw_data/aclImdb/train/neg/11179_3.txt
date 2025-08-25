@@ -1,1 +1,3 @@
-Much as we all love Al Pacino, it was painful to see him in this movie. A publicity hack at the grubby ending of what seems to have once been a distinguished and idealistic career Pacino plays his part looking like an unmade bed and assaulting everyone with a totally bogus and inconsistent southern accent.<br /><br />The plot spools out this way and that with so many loose ends and improbabilities that the mind reels (and then retreats).<br /><br />Kim Basinger is there, not doing much. Her scenes with Pacino are flat and unconvincing. Hard to believe they meant a lot to each other. There's no energy there.<br /><br />Tea Leone, on the other hand, lit up the screen. She was electric and her scenes with Pacino were by far the most interesting in the movie, but not enough to save Al from embarrassment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef55f765ecd04b27e424408f44212687440d6dcba9fc454a4a381474dad14be6
+size 811

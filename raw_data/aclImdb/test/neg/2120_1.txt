@@ -1,1 +1,3 @@
-This film has the worst editing I've ever seen. This is yet another film to avoid at all costs unless you view it via MST3K. On their website, they wonder why the Coast Guard cooperated with this film. I mean, they let them use a helicopter!
+version https://git-lfs.github.com/spec/v1
+oid sha256:645bb8a1426c6ae72070b2f315ae340d8fbc3d4131087aaca3cb76c14a0c96a4
+size 241

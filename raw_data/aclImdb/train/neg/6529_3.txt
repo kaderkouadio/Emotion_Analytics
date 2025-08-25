@@ -1,1 +1,3 @@
-This movie is funny and painful at the same time. The "Cinemagic" almost gave me a seizure. Despite what they imply, "Cinemagic" is not some innovative technical procedure. It was "developed" as the result of an accident, and they used it because it disguised the fact that their "monsters" were so stupid-looking. I also don't think it's a coincidence that the writer is Sid "Pink".<br /><br />This movie is good for a laugh, if you are really looking for a movie made in 9 days on 200,000 dollars. It is entertaining; at least I can say that about it. The bat/rat/spider is the highlight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a40ce7b10a6206f96bfee1ec7780d9df30cf173db380ceda7f9733b6124cc18
+size 590

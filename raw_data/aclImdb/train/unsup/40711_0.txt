@@ -1,1 +1,3 @@
-Based on the descriptions appearing on the front and back cover of the movie case, one would expect this movie to chronicle the life and times of Blackbeard. Instead the movie focuses more on a fictional love story than the historical figure for which it is titled. <br /><br />Blackbeard's more notable conquests and actions are not even eluded to. One would think given 169 minutes they might have squeezed in a little something more. His reputation with no specifics is only referenced. <br /><br />This film unfortunately is primarily focused on a fictional love story. There are far more elements of fiction than fact in this film.<br /><br />In short, much like judging a book by it's cover, do not buy/view this movie based on it's box.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e893c8d07ff2517028d72bb6982b7bd67cbb4a14cb1019fa464dfa4a1fd8418
+size 743

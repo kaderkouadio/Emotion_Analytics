@@ -1,1 +1,3 @@
-Good documentary about the most famous concert of the decade. Many of the better bands, and some of the worst, were at this shindig where any and everything goes. Personally, I wouldn't have gone within 3 states of the place, but obviously not everyone is as crowd phobic as I. My main objection to the film was the camera zooming in on one band or musician to the exclusion of others. For instance, there was to much Richie Havens and not enough Country Joe. Way too much Jimi, and very little Carlos. It was well worth seeing, though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:057396b63654c474ce9e27d4d882b4265ea9ad5e6ed8fefd794804604701e994
+size 536

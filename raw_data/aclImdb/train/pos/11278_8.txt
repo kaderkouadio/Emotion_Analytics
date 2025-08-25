@@ -1,1 +1,3 @@
-The first of the Tarzan movies staring Johnny Weissmuller. The plot has already been summarized so i wont go into it again. Just know that The actors who play Jane and Tarzan were born for the role. If you have not seen this film and you only have the modern day Tarzan films as a reference..you are missing a Real treat. Doesn't matter how far we've come in movie making, makeup set designs...no one will ever play Tarzan as well as Johnny Weissmuller did. He was and is Tarzan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2552035669927b95f6bf7d312ad7fa8df35be7455be094af0b56d686f8cfe41
+size 479

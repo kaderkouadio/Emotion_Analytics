@@ -1,1 +1,3 @@
-This is a pretty good thriller at a nuclear power plant in southern California that was directed by James Bridges and stars Jane Fonda, Jack Lemmon and Michael Douglas. Fonda plays a TV reporter who wants to be an investigative journalist but is only allowed to be a TV reporter. Douglas is an independent cameraman and Lemmon is a supervisor at a nuclear plant. Fonda and Douglas are sent on a routine assignment at a nuclear power plant and an accident almost happens and they get it all on film. Everyone tries to cover it up except Fonda and Douglas, so Douglas steals the film. Lemmon starts to investigate and finds out the company cares more about profit then safety at the plant. It's a good movie with a pretty good ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e19a7c4cb5767f824c15ea2520a9d14a8c8488e672b433cdff87a1e162fea83
+size 732

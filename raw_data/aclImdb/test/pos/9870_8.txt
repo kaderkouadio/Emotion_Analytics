@@ -1,1 +1,3 @@
-...dislike this movie and everyone would understand why. The plot is poor, so is the acting. But in my opinion it is better than Halloween 5, although even this does not give many surprising moments. A few scenes are really well directed. But these few moments do not deliver the reason to rent it. I do not despise violence in movies, but H6 features extraordinary strong and bloody scenes which do not fit to the tradition of the Halloween-Movies. The most sucking aspect about H6 is the lack of tension. No comparison to the first masterpiece.<br /><br />Halloween 6 only gets 4 out of 10 stars from me. If you want, rent it. But don't expect a great horror-experience....<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:5429018cc8316ee19c16385c3dee1ac820946cc86fe00eba0ef985ffe2edebf8
+size 687

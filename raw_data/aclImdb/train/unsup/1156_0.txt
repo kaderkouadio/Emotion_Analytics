@@ -1,1 +1,3 @@
-The psychological complex about "the end" is still in full force. But the script is more rational and integral than Intruder. The mysterious set-up is a spin-off from Lost Highway. Pic's strength is setting the action in Macao in turbulent times (thus setting it up as a metaphor of Hongkong), and giving full vent to Wai Ka-fai's pessimistic world view of inexorable doom. Yau Tat-chi shows impressive improvement with images: the confrontation in the cell, the chase at the pier and the duel in the hall of mirrors are all totally self-sufficient set pieces. A director to watch out for.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:16e8abfbbd3c72f627c722c34713324beeb8b52f672927cb92a560bde2d6fb5d
+size 601

@@ -1,1 +1,3 @@
-This is the best of Mike Myers's films to date. I know that it's not the most popular but it represents the intelligent humor that Myers is capable of but chooses not to explore for apparent commercial reasons. It is a pity that SNL's "movie stars" have all become "Sandlered" by releasing teen targeted movies with few genuinely funny moments. I only hope that with future success Mike Myers will take over Woody Allen's throne. Hollywood could do worse than release films with integrity by artists whose following grows yearly rather than the current dustbin classics of late. An artist is young only once; but can remain immature indefinitely.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f55faf8e3957fab73c89800d9cd8b7f366f56178e8f36045ca09f17a1a3fd0b
+size 646

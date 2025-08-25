@@ -1,1 +1,3 @@
-In this film, a town is attacked by deadly killer bees after a truck accident caused them to be released. So, it's up to the the town sheriff to convince everybody that they will have to leave before the bees attacked. Pretty nice action, especially the scene at the Honey Festival (how appropriate to name a festival that when everybody was about to be overwhelmed with killer bees). That scene is probably the most action-packed and suspense filled int he movie. But everything else felt like a bee stung. The acting was cheesy and lame, the special effects were unbelievable and the ending (spoiler ahead) was disappointing-rushed through and undramatic. Above all a pretty predictable film, who no plot twits.<br /><br />So, bee-careful next time should you ever go to a "Honey Festival" in the future.<br /><br />Grade D+
+version https://git-lfs.github.com/spec/v1
+oid sha256:10f1717830cebdeb1cc762f46958dfaf6dbc66b8c5ade751dada8239a46363c3
+size 826

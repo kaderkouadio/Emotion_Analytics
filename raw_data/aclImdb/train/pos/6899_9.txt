@@ -1,1 +1,3 @@
-The superb star quality of Gerard Philipe, who died way too young, leaps from the screen in this witty, funny, sly swashbuckling comedy with plenty of sword fencing and knockabout antics. Charmingly loopy in its' storytelling, impossible to resist. A sweet romantic comedy with a very young Gina Lollobrigida as the love interest. A movie one will remember with great affection.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aef207ad189512bbe891edea0de05a9549618df581bc75b6b282f0ffc171831
+size 378

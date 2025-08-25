@@ -1,1 +1,3 @@
-Excellent Piece of work!<br /><br />I am not a surfer nor a skate board fan, but work this good about sorting sock drawers would have been riveting. A must see!<br /><br />There is a lot to enjoy here. Excellent Visuals. Great sound track mix. Huge body of documentary work both pictures and film.<br /><br />The life work and love of the subject is captivating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81875649830cb01b85d8bf3911bd94621ad615ecab4975290caea3bf15a0908a
+size 362

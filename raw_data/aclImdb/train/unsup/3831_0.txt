@@ -1,1 +1,3 @@
-Swarms of mutant grasshoppers crack windows. Sometimes, sometimes not.<br /><br />Swarms of mutant grasshoppers threaten to smother the children of *coughs* plot elements.<br /><br />Swarms of mutant grasshoppers blot out the sun and threaten all life on earth.<br /><br />All their mutant billions are miraculously killed in a few seconds by fiddling the power lines of the Midwest.<br /><br />It is difficult to describe the jaw-dropping awfulness of Locusts nor is there any point in attempting the job. Gotta be seen. It is the Plan 9 of the current generation and is very highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a719aba5397eb980a0a51325587f307de87982e93b6dd952305c88672aa50ea
+size 596

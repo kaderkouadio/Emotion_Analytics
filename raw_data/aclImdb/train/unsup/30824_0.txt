@@ -1,1 +1,3 @@
-This movie is absolutely stupid and wonderful at the same time. It's an Airplane-type movie. It does all the silly jokes, visual and verbal.<br /><br />The star, Gary Kroeger, slips into a fair John Wayne impersonation throughout the movie. Marc Singer as the German Von Kraut, is fantastic, and does a terrific accent.<br /><br />If you enjoy this type of movie, find it, watch it, and enjoy. It's great.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6278a23432e01632c026778d714bcc02c5079775477f4fca2d4415b449537b0d
+size 405

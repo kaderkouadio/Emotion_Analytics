@@ -1,1 +1,3 @@
-This is a film of immense appeal to a relatively well-defined group (of which I am not a part). I went to a preview of this movie not knowing what to expect - I ultimately found it disappointing. The history of a dreadfully dysfunctional (oftentimes downright "twisted") Hungarian Jewish family is not my cup of tea. An epic saga like this should really provide its viewers with something more in the end. Ultimately, pictures such as this are about the human condition - this picture cast almost no new light on any of its more meaningful facets.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc5c6a3c34930bc831437b0af55f058a8f9fc2d6a5b2a84c79b7776415d1a4c
+size 547

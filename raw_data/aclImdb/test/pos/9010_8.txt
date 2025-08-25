@@ -1,1 +1,3 @@
-I just love this show.It's so funny and cool.Kuzco is such a hilarious and interesting character, I love him.He's the thing that makes this show what it is, although Kronk and Yzma are so funny and charming too.Everything about this show is great for me, because it always manages to make me laugh, no matter if it's only once an episode.It's just so funny and all the characters are so lovable and cool, it makes the show worth the time to watch, unlike some crap on Disney channel.Give this show a try next time it's on, if you've seen the movie, and even if you haven't seen the movie, you'll find this to be very enjoyable anyway, so go ahead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c22c131592ce50f3f6611e21c0318fda2d99e0df4a81077b2b88a0eb0a80c189
+size 647

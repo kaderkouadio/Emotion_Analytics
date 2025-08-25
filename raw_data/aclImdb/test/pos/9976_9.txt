@@ -1,1 +1,3 @@
-When you think of golf movies, you think of Caddyshack, but what if there are kids around? Go right to this movie! Disney uses is proved formula to make a movie that the adults and the kids will enjoy. The acting in this movie, in my opinion, is quite good and the leading cast, for the most part, is very young! This movie is also suprsingly filmed very well and unique, seeing all the angles of the golf game. I think this movie should be up for some academy awards for film editing or something like that because the entire flow of the film is top notch. Though the ending might be a little predictable, the movie does well on its own! It also shows that you do not need swearing, nudity, or violence to make a great golf movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6874000becff5f02f095428d0d867f78c349a75d2e01e829bf19e5579ee0091f
+size 731

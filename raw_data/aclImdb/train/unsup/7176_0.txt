@@ -1,1 +1,3 @@
-I bought this movie a few months ago in NYC from Carousel Films and couldn't wait to watch it. It took quite a bit of searching various message boards to find it. I had the book as a child and tried looking for it with no luck for years. This is another film, like Hand in Hand and Fatty and Skinny that has a devout following of forty year olds who have remembered this film and held it dear.<br /><br />The gritty black and white Manhattan street scenes are great. It's a New York City 1960's true to life movie. School looks just like you'd remember. Desks, windows, halls.<br /><br />It's got a nice mix of people. Highly recommend it if you want to purchase it. Finally found the book about 2 years ago on-line and it is a great companion to the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:644d2d4e3c7ec6267c68b5948861a96c1ee75aa712b93339fb218b707996d210
+size 756

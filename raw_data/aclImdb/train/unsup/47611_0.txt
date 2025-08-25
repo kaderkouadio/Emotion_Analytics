@@ -1,1 +1,3 @@
-I bought this movie for 5 bucks at a pawn shop.. I wasted my cash! From the looks of the box I was expecting a little gore..I guess I was expecting a horror movie. Nowhere near it. The goriest thing was a "lady of the night" with rotten teeth...watching Ben Kingsley kiss her made me feel ill. Not to mention that this movie just dragged..I thought it would never end... Can't believe I passed up Plan Night from Outer Space for this!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d98722345afe0e057b3d8a15794bb195baca87452f5641f6a2258a6e0a28663d
+size 434

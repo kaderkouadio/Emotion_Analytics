@@ -1,1 +1,3 @@
-This picture is nothing more than a dose of mindless fun, with some creative killings (have you ever seen an umbrella impaling before?) and some funny moments of self-reflection (the scene in the movie theater is a standout). Because of the extensive flashbacks in the beginning of the movie, in which footage from the first film is used, those who have seen the original recently will probably hate this; for the rest of us the flashbacks are almost a bonus: essentially you get to see two movies for the price of one. (**)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fff4e4162ed276aa79f34fe98c427c4e178c91c67e784f08734456c8dcbc645
+size 524

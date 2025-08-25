@@ -1,1 +1,3 @@
-This was a truly creepy but also touching tale with wonderful acting by Lon Chaney, Sr. It was also strange to see the very young Joan Crawford before she was transformed into the sleek creature she later became, and frankly, I liked her better here. The film bore thematic and "mood" resemblances to Browning's later "Freaks", also set in a circus milieu. The film was very suspenseful and I really didn't know what would happen at the end. I also liked that you could often read the character's lips and so actually got more "dialogue" than was printed on the title cards. When I described the plot twists to a friend, I also compared it to a Poe short story (not a specific one-just in mood). One of the best and most sophisticated silent films I have seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7d6e10b2491eaf8e6920f715b9060067b688eeb689f1cc9ef65be496c8995e
+size 760

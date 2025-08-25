@@ -1,1 +1,3 @@
-Wow... this is the kind of movie that makes you wonder who's idea this was and what soup kitchen are they eating at now. To say this was bad is an insult to the bad movies we all know and love.<br /><br />When I saw Guttenberg's name in the TV guide I figured it would be a spoof... maybe it should have been. Could have made for a better movie.<br /><br />Look for the scene where they are in an airplane in mid flight with the door open and there is no wind what so ever. They could have sprung for a fan at least.<br /><br />Look for several Canadian & c-list actors in the movie. This is the kind of movie that litters the b-rate cable stations you never watch except on a rainy Sunday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa7bbde24eab4416ab8f2e8bb0b036719145b41fe5fc95c3f45d4719bc6008e5
+size 690

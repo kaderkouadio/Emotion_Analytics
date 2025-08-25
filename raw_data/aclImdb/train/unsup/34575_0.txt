@@ -1,1 +1,3 @@
-Heat Wave, TNT's movie about the 1965 Watts Riots is a far better film than Riot and handles many similar themes far more successfully. Riot, on the hand does a lot of yakking but little is really talked about. In trying to say "everything" about the causes and concerns that lead to the L.A. Riots, it ends up becoming totally unfocused and rather tedious. This is too important a subject to be given such short shrift and lack of real insight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82c557be853c988c665ea0d481069d3899a0d3194a37d8d994e959959fdf978
+size 445

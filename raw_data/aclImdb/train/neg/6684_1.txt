@@ -1,1 +1,3 @@
-This should be re-titled "The Curious Case Of The Unscrupulous Filmmakers Who Misrepresented A Non-horror Snorer As A Shock Film." It's one long, boring tale of a fraternity hazing, a gag so transparent that even Flounder from Delta House could see through it. Jeff East, an actor in the dues-paying stage, can be forgiven for taking any work he could get. The same can't be said for Charles Martin Smith, who formerly acted for such cinematic heavyweights as George Lucas and Sam Peckinpah. Once available on tape but, thankfully, not out on DVD. Misrepresented garbage like this belongs in a landfill and nowhere else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6af2cd5947639e45664937a32bbfd8b3eeb79750f5e50ecfd1b6864e646bc0
+size 620

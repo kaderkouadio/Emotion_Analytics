@@ -1,1 +1,3 @@
-This documentary is a history of cinematography, illustrating major advances and highlighting the work of major cinematographic innovators. Although there are snippets of on-screen interviews, the bulk of the film consists of (glorious) film clips illustrating many of the high points in the history of cinematography.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adc07e908486d0763d68613b0d469940a5c8829f67aa2552423bf8a38b6cfc36
+size 318

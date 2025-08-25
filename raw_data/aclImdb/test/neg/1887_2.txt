@@ -1,1 +1,3 @@
-I watched this film when I was a kid, and I thought it was terrible then. Now that I'm older, I found it just as terrible. Universal could have done better than this. They merely decided to make the most money they could out of using all their monsters at once. To me, that was a cheap shot. These characters were capable of holding their own in their own movies, and the choice of actors was deplorable. Dracula needed to be Bela Lugosi, Frankenstein's, monster needed to be Karloff.<br /><br />In my mind, it was the Disney squalid sequel sequence done decades ago, and it was not appreciated. Umiversal started out with something great and original, and then thought they could pander to the masses with the schlock which is extremely evident in this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c79212337e476ca039011e2a22f47d4f578b42da7a0c2fb362114944cdf3f9ef
+size 759

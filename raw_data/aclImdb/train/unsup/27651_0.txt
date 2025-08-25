@@ -1,1 +1,3 @@
-I could not stand more than 20 minutes of this travesty. The movie reminded me of a high school modern dance recital. After watching the movie for five minutes you realize that the dancers, yes dancers, go through the same movements over and over again. They aren't even good dancers. There are no actors, there is a voice-over telling what is going on as the `dancers' writhe. Sophocle's poetry is jettisoned for the voice over. Maybe the movie gets better, but I could not stand any more.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7840689d7a75e614495c31bf5465228991683884101a877f21f497c13c3f7b9
+size 490

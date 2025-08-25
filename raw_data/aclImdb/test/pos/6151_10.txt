@@ -1,1 +1,3 @@
-This is an excellent film. The aerial scenes were well-done. It was also the right balance of war and love. The film gives meaning to the phrase, "Never in the history of human conflict has so much been owed by so many to so few."
+version https://git-lfs.github.com/spec/v1
+oid sha256:e77a46fcb9b87a4884c30f8d043d85292f4543a2f3d31b6083561a6dbe25f25a
+size 230

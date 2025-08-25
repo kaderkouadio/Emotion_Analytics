@@ -1,1 +1,3 @@
-I've seen this film this evening with my wife and I'm very perplexed about it. I think John Landis is near a genius - The Blues Brothers are there to show it - but this is a tired film with some great gags. The cast of characters is very good and Dan (Aykroyd, obviously) play a splendid cameo but I'm not satisfied at all. I understand that directors are not always thinking about a masterpiece but some more diligence would be appreciated. However - Landis is Landis - your money and your time will be well spent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86479038da0ae2458aa76b4375fa764ef8ecca6e3a5e2c906eb50401fecb3173
+size 515

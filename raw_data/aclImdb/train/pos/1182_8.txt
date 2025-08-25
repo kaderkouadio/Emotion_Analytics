@@ -1,1 +1,3 @@
-I hope she can keep acting and directing. She's surely up to the task and could easily develop that visionary streak into a long career of unconventional and rare works of art. Her work has a rare kind of generosity and her timing is spot-on! Oy I'm kvell
+version https://git-lfs.github.com/spec/v1
+oid sha256:4addecb53f388c202e1054c31b0c99a8f6f9b7e22fd556d71f1b9897a0f3e068
+size 255

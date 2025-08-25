@@ -1,1 +1,3 @@
-I guess the producers must have thought that the success of "Four Weddings and a Funeral" would make any film with Hugh Grant a goose with golden eggs. Well duh, this film is simply a waste of pellicule. The humour makes me cringe, especially the little number Robin Williams shows us with the gyneacological table. Tom Arnold was terrible too, a typical American stereotype. Anyone who can watch the scene with the deliveries without whimpering deserves a medal of honour.<br /><br />I doesn't even deserve the 1 out of 10 I gave it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8518259e05757b51498f88f5e551f6e767adf24f602fd7c945ba5ee2217d7fa
+size 534

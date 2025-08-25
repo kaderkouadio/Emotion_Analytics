@@ -1,1 +1,3 @@
-Pure crap, decent cinematography... I liked some of colors. Other than that, this was one of the worst movies I ever saw. Boring, lifeless, not once did I find myself interested in any of the characters. I kept waiting for a real plot to form and the movie to pick up the pace. Nothing ever happened! I think they spent too much time working on hair and wardrobe that they forgot there was a movie being made at the time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f117b8fa6cfd05ffb633636949b8b9df1aa8b93aa7b044c423b3583c3e8c44
+size 421

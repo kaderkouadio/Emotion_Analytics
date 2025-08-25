@@ -1,1 +1,3 @@
-This film was basically Velvet Goldmine if the writers of party of five got a hold of it and made it a t.v. movie. The film lacks what Velvet Goldmine had which was good acting, writing, and basically everything else. The film had some of the worst writing I've seen since Wild Wild West. It definitely needed to be interesting. I know vh 1 has become a household name for their behind the music shows. which are a lot better than all this which would have worked if it was a behind the music episode but didn't and feel flat on it's face.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b8eee366d16646067bd01a4838b9fc208fb003d243852aa68c1e347f33b9e9
+size 539

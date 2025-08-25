@@ -1,1 +1,3 @@
-Nice quirky film that plays on different aspects of social and cultural stereotypes. A refreshing look at the passions that move the human heart, with a few interesting, if somewhat predictable, plot twists and a surprising ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c15d100a28154ce6c284a81595e523d18fd571be1c8a80a679f4a0843e2fab
+size 231

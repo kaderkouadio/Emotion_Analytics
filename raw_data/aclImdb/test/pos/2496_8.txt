@@ -1,1 +1,3 @@
-This movie was sweet. The main character lady was sensitive to 2 different men who wanted her. She seemed not a character at all but a real person who had made some mistakes but was trying to set things right. I liked the movie a lot. Even the older ladies who were lesbian didn't irritate me too much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb98d9769bde5da1f5f3b69b9b08c00eb81e31398ed0367d427e9b6cc742ea6d
+size 302

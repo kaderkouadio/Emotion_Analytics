@@ -1,1 +1,3 @@
-This film bored me to death and was very unrealistic. Thousands upon Thousands of Zulu's attacked and outnumbered all the leading characters, but once Tyrone Power(Paul Van Riebeck),"Blood & Sand",'41 appeared, the Zulu's all gave up and went home. It is a shame that such great actors as Susan Hayward (Katie O'Neill),"I'll Cry Tomorrow",'55, Richard Egan,(Kurt Hout),"A Summer Place",'59, Agnes Moorehead (Aggie),"The Conqueror",'56 and Rita Morena(Julia),"West Side Story",'61 had to waste their time performing in this GREAT WHITE ELEPHANT ! They all must have been offered a very large salary!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a6e8de4d595c9a746b20f450eb9fb3fd6a8a582230a4ad5f1aa62f74ea83a8
+size 598

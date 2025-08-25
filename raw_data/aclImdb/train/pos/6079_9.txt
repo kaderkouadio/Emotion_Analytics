@@ -1,1 +1,3 @@
-shakespeare's plays have a way of transcending time. The language somehow breaks the time barrier. but perhaps it is the actors who really do that.<br /><br />after the disappointment in Romeo and Juliet (the version with Claire Danes and Leonardo DiCaprio), was hesitant take on another modern rendition of Shakespeare. To my surprise Othello was great!<br /><br />Iago's character was played so well by the Kenneth fellow! even thoough Iago is really evil and despicable, the character was played so well that it does what shakespeare intended for the charater to be, a pleasure for the audience to hate. i have to say that fishburne's performance here was really good as well.<br /><br />i recommend this for shakespeare scholars and lazy students (who refuse to read the book) alike.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd170d5e210577358a6fbb57460917ac61c94f85a3287f2e3659f018732d4597
+size 787

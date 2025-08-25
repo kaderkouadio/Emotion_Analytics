@@ -1,1 +1,3 @@
-My God, could this movie get ANY MORE bleeding heart? Wonderful - a story of illegal aliens who sneak into the US and then complain that they're not getting enough from their illegally held jobs. Argh...<br /><br />Sorry, Ken. It didn't work for me with working class Brits in _Riff Raff_. It's even worse when you try to do the same movie again in the US.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9f7d182aebf83bdf2bba72a551ebad25beb2ebf9b12336a72ac54a4e39cc404
+size 368

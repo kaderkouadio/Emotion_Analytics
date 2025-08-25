@@ -1,1 +1,3 @@
-Saw this film on TV. Came in about half-way. I met Juan and Virginia Chacon when I was organizing steelworkers in the southwest. I also met Francis Williams (no relation) an African-American cultural worker who played an important role in developing the script. yes, the movie is didactic and preachy--but so is Salt of the Earth. Unless you are Pauline Kael, you can't help but be moved by it.<br /><br />I show Salt of the Earth to my students and I wonder how I can get a copy of this film to show them as well?<br /><br />James H. Williams, PhD Department of Social Work Savannah State University Savannah, GA 31404
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd86d72a9e2aa14e31d1d963bbcf5345f595d8f1b6ca668d946bc4c35341b301
+size 619

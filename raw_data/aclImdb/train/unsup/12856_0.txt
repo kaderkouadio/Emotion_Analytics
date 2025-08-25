@@ -1,1 +1,3 @@
-Four Weddings and a Funeral meets the Duex ex machine monster. And wins! The first half of the film moves along nicely with warm characters and fairly hot action - but definitely with good taste. But in spite of a numerous the plot twists that are transparently inserted in the second half of the movie to move the viewers emotions along to a happy ending, the warm and clever performance by the female lead carries the day. Marguerite Moreau as the luckless and sometimes feckless and always sexy Jamie Harris makes it all worthwhile. While things should have been wrapped up a couple of scenes earlier, no real harm was done. Just watch it for the joy of her performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f721ede272a104531aefe0369f1e47c1b0a3876eebb527e0f8fd2af48e616d46
+size 673

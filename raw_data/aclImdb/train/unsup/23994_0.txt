@@ -1,1 +1,3 @@
-Unbelieveably realistic. I had the same students in my school and they did nothing for four years except stand beside me at graduation. I have seen many teachers leave the profession under these same circumstances. But every one of them knows that in some way, large or small, a person has been helped because of them. Frankie Talbot was well played. The story itself was great. Hats off to all involved!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a7497f0a5a8178cca8e1df7d74316f14682660aaf6d03b178cdf9500a68c33
+size 404

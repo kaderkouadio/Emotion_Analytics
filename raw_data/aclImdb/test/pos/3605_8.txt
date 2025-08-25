@@ -1,1 +1,3 @@
-Captain Corelli's Mandolin is no Oscar contender but it was pretty good. I have to admit Ms Cruz can really act. She puts on a very good performance. In fact she our does her boyfriend Tom in drama. John Hurt was great as usual. Nicholas Cage seemed to be enjoying himself. I bet he felt he was going back to his roots as an Italian. However, I did learn something. One more chapter in Horrors of Nazi Germany the many Italian soliders killed during the period of there surrender to the allies and Germany's eventual surrender.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d85cf511f9f99f323683c8db87a57b2faea72f71eab1cbe435d3db8d8ee1b629
+size 527

@@ -1,1 +1,3 @@
-Poor and lazy attempt at getting some aboriginal actors and history on to the cinema screens. Sadly (although there's plenty of funding for this sort of thing) though, it fails on many many levels. One wonders if the funding was just too easy to get.<br /><br />All the white actors are terrible, the attempt to create 'atmosphere' through use of silence and absence of dialogue is just boring, cinematography is ordinary, and uh it just seems like a lazy filmmakers idea of a quick buck and a bit of PC egotism.<br /><br />Much as I'd like to see some good oz films featuring aboriginals or stories about them, this isn't one. It's just embarrassingly bad and you'll find yourself fast-forwarding.<br /><br />zzzzzzzzzzz
+version https://git-lfs.github.com/spec/v1
+oid sha256:db81643b87c76e64fe37d92d16e3a83f235f46c78d7811e2deddf565c5af0a97
+size 721

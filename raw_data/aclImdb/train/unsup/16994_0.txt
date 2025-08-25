@@ -1,1 +1,3 @@
-If you're ready for a McGyver episode, then this is what you should watch. This movie is terrible from beginning to end. Let's not even mention the cheap "Top Gun" soundalike score in the background... One could expect nice cinematography from John Woo but not even... Samantha Mathis' acting was not credible one bit and God knows what Christian Slater was doing there... Fortunately there are real actors such as Chuck Norris and Jean-Claude Van Damme for this kind of movie. :-)<br /><br />3 out of 10 (for John Travolta's acting and some (very few) creative typical John Woo action scenes) - but maybe is that too much...
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9a46e4f2d6ba0a02d70659a9a85f2e287ab909c15b1164fd4ac943bc3fd54c
+size 625

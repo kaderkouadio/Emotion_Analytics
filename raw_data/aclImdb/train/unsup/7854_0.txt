@@ -1,1 +1,3 @@
-Lesson one: Let them see this movie. This is not the comedy that the trailer portrayed but is more of a light humored Poltergiest (which was also rated PG). I enjoyed it myself of course but would probably not take kids under 9 or 10. Eddie Murphey is still funny but I still liked him better in his R rated films. The special effects were pretty good but nothing just outstanding. This film was not bad considering it was based on an amusment park ride. I would go watch this again and I probably will own it. It was fun entertainment for almost the whole family. Check it out if you get a chance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b93f0f21d2e864d459d68c26aaaea9d355cfab641cc3afef17dbfcb50ba51ad3
+size 598

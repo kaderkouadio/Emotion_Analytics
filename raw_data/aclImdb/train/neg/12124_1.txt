@@ -1,1 +1,3 @@
-Any movie that portrays the hard-working responsible husband as the person who has to change because of bored, cheating wife is an obvious result of 8 years of the Clinton era.<br /><br />It's little wonder that this movie was written by a woman.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e146615ba361b1401b6c046ebcc5f7ff32655338f7a969bd811a8eb6fcc841f
+size 246

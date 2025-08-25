@@ -1,1 +1,3 @@
-That's a problem I have with movies that come on television, when there is nothing else to watch. I somehow get sucked into really bad movies.<br /><br />But this one was fairly watchable. The concept of being the only ones left on Earth after a comet, then finding out zombies are around makes me laugh. And that's why I gave this movie a 2, instead of 1. The story was stupid...but in that way that makes you laugh (too stupid >funny).<br /><br />I think I only watched it because the guy from Star Trek was the lead. I was surprised to see him as a younger guy...and he was the only funny character anyway.
+version https://git-lfs.github.com/spec/v1
+oid sha256:504a4142f9983914d9d96add1e35c2f74b25df817f8ba3395a2e16999d8b6283
+size 609

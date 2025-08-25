@@ -1,1 +1,3 @@
-I was pleased with the cast of reputable players. The story is one of standing up for a cause, even if you are at personal risk in doing so. In a time where violence and pain are often in the movie forefront, this movie focuses on the old fashioned good cop. Although similar plots have been done repeatedly, these guys pull it off well. Kick back and enjoy. Dennehy is a master of taking over a movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:657cd4f94f3eb98b81ddffe7c35a09d9ec1c1ebb2e9c56f60168ccfe1b30d964
+size 402

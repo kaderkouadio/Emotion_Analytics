@@ -1,1 +1,3 @@
-I had before a feeling of mislike for all Russian films. But, after seeing this film I haven´t. This is a unique masterpiece made by the best director ever lived in the USSR. He knows the art of film making, and can use it very well. If you find this movie: buy or copy it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc0a3d6d1973c2f23bb3320ac05604b6f0c292fc2f86aee4780711258f05e2a
+size 274

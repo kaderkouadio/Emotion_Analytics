@@ -1,1 +1,3 @@
-"Nonetheless, I find KILLING dull, boring, and unworthy of my time." My goodness, well isn't this just the most blowhard-ish statement on the boards for this movie! "Unworthy of my time". Who are you, Louis XIV, who announced menacingly, "I nearly waited" when his lackey came running up exactly at the prescribed time?!?! LOL It's a movie- it was obviously worth enough time to sit down and write a review, and even include the equally blowhard-ish device of giving your review a name: "Ted's review: C-". I suppose some people like talking about themselves in the 3rd person, like critics on a show who use it as a device, but here?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bde15b2430b8e3335b8eaf1b7a4978af3436a7a8b22e1e9e6c14994ca3474bd6
+size 634

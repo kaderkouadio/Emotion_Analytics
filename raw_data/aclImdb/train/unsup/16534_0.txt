@@ -1,1 +1,3 @@
-Even for pre-Hayes code cinema, this one is particularly smutty. Not to say there's nudity or whatever, but the sexuality positively drips off the screen, and very little is said which doesn't have to do with intercourse of one sort or another. They probably had fun making this one. Highly recommended if you can find it. Thanks to the American Film Institute for their preserving this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e033964c071352970ae1da197dd4a461403ca8cf700db73e3adde67ebe8ae8b
+size 392

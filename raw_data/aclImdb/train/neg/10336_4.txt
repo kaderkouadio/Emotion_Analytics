@@ -1,1 +1,3 @@
-I was really disappointed in this movie. Those that voted this thing a 10 have a screw lose. The acting was ok, kinda wooden and cardboard. The ending was sorry. I just didn't care for this at all.<br /><br />No way could I recommend this mess.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52a86e2d91e1eb1508b648e100ad3625b9bfa58bf452a862a7aef1d337118e2a
+size 244

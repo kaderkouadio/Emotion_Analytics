@@ -1,1 +1,3 @@
-I wasn't too sure what to expect of this Showtime original when I tuned into it. Listed many well known names and appeared promising. Three different story lines tied together with a constant location over several decades. Sounds OK.<br /><br />That's just what it was , an OK film with an important message. I agreed with the message whole heatedly, just wish the film would have had a little stronger writing. Some parts were good, many too predictable. But I won't spoil any surprises, you'll have to watch and see if you agree.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a489730264d0cd6ce79e0d1dc609fbb96a5ff13d479c8a498b01fda8057a757
+size 531

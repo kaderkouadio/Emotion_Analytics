@@ -1,1 +1,3 @@
-This is a novelty in Danish film. The mood is not unlike that of Blinkende Lygter, also by Anders Thomas Jensen, but with a novel touch. One difference is fewer characters, leaving much more room for them to be dwelled into. And what characters?! The two butchers are perfect. Mads Mikkelsen is a dominating, deranged parody and Nikolaj Lie Kaas an indifferent looser with a twin brother more or less an unholy pairing of the two.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a9334595999f457bcecfa55ffccef72e75851d290cf1630c67f7857a64a8e23
+size 430

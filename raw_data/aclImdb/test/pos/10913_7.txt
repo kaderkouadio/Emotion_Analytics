@@ -1,1 +1,3 @@
-The funniest performance was by Shalom Harlow, as Matt Dillon's supermodel girlfriend. She was more interesting to me than all the lead actors. This movie got it all wrong; even the most dependable actress of the century, Joan Cusask, was not able to rise about the ridiculousness of the plot. I did enjoy hearing "Macho Man" by the Village People over the closing credits. The rest of the movie might have been tolerable if it were to rise to that level of energy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d49cd2ca0611a0da83607a7d2e637048a99538074e0f9545f48c9823fd2fa762
+size 465

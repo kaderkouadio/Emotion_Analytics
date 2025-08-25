@@ -1,1 +1,3 @@
-Play it again Sam (1972) Dir: Herbert Ross With Diane Keaton's second feature, she begins her frequent onscreen collaboration with her occasional offscreen lover, Woody Allen. Diane introduces her classic neurotic New York City persona in this movie, playing a married friend of Woody's. As she tries to help him get over his divorce, Woody is counseled on how to be cool by the ghost of Humphrey Bogart. A classic Woody/Diane pairing and another hit for Diane. Screenplay by Woody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64dad3cd17dc3a9600b546af21fe2498717eaf37f75d5e41b60c538bd239c0f4
+size 482

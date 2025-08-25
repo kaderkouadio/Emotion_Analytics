@@ -1,1 +1,3 @@
-A beautifully constructed and brilliantly acted comedy. There is not a person in the cast who does not acquit himself (or herself) with hilarious distinction. However, the real star of the film is the unseen director, Frank Oz, who brings all the madcap sensibility and wit to this farce that he brought to Miss Piggy's encounters with Kermit the frog. This is a not -to-be-missed film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b4b3bc3032be64ef61fce8f6ed7092aae95b9e6c85ab36646cd3953fb337af
+size 386

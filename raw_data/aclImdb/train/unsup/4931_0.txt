@@ -1,1 +1,3 @@
-Wonderful series - I caught it on PBS about 15 years ago and was waiting for it to come out in Canada (North America) on DVD or VHS - alas it was always region 2. But great news for all of you - Amazon (UK) is now selling the complete series (including the reunion) on DVD in 0 region (will play in all regions). I checked with Amazon before purchasing and they assured me that it would play in NA - I took a chance and ordered it - received it and it plays wonderfully and I don't have fancy equipment - old TV and cheap DVD player. I urge all of you fans to order it as soon as possible. It is a 12 disc set and I paid about $112.00 Canadian - well worth it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d648326b6e1dc65e8ad27fa5c55939ab05e703b2d6d9f0ab79a80a1d1417648d
+size 660

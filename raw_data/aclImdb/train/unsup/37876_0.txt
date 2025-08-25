@@ -1,1 +1,3 @@
-The story seems plausible, but the dialogue is below average. In<br /><br />all, I found this 'romance' unappealing...something better<br /><br />should have been done with the idea. What a waste. The<br /><br />characters are not well developed and very little romance<br /><br />actually makes it to the stars.<br /><br />The funniest part (and this is not saying much) is that Linda<br /><br />requires her father to deliver all her "Dear John" letters like<br /><br />singing telegrams. Add one more of those and there may have been<br /><br />something to look forward to every thirty minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b410f1a7ce691d78113a6c9379ec4f645c7c6c345e1f2ebe46bc48387c24eceb
+size 598

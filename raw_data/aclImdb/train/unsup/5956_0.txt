@@ -1,1 +1,3 @@
-First of the movie's action scence were worrible, and the intelligance of the special military units that fights them are rediculously stupied. everyone knows about zombies, i mean seriously its not that hard to figure out that is plastering it in the chest with bullits does not stop it shot it in the bloody brain. THAT WORKS OFR ANYTHING, in the head and its dead. and for the ending my GOD could they have made it any worse?
+version https://git-lfs.github.com/spec/v1
+oid sha256:72723827dfb26dcc6e3f7a0700e8d86506fe9210761dfc1fbf03c9ba1cd5b1cf
+size 428

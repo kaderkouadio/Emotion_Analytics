@@ -1,1 +1,3 @@
-I love this movie.<br /><br />First saw it quite a few years ago and now it's just been on MGM.<br /><br />I love end of the world movies.<br /><br />Looks like George W Bush may bring this love to life!<br /><br />Having now seen it a few times I can get to savour its elements...the way the beginning give no clue to subsequent events and the doubt some may have right through it that it's all some horrendous mistake.<br /><br />What a wonderful way to die!<br /><br />What a great way for Los Angeles to end!<br /><br />The cast and direction and music are outstanding.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8d7eaa4732f32524fac1d6ec84d02c7e70e87e429c8cc7516c40c93223ef326
+size 585

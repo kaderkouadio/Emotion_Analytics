@@ -1,1 +1,3 @@
-A trilogy of gay/lesbian stories tracing societal attitudes towards homosexuals and the homosexual lifestyle from the 1950's to the present, this is the first "legacy" film for gays.<br /><br />Superbly written, acted and produced, the three tales revolve around the themes of prejudice and acceptance, with the middle story of a young student's "coming out" as an impetus for his role model teacher's lifestyle disclosure, being the standout episode and should be seen by anyone wrestling with their sexual identity.<br /><br />Bravo Paramount and Showtime for this outstanding and compassionate film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ff5f8aff4832042346991f404ef55c3872f7aaec3e61eefdfdf9f4e804beb32
+size 602

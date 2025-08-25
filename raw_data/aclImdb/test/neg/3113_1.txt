@@ -1,1 +1,3 @@
-I had to read I Know Why The Caged Birds Sing in my English class and we watched the movie after finishing it. After watching the movie, I regret seeing. It completely took away any of the impact the book had. The scenes made no sense in their sequences, the acting was horrible, and it seemed as though the screen writer never actually picked up the book but opted for the cliff notes instead. I was outraged at how the movie ended. Almost half of the book was cut out and certain aspects were extremely important to Maya's growth as a person. If you have read ...Caged Birds, this movie will ruin the experience of the book so I warn you not to see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4323712f04653567b94da00d2ae0a35b34a3706a5bf991936950b9fa86e1112
+size 654

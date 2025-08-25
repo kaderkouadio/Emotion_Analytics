@@ -1,1 +1,3 @@
-Domestic Import was a great movie. I laughed the whole time. It was funny on so many levels from the crazy outfits to the hilarious situations. The acting was great. Alla Korot, Larry Dorf, Howard Hesseman, and all the others did an awesome job. Because it is an independent film written by a first-time writer, it doesn't have the clichés that are expected of other comedies, which was such a relief. It was a unique and interesting and you fall in love with the characters and the heart-warming story. I heard it was based on a true story? If so, then that is hilarious (and amazing!). I highly recommend this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:356e14c53781045a0061da3cd2b866efd02b683c943a9cfeae9562580a549599
+size 619

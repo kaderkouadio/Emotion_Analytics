@@ -1,1 +1,3 @@
-This is an amazing story about a true hero. However, the filmmaker should have let the story and characters stand on their own. Instead he injected himself into it, playing narrator and saying things like "he changed my life." This film didn't need a narrator at all. The other soldiers did a great job of telling the story.<br /><br />Without needing to, the film crosses into the realm of schmaltzy with its music and "hero shots". He removes the opportunity for the audience to consider for themselves how brave the acts of this man are. I'm glad the story was told but I wish the filmmaker had taken his feelings out of it and let the audience come to same conclusion without forcing it on them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df45efbcd3be9e74720a37aa1aad48be07c0254537f969352b0d29d00121bd59
+size 699

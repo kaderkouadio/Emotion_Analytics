@@ -1,1 +1,3 @@
-This movie is great I really enjoyed it.<br /><br />This movie is about a cat mom named Dutchess and her 3 kittens.T Dutchess and the kittens love music.They have to practice the piano everyday.But the butler named Edgar tries to kidnap Dutchess and her kittens he tries to make them sleep. But he fails. Them Dutchess meets a cat named Thomas O Maily. Thomas falls in love with Dutchess. The cats break into song. With the song everybody wants to be a cat. Thomas gets to love music like the other cats. Thomas and Dutchess really like each other.<br /><br />I loved this movie and i like the cats to!
+version https://git-lfs.github.com/spec/v1
+oid sha256:74023e9c299e7916dbc7b91dd5d9822e39f01e6691ad7fda1615d6d6d0048c11
+size 602

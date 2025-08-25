@@ -1,1 +1,3 @@
-Incredibly dumb and utterly predictable story of a rich teen girl who, not given love by her parents, starts a girl gang. They rob gas stations, rape guys (!!!) and kill a policeman.<br /><br />All the "teenagers" in this film are easily in their late 20s/early 30s, the acting is all horrible and the script has every cliche imaginable with hilarious dialogue--it comes as no surprise that it was written by the immortal Ed Wood Jr.!<br /><br />Worth seeing for laughs. Best lines--"They're shooting back!" and "It ain't supposed to be like this."
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a1c9cd213d27c4936589b403405ecccf1f0463c44c3c856f5afbedbf2616f22
+size 548

@@ -1,1 +1,3 @@
-This was my second run at Oriental horror films and unlike the first try (some movie about spirals) I actually enjoyed this one. I have a hard time trusting anyone who says they knew the ending, it was pretty well disguised through most of the movie. In addition it was a unique blend of video game and movie. Things going against it were the colors and the fast-forward thing that both of the Japanese horror movies have had. I would highly recommend subtitles over the dubbed in English as the subtitles seem to make more sense and the dubbing gives the movie an undesired godzilla effect. A little on the artsy side but definitely accomplishes good suspense. 8/10 for an enjoyable time watching the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd94779c44f8b9968af7539d50dc7eaa18e81e4554f487a36770df66b2b436ec
+size 708

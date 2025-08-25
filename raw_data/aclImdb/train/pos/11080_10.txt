@@ -1,1 +1,3 @@
-First of all, when people hear 'GUY RITCHIE', they immediately think of SNATCH. Yes, Snatch was a good movie, but the problem is that everyone associates Guy Ritchie to Snatch. They don't expect him to explore new frontiers. This movie REVOLVER is different than snatch; it's much darker and is very complex. The reason I gave a rating of 10 is because I've had to watch Revolver 3 times to understand everything. So this movie toys with your head. It's very cleverly written.<br /><br />This movie is different than Snatch. It was done wonderfully, the cinematography is beautiful, and you can recognize Guy Ritchie's personal touch (style of directing) in it.<br /><br />What won me over was the complexity of the protagonist and how we are left with more questions than answers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df4ad2532041600a7c32116ab036ae190b6446ec030d7b91bfe313478c231ec8
+size 781

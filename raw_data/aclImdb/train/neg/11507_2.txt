@@ -1,1 +1,3 @@
-Guy Ritchie's noble effort is beat up, knocked down, raped, kicked around, shot, stabbed, spit upon, punched, sodomized, and abused and left for dead by Madonna's dreadful performance. Her acting was very reminiscent of a graduate from the Al Gore School of Dramatics and Public Speaking. Guy Ritchie did do a somewhat noble attempt to remake this, and if you exclude ALL of the scenes that his wife was in, it's a fair movie at best. I think that the best acting job ever, had to be Guy comforting his wife that her performance was good enough not to re-shoot. If you have an opportunity of watching Swept Away or clipping your toenails for 89 minutes...go for the extended pedicure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b72f0a41c0215b20fdef0fd99f8aecfcf3dba1f0d8e7ecb0a83e872eb29c79da
+size 684

@@ -1,1 +1,3 @@
-Although achingly literary at times, moments of true emotional power are rendered by fluid storytelling, Nestor Almendros's haunting cinematography, Marvin Hamlisch's quietly effecting score, a touching performance by Peter MacNichol, and a seminal performance by Meryl Streep; one that Kim Stanley (the celebrated actress/teacher and Oscar nominated mother to Jessica Lange in 'Frances' of the same year) proclaimed, "the titanic portrayal of her generation."<br /><br />No matter what your initial feelings about this film, I encourage you to go back and take in Streep's dark dance of loss, madness and, finally, sorrowful redemption.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c666ad8514056ffb07163db51e8211fb290cc41ec930392808916d6c9f007c
+size 637

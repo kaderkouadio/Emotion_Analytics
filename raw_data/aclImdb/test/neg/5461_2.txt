@@ -1,1 +1,3 @@
-This looks like one of these Australian movies done by "talented" students and funded by the government. It is chock full of smart shots of colors and shapes and verbal excursions into Freudian psychology to be appreciated by art students and teachers alike, but in general it is perceived a stupid mockery of good cinema, good storytelling and generally good taste. This what happens I guess when art students become so obsessively indulgent. "Pink Flamingoes" is miles ahead one the same subjects. Some porn movies from 70s are far more watchable and inspiring. Book of Revelation is not entirely without merits, but as an overall experience it is well below average B-grade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:762e3258d2da84cc6c3265256c5e5634c9e060cb10d778f1be58871a4ec15e40
+size 677

@@ -1,1 +1,3 @@
-Unique movie about confused woman (Lindsay Crouse) who gets involved with sharp con men. Joe Mantegna gives an Oscar-caliber performance as the slickest of the group. Absolutely enchanting first hour, as Mantegna shows Crouse "the ropes" of his con games. Story line unravels a bit later on, but still stands as a unique portrayal of an innocent caught up in a dark world. Definitely worth a shot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99e3fd28ec14f821419334239caf252464498ca4dbb51d2492e2f48642376dd5
+size 397

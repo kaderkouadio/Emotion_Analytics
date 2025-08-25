@@ -1,1 +1,3 @@
-I saw this a couple of times in the late seventies. My parents had just subscribed to this new service called Cable TV, and low and behold we had a movie channel called Showtime. I watched it every day it was on. It gives new meaning to the word "Putz". I really wish it would be released on video/DVD. I don't understand why it hasn't been. It is sad that another generation hasn't had the opportunity to share the laughs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36545f21c24c9a56d0157bc3fc06a8ae140b6e8abf72f2d2acec99a97b255ff7
+size 423

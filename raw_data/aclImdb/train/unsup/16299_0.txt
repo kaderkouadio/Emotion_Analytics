@@ -1,1 +1,3 @@
-A nonfiction account of a group of imprisoned Jews who staged an armed uprising inside the Auchwitz camp during the Holocaust. In the vein of "The Diary of Anne Frank, the film focuses on the emotions of the incarcerated Jews, and the senseless prejudice and brutality which claimed their lives. Strong performances all-around, with Harvey Keitel standing out with an exceptional, Oscar-worthy performance as a hard-nosed Nazi officer. Harsh, harrowing, poignant, and realistic. A must-see.<br /><br />***1/2 out of ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1ca02011732e07bf9015fcf0aeb3ea10703944472910d51f3438496c55fe68d
+size 520

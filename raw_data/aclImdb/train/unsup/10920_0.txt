@@ -1,1 +1,3 @@
-This film has several flaws -- Lori Singer's rural accent comes and goes, mostly goes; the members of her high-school class, who've never attended so much as a lunch-hour sock hop, turn into some of the greatest dancers in middle America during the last 10 minutes -- but who cares? FOOTLOOSE is great fun, and is worth seeing. It even contains a redeeming social message about values and tolerance. Sit back and enjoy the sheer exuberance of Sarah Jessica Parker, the pre-corpulent Chris Penn, the lung-collapsing beauty of Lori Singer, and the energy and enthusiasm of Kevin Bacon. I would recommend this movie to anyone over the age of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba008f7b8106eff50eb701136002e3c9d22b054db80d74780834a9a2bb0e0c50
+size 642

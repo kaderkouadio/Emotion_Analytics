@@ -1,1 +1,3 @@
-This one of my favorite movies. My kid hates it. but i love it. Movie Mason (Mickey Rooney) knows every thing about movies. It is a must see movie. It is scary and funny at the same time. 5 out out of 5 stars! Only on Disney. There is a man who is going around making bad stuff happen. That is all i am going to tell you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d56bca5ba4d0c3310de041b663c534f217c6b19cd910855ff3cd67163389db5
+size 321

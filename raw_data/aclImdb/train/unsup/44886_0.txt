@@ -1,1 +1,3 @@
-The summary says it all. The script is dull, it is totally predictable. The acting is beginner level. The music isn't. Even the marching bands are sloppy. I got to see this film while flying to San Francisco, so in some small way I paid for it. I got ripped off.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c9020d606ec98fb34c08c2fbfdc323d973dde1fbe1ccb9aa420e6a6c71247d
+size 262

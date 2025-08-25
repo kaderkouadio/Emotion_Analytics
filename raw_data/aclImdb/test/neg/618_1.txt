@@ -1,1 +1,3 @@
-Lance Henriksen has a knack for being the top name in a B-movie, even in this case starring along side Charles Napier, Master Control Program, and Joe Don Baker. As always he does a great job of being the bad guy, but the plot is just bad (don't even get me started about the ending). And the editing is so horrible it might actually be a thing of beauty. Is it just me, or does it seem that Joe Don Baker was spliced into the movie at the last minute? Also, anytime glass is broken in this movie, the editing is so anti-phenomenal. Lastly, after watching this, I figure David Warner is dying for Tron 2.0 to finally get the green light.<br /><br />Unfortunately for Felony, this will be the third movie I give the rating of 1/10, joining Iron Eagle IV and No Mercy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa748114f5c84332a794582dc8d6075295fbe262d74c84fa4e84c43b0940b24e
+size 766

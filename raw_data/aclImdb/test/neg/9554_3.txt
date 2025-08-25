@@ -1,1 +1,3 @@
-What's the point of this film? It's totally forgettable. Unless you have a serious bunny fetish, look elsewhere. So the bunnies had a merit/demerit list. No chewing gum in front of the customers. Are we supposed to find that interesting?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0813c54fe47c8ede9039e2122b36b2ccafa694e00bfb47942b864c4f1257c460
+size 237

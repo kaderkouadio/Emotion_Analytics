@@ -1,1 +1,3 @@
-Walter Matthau can always improve a mediocre film, and this movie proves it. He turns in a very realistic performance as a small-time horse trainer and single father, not sugar-coating either role.<br /><br />He can be, by turns, soft-hearted and doting, then iron-handed to his boys, and we can see the same dichotomy in his approach to horse training (we see that he doesn't want his young prospect racing horse overworked and hurt in small-time races, but he seems to be willing to risk the horse's life when he gets into the big time).<br /><br />This is just one of Matthau's wonderful performances, and one that I highly recommend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:170c3b646e9f14c39049f8c5b4d5ccac7192e21643de20d195711ad7877d677c
+size 637

@@ -1,1 +1,3 @@
-Under details for this Television series it says that the location was Walton-on-Thames, however series 1 was mainly filmed in Hersham, Surrey. UK, The church scenes were filmed in St. Peters Church, Hersham, The hall was the Hersham Women's Institute Hall and outdoor scenes were filmed in Hersham. The restaurant scenes were filmed in Cobham Surrey, while Jill's hairdressers was filmed in Byfleet, Surrey. To my knowledge no scenes were actually filmed in Walton-on-Thames! The second series was filmed in Cornwall, UK where there is also a village called Hersham consisting of six houses while the main Hersham has population of some 18,000 people.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4422911d02a4d4829be3549d50c5df8cd71152050d7f72b21bdb0959e6bae38
+size 652

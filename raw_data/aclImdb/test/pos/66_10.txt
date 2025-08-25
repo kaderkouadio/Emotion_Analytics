@@ -1,1 +1,3 @@
-I first viewed this movie when it first came out and also bought an LP recording of the soundtrack. I liked it so well, I went back to see it several times..cannot understand why it was considered a flop. Julie Andrews was lovely in this film, her voice was in top form and the costuming was beautiful!<br /><br />The film contains a little bit of everything and even though some of the scenes were a bit heavy-handed, they were still fun. <br /><br />I recently found I could get a copy in DVD form and ordered it......I was disappointed that a couple of songs and sequences in the movie were not included in the version of the DVD I ordered.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7d0b98dc63b39751201c6840c82c0d9f6cebeb6cd451358d8818c692b3fb51
+size 643

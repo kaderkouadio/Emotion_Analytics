@@ -1,1 +1,3 @@
-Avoid this one! It is a terrible movie. So what if it is very exciting? All it is is just pointless murders. And the whole thing with Thorn and Michael's curse, that was the absolute worst thing they could possibly do to the series! Why couldn't they leave Michael's story a mystery? He's supposed to be the Boogeyman, not part of some stupid cult!! Ugh! Thank God for Halloween H20, which wiped out Halloween 3-6! They all sucked! But anyway, if you see this movie, please expect no more than pointless murders and gore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f2dcb082721134f9fd69b72650f530a6d94c2da95543b2c9781345bc546d8ec
+size 521

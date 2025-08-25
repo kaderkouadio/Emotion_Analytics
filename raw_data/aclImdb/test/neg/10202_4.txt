@@ -1,1 +1,3 @@
-... in search of the cheesiest "so bad it's good" movie, I've repeatedly laughed at the first fifteen minutes of various films, only to be left disappointed and bored at the end. Not this time!!! My eyes teared up, my belly and my cheeks ached from laughing so hard throughout the movie. Sure, Hulk Hogan is a subpar actor and the plot is utterly predictable, but everyone dives into this movie knowing all this - all anyone wants to see when renting this is Hogan breaking out a can of whoopass, with a bunch of "YEAH BROTHER"s and "WHATCHUGONNADO"s flying from his infamously goateed mouth. And while the Hulkster on the screen pales a bit in comparison to the Hulkster in the ring, seekers of the ultimate cheese will certainly not be disappointed by this backhand gem of a flick. A laugh riot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1fccc7e80e2c951e31715c80cdde135f998b8ad286bc04f77e5c1e00c92c757
+size 797

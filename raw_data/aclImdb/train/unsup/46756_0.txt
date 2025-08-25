@@ -1,1 +1,3 @@
-A very bad attempt to pull off a David Lynch/Cohen Brothers/Tarantino. Bad acting, excessively annoying characters, and long, drawn-out, irrelevant scenes. Humor? - only when you consider the moronic idiocy of immature college students trying to impress. Ten lines of text needed to complete this comment before it can be submitted ---- OK. Let's see. The film was tedious, and dumb, and lousy, and unbelievable, and hideous, and annoying, and the sound was terrible, and the number of irrelevant scenes was exasperating, and the swat team was laughable and I'm having a really hard time trying to compile 10 lines of commentary on a film that was better left in the "bad idea" stage.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c089242c45b74a29a1e33c5ae69f20597343e3b2e15d1a6a86cb8832c4993841
+size 684

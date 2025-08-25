@@ -1,1 +1,3 @@
-This is the worst movie I've seen since "The Love Guru"! Ridiculously laughable story, hammy, bad acting, sub par music, zero chemistry between the two romantic leads, sticky sweet, implausible plot are only a few of the ways I can describe this incredibly bad movie. Robin Williams certainly did nothing for his career with this flop, and he really needs a hit movie badly. This movie is terrible on every conceivable level and it makes me wonder how thinking people could come up with a dud like this one. The fact that some people liked this movie only confirms how stupid the average American is becoming! It's no wonder it went to video so quickly!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8571115c8e3f3084030a5ffebe1e78e9c8b28a58b2ec08e1621d2b4371f79853
+size 653

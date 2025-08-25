@@ -1,1 +1,3 @@
-Something is too different tahn how it is seen. You can understand the real event only by going too deep, but you can face something you dislike.<br /><br />An ordinary,lover class town in Istanbul and a murder affair happens. And than with the aid of 6 characters we enter into the event.<br /><br />I think this is one of the most wonderful Turkish movies in last years. And this film has been sent for Oscar change from Turkey this year. I think everybody should see this film to understand real power of cinema without colofful scenes and special effects.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec30de67cb72ff586125d6961582ccfa654c54fa211255307e3f16e707318de5
+size 559

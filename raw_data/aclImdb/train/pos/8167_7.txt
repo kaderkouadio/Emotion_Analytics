@@ -1,1 +1,3 @@
-First it was Jack The Ripper, now it is Alan Feinstone. The crazy dentist tortures people in horrific ways. Quite realistic at times but some of the acting is abysmal and comical. Especially from Corbin Bernson. In some scenes there is dental torture that will really make you cringe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2583ada8edcc7ec2993b9fe3762c97362709677aee5990cb92f5511c595fd20
+size 284

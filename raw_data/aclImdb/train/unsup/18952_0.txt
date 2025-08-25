@@ -1,1 +1,3 @@
-I can't understand why this film made in 2000 directed by Karl Francis hasn't been made into a video or DVD. It shows the problems of The Hollywood Ten without preaching to the converted, and is very moving and well acted. We sympathise with those characters who are caught up in the tragic McCarthy era and imprisoned for their left wing views. It could well have failed as it is a hackneyed subject but the director managed to give it a fresh, humanitarian perspective. Once the cast enters into making a film or their own, The Salt of the Earth, the rhythm shifts and the relief is immense that they are safe from persecution. At the preview, the director's integrity matched the heroism of the lead actor. I strongly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fba1410208a67ddec416a531fe34233589be7a0bc8e817ea2ec3be0180434bf
+size 734

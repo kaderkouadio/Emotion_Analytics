@@ -1,1 +1,3 @@
-Terrible. There's no way to get around it. A script at the level of one from some Mexican soap opera, a choice and use of the places of shooting that make the movie labyrinthine and at the same time, repetitive and monotonous, with disastrous performances of almost the entire cast. The references to Tarantino's work, so poorly made, are more an insult than anything else. I suspect that was not for the shameless and plot-unrelated exploitation of Matadinho's generous curves , nobody would take the effort to go watch this film to any theater.<br /><br />These are the kind of films that make me have no desire to watch Portuguese cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88d90e058f6f560b3d49c9cd1d87ce548dd7fd94a775e18832e05b7b76a953bc
+size 641

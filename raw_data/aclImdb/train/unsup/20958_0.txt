@@ -1,1 +1,3 @@
-Wonderful film with a lot of tongue-in-cheek humour. Alec Guiness is excellent as an descendant of a family full of (in)famous captains who has just one little problem to follow in there footsteps: he has a bad case of seasickness! So he decides to buy a 1000 foot pier and run it as a ship. The city-council though has other plans with de seafront and the pier does not really fit into their plans. The Captain can only do one thing: declare his pier as a proper cruise ship! This is a film that fits in with the other small masterpieces made by Ealing Studios in the fifties and I can really recommend it..
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc7a09df9be60c082386877b6ce9428db7c0ff05a899ce46f09756a2b27f4580
+size 608

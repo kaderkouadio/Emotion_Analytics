@@ -1,1 +1,3 @@
-If you want to see a film with no guns, blood, sex, shouting angry people, hero, bad guys & girls or even clumsy love words and you want to see a film in which every shot has the meaning of "LOVE" , this one is a must see film. For me I've been waiting for a film like this all of my life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3679abd9ec80a201cd552993277e82916a417c9b744a934750fa8b4db205a53
+size 289

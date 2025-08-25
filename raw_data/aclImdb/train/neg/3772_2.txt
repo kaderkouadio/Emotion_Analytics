@@ -1,1 +1,3 @@
-i just saw Dick Tracy and I thought it was terrible. The paintings in the background of the cities looked awful. Also the mob characters looked too weird. Warren Beatty didn't do an awful job as Dick Tracy but it was definetely not one of his better performances. Madonna should just stick to singing. Glenne Headly did a good job in this movie. I gave this movie a 2/10 just because of the amazing acting by Al Pacino. It wasn't a high note in his career but he still did a good job.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f114b17ea3d9d3fd0d28c9c96f89eaa501885be5e93d7398973b2d62ce9dc1
+size 484

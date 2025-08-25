@@ -1,1 +1,3 @@
-I went into Death Race with really no idea what to expect from it. I am a big fan of Jason Statham movies but the concept of this movie hadn't really made me too excited to see it. Nevertheless this is a great movie, the humor is spot on throughout the movie, though this is definitely no comedy. The action is fast paced throughout and they come up with some pretty creative ways for characters to get killed. I found the story to obviously be a bit far fetched with it being people racing in a prison and all but never that didn't ruin the movie at all and I ended up loving the storyline. Overall, the acting was great, and it had great effects and a good storyline. I consider this a must watch for those who love action movies. 9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f88c882a1b12091d06a001e9c2c69c625f7079194dafc6692d5bd11cfd4aa8
+size 737

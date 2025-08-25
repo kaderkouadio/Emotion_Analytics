@@ -1,1 +1,3 @@
-The idea of making a film about the secrets and wonders of inside the Earth sounds like good idea for a movie but this movie just can't seem to deliver.The actors are bareable(well sort of)except for the main charecter who is just as way to smug.As far as special effects and set the crew did a okay job.And the plot would be better if there were more creatures and stuff and less of a boring,tedious buildup.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25547f4508f7d3fee3a7b8fc823e76ac28517787b9b5fa9a704d950bdd050728
+size 409

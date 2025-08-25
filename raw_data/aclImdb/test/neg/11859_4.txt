@@ -1,1 +1,3 @@
-I go this game and it is alright I guess. I just expected a bit more. The main problem with this is that the hacking is extremely hard, even if you read the instructions you can't get it. Also the graphics aren't as good as Pandora Tomorrow and Double Agent. This game could do with some improvements, it says that if guards are waling in water and you shoot a sticky shocker in the water the guard will fry up but nothing happens. In my opinion this is the worst out of the three. I haven't played the first one but have played Pandora Tomorrow, this and Double agent. This game deserves a 4/10 though. Could do with some improvements.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8efa19c332c171d0f7490687bfc597456fcda0789e34f4e8c2fa0cf0bb74dc
+size 636

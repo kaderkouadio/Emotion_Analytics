@@ -1,1 +1,3 @@
-In one respect, it's like 'The Wizard of Oz,' with Paris in black-and-white and the Riviera in color. But it's supposedly about possessive love, destructiveness and moral decadence, while actually being about designer gowns, shots of the Riveria, lots of big expensive cars, and music-and dancing interludes that suggest Vincente Minnelli on one of his off-days. Watchable, but a remarkable example of desperate, dark plot material and glitzy style heading in opposite directions. (Was this the model for 'The Talented Mister Ripley? Does anyone sense an affinity between Jean Seberg and Matt Damon?)
+version https://git-lfs.github.com/spec/v1
+oid sha256:343215c1dc2cde031e1676020f6f0548c939979a2884dc722403595a65f4c12d
+size 600

@@ -1,1 +1,3 @@
-This film contains more action before the opening credits than are in entire Hollywood films of this sort. This film is produced by Tsui Hark and stars Jet Li. This team has brought you many worthy Hong Kong cinema productions, including the Once Upon A Time in China series. The action was fast and furious with amazing wire work. I only saw the wires in two shots. Aside from the action, the story itself was strong and not just used as filler. To find any other action films to rival this you must look for a Hong Kong cinema outlet in your area. They are really worth checking out and usually never disappoint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97b5cb2bd69629e71fc71d381c90fa77255c16f3da49ea8c85ebe81a6c187e51
+size 614

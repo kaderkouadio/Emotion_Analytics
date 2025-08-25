@@ -1,1 +1,3 @@
-I say pseudo under the definition of pseudo-event--I think that is Boreman? Anyway, hilariously real account of a romantically experienced and entangled male going back into the past. A lot of future film makers-documentary folks have claimed this in their verbal bibliographies. Check it out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d61716728ed5f33b8a7e4302c4d30f07e3cc183a7637368a6aaca4ec1ecd2eb
+size 293

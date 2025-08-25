@@ -1,1 +1,3 @@
-When it comes to movies, I am generally easily entertained and not very critical, but must say that this movie was one big flop from the start. I gave it 30 minutes and then rewound it. What a waste of some great talent! I was very disappointed with this movie, as it was not what I expected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62750c6d5c21e3b09452c6a0699d70e66a948ff25649d632c68b3bc51766968b
+size 292

@@ -1,1 +1,3 @@
-D.A.R.Y.L. blows the big one, if you know what I mean! This movie attempted at what Spielberg's Artificial Intelligence achieved. You can chalk this one up as an absolute cheeseball. I almost gave up on it after the nauseating Ballgame scenes, but I became a little more interested when the plot picked up after Daryl is taken away by the government scientists. Stick around for a pretty decent cop chase but I doubt you'll make it that far!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f82dbbc99184e20a62b03370dfe04f1414083f67bd1229eed87f78b1f08699be
+size 441

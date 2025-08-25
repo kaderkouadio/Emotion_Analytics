@@ -1,1 +1,3 @@
-The Long Kiss Goodnight has just about everything action fans want: a witty screenplay by the guy who wrote Lethal Weapon, Samuel L. Jackson, and great action set pieces by Renny Harlin.<br /><br />Seriously underrated. One of the best action movies ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76dfa5e94414fb455e43469cd203ab2bd35a1b1fa82ceda2a276d821f06e5c14
+size 255

@@ -1,1 +1,3 @@
-Fun movie! Great for the kids - they found it very entertaining. Somewhat predictable, but there are a few surprises. Great movie to watch if you're looking for something just to entertain (don't expect to be seeing a classic!)
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2a6860aeced1ae7feea43dac3026afd526b27dabbb63fcfa97d924183e9503
+size 227

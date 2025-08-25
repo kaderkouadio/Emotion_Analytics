@@ -1,1 +1,3 @@
-I am terribly sorry, I know that Faßbinder still is called one of the greatest directors in post-war Germany and that most of his films are considered "master-pieces", but when I see "Lili Marleen" today, in 2004, I wonder what everyone is up and away about this movie! The acting is simply terrible - Hanna Schygulla is all the smiling like an idiot! -, the changings between Nazi-glamour and battlefields are ridiculous, the whole film looks as if it was made within two days in an attic. Probably it was exactly that way and many people seem to take this for "real art", but for me this movie is simply bad & cheap. Compare this to Viscontis "La Caduta degli Dei" and tell me again that "Lili Marleen" is a good movie...
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab5b29788a529f7ee8e7852f268f754d6d5be27323feb996092aed12eb3eb07b
+size 724

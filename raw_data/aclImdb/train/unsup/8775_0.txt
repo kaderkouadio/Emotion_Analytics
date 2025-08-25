@@ -1,1 +1,3 @@
-Woodstock is a great documentary. It is edited very well and has great spirit and music in the mix. For the generation of the time it was what symbolized them, and I think this is the perfect film for them. Edited very finely (by the director, Oscar Winning editor Thelma Schoonmaker and the man himself, Martin Scorsese) with many parts of the movie in separate sides in great splendor. I think this film is the best movie in which a sound track was made, and one of the best documentaries ever made (definitely the best of the 70's).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd12c463fb574bbb44d31c22f2dc6963ba06cca8b0de35dcfbdf4e77449e83cd
+size 535

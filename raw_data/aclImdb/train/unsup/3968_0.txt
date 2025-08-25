@@ -1,1 +1,3 @@
-A friend of mine says that his defining image of modern China is of a marble facade slapped onto a jerry-built wall; and it's this kind of picture that also emerges from 'The World', a touching movie about the lives of a group of workers in a Beijing theme park in which all the planet's tourist attractions are copied in a single location. Beautifully acted, the film provides an interesting insight into the patterns of behaviour of young Chinese; but the underlying tone is melancholic, and this flavour grows stronger as the story progresses; in some ways, it's a tale about the death of hope. But it's done with a light touch, some striking photography and some nicely realised animated interludes. I found it moving and subtle, and ultimately, very sad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8514d1d432cd6cc89f11afdec27b1a1787a5073e578956660ca371560557e04
+size 759

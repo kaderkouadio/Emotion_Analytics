@@ -1,1 +1,3 @@
-Loaded with fine actors, I expected much more from "Deceiver" than was delivered. The plot is extremely contrived and manipulative. The many flashbacks only add to the confusion. Believability flies out the window and with the ending becomes unbearable and downright ridiculous. I would strongly advise anyone who likes their movie plots to be based on something that is at least possible to avoid "Deceiver" because you will be very frustrated. Maybe I am just not hip enough to get it, but my suspicion is that many others were totally confused by the story line and especially by the ending. Blurring the line between reality and lies simply does not work because the entire movie made no sense. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e14348a5af0e0c04f9e58288dc733ce97aa67460513d4acc8486d47ddc9bd32
+size 705

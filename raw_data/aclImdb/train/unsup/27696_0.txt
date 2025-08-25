@@ -1,1 +1,3 @@
-This documentary is a very polished retrospective on a sexual icon of the 60's and 70's, on both coasts. The celebrity interviews are very well done, and the entire picture is extremely well edited to hold the viewer's interest all the way through. A man like Peter Berlin who caught the attention of Andy Warhol and his social circles is certainly a personality worth knowing more about. There's been no one like him since. I saw the film in San Francisco, in a packed theater, with Peter Berlin in person interviewed after the show. All attendees certainly seemed as fascinated by the man as I was, whether or not they agreed with his lifestyle, or the values that he represented -- and still does. I urge you to see this very well done work and judge for yourself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfd275418f3a8c8afcb7096965e8477605cf5098391b847a2820e3749632625e
+size 767

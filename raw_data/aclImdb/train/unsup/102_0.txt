@@ -1,1 +1,3 @@
-I saw this movie as a motel movie shortly after vcr's became affordable/popular.<br /><br />I thought it was very funny and would love to see it again on DVD or tape.<br /><br />The rather subtle, dry humor mixed with slapstick comedy was very well done. I would certainly buy it if it were available.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e04eb9700899a24ab413c70b26aac17368add9563e39bda56c021a2ccc9683
+size 301

@@ -1,1 +1,3 @@
-Maximum risk is quite surprising to a person that has seen more then on of his movies. Director Ringo Lam made an average action-movie, that can be compared with most of the other mid-quality action movies, what is a special predicate to a `Muscles from Brussels`movie. It has a quite classy style, an interesting atmosphere and, last but not least, the beautyful Natasha Henstridge. Even VanDamme doesn´t make you crying by his acting, he does a relatively good job. Of course you may not compare Maximum Risk (oh, what a creative title!) to `Ronin`, but after watching `Knock off` it´s the hell of a good movie... in special standards, of course.
+version https://git-lfs.github.com/spec/v1
+oid sha256:799f8961116f4afa85e54381990e41aefeba3eb87b5f89cf8db7d451b1507ceb
+size 650

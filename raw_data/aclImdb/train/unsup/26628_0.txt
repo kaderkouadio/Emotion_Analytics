@@ -1,1 +1,3 @@
-This is one of, if not THE best film I have seen. OK I am a guy, but it really is an emotional film, very moving ( yes ladies I did cry). There are wonderful performances from all the leads and also from a young Laura Dern ( destined to even greater things) and the whole movie is a complete success. It has humour, action, sorrow, sarcasm, you name it it is in there. It just shows that sometimes the good guys don't always win, the ending is SO sad. The predudice is handled well and sadly we still have the same predudices present in our society today ( will we never learn?) If you haven't seen it before, settle down with the boy/girlfriend on the sofa with a box of tissues and enjoy. A totally triumphant movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:765a063cc0f4035cfbd761317e71dbd004ff89421fb49f62d1e97506e2fc996a
+size 718

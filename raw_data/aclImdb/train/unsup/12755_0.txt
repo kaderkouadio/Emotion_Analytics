@@ -1,1 +1,3 @@
-It's a great Irish movie and you can actually understand what they are saying. The seals in the movie were mysterious and cute. It's a movie about one of those moments in life where life is stranger than fiction. But totally believable. :)<br /><br />The characters are not over done, the story is pretty simple and would be a great film for anyone of any age to see.<br /><br />The main heroine is a young girl who leaves to go live with her grandparents after her mother's death. She learns more about her family and the family stories. The family is originally from the island Roan Inish where the stories come from.
+version https://git-lfs.github.com/spec/v1
+oid sha256:568d6e5551d97f84f6a1b087fa99b1d118d59e8c19f1f0d4e09ed774cd1385de
+size 619

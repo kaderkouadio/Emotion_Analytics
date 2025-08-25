@@ -1,1 +1,3 @@
-Despite a trite script, Stan and Ollie, like two jewels, rise above all and provide some great laughs. <br /><br />I wouldn't recommend this to anyone who wasn't a fan of the great duo, but seeing it for the first time was a revelation after all the negative things I'd read and heard about the Fox movies. <br /><br />The direction and photography was of a high standard while the supporting cast was adequate if not in the same league as our pals.<br /><br />Of all the sequences, I have to vote the 'bird down the trousers' sequence as the most memorable. No other comic team could have pulled off that gag so well!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1dab9ee87fe243f5b794de096ac7b3f049bc443d895ac57480f4b7b1a7721af
+size 618

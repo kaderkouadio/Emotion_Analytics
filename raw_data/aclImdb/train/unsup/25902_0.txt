@@ -1,1 +1,3 @@
-If you see this movie coming on TV, don't panic. Take the controller and gently apply pressure to the power button. Slowly get up and walk away without turning your back to the TV, it can be crafty. When you are 10 feet or so away, run like there is no tomorrow!!!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b4a57f7765b08bb6472bf95dce59f89e59b75a7f9ef443553470b0e9a9d27a5
+size 268

@@ -1,1 +1,3 @@
-This is basically your run of the mill violent biker flick complete with nifty slangs, crashes, and music. OK, so just slangs and crashes. It's a slight notch above much of the other fare featured on MST3K but it's still the equivalent of driving a nail into your kneecap: slow and painful. To give away plot would exhaust my energy so I'll just say you're better off skipping this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51b10465744a1c38f7ef0710d6cf6aa8f6af6b1f9d0ea6f91fbbc4a74ee26c52
+size 386

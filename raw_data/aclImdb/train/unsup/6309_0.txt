@@ -1,1 +1,3 @@
-The images are amazing! Clearly, the filmed clips were taken at the time the events were ready to 'take off,' and the devices were at the final stage of development. Imagine how many similar concoctions never reached this stage, or took place without being filmed. The patience of editor Howard Smith for reviewing so many sources is being rewarded here. Some of the ideas inspired (or were inspired by) scenes in contemporary Hollywood movies, i.e., the building climbing, or survive as photo post cards. What we see here was a sampling of unusual and compulsive behavior popular in the film age. A question: was the TV presenter the young David Letterman?
+version https://git-lfs.github.com/spec/v1
+oid sha256:878c06cfba4872e3057173ce6cd40119c9101fbc38a07e4ae390b9f3449d5aa0
+size 657

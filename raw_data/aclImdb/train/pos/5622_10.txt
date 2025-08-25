@@ -1,1 +1,3 @@
-Farrah Fawcett gives an award nominated performance as an attempted rape victim who turns the tables on her attacker. This movie not only makes you examine your own morals, it proves that Fawcett can excel as a serious actress both as a victim and victor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88ad8e880c1d91c2a78ee3c90ae298804348bd3ec83c2a302fc440dbd9c65c8
+size 255

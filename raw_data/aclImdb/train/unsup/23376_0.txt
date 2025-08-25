@@ -1,1 +1,3 @@
-The tragedy of this film is that it's not playing in every theatre in the U.S. so it can be seen by the people who most need to see it. Thank you, Korean American friend of a friend who shared it with us.<br /><br />See this film if you or someone care about is thinking about signing up to go into the military. See it if have been, or if you've ever known anyone who was, in a war. See it if you have ever seen a peace march - live or on television - and asked,"What's it all about?" See it if you love life.<br /><br />Don't worry; it's not propaganda or any kind. It just takes us to the scene of the action, sets us down, then lets us get to know some very real people and watch what happens.<br /><br />Carolfrances
+version https://git-lfs.github.com/spec/v1
+oid sha256:411738fd26347b61c3c42e0abfe90a8e20c48a6f3670fae994d748860cea32ee
+size 721

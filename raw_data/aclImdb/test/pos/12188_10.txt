@@ -1,1 +1,3 @@
-"Queen of the Damned" is one of the best vampire movies I had ever seen! The movie had suspense, action, and gore. The combination of the fierce demanding attitude of the Queen and the rock mood of our star, very well acted by Stuart Townsend, makes a wonderfully done movie that only this combination can create. I'm always the one to give advice to my friends and family members on which movies are worthy of renting and when they ask me if "Queen of the Damned" is worthy, I tell them it's worthy of buying. This movie is most for sure a must-have in all horror movie lovers' homes!
+version https://git-lfs.github.com/spec/v1
+oid sha256:406ae2a752daf750f25f2a0e18606dc8827a99e2819e04e23014463a3dcf46af
+size 585

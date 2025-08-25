@@ -1,1 +1,3 @@
-There are few movies that appear to provide enterntainment as well as realism. If you've ever wondered about the role of snipers in modern war, take a look at this one. <br /><br />I just loved the scene where hundred soldiers get shooting at the jungle, no-one quite sure where that shot came?<br /><br />And, they nicked one scene to Saving Private Ryan, so it has to have some merit in the scene.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:90b9b97ea5aeaba5b7b62bf50266eb0a169320d091937c9bb265b32ac519dbf8
+size 411

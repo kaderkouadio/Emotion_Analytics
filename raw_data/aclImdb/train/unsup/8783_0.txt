@@ -1,1 +1,3 @@
-This is one of the best WWII PS2 games I have ever played.I specifically recommend it to fans of first-person shooters. Actual game play is fun (like physical hand-to-hand combat against German's with one rifle) and it has fantastic graphics with lots of detail. The soundtrack is also amazing and a must-buy. However, like in every game, there are some flaws. The game has only 14 levels. For this reason I managed to complete it in 3 days. I had been a bit disappointed with how short the game was. Nevertheless the missions are great. They do not get boring so quickly and you can replay them. In this game, you can unlock great stuff, e.g., cinematic, art books etc. It is well worth buying. However, it might still be worth waiting till it gets cheaper than it's starting price.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2198d74ce1ea44b6d052af1e0bd159e878a828cafa7ce2cb55a23b2621344097
+size 783

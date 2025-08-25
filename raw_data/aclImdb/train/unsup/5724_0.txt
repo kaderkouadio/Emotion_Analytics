@@ -1,1 +1,3 @@
-I am an unreserved, unabashed fan of Mr. Avery and do not even try to hide it in the least. While I have other favorites, this is one of the top three or four he did, objectively speaking, and in my opinion, the best, for all that it's not one of my top five favorites. It is a true parody, full of warmth and fondness for its subject, Al Jolson. Splendidly done from the first frame on. Five encores and twenty-seven curtan calls. Most highly Recommended!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f1bb030daabf435b4129691c04c88814a40ee283968f0d36020afd7a2f1b97
+size 458

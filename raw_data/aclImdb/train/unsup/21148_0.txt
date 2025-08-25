@@ -1,1 +1,3 @@
-I am a big fan of Jerry Lewis. "Cracking Up" in my opinion is not one of his best, but it still has some very funny bits, ie the waxy floor and very beginning. Although in some parts it drags on a little, this movie is worth seeing, especially if you are a Jerry Lewis fan. This movie lacks plot, but some of the bits make up for it. Grade: C+
+version https://git-lfs.github.com/spec/v1
+oid sha256:e61cad3c59e89461c5630982d0c43985394b78d9c1bf3b4bd29d0468c87fde58
+size 343

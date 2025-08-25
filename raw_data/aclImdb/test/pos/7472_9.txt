@@ -1,1 +1,3 @@
-I saw this movie yesterday. I must admit - I love it! It's like early Tarantino, but better. Really a must, but... don't show this movie to anyone younger than 18. It's full of blood and sex (rape scene is great :) ). Now I'm just waiting for other movies of this director and a DVD release.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea6456cc313a10fcdd2714b97d2a9b4e265ed0a1c7e8ea5e2014fc11d467269
+size 291

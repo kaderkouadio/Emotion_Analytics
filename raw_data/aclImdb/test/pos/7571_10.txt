@@ -1,1 +1,3 @@
-I love Sarah Plain and Tall:Winters End. Its such a good movie. It tells of the hardships of living on a farm.I live on a farm so I know what its like to have hardships.<br /><br />I love the setting in Kansas. Its such a beautiful place. My favorite country star is from Kansas. I love the country in Kansas its just so beautiful. I would love to live in Kansas.<br /><br />Sarah Plain and Tall:Winters End I think is a love story. I love love stories they are so fun to watch. I like to watch them because it is nice to watch people fall in love. Falling in love is not as hard as most people think. I've fallen in love once. Sarah Plain and Tall: Winters End is my favorite love story
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7aa9c63f2bfd7a9f93543d9a2f73e06e9304a69dd93ebff36f816cf3d8f0ff5
+size 687

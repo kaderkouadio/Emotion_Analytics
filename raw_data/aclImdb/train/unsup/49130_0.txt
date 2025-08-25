@@ -1,1 +1,3 @@
-> Escapes is the textbook example of bad film-making. Whenever you've seen a > movie that you feel was horrible, see this one and realize what true garbage > is. One can only guess that Vincent Price was blackmailed into being > involved in this mess. Two bright spots about this film were that it has no > sequel, and that it has a "Mystery Science Theater" quality about it. To me > the most frightening thing about this movie was that I paid .99 to rent this > dog. >
+version https://git-lfs.github.com/spec/v1
+oid sha256:f339f2aad43e6e31ea0abaf9830de1f954a8468683d764ab99e2e7f97a12d547
+size 470

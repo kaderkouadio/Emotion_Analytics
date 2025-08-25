@@ -1,1 +1,3 @@
-Another one of the span of sorority killings during the 80's. many have come but most fall short in quality. This falls very short in quality. It's just another slice and dice teenage movies made for thrills. Once the movie starts and you get into it you begin to unravel the plot pretty quickly and then it's just a matter of time before the some teenage killings and some sex like all horror movies need to have. If you want a cheesy marathon put this somewhere near the top along with Madman, Choppin mall, The Forest, The Mad Butcher and Clownhouse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7057faf7e214634726a6e4230c40ab4967c99ead3f8fe91e45244ccd190588eb
+size 553

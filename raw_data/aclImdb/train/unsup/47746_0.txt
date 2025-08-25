@@ -1,1 +1,3 @@
-Worthless boring, disgusting garbage. The title says it all, the operative word being "Shit." It's amazing that any video store would pick up a steaming pile like this, when so many other worthwhile films never get picked up. Of course, I live in smalltown Indiana, so that's most of the problem right there. This is offensive trash...
+version https://git-lfs.github.com/spec/v1
+oid sha256:10c07021a94d163b46b723ff74e6976f80427caaa0b1e1545b521e6b27f84914
+size 335

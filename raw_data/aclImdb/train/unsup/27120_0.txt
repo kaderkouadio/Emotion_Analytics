@@ -1,1 +1,3 @@
-I saw this movie on TNT's Monstervision, and I think Mike and the Mystery Science Theater 300 robots would have a ball with this one. The writer blatantly ripped off the Alien movies with this disgrace, and the monster's habit of zipping through ducts to grab unsuspecting cast members is reminiscent of John Carpenter's The Thing. The best thing I found in the entire flick were the assault weapons carried by the cast. Better than some other bad movies I saw, but not by much. <br /><br />Rating: 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee90cab317f842a7e631ac9d39c1c5c1d3dc006f9472f268bb9942512d2a08b1
+size 503

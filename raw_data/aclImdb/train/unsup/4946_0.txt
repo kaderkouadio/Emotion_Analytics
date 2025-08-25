@@ -1,1 +1,3 @@
-Saw this film Last monday at NY Film Festival. It has 2 very appealing leads and a solid cast. Its a romantic comedy that tugs at the heart strings and serves up some hot swing music. Its a winning combination that is definitely a chick movie and will also pull in the crowd hungry for nostalgia. What more could you ask for?
+version https://git-lfs.github.com/spec/v1
+oid sha256:21fadab255bae2c84540872be9b9a046b1382d6494e708915063403ead93ab8d
+size 325

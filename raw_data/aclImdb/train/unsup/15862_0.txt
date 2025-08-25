@@ -1,1 +1,3 @@
-An entertaining look at a small town girl's rise to stardom. The film is shot documentary style & pokes great fun at the entertainment media. Canadians will get a chuckle out of the impersonation of MuchMusic (our MTV). Definitely worth checking out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0fa1ba3af0803e2b1760322daad698c7eaaf7e95220fbf7c9ef0af95d05e605
+size 250

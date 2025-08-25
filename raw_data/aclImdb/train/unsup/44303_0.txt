@@ -1,1 +1,3 @@
-Really bad attempt by British to make a Bollywood movie. The dancing is awful. I can dance way better!! (and I'm not much.) The acting is bad which could be the directing. There was an actor in it that I know is great. He had just a small part. Remember the guy who played Al Swerengen from HBO's Deadwood? I know he can do much better than this.<br /><br />Can't tell you just how much I hated it. Waste of time. THIS IS NOT A BOLLYWOOD MOVIE!!! Not even close. Just because they found Indian people in England and put them on screen doesn't make it Bollywood. Wow. They want me to do 10 lines of telling you just how crappy this movie is!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ccb1062f3b567a53bf3a088465815e24e39bacb05f5efed966d341acd7d6e2a
+size 643

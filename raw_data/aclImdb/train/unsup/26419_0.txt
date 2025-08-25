@@ -1,1 +1,3 @@
-Too bad it's not available on VHS or DVD, when I first saw this film years ago I was blown away , the mood it evokes is totally what living life day to day is all about , pure existentialism, my father was one and I have some of that in me , so I totally got it , Life is but a fleeting moment by moment .Existentialist ,Camus was one along with Sartre it's the same day everyday ,only we ,measure our own decay with the man made notion of time.Based on Camus's novel This film will either impress you or bore you.But then again it all depends on how you look at life. If you enjoyed films such as Fellini's "La dolce Vita" or "wager with the devil" then you will certainly enjoy "The Stranger"
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fa9134ee7ebaac54b9f1063a668c503d4ecc8e4608c0df8c16f37e6d544f53
+size 694

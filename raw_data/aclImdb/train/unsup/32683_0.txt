@@ -1,1 +1,3 @@
-There two types of bad film.... a)a film so bad you turn it off immediately or b)bad films starring hulk hogan that you have to watch to amuse yourself. Hulk plays Dave Dragon, some old guy who is not very hard and not very funny - and basically the bottom line of the film is some female terrorist tries to take over a theme park. They fail, thanks to some geeky kids who apparently know martial arts. The most annoying thing though is how easily grown adults get beaten up by pesky little kids. This film is so bad, but, fair play, I watched most of it so it achieved something in that sense. Enjoyable if you like ripping it out of bad actors and rubbish plots.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5256c502fe397e0f7a40d7e707c77a1af7ec7274d57b13b81bf56e89c8d9f28
+size 664

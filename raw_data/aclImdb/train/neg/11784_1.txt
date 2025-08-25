@@ -1,1 +1,3 @@
-I have never seen a movie as bad as this. It is meant to be a "fun" movie, but the only joke is at the start, and it is NOT funny. If you like this sort of movie, then you may just be able to give it a vote of 2. If it had the necessary votes, it would truly belong on the bottom 100.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aac2bcc58019bc497904f2045e487309a0f3d3e9550b9ef4439c8f13a12f777
+size 296

@@ -1,1 +1,3 @@
-Not a film of entertainment, but of real lives & limited ambition for the working class in 60's. Enjoyable because of my upbringing, not sure it'd work for most people. Typical Loach. Full of TV actors/actresses of 70's/80's/90's.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8010fe36a688e6cd581914fea3424b18dd5247fa52ab657f349679f502fac4b8
+size 230

@@ -1,1 +1,3 @@
-In my opinion, this is a pretty good celebrity skit show. I enjoyed seeing Greg Kinnear as the host. There are many reasons why I said that. Even though Hal Sparks was an okay host, I sometimes wish that Greg Kinnear hadn't left. If you ask me, it seems that nobody stays with a TV show throughout its entire run anymore. Still, I enjoyed seeing the various hosts and other people spoofing celebrities. If you ask me, that was pretty darn funny. Before I wrap this up, I must say that I kind of miss this show. Now, in conclusion, I highly recommend this show to all you die-hard sketch show fans. You will really enjoy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6961aa669ea044675d0bf4a496b9bdfc0d2b3b0e0b938457040da84e7a37e6a0
+size 623

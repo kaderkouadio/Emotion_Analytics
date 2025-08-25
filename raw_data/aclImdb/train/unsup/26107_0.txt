@@ -1,1 +1,3 @@
-Set in mississippi during the tumultous civil rights era, 1964, Gene Hackman and Willem Dafoe play FBI agents sent to uncover the whereabouts of some missing civil rights movement supporters. Of course they are not welcomed with open arms. Great acting by Hackman and Dafoe. Although the pairing of an older, wiser, vet and a newbie has been done so many times.. 7 of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:72de782062c629f39b73c8edc605610890471302c634e8b9eb4907140808ede6
+size 370

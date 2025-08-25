@@ -1,1 +1,3 @@
-For such an interesting topic, I found the film lacking in actual information about Victor. Then the film just ends. Victor is somewhere between 12 and 15(?) years old, if that old, and all we've seen are the attempts to teach him to read. The film was neither a film (acting was apparently not an issue) nor a documentary. I had to look up online to find out that he died 28 years later. Of what? What happened to him between where the movie ended and when he died?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e9d3ae2707932073831f5ed19153064a0c04b7f9a08880db907c4ff95703ea2
+size 466

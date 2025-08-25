@@ -1,1 +1,3 @@
-All Boris Karloff fans will love this classic film, where Karloff is the castle physician and gives his patients excellent attention. Sir Ronald Burton,(Richard Greene), an eighteenth-century English adventurer, believes his two friends have been murdered by Count Von Bruno,(Stephen McNally) on his Black Forest estate. Arriving at Von Bruno's castle to accumulate evidence, Burton learns Von Bruno's unhappy wife Elga (Paula Corday),. and Dr. Meissen(Boris Karloff), the castle physician, are virtual prisoners. Suspecting Burton's motives, Von Bruno and Gargon (Lon Chaney Jr., ) a giant, mute scarred henchman, discover the Englishman was responsible for their being captured and tortured. You will definitely have to view this great Classic Karloff Film to enjoy the ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae018fff1b4d3386f0b2f3b4c470fc263337e0137d7daf683797acc554e25fa0
+size 779

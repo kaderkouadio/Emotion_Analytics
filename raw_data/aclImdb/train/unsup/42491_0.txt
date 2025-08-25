@@ -1,1 +1,3 @@
-I find this movie a little interesting but very cheesy and boring if you watch it a few times. Also, I like the comedy in the dialog of this movie. If the Heisei series were able to create a movie with 4 monsters instead of two, I would elect Supermechgodzilla and Biollante versus Spacegodzilla and Destroyah. All those monsters can really put up a great fight against Godzilla. It will mainly be Supermechagodzilla versus Spacegodzilla and Biollante versus Destroyah. Godzilla will have to make a miracle to destroy them all. Spacegodzilla's crystal surroundings will make a good ring. It will be action packed with not a lot of human dialog as it would usually have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b84e30ceff6acef5950c2ddc60a61a696e8ffeeeaaa9d9faf655bc48ec4945
+size 669

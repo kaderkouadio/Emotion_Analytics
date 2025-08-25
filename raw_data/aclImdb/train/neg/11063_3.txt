@@ -1,1 +1,3 @@
-I do have the `guts' to inform you to please stay away from `Dahmer', the biographical film based on the real-life story of the grotesque serial killer. `Dahmer' strays more in relation to the mentality of its focused subject. Jeffrey Dahmer, who murdered over 15 young males and ate some of their body parts, was probably the most incongruous serial killer of our generation. However, the real sick individuals are the filmmakers of this awful spectacle who should have had their heads examined before deciding to greenlight this awful `dahm' project. This is not an easy film to digest, even though Jeffrey would have easily digested it with some fiery `brainsadillas' appetizers or even some real-life `Mr. Potato skins'. * Failure
+version https://git-lfs.github.com/spec/v1
+oid sha256:63b68f41be7672f41f5f6172dd5b131d69f02380a86ef7b225c614ebb564b404
+size 734

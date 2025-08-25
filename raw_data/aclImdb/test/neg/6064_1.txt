@@ -1,1 +1,3 @@
-The original Body and Soul (1947) is a masterpiece. John Garfield, Ann revere, Lilli Plmer, William Conrad, Canada Lee...and filmed by one of the greatest cinematographers to ever grace the screen..James Wong Howe. This remake is abominable. In spite of the presence of Rod Steiger, Joe Mantegna and Jennifer Beals there is nothing of value here and it is a shame this product bears the same title as the brilliant original. Only the main character's name, Charlie Davis, is the same in both films. I don't think there are any redeeming qualities in this remake. I am amazed that Rod Steiger participated. This may be the only bad film he ever made. Maybe he needed the paycheck.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ba7301837934a10ba24e533db8adfcf2de9280a56bad9649a47048a04a0de8
+size 679

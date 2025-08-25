@@ -1,1 +1,3 @@
-Innerspace is basically one long homage to Fantastic Voyage, but with Dante's typical weird comedy attached for good measure. All of Dante's favorite actors (William Schallert, Kevin McCarthy, Robert Picardo, Dick Miller) are along for the ride, but standouts are Quaid and Short. Meg Ryan in the Lois Lane role is less impressive. Overall, Innerspace is probably the wierdest "buddy movie" of all time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:292235cef31d44d27eb70e3d8cd3623822ec320d88e906b79cccf78190048164
+size 403

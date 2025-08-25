@@ -1,1 +1,3 @@
-This film has absolutely nothing to recommend it. Bad acting, an even worse script, poor cinematography ... you name it, it all flops. Many of the extras were not even aware they were taking part in a film as is evidenced by their staring curiously at the cameras. Unlike even PLAN 9 FROM OUTER SPACE, which is so bad it's at least worth some good laughs, this bomb doesn't even rate a good chuckle. An utter waste of celluloid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ed2d4a2cab2df8e9ca098f2de650d0f91d6330dff802ffb34893f85d8aaad55
+size 428

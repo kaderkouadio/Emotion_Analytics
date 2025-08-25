@@ -1,1 +1,3 @@
-Any chance to see Katharine Hepburn in something I haven't seen or from her early movie career is a treat, and on that level the film is amusing, but she's horrible miscast as a Hill Billy. Her famous New England enunciation slips through, making lines like, "I'd better rustle up some Vittles" pretty ludicrous. She's so pretty and so young it almost overcomes this major flaw. The story is an old fashioned melodrama, and there fore, a younger generation may think this pretty corny stuff, but this was the staple of American Entertainment well into the 1940's. It has its moments, but you might need to be a die-hard movie buff to appreciate it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b36382908613b1acfb9d5bc8a55f45c8dd427c04303e372855d3b86e7b28390
+size 650

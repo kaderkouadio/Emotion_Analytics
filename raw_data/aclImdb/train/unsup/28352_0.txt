@@ -1,1 +1,3 @@
-The four main characters complemented each other very well. The movie was very intelligently written. It was funny and moving. The ending is quite appropriate as the overall film is just a snapshot of one Friday night of these four bickering friends.<br /><br />I'm especially fond of Nestor Serrano's work in portraying Vinny/Fernando. Even though he was supposed to be a selfish womanizer, he did have certain qualities that made me sympathize with him. (For example, he did come to Willie's aid when he was thrown out of the party by the bigots, even though it meant giving up a chance with one of the few women in the movie who didn't flat out ignore his come-ons.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e8b0d6036d258afd713ac65f9c165cae3b88a107bd030c0e53f653b824c1a6
+size 669

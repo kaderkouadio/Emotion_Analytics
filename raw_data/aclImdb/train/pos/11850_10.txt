@@ -1,1 +1,3 @@
-I have probably seen this movie over fifty times by now because of the kids they just cant get enough of Spirit. The best thing about the movie I think is that the animals isn't able to talk, this makes the whole movie more honest and makes a better impression on both kids and the adults so 10/10 from the kids and me
+version https://git-lfs.github.com/spec/v1
+oid sha256:941b42ea80404b72004fe0bc226a8923c19ee129e796b976e5f90920964285be
+size 318

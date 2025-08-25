@@ -1,1 +1,3 @@
-This film is for people who like character and who like to think. Burt Lancaster's Valdez (beautifully underplayed) tries hard to do the right thing, but racism from a cold, cowardly Jon Cypher and practically every other white person forces him to get justice the hard way. I would not want to be the one in Bob Valdez's way or in his gun sites. I would be pretty happy, though, if Valdez had blown off R L Davis's (Richard Jordan) head, because he is one slimy little creep of a coward who richly deserved it. The ending is disappointing if you want to watch the film and forget about it, terrific if you want to keep thinking about it like I did. Got to watch this one again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6823b7522ca12cb5b79fbf45868710447ff2b3297531b779c6069a72cf7bc067
+size 678

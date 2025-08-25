@@ -1,1 +1,3 @@
-...this film noire set piece suffers from murky sound (at least, as shown on the inadequate equipment of both the Seattle and Maine film festivals) and murkier plotting, while Rickman suffers from an American accent, old tennis shoes and baggy sweats. Nonetheless, he has moments of stellar scenery chewing, and the film offers sinister ambiguity from Norman Reedus, the pretty Polly Walker, and a surprise ending (telescoped to frequent filmgoers), while affording a beautiful look at the physiography of both Maine and Rickman. Due out in video release (after a cable airing) in March. Not to be missed by any Rickman fan. Ignore the amanita hooey.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58661643b509f692649942fe538a7cfddf48b5fafd3e790ca7b61f892e8e0836
+size 650

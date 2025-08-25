@@ -1,1 +1,3 @@
-Very smart, sometimes shocking, I just love it. It shoved one more side of David's brilliant talent. He impressed me greatly! David is the best. The movie captivates your attention for every second.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5188191434c8ebb26f60ed621dfc3a3973803376a1a2ddbc01206cfb094b3d24
+size 198

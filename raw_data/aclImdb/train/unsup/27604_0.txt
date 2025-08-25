@@ -1,1 +1,3 @@
-The earliest episodes with John Amos as the captain were silly. His continuing bad attitude toward them in the face of their success was unrealistic. Beyond that, however, the entire series was great. It suffered some after Stepfanie Kramer left, but it was still good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:909c27ad4ce9f48027f8dac54f1eb32b712e3472198867259d3cf2d3b6cbbe57
+size 269

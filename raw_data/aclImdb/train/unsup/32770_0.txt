@@ -1,1 +1,3 @@
-Sly needs to stick to 'Rambo' and 'Rocky' movies and forget about doing comedy. Plot was weak. While this is suppose to be a comedy, it got very few laughs from the audience. One of the few movies I was tempted to leave after the first twenty minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596d535d67fcd21d24376f19e8e1663b1a96095199a187debe97156ab27ea356
+size 251

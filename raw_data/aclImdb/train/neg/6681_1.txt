@@ -1,1 +1,3 @@
-I don't know why, but when I am asked about bad movies I have seen, I often think of "The Air Up There". I know that technically, lots of movies are horrible compared to it, and I have seen worse acting. it's just that it's so bland, so predictable. In a word: mediocre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:202cca1dd30e529b9fefb01dfad87fe50cce5e2fad0168eed9f9ded9e3b57161
+size 270

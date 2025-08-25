@@ -1,1 +1,3 @@
-A good example of what you get when a successful actor directs his own movie with himself as the star. It works on occasion, but here you get the distinct feeling that some input from the outside would have helped that film along a long way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4761877c3d4d586b0c232bb09ab35f00078ca6395d9f41258c412e37b47408e0
+size 241

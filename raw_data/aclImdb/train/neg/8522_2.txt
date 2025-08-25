@@ -1,1 +1,3 @@
-very badly made film, the action/violence scenes are ridiculous.<br /><br />1 point for the presence of Burton and Mastroianni + 1 point for the real tragic event of the massacre of the innocent italians: 2/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a0ba66bf38947bfabfc399864ae2dd349cf917ff2da22dd49d1e36a2a1a9351
+size 210

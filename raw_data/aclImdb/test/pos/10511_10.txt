@@ -1,1 +1,3 @@
-This is a wonderful movie. I've only seen it twice, and I've been looking for it again for ever. I'd buy it if I could find it. While it's sad, it shows three things -- how much a man can love a woman, how hard some people want something and how hard people work to overcome their limitations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42ca61f40d699b9ffc8723cb54f40803e64c60b3e7c14160f2aa0bb6138ee0fa
+size 293

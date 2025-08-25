@@ -1,1 +1,3 @@
-I know this is a made for TV movie, and the acting in made for TV movies is usually sub-par, but it's absolutely horrendous in this film. Sometimes acting gets so bad it's laughable, but in this case, it's so bad it's sickening.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba541071af4c1cd02b7ee0b29e25e03081471c6ff264bd5fffe8a51933eda1a
+size 228

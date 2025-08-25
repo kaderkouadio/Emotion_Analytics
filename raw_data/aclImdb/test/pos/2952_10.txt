@@ -1,1 +1,3 @@
-For those who still prefer films focusing on human relationships, 51 Birch Street is a must see.<br /><br />By training the spotlight on his own family, Block covers terrain that is off-limits for most filmmakers. He explores a common but often unspoken family dynamic and does so without resorting to hyperbole or sensationalism. In fact, the film is deceptively low key at the outset. <br /><br />In addition to providing a probing look at one family - and, by extension, every family - Block has also chronicled a very specific period in recent history. I don't know if this was intentional, but unavoidable due to archival content.<br /><br />Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c505768dd768a11e2942d6a6fb3a2d736017bdd40d828cbb725f01087f05d297
+size 666

@@ -1,1 +1,3 @@
-This movie coming from Turkey where you can't find any tradition of horror movies. First I was afraid of watching just an adaptation but after seeing it I have changed my mind. It has original scenario.A love movie using horror thema. Most of the players are not famous young people but their performance is proofing that a new generation is coming. Maybe this is a sign that turkish cinema is coming back after 20 years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b833a5aacb9ff51ba1f1b803a5943fa41427a9e4fd5e0ccb2be073c768553062
+size 421

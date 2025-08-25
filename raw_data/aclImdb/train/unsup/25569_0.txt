@@ -1,1 +1,3 @@
-This movie fast became one of my favorite comedies I had ever seen. I literally fell out of my chair while watching it in the theater. If you want laughs, Norm and Dave Chapelle deliver them in bucket loads. Don't look for any great directing or Oscar worthy acting, but this movie without a doubt received ten stars from me. Devito does a great job in a hilarious supporting role. The movie takes you through a lot of twists and turns but it delivers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9c2a40c683f98d23cbecaa459434a227973a38f3c26e66dfc9909d45264603
+size 452

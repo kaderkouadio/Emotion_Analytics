@@ -1,1 +1,3 @@
-This would probably be a good film to see....provided you've already seen every other film in existence, and thoroughly explored the bellybuttons of yourself and those around you. God, this movie was unbelievably insipid, with some of the worst (or is it nonexistent) writing ever captured on film. There is no saving grace to this film; even the animatronics are kind of lame, and it's just a complete waste of time and money.<br /><br />Run. Fast. It's beyond horrible.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9545cdc6e997d3d290daa97ec8d9d9e717aea38d92d08c50336de3f1dbcf61c
+size 483

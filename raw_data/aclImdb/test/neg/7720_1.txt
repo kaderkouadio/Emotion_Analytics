@@ -1,1 +1,3 @@
-How bad can you make a film. A good question which House of the Dead 2 succeeds in answering. I could not believe it was possible to get something worse than the first House of the Dead but amazingly the director has succeeded. The only feeling you get from the film is that its bad, just bad. What with overacting, bad FX and a stupid story. Its this kind of movie which gives a bad name to Z-Movies in general. Why could they not learn the lesson from the first House of the Dead movie? Anyway I guess you will have understood by now that you should not see this film. It is but a waste of time. Watch "Bad Taste" or "Dawn of the Dead" if you want to see some good zombies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d17394df0279544975ad3f63f30ac7f58b3286e7f8a9111701d9f331f64ea4
+size 675

@@ -1,1 +1,3 @@
-A delightful and wonderful film, which has entered my pantheon of great romantic comedies. IN many ways it's even better than "When Harry met Sally." IT wears well on viewing and re-viewing. The cast is excellent, and both David Duchovny and Minnie Driver give us really believable characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d411922b24f103356e0755f9e39f1db413632810fd21805edb438fc67f834d67
+size 293

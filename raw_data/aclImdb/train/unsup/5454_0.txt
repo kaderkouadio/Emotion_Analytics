@@ -1,1 +1,3 @@
-I saw Bugcrush this evening as a part of the Palm Springs Short Film Festival. It was the final movie in the series of gay shorts, with the other movies (for the most part) being funny & interesting. This was the last movie - and was dark, disturbing, grotesque, and bizarre. Perhaps if I was prepared for a creepy, scary movie I would have enjoyed it - but I gasped in all the same parts that the rest of the sold-out gay crowd did. When the Q&A's came at the end, more than half the crowd got up and left, saying things like "Let's get out of here, so I don't have to hear anything about Bugcrush." Of the eight movies shown, Bugcrush was the most memorable - but not in a good way. If that was the point of the movie - it succeeded.
+version https://git-lfs.github.com/spec/v1
+oid sha256:969cc1e3f308afe30e5ac598fd0d08595160612dcf27d31d559a958bb1c68820
+size 735

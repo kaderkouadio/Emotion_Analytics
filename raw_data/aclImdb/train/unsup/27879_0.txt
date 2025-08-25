@@ -1,1 +1,3 @@
-<br /><br />I was somewhat reluctant when my girlfriend wanted me to see this film with her, because danish comedies has not been that funny in the last last pair of decades!<br /><br />BUT, I must admit that I was very glad to discover, that this comedy was very funny indeed!<br /><br />The leading female actor Sidse Babett Knudsen is giving a great performance! (She was btw also great in the movie 'Let's get Lost')<br /><br />All in All : Good Entertainment!
+version https://git-lfs.github.com/spec/v1
+oid sha256:422257a34db1ccabd34e7a5a493b0654fd5ba05db0eac23f8ae277e364d54c5d
+size 464

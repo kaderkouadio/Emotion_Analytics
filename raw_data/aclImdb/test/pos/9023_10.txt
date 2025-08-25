@@ -1,1 +1,3 @@
-This was a very funny movie, not Oscar-worthy, but definately the best dollar I've ever spent at Blockbuster! Rupert Penry Jones is a shining star, and very well might be the new Jude Law! So, if you're in the mood for a British Teen Flick- RENT IT!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:597216273eef01c493b43cf9f33a3bd350c939edf4fb3e5d29ae5d90f2397006
+size 250

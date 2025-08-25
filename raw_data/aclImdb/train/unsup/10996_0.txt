@@ -1,1 +1,3 @@
-Absolutely a great movie. I really enjoyed watching Ben play his role as steven carter. I loved the setting where like other teens today, who can confide with a close friend and not their parents. this can be a lesson to all parents out there. Listen to what your child is trying to tell you. Listen and understand.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52a7c2ffa80315d738f86847326ccabf89882ae7174db6dc513be1fb7659106b
+size 315

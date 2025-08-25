@@ -1,1 +1,3 @@
-I found this movie to be very well-paced. The premise is quite imaginative, and as a viewer I was pulled along as the characters developed. The pacing is done very well for those that like to think--enough is kept hidden from the viewer early on, and questions keep arising which are later answered, producing a well-thought out and very satisfying film, both cerebrally and from an action standpoint.<br /><br />It seems some people were looking for a non-stop roller-coaster ride with this film--one of those that comes charging out of the gate. This would be more analogous to one of those coasters that first takes you slowly up the hill--creating a wonderful sense of anticipation--and is ultimately, in my mind, more fulfilling for the foundation initially laid.<br /><br />Excellent film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e71fe1825706006f9956210bae96caf2414dafff5435efa091bed8436a1f666f
+size 795

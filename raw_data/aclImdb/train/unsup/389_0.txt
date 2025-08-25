@@ -1,1 +1,3 @@
-I liked it a lot, in fact even more than the first movie. I loved the character of Ghost and all the comic book shots and her third person lines. Good ending. One thing they could have done was make the identity of the werewolf clearer. Also when the sister appeared it was kind of forced.. it didn't seem like she was a delusion
+version https://git-lfs.github.com/spec/v1
+oid sha256:1997701adcedc7cf845d4bf2ff1dd016bf15d4b880b30ac94cc3b711fdb87622
+size 329

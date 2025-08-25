@@ -1,1 +1,3 @@
-The Hebrew Hammer is a clever idea wasted, as the execution is weak. As if often the case with iconoclastic humor, it relies overly on outrage to generate laughs, which simply isn't enough. Poor-taste humor has two elements -- poor taste and humor -- and both are needed here, but the humor is pretty scarce. As a result, it is often painful to watch, all the more so because of good attempts on the part of the performers, particularly Adam Goldberg as the HH himself. The Shaft references are funny, though, but only to those who know those movies, and they certainly don't carry The Hebrew Hammer.<br /><br />Another problem is that many of the jokes rely on knowledge of American Jewish culture, and many in the audience will simply not understand the jokes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8ae5b3846f7e901445e5f4c8d26f9ebd75d38927eed81dd40e36029a26b006
+size 762

@@ -1,1 +1,3 @@
-This is the slowest "film noir" film I've ever seen. Very weak script only provides opportunity for Jack Palance and Rod Steiger to deliver exceptionally well, lines that were made for an acting audition. Palance and Steiger both affirm they are indeed serious actors who can portray their respective roles with power, emotion and drama. The story itself moves at an incredibly slow pace, mostly taking place in a living room. The director obviously moved the actors around in a rythmatic circles as they delivered exhaustingly long lines, to keep the slow pace from becoming noticeable to the audience. The action doesn't pick up until the last ten minutes of the film. If you're one who's looking for more depth in a crime drama, this one's not for you!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0578dbd0f82adf9c3c9c7f60efb9d9258bac66da32487afbc00cc9c0db58a7ec
+size 755

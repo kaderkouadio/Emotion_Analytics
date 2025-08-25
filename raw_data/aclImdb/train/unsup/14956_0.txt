@@ -1,1 +1,3 @@
-A riveting, exciting, edge of your seat thriller that never lets up. Buoyed by a good cast, script, special effects and directing, this movie is tops in its genre, in my opinion. The only thing I wonder about is Harrison Ford's range of facial expression - he never seems to be able to get that baffled look off his face. Gary Oldman is top-notch as usual, and Glenn Close has ample opportunity to demonstrate her acting talent. If you're looking for a movie that will keep you on the edge of your seat from the first moment, Air Force One is it. 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b654aa05461c765b04bf76f01df4a9bdbf54762676f1a0fd3515768a73446b3f
+size 552

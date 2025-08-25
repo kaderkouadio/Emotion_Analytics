@@ -1,1 +1,3 @@
-The story is enormously week. The scenes are glued together, and everything is so obvious, it's scary! It is not the acting that is bad, it is not fantastic, but it is everything this film has going for it. And then there is the soundtrack, the highlight of this flick! Thank god you also just listen to it, without this awful film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e320d7a334443321e8999e8d82f0c4ef4a4cab81e4b26a04a59bffcad519d901
+size 332

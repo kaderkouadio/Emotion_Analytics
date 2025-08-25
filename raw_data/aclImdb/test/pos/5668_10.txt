@@ -1,1 +1,3 @@
-A wonderful film - a charming, quirky family story. A cross-country journey filled with lots of interesting, oddball stops along the way (& several very cool cameos). Great cast led by Rod Steiger carries the film along and leads to a surprise ending. Well directed & shot - a really nice movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:164f6cf827d3f4ce8a2dfccd88bc66c1f319e39d46e1db48ac70e06e4d58edc8
+size 295

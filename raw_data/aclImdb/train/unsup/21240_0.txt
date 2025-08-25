@@ -1,1 +1,3 @@
-I loved this film because it was absolutely real and totally believable. The character development was awesome and the tensions between the characters could be cut with a knife (sorry, you'll see why!). An emotional rollercoaster from start to finish. Don't miss this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba1ebc85e1479a8b4f9d4c727a7245b7d7d8788abe71097244503fed9067908
+size 272

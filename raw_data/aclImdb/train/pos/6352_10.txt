@@ -1,1 +1,3 @@
-Jim Carrey shines in this beautiful movie. This is now one of my favorite movies. I read all about the making and I thought it was incredible how the did it. I can't wait till this comes out on DVD. I saw this in theaters so many times, I can't even count how times I've seen it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55820cc60340b05d73b79febc48b395bf4c6ff2bbfc33647f89505faa988a789
+size 279

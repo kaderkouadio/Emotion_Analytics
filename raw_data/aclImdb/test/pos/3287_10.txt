@@ -1,1 +1,3 @@
-This movie is a nice, cute family oriented film. If you don't like violence, this is the movie to watch. Only thing annoying about this movie is the tune (but it's a catchy tune) repeats whenever c.h.o.m.p.s. leaps in to action.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5bcdebc4a11aac480e3c21442b556f0f00ac5a33d35bbed479cb51e75162f06
+size 228

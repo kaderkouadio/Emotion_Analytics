@@ -1,1 +1,3 @@
-I just re-watched this not too long ago, and was reminded again of the beauty of this film. The film opens with narrative by the late Richard Kiley, who plays the role of the elderly Matthew the Apostle. Compelling performances by Mr. Kiley and Bruce Marciano, among others, make this a film you can watch over and over. Also, the area they were filming in (Morrocco, I believe) is absolutely stunning.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7411a0ed4d501d76957b70047bba21351aa8ca2f85ccc3fa18757e542846559
+size 402

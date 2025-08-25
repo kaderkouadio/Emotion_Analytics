@@ -1,1 +1,3 @@
-Not the greatest film I've ever seen, but the score by Philip Glass is wonderful & the cinematography of Chicago is also terrific!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e7b5db870e493b7246d612754c62366a95433241ed7634acd4fdf4cd9a301e7
+size 130

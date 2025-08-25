@@ -1,1 +1,3 @@
-Why do they keep making trash like this? because it makes money that's why. Eraser is not so much a film but a string of action set pieces strung together. It's well filmed but predictable and it's all been done before, only better. This is basically a Nineties version of 'Commando'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92fdfeabcf69c2eeecebe3b0018e115b1256e17c012b77e9614f10fe12806d03
+size 284

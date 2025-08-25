@@ -1,1 +1,3 @@
-I found this sitcom to be pretty funny. Thats mostly because of Berg who is just funny as hell. The rest of the cast was OK and Sharon was hot. What I really didn't like was Pete. I found the character really annoying and I noticed a serious contrast between his behaviour in some episodes than in the rest of them. Also I thought that the actor Richard Ruccolo was clearly overacting, thus making his role less realistic. I enjoyed watching the show especially the 2nd season which filled my boring hours during summer. Its not as good as friends but its a good choice and should be watched by anyone who likes standard funny sitcoms
+version https://git-lfs.github.com/spec/v1
+oid sha256:b392028761d5714e9db3b77ba55ac6b89359180d55b5e72ace829ace0b06247c
+size 634

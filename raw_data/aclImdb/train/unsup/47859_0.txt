@@ -1,1 +1,3 @@
-At best this could be described as an 80 minute home movie. In fact, a number of shots show the cameras involved, and they are mere consumer grade camcorders... without anti-shaking features apparently. Many scenes rivaled Blair Witch Project in its lack ability to keep things stable. Terrible panning shots in an effort to keep up with the action. Just thinking about it again makes me want to puke.<br /><br />Don't watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d091c0db527b7c885bd81466ac1d6ee0f176a5f059347140f552c8844f73807
+size 425

@@ -1,1 +1,3 @@
-I couldn't believe I spent $14.00 on this. The only redeeming quality is the outrageous gore. The dubbing was worse than any I have ever experienced. It looks like it was shot with a VHS camcorder. I think every pfennig was spent on the special effects because there was a whole lot of blood and body parts everywhere. Its one of the worst movies I have ever seen but I do have to acknowledge the plentiful gore that wasn't as disgusting as it could have been because the whole movie is so silly and unbelievable
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe86628a2c1e0aaf662fb6f77746156daf0a1e12ab4f3624a37be0f143149091
+size 512

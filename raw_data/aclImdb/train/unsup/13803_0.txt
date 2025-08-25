@@ -1,1 +1,3 @@
-Okay, so lots of people thought this stunk because Elizabeth Taylor couldn't sing, it missed the magic of stage presence and it is not really good movie material. It is however an opportunity to see an interpretation of the performances of the broadway stage who originated some of the characters as interpreted by the stage version's director. It is a very good story of romance, duty and innocence. Sondheim's lyrics are wonderful, Diana Rigg is delightful and overall the quality of the show is more than acceptable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:446c3b577d7837e0a21cbd9a061f921311748ef7dfa493cbdb8488d1bcca2b81
+size 519

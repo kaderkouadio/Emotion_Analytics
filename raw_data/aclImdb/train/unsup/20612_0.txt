@@ -1,1 +1,3 @@
-Excellent, beautiful and amusing account of the Crusades. For those who think that the account is a little one sided and harsh on Catholics should consider this. Pope John Paul II himself apologized for the mistakes committed in the name of the Church during the Crusades to Muslim leaders in March of 2000. <br /><br />As a Catholic, i never felt for one moment that Catholisism was being portrayed as "..utterly irrational, bloodthirsty, and a forerunner to Nazism" in the series. To call that suggestion a ridiculous hyperbole would be an understatement. I hope some people here realize that the Church never was or ever will be infallible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b47637d129a65f3b347a4283f637f3f784cee4b18f407ee46903c767667c7c3
+size 643

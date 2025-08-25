@@ -1,1 +1,3 @@
-Tony is incredible! It was so nice to see someone as deserving as him win the Emmy for Lead Actor in a comedy series. The man is just plain brilliant! I hope this one has a long run! This is 'must see' television. Way to go USA Network!
+version https://git-lfs.github.com/spec/v1
+oid sha256:28997e153a981b42487ae40dde23c6bc55a0793b63b64d35dfe6b1efac7f86eb
+size 236

@@ -1,1 +1,3 @@
-This is one of my favorite movies. Everyone in it is wonderful and perfect in their roles. I, for one, can never get enough of Chloe Webb or John Malkovitch or Joe Mantegna, and this movie supplies all in a stunning array. The writing is wonderful, and it's beautifully shot. Not a movie to be missed, although the clothes and music are slightly dated now.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9903e16ee6d9fd692c4ec39c77e1fa35b674f14053fc6f640ccb94dc03a5159c
+size 356

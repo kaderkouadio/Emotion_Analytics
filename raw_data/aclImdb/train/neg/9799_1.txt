@@ -1,1 +1,3 @@
-Power Rangers, the completely awful kid's show from the 1990s still continues to disturb young children with it's complete cheesiness, and awful settings.<br /><br />This show was not entertainment, it was an excuse to teach children violence in showing kids how to fight one another in order to solve their differences.<br /><br />The toys were further demonstration in how to promote a violent television show and such.<br /><br />I have never been able to figure out what the purpose of this completely ridiculous show ever was.<br /><br />As such, it remains one of the worst kids shows ever made.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c12139b7d3b00c5dacd40eaf056d8f6eb2a01e6589d69a49879bdbad149b4b2
+size 601

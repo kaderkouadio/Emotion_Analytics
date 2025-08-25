@@ -1,1 +1,3 @@
-An Insomniac's Nightmare was an incredibly interesting, well-made film. I loved the way it just throws you into the main character's subconscious without coddling the viewer...the acting was top notch - honestly, I would watch Dominic Monaghan read the phone book! - but everyone else, especially the young girl, was great as well. I was very impressed by the look of the film, too. Usually, "independent films" have a grainy, I-shot-this-on-my-camcorder look to them, but this director knows what she's doing. The lighting, the cinematography...quality work. I'm looking forward to a feature-length work from Tess Nanavati!
+version https://git-lfs.github.com/spec/v1
+oid sha256:733c8c47d31832791460a87d94bba4d57eb5393a5744d45a5d9371ec0ca9329c
+size 624

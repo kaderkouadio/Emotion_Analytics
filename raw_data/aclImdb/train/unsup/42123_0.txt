@@ -1,1 +1,3 @@
-Simply put: it has no soul. It is devoid of character and suffers from being overdesigned and grossly underwritten. The novel and the 1980 PBS version are full of interesting, curious "character moments" and have a healthy sense of wry humor. This version has sacrificed everything--everything--that made the novel and the earlier version so wonderful, so human. George Orr is a mannequin. Lelache is a complete cipher. Dr. Haber exhibits none of the eccentric egomania that should be driving his character.<br /><br />Lest you turn into a pillar of salt like Lots' wife, avert your eyes...
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ac0e05135c1857003a1461ec042ba6197d1b101e487670e91e3ef0470c8a9b
+size 590

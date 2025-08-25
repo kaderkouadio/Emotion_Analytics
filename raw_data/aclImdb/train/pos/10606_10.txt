@@ -1,1 +1,3 @@
-I just finished watching this film and found it very enjoyable. It is a quiet, little film that doesn't overwhelm you with special effects or "big" performances. It simply takes you into the lives of the people living in a small hamlet in the backwoods of North Carolina. <br /><br />Henry Thomas gives a good performance as Raymond Toker, a young loner who finds a baby abandoned in the woods. Toker's search for the baby's parents takes him on a journey that will have a profound impact on his life. David Srathairn plays Truman Lester, a slimy conman with an ulterior motive. And David plays the bad guy to perfection. <br /><br />There is much more to this film than first meets the eye. Filmed on location in North Carolina and with a wonderful sound track of traditional music, it is worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5e1a0e40f5cf5419316101269c12d4dc20cc49e9f6d5b72f259820ced96de87
+size 805

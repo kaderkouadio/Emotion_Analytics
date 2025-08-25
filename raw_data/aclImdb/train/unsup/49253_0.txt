@@ -1,1 +1,3 @@
-I kept waiting around for something redeeming to happen - it doesn't. As far as I could see, this was a totally pointless movie about a loser who never learns anything about himself. He is a self centered, self pitying person who never "gets it" - i.e., he is the problem. It makes me wonder - Who would put up money to make a movie like this? This was so bad!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b904f0ec6aa483bacb42595343e57563408347c446458aeddb445387bcce88f
+size 362

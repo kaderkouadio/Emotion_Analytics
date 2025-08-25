@@ -1,1 +1,3 @@
-This movie is the first one by Cem Yilmaz, unquestionably the most popular and funniest stand-up comedian. He portrays one of the funniest characters in the recent Turkish movie history and the on screen chemistry between the two main characters (who by the way, are also friends off camera) is amazing. <br /><br />It appears as if all the movie was taken in one shot, since all the characters are genuinely sincere, and they even do some mistakes especially in some 1-1 dialogs. These imperfections make the movie truly unique and enjoyable. <br /><br />It's worth watching over and over, since all the dialogs are marvelous and thoughtfully written by Cem Yilmaz, himself. <br /><br />Deserves a **** (out of 4)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be9b93dbf7f5a50d81dbce474f3235ff71f7199b6b29ae3ed6acc4ea8ca4b45
+size 714

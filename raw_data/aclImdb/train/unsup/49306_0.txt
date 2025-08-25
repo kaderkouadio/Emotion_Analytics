@@ -1,1 +1,3 @@
-This "comedy" is awful. It is boring. Good actors making fools of themselves appearing in this awful movie. There was nothing funny in this movie. Jokes are awful and the plot is junk also... Avoid this movie at all costs. I wouldn't recommend this movie to anyone. Depressing...
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aef7dc2c6b6f947fb175ddcffec84cd288d29627a7eea6622b5013cc06136e4
+size 279

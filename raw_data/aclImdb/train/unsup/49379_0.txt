@@ -1,1 +1,3 @@
-If anyone has seen Days of Heaven, there's no need to suffer through Under Heaven. The tension and credibility have been drained out of this Wings of the Dove remake. An interesting cast has had all their life and spontaneity removed. Heavy-handed movie-making at its worst because there's talent wasted here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c6eff35db87d6b057f1f96c70829ba4b8fc891d3cf561761637cfcc5f7b5a53
+size 309

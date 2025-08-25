@@ -1,1 +1,3 @@
-Creepshow 2 had a lot of potential, they just didn't put enough time in perfecting it. The stories were pretty cool and creepy enough, but it was lacking. It's a good movie, but after you've seen it once, you might want to see it again. This movie could of been better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe681571c62fe6edab7ed039f50d077585b372a3d518c7517c5daa5c2e9273d
+size 269

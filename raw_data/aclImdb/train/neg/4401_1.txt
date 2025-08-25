@@ -1,1 +1,3 @@
-We went to the movie with a group because the play we were going to was cancelled. It is without doubt one of the worst movies ever. It is not that i don't like cult-movies I do. But nothing happens in the film. One does not feel any connection with the characters whatsoever. endless times without dialog. And the car. How do thay carry a huge tent and beds chairs and clothing for every day in that car? It is a two seater! I have to say however the scenery is beautiful, but not in a movie, the director should have made a photoshoot of the movie, so that we could skip about 80 minutes of useless time in with nothing happens anyway.<br /><br /> I would not recommend it, as it is a waste of your time
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc6ce78b689470c26306d33b888e8b924699770b2fa0f271d719c0c0e0a2b15
+size 705

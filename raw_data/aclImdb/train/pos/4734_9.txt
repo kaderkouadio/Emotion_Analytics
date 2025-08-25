@@ -1,1 +1,3 @@
-I am a massive fan of Jet Li! He is THE best HK action film star alive... and consequently - This film rocked! I saw it in the video store and, as it was in the mainstream section of this mainstream video store, I didnt register its presence at first, and had to look twice. I immediately knew what I would be renting out. My only qualm (I suppose I expected it) is that it was dubbed (AAARGh) and not subtitled. Elsewise, the movie's original/strange/cool plot, and full on action made it one of Jet Li's better movies... even though they all fall under that category....
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d035c144b74c030421e9ddf3616a32df721199bc032a4c4427d0b47d6a4e1fb
+size 572

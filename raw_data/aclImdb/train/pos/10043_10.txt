@@ -1,1 +1,3 @@
-This movie re-wrote film history in every way. No one cares what anyone thinks about this movie, because it transcends criticism. Every flaw in the movie is easily overcome by the many amazing things the movie has going for it. It is an extremely beautiful movie, and I doubt many of us will see anything like it again. I've seen it more times than I care to count, and I still become transfixed every time, with a feeling which is hard to describe. One for the ages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61179abdc4420ce59c821e141d2f6cf4e2fca91a3757c3ff816f800a462cc9ce
+size 467

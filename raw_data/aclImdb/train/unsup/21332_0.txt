@@ -1,1 +1,3 @@
-"Beneath still waters" is'nt comparable to some of the masterpieces in which Yuzna has been involved as a director ("Society") or producer ("Re-animator"). It has some serious flaw too, like the quite predictable script (with some really terrible line in the dialogues). But it's worth watching, if only for the spirit of the operation: low-budget euro-horror made with love and care. Plus very good locations and suggestive underwater shots, a right amount of gore, a perfect villain and a final orgy that cannot fail to remind "Society"'s finale. The entertainment is not missing.<br /><br />I think it's a kind of cinema that should be supported.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a3f91a6009d70339b0c156d2c4b88015b67cf347777ed4a16fb6e6dda19934d
+size 649

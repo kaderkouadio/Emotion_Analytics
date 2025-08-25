@@ -1,1 +1,3 @@
-If folks were really this stupid I could be the SRW - Supreme Ruler of the World. In this one Knotts plays a dimwitted bean counter for some little jerk water town run by a group of crooked simpletons only slightly brighter than he is. When things appear a bit shaky for the crooks they go for a frame-up of the patsy Figg. Plenty of laughs as Knotts does his usual bumbling, stumbling act. I especially appreciated the extension cord scene; asininity at it's highest level.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d63a63725e59bf0510ede2194ba5b9be26f45d81589b4aca6e53ff91aca0ff71
+size 474

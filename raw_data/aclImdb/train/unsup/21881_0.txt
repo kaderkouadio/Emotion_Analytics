@@ -1,1 +1,3 @@
-Why isn't there a video of this hilarious film, which is seldom shown on television. One of many priceless snatches of dialogue -- PANDORA (ecstatic) Mother, last night I had my first orgasm. MOTHER: Orgasm? In my day, we didn't have them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b41157e2ca4f517d24dc100b5ab0c51937010b4e9457479cdea7011e4482ffb
+size 239

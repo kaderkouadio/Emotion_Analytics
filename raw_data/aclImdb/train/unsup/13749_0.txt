@@ -1,1 +1,3 @@
-This movie was thrown together without any attention to story line.<br /><br />It was a sorry excuse for cinema with no surprises and no excuse to be made in the first place.<br /><br />The slashing and thrashing scenes were dreadfully predictable and this movie is void of any merit. It was an independent effort that should not have been made.<br /><br />I liked the premise of making fun of reality shows but in turn, the movie gave us less cinema and drama than most reality shows in the first place. <br /><br />Somehow it achieved the best promotion for reality TV I've ever seen.<br /><br />Mike Wagner
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c28fbaa4e4524c3294df8454429cd15bac0113b95aa95f05c9a73d4b3d2301a
+size 609

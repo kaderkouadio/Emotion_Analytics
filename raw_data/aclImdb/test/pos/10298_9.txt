@@ -1,1 +1,3 @@
-"L'appartement" has to be among the best French films I have ever seen (along with "Hatred", also starring Vincent Cassel, and those great Gerard Dépardieu/Pierre Richard movies). Cassel and Bellucci are amazing in the leading roles. Aside from "Brotherhood Of The Wolves" and "Dobermann" I have not yet seen a bad movie with this couple. "L'appartement" sucks you in from the beginning and the twists and turns keep you thrilled until the very end. Fragment storytelling really hasn't worked this well since "Pulp Fiction". Let's just hope there won't be a godawful American remake of this unique romance/mystery-thriller. (EDIT: Guess what! A godawful American remake has been made!)!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e23616580f90de3300395422f158741f909fc60b51a2ce7242aaf029b8e54ea9
+size 687

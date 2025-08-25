@@ -1,1 +1,3 @@
-<br /><br />This was a surprisingly accurate adaptation of part of Fleming's novel and is the debut of Bond on film. There took a few minor *ahem* liberties with the nationality of our favorite superspy and this is a TV movie from the 1950's. If you're lucky enough to ever see this, you won't really be thinking about that. You'll be like wow, I can't believe I actually got to see this!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f22d4e52397ddd3fdb5e5884fbedc90b6505638eb7ebf1e10458411498bb2731
+size 388

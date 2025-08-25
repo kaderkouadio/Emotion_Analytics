@@ -1,1 +1,3 @@
-With this cartoon, Sylvester the Cat has a new obstacle in trying to catch the Tweety Bird: His owner, Granny, as originally voiced by Bea Benaderet (June Foray would later take over). She may be elderly but she can still belt the cat with the best of them! Other obstacles include an 800 pound weight and Sylvester's miscalculation in the distance from his building to Tweety's in using a rope to swing from one place to another. The cat also disguises himself as a monkey at one point. Since Friz Freling is the director, look for his name on one of the buildings as a drink with "Six Delicious Flavors". This was on disc 4 of The Looney Tunes Golden Collection, Vol. 1. Very funny and highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd26a895c3ce168bdbd6c283551d169c113aa46216526ad649c9e43d400935a0
+size 707

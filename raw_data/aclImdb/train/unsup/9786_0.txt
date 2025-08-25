@@ -1,1 +1,3 @@
-Entertaining film about a young girl whose parents are mute and depend upon her to communicate to the speaking world for them. Her aunt, a free-spirited musician, teaches her to play the clarinet, but the parents object. The young girl matures into a young woman whose musical abilities and desires become paramount. Her dependent parents attempt to keep her home and away from her chosen vocation. Well acted and a good drama. Large, yellow subtitles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5c0d4d10f6c4a804ba231d885df7b143c4d18f91d11eeccb34371079cef0b0e
+size 452

@@ -1,1 +1,3 @@
-What I love about this show is that it follows the lives of modern witches and it's a blast to experience their everyday love, humor and adventure. The literature of magic is so diverse, portraying the ideas of classical, medieval and modern wizardry, like Harry Potter and Sabrina. With Sabrina the Teenage Witch, this show is so fun and unique because it lets us experience a lot of that modern wizardry, seven seasons worth! This show has so many great qualities and it's a joy to watch Sabrina live her daily life in the mortal and "other" realm. I would recommend this to any family because the television series is clean, funny and adventurous. Classic!
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b5f26ead03aa055ca7a67b0f70ec0b37287024dd8166685f5da36e1d906022
+size 659

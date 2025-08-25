@@ -1,1 +1,3 @@
-Nothing really unpredictable in this movie, but a solid flick in all respects. Everything from acting to cinematography was solid. Not a perfectly linear plot line, but there wasn't anything you couldn't see coming. Perhaps a tad melodramatic at points, but again, a fairly decent movie none the less. Definitely worth checking out. If in doubt of what film to rent over the weekend, give this a go. Though you may not feel like running out and buying it, I found it to be quite worth while.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0da3b067d58e54384c7fbf7a605c22145883dee5e30415506471e3b0f6a9b00c
+size 491

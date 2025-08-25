@@ -1,1 +1,3 @@
-83 minutes? Nope, this thing is 72 minutes, tops.<br /><br />If you cannot guess the killer in this movie, you had better throw your TV out the window, because you ain't learned nothing in 20+ years of cinematic slasher history.<br /><br />And how come the plain star who never gets naked is always the one you want to get naked?
+version https://git-lfs.github.com/spec/v1
+oid sha256:44af4d026932c7900f4c450e17c078ff1c0cab351d7bd0ea32eb53301d376399
+size 329

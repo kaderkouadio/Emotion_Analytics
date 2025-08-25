@@ -1,1 +1,3 @@
-The only thing interesting about this movie was the Jane's Addiction poster in the main character's bedroom. Godmoney not only copies from other GOOD movies, but also includes some very mediocre acting. The main character, Nathan, does a decent job most of the time but the rest of the cast was weak. I had a hard time sitting through the whole movie. I expected a lot and got zip. Any other movie in this genre would likely be better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:caf7ae53bf5c5f02e01fb1389826a4cfe4b46456523b89fd3b25e6e53ff1af7f
+size 435

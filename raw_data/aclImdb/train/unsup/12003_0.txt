@@ -1,1 +1,3 @@
-You know you're in trouble when you can spot continuity errors in the opening sequence of a film (check out the disappearing bra) without even looking for them. "Devil's Prey" is otherwise a well-shot movie, but it's just hokum of the ninth degree. The devil worshippers are a joke compared to the satanic cults in other horror films (and, although they clearly outnumber the heroes, they persist in attacking them one by one), and I hope Patrick Bergin knows that, after a role like this, his career has little hope of reviving. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:497a70de1f7de1a3b25473c09ed7f5f8978ff19e6cb45e283895b479278b357a
+size 536

@@ -1,1 +1,3 @@
-It amazes me that production companies will sue because of reproductions they will not supply. I've been looking for this movie on DVD for a while and VHS for years. One can get all sorts of movies on line...old movies, new movies... but it all targets a particular group. This movie is very nostalgic for many. I'm not sure why I can't get a copy. Maybe if enough people will write in, the copyright holder will get a clue. It's about time for this to happen. Yes, it's date, but so is The Wizard of OZ. It doesn't seem like this should be so difficult. So, for now, I'll keep seeing those illegal copies on search engines like many others.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2df750be018ed133789501d6f4a7b5b5320f62c3690f0828330ec8ed4b9e4b5
+size 641

@@ -1,1 +1,3 @@
-The Wooden Horse was one of the first "great" escape stories from World War II, telling the true story of Eric Williams and others in their escape from Stalag-Lufft III in October of 1943. I really like this film, but had to by it on VHS from Amazon in England and get it transferred from PAL format in the U.S. I read the book when I was in hight school, after having seen a portion of the film in the early 60's on T.V. The taunt drama of Peter and John trying to escape from Germany during the war is more realistic than the treck of the escapes portrayed in the Great Escape. This film is a lost treasure, that should be made more available to American audiences.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5301bb1f08f6a326e85a515a160b4f0563f2d99ac70a6da1f7c77a6369ff39d
+size 667

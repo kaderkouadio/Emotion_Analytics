@@ -1,1 +1,3 @@
-The only aspect of this film that saves it from being my least favorite piece of celluloid trash is a single line uttered by an agent attempting to infiltrate the man-eating tomatoes by dressing in a tomato costume: "Can somebody please pass the ketchup?" I highly urge anyone with a sleeping disorder to use this film as a sedative; it works better than an overdose of demarol.
+version https://git-lfs.github.com/spec/v1
+oid sha256:372e7d7ecd7b8e98c34b4afe8d1835ca72e8b17f0281f0511b69893fcca217ee
+size 378

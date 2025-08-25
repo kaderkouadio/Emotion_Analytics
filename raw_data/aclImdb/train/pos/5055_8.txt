@@ -1,1 +1,3 @@
-I didn't expect much when I first saw the DVD cover. I mean, Pierce Brosnan as Grey Owl??<br /><br />Ah...but then the story got underway, unfolded in a beautifully photographed and paced film. I was surprised and delighted at this (basically) true story. Made me want to read more about this fascinating character, which means, the director fulfilled his purpose, and the film was a success!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca8fba87da8e46e3889cc5039baeb8ce7472ce678e8edf227049aea9e9d591d
+size 392

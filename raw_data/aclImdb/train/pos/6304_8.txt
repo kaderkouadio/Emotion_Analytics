@@ -1,1 +1,3 @@
-<br /><br />This is without a doubt the funniest comedy of the year. Everybody is brilliant. The acting is superb. You can see that the actors enjoyed making this film. It´s a shame to spoil the film with give aways, so rent it and laugh your ass off.<br /><br />9 - 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00e03761f282074b91d38fe98674fc513101dcf22de8c5ed7c223d0afc35cbc7
+size 271

@@ -1,1 +1,3 @@
-Unfortunately meant as a drama, this movie is so bad, you'll laugh out loud. Dyan Cannon plays the seductive wife of one of the doctors, who has apparently slept with every one of her friends husbands. Who is to blame when she gets punished? An all star cast includes Carrol O'Connor as the impatient husband of an alcoholic (who actually says "I'll drink to that" at every opportunity). Don't miss this one!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b675c928e5af6dcafc0e3eab1d6a5fb6d3ea322e5310511034808d49d078306
+size 408

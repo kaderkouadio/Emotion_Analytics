@@ -1,1 +1,3 @@
-Rocky meets Canadian Heritage Minutes, so be thankful that it's not absolutely unwatchable. The underdog-friendly class consciousness is pervasive and fitfully amusing, although it's schematic and sentimental as well. Heroic rowing star/bootlegger Nicolas Cage is his usual dopey, wooden, charming self, and he has some lively moments, especially when he comes into conflict with the starched shirt types. Christopher Plummer's villainous manager is nothing to write home about, but even he transcends this material; in all other cases the costumes and hair seem to be doing all the acting. The frantically underlined Careful Research, and the general odor of educational intent, smother the valiant gestures at comedy, and the pricey period detail of the production design is wholly undermined by a dramatic arc that is pure 1980s bootstrap trash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f932a4ef3b3a24b17a2ef394ab558b74869a23bf396aee92c98b9baafbabd390
+size 848

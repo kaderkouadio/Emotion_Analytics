@@ -1,1 +1,3 @@
-There are actors who always attract people's attention no matter what role they play and no matter what the film is about. Al Pacino is one of these guys. Most of his movies are great! And this is one of these good ones. The plot might not been so original, but it is good and moves the film beautifully. <br /><br />Det. Frank Keller (Pacino) is a policeman who investigates a series of crimes until the moment he falls in love and gets deeply involved with the main suspect, a very beautiful and sexy woman, played by Ellen Barkin. The performances are really good and the film pace is just breathtaking.<br /><br />My rate 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0e2978ba9885537f94227e894adf42744128d1c40da91431af09e0fdcde97b3
+size 630

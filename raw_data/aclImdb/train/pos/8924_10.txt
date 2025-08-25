@@ -1,1 +1,3 @@
-This movie is wonderful. What separates it from other 50's sci-fi is the fact that the alien has no features, no face, eyes, anything, yet it can't be killed. I especially like the idea that this film doesn't take place over a few days, it takes place in one night, lasting supposedly past midnight.It's also scary that once the blob gets on you, you can't get it off. you're stuck in it, as it dissolves your flesh and slowly devours your body. My all time favorite 50's sci-fi film, and what is sometimes considered the quintessential one. I can see why this rocketed Steve McQueen to stardom. All this and a catchy theme song! How can you go wrong?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a47bbe0d2d8a6d80e9f35c5a028ed324b409d7b479af21b21d98cfc3f477072
+size 651

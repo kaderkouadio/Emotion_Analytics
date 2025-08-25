@@ -1,1 +1,3 @@
-I agree with another user here and have to say that this is one of the best Kung Fu movies ever! I watched this as a kid and absolutely loved it! The scaffolding scenes are brilliant and you can really empathise with this guy because he is treated as an outcast. Nice humour and fantastic kung fu this movie rocks! If you like Kung Fu you would love this!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b892a6b7ec38b55e495e306b7e54119284bf9965e9c5f632b00fb66d029b27bb
+size 357

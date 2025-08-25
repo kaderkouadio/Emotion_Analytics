@@ -1,1 +1,3 @@
-Loved the film! This was my first glimpse at both Reese Witherspoon and Jason London, both of which are two of my favorites. Must say that no matter how many times I've seen this movie I can't help but tear up. One of those movies that should become a classic for all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d87ebc98c21437a1855d71bb9c6bedb63c8f9046a238f2ff3bf5fd6724c3dd18
+size 268

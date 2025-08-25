@@ -1,1 +1,3 @@
-One of the films I can watch again and again! The script and pace of direction allow the cast to glitter and glide through the simple plot. Great comedy drunk scenes performed by a superb Peter O'Toole. Behind all the laughter the film has a lot of observations to share about fear, love, commitment and alcohol abuse. As the end titles role I'm always left with a feeling akin to the after glow of good whiskey seeping through my heart. Bravo to all involved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b7320ed2abe5e9d75c016cd269f479393d41cb8c859726d601344c5b5d84a3
+size 460

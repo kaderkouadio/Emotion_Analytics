@@ -1,1 +1,3 @@
-I find the film hauntingly beautiful. The cinematography and especially the music is wonderful. It evokes childhood and early adolescence brilliantly, Pamela Franklin gives an especially powerful performance, as does Dirk Bogarde and Yootha Joyce. The sense of place is very powerful too. I love the dark, disturbing settings of the dilapidated Victorian house (long since demolished). I would like to find out more about the filming of it - I believe it was filmed in East Croydon - there is an allusion to it in Dirk Bogarde's autobiography? I've also tried, unsuccessfully, to obtain Julian Gloag's book, but it appears to be out of print.
+version https://git-lfs.github.com/spec/v1
+oid sha256:288845dfb0a93c43a7a04954b190e71461fbaf300f5c7a59861d1b1112daa204
+size 642

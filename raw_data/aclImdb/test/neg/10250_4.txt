@@ -1,1 +1,3 @@
-Dorothy Stratten is the only reason to watch this unfunny sci-fi spoof, and her appearance is a disappointment. Though she has the title role, her screentime is limited, and she only speaks a few lines of dialogue. If you're not a Stratten fan, pass this one up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a11b7c9540c85b17826500eef83a69f388ae906db7a525f4a82ec85b0168e552
+size 262

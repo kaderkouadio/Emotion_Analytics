@@ -1,1 +1,3 @@
-What makes "Mifune" stand out from standard Hollywood movies are the painfully real characters, who make it feel like a real-life romance between two people rather than a hypothetical story about hypothetical characters none of us is ever going to meet. And it's really funny, too!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe67eb9882561c2374ed08da9ed5dfd5261a1197484d2a37e744d8bd41ae5c3
+size 281

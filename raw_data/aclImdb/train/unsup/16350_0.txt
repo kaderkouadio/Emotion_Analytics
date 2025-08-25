@@ -1,1 +1,3 @@
-This is by far the worst movie I have ever seen. It was plain and simply a horrible film. Some awful films are great to watch and bring genuine excitement to the viewer as he/she laughs hysterical at the awful development. This movie had none of that and in fact made me cry. Have you ever watched a movie and felt uncomfortable watching it because it was so awful? Well, if you have, then you know what i'm talking about. If you haven't, watch this movie and you'll quickly realize what i'm talking about.
+version https://git-lfs.github.com/spec/v1
+oid sha256:994c91fc0fcb30f8b5147048177cf94fe4a20be8685eb72a8bc3170123235e9f
+size 506

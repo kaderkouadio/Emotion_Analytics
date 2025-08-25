@@ -1,1 +1,3 @@
-Penny Marshall produced this? <br /><br />Harvey Miller, who wrote "Private Benjamin," wrote this? <br /><br />Lemmon, Aykroyd, Hunt, and the incomparable LILY TOMLIN agreed to work on it? <br /><br />Tasteless, unfunny, painful to watch.<br /><br />Whatever moral point they were trying to make, and whatever humor they were trying to achieve, this film just... just hurt. Hurt my eyes, and hurt the reputations of all involved.<br /><br />I'm embarrassed for all involved, and chagrined that I felt I had to watch to the end, to justify writing a review to warn others. Fifteen minutes would have been more than enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a12c52a6f4e87d5113f55ff7cbff26472266f469770e4fc0b656c6342c00b473
+size 621

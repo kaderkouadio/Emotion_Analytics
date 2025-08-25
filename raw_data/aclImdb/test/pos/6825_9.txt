@@ -1,1 +1,3 @@
-A very courageous attempt to bring one of the most intricate books of literature to the screen. The story manages to get most of Conrad's basic messages across and the acting is superb. The liberties taken by the script often deepen the meaning and do seldom distort it. Compliments to writer and director.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c25431a19f92180a4260ff9fc99d5abba05121073877979fd2b4a1659d2d532
+size 306

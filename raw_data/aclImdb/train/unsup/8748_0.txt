@@ -1,1 +1,3 @@
-I saw The Movie Hero at the Dahlonega International Film Festival and it was<br /><br />fantastic! Great acting, great directing, great script, great everything! The movie is about the pain and difficulty of making art, even if your "art" is just living your own life. I wish this film was playing "in theaters everywhere" as they say. But it's probably not going to. It looks like it's going to play at a lot of festivals though, so I urge you to find it. You won't be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa13acd68aa1e738fffb3e7c703f2fd95e3fdb723b9cf9c3fba8c807a14a824
+size 483

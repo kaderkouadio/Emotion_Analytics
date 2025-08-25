@@ -1,1 +1,3 @@
-A strange mix of traditional-80s, smartassy, Chevy Chase-type, "every-ten-lines-you-get-a-funny-one" farce and sickie black comedy. Mildly amusing in spots, but utterly tasteless. There is a skiing sequence that includes the fakest-looking back-projections since "On Her Majesty's Secret Service". (**)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ac9a2b6de6c2d71e9216e5a29898f2288a95b6fb036fd641bad083c0e1f3ea
+size 302

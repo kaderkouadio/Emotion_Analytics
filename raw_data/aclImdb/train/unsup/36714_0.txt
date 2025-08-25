@@ -1,1 +1,3 @@
-The true story of Anne Sullivan, the teacher of Helen Keller, and her struggles to teach a deaf, mute, and blind girl. Set in the south on an Alabama tobacco plantation the story combines elements of family life, psychology and persistence. The movie teaches not to pity or treat someone as a lesser because of a handicap. The acting was good. The script writing however was mediocre and lacked elements of excitement. The plot line at times became uninteresting, but the ending was dramatic and captivating. I found this movie to be of mediocre quality. I would not consider the movie extremely entertaining, but would suggest watching it to learn more about Helen Keller.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fea73e14a3b925b25fd82ca108ce86fac038f4eb0163d01a2250a9442fdf75f
+size 673

@@ -1,1 +1,3 @@
-Bette Davis brings her full trunk of tics to this miserable flop which is another variation on the "hilariously mismatched" lovers theme. Sadly, Cagney and Davis are truly mismatched in acting styles and the mix is not simply unpalatable but distasteful. The only distinction in the film comes from Eugene Pallette who, literally, phones in his usual part as the deb's misunderstood dad. Jack Carson's performance can only be described as an act of mayhem on the audience
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e4f4527fe201ddd2cef2d4a5f4626925843b2788691192f66bd0f87bf061a8
+size 471

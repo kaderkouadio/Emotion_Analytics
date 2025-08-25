@@ -1,1 +1,3 @@
-Largely forgettable monster film from the 50s features truly awful special effects -- the "claw" in question is a giant puppet that would make Jim Henson want to kill himself. I just saw the movie last Thursday and I can't even tell you who was in it. That's a bad sign. I'm told that when the movie premiered audiences laughed it off the screen.... and that was in the 50s when standards in special effects were much lower. Basically I should have walked out of the theater as soon as the words "produced by Sam Katzman" came on the screen if I knew what was good for me, but then I sat through "Harum Scarum" also so I guess I deserve it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74177b7c239471dbc7787a296fbb99515dd5f18b27f83e369f255b94d3fa5896
+size 640

@@ -1,1 +1,3 @@
-Jack and Adam have to be one of the better pairings in film in years. Jack is the one allowed to go over the edge throughout most of the film and Adam plays the more restrained straight man. It has enough of a twist in the plot so that it is not predictable. It is an enterataining comedy that makes you think (well at least pay attention somewhat). It is worth your time to catch this flick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d9862a729c1869a904a071bc409fb49014e511da463bb108d1e4770516a904
+size 392

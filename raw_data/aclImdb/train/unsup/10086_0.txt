@@ -1,1 +1,3 @@
-This was the greatest movie I have ever seen. I used to hate the go-bots but have come to love them since seeing this.<br /><br />The Rock Lords and Go-bots form an alliance that proves that good things can come from bad situations, a must see for any child or adult that loves childish things.<br /><br />This maybe be hanna-Barbara s greatest accomplishment to date. Anyone who wants to recapture there youth and vigor will enjoy this movie immensely. I suggest it for people of any age.<br /><br />A must See.<br /><br />I give it a 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e3147f1c1d8509f939b5ca743aac69fc8fdb136a6671a819a5d7bcb6799137
+size 538

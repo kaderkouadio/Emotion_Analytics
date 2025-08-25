@@ -1,1 +1,3 @@
-An OK movie but not a great movie. The story is not compelling, maybe because it tries to stay too close to the original media. The X-men powers are cool at first but become quickly boring. Some of the X-men give the impression they themselves aren't very familiar with their own powers as if they just discovered them.<br /><br />Save your $9.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67810644b691afa4d516ad037f34f9b7549c32137045b6eef946dbce68dd71ca
+size 344

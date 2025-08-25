@@ -1,1 +1,3 @@
-If a tree sucks you up in a haunted forest, would there be a reason to watch it? There really wasn't much to appreciate from this film.<br /><br />Three friends go into a forest in search of a haunted tree that one of the groups grandfather had written about. Forests are scary by themselves, but you never really felt that in the film. Even the moments that were supposed to be scary, weren't.<br /><br />The actors were very forgettable, and the pace was as slow as a tree growing.<br /><br />IT just didn't deliver. It just seemed to be so many leaves in search of a tree.
+version https://git-lfs.github.com/spec/v1
+oid sha256:277357310478b0cc3a0fbb4236cc03c2d2851156f3803d3f79b102f71e81d163
+size 575

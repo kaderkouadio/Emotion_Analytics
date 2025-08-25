@@ -1,1 +1,3 @@
-As a long-time girls' basketball and track coach on the junior high and high school levels, I enjoyed the movie. Although it was not technically sound in its portrayal of the game, it did show successfully the determination and dedication of young athletes. I especially liked the opening scene which showed the power workout before breakfast. I also liked how it shows the increasing interest in girls' sports. The movie was a feel-good movie that could be used to motivate young girls to pursue their talents in competitive sports; it could also be used to teach young boys that girls too work hard and long to achieve their dreams and need recognition too. It also teaches how important it is to get over jealousy and to make sacrifices.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbfffe2301948b37754402115934b81791dec94d62db9e91a315867cb7cfbede
+size 740

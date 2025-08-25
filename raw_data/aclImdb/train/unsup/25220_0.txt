@@ -1,1 +1,3 @@
-I had never seen this film before until I saw it on TCM TV the other day. It is really an extraordinarly drama of the life of Justice Oliver Wendell Holmes portrayed by Louis Calhoun and his wife played by Ann Harding, and directed by John Sturges. Judge Lewis Brandeis is played by Eduard Franz. Holmes always wanted a son and he called all 30 of his secretaries "his sons". One of the sons I recognized but just couldn't think of his name, so I looked it up; sure enough he was played by child actor Jimmy Lydon whom I always loved in films. Lydon played the part of Secretary Clinton. This truly is a well acted and enjoyable biography. Highly recommended!
+version https://git-lfs.github.com/spec/v1
+oid sha256:93fbcc2f68b26f6f74af436c0617c1080c7de6b4cdc0013af851faba51509133
+size 659

@@ -1,1 +1,3 @@
-I saw this film at Amsterdam's International Documentary Film Festival and was privileged to meet both the directors and Tobias Schneebaum, all of whom are lively and outspoken New Yorkers. The film's title in Amsterdam was Keep the River on Your Right, making the sensational aspect of cannibalism somewhat less prominent. Equally important was the loving - and gay - relationship Tobias Schneebaum had with members of the groups he studied as an anthropologist. His reunion at nearly 80 years of age and inevitable leave-taking were very moving. I can only highly recommend this film to anyone looking for a moving story that is anything but pedestrian.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f249db382681d66803f2687b6f4d05c7a02a9a105856eb1d523f0f6d26c530e
+size 655

@@ -1,1 +1,3 @@
-Killer cockroaches, Jan Michael Vincent, Paul Winfield, George Peppard, giant scorpions, ultimate SUV's, inbred hillbilly types and dusty old Las Vegas where the slots still work...all combine to make a fun little, albeit cheesy, flick.<br /><br />As a kid this movie was a fun Saturday matinee movie and to this day, still a fun Saturday Matinee movie...grab a big bucket of popcorn, turn your brain off and have some cheesy fun...
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9613f253e6cb5cb7473d881aa213ea2a7586333d2c418f6f99c3e75835d58ad
+size 432

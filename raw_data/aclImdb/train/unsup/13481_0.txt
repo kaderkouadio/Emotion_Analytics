@@ -1,1 +1,3 @@
-This is an Aussie black comedy from the 70's and its also one of Peter Weirs first films. The film is a classic because it cambium's humor ,action & horror all in the same film. John Meillon's performance alone makes this film worth watching.A nutty mayor who is willing to do anything to keep people in the town and that includes killing them! the film is also worth watching for the performances of Bruce Spence & Chris Haywood because these actors are still working ! Its not the greatest film but it a film that will make you watch from start to finish because you never know what will happen next! Terry Camilleri's performance is very good for his first acting experience!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd19df3746ea340fd81bb2135c3744b2b21bdb62fb1fe66fb8adb45dce8a888
+size 678

@@ -1,1 +1,3 @@
-Being a rather cheap copy of Lars von Trier's original i found this mini series annoying after the first few minutes. While for Stephen King this may be rather good, i find it just a disgrace when you compare it to the original. Within minutes i found myself confronted with all the clichés i hate about cheap TV horror - exaggerated characters (sometimes combined with weird appearance to make sure everyone realizes something is wrong), exaggerated camera perspectives, puzzlingly stupid dialogs (just to remind you something is wrong here) and of course the typical horror soundtrack. It appears like this is just one of those typical American remakes that only serves to target a broader audience, less demanding, less daring, streamlined and average. Not for me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f30a0f7759fccbd2847488036a6db7037a4875ef458aa34255cc0fbb465d470
+size 768

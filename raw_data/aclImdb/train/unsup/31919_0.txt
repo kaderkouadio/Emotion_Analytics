@@ -1,1 +1,3 @@
-I wanted to like "The Royal Hunt of the Sun", but it begs comparison to a far superior film, and fails to entertain. Religious clap trap may have gone a long way towards sinking the movie. I have no problem with Robert Shaw or Christopher Plummer's acting. It is the lack of movement that drags the film down. There simply isn't enough meaningful dialog, unless you are into blasphemy, to maintain interest. Ultimately you will wish you had watched something else. "Aguirre the Wrath of God". had much the same theme, searching for gold, while spreading "God's word", and Aguirre is a far better film. I cannot recommend "The Royal Hunt of the Sun", but do recommend "Aguirre the Wrath of God". - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:7126c2fd4e41fb29bb780d6deff612742c78c8201b2dde4399c08e7b5d386e22
+size 701

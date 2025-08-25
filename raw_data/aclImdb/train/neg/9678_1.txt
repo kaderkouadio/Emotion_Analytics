@@ -1,1 +1,3 @@
-I am sorry to say that it was one of the worst films I've ever seen. Although visually fascinating (e.g. the use of colour was absolutely stunning), it was pretty boring and disturbing (see the father/son incest).<br /><br />What's more, music is totally absent, and if you think of those wonderful soundtracks by Michael Nyman (who wrote the soundtracks for most of Greenaway's films) then you can imagine what a difference it makes.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d13c9376811bc1e1e42fe9a5ff21789f051ba5724e78966e641ffc7604f82f
+size 446

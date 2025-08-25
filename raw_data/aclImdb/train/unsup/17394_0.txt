@@ -1,1 +1,3 @@
-A great film, as soon as I saw it it made my top 10, I see almost every mexican film that comes out, and this is close to a masterpiece, the story is a little cliche, but it has a good screenplay, and the photography is just wonderful, and includes camera effects that are new in the mexican film industry; The soundtrack also integrates perfectly to the story, and is reduced to mostly mexican artists. Possibly one of the best films of the year.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb330583ba2fc066ef66a720893fb0592e8f2f2091a560baf2709273537e6ecf
+size 447

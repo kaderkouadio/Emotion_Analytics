@@ -1,1 +1,3 @@
-A total snoozer. If it is based on a true story, then it took far to long to tell, and it just wasn't worth it. What was the point? He was a confused young man? Watch this movie and you'll be confused. The screenplay, characters, and acting are so weak. If there's a movie to miss, this is the one. I just can't believe the other reviews given this movie. This is one lame movie. If it's so great, would you ever sit through a second time? I doubt it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98e4feea9113c6cf7fc293d44b756206ab255796c36abd9bc7abfa78ccc7f1f3
+size 451

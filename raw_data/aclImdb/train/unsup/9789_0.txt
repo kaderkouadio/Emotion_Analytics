@@ -1,1 +1,3 @@
-"Beyond Silence" is a tender look at the rift which develops between a young girl and her deaf parents as she and her interest in the clarinet grow. The film delivers it's story with a soft touch, avoiding extremes while maintaining an earnest sense of legitimacy. Excepting a few minor glitches, the film is technically and artistically well done, the acting good, the directing superb, and the story warm and thoughtful. A worthwhile watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9fa60f81ddbd3ec3372bca33e520aba0488e604367ec9c061fa5c844e6aff0
+size 442

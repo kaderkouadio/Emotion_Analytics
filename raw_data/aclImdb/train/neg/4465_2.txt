@@ -1,1 +1,3 @@
-After the overrated success of Amenabar and Balaguero, Spanish Horror Movies spread like a disease in the increasingly sad world of horror movies. The result is all in films like El segundo nombre, a TV-like production bad written, but acted and directed even worse. I didn't read the Ramsey Campbell book, but I'm sure that the author of The Doll Who Ate Its Mother didn't have much in common with this terrible production. Avoid it at any cost, unless you're searching for a quiet sleepy night in a fresh movie theater. 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:64b5497820440429c74a9ceaca8cb5111e411c93dc013dbd97a665da47e2996f
+size 526

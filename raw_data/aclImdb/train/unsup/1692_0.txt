@@ -1,1 +1,3 @@
-IMHO, this is a great movie. It's fun for the whole family and has some fantastic special effects, as well as a good old-fashioned love story where the hero overcomes the bad guys and winds up with his true love.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bc5a254fb7ddc868a4779692879b3aee95913f5a6939351845866f435b1bb3e
+size 212

@@ -1,1 +1,3 @@
-The trite dialogue, Ed Wood style special effects and ridiculous plot of this film creates a beautiful "cult" charm. Orson Welles plays a highly entertaining Gypsy and even directed a few of his scenes. Matching, and sometimes even topping Welles's fiendish performance is Akim Tamiroff, the sideman actor that played in many of Welles's films from Don Quixote to The Trial. This film is a bit tragic but most certainly charming. There are so many close up shots of Welles's black eyes mesmerizing the audience against a spine tingling score whispering lines like, "you will submit" that it makes me wonder why this film hasn't been re-released and put in the "cult classic" section of video stores. Good luck finding it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:304ac64386aa7777dd92dd17d4e8f8a80a71436467df375d329fa56c5716d193
+size 721

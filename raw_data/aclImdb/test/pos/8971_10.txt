@@ -1,1 +1,3 @@
-Charlie Wilson's war is an excellent example of how films should be made. This movie is of the highest quality and is cast perfectly. Tom Hanks play the lead and delivers an exceptional performance. Furthermore, Tom Hanks is complimented by the unparalleled acting ability of the incredible Philip Seymour Hoffman. I have never seen him in a role that suits him so perfectly.<br /><br />The film is witty, intelligent and well written. Julia Roberts also stars in this film but is easily over-shadowed by the other two leads.<br /><br />I rated this film 10/10 and am pleased to recommend this film to anyone that is interested in quality cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:855cdb602038913ae6647fbe48d32703a37e3c1da938ba79ba226799913962e7
+size 646

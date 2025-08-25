@@ -1,1 +1,3 @@
-Depending on your point of view, this film is either a biting, insightful, timeless illumination of human dignity and indignity or a woeful commentary on how painfully slowly we evolve. The main story, humorous and poignant by turns, is punctuated by subplot bits that come right out of this week's news. Not bad for a film shot a quarter of a century ago.<br /><br />Fernando Rey is simply wonderful, and Conchita are fabulous! Bunuel, as always, is once again a delight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ee6e21a60543fb1c2813ba943bcdf3e9b82cee65ff4bf0949fbb14c3d240751
+size 472

@@ -1,1 +1,3 @@
-...but still not a good movie. Personally, I'd rather see a documentary on Dr. Kellogg and his quackery; this fictionalization was filled with too many pee-pee/poo-poo jokes for it to work for me. The storyline that covered Kellogg's relationship with his son bogged it down in pop psychology, detracting even further from the movie. Matthew Broderick is adorable in this movie, but his switches from uptight to frantic are jarring. Bridgitte Fonda was just...there, occupying space and speaking. Overall, not exactly the rip-roaring comedy promised by the ads. Did I mention there were just too many pee-pee/poo-poo jokes?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3dd5aed3a764918a823c14830ce95c97f19e3e8af5637ef2dc9cfade8dc533
+size 623

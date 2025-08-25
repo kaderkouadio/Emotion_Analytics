@@ -1,1 +1,3 @@
-Most people miss Hollywood's point of concept. If a hero can stimulate heroic deeds to the mind of a child, within the confines of the law then I, approve of the lessons being taught by Doc Savage.<br /><br />In all times of conflict or war, the public and government look for heroes to decorate. The motion picture industry brings heroes to the screen for people to identify with - such as Doc Savage, James Bond, Superman, Batman, Spiderman and others. Doc Savage is remembered by more than one generation as being the 'best of the best' before James Bond, Superman or any of the others. All others that follow Doc Savage are only a part of the character, not the 'Man of Bronze'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0e347a10eced4c5aace99b1df58e77c3e79d63ab1a33c030afc924a2fc8b62d
+size 682

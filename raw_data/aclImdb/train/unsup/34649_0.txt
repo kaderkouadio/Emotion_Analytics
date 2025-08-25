@@ -1,1 +1,3 @@
-"Beauty and Power" tells of only the sensationalistic parts of the life of the late Judith Campbell Exner, paramour to Sinatra, JFK, and mafia boss Sam Giancana. This bland, vanilla, and downright dull biopic contradicts itself by palming off Exner as a bright woman who just happened to fall in love with rich and influential men while she behaves like a dunce who just can't keep her panties on. "B&P" is lacking in substance, chock full of too clever repartee, and poorly develops the Exner centerpiece. Those interested in facts about the woman can get more from the Internet in 15 minutes than from this 90 minute flick. Those interested in entertainment should look elsewhere. (D)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f6b959426a9d6bb3a576944f1ee67ea64b90f3e8933dac12db02cdbbfa7b2fe
+size 686

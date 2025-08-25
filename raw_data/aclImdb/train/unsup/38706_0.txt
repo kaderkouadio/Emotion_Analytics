@@ -1,1 +1,3 @@
-Nearly 23 years later, my sister and I still have nightmares of this movie. I vaguely remember the sex. We were so afraid watching this slasher flick, that the very words in the title still bring chills to both of us. I've only seen one other movie in my lifetime that evokes that kind of creeped-out fear. It took us both years to face the Christmas holiday time without being terrorized by Santa (see the movie and you'll know what I mean!) Morbid curiosity kept out TV set on, but mental pictures have kept the movie with us. Even after seeing all the Scream movies, I still haven't experienced that level of terror. Eric Brown will forever be remembered synonymously with fear and killing!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a6b8d905e60708cc392f45a047cd54d44d409d18e65aecf912673e6a92af0ea
+size 693

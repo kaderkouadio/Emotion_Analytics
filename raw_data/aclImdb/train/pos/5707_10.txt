@@ -1,1 +1,3 @@
-If one would see a René Clair film with the kind of distracted semi-attention which is the rule in TV watching - one might be better off doing something different.<br /><br />Watching "Le Million" with all attention focused upon what takes place before eyes and ears will reveal a wealth of delightful details which keep this musical comedy going from the beginning to the end with its explosion of joy.<br /><br />In the Danish newspaper Berlingske Tidende a journalist once wrote: "In my younger days I saw a film which made me feel like dancing all the way home from the cinema. This film is on TV tonight - see it!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba3707116b56056136c8f83de0e095c533807df5929c3941ba6af84f33a3a0d4
+size 620

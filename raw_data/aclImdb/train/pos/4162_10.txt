@@ -1,1 +1,3 @@
-Yeah, it is. In fact, it's somewhere in my top 20 all time favorite movies. Number 15, I think. Anyways, I'm usually not one for plots, but I think plots work better in anime and RPG video games, (Final Fantasy 7, for example) and not movies. But this one has it all. Vivid drawings of planets, stars, an extremely well written screenplay. While this is not really for children, they can still watch it, it contains no graphic blood, guts and silicone. But I don't think they're going to understand it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3541252f379bd3bc1b2388398097d28eb72670d4d9b3be491ed75f870cca43b7
+size 502

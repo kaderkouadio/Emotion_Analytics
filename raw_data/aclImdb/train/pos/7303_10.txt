@@ -1,1 +1,3 @@
-I have only managed to see this classic for the first time a few weeks ago. Being made almost 30 years ago I thought the scary moments would be rather tame. Boy was I wrong. There are some great moments that sent shivers down my spine. Even the acting was great, Jamie Lee Curtis was fantastic and Donald Pleasance was superb.<br /><br />On the downside it can be rather slow to start but once it gets going there is no stopping it. It makes all the copycats, e.g. Nightmare on Elm Street, Scream look very tame. I can't really say it is Carpenter's best because I have not seen many of his, the only one I can remember of his is Starman (I think he made it). Halloween is the crowning achievement of the horror genre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4864f1b1108346b7625d1a3b30d279b255aec37b304216b14bb2b4ea8b77e496
+size 718

@@ -1,1 +1,3 @@
-Bad sequels.....this one's a real one! When the first movie was very very bad, you have to be fool to make a sequel.....Worse actors, worse scenario,worse special effects,worse movie!!! This is history! Bad history! I give it 0 and a half (for laughs) out of *****.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1ce86e11a7cbf44a22a2f4a13a57fcda5f1c86432ca72afb288ab6244cfd89c
+size 265

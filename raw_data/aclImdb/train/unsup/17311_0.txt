@@ -1,1 +1,3 @@
-This movie has a great plot. It's fast paced and fun. And it's full of surprises. There's lots of southern flavor here, even a funeral with a jazz band playing and lots of people actually dancing at it. This movie is a classic. It's best to see only the uncut version.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08fb79687ba8217cc9f42292ed6cc064052f906fcacecc93296c3b8df0e5f5af
+size 268

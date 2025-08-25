@@ -1,1 +1,3 @@
-I didnt know what to expect . I only watched it on a rainy sunday afternoon on pay tv . Right from the start it drew me in . The music and settings and characters were excellent . I hadnt heard of any of the actors but they all were outstanding . A wonderful thriller .<br /><br />Now that ive read other comments on this movie referring to past versions and the book , i will be endeavouring to find out more on this great movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec010cca4e42c6684567cfa7473ab9bd19ab0cfccd6051f3a646de485e6eff66
+size 429

@@ -1,1 +1,3 @@
-Rarely has such an amazing cast been wasted so badly. Griffin Dunne, Rosanna Arquette, Illeana Douglas, Ethan Hawke, Dennis Hopper, Christopher Walken, and John Turturro, all jumped on board, only to be torpedoed by a script that seems like nothing more than a Hollywood in joke. Attaching Martin Scorsese's name to this was probably the draw, but the end result is way less than the sum of it's parts. Resembling a nightmare gone horribly wrong, each scene seems more contrived than the next. "Search and Destroy" is nothing more than abstract, stylish, self indulgent nonsense, and the entire film is decidedly dull.......... MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:c09e50290896408d023486eae7711c087fd9b82f036ad56529a0256c4504643e
+size 632

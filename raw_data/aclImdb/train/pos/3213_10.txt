@@ -1,1 +1,3 @@
-What a perfect example of "Less Is More..." Kurt Russell (Sgt. Todd) only has 72 lines, and something like 104 words. What a challenge! Like a black and white photo, when your mind's eye has to fill in the blanks, the facial expressions, the physical drama, the emotive gesture, all combines to make a stronger impact. This is one of those top 5 movies I can't live without, right up there with the classics like Road Warrior. If you liked this, check out "Mad Max 2, The Road Warrior" and "Braveheart" both starring Mel Gibson. Also "Gladiator" with Russell Crowe and Connie Nielsen who was in Soldier also. The "Thirteenth Warrior" starring Antonio Banderas and "Blade Runner" starring Harrison Ford.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84b29602913f6136a03371c303f8fcd0b2381416b37f63e51a90e89682bd1afa
+size 702

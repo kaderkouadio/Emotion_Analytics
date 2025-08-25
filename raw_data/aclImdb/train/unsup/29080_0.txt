@@ -1,1 +1,3 @@
-This updated, new/old, gender-bending Macbeth mixes the Bard's lines with LiCalsi's text, giving even the Elizabethan-challenged a line on what's happening in Scotland. And England. And Ireland. Witty in a Monty-Python fashion, this one bears more than one watching to catch all the gags and allusions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:614a9491d9403daebae3cadb0c34e3c509fb8ab6d5a2dd3668895c62cbd07187
+size 302

@@ -1,1 +1,3 @@
-This movie has less plot than a porno. There is no real point to the movie, except that everyone is sleeping with Harvey Keitel. The man shows that he knows nothing about self control, although he is trying to teach people about "cults". She was better off before her family hired him to "help" her.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13e4cccb349f770e4d49c46e34bb0c5fd3bfed649143948844a3b1d04d18971c
+size 299

@@ -1,1 +1,3 @@
-GREAT first effort film. Gets better with each viewing. PLEASE don't let Freddy (I can't act, but my wife can) Prinze scare you away - there's a nifty little jewel here. A unique and poignant story being told here...for anyone that's ever felt like their life lacks the "spark" they've always dreamed of. Very sweet...
+version https://git-lfs.github.com/spec/v1
+oid sha256:a964e654d80d94caf58418170791e7b22121b7c71b73dd48b03663994695af58
+size 318

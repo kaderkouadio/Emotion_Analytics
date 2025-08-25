@@ -1,1 +1,3 @@
-I found The FBI Story considerably entertaining and suitably upbeat for my New Years Day holiday viewing. Its drama and action-packed episodes were thrilling. The Hardesty character was well drawn and admirable. Overall the photography, script and direction was perfectly creditable. Rather than taking the film to be a repugnant piece of propaganda, as some might, I enjoyed it as a well mounted portrayal of the necessity of ingenious minds and brave bodies in the fight against crime. Again, the depiction of a family holding together even under the strain of the husband's commitment to his (arguably) important work, I did not find to be a twee representation but an ideal and exemplary one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99e3f8d046a34182d7f6ec097d2a285e2f11d9ec2afc8a4bad614db31c2905d3
+size 696

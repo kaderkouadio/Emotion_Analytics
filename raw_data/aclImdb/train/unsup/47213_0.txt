@@ -1,1 +1,3 @@
-After watching Daredevil, it looked like they went out of their way to make the movie awful. The acting was pathetic, as was the script and the special effects. It clearly looked like a rushed job, I'm sure if you listen carefully you can hear the actors' cell phones ringing, it should have gone straight to viewing on some small airline, but that wouldn't be fair to subject the passengers to that. The only positive thing to say about the movie was that the character of 'Bullseye' was limited in screen time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f19e9a3b27453c1208a154e81a23dae7b7b1c405d1d2da884b24eb9bc7345bae
+size 512

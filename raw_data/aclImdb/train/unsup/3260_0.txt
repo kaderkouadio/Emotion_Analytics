@@ -1,1 +1,3 @@
-I first saw this when I was at Universitet i Oslo and I went to the film festival in about 1990.<br /><br />I'd only just arrived and so my norwegian wasn't up to much at the time, however, I knew that what I was seeing was something special.<br /><br />I spent about six years trying to remember what exactly it was called until finally the wonderful internet helped me to find it again.<br /><br />Now, having shown it to my five year old, I know that this film is timeless as she adores it too.<br /><br />I recommend this film to anyone who wants to see something the equal of anything produced by Aardman - my little girl likes the hedgehog best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b58218a709fee757c2e8a35f41aadac7eea136d943c6d1749c0089effbc879f
+size 651

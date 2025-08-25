@@ -1,1 +1,3 @@
-This film is awful, the film portrays the women with so many issues, you wonder how balanced she was. Sort of discredits the story, I wish they just went with the part at work, and stayed away from her personal life. My rating on this film is gag me a bag, run from your tv! This film is like videodrome it will give you hallucinations. 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:33aeabbe7001ef717364162459eb2b4eeb7029f825f9c4404cb7641205ea7e0e
+size 341

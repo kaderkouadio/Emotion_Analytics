@@ -1,1 +1,3 @@
-This film is kind of like loads of other films but in one.<br /><br />They had no good idea so they decide to try and make other good films funny but failing.<br /><br />I watched about 30 minutes of this film and then turned it off. Was the worst film and attempt of a comedy I've ever seen.<br /><br />I don't recommend this film. A lame cast too.<br /><br />It's similar to Scary Movie. Lots of films in one, but it's not as funny, not as good cast, it's pathetic and rubbish. It should be a crime for it to be called "Epic Movie" as it the opposite of the title.<br /><br />If you want to waste 80 minutes of your life, you could at least find a better film. This film isn't even worth the rental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11e05672bc6b6b873ffb6546d1ce913a5bbc06cd07a47efd9178b13a0e741463
+size 701

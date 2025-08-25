@@ -1,1 +1,3 @@
-Personally, I think that the film was done very professionally, I loved the choreography and the acting. The plot is also gripping and mysterious. The film itself is very emotional, and what I liked about it most is that it makes you think afterwards. Antonio Gades has absolutely lived his role to the end, and I must say that it's one of my favourite pictures and Saura is a wonderful director.
+version https://git-lfs.github.com/spec/v1
+oid sha256:168d62722374c7c73712163663cabda4fb342b313aee1400fcf64d522b1757af
+size 396

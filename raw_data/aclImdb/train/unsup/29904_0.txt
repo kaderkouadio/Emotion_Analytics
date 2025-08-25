@@ -1,1 +1,3 @@
-This production was a well-done piece of work. Solid performances by all the cast, especially Cher and Quaid, flow throughout the film. There was sufficient suspense and mystery to keep my attention, and the attraction between Cher's and Quaid's characters adds another dimension to this quality movie. I was especially impressed by Cher's abilities and attractiveness in this suspense yarn; I should view more of her works. This film was entertaining and thoughtful, with a cohesive plot and very believable characters, set in the reality of the nation's Capitol. An 8 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:815afcbad79e1ff92174a736e05c3f689d6a2f56541c04224f708f38748b4de5
+size 580

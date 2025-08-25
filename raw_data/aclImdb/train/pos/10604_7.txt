@@ -1,1 +1,3 @@
-Henry Thomas showed a restraint, even when the third act turned into horrible hollywood resolution that could've killed this movie, that kept the dignity of a redemption story and as for pure creepiness-sniffing babies?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b17c4d8948dc465e103a3a2af698d33f1370aa5552b77d390294f17f1fb7eb
+size 219

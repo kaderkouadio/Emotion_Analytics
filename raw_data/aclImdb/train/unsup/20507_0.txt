@@ -1,1 +1,3 @@
-Taxi (2004) Queen Latifah, Jimmy Fallon, Ann-Margret, Henry Simmons, Jennifer Esposito, Giselle Bundchen, D: Tim Story. Hopeless comedy-action fare throws a hapless Manhattan cop into the suped-up taxi of a mouthy cabbie who helps him chase four leggy Portuguese supermodels robbing banks. The opening scenewhere an athletic bike messenger, obviously a stunt double, rushes through the citywill insult anyone's intelligence when the messenger removes his helmet to reveal Latifah herself. Right from the start, the two stars' comic bickering is tiresome, and Fallon's thickheaded character helps sink this unfunny movie. Only real value are some gratuitous shots of scantily-dressed Bundchen and her Victoria's Secret cohorts. Remake of the French film series. 97 min., rated PG-13. * ½
+version https://git-lfs.github.com/spec/v1
+oid sha256:d02268fbb7f83d8051f9932e99ab9de40f29edc36ad3f4721515c71b1a049e26
+size 791

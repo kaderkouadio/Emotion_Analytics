@@ -1,1 +1,3 @@
-My theory: The producers of this film first made the movie "Gor". It only took them four days. Then someone noticed that they still had three days left on their equipment rentals, so they decided to film a second movie. Someone put together a script while on a potty break. They used the same sets, the same props, and much the same cast. The end result was "Outlaw of Gor".<br /><br />Jack Palance must have been hard-up for money to do this. It ranks up there with the biggest wastes of talent in movie history, right next to Max von Sydow in "Strange Brew" and Sir Lawrence Olivier in "Clash of the Titans".
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f201a0d3570d875454398a3222afb4507e5a592e27d6dcea0a96d458a0f4cb
+size 610

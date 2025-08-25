@@ -1,1 +1,3 @@
-Eric Rohmer, the great filmmaker, tries his hand at the kind of film that is everything that a Rohmer film isn't. Gone is the New Wave Modernism; the natural settings, hand-held cameras and dialogue that captures the quintessential nature of being human. Replaced instead with dowdy costumes, unmoving camera, and formal sets. Perhaps the original German flows with eloquent charm, but the English subtitles seem to have been translated by school children.<br /><br />Merchant Ivory this isn't, and neither is it Rohmer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cabb0ee202e2f5665979fd46840f1f508b015efe965754481933ad767111a6d
+size 520

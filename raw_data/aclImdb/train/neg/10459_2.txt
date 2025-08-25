@@ -1,1 +1,3 @@
-Disjointed, unclear, bad screenplay, poor photography and direction...all in all very obviously an ill-conceived first effort at commercial film-making by the good people at TBN.<br /><br />TBN Pictures has had great success in the past by helping to bring "China Cry", the story of Nora Lam, to the big screen. But "The Omega Code" is an unfortunate miscue. As a Christian who supports TBN and a lot of its programming and who loved "China Cry", I still find it impossible to recommend this film to anyone. They do much good with their ministry, but this isn't an example of it. Don't waste your money...go rent "China Cry" instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dfb8a23f1ef67575a5f37b3ba315b59478557793686272dc76092f76da9e657
+size 633

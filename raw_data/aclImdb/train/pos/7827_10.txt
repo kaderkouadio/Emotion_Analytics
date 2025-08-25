@@ -1,1 +1,3 @@
-This film is, quite simply, brilliant. The cinematography is good, the acting superb and the story absolutely breathtaking. This is the story of Donald Woods, a white South African who thought himself a liberal until he found out the reality of apartheid. Kevin Kline is completely convincing - so much so that when Donald Woods himself appeared on TV some years later, I recognised him from Kline's portrayal. Denzel Washington also turns in a masterful performance, as ever.<br /><br />I urge you to watch this. It is long, but it is worth your patience because it tells such an incredible story. Remember, folks, this really happened.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81c872eeba2bdde7187f8329cc01eca8d8ced5cada6be585a2b0dc0a852a67b7
+size 637

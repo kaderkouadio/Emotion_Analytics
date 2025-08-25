@@ -1,1 +1,3 @@
-I was very fond of this film. It kept me guessing till just before the very end what would happen. One of the better movies about the partition that I have seen. Urmila Matondkar is gorgeous too. This is one of the most personal and down-to-earth films I've seen on the partition. It's a little less mainstream than Gadar, and is really an emotional roller coaster where you start out with one opinion of what is going on, and come out completely one the other side. This isn't typical bollywood fare, but rather an art-house type film. The best part of this movie is that it doesn't dehumanize one side of the partition conflict when focusing on the story of another. It doesn't blame or castigate but rather lets you draw your own conclusions about things.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a3b08b3ae2bf2498818c78fe866e12c6bc56ad2fd5b485a86fb045458bd619
+size 758

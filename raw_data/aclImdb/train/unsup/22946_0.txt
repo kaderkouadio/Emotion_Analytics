@@ -1,1 +1,3 @@
-Essentially a locked-room mystery, this is about as bad as they get, even for the 1930s. Lugosi is weirder than usual as one of several businessmen interested in a new method of electronic television (which was nothing more than a novelty at the time) that allows broadcast around the world. Oddly prescient (it's even projected onto a large screen), the technology is otherwise hilarious, particularly in the explanation of the murder technique.<br /><br />The acting is lame (especially the stereotyped servants), the staging hokey, the dialog boring, and the mystery ridiculous. Avoid this turkey unless you're just completing your tour of Lugosi's work or are interested in the 1930s vision of the near future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:470e4d1eb49326c51999526b6989941cc5f920b23073fe2da0c60098b74c1a50
+size 714

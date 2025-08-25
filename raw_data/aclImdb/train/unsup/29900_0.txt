@@ -1,1 +1,3 @@
-This is a preposterous film, everything about it is forced and unbelievable. It is occasionally very funny but it's not supposed to be. From the gradual removal of Neeson's facial hair to the music score which sounds like it belongs to a completely different film to the ridiculous attempt at love story plotline to the laughably bad ending. The acting is of soap-opera standards and the plot development is not much better. Perhaps it's really a spoof in which case it's a classic! (3/10)<br /><br />A V O I D
+version https://git-lfs.github.com/spec/v1
+oid sha256:edbcf7d5e40acff157dbb5802e444c11fcce303d1e7106ec8bb19162cffce4ec
+size 510

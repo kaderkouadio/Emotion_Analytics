@@ -1,1 +1,3 @@
-I didn't really think that "Grease" was as good as people I know say it is, but it's okay. I mean, it's better than most movies I've seen before. It's fun to watch, and the chemistry between Danny and Sandy is all so innocent. It has really great musical numbers sung by Olivia Newton-John, John Travoltra, and the rest of the cast, and it became a cult classic film, which will live forever. Even today, the "Grease" legacy lives on! Not bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96209852e7739ce4332ad32acca4a47085f4ff506f0020ae11871a788cc3dcf2
+size 443

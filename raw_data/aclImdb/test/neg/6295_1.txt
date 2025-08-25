@@ -1,1 +1,3 @@
-I saw this video at a friends house, and it was the lamest thing i have seen ever. i lost a lot of the little respect i had for NIN. very boring, and the music is as equally interesting. dont waste your time unless you are a hardcore NIN "fan"
+version https://git-lfs.github.com/spec/v1
+oid sha256:b35f0e222d8634eace7956905f8c6be12966994c53f1082f7afe41cc1a61fcbc
+size 243

@@ -1,1 +1,3 @@
-Excellent movie with a few flaws ( music from a different time period, romance that wasn't necessary to the plot). It shows how the fight for the right for women to vote in the USA was a very tough one. People like to talk about "God given rights" but often rights have to won in a "war" by people that are willing to put everything on the line. These brave souls make life better for everybody. It seems obvious that women should have the same right to vote as men, but in the times represented by this film it was only obvious to a few. Hillary Swank and the others in the cast showed the gritty determination that it took to fight for voting rights. Rights aren't given to us. Let's not forget that!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b93839df496d95eb639d3fdef5b567df8ecece4d3e4dd10565c548532e5d357
+size 702

@@ -1,1 +1,3 @@
-Throughly enjoy all the musical numbers each time I see this movie. Never seem to tire of it. Fred and Ginger are always a pleasure to watch. Seeing "Lucy" and Betty Grable before they hit the big time, is fun to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:258f009411d54d902aee16bfe0104875444d72c61454d78d52bbc04a243920f0
+size 219

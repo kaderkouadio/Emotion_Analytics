@@ -1,1 +1,3 @@
-Being from the Buffalo area I was well aware of the movie having read many articles in local publications. I was most impressed with the movie, especially its clever plot, the acting and the local scenes. Nice to see so many older, quality stars in the various roles. I feel that especially those of us over 50 will find the movie excellent and you can leave the theater feeling that your time was well spent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e805cf68d8b7eb77b500275e115416530794a9ad53c9e11aba2665770f357e
+size 409

@@ -1,1 +1,3 @@
-This movie is a blatant attempt by the left in Hollywood to portray Reagan's administration as incompetent and bungling. Some mistakes may have been made at the time of the crisis, but I'm sure not to the extent portrayed in this lame movie. My first reaction was that this movie had to have been directed by Oliver Stone, but I was wrong this time. There are apparently many others.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ea4ea5e057df03dce8111fd92765cd93af2f10b070c070d76048d2ea7d5ed7
+size 383

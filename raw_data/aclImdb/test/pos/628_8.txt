@@ -1,1 +1,3 @@
-The plot is somewhat original, and all the actors did their job pretty well. There is a plenty of comic relief, too. Some things do not make a lot of sense (e.g. the first "chase" scene, why would the heroine not just hide somewhere and wait until the baddies leave?). The Russians actually speak Russian without accent, but the cars are extremely strange, with models spanning like 50 years, and so the place seems weirdly out of time. Overall, if you like thrillers you will probably like this one as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:693e1bbdace615320b756d1ff02f66caf0a540107c295d4d9ef0d12287f12fb8
+size 508

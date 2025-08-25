@@ -1,1 +1,3 @@
-This film embodies all the reasons to watch independent films. In the Company of Men is a sharp-as-a-razor black comedy that takes a disturbing look at the darker regions of both the male psyche and the corporate system.<br /><br />This film will challenge and disturb some and totally put off others, but if films that dont just whip out tired old cliches are your style then don't look past this little gem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ce2184e8c9e7b824fd58a0e4387cdad959699069c3a3e46b0b7b5942b5858e4
+size 409

@@ -1,1 +1,3 @@
-The demented and hilarious re-working of what appears to be originally a dreary Filipino wrestling movie/crime drama, the Troma team does what Woody Allen did in "What's Up, Tiger Lily?" but with less restraint. The humor ranges from mildly absurd to outright raunchy, but it made me and a roommate laugh until we had to stop the tape. Not for everyone, but those who enjoy "Mystery Science 3000" and similar entertainment should find this right up their alley.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb524ee56e880d1f2bd61c7f8a7881939236e85e48a23c6182bb147246fc579
+size 461

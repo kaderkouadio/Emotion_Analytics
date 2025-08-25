@@ -1,1 +1,3 @@
-With its ww2 timing, falling in and out of love, and easy on the eye Kira, this is re-Atonement. <br /><br />This a relationship story with focused main characters working out the the balance between first and fast love in the home front of WW2. Poet Dylan Thomas philanders his way between wife and ex in dark and smoky Blitz London and later in windy wales. <br /><br />Vera's ex and next spark off each other as the poet and soldier become a sideline while the girls bond and share. An easy watch that works well in the era bouncing along with just a few dips in pace. Would work well with French subtitles but then I may have been to too many art house movies lately.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9f19c3bf42b6e3e7372812bfc2bdb9cbebaa4e4489c69434e97f1e40f76d6d4
+size 671

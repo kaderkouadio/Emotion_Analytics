@@ -1,1 +1,3 @@
-It's dreadful, but ...<br /><br />Cat Stevens fans are given the opportunity to see the woman who inspired the lovely song "Lady D'Arbanville" on his album "Mona Bone Jakon", before Cat turned into a fatwa-supporting religious zealot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6589ddbbd34bf32c27fd73a7badb678f555dfc0b40abeb27b3ecc9cc07056a2
+size 234

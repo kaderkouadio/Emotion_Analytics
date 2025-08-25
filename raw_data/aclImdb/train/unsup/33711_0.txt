@@ -1,1 +1,3 @@
-There is one great scene with Gary Oldman And Ving Rhames where they talk about conscience. That scene is almost worth the price of the rental. Besides that scene the whole movie is piled with cliches and underwritten characters. The chase scene near the end looks like a car commercial. I give a a ** star rating
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8944d2f5974e0fe20f81ae43757e3b13b51832e719cd1ca338c8a20282fc89
+size 313

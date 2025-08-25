@@ -1,1 +1,3 @@
-T.V. Movies are rarely as noteworthy as those we see on the silver screen, this collaboration is an exception. Sean Hayes depicted Jerry Lewis to a tee, and if he doesn't garner an Emmy nomination for this, then I decree the Emmys are fixed. Jeremy Northam also gave a stellar performance as the stoic Dean Martin. If you enjoy a good biographical epic, then this picture is definitely one to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fa6c19ffd03fb48711b1adbdd710c5967727d9cfb997bde609425e54b957a5a
+size 397

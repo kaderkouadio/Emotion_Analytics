@@ -1,1 +1,3 @@
-Maximally manipulative Anabel Sims (Betsy Drake) sets out to trap her ideal man, aided by her co-worker, Julie. Esteemed pediatrician Madison Brown (Cary Grant) goes from bemused to betrothed in the space of 90 minutes on film, but to the viewer it's all eternity. Can a movie receive less than one star? This one is a prime candidate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a32705cb9bacf0c19ff3092f147de6964a04009d1248277fd641878444c6abb
+size 335

@@ -1,1 +1,3 @@
-This is a neat pre-code film. William Powell gives his usual stand out performance. I've always had a problem, however, with leading lady, Ann Harding. She is one of my least favorite actresses. In this film, she is trying to hook up with Powell, but she looks more like his mother than lover/wife. She is, without a doubt, a good actress--but (like Miriam Hopkins)just not attractive enough. Henry Stephenson, as Harding's father was fine as was Lilian Bond, who played a gal friend of Powell. Ms. Bond was not a marriage type match as she was clearly not the settling down type @ all. Check this out if you like witty dialogue & sophisticated characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c1155da15c6c63415e476b758e3f6d822a51ead98dcada50b0af2fc3d1ddb0
+size 656

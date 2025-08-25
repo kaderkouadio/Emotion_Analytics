@@ -1,1 +1,3 @@
-This is a great movie. I am amazed that some folks rated it "5" or less. Perhaps the horribly miscast Shelley Long gave these folks indigestion. Maybe there was a negative reaction to seeing "The Fonz" in a completely different light. Oh well, their loss. This movie has many great moments ("This is Chuck reminding Bill to shut up!" . . . "Call Starkist!" . . . "LOVE BROKERS!!!!" . . . etc.) and is well worth seeing. Now available on DVD!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b80f4aea677d54972902c5d1652096d0c587148d590eeeb64ccd43201e9f59e9
+size 442

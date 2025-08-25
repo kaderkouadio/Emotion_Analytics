@@ -1,1 +1,3 @@
-"Stardom" is one of the worst films I've ever seen. With the exception of the lead, the lovely Jessica Paré, this movie is an embarrassment for everyone involved. Come to think of it, has there ever been a movie with Frank Langella in it that doesn't suck (Body of Evidence, anyone?).<br /><br />It is a shame that so many talented film makers out there never get a chance to film their visions due to a lack of funding, while a piece of crap like this gets made. Speaking of crap, there is actually a scene late in this film where a disgruntled former model has an exhibit of sculptures made out of her own feces (I am completely serious). "Sh--, just like my life", she says. I said to myself, "You should be saying: sh--, just like this movie".
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ac6031eb4d2281c10aed1fabb47641269adac02a783f2b8e12597c950e711e
+size 748

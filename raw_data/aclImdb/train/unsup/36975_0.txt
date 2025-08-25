@@ -1,1 +1,3 @@
-Adam Sandler returns to his true comedic form - making people laugh at stupid jokes, sight gags, etc. However, he is locked in his character as a moronic waterboy that hardly ever can break through to Sandler's true hilarious ability. Since Sandler was co-writer of this movie, he relies on the supporting cast to deliver his sense of humor. No one can be Sandler but Sandler. His humor is unique and genius - yet the cast doesn't deliver - Cathy Bates is terrible, Fairuza Balk is OK. The only standouts are The Fonz and the Cross-Eyed football player. A good rental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56af593c35466b22bbc7686757528d87462709e2625dac47a0b5565220e1cbe7
+size 568

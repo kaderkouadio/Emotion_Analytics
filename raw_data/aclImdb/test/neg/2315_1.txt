@@ -1,1 +1,3 @@
-I´m only joking. This was potentially the worst film I have ever had the misfortune to sit through. How anybody in the 1950´s could have raised a laugh at this innane rubbish is beyond my comprehension. I jest not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:480bf8d890472e7fe6f615f46c1c13aabca0af68ab8aa9fd65d4bf2df0494ca5
+size 216

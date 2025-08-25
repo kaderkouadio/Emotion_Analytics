@@ -1,1 +1,3 @@
-One of the best movies of the year - and the absolute blockbuster in Austria. Except for the end this film is an absolute must-see. I wonder, however, if the subtleties of Austrian can be understood outside the country.....
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56939915354197672e62b568cb58181a1b7a51b1a98f3c2483b4c120848c0ed
+size 223

@@ -1,1 +1,3 @@
-Dubbed "Then There Were Giants" on cable, this made-for-tv two part film spends three hours presenting a theatrical digest of the communication which ostensibly took place between FDR, Churchill, and Stalin during WWII. Against a backdrop of file footage and the various sets required for conferences (Teheran, Yalta, etc.), the trio of heads-of-state build complex relationships of diplomacy as they map out plans for D-Day, the UN, and more. Lithgow, Hoskins, and Caine turn in excellent performances in this sterling characterization of the men who occasioned some of the 20th centuries most momentous events. Great stuff for WWII history buffs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6011b79904ca6dbc690d88062998f23f20d3c066fcf54221fcf86bbfdee15a65
+size 648

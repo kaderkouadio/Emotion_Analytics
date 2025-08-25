@@ -1,1 +1,3 @@
-No emotion. Bad music (and I am a reformed eighties metal guy, so I would be vulnerable to some good stuff.) Everything is half done. The brother is a parody, there is nothing to hold us in except to see what horror from the eighties they'll pull up next. The tour manager tries to bring a humanity to the thing but isn't given enough time. Wahlberg is okay and Aniston is slumming. We know she didn't need the money. Is this the only role she could fit into her summer break? Surely she must slap her forehead every time it pops up on VH1--which is only slightly less often than Ozzy does. It barely qualifies as a TV movie. It's just hard to believe that it was actually released theatrically.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f105b4f9b16bdd5feb673a73d5cb9e95bfc31a1548413f4966ffd644b90e642
+size 695

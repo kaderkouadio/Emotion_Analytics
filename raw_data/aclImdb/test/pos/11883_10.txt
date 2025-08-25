@@ -1,1 +1,3 @@
-Critters 4 ranks as one of the greatest films of the twentieth century. The word classic has never been so aptly used as in describing this mind-blowing epic. I agree that the original Critters is the best of the series, but the claustrophobic tension of the space station in which Critters 4 is set really must be seen to be believed. I strongly recommend this to anyone interested in seeing one of twentieth century's major film landmarks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e3cbdab5ab343cac749d02db3290a5664d7f35fa28579e818a19eab5feb12cc
+size 441

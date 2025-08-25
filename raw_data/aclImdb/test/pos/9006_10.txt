@@ -1,1 +1,3 @@
-Forever strong is one of those sports movies you can actually watch. It reminded me a lot of Remember the Titans because it included comedy, sadness, and just awesomeness. I saw it at a pre-screening and all my friends liked it and easily put it in their top 2 sport movies. The acting is great in the movie. Even though it is similar to Remember the Titans it there is something very unique about this movie. I feel this is definitely Oscar worthy and will receive many awards. Everybody should definitely go see this movie and it is worth your $10. I'm going to have to see it again when it comes out because it was that good. I cant say one bad thing about the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da0a103b52f28b9bf68c6fd2df67cee7f5a9895dce3c5fa0a46c2e85c8b2489
+size 670

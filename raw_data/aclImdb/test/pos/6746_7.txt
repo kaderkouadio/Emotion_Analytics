@@ -1,1 +1,3 @@
-This is a really dark movie. Noir indeed. The title character is smallpox, brought into New York City unknowingly by Evelyn Keyes.<br /><br />She is on one mission when she arrives and on a rougher one after she's spoken to her no longer innocent sister. But she herself is not intentionally a killer. This doesn't mean she doesn't kill. It doesn't mean her presence somewhere among eight million other people doesn't throw the city into turmoil.<br /><br />Keyes is excellent. The supporting cast is very good too. There are several little-known people involved in this -- the director included. Don't be put off. It is a movie to be reckoned with! (And how nice to see a Columbia picture. Columbia and Republic turned out wonderful comedies and noirs; yet we hardly ever see them anymore.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e4fe38c91e3cae67e061a7724e4b4e877af70fe4566d0ffe3215c61e1c191ff
+size 791

@@ -1,1 +1,3 @@
-A fun filled romp, full of silly if not sometimes cruel jokes. Not the best of movies, but definitely well worth watching. David Niven and Stewart Granger are their usual charming selves with Granger as an especially delightful and ingenious gentleman. Ava Gardner as wonderful as always, with such a delightful character that is absolutely iresistable. The story line is typical, but full of jocular surprises, especially concerning the unconventional relationships between Granger, Gardner and Niven.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c07b8f37b9a658587c9f54b185ccd4b3970da2bcf977ca2c1ca4a5a0510f6418
+size 502

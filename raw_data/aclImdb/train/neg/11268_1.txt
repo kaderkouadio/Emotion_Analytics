@@ -1,1 +1,3 @@
-I was hoping that this film was going to be at least watchable. The plot was weak to say the least. I was expecting a lot more considering the cast line up (I wonder if any of them will include this on their CVs?). At least I didn't pay to rent it. The best part of the film is definitely Dani Behr, but the rest of the film is complete and utter PANTS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35a5dfbc88bf1fc2263d4588bc3946a9bc33b5061f7dd44f6dee30b8d2f4c6a
+size 353

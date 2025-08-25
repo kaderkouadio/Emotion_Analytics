@@ -1,1 +1,3 @@
-Pretty crazy whodunit featuring an all black cast trying to figure out who murdered the philandering trumpet player who was just about to go to Hollywood to Make It Big. Was it his wife? His Girlfriend? His Would-Be-Girlfriend? Her Father? His Butler? The newspaper guy? Who knows? And who cares? The result of this is just a little underwhelming, and the actors here don't really get me in a mood to care one way or another finding out. Why snake venom as a weapon? Who knows? Who cares? The music in this is alright, but there's little of it, and most of it is pretty "let's get this over with" This isn't worthy of your time. There are better all-black casted movies out there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec58d4ce9a91bfeee49c902ee1a6374bc73662abe02fcc4bcc7930419e5d963
+size 680

@@ -1,1 +1,3 @@
-I thought this was a very well done movie even though it had one of those disjointed plots that are so common with European flicks,(the ending had me totally confused). I thought that the dubbing was well done and the movie was quite nice to look at. There was also a death scene that came right out of nowhere and kind of reminded me of something out of a Dario Argento film. I would give this movie 3 stars. ***
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a0afdef3369bf190bcdbc5192497fbdbda2c54be8721435be5c33f95f817a53
+size 413

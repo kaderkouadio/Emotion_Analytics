@@ -1,1 +1,3 @@
-Not as delirious as "Plan Nine from Outer Space" or "Bride of the Monster," the "Violent Years" is certainly outrageous in its own "cool" 1950s way. Watch out for those tight sweaters! And don't miss the "party" scene! The delinquent girls are at least 10 years older than they're playing, but... hey... it's Ed Wood were talking about.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef0422be09d8b7716011da50620a4812d6204d779ac68a546b04da3f81e6075
+size 336

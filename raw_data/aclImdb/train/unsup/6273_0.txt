@@ -1,1 +1,3 @@
-As a movie viewer that loves strange and offbeat movies this is definitely that type of film. I never really got into the movie until the red neck, and then it seemed to perk up the flow of the film. From the cast list I'd guess Buddy Howard is fun character to place in an below average film. Kudos to the writer and director for a clever character and great placement, does anyone know any other films Buddy Howard has done I'd like to know<br /><br />Thanks Bill<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:8435bd20baaef823937bb31950bc520fde6ba92b47f8d2168466f6a3fb9f7cf3
+size 477

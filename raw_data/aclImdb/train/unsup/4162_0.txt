@@ -1,1 +1,3 @@
-Yes, this is puppet pornography. Easily one of the most bizarre films I've ever seen, Let My Puppets Come can only be compared to one other film, Peter Jackson's excellently silly Meet the Feebles. All I can say is that you are in for an interesting 50 minutes. It shouldn't be exceedingly hard to find a copy, heck, it's on DVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da276c70f8d1212e0a047758c9d76b6d46925caaf0aa4a2f5af69e4d42a2b00
+size 329

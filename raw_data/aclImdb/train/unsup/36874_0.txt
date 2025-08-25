@@ -1,1 +1,3 @@
-Ugh, I hated "Diner." <br /><br />A group of college twerps who don't want to grow up sit around and blather on incessantly. I believe we're supposed to think they're cute and lovable, shaking our heads in mock disapproval of their pesky antics. Give me a break. Nothing's more boring than watching a movie about people who want to avoid all of the responsibilities you accepted a long time ago.<br /><br />Maybe when I'm years older and further away from my own passage into adulthood, I will find this movie nostalgic and charming. As it is, I find it unbearable.<br /><br />Grade: D
+version https://git-lfs.github.com/spec/v1
+oid sha256:c97ef1cf45678b8319d8eb30839b20e75b43f4aee1325ba8b34a7f269bb47ab2
+size 585

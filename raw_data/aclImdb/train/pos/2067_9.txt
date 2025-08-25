@@ -1,1 +1,3 @@
-Whilst it is universally acknowledged that Fearful Symmetry was heavily influenced by the Kolchak episode They Have Been, They Are, They Will Be, whether this makes it a rip-off or a homage is an altogether more controversial point. As a huge fan of both series I subscribe to the latter belief, although the less charitable may not do. James Whitmore was brave to take on the task of directing such a difficult episode, invisible elephants and gorilla suits sounds like a recipe for disaster, but he pulls it off with style, the teaser being an absolute gem. Lance Guest does a great job of making a credible character out of Kyle Lang and Jack Rader seethes with menace as Ed Meecham. Forget Fearful Symmetry's dubious originality and just enjoy it as a deeply satisfying X File.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b9bdca883e3564a1f00ed930aa8c184046a929a90546818c146e70e753f32d8
+size 781

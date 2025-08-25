@@ -1,1 +1,3 @@
-This movie, while accurate, is the most disturbing piece of cinematography on autism that I've ever seen. I have personal experience with autism, my sister and I had to leave the theater in the middle of the movie because it so accurately portrays the life of a family that has experience with autism. I would not recommend this movie.<br /><br />I think this would be helpful for people who would like to understand autism better. But people who have children or siblings with autism should avoid this movie, it's an emotional roller coaster which could prove to be too much on the more sensitive family members.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d660fda6e9d557322f31b3c9fc07af279fa3a7f06bdefdcf8b0d9d01dbac5b8a
+size 613

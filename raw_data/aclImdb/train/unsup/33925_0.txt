@@ -1,1 +1,3 @@
-School's Out was only a good movie because it was the Degrassi people. I don't think Joey was very convincing as a superstud, and I wanted to shoot Caitlin. Her character used to be all cool and feminist, but in this movie she was a big wimp. But it is definitely worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fc74a455080def489c5122e5e96ba7c1430698582668c54d576ac289d34b347
+size 277

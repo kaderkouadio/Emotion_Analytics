@@ -1,1 +1,3 @@
-An updated version of a theme which has been done before. While that in and of itself is not bad, this movie doesn't reach the ring like the other "inherent and pure" evil ones do. <br /><br />Predictable, ambitious attempt that falls short of the mark. Not worth sitting through for the tired contrived ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8bf43a5956164240b576a64a0ddfdccac8f99a83693b35624ddabd9441791b
+size 311

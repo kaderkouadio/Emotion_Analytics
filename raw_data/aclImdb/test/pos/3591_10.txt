@@ -1,1 +1,3 @@
-As a SCUBA diver, I can appreciate the incredible physical strain the cameramen must have endured to get the shots underwater. This series is MUCH more than that, though. The narration is perfect, the scenes bordering on implausible and the subject matter enthralling. The day to day struggle for life taking place out of the view of we terrestrial dwellers is mind boggling. This DVD set has open my eyes to another planet right here on Earth. I urge everyone to watch this series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2523f2373f7a9d8408b7c35a891977dd30eb2d37a8890aae28eacb629d2fad5
+size 482

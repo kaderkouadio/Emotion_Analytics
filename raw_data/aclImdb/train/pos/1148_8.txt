@@ -1,1 +1,3 @@
-This is one of those movies - like Dave, American Dreamer and Local Hero - that holds a viewer's interest time and again. Lightweight movies seldom win Oscars, but whoever did the casting for Soapdish deserves one. Even after one has seen the movie and knows what is coming, it's still enjoyable to watch how the various plot facets develop. True, all the drama is melodrama; but that's entirely fitting for a movie with a soap opera background. My favorite line comes from Whoopi Goldberg: "Now why can't I write sh*t like that?" I think it's unfortunate that the TV and website censors insist on all this unnecessary sanitation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62564682564cedbf0844fe34aa9a272664e0645487fe4096d678ddd88a616338
+size 630

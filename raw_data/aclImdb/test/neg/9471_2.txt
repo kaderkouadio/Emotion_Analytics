@@ -1,1 +1,3 @@
-This movie was definitely on the boring side. The acting was decent and the film looks pretty nice, the soundtrack is definitely for fans of Kenny G and Michael Bolton. Speaking of the soundtrack, I found it very ironic that a film about telling the truth and not stealing decided to use a song in it's titles that was a BLATANT RIPOFF of Paul Simon's "You Can Call Me Al" - except that they don't acknowledge it at all. Isn't there something a little hypocritical there? The scene that the main kid was in where he was mimicking a game show host was my favorite. 10 lines? I have to write ten lines about this movie to be included? What a ripoff, I don't think it's too fair to FORCE people to write more than they would just to get it included!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9937e27b94ba8702dc3f90bc9169540680fdb9809a2ccb4f9a45c7c89eba8a49
+size 746

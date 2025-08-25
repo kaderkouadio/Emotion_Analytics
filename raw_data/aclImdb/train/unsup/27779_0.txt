@@ -1,1 +1,3 @@
-BEHEMOTH THE SEA MONSTER is a stunning masterpiece of old-school shock cinema which needs to be seen in its full uncut, grimy glory in order to be appreciated. I first saw this late-night camp classic when it was released in the late Fifties and clearly recall leaving the cinema with a fetid taste in my mouth. BEHEMOTH is certainly one of the greatest depictions of monstrous evil yet realised for the cinema. The effects are simply stunning. By the way, it's a crime that this perfect gem hasn't yet been let loose into the world on DVD so that the digital generation can marvel at its horror. Oh yes, Behemoth *will* live again!
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ab3acfb2f56cb7676b636b96f295509108bb683c17a82bdf8dde79d5a04c05
+size 632

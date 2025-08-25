@@ -1,1 +1,3 @@
-Buñuel weaves his tale of a jilted (attempted) lover quite effectively until the conclusion which was a little far-fetched despite complimenting the theme.<br /><br />What starts of fairly slow and uninteresting soon naturally evolves into a suspenseful and psychologically taxing study into the obsessiveness behind relationships and how that plays out between the two sexes.<br /><br />Much has been made out of Buñuel's use of two different females to interchange with the lead character, although anyone who has researched the film knows that this was unintentional and has no greater meaning then necessity despite wild fan theories.
+version https://git-lfs.github.com/spec/v1
+oid sha256:850405d0b8ce6d8cc3aa46b0041c41e64f1001690d23d44ef95ae2def4e9ed29
+size 640

@@ -1,1 +1,3 @@
-I've just finished watching this film, which I've been wanting to see for years and I was impressed without being overwhelmed. Wallace Beery's not bad (though a bit stilted) in the leading role; he's better than Irene Rich, playing his ex-wife, who throws herself around the screen, swooning from sofa to sofa in a totally over-acted performance. However, it's Jackie Cooper who steals the show with a portrayal which manages to be both heart-rending and realistic. I know the concept of "real sound" is a disputable one, as sounding real on screen may just entail being a good actor, rather than a realistic one, but nonetheless he does seem far more genuine than the rest of the cast. 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac335d112af899fb23a08feef20c8be4e1d035eea1705d4a5d8662beb4ca8c5d
+size 692

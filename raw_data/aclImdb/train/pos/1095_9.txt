@@ -1,1 +1,3 @@
-Great acting, great movie. If you are thinking of building see this movie first. The dollar amounts may have changed but everything else is the same. The humor is true to life and emotions are those that anyone who has built has felt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dca40ebc06acdef21837a6581afa0ab610f6db0ce6b35851258f5d1ca9770d6
+size 234

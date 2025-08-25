@@ -1,1 +1,3 @@
-While John Garfield seems to get the bulk of attention, the true star of Four Daughters is Priscilla Lane. Her performance is the glue that holds the large cast together.<br /><br />Her ability to interact equally well with John Garfield and the more carefree Jeffrey Lynn is at the core of the success of Four Daughters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df4692c0915a885fc15f13fd264968432c57f3151a42fdf3bc262d1b8650301f
+size 321

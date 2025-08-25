@@ -1,1 +1,3 @@
-Based on Mika Waltari's Book,This Second CinemaScope movie ever made is full of rich color,beautiful music and panoramic spectacle.The Plot sometimes gets muddled in contrite wording,But all in all it has a strong social content:Man is ruled by his emotions,and that every action has an equal consequence.But to truly enjoy this film,First see the movie,then read the book.Although different,it sheds light on a whole lot of things that were not seen on the screen,and gives breath to some more of the depth of Sinuhe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a3c8d6521b56ec5d0b7bd4e6eb58bfa52bdaa08f5e9bc534eec80075dcd8481
+size 518

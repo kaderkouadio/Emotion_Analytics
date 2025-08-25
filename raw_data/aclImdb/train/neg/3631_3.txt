@@ -1,1 +1,3 @@
-Admittedly, Parsifal is not an opera that can appeal to everyone, although it is a favourite of mine, Knappertsbusch, 1951, in particular. Syberberg's entire approach is so static. Whenever the music suddenly begins to swell ... Syberberg keeps the cast moving at the same pace. The takes on Amfortas and Klingsor are endless. Whatever happened to film editing? The result is physically exhausting to watch. The viewer is never spiritually transported. Your impulse is to rush home and play a recording again to confirm that Wagner got it right, Syberberg got it wrong. And that set decoration with those "clever" reminders of Wagner's anti-Semitism -- will there ever be a viewer of this film with no prior knowledge of Wagner?
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c739c249ca2923ca2c13e6f3dc5a8cf5f352943fb6a5d6252e18a315e66120
+size 728

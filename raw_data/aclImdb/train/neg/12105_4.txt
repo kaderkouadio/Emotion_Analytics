@@ -1,1 +1,3 @@
-This was a disappointing film. The people seem to have no substance, the lead protagonist Martin Cahil has zero redemptive values, in fact everyone in it including Jon Voight epitomizes sleeze. I would not recommend this film to anyone. The violence is distasteful, though artfully done. The filming is to black, at least the print i saw fit this category. A disappointment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:329560974ae3414a68fbf57afb370d3011cb1dd146775d34864b21f9aceb241a
+size 374

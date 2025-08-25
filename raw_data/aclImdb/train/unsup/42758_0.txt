@@ -1,1 +1,3 @@
-The only thing in this movie that is the least bit entertaining is the kid (Demian Slade) who keeps telling his parents how dumb they are. And he is completely right! This movie is painfully boring. The "humor", if you would call it that, is stupid even for a cheesy 80's movie. Unless you are a diehard fan of Frankie & Annette, avoid!
+version https://git-lfs.github.com/spec/v1
+oid sha256:05db2219e838220b7f2d36ec75e67c47efe92b2737b4a4f4643675668d85b30d
+size 336

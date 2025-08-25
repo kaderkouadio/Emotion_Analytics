@@ -1,1 +1,3 @@
-I first saw this on Thames television and loved it. I subsequently saw a dreadful write-up by someone who certainly hadn't watched or listened to it. So, I bought a copy and then I bought another copy! The only sad thing is that it is not available on PAL VHS or Region 2 DVD. The Australian version is great, but this one is better! I might buy another.............
+version https://git-lfs.github.com/spec/v1
+oid sha256:104670dc63da620c354ac655a9ef7493a4102afa008bfb54b057ef257195986e
+size 366

@@ -1,1 +1,3 @@
-BASEketball is awesome! It's hilarious and so damned funny that you will wet your pants laughing. I have seen it so many times I have stopped counting. But everytime it gets funnier.<br /><br />Trust me on this one...BASEketball is a surefire hit and I loved it and will continue to love it. I hope one day there will be a special edition DVD brought out!!!<br /><br />Ten Thumbs Up!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:85cb69c77fbcada9d4e45aca1b5882342a44cb63db6c3f02dfcd2bd4a28fb294
+size 385

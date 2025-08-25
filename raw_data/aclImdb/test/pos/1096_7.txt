@@ -1,1 +1,3 @@
-I enjoyed very much the movie wooden camera. I think it's a little bit influenced by the Brazilian movie "City of God", but maybe this parallelism between the two tracks possible to follow (crime and art) in social neighborhood are a reality. <br /><br />I think the films made by Madiba are really beautiful. I don't think it's unreal that he shoot such good films, because there's a lot of artists that don't have any type of education and can be really genius. <br /><br />I enjoyed very much the soundtrack. It's adjusted to the pictures.<br /><br />See the movie...it's good to show how can be a life in a social neighborhood.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc7cf6cb361e5d3d24b58ba1f4bd3f616fb07a3f8686fd13395a7e9333357150
+size 631

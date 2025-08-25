@@ -1,1 +1,3 @@
-<br /><br />My Age: 14<br /><br /> Hah, I bet you thought just becuase I am a teenager, doesn't mean this movie is pathetic. Well, to say I loved "Out of Africa", and I have been around the block. COLUMBIA pictures has been complaining about bad business. This is why. I swear they were on drugs when they thought a rip-off of Sydney Pollack's Out of Africa was going to profit, with a budget of $34 million. Woah! I watched some of this when going to see another movie, while waiting. I was sorry. I find the lobby much more interesting than this trash. If Kim Basinger could win an Oscar(L.A. Confidential was an exception), so could Jennifer Love Hewitt and I can't stand either of them. That's all folks!
+version https://git-lfs.github.com/spec/v1
+oid sha256:505a5a5fd4ed1e446ad7efc474e15e931e1a6b3cfd347e589c2c21d7cee137a1
+size 708

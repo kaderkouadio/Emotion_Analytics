@@ -1,1 +1,3 @@
-This is a rotten movie.The cast seem to know just how bad it was.it starts badly and by the end is truly bad.the acting is woeful.the script could of been written on the spot.and although the movie is a horror film it has no scary scenes.Crap 1 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ab0cd570dd83c39d34223f5cc4e73220c64de313555c668e7f27d292bdfeb7
+size 254

@@ -1,1 +1,3 @@
-The musical performances-especially Jimi Hendrix-make this a keeper. But the other material is of decidedly variable value. Wavy Gravy works for a while, then becomes tedious as hell and most of the concert-goers aren't terribly interesting. I do hope the one young lady who lost her sister in the crowd was successful in finding her, though. The thought that runs through my mind watching this during crowd scenes and interviews is,"How many of these people are grandparents, CEOs of corporations,drive BMWs and the like?" After all, it has been 31 years since Woodstock. They have become the generation they were warned not to trust. Oh, well. Better luck next time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07e71f6e284a2cac66fdcdc1cc8e46d7f005184c3a0fc82fefe218aa83ad848
+size 668

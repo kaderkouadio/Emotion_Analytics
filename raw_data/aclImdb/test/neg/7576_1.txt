@@ -1,1 +1,3 @@
-One of my co-workers recommended this one, implying that it was one of the most frightening movies she ever watched. I checked it out together with my girlfriend and we gave up after 50 minutes or so.<br /><br />Yesterday, I had a long talk with my co-worker (we're still friends!).<br /><br />This movie is as original as the latest film starring Steven Seagal. It brings absolutely nothing original to the table. The spooky parts have been done thousand of times before.<br /><br />The biggest fault however is the painfully slow pace of this movie. The periods between the scares are completely wasted with meaningless dialog and a lot of.. nothing..<br /><br />1 of 10 Molotov cocktails
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5be65184f2f55f86935df0ac5b9a62ae757d2d74b147618051bb27ccd369ed4
+size 690

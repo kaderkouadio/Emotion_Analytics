@@ -1,1 +1,3 @@
-I love this book. It was my bible for years from high school on. Notes From Underground (what happened to the *The*? My text versions always included it) was arguably the first truly modern psychological ontological existential novel, the forerunner to, among other things, Catcher in the Rye & many of Woody Allen's better works.<br /><br />This movie, on the other hand, comes off as nothing more than a very lame imitation of a Steve Martin routine. The lead even looks like Steve Martin but the ancillary characters are barely cardboard in substance. What should have been wryly & universally satirical simply becomes high-school sophomoric.<br /><br />A dreadful disappointment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2782c3fe51eedc8a0470f4cf6f27b491b49a291e46f021225551a1b2a5e703fe
+size 683

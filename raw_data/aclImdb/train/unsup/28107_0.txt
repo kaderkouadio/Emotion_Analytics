@@ -1,1 +1,3 @@
-This film tries to use "funky" camera angles & special effects to hide a terrible plot & rather uninteresting characters.<br /><br />Completely lacking in atmosphere, a must for a good horror, this was so tedious I switch off half way through. Luckily I didn't fork out good money for this drivel as it was on cable TV when i saw it.<br /><br />Avoid 2/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eee42243cba3d4211811df83eaedc8091f15d51724f328482cd74acffb74461
+size 356

@@ -1,1 +1,3 @@
-This short film doesn't get there. Cliche' and not very funny attempt at dark humor. Humor isn't funny enough to get you interested and the protagonist isn't likeable so you really don't care about what happens anyway. Producer spent some money on this flop and it shows in the production value which is the only saving grace.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9ea4e39992e03f35d84ceea2d3dc9440dbeff7f3773c4813ab038613cf919b8
+size 326

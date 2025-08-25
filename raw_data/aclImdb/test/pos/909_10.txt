@@ -1,1 +1,3 @@
-Transcendental, sophisticated, incisive, emotive, powerful... I could think of a hundred adjectives to describe this fantastic work of art and intelligence, and still I would feel they were insufficient. All I can really say is that I am infatuated with this film. Applause to Krzysztof Kieslowski, Zbigniew Preisner, Irène Jacob, and Jean-Louis Trintignant. May "Rouge" live forever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d3af755705a496ae3991c3e80d7c9794ab8f5ac9ae4d93f4fb9f1477405df02
+size 385

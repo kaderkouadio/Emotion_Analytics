@@ -1,1 +1,3 @@
-While he was great in Boogie Nights, I think that this was Burt Reynolds' best performance. He's also a great director and has made a tough, violent movie that doesn't hold back (a hooker's death by 12 gauge) and is an excellent detective story with some great actors (Brian Keith, Bernie Casey, etc.) and an outstanding jazz soundtrack. 10 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c8107fc418cd212813ad24ab661e995b70300a26677f52abf95149ceca658f
+size 350

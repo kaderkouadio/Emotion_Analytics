@@ -1,1 +1,3 @@
-This movie came highly recommended, but I am not sure why. I am not really and Adam Sandler fan though, apart from in 50 First Dates where he departs from his usual angry man routine. Damon Wayans is an undercover cop and Adam Sandler is the guy he pretended to be friends with for a year in order to bust him. Naturally Sandler is rather angry about this betrayal. Cue angry shouting and silly facials from the king of variety. They end up on the run and of course they become friends again after a big misunderstanding (involving Sandler shooting Wayans in the head - he survives thus he is Bulletproof). Need I go on? You will work out what is going to happen if you do watch it anyway. When our DVD player kept pausing (hey it was $80 from the supermarket OK?) it was commented that the player knew the film was boring and was refusing to play it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f0a6ff6dd368a9b930ec4e7eace91f31043d70e16a2d64db769cb836f9883c9
+size 851

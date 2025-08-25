@@ -1,1 +1,3 @@
-What great locations. A visual challenge to all those who put their eye behind the lens.This little jewel is an amazing account of what you can shoot in just 16 days. Good going folks!. I can not wait to see what your next feature will be. I'll be with you all the way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a074f690ae31c789a9f11ca91af370b6f85f70d0edaf9b5843e7d616ab6cb95
+size 269

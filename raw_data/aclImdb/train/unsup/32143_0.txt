@@ -1,1 +1,3 @@
-This is one of my favorite movies of all times. It's funny, moving, tragic, hilarious, just all in one. Tom Conti gives a memorable world-class performance and the stunning beauty of Kelly Mc Gillis is a feast for the eyes. I wish this one-of-a-kind masterpiece were available on DVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae6e194e2eda4c53fc4a836c9ead4617cfd596f619cdb7e6cc10ce4a78e303d
+size 284

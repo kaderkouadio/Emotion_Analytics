@@ -1,1 +1,3 @@
-The characters are unlikeable and the script is awful. It's a waste of the talents of Deneuve and Auteuil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45916eeea481f2748813aa999b394fb03cc4bc47744b9ba10b71b9f114a2664d
+size 106

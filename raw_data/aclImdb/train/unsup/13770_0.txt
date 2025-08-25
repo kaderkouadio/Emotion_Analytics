@@ -1,1 +1,3 @@
-This movie is plain, simple, fun. It doesn't leave you breathless with suspense, or on the edge of your seat with your heart pounding. But for those who don't enjoy all the smut, violence, and potty mouth movies we've been inundated with in the past several years, its a winner. Dabney Coleman plays the part well. First, he is soon to retire from police work, and understandably doesn't want to risk his neck and lose it just before he retires. However, this all changes when he is told he has just a short time to live. Wanting nothing more than to leave his family some security, he begins his unsuccessful quest to get himself killed on the job, only to find out its harder than he thought it would be. This is a movie that does not require anyone to swim through the gray area of a controversial issue. It's just plain entertaining.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9693ddd37595149fc1afc6c98e59797fa12e57d9d26d228375fca2b4b6ff43ce
+size 837

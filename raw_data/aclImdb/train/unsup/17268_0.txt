@@ -1,1 +1,3 @@
-This movie had a little of everything, humor, relationships, and more. I would recommend this movie to anyone
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe2f3859edfe4aa49c34e79a92f89daa823b28781110de810efa9601627c8b1
+size 109

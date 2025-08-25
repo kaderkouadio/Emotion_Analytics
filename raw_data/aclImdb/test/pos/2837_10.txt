@@ -1,1 +1,3 @@
-"Nurse Betty" is the kind of movie you can't describe on a poster or in a trailer or commericial. It's the kind of movie that you walk in to expecting a more mature "Dumb and Dumber" what with temporarily insane waitress goes on a cross country adventure while avoiding crooks trying to kill her.<br /><br />The fact is, this film is a wonderful, heartwarming tale about two people chasing their dreams. The best part about "Nurse Betty" is it's unpredictability. Director Neil LaBute uses brutal violence to seperate dreams from reality, and along with the touching drama, and hilarious comedy, you can never tell what is going to happen next.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef80b9914138c12815826fd7bf42e42569f2f8c0d25cdedadf3abb7416f199f
+size 644

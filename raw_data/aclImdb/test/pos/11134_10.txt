@@ -1,1 +1,3 @@
-Bobbie Phillips, who in her own right has amassed a great list of credits as a hard working Hollywood actress, shines in this third installment of UPN and Village Roadshow's Chameleon series. In this installment, the sexual innuendo has been toned down with Kam showing a caring maternal side towards a recently orphaned genius teen. Bobbie delivers this role to the viewers with great panache'. The action and stunts were the best in the series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac73d337a7c43e12ffc6d6b06932a559782c14f0ce1a3325f13842d66355ba80
+size 446

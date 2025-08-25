@@ -1,1 +1,3 @@
-This is simply the worst movie I've ever seen. Neither of the three central characters has any charm, and Erika's good looks aren't enough to carry the film. The lamest plot I've ever had inflicted upon me. Also the most unconvincing military comedy ever. Why did they bother?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d03c1a1fe859b430a1e1ac12b3ed46e7944bb4f7d111a01558a61df5d5e40c9
+size 276

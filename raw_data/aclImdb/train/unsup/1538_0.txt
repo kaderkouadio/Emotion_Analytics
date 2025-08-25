@@ -1,1 +1,3 @@
-Paulette Goddard is terribly miscasted in her awful role opposite the always fine Ray Milland. John Wayne provides his usual cool talking and the period that this film was made is quite clear: during wartime, but the best scene is the one with the giant seamonster, really superb!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b0be5efbe1fb76f6dbe8ca4fccc73736f71d3ca506fdc74f2702e5dad5bf510
+size 280

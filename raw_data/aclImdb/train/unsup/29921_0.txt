@@ -1,1 +1,3 @@
-I saw `Mile Zero' twice and it moved me to tears both times. Near the beginning of the film, the main character and his wife get divorced and the wife moves on and the husband gets stuck in the past. His incredible love for his son and his complete devastation over the loss of their family unit drives him to whisk his son away to the desolate but beautiful rocky mountains. The journey that ensues is subtle, stunning, moving and well-crafted. I highly recommend this film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37aa07bff23aa2e072f6996fbe6439fcf225ff284792ea6026c7e866435e5f1
+size 475

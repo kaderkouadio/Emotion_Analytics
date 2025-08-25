@@ -1,1 +1,3 @@
-Besides its dialogue being simply stunning in piling up repartee after absurdist repartee,the very plot of the film feels more as a joke at the expenses of structuralist critique than a structuralist text per se.<br /><br />In short, it is multi-layered entertainment at its best, with a strong central characterization (Jobert) and great European locations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4249eaa2181007244c26254534e89f2ef15b81b7d425e6a44a92ed3966888b94
+size 358

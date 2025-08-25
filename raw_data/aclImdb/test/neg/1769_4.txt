@@ -1,1 +1,3 @@
-Usually, any movie with Steve Railsback in the lead is a good movie. However, this movie does not conform to that opinion. Lifeforce is a below average movie that is extremely confusing in the beginning (reminds me of Star Trek: TMP), but is able to pick things up a bit towards the end when London becomes Zombie City. A horror/sci-fi mess that is very hard to sit through, although the naked spacegirl/vampire is very easy to look at. This movie deserves a rating of 4 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d451f4ca4d7427808ecb32fce7d9d8f81eba3f11fd5763ab7c0c31170d6e881
+size 481

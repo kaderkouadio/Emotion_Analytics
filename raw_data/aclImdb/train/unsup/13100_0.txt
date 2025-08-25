@@ -1,1 +1,3 @@
-This movie is at best a mediocre mini-series. It oftentimes leaves major holes in the plot. For instance, we never see William and Kate get married or have children, and suddenly they have a 12 year old son at St. Paul's. You never realize that many years have passed before Abel and Zaphia are divorced, but it only takes one scene for the movie to do it. Very few characters are really in line with how Archer's book portrays them. The only accurate portrayal in this movie was that of Davis Leroy. Fred Gywnn nailed that part the way Bob Vila nails studs together. Overall though, the film is a disappointing show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:146b04dae4792560598459b8a6c2fb29d8438102292d060648aecdc14eae80db
+size 617

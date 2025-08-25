@@ -1,1 +1,3 @@
-Oh dear. Some of the best talent in British TV made this serial, and so I can only assume that they were working under incredible time pressure, and had to settle for first takes of many scenes.<br /><br />There ARE some frightening scenes in this Highland mystery (mostly when the "monster" attacks and we see it from his point of view), but I'm afraid that I found most of the story unintentionally funny ! Such as the moment when the hero discovers a dismembered corpse on a golf course: Oh look, there's a hand ... oh, and there's another hand over there ... hmm this is a bit puzzling ...<br /><br />For many years fans of British cult TV shows campaigned to have this serial released on VHS or DVD, but the BBC always said no. Now I think I understand why !
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f4fb0c073d648e44d610acce3fcd8fdd00dc9689c75be08e0f9af08c6931fb9
+size 763

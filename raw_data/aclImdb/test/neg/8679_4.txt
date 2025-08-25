@@ -1,1 +1,3 @@
-This film with fine production values features secrets and how friends use each other. Henry May Long is a very well-acted, dimly lit, depressing turn-of-the-century period piece about a friendship between a fatally ill man and a melancholy, indebted junkie. Talky drawing room dramas are not my cup of tea, and all the crying wears thin. Recommended if you like independent, slyly intellectual, slow-paced Merchant Ivory-type features. <br /><br />I suspected that the main characters were in love, but their connection was so intimated, it didn't really have the emotional impact of 'Brokeback Mountain.' It features some good writing with a scene discussing how to disappear in life, but it is truly a dark and depressing film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:509a7548cc1f8c0f41f278347b9938e9494ae9eee7c328f4aa4d82ce36886010
+size 730

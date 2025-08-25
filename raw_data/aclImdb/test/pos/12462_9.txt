@@ -1,1 +1,3 @@
-Where this movie is faithful to Burroughs' vision, it is excellent; where it departs from Burroughs, it is superb. It is a tale of family, of the seeking of a father by a real and emotional orphan. Lambert's speaking of one of the most anguished lines in all of cinema "He was my Father!" is enough to bring tears to the eyes of the most cynical critic. Not a perfect motion picture - the notorious over-dubbing of McDowell's voice by Glenn Close is unconscionable and only explicable in terms of a very British error - but a fine if flawed masterpiece and a noble farewell to Sir Ralph Richardson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a781dcf31c0f039e8678b8136fe1ea4cbd6f74b5ba188b18058e54818db7ec
+size 598

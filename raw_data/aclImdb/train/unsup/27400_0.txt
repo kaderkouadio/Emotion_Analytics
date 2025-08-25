@@ -1,1 +1,3 @@
-Tired old tale of a rough boy from a hellish background whose heart's in the right place and who battles against the odds to make it because there's one radical authority figure who believes in him. Oh and of course, he's in love.<br /><br />The only entertainment in it is the horror effect of the mid-80s Pat Benatar fashion, make-up and hairdos. Where do you buy a red leather sleeveless jacket these days?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ff5227c140adf95ca32078f97fd868b0a0ae4f9a38a34d64626a267587b20e7
+size 409

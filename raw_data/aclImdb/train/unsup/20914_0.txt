@@ -1,1 +1,3 @@
-This is a funny movie. When my husband and I went to see it in the theater we were actually laughing out loud. And it was not just us, it was everybody in the theater. Someone looking for a deep and meaningful plot will not find what they are looking for, however it is one of the best plots of all the Adam Sandler movies. It would also not be for anyone who would easily get offended by off-color jokes. Jack Nicholson is hilarious as the Anger Management therapist. He has some of the funniest parts in the whole movie. Adam Sandler is not to shabby himself as the not angry guy learning to be angry through a series of seemingly unfortunate and random events. <br /><br />If you are an Adam Sandler fan or a fan of the screw ball comedy, you will love this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a15262e1a20e19ee2db65efede5ddde0112a7679913b99bd3e7cf2eda5f1b776
+size 767

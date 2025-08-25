@@ -1,1 +1,3 @@
-This film is a big piece of garbage. I thought I was watching cutscenes to a video game. This movie is boring and is not realistic. No suspense at all. Why would they make this thing. This looks like what they show on the video monitors when you are in line for Star Tours at Disneyland.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7b083a9dbb2f34292723969a64eb836bb5a205789646803c0709b8eadf1bc0
+size 287

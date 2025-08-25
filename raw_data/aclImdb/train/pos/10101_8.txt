@@ -1,1 +1,3 @@
-Dominion tank police is an exercise in contradictive film making. The storyline across the 4 parts blends mindless action, slap-stick humor, touching humanity and thought provoking philosophical questions. It's hard to believe that there was only one director, as the style changes from episode to episode. A must-see movie for anyone who likes anime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ca3f09960fa4b006dca862664aedce72cc084edec6f406e41603e0d6665f30
+size 351

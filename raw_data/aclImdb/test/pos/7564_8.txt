@@ -1,1 +1,3 @@
-This is one of the best presentations of the 60's put on film. Arthur Penn, director of Bonnie and Clyde and Little Big Man, saw that Steve Tesich's outstanding script rang with truth, and from these two talents comes solid cinema. Jodi Thelin's Georgia Miles gives male viewers a hit of pained nostalgia for the archetypal beauty who is almost within our grasps, but, always just out of reach. Just see it, or you cinematic education will be incomplete.
+version https://git-lfs.github.com/spec/v1
+oid sha256:add631acd57d4bde684e9bf39d6adeca59619d16e6446850bcd40974d28f99c5
+size 454

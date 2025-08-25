@@ -1,1 +1,3 @@
-It's like what other Dracula movies always do, the minions of Dracula always on Dracula's side, which is what disappointed me at the ending. Regardless the person wants to stay a vampire or not, I would like to see something like in the first movie that the minion fights against her master. It is much interesting (since you can almost predict how the story goes) than just either the priest or D. win the game (we need some surprising plots!).
+version https://git-lfs.github.com/spec/v1
+oid sha256:429d5689781798bd28caa34a442ef392109f30ebf9f2cfa4f22d54bbaf554dba
+size 445

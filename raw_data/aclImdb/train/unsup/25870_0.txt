@@ -1,1 +1,3 @@
-I honestly cannot stand this show. It showcases animals doing crazy stunts and exhibiting strange behaviors, backed up by corny puns by that cheesy host. Some clips are amusing, such as that monkey yearning a little girl to continue scratching him or that donkey who spit at an innocent family inside a car through an open window, but the majority involve a dog spinning around in circles or a cat falling off of a washing machine. Pretty much any animal doing something mundane and just plain dorky is slapped with the label "humorous". I recall a show from way back called "Animal Kidding" on Animal Planet that was hosted by Mario Lopez and was genuinely entertaining. Although the theme tune of Planet's Funniest Animals was sort of cute, it was probably the only thing that was actually heard by those editors and producers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a82afcc3b814a968318ec90a37715b2af39f9de6d4ced85e0ac30b203226055
+size 829

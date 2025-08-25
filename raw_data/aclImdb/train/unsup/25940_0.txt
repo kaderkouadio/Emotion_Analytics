@@ -1,1 +1,3 @@
-Originally made for the cinema, this film was deemed so awful by the distributors that it resulted in a straight-to-video release. It's easy to see why. 'Caught in the Act' desperately wants to be another 'Four Weddings and a Funeral', but it's stupid, pointless and completely unbelievable.<br /><br />The trio of female leads turn in terribly childish performances (especially the annoyingly-voiced Sara Crowe) and the supporting actors are even worse! With a juvenile script and stereotyped characters, the movie seems to be stuck in a 1950's timewarp.<br /><br />Only the acting of comedy veteran Leslie Phillips raises the level above utter farce.<br /><br />'Caught in the Act' is embarressing and ultimately very forgettable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2331f6ec711130db1e7a999d2886b90158250fb6dc995e0b75c318f7ad3b240b
+size 732

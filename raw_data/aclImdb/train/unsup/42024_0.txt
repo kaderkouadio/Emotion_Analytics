@@ -1,1 +1,3 @@
-I couldn't believe my professor assigned this movie for a class. Ugh.<br /><br />The production values are not too great, and the score is AWFUL!<br /><br />In general, it feels like a corny 80s sex fantasy drawn out for 90 minutes.<br /><br />But without a lot of sex.<br /><br />Some of the nature scenes are very pretty, and it's almost in the so-bad-it's-fun category.<br /><br />But not quite.<br /><br />Definitely not recommended, unless you're having a bad-obscure-80s movie film fest.<br /><br />And maybe not even then.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c6e4fde122916a8b6e79d2b5b3e551a7aa2bfd22f62afc6f0a265e91c041bcf
+size 541

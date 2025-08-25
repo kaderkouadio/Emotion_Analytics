@@ -1,1 +1,3 @@
-Threadbare horror outing has an innocent teen (Meg Tilly, appealing as always) attempting to get in good with the popular clique at school (despite the fact they seem to hate her outright) and letting herself be subjected to their sorority-like initiation: spending the night in a creepy mausoleum. Despite the complete absence of originality, this low-budget thriller manages to come up with some decent special effects and has several good performances (particularly by Robin Evans, oozing campy viciousness as the leader of the girls). The script isn't razor sharp, but it has enough quirks to make the proceedings somewhat bearable. ** from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd563193210e3cfa8393deee2f6ef47a42e66f7c2431985b4350287eeef0ed2
+size 649

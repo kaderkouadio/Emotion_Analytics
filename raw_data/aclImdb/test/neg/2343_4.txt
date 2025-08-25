@@ -1,1 +1,3 @@
-Schoolies is a pointless exercise... Go to Gold Coast, get drunk and have sex. Worthwhile ambitions maybe but not highly intellectual. The plot is a simple as a few sentences assigned to each character and nobody is helped by the cliches doled out here.<br /><br />Something that would help is the casting. Everybody looks too old. These characters are supposedly innocents embarking out on their own in faltering steps to adulthood yet they all look way too old to be believable in the role.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b151931d6aa2562dbfead63c9ffeec90bf7a77785caa63863d3571f5684bf9f
+size 504

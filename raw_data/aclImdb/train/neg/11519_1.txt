@@ -1,1 +1,3 @@
-This is absolutely the dumbest movie I've ever seen. What a waste of a splendid cast. That's James Cromwell as the ignoramus playing deputy. I could go on and on, but I would obviously be spending more time on this review than anybody ever did on the script. The only thing this movie is about is us vs. them and how to revel in profane slapstick beyond any reasonable human being's tolerance. This is one of the 10 worst movies I have ever seen -- and I LOVE James Garner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d485fe574cf9bdc00c86714c0450373e05a6a87c0293ca07a2c0e54112b2e0e
+size 473

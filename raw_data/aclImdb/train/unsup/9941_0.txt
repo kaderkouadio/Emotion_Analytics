@@ -1,1 +1,3 @@
-This remake of Ivanhoe suffers from several things: changes in the story line, incongruities in the historical aspects of the period and Anthony Andrews's inability to portray anything beyond a prig middle class playboy. Good performances by Sam Neill, James Mason and Olivia Hussey can't save it. The costumes are fine but Andrew's wincing and facial contortions along with John Rhys-Davies's over-acting and emoting ruin it. Too bad. This one had potential. Hey, if you want a costume drama fix, go see the 1952 Robert Taylor and Liz Taylor version: it's much more satisfying.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17ca367af6920b25cfa5cd326d751dfe095a7874e1677c6e49f44d665525cbe4
+size 578

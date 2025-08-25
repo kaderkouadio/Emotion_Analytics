@@ -1,1 +1,3 @@
-As a total movie geek with the fortunate job of video store manager, I tend to watch all sorts of movies, from good to very very bad. This was a movie with so many corn-ball lines, cheesy CGI effects and predictable plot points that I ended up laughing extensively before switching it off after 30-40 minutes. The "creature feature" genre of movies has been putting out some pretty awful stuff in recent years (Godzilla 2000 anyone?), but this movie makes me think the creators weren't even trying. It might be worth checking out just for the "make fun of me" potential (count the gunshots!), but I couldn't in good conscience recommend this movie to anyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cea4c929104889cc564def4fae99975b1a328e90e6be4cb4c26b8a21b8229af0
+size 658

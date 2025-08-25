@@ -1,1 +1,3 @@
-This movie was just another piece of Moore propaganda. It fails to properly explain corporate structure, corporate governance, and even what a corporation actually is. In fact, it appears Moore lumps all corporations together and never distinguishes from publicly traded corporations and corporations such as Goodwill or private family corporations. There is no discussion of the Business Judgment Rule or even derivative suits. Moore's unsupported beliefs. I am trying to figure out how someone who invests so much money into publicly traded securities can make a movie that is directly in conflict with his behavior. When it comes down to it is lacks little educational value and is fairly boring.
+version https://git-lfs.github.com/spec/v1
+oid sha256:756540090f61e74d2ad69167fe7f72e942474223b493c0f1f83bf8a8fe35e1c8
+size 699

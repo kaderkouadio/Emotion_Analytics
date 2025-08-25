@@ -1,1 +1,3 @@
-This has got to be one of the worst movies I have ever seen. It is (I think) a story of a rebellious college basketball player, his tough-but-fair coach, his girlfriend, and a fellow student (played by Michael Margotta) who has continual nervous breakdowns. The story goes nowhere, there is zero character development, there is nobody to care about, and the performances, with the exception of Bruce Dern as the coach, are terrible. It is hard to believe how a talent like Jack Nicholson could direct such an awful movie. Make sure to avoid this turkey.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd19b89787379b5b7a79381b51843a534195dce222ef8c0ab6c4f329cd9bb3bc
+size 553

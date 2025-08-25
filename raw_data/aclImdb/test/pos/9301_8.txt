@@ -1,1 +1,3 @@
-The movie seemed a little slow at first. But it picked up speed and got right to the point. It showed exactly how the government and the scientist argued for humanity and the reasons of the "gadget". I enjoyed it. It is very close to reality as any movie about the Atomic Bombs that were to be dropped on Japan. I have recommended it to friends. I was particularly pleased with the acting ability of Dwight Schultz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4750a6248260ac53b2409bc48119d3952506dda779da2881f4006635c7e4511f
+size 415

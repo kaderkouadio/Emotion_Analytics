@@ -1,1 +1,3 @@
-What a clunker!<br /><br />It MUST have been made for TV or Cable.<br /><br />Look: forget the screenplay - forget the bunch of forgettable actors. Excuse me? Continuity? The NSA/NIA/whatever or whoever he is (an agent) takes-off in an F16 - is shown in an F18 chucking his guts up and, later, the aircraft shown taxiing is an F4 Phantom! Oooh, wish that I could be so cavalier.<br /><br />Apart from the male actors(!?) The women are WASPS: blue-eyed and long-legged and, eventually, get to cry about the heroes who save them. Even when a solid weld could save most of the cosmo- astro-nauts, the blond drops the welding tool. Duh!<br /><br />As an SF movie one out of ten. As a movie per se: 1/2 (that's a half point). They should have ditched the space station and headed for Mars.<br /><br />Major raspberries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37860ef58f21b2b972242d7d9977efb852e17cbcfd09f66e657021c7c89475e4
+size 814

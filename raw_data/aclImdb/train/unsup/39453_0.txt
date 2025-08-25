@@ -1,1 +1,3 @@
-If this movie was the only thing on TV I wouldn't watch it. Pay movie theater price for it? I want my money back. Bad ass female police officer with abusive father falls in love with mysterious heroic stranger. What a thriller. Was this movie about Jennifer Lopez's character or about the recovering accident victim? I kept thinking "Catch" was going to be a serial killer or something of that sort. Unfortunately, we had to be dragged down this melodramatic movie like a bad soap opera. This movie should have been called "Touched by an Angel," not Angel Eyes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3348473310d04119361bfd6622221a7e54dec2db1d69fcfecb13152071157eb
+size 561

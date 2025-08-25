@@ -1,1 +1,3 @@
-The second Care Bears movie is immensely better than its predecessor. It has a deeper plot, better character development, and the tunes (especially the closing song) are both catchy and warm-hearted. Sure the movie tends to over stress caring but come on, it IS a Care Bears movie. This movie is a great picture to show to kids because it emphasizes friendship, love, and again, caring. Not to mention the Care Bears are just too adorable!
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d630762b10931e9dcd81f7d2483a2329d4d93bb5aa34d41d6c1911897d6a2c
+size 439

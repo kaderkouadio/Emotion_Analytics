@@ -1,1 +1,3 @@
-I quit the movie after 36 minutes so one might think it is unfair to judge. Its just that by that time the Dutch team got so far behind the Danish original ("old men in new cars") there was no chance to make up the deficit. I did not know that I'm going to see a remake from the beginning so I just felt a little uncomfortable when Vuk was introduced. But soon they made clear whom they are going to challenge. From now on I couldn't help but to compare with the original. All of a sudden the actors appeared to be amateurish impostors. You might have experienced the situation someone's telling a joke that is not only well known but also badly presented. What a shame. Such a disgraceful defeat should not be published.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75d69afd933d21e8570d43f33573da9d77347779b8f3717f67b970b737715512
+size 721

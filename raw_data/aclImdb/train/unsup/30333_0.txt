@@ -1,1 +1,3 @@
-This movies was very compelling. It's one that sticks. The screenplay, camera-work & casting are all fantastic. I'm already looking forward to future work of Frank Cappello. This movie is up there with Memento, seriously. <br /><br />Be sure to check out some of the explanations of this movie on IMDb. It has more layers than you would think. Very, very clever movie and not easy to film because it's situated in the realm of psychology. Christian Slater certainly wasn't one of my favorite actors but he's truly brilliant in this one. I wish he was always this picky of his roles or that there were more scenario's like this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d69b53cff06b9ab371c18f1a77a739c26205b3983582d1a868b67cce6d3bff4
+size 631

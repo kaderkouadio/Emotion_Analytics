@@ -1,1 +1,3 @@
-.<br /><br />It seems the Directors were in way over their heads. Poorly Directed, Poorly Filmed, Poorly Written, and Poorly Acted. I understand it was low budget and all that, but come on... First year Film Students could have done better. Small wonder it went straight to DVD. And another thing... the "Special Features" part is one of the most Inane, Juvenile ramblings from a "Director?Writer" I have ever seen/heard. He even goes as far as threaten physical violence against critics that have posted negative reviews of his film on the web. They should stick to making Music Videos...<br /><br />.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d8157fc81fbb7f9a7be8b831289548b2631228c8b61516205fc50c834bc9c0
+size 602

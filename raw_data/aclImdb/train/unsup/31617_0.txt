@@ -1,1 +1,3 @@
-A young 28 year old Diana Ross earned an Oscar nomination for this 1972 movie about Billie Holiday. "Lady Sings the Blues" is a song written by jazz singer Billie Holiday, and jazz pianist Herbie Nichols. It is the title song to her 1956 album. In my opinion I thought Diana Ross did an OK job at portraying the troubled Billie Holiday. The many ups and downs of this famous singer are brought to life with Diana's performance. A co-star in the movie who I thought did a great job was 32 year old Richard Pryor. Pryor came through really well as someone who offered much support to Billie Holiday from very early on. Although there is some doubt of the accuracy of the book in which this movie is based, I still found it enjoyable enough to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbc86a0d5b1a79bf49b6cb88907cf3f65896588d24f95b05535b52349ad0f188
+size 747

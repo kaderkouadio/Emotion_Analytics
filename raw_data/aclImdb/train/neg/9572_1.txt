@@ -1,1 +1,3 @@
-One of the worst films I have ever had the displeasure of sitting through, Killer Tongue is a horrible melange of the worst elements of The Rocky Horror Picture Show, Brain Damage, and Pulp Fiction. Designed primarily to offend, apparently, but so inane that only the most hidebound conservatives would be taken in by it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9162b55c0c45d7dfe789dc69fe30d1ba546a730b0fb82689cd4423a0b95ae860
+size 321

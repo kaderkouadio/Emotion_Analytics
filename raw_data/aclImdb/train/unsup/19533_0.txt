@@ -1,1 +1,3 @@
-ok maybe not really but it sure felt like it the first 60 or 70 times i saw it as a kid on cable i loved this movie cause it was so freakin funny i watched it over and over and over again laughing myself hysterical every time and then when i saw it like 15 years later i laughed so hard i broke a rib laughing ok maybe not really but it sure felt like it ya know what i'm sayin
+version https://git-lfs.github.com/spec/v1
+oid sha256:40c2df1a1f771af6285ed210555bd94845f3227f445dfb1439b69d1b8c57145b
+size 377

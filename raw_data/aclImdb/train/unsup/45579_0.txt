@@ -1,1 +1,3 @@
-I respect Christopher Plummer, playing against his typical villainous character, and he is very convincing as a concerned scientist. The supporting cast is very good also. The plot alludes to "Frankenstein" numerous times and is obviously hinged on that classic tale. There is no excitement in this movie. It is so laid back, especially Arthur Hill, Plummers adversary, that you begin to drift off early and often. Cerebral sci-fi doesn't have to be this boring (see "Enemy Mine"), and while the acting is totally acceptable, everything lacks excitement, and just drifts along towards a conclusion that was only a minor surprise. Not recommended. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc9d648c88abd04e1124da5289b8271eaf2905b2fc4b0fe6ca571a098665635c
+size 653

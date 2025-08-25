@@ -1,1 +1,3 @@
-I like a good novelty song. No, I take that back. I love a good novelty song. I absolutely despise GGROBAR on the other hand, and have from the first note I ever heard. When I found out someone had made a cartoon based on it, my head almost exploded. Now that I have seen it because my kids begged me, I wish my head had exploded. It would have saved me from the excruciating misery that was this cr@pfest. First of all, making an hour long show based on a three minute novelty song is a ridiculous idea. To stretch a song like this, which had to pad like crazy just to be that long, into an entire hour, is even more ludicrous. This was poorly written, cheaply animated, poorly acted...the list goes on and on. Dear God, is this ever bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9d4f1a11d7a456787157e0aa7c31bba814c5a56db6f0761e619e73f3da2b8af
+size 739

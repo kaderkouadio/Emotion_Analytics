@@ -1,1 +1,3 @@
-i like Jane Austin novels. I love Pride and Prejudice and Sense and Sensibility books and movies, and I'm half way through Mansfield Park. But i couldn't stand Emma. I gave up on the book after 2 chapters, and by the end of the movie i couldn't care less about Emma. She didn't seem to change at all. Maybe it was Paltrows acting (which as excellent in Se7en) or my lack of interest for the movie. Dunno. <br /><br />The costumes are nice, but the dancing was clumsy compared to Pride and Prejudice dancing by Colin Firth and Jennifer Ehle.<br /><br />I gave it a 2 basically for the fact Knightly is bloody gorgeous, and although it as a rather patchy performance for Ewan McGregor, i liked his singing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a61d52aab7a8cf0e9deb6913d0ce8dc3786231775e24fe88179e4491f413d8ff
+size 704

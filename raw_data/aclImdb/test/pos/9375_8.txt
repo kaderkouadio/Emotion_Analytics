@@ -1,1 +1,3 @@
-A bigoted soldier kills a man for being Jewish and tries to pin it on a fellow soldier. Not as good as the novel it was based on ("The Brick Foxhole") in which it was a gay man who was killed...but Hollywood wouldn't touch that in 1947. That said, it's still a very good film. The anti-Semitism is handled very well, but it's hammered into the audience that bigotry is bad...well duh! But this was 1947. The picture is well-acted by the entire cast (especially Robert Young and Robert Ryan) and the tone is very dark...as it should be. Very atmospheric too. A deserved big hit in its day...well worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e94754f3cecd2b579b662c08a496a948214a62d1838cd7899567b6b82fcef12f
+size 608

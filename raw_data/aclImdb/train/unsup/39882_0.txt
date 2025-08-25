@@ -1,1 +1,3 @@
-It is a shame that after a brilliant first two films, full of cameraderie and a great comedy element as well as a plausible plot, this one just ruins it all. There will not be a sequal to this botch up, which sees a greying Eddie Murphy running around a theme park with little support from 'Taggart' or 'Rosewood'. I don't think Eddie will put this on his C.V.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42ce703d96629919daeda48a9dc28dafba5dad5e192c2e14126aa9e0e0a066b
+size 360

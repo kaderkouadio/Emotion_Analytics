@@ -1,1 +1,3 @@
-It was probably a funny idea at one time to spoof the Friday the 13th films by making Jason a nebbish man full of self-doubt. The fact is that the FT13th films are unintentionally funny on their own, this film tries to be more satirical and the whole thing collapses under its own intentions. The gore is even grosser than most FT13th films, and the violence is rather cruel, especially the final murder. There are no funny lines here, or suspense, just another case where the special effects budget was more than the screenplay budget. Pass the hockey mask and give this a 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdc46e9ac2b8807db6df1e508f770d76a447fe4dbeb05773b11df173e4c9c2b6
+size 576

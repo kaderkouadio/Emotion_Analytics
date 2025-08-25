@@ -1,1 +1,3 @@
-How did such a terrible script manage to attract this cast? Ridiculous, predictable and thoroughly unbelievable, this is well-acted and slickly directed, but the material is so bad it still qualifies as one of the all-time worst thrillers I've seen in years. Amazingly bad, and not in a fun way. Avoid at all costs, even if you're a fan of someone in the cast.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77230efd95e4b7a5e305e16e624f562fe952eb63599c1258e01e1aa366eb8514
+size 360

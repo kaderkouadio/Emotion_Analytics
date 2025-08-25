@@ -1,1 +1,3 @@
-I watch a TON of movies and enjoy the occasional B movie but this movie was awful. Aside from the "homemade" quality of the film it was very slow and seemed to make no point. I'm only commenting b/c of another comment I saw here that said it was great! WOW! Maybe OK to watch on a rainy day when nothing else is available.<br /><br />The characters were disjointed and didn't fit any discernible pattern of reality. The dialog between characters was forced and at times very confusing.<br /><br />I guess if you were very into the whole area 51 and understood some of the nuances other comments reference, it may be good - but for me - the Average Joe - I don't get it!?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3843d93de3d0ad83b0061b733ce83513addfb56215e0e3860c8bd07801d228c5
+size 670

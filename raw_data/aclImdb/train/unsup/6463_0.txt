@@ -1,1 +1,3 @@
-A remarkable film from Takeshi. A lyrical, poetic, visual feast that slowly but surely completely sucks you in. If masters make their art look easy then this is a great example of modern film mastery. Takeshi's shots and dialogue appear so simple and natural that you would begin to believe you could do it yourself with a camera, a beach and a handful of actors. Its unlike anything i have ever seen before, and the soundtrack from Joe Hisaishi compliments the film perfectly. Takeshi's slow, lingering, minimal style could put off some viewers, but if you don't mind the more contemplative camera then you have struck gold.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:60e8805afd5e4ad6e7f018c3793c4296c9f8c42de1c2aa9fbca02ec942efd307
+size 637

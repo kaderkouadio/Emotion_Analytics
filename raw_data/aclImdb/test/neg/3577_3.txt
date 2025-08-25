@@ -1,1 +1,3 @@
-"R Xmas" peers into the lives of a middle class married-with-kid family of narco-distributors during the Christmas holiday season. There's no story here - just a disjointed collection of events. Ferrara seems to get off on the juxtaposition of the holidays and home life with narcotics peddling in NYC, jumping back and forth between each. The players appear to be improv'ing and adlibing now and then making for an unconvincing watch. Overall a poor effort not worth the time. (D)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f17208d3ba16d340221a6e97179b817646035dcc7ca0b6411c8ee69cd26336ac
+size 481

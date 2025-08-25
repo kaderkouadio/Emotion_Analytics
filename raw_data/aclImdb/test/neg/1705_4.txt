@@ -1,1 +1,3 @@
-Except for the appearance of talented Austin Powers impersonator Richard Halpern, this pic was your run of the mill movie spoof. Dated movie references will not help audiences that may come across this endeavor in future. Watch for "Groovy" Austin Powers in the hot tub. It's a hoot and a half.<br /><br />Poor special effects are overcome by the appearance of numerous starlets in skimpy outfits, so at least that should keep one entertained (if that's what thrills you).<br /><br />For my money, I would rent the DVD of classic spoofs such as "Airplane" or "Lobster Man from Mars".
+version https://git-lfs.github.com/spec/v1
+oid sha256:53c4b35934173ffda4eb44ca7f7e25fd42d2220a6f26790f61708051f6488300
+size 583

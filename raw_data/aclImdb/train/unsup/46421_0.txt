@@ -1,1 +1,3 @@
-Insipid and listless remake of the Saturday morning cartoon show of the 1960's. Obviously made to cash in on Baby Boomer sentiments. Lacks all the fun and humor of the cartoon, and goes on way too long. This sitcom format is rarely sustainable for more than standard 30 or 60 minutes shows. THE FLINSTONES wears out its welcome after the beginning musical score. The script is unfunny, predictable and dull. John Goodman is an exceptional actor, yet he can't save this turkey. Kids will be bored, and those who remember the original with any fondness, will likely get depressed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b78ebbb153386e8c6142ce5a7b9e32dd4e61351e423cc13e27534111b36a4b9
+size 578

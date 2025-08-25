@@ -1,1 +1,3 @@
-An uninteresting addition to the stalk 'n slash cycle which dominated the horror genre in the 1980's. This was filmed as Pranks but released as The Dorm That Dripped Blood which is an obvious steal from the 1970 horror anthology The House That Dripped Blood. Daphne Zuniga is the only recognisable face in the cast and this was her first horror movie (she has also appeared in The Initiation and The Fly II).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3851b8331a59feb9d4fb55bc99f0fd826af5b2ffc0784f3bb664eca9663fe9d2
+size 408

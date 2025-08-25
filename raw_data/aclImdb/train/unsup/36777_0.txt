@@ -1,1 +1,3 @@
-Dwight Yoakam can't even be bothered to get a proper comb-over for his bald spot.<br /><br />It's Vince Vaughn, Peter Fonda and...uh... Peewee Herman. In a Western. How can it go wrong? How!? But it does, and tragically. This is incomprehensible, poorly shot, vanity-project poo. Dwight adds nothing to the direction but muddle an already blasphemous script with lots of slow-motion and fuzzy camera angles. And there's lots and lots of yelling. For no reason.<br /><br />In the name of all that's holy, do not pick up this movie. Implore your local video stores to remove it from the shelves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10e45e52fd8c188cbca24dfb8c2d7254c0e2a1a01bfa50b8511a38863f1c06fb
+size 593

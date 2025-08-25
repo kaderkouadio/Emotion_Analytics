@@ -1,1 +1,3 @@
-I liked this movie. When the guy who was in on a bank heist of $40 million in gold dies, his cell mate is used as "Bait" to lead them to the high-tech crazy killer partner (by having a monitoring device implanted in his jaw without his knowledge). It's an action, spy type film with enough comical scenes to keep it light. It reminded me of Enemy Of The State. Well acted and good enough plot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b91c09f94c6d0145ed3603f3ceec99acd6903fe745a7b5d070c52afeb452ccf
+size 393

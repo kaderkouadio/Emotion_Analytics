@@ -1,1 +1,3 @@
-I live in Mexico City, so I have to suffer throug the trailers for every piece of trash that comes out from all these stupid Mexican filmmakers. You want to admire a Mexican guy for making great films? Take a look at something by Guillermo del Toro (specially The Devil's Backbone), or maybe Alfonso Cuarón (though I really don't like his films, but I respect them).<br /><br />Mexican filmmakers often produce some of the most terrible utter trash ever (Por la Libre, El Segundo Aire, American Visa), but this is one of the lowest points in Mexican films ever. If you respect your brain, please avoid this piece of **** at all costs. It would be more intelligent to watch some video of a wedding or to watch Britney's reality show. That's got more IQ than everyone in this 'film'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdb5d4b3cf92517d8b22bdf4be1e1d4f22d31a52e5c5f8c75c475dfce64e4dd7
+size 782

@@ -1,1 +1,3 @@
-Awesome blend of love and suspense. A top class thriller with Al-Pacino at his best. A record "Sea of Love" is played in all the crime scenes.. All the victims were killed after sex... The police suspects the hands of a woman.. The Investigation officer, Frank Keller(Al-Pacino) finds himself in love with a prime suspect. As they get closer he finds more clues to suspect her. Every time he was sure she did it, he finds his suspicions baseless... One day Keller finds the the list of all victims in his love's house along with the "Sea of Love" record. Story goes through twists and turns... The movie will put the viewers at the last inch of their seat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd749febe1d904f4aa3e5d1d88adecb3cc7186f5a25eadecfc333f8ed6828441
+size 656

@@ -1,1 +1,3 @@
-Srdan Dragojevic does it again! After "We are not Angels" and "Pretty Villages, Pretty Flames" he wrote and directed another masterpiece. This is one of the best gangster movies I saw. What makes it even stronger is the fact that Beograd underworld really looked like that between 1992 and 1997. Someone who isn't familiar with the situation in Serbia during those years of sanctions might think that some things in the movie are exaggerated but they are not. This movie makes fun of everything. From former Yugoslavia to todays Serbia, from Tito to Milosevic and whole situation in Serbia during those years. Actors are great, especially Dusan Pekic (Pinki) and Milan Maric (Svaba). I hope that people across Europe and USA will get a chance to see this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82fbb56a2b8d53cb1db7caa4729f1f31499049c68f210a9bbb8a3162f99ed817
+size 761

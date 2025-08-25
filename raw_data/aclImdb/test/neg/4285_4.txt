@@ -1,1 +1,3 @@
-4 out of 10<br /><br />A somewhat unbelievable storyline with some haunted-house type "shocks" that really don't fit in.<br /><br />Gary Oldham's performance is very erratic...not so much the quality of the performance but the consistency. His character does not behave in a consistent manner. Sometimes calm/relaxed/methodical/thoughtful, sometimes violent/loud/almost crazed. It's just not believable. <br /><br />Have many 80s movies dated badly? Will they be more enjoyable 20 years from now?<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79490209a95e175fb78f7a28c58a8d466e1236979d03fce62970d95f380ba37
+size 508

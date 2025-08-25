@@ -1,1 +1,3 @@
-Almodovar has done it again. He writes for all of us. The political statement about the changes in Spain over the 26 years of the movie, the full circle of birth, and the triumph of innocence over evil, were beautifully displayed in this movie.<br /><br />The European filmakers have always done it better and now with the growth of the independents, maybe the Americans are catching on that in this director's medium called film, the actors are really secondary or even tertiary to the script and the director. Hooray for Almodovar!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d50f96b1cb29bc0c0cdaf390f3262d92c2c321d16ecd09b7fa7c4123a8b16408
+size 533

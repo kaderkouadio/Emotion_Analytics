@@ -1,1 +1,3 @@
-Another formulaic and soppy dino-quest with absolutely awful songs. The insistent preaching of the series is thankfully toned down, with the emphasis on a slightly more exciting adventure that recycles the perils of the previous films, like falling rocks and sheer drops. A villainous crocodile and bird add a mildly dark tone, to not much effect. It's all slightly something or mildly something; without the sophistication and layers that make, say, Pixar's films so engaging for all ages, this is strictly kids' stuff, and curiously old-fashioned to boot. I suppose an hour of pleasant entertainment won't do them any harm, but make sure they clean their teeth afterwards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:688a2dd34d8e87016d195ed7591cbebd2d8f21399a8f56a427e9b2fd928cbd53
+size 674

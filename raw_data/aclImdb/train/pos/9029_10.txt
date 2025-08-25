@@ -1,1 +1,3 @@
-I saw that movie few days ago. This movie is so great that it makes me feel that if you want something really bad that you have always dreamed about it - you can have it. This shows a big wish come true trought happiness and sadness, hopeless and failure. But if you are strong enough and your heart really belongs to something that you love you can make things different and be happy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d508ef6c59c4ed8b5d7014c02700ec0bee577801563e785ba3bf4e3b5b9be8c9
+size 385

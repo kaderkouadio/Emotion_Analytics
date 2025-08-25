@@ -1,1 +1,3 @@
-There is no denying that this is a bad movie. The acting isn't great, likewise the script, acting and direction. Still, I cannot wait until its 2/23/99 video release from Anchor Bay. Everyone knows there are several bad movies out there that have a tremendous appeal to them. This one tops my list.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3b82ddba99c453959b23cf8cb920a73ff616bccb2aa48d6dddf5f1c9ebcf30
+size 298

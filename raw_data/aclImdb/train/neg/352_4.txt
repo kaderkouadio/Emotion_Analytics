@@ -1,1 +1,3 @@
-Seems that the cast should ensure at least an average movie. And so I sat down for 102 minutes of unbelief. Beside Ed Harris no-one seems to own the skills of acting. Even Sean Connery, who I normally worship, must have had an off-day during the entire filming of Just Case. Not once in during the whole movie one actor could convince me.<br /><br />This made this movie look cheap and unreal.<br /><br />The story makes up a little. It is thrilling, and the plot is unexpected.<br /><br />Conclusion only watch this movie if you really have nothing more useful to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da41af01fec37ff3ac112d67e553bfb85629b776f8c0db555067c271fa03a3b5
+size 568

@@ -1,1 +1,3 @@
-You want to look away, but you can't. It was horrible- absolutely Unbelievable FX (um, yeah, intestines DON'T glow in the dark!). <br /><br />The CGI could've been better done by a junior high schooler with too much time on his hands!<br /><br />The ending was straight out of "Volcano" (1997).<br /><br />It's so clichéd:<br /><br />people with histories being thrown back together; gov't involved conspiracies; a small group of people saving the day, with a villain trying to thwart the heroes.<br /><br />And of course, copy-catting a bigger film.<br /><br />You don't have to have a big budget to create a decent film. Tornado! which aired on Fox several years ago was a Twister copy-cat, but was still half-way decent. At least I didn't laugh my way through that one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93e15dfdfc570e60dca4434b1d9e64cbc3631c09b138a027fc0745950b643fdd
+size 773

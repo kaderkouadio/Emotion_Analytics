@@ -1,1 +1,3 @@
-If this is supposed to be a portrayal of the American serial killer, it comes across as decidedly average.<br /><br />A journalist [Duchovny] travels across country to California to document America's most famous murderers, unaware that one of his white trailer trash travelling companions [Pitt] is a serial killer himself.<br /><br />Rather predictable throughout, this has its moments of action and Pitt and Lewis portray their roles well, but I'd not bother to see it again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1cc6b8e28e89c0f4988949b0752b78b19ffccc27ecf4042a1247792d71e80c6
+size 478

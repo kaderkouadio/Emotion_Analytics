@@ -1,1 +1,3 @@
-For some reason this movie got buried and ended up being released straight to video or whatever and the somewhat funny but crappier Van Wilder was released. There aren't many misses when it comes to the jokes(not as much as I can say for Van Wilder, American Pie 2 or Scary Movie 2). Maybe this movie was too controversial because of all the jokes with underaged kids? Anyway, this movie is a laugh riot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5430999b14d5a8bd2736cf2ac306d588db0621b26e2424136ed21301e7f6e5
+size 404

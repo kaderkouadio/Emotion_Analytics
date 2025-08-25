@@ -1,1 +1,3 @@
-This movie doesn't even have the saving grace of being so bad that its good. It is truly appalling. Its closer to a tongue-in-cheek parody than a disaster movie, but alas they were serious. Made for TV, but not worthy of even that. It contains every cliché and cheesy plot moment you can imagine. Oh will he save the town from the flood? Will his wife admit that she still loves him? Will they escape before the flood drowns them? I cant explain how bad this is. Awful predictable plot that makes you wince it is so cheesy. Bad Effects (although to be fair I have seen worse super-imposed bubbling water). Bad script. Woeful acting. Hideous. So bad in fact that you probably should get drunk and watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56f16acef5c3d45494f2d2c79ad554b2cd10237f3036ab746f1c67d6de1a944
+size 706

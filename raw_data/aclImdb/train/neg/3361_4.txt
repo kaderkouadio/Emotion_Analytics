@@ -1,1 +1,3 @@
-This movie was one of the greatest movies ever made,,,, it had everything to make a movie great. Incredible acting, awesome special effects...... oh wait I must be thinking of a good movie. Well this wasn't one of them, it just plain sucked. <br /><br />What I want to know is, what kind of bone head would think that this movie was a 10. When I casted my vote there were 206 out there, god knows what goes on in their head. Now as for any other vote, a 8 or 9 was even too high, but a 10??? Come on, what made this movie sooooo good to give it a 10? I know these are the same 206 that thought that Jean Claude Van Damme is a great dramatic actor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c66dd01d9947bd9b551fb73fa2cd206d3780c86acd0f623f66e7cf89d816ce
+size 647

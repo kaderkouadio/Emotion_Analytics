@@ -1,1 +1,3 @@
-"Big Night" could be called a gourmet movie. It's the story of two Italian brothers, Primo and Secondo, who run a failing restaurant in New Jersey. The food is excellent, but it's too sophisticated for the locals' taste. They might have to close their doors, but first, they plan a huge dinner, expecting Louis Prima and his band. It's a movie with lots of heart. Many scenes are rich in emotion, even when the characters have no dialogue. Tony Shalhoub gives an intense performance as Primo, the chef who always strives for perfection in haute cuisine. The food seems to become a character in itself, particularly the pasta colossus, the timpano. "Big Night" is the kind of movie you wish you could taste!
+version https://git-lfs.github.com/spec/v1
+oid sha256:108bbfdf6098e0f505389f4db87db9f447b2a8a13b4616867439700a6ee9c720
+size 706

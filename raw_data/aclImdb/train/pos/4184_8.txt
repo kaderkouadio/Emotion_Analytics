@@ -1,1 +1,3 @@
-Some war movies succeed where others do not, and that can be judged from a variety of angles. The humanistic angle, one where you can feel the raw emotions (the terror of being under attack, the camaraderie amongst soldiers, the arduous trials people face inside them when in combat, etc..) are always movies I find compelling. Movies like Das Boot and A Midnight Clear are but two examples of movies that you sense a connection to the characters in the film.<br /><br />This film succeeds on that level as well. It speaks of "The Highest Honor" and that honor is doing the right thing. These 23 soldiers did the right thing, they had honor and it is recognized in a way wholly incompatible with Western thought, but it is, to the very end, a true story of honor. Unforgettable movie. Based on the true story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74104570ac4d1d7886b9347b18e667ab88261e5388093bcd5e27c3dc99036ca2
+size 809

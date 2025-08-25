@@ -1,1 +1,3 @@
-A bored woman decides to become a whore to break the monotony. One of her clients falls in love with her and draws her into a web of inner-city political intrigue. This 'story' meandered about like the Colorado River. Boring dialogue, confusing story, no entertainment value. I'd rather watch golf.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed65af9a20f9e7177a4c0c062695eaeef8d35c274758d387dbdec9a42bb69215
+size 298

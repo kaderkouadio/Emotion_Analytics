@@ -1,1 +1,3 @@
-I'll be brief. I didn't want to watch 'The Beach' because of the bad reviews, but when I accidentally came across it while surfing through the channels, I couldn't stop watching.<br /><br />If you're young and have a thing for interesting stories, you'll love this one.<br /><br />10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:37d028f4d1ac25c3b80c4a85923f104d036c0f5c76282720e99e328e0d54b2c7
+size 286

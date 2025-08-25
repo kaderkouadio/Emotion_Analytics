@@ -1,1 +1,3 @@
-This was a great movie and the sequel should know our socks off!!! The action will be nonstop and I just bought the special edition DVD with the animated background story similar to the Animatrix. This will put Vin Diesel back in the spotlight and hopefully get him the coveted role in Spider Man 3 as Venom. He would be the most logical choice for the role. Back to PB this movie even though it is a indie thriller, it has a great story and characters with backgrounds that scream for you to want to learn more. If they were to do books or comics it would be a great read. There was one thing that I felt was a little under done. The ending it needed a little work but not every movie will have the best ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e667ef05d605de0ea5dd01223ae929887c2ec6c4114d84d361a10c54aeab1a7
+size 712

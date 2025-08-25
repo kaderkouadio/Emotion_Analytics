@@ -1,1 +1,3 @@
-I checked out this video expecting to like it. Wanting to like it. I like foreign films, I like beautiful cinematography, I know the critics liked this film (including my favorite, Roger Ebert), and I don't mind "slow" films.<br /><br />Well, it's beautiful. That's about the best I can say for it. The plot is very thin, the shots are very long, the glances are very meaningful, the actors are very sincere, and it seems like a very long movie. I fell asleep half way though it, woke up, rewound the tape, tried again. It was a trial, but I made it to the end. I didn't like it any better for that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71ec73159c21983c6ea067d3b3925080467ce3c6c5d2a278dde7fbde705774c
+size 599

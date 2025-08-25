@@ -1,1 +1,3 @@
-If you like animal movies, this movie will please. My wife likes animals and animal movies, she especially like the parrot in this film. It is geared towards kids, but I laughed at most of the humor. The French fashion character made me laugh, and adds balance to the script. It is a Disney film, with its sappy, happily, family apeal, but I like leaving the theater with a positive fealing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0756521bd85cdb62b5e4c7279f95a8e676a4f20fec92eaace016a02a6319bd29
+size 391

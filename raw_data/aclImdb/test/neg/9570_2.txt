@@ -1,1 +1,3 @@
-What I miss most of all in this film is that it lets no place for imagination, everything is said. It is like a documentary film, but not as good as a documentary, because it is no documentary. A patchwork film without a continuous story. Very superficial, nothing to think about, because the film tells you already what you are supposed to think. Too many different problems are touched but none is worked out in order to make you think. I do not even know if it is a funny film that wants to be serious or a serious film that wants to be funny. Many scenes are very unrealistic, and the acting is quite poor. The film is quite boring.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79fb479490a502b26e1cb254ec390d32426c2f092fb5773db35cb7cc63c93e9a
+size 636

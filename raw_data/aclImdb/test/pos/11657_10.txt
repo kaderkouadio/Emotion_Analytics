@@ -1,1 +1,3 @@
-The greatest effort plus the finest cast ever assembled in a movie by The Director Tim Robbins and Susan Sarandon And Sean Penn on the front row. Someone said that this movie is good because directed and written by Tim Robbins but i convince you that Sean Penn and Susan Sarandon had give me a truly superb performance that i cried my heart out. Their acting is so real! No doubt about it that this movie is rated 4 and 3/4 out of 5!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f12f7ea2a098b4091406fe4460c12dc48ed2922d11848a19ad336b79f56496a6
+size 433

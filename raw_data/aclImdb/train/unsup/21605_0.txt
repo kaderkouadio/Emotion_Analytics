@@ -1,1 +1,3 @@
-As hard as Ernie Hudson, Nia Long, and Terrance Howard tried they couldn't do enough to save this Luke-warm movie. As a matter of fact, if it were not for the afore-mentioned actors I would have given this movie a 2 or 3. The acting in this movie was borderline terrible, the directing was even worse, and whoever wrote the script completely failed. This was the most unintriguing who-dun-it film I've watched in some time. The climactic scenes were anti-climactic, the "twist" was ho-hum if not predictable, and the ending was just criminal. This movie seemed to be something more for start up actors as opposed to the seasoned actors in the movie. It was a nice try, but it just didn't meet the mark.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1600c1d2768716de82ae613052ba10196c3ba0d23288bd761eaf14ccc134c637
+size 702

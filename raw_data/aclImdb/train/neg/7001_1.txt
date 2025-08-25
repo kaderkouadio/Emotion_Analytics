@@ -1,1 +1,3 @@
-<br /><br />I didn't see They Call Me Trinity, but this sequel is really unfunny at all. It has many gags that are supposed to make people laugh. I guess the filmmaker just don't have the talent to do it right. Wonder why it was so popular in the 70s.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d136bbea9d151eff0df6abf437493857917a6c99baef2ac259b88b2edf4a5189
+size 251

@@ -1,1 +1,3 @@
-Sisters in law will be released theatrically on march 24th in Sweden. A good occasion for our Nordic friends to discover this original and thoughtful documentary. It was shown in Göteborg together with a retrospective dedicated to Kim Longinotto, "director in focus" of the festival. She gave a master class, very much appreciated, telling about her method as documentary filmmaker and told the audience about the special circumstances which led her to shoot Sisters in law twice : the first version got lost for good, so a second shooting was organized and the film turned out to be different at the end. A pretty awful problem happened, in this case, to create the possibility of a very strong movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:869ac4cd596b5d8605c5d1b13e4658bcfa84f28faf564a29d5a8d7ce55a037e5
+size 703

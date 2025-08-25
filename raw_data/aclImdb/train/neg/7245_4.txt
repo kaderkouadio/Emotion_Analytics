@@ -1,1 +1,3 @@
-I'm not to keen on The Pallbearer, it's not too bad, but just very slow at the times. As the movie goes on, it gets a little more interesting, but nothing brilliant. I really like David Schwimmer and I think he's good here. I'm not a massive Gwyneth Paltrow fan, but I don't mind her sometimes and she's okay here. The Pallbearer is not a highly recommended movie, but if you like the leads then you might enjoy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f30c6903af4b0caa612ce646ea2ee8f7986f9ea774365871dac8b016e5999a
+size 415

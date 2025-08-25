@@ -1,1 +1,3 @@
-It is refreshing to see a movie about married life, that tells it like it is--this movie actually has a involving story! Furthermore, this movie is funny, interesting, well acted, and erotic. If you liked Laura in Quigley Down Under, and Pretty Woman, you'll love her here. Her sweet, vulnerable, yet strong and assertive personality shines as does her comedic ability. This is a terrific date movie--for married folks. Don't miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ce65b9f5d12d9d2cc170230dfd833b6d70d9c7d9117892f5f43852e3ac067f
+size 434

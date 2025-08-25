@@ -1,1 +1,3 @@
-This movie was so terrible it was almost good... almost. We love musicals, but not this one. Even with the terrible sound quality, poor cinematography, and many actors who can't sing or dance, Anthony Rapp actually managed to give a good performance (especially toward the end). The character Marjorie, a drunk lady, was enjoyable to watch, too. <br /><br />The plot is very unexpected and could have been funny without terrible singing and cheezy piano music. Admittadly, some of the songs (fantabulous) are pretty catchy (but not in a good way).<br /><br />Open House is a funny movie to watch simply because it is awful! We think it might be a good stage musical (with excellent actors).
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ca0a41bf7ee3fe5de618757150d3057d0d85f8f9c4b46ad48213ecb8b628f7
+size 690

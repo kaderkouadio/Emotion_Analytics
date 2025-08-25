@@ -1,1 +1,3 @@
-I thought that it was a cute and funny. A great start for a new director and writer. It builds off of a fun evening with a couple trying to save their relationship with a threesome, but turns into the uncomfortable and funny situations that are created after-wards.<br /><br />Than you add in the group of friends to fan the flames and add a little extra action of their own, and you get this fun film.<br /><br />I think it's a great start and can't wait to see where this new directors career is going to go. I was especially impressed when learning that they were able to create this project with a budget of only around $5,000. It adds to the fact that there is something to be scene from Vince Rocca and Mike Hutchinson in the future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e0de0b1b7a67b9117a530cd5a55822bdc892a3bb1f986fda73de707f3571846
+size 739

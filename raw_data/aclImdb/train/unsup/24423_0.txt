@@ -1,1 +1,3 @@
-I can't believe I actually sat through this movie! OK, the music was great, and Gena Rowlands was excellent... but that's it! It's unfortunate, because the subject matter had so much potential, but this was terrible! Juliette Lewis was... interesting - but some of her lines and their deliveries were like nails screeching on a chalkboard. Uma Thurman could have been excellent, but she wasn't given much to work with in terms of a script.<br /><br />The other thing about this movie is that it at times is too pretentious for its own good symbolism that tries to work with the main plot but comes across as just too much of a bad art house effect (watch for red traffic lights and you'll see what I mean).<br /><br />A laudable effort, but nothing can save this ship from sinking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca1b506b449fe1fecdb10e7a097e841a0a009c6483c69d31b8a8faca024ff567
+size 781

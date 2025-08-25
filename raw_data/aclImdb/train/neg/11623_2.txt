@@ -1,1 +1,3 @@
-From everything I'd read about the movie, I was excited to support a film with a Christian theme. Everything about the movie was very unprofessionally done. Especially the writing! Without good writing a movie doesn't have a chance. The writer/director said in an interview that he didn't want to give away how the title relates to the story. Believe me, it was NO big surprise. I kept waiting for the teenage/young adult back-story to unfold, but it never did. As someone who has gone through a divorce, I was very disappointed. This movie would have been NO comfort to me when I first went through the emotional turmoil that divorce can bring to your life as a Christian!
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f6a2d6be3512489de28591312a9ee7dee926b5df3d02c785b9c31f51cddf4e
+size 673

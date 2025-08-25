@@ -1,1 +1,3 @@
-The Andrew Davies adaptation of the Sarah Waters' novel was excellent. The characters of Nan and and Kitty were superbly portrayed by Rachael Stirling and Kelley Hawes respectively. The whole series was a total joy to watch. It caught the imagination of everyone across the board, whether straight or gay. I wish there could be a sequel!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad244af1eeccf06139c86d687774cd3c382a8ca65a2ae77552f6ca4e4a105036
+size 337

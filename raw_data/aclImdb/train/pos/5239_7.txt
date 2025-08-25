@@ -1,1 +1,3 @@
-This movie shows how savage the troubles really are. People who do not want to be involved have no say in the way their lives are altered. This movie shows how the people of Northern Ireland, both Catholic and Protestant are held captive. At any moment their lives may be changed forever whether they want to be involved or not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc9ea295f3a4399df47b5136d615a99c6ccd1710b0b8734d3ea9b8c60902b764
+size 328

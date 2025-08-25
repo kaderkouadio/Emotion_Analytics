@@ -1,1 +1,3 @@
-Overall I would have to say that I liked the movie. Some of the fight scenes are really good. Especially the fight against Leung Ka-Yan. One point that really bothered me was the fact that they used an Asian to play a black man. I mean really. Talk about bad taste. During a fight scene, you see one of the fighters on the floor is laughing. Otherwise, Sammo copies Bruce Lee's fighting moves perfectly. 5 out of 10 Stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaeac54cf1d66b1fe3d7541bb193200210e6e7b8ff7031a411b5035569d1eba3
+size 422

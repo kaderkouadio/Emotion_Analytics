@@ -1,1 +1,3 @@
-This film is justly famous as one of the most horrible examples of propaganda ever produced. The insistent equation of Jews with disease is simply<br /><br />pathological, and even worse it almost becomes believable for brief seconds<br /><br />through its sheer repetition. The fact that something this crude works, even<br /><br />briefly, is an object lesson in itself. You have to have a strong stomach and a firm grip on yourself to sit through this, and I wouldn't recommend trying unless you have a good reason.
+version https://git-lfs.github.com/spec/v1
+oid sha256:550ee2909a9e906b36838040602c7071d563615ad2162bc1081415241adb8a15
+size 518

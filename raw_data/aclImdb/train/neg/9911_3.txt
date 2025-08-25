@@ -1,1 +1,3 @@
-If you have beloved actors, Peter Falk, Rip Torn, George Segal, and Bill Cobbs, you don't need Billy Burke, Coolio, or any other distractions. Massive talent is totally wasted in "Three Days to Vegas", with the blame falling squarely on the script. My neighbor's vacation films are about as interesting as this misguided road movie. If you want to see how to utilize a veteran cast with a good script, check out "The Crew". There really are no redeeming factors here, and watching these wonderful actors struggling with such weak material is a crime. I wanted to like it, but the shallow script cheats the audience, by essentially giving the actors nothing to work with. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b134e0621cab5152f5403d29a4d166e6c00c6c8bad82d059a87d6b2b7f4fc53
+size 677

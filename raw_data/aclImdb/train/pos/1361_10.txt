@@ -1,1 +1,3 @@
-This movie is brilliant. The comments made before is from someone who obviously doesn't get it. The movie is campy- yes! But it is uplifting and fun. This movie is an underground hit and brings comparisons to Absolutely Fabulous. It is a must see!
+version https://git-lfs.github.com/spec/v1
+oid sha256:939fe0b784d3ea915155969ac6ed5bc9d4eb8a2b71fda7ada33fd6cafafe964a
+size 247

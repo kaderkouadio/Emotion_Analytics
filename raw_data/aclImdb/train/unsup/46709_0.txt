@@ -1,1 +1,3 @@
-This movie was quite a deception for me.<br /><br />The dialogues on TV and theater were so much better. It's a hour and a half abusing on jokes about the language (mis-spelling Portuguese) together with a story that is "by all means" absurd and that's all. I know the situations around "Toni" and "Zézé" must be funny and unusual, but the script could have make more sense. But this is a reflex of our problem, here in Portugal: script writers (specially in comedy).<br /><br />The fantastics Marco Horácio and Maria Rueff were misemployed, reduced to characters with no contents.<br /><br />The level of humour should have been raised. Didn't happened and these two (good) characters deserve better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8aae216d06080e2bc1b9ef67959726198c68f5300484f850619af1fe4107d94
+size 704

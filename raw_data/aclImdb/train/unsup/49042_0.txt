@@ -1,1 +1,3 @@
-Spy hard has its moments, especially the Weird Al song in the beginning and the parody of Home Alone. But still the movie is quite unfunny. Leslie Nielsen is again type-casted in this movie and it is too much like the Naked Gun movies. I would give this ** stars out of ***** (4 out of 10).
+version https://git-lfs.github.com/spec/v1
+oid sha256:580414bb53f7496bfcd004977982c3e67c56f91726687c1c48416f33e690818a
+size 290

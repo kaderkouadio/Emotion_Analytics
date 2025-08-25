@@ -1,1 +1,3 @@
-Miami Vice was a brilliant TV Series with great acting from Don Johnson and Phillip Michael Thomas. Great story lines and amazing scenery, like Crockett's Ferrari Daytona. From Drug Lord's to Porn King. Crockett and Tubbs will get there criminals. Whether by boat, car or any other way you could think of. Sometimes it gets personal but their still professional. With Boat races, car chases, beach babes, shootouts and the best views Miami has to offer.<br /><br />Miami Vice Also shows the fragility of life. With life, death, love, honour and friendships tested in the mind boggling adventures of Sonny Crockett and Raphael Tubbs
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90f2f04592d71d71e7d65261409729af5ed80ea82b049ce16cefb396d7b268c
+size 631

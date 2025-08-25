@@ -1,1 +1,3 @@
-Hilarious from start to finish, there's got to be great courage to handle the theme of death with a smile, specially when two funeral parlors are battling for control of the market: a classic parlor and a revolutionary one where every funeral is a show, lead by Christopher Walken, a treat in the role of the visionary american mortitian. But the rest of the cast is great also, and this one is another success that only UK is capable of making. Surprising among the ensemble cast is Naomi Watts, that strikes in another metamorphosis (accent included). Always sporting a smile on its face, it seems like a paradox that there could be so much comedy to be taken from a movie that could be called "Four Funerals and One Wedding", but you'll understand when you see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0534dee656a833bd3768101656c91c5cda96a146520ca34238af63e442253cd
+size 767

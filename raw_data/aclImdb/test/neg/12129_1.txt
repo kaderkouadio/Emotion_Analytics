@@ -1,1 +1,3 @@
-John Waters owes me 2 hours of my life back. I saw a sneak-preview screening of this way back in 1990, and I'm still in pain. Not before or since have I seen such a terrible piece of filmic waste spewed upon the screen. There is nothing positive I can say about this film. Acting--awful; plot--ridiculous; music--atrocious. Following the movie, my friends and I demanded our money back from the manager of the theater. He explained that, since it was a free screening, he couldn't give us anything in return, no matter how much agony we were suffering through. How Johnny Depp's career survived this trainwreck of a movie is anyone's guess.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c9002c5c7c6f80e26ecb11ed279bd1249cc54abd091994646bc242c4bea2c8
+size 640

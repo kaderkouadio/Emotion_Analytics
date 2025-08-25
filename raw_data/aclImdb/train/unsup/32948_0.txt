@@ -1,1 +1,3 @@
-The technology is impressive, but not yet to the level necessary to express the emotions a good actor can. Simplistic plot with little character development make this a movie best watched on an afternoon one would like to waste in a little escapism.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ac94ce1c28e236e5f061aae7f52ec4af09d180dca2f15f209c6f69aa6689b55
+size 249

@@ -1,1 +1,3 @@
-Why can't more films be like this? Mr. Mendelsohn has created a gem. Without any flash, this film takes you down an uncomfortable path and at the end makes you want to get back on it. Wonderful score as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec92040a24c4640094215f81c3c3255588ade9f40d0d830888ec4fc5249381c4
+size 208

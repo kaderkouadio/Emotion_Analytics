@@ -1,1 +1,3 @@
-This movie will confuse you to death. Furthermore, if your a Denise Richards' fan, don't even think of renting this movie. Besides getting top billing by being on the cover and about 10 minutes of air time if that, she has nothing to do with the movie or the many messed up plots.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5caf151429aedd54f4863fead9ba159f7f8d11f67789d6fe3365cf9fb9e542b5
+size 280

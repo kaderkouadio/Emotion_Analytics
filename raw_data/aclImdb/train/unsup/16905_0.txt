@@ -1,1 +1,3 @@
-This is an excellent mystery thriller. It's probably the best remake of a Hitchcock film to date. The many plot twists, turns and surprises kept me riveted to the screen. Michael Douglas is excellent as always, Gwyneth Paltrow vulnerable and gorgeous as the wife and newcomer Viggo Mortensen is suitably oily and cunning as the third member of the triangle. Its not Hitchcock but I'm sure that he wouldn't object to this film. Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ffcb11bf6e465e86ad9f19250680995d7d26048226445f7d75d6c5cc86e2c8b
+size 446

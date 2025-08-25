@@ -1,1 +1,3 @@
-I went into this film thinking I would see a "nice" film that "deserved to be seen" (which is too often code for a boring movie). I laughed my ass off, as did the whole audience. This is the most entertaining movie I've seen in months -- time and again the filmmakers found a way to surprise me. A tight story. Terrific performances from the stars all the way down to the tiniest roles. Perfect pacing. Graceful, muscular directing. This is not a "good little movie" -- it's a good movie, period and it's a crime it's not getting wider distribution just because the male lead isn't played by the flavor of the month. A smart, funny film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a3a235db75adc9d7d7e532bcd77a6af6d3c324ae40b4a715d184a3549ebe10
+size 637

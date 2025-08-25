@@ -1,1 +1,3 @@
-Absolutely the worst movie I have ever seen. I rented it for my family because the guy at the video store recommended it. He said it was such a good film. I don't know what he was thinking. Normally, when a movie is bad, we turn it off, but this one we watched just so we could tell everyone how bad it was. I recommend that you waste your time to watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:112111c46f41a5f65a5ceaec806e770d8e681a034432575bfb6518aead6ede4f
+size 357

@@ -1,1 +1,3 @@
-I watched part of the first part of this movie, and tiny little bits of other parts. Maybe I'm mistaken, but I don't think this movie is really worth watching. The odd characters and happenings does catch your attention and is rather interesting, but there are bad things in it as well, and some gross things. The magic and mythical side of it turned me off, and for most Christians this movie would not be very suitable or worthwhile to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb87a517f545e304b1b18dc6b948dae449ae3d918e1bebeed5ca68a03b576bb3
+size 444

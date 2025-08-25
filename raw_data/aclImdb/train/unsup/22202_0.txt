@@ -1,1 +1,3 @@
-Hey, this game is great! Nice graphics, great sound, good puzzles, etc. The only thing that I did not like that much was, that you sometimes have to move through up to 3 screens without any contents. Well, there are nice graphics but nothing that would do anything. They don't even contain red herrings : But this game was still lot's of fun!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea5ceccb550af4acdf66aeea17438c3656c5f39a4d8d0d77bdfa20f14574b0d7
+size 342

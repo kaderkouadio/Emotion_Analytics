@@ -1,1 +1,3 @@
-i found this movie incredibly entertaining! this is probably the best Adam Sandler film i've ever watched. but huge fans of Sandler would probably be disappointed because there is no gross or wild comedy in here. clean fun!<br /><br />and 10 brownie points for the music. eighties music never looked so good! this is a very good movie with sweet comedic scenes. and yes, Adam Sandler singing his lungs out. i absolutely recommend watching it for a good time!
+version https://git-lfs.github.com/spec/v1
+oid sha256:633cffea47d55938d4061a01ea9e5af2f9ad2f56e072976c58e5728328e80b6b
+size 458

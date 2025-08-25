@@ -1,1 +1,3 @@
-Ah, a Kelly/Sinatra sailor-suit musical. So familiar, right? Yes, but this isn't the one you usually hear about. On The Town's that-a-way. But if you stick around, you might learn something. Okay, probably not. Anyway, Anchors Aweigh tells the story of two sailors on a three- or four-day leave. Joe is the "Sea Wolf" and Clarence, the bookish type, begs Joe to get him a "dame". Now, after they're picked up by the coppers they get little Donald home. That's where they meet Susie, that temptress, that jezebel. Just kidding! Clarence falls in love with her. At least he thinks he does. Is he right? Or is he a moron? Or is he just misguided by society? Find out all this and more when you watch {trumpet fanfare} ANCHORS AWEIGH!<br /><br />P.S. If you want to see Kathryn Grayson be anything but sickeningly sweet, try Kiss Me Kate (1953).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b038b5e5a5bfac9bb08d46cb744737990151c4e751377c417f939b24c9e5302b
+size 841

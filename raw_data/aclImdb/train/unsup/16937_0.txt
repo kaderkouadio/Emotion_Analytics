@@ -1,1 +1,3 @@
-A real must see. This documentary lays down facts, figures, and themes regarding the state of the planet in a very accessible way. As a previous reviewer said, it is more "intense" than an Inconvenient Truth, but I hardly think any of the concepts presented are hard to take in - in fact, due to the number of interviews, the film manages to take the viewer through a range of issues regarding the state of the planet, without ever losing focus of its basic message - that we must do something NOW. A well put together soundtrack enhances the narrative. Well worth the watch. But god, we've really stuffed this planet up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:115015fdfc53209821a464c59902418b52e03bed4c351b20588bb1b675d5a5bd
+size 621

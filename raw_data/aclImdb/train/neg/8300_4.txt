@@ -1,1 +1,3 @@
-This is an in-name-only sequel to "A Christmas Story," originally entitled "A Summer Story." Ralphie narrates his family adventures during the summer when they moved to a small hick-town in the middle of nowhere. Hilarity, unfortunately, does not ensue.<br /><br />The original worked because of its irreverent nature and honesty - everyone could relate to it. This one is simply stupid and not very funny at all. Charles Grodin's last movie - no wonder! It's one of his poorest roles. I felt sorry for him.<br /><br />Mary Steenburgen is given little to do, everything's formulaic, and you have to wonder why they even bothered.<br /><br />And I mean, come on - a competition with spinning tops?! Sadly, it's the best part of the movie...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f231637c8ccad9932219b2a8b7da638111816ca8ae64b8c137cec65f360ee4a8
+size 739

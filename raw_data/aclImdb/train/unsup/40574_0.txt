@@ -1,1 +1,3 @@
-Lil Bow Wow does a good acting job, but Crispin Glover steals the show. Crispin Glover plays himself to perfection. He doesn't talk very much, only when it serves his own purposes. Morris Chestnut is also very good as he is one of my favorite actors. Jonathan Lipnicki's character is annoying and should be kidnapped instead of adopted. I'm glad they didn't have Bow Wow dunking too much, because it does look fake. A good family film. 4/10 Fair
+version https://git-lfs.github.com/spec/v1
+oid sha256:efe56d0c8f8a96bbfa49c5a304673628c7cf86ce82eba7b4c3aea349f6f01192
+size 445

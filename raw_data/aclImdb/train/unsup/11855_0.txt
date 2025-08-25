@@ -1,1 +1,3 @@
-How in the name of anything holy can "Why Study Industrial Arts?" claim to be an educational film?! If this is education, then I'd rather be an idiot! Actually, this movie could have only been created by an idiot. The only reason that it's even worth talking about is because "MST3K" once showed this drudgery. As you might imagine, Mike, Servo and Crow had plenty of funny comments.<br /><br />If I ever make an educational film, it will be a promotion of vegetarianism. Here's the plot: in 1950s suburban America, mom and dad are trying to feed little Jimmy meat. Jimmy breaks out into a song (to the tune of "U Can't Touch This") about why he chooses to be a vegetarian. Yeah, that's my kind of educational film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64ba6675a45595f34ddddca805d65882348dfda861dd6f1d4a1bd5a947fb16f
+size 715

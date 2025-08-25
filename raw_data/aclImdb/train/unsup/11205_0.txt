@@ -1,1 +1,3 @@
-Good movie, good acting and a very accurate subject so close to American coasts... (St Pierre is a French island off the coast of Newfoundland).<br /><br />This is one of the best anti death penalty films I have seen. A mix of the cowardice of civilian authorities and the pettiness of outposts officials who stick to "principals" and decisions just because they do not want to loose face... killing becomes a way to wash the humiliations of their crummy existence and low wits.<br /><br />A interesting movie to be shown to all the governors of all the Republics where death penalty is still in use...<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:99dedcfd0a8248833361f8f198bb0dc91bab189985bfe0e5ac670e47a895e5cc
+size 614

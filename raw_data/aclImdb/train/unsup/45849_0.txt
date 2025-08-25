@@ -1,1 +1,3 @@
-I was staying over-seas with nothing to do. As i searched through the rented room, all i found was Missing in Action. After popping it in I couldn't stop watching. I have never laughed harder at a movie since watching this. This movie was utterly ridiculous. The first scene alone made me fall out of my chair. This is the cheesiest and fakest movie EVER! I'm not saying it's even decent as a movie, at all, but it sure is funny to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7534f81e4065586e9505f967766f6cd037a995e6e2c1092076753ce5d347188
+size 438

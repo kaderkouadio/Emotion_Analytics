@@ -1,1 +1,3 @@
-You thought after "Traumschiff Surprise" that German comedy can't get worse? It can. This comedy is yet another attempt at perpetuating stereotypes of gay men masked as a nice comedy. The initial concept (openly gay men in soccer sports) would have been a great opportunity to erase some stereotypes, but... The real intended message of the movie seems to be in what way gay men are oh-so-different from straight men. Absolutely silly, of course. Even gay sex is treated as being of less value than straight sex. This movie only tries to serve straight audiences wanting to laugh about stereotypical gay men. Well, don't waste your time on German comedy movies!
+version https://git-lfs.github.com/spec/v1
+oid sha256:27e3cf696c2fbaabfc8dbd97a83a7da79eab1a79657238cdc261000573e9d949
+size 661

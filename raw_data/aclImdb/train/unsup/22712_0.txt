@@ -1,1 +1,3 @@
-This guy is pretty darn funny. He makes a great dog, for instance. And a great John Wayne. And if you've seen Eddie Murphy's Delirious, you have to watch this. This is where Eddie stole must of his jokes, and most of his style, only one slight difference: Richard Pryor came first, and it's still better than anything Eddie has ever done. Go see this one. IT'S A HOOT!
+version https://git-lfs.github.com/spec/v1
+oid sha256:277484768074c5f8ec08c62a9ec0b23a6106fcee0a50af083589bb5ebfcd46a3
+size 368

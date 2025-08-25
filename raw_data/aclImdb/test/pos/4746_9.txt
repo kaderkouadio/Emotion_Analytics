@@ -1,1 +1,3 @@
-Roy Scheider is not Steve McQueen or Clint Eastwood but then who is? The Seven-Ups is one of the better cop movies, even today, and is second only to McQueen's Bullitt and the Dirty Harry series, which isn't bad company. There are three things that seem to make a good cop movie: Believable script with great acting, great car chase scenes, and some heavy action. This movie has all three and the car chase scene is better than that in Dirty Harry. Scheider plays the head of a group of cops out to get NY's bad guys sentenced to seven years or more; hence the name Seven-Ups. Overall, not quite up to Dirty Harry or Bullitt but far better than all of the cop movies made since the Dirty Harry series. 9/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f223073867b62689da6325e9277a1168494af68dcae66559e26d716bbec7e47
+size 707

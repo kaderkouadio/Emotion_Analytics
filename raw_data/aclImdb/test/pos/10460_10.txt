@@ -1,1 +1,3 @@
-There is no need for me to repeat the synopsis rendered by Glenn. The black and white rendition is even more powerful in portraying the bleakness of country village life at that time. The deep measure of friendship shown by Babette toward the two elderly sisters touches the heart strings. The supporting cast is excellent and their performances superb, it would not be fair to single out any one character since the entire story depends on the cast as a whole. I cannot put my finger exactly on why I rate this movie so highly since I am not a professional critic; individual viewers may or may not agree with my rating since enjoyment of this type of movie is always in the eye of the beholder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a867b882e14b73ff9eb08ea6a82a48e73bfb936a9a4a7fae5b3cefe0ac9891e
+size 696

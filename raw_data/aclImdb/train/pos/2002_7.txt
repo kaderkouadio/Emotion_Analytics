@@ -1,1 +1,3 @@
-To a certain extent, I actually liked this film better than the original VAMPIRES. I found that movie to be quite misogynistic. As a woman and a horror fan, I'm used to the fact that women in peril are a staple of the genre. But they just slap Sheryl Lee around way too much. In this movie, Natasha Wagner is a more fully-realized character, and the main bad guy is a gal! Arly Jover (who played a sidekick vamp in BLADE) is very otherworldly and deadly. Jon Bon Jovi... okay, yeah, no great actor, but he does OK. At least he doesn't start to sing. Catch it on cable if you can. It's on Encore Action this month.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4d1c779cdfa69a1cbeeeb1c6660e0b3c852ea4778c19085805ddfdd4333ca1
+size 613

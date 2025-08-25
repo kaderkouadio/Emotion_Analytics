@@ -1,1 +1,3 @@
-The opening credits are pure poetry and I have watched it several times. It had a corny 20's adventure feel to it. Of course Kathy is gorgeous, but that voice! Did she realize this was a talkie. One word--voice coach. Great film for chronic insomnia (along with a bottle of scotch).
+version https://git-lfs.github.com/spec/v1
+oid sha256:49be9f6082c94bca58ee38ec79fa4c33952f72dc0db1607f9bae3138f9f1606f
+size 282

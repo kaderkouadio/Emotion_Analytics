@@ -1,1 +1,3 @@
-Robert Flaherty had a great eye for the interesting shots. Never more so than this oil company funded film about a young boy seeing the oil rig come to his Louisiana bayou. Although there is not much of a story the shots of the oil rig, life in the bayou, and the moods that Flaherty captures make it a film well worth seeing. If you see "Man of Aran" or "Nannok of the North" remember it was the same great documentary filmmaker. I've seen it twice and probably will see it again someday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4972912c5302726c4f67a193e87a5371c1ecacc07b463eb3dad730b686b8f156
+size 489

@@ -1,1 +1,3 @@
-Another FRIDAY THE 13TH ripoff, even featuring some of its music! A group of young adults get together for a small high school reunion and start getting slaughtered a la Jason Voorhees. Could it be that nerd they used to torment in school?<br /><br />Routine slash-fest is fun for fans of the genre, and contains the usual T&A quota for films if its ilk. The ending is a bit more imaginative than your standard slasher.<br /><br />MPAA: Rated for violence/gore, language, sexuality, nudity, and some drug content.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9b02d52bbf4aa6bce2b5a226821ed04f16c518caa5ef137dfe1070c867baa5a
+size 513

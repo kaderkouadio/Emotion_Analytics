@@ -1,1 +1,3 @@
-It's a disastrous movie and wouldn't dream of watching it - in fact, as a karate enthusiast I'm insulted that they used Karate magazine comments in the trailer (I can only hope they were totally out of context!) - but I just want to clarify that the film was filmed in IRELAND, not the UK. In my hometown. *proud*<br /><br />If you're going to watch this at all, just fast forward through all the bits with people in them and just admire the scenery (interiors don't count because they're not real). Ross Abbey is one of the best preserved 14th century Friarys in the country and it's beautiful, as is most of the countryside you see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00a944c6f95533772c5d01d6f33707b3482a33316fcf5a5d2268187698a0cb3
+size 634

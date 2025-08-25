@@ -1,1 +1,3 @@
-For some reason television has been pretty damn good recently, with CSI, The Shield, Sopranos, etc raising the bar. Yet Deadwood goes beyond all of these. The acting is amazing, the sets are realistic...but most importantly the writing is brilliant. The dialogue is unlike any on television, and because of this the show seems more realistic and engaging than any Western movie or series ever before. Ian MacShane's Swearengen is beyond brilliance...for sheer violence he is more vicious than Tony Soprano or Vic Mackey, yet Swearengen has an intelligence and foresight they both lack. The show is violent, profane...and so is life. Come on HBO, bring Deadwood back...or at least hasten the taping of the new specials.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb7dfbf4b76be2649e7476c124a26ed8a0d3fce3b1d75e8620b2d37003aa2c6
+size 718

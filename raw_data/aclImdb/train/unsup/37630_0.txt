@@ -1,1 +1,3 @@
-I got the Hook up is not what I would even call a movie, as it is really just merchandise for Master P to get his hands on money. This film has a weak plot if one at all, no one can act what so ever, and the script is not the best. If you like Master P, you might enjoy this movie. Personally I believe Master P has again failed at an another field of entertainment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc16c7c046479470f9f2976fe7a20ca9dc626f6e41a58a399933815f23242f2
+size 366

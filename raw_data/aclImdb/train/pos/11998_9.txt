@@ -1,1 +1,3 @@
-This movie was beautiful. It was full of memorable imagery, good acting, and touching subject matter. It would be very easy to write it off as being too sentimental, but that is the sentiments this type of a movie is trying to achieve. I was totally involved in the story's unfolding and presentation. There were a few cheesy shots, but such is to be expected in a religious propaganda film. The only complaint I can conjure is there wasn't a ton of details. However, this movie wasn't created to explain every element of Joseph Smith's life, ministry, triumphs, controversies, failures etc.; it was designed for a quick glimpse at a few highlights of one of the most amazing American and historical religious figures of all time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c8f2f65fe6999d9fbee7bbbcd316944b1704c690d2761815ed29f66f392c953
+size 730

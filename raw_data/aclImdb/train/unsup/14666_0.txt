@@ -1,1 +1,3 @@
-Hey, this was a good movie for some quick acion thrills. Why people rated it so low is beyond me. I thought it was good. It had aliens and sharks and an under water lab. I liked how the people in the lab went crazy and started fighting with each other on top of the problems with the sharks and submarine. It was funny to see them swearing at each other and how the chain of command was quite rusty, ha ha ha ha. Maybe people wanted more nudity from the girls and that would of been cool, because sex never goes out of style. But this movie was an OK ride, kinda like a resident evil game. I had fun and thats all that mattered! I recommend!<br /><br />Rob the movie man out!!! :-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc701a5ca6e9a96f966fc4753f3fb7b10759db5e412e3c92c09fc03d42748117
+size 681

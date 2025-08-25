@@ -1,1 +1,3 @@
-As a big Candice Bergen fan i was looking forward to see this movie. And i wasn´t disappointed, this was a very interesting movie. It´s the kind of movie that you don´t know how it´s gonna end until the last minute, and you don´t trust anyone. Candice Bergen´s performance was amazing and so was Bug Hall´s and Bryan Brown´s. I hope this movie comes out on VHS or DVD but in the mean time I recommend anyone who likes suspense to catch this one on tv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc72662fa921279c389ed7392ed5f30f07c67ca2bb96e436ea8969be778ff156
+size 459

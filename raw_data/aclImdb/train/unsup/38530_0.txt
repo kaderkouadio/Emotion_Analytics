@@ -1,1 +1,3 @@
-This has to be one of the most badly acted and boring horror films around. The atmosphere is dull and boring and the acting aside from Geoffrey's is abysmal. It has a story, but it seems to be more fitted to a short film then a feature length movie. It is fairly slow moving, which wouldn't be a bad thing, if it didn't take the most obvious plot line imaginable. I was hoping the film would have a sense of humour, with one or two classic oneliners, but no...it's just plain bad. The special effects are cheap and nasty, just like the film...Avoid at all costs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9845e9b5b1bd99eaf74b2901d5b8ed1a2decee5ffda1fd1fc68b38693483a745
+size 562

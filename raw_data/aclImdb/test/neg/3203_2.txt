@@ -1,1 +1,3 @@
-trying hard to fit into the scary space comedy genre, this film falls down in two of these. It does indeed take place in space - but it is neither funny or scary. The plot is dismal and the one joke, concerning the computer's intellect, is overplayed to death. Saying that Paul Whitthorne as Ethan, Angela Bassett as Fran and Brad Dourif as Al Bert make the best of their ham script. The homo-esque relationship between Ethan and Al Bert is hinted at but never explored whilst the attempt at sexual tension betwen fran and rick is so crude as to be laughable. All in all this is a turkey that is best suited to late night tv, preferably whilst do the ironing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:994a340f563a05b65c5c7cb3611a718562972a83b2767085c2ec444b468e76c8
+size 659

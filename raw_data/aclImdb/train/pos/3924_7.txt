@@ -1,1 +1,3 @@
-This 1939 film from director John Ford and writer Lamar Trotti tells a fictional tale of young lawyer Abraham Lincoln, his trials (literally) and his tribulations. It's a sentimental film, reasonably well made but hardly breathtaking. The casting of Henry Fonda as Lincoln seems a mistake, for while the actor had the right doleful qualities for the part, even with several inches of makeup and a false nose he's way too handsome for Honest Abe, who was famously homely. It's a good try from Fonda, who's nothing if not sincere, but his miscasting throws the entire film off. The supporting cast is excellent, though, and includes Alice Brady, Ward Bond and Donald Meek. But Ford is too reverential in his treatment of Lincoln, who is presented as just shy of a saint, and in the final scene the movie goes way over the top.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd71d4df80d29c763857f7b0388641bbb18a30a425736b63701958052db2f07f
+size 824

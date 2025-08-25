@@ -1,1 +1,3 @@
-Joan Fontaine is swept off her feet by the suave Cary Grant. After their marriage, she realizes that her husband is very irresponsible and owes a major gambling debt. It appears that Grant tries to scheme his best friend, Nigel Bruce, out of part of his life savings. Bruce ends up murdered and Fontaine suspects that her husband will try to kill her for the insurance money. This drama drags on to an abrupt and flat finale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cd28bb71c7ce94bb8b2a363b389fc0a3e51151b8894362c85c085e1fefc7290
+size 425

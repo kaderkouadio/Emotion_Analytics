@@ -1,1 +1,3 @@
-From its suspenseful opening heist scene to its realistic ending,Sidney Poitier's third and final outing as Vigil Tibbs is everything a cop movie should be.Well cast with some great chase scenes.Director Don Medford keeps the fun rolling along at a nice pace.All in all,a great film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42d4ccce4da39bc6c324dc779be9248dd25839049dce38f98022e8eb0dfb414e
+size 283

@@ -1,1 +1,3 @@
-It wasn't even GOOD male bashing. There are no words for it. I'd much rather watch LOGAN'S RUN for the 50th time, or PIGS! Maybe kick back, drink some kerosene and have a little smoke. Sandra Bernhard is so harsh, she's long since left off being funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc1de056a9166cfa0923bdd7466d2ebd159f01e5059357d1780aa4529b9386b1
+size 252

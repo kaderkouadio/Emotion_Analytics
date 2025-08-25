@@ -1,1 +1,3 @@
-Another entry in the "holiday horror" category that fills the shelves of your local video store. The *spoiler* "wronged nerdy teen taking revenge on the 'cool' kids who wronged him" plot will of course be familiar to those who've watched it before. And those who've seen it before will probably watch it again; those who are expecting Ingmar Bergman and will subsequently become indignant about their wasted time should just skip it. Marilyn Manson on the soundtrack and David Boreanaz, Denise Richards and Katherine Heigl as eye candy--go with the flow and enjoy it. Oh, and I loved the creepy mask.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8098ba3640635d88ef3fbf6e70f6fcf932a59c553189a8038c5cba39e4a74349
+size 600

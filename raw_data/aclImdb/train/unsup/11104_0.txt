@@ -1,1 +1,3 @@
-I only watched this movie because of Adrien Brody and Moira Tierney of ER fame. Adrien Brody literally stole this movie with his chilling and riveting portrayal of a kidnapper. I never expected this caliber of acting in what I consider a B-grade movie. I can now look forward to seeing him in THE PIANIST...he is awesome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef10a406746776344242658fced76af2a2beb1083f46503cb08eb8445470cb2
+size 321

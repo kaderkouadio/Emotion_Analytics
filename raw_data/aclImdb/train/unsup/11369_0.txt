@@ -1,1 +1,3 @@
-All I can say is that this movie and its sequel "They still call me Bruce" are an integral part of any B grade movie night.<br /><br />Johnny Yune and the rest of the cast pull off classic gags at all too regular intervals.<br /><br />I guarantee that you will be laughing for months.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb7566fbb47090acbf017300e3d2bac13e3f69c7b10e2affb1feed22dfa13b7
+size 284

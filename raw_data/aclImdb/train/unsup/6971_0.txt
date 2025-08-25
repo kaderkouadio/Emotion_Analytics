@@ -1,1 +1,3 @@
-Well, I thought this was quite good. As a rule, TV mini-series can be pretty hit-and-miss, but I was pleasantly surprised by this one.<br /><br />A good pre-Friends performance from Courteney Cox, who proves that she can act and a brilliant cast on the whole. Isn't Barry Bostwick just dreamy??<br /><br />Anyway, if you want to see one book adaptation, then see this one! Go on! See it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b0b7dffd5be27639a33afd0e9351aabb87cca92d98507bac5314d094eb7f87
+size 387

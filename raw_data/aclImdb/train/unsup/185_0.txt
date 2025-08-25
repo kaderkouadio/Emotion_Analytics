@@ -1,1 +1,3 @@
-Since the first time I saw this wonderful film on late-night TV, maybe 30 years ago, it has been my sentimental favorite. Every time I've seen it since, once a year on average, it's made me weep; not many films ever have this effect on me, even once. I simply don't understand why it isn't better known, not to mention better regarded. The touching story, fine direction, good score and superb acting add up to a great experience. For me, the performances by Claudette Colbert and Orson Welles are their most effective; hers ranks with her work in "Three Came Home" and "Since You Went Away," while his is even finer than in "The Stranger." Anyone who loves a good old-fashioned love story, sob story, multi-generational saga of the type Hollywood used to make so well should give this one a try.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99635237ec24f389669b944473faeec1a330e4b6fe68d109cd244672eb34466f
+size 796

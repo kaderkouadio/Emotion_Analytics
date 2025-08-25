@@ -1,1 +1,3 @@
-The monster from Enemy Mine somehow made his way into a small mountain community, where he has taken up residence. He's being hunted by a female doctor-turned-vigilante who is out to exterminate him. This female assassin, who looks like a refugee from a Motley Crue video, rides around on a motorcycle and tries to save a bunch of kids who have chosen to have a Big Chill weekend right smack dab in the middle of the monster's turf. Decapitations and lots of blood are primarily in place to draw attention away from the story which limps along like a bad version of the Island of Dr. Moreau (and yes, it's worse than the one with Val Kilmer).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1df23b46d5c00c1f6d631a240cdd2d7435138e41978cdea30c556dfda0225fc
+size 642

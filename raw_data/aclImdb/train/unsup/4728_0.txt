@@ -1,1 +1,3 @@
-I enjoyed this "How to..."romantic/comedy, the chemistry between Kate and Matthew was electric. They both have good comedic timing. The challenges between this couple made for funny entertainment that help carry you away from life's hardships. A must see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e23b883fbe6883929db34b5080f2bd8ef70ca1bb2f33257a6df88f6d17906e
+size 255

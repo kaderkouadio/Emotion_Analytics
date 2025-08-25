@@ -1,1 +1,3 @@
-This was a story of love, lust, imperfection and redemption.<br /><br />It was very funny at times, a tear-jerker at other times. Well acted. Reminded me a bit of the 1998 film "Woo" though this film was a LOT better. The story remains unpredictable throughout the movie.<br /><br />Definitely a fun date movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc60ecc95fcdac38f8f1767de9a5b58c31a8a79c7f48d5000f1d589a95f62179
+size 311

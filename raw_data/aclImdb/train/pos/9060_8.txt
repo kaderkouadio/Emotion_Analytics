@@ -1,1 +1,3 @@
-Saw this today with my 8 year old. I thought it was cute. I agree with the other poster that it wasn't anything like the book that I can remember, but we still enjoyed it. All of the kids are pretty good and all in all pretty entertaining. Billy is the new kid who accepts a dare by the school bully to eat 10 worms in a day. If he loses he has to walk down the hall at school with worms in his pants. The beginning of the movie is set up to show that Billy has a VERY weak stomach and pukes at almost anything. Hilarity ensues with a bunch of different way to cook the worms. Good message about standing up to bullies and of course, a sappy happy ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2c8aa076ee8b30d44e6b2503eb794d28b02b50b9c2638a9a92cf58e720bd9fb
+size 655

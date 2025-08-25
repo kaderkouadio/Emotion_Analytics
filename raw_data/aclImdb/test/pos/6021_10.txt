@@ -1,1 +1,3 @@
-Too often screen adaptations of musicals compromise, but this is one of those rare occasions when every ingredient, perfect in itself, comes together and harmonizes perfectly. Midler was born to play this role, and her performance will most likely be remembered as definitive. She is supported by an ideal cast, and the direction and design are tops. It doesn't get any better than this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83da5b2ef5ed447acb82592f0e33aba280d49ab414363dd1c1e8cba11db841f9
+size 387

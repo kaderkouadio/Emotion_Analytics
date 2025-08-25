@@ -1,1 +1,3 @@
-So lame it isn't even funny. A zombie infection overtakes a small college campus and a government squad of secret operatives back up a couple of scientists sent to find the origin of the outbreak. Collecting zombie DNA damn sure is not easy. Once bitten you're one of "them". The entire university has been completely infected by the run amok undead.<br /><br />This sequel does not even redeem the awful original HOUSE OF THE DEAD(2003). Senseless entertainment is accomplished though. A few glimpses of female nakedness added to a gaggle of gore and exploding heads should keep any zombie freak happy. Credited cast members: Emmanuelle Vaugier, Victoria Pratt, Ed Quinn, Sid Haig and Nadine Velazquez. The "F" word holds together an unimaginative script.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa41dcf201013e3783e01ba8d9b37e641e4fd850de11982bb7a2c9ffb2611ffb
+size 756

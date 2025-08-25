@@ -1,1 +1,3 @@
-This movie has a look and feel of many "Fresh" directors (closeups and focus on the emotions being experienced by the actors). The point of the film was presented from many angles and expressed well by the relatively inexperienced cast. The point being "Have faith in Jesus Christ and the Morman Church" Oh, and if you read or hear anything contrary to the teachings of the Prophet, it is just Haterade. (Fuel for Hatred)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9883b3e4b1d3ff957636a27bedea567d4cfd6a1d119ca37754c28abd76988d34
+size 421

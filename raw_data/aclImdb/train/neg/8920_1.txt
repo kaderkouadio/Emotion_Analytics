@@ -1,1 +1,3 @@
-...but this has to be the worst A Christmas Carol adaptation of all time. And that takes some doing, what with the likes of various Lifetime efforts. Don't get me wrong--I have nothing against Cicely Tyson. I've enjoyed her tremendously in other roles (look at Sipsey in Fried Green Tomatoes, for example). But the script gives her no option but to chew the scenery. And chew it she does, with all the enthusiasm of Tiny Tim tying into a Christmas goose.<br /><br />Give me the classics anytime: Alastair Sim, 1951. With the exception maybe of Scrooged, all the others are just over-the-top efforts to grasp the past, present, or future Spirit of Christmas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:662ae6ba59427a46718802a6cac3a9bd5edfaf122b75118e953f25954e9370c3
+size 657

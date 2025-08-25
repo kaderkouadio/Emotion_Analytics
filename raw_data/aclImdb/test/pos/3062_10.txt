@@ -1,1 +1,3 @@
-I cant believe there are people out there that did not like this movie! I thought it was the funniest movie i had ever seen. It my have been b/c i am Mel Brooks biggest fan... I know almost all the words and get very discouraged when they censor them, when it is played on a Family Channel. :) this is one of my favorite movies, so i dont know why any one would disagree! thanks Kristina
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ea036d2725c3ea0753096fd818b7191da64bc03b0c22c2a406ad11727ca4dec
+size 387

@@ -1,1 +1,3 @@
-I didn't want to watch it, but my husband insisted. I hate "The Sopranos" and all violent films/television. Why did I like this then, you ask? Because this was an exceptional production, and I hope they will do a series. The acting was incredible, big-screen quality. The child who played Cadenas' son was the best child actor I've seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:028568f738a0d6a25446aecd73fe98377d2761c60a5063ae84f27aa257e6b4c2
+size 337

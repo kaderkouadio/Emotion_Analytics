@@ -1,1 +1,3 @@
-"YOU ARE TO RICH!" - THE EDUKATORS<br /><br />This movie is a confrontation of two generations. Without getting boring the director tried to find a new way or a new sense of 68's revolution. The result is an interesting story and of course some really funny - but still very natural - scenes. Big praise to the camera. It reflects always the right mood: hectic, calm, with distance, emotional, ... Just the actors sometimes seem to ad-lib, and the end is a friendly compromise.<br /><br />In the whole: A very entertaining film about Revolution, Friendship and Love! 8 of 10 points! ;-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35f7d2cdf6f8fc83165083eb58741403ae764e914898c244a88ee8fc2f513bb
+size 586

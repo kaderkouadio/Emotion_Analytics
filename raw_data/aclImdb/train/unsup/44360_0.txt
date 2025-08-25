@@ -1,1 +1,3 @@
-This is one of the worst horror films I have ever seen - and I watch an awful lot of them. The acting is even more wooden than the trees in the wood. The character reactions are not in the least believable and the plot is more rickety than the old bridge. Do yourself a favor and pass this film by.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29943cb54b5b87ae936f009784eb2f194f630eb1cf0028a3cf3c0090135127b9
+size 298

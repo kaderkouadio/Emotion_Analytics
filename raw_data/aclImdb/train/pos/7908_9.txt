@@ -1,1 +1,3 @@
-I recently found a copy for $5 at a video store, and snapped it up eagerly. While the music and (obviously) graphics aren't up to the standards of my favorite of the series, Beyond the Mind's Eye, I am still entranced by one segment:<br /><br />Stanley and Stella in "Breaking the Ice". The music is brilliant, and the emotions feel real. The clip on Odyssey's website doesn't have the story nor the music, unfortunately.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb20cb8d95c7925b343bc52e53666da4886ca85fffdda710cd9c674720dbe3eb
+size 421

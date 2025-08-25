@@ -1,1 +1,3 @@
-Wow, don't watch this thinking it's going to be a relaxing circus evening! It will keep you on the edge of your seat all the way through. Circus has never been more colourful, more exciting and more breathtaking! The whole concept is truely amazing. You're taken into the world of Cirque Du Soleil and are left with a thousand thoughts when you leave. There's only one thing left to do: get the CD and/or DVD and live through it again and again and again. Get addicted! It's well worth it! Must be next to the most beautiful thing on earth and one of Cirque Du Soleil's best programmes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c1b5789df916ae6e71ed601be4f53a787406863c5fad0503e1a7c0365b51ccf
+size 586

@@ -1,1 +1,3 @@
-James Ellroy fans will probably want to check this out. They especially are the ones who should avoid it.<br /><br />Ellroy writes complex, psychologically damaged characters. James W. Harris's screenplay loses all that. It's watered-down and dumbed-down, making this just another average cop thriller.<br /><br />Stick with L.A. CONFIDENTIAL or BROWN'S REQUIEM instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a36de67bcd9daa81f360e012c24a25b837e998bebccf76d16a42f2b87b621523
+size 370

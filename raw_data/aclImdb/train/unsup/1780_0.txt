@@ -1,1 +1,3 @@
-....But what they don't tell you is that it isn't as good as the original!<br /><br />Now while this movie is entertaining it nowhere has the magic of the original. Regardless it's still a fun popcorn movie. Which co-starred Sly Stallone's wife at the time. Who actually was HOT!!!!<br /><br />3(***)out of 4(****)stars
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd3f4144b1c309614473c5f15ac622fea4678bf9617f3ae4eab4f3ae48947a7
+size 319

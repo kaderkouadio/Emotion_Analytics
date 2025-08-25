@@ -1,1 +1,3 @@
-I love this movie! Next to "Shrimp on the Barbie," this is my favorite Cheech Marin movie as he goes on to prove he can actually be funny by not playing a pothead. A Mexican-American dragged across the border, he shows the lengths he is willing to go to return home and prove he is an American, but there is also a sensitive and heart-warming touch to his range as he proves he is also a good guy and not just some clown. Daniel Stern is also a hoot as an opportunist, and Paul Rodriguez flexes his comedic muscle that we his fans appreciate so much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a81dfc97d9c95c98403177380b855cf08bb2db5197d180732972b80acf05533
+size 550

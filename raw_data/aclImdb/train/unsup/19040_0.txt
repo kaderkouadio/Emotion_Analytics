@@ -1,1 +1,3 @@
-This is a really funny film by John Waters (Cry Baby, Polyester, Hairspray) and it's his sickest film. Kathleen Turner plays a sweet and perfect suburbia mom who suddenly decides to kill the people who don't do the right thing (just like bother her kids, not rewinding the rented videos or wearing white shoes after Labour Day). But she's not a complex serial killer: she goes and kill, in the most sordid and hilarious way. KT's performance is great and funny, and the rest of the cast is good.<br /><br />Rated: 8 out of 10. Hey, don't miss it!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:34a34b2dde6260a12da589ee316cd3ebb2ec4261cb43c53910c241256d0cf5a7
+size 548

@@ -1,1 +1,3 @@
-If you have read the book - do not set your hopes high, if you have not - go read it, and never watch the film. It is strange to learn that Toby Young was actually involved a lot in the writing of the script (as he claims himself in the post script of the book). Because the film is very different from the book.<br /><br />What the film seems to be aiming at - taking a rather thought provoking and entertaining piece that combines philosophical ideas with plain funny sarcasm and simplifying it so that everyone would understand it - it achieves with perfection. The film is full of bad and cheap jokes suitable for a sitcoms, and has lost any meaningful message that it could have had.<br /><br />You are better off not seeing it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2be0cd3b842e3431d3e4896fb14f5fb3cc49d962895d5fe9c46ff6eb83e2af
+size 733

@@ -1,1 +1,3 @@
-Come on. Anyone who doesn't understand the greatness of this here cartoon should be kicked off any critic's panel. They should not be allowed to be heard, because they obviously have no sense of humor whatsoever. <br /><br />Anyone who does not love this here animated cartoon directed by Tex Avery should be chained to a chair and forced to watch "Huckleberry Hound" episodes for 20 years straight! <br /><br />The takes and double-takes by the Wolf in this cartoon are the finest examples of this important past of comedy that have ever been captured on film. <br /><br />Tex Avery should receive a posthumous Academy Award for this cartoon. It's the best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb733d2e61612dd6237812bd74353c21420465b817ade151565c73aa62751b2
+size 658

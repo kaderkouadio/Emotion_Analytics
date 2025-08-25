@@ -1,1 +1,3 @@
-Lucio Fulci's "Don't Torture a Duckling" paints an exceptionally unflattering portrait of small-town Sicily plagued by series of brutal murders of young boys.This surprisingly well-directed film(especially in comparison to later Fulci's gorefests)is distinguished by overall atmosphere of perversity,nastiness and two truly grotesque scenes of brutal violence.The soon-to-be-dead children are depicted as casually cruel and budding peeping toms;Bruno's near-seduction by the naked Patrizia(Barbara Bouchet)really has to be seen to be believed.Highly recommended-especially in pair with my another cult favourite "House with the Windows That Laugh"(1976).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8088a31ae55eb6b67cf217d486a79cfe72c2374198e8ca21fb7a780454b5b473
+size 654

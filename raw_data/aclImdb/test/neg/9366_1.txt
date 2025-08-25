@@ -1,1 +1,3 @@
-From the start this film drags and drags. Clumsy overdubs explaining the history, monochrome acting, boring sets, total lack of any humanity, verve or style. The actors look as if they are drugged. Potentially an interesting story completely wasted. Surely somebody realised how bad it was at some point in producing it?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7da61208eb6367ad7351740f93a45cb32c6daf37c8ca06709a49e0f9370d8200
+size 320

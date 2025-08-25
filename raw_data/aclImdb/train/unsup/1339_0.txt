@@ -1,1 +1,3 @@
-Dull, witless, a real pain to watch -- and yet, unbelievably -- it's based on a script which won First Prize in the Austin Film Fest's screenwriting contest! (I guess all that advice about writing interesting stories with strong characters and sharp dialog got ignored by the judges.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a345bcc309d03942d6f0f93b1ab9b85d846138bce4b74289dd399be92bc06e3d
+size 284

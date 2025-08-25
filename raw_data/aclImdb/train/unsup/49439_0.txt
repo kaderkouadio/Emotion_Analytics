@@ -1,1 +1,3 @@
-Watching a movie about four guys visiting microbreweries and drinking and like being the designated driver on a pubcrawl. After ten minutes, you're dying for a beer, yourself. There's simply no point to it and you get nothing out of it. The four beer travellers/drinkers do nothing to movie this movie along. If anything, they slowed it down. You can easily leave half this movie on the cutting room floor and nobody would know the difference. It seems like a student film, or a home movie that was never edited. If you want to learn something about beer, there are plenty of books on Amazon.com to read. If you want to be entertained, your spit out of luck.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ad6d9cb2ad554d3131ba5f96c8abf9542f3ad10cb116af8d8594022c69ff5d0
+size 658

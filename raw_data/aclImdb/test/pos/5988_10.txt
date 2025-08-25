@@ -1,1 +1,3 @@
-This is one of the best movies I have seen in a long time! The director did a wonderful job showing the contrasts between social classes, a situation that is very pertinent in France today. All the characters are lovable, especially Juliette and her family. The development of the romance is, while not entirely realistic, at least plausible, and does a wonderful job showing how much people will change for love. I found this to be a heart-warming Cinderella story - but one in which Cinderella is a powerful woman in and of herself. I laughed through this entire film, and absolutely loved it. I recommend Romuald et Juliette to anyone who enjoys unique characters, comedy, and nontraditional romance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:464b7b86a1c7846f75b948eda029eee248b44f6c4774cca9c99330e76104a3f5
+size 703

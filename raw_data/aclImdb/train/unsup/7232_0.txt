@@ -1,1 +1,3 @@
-Definitely one of my all-time favorite comedies. Well directed, well acted -- priceless comic performances by Pesci, Tomei, Gwynne & Austin Pendleton. And more than comedy -- there's also a lot of genuine pathos and real tension and drama, especially in the final courtroom scene. And I really don't understand the "controversy" or brouhaha over Marisa Tomei receiving the Best Supporting Actress Oscar for her role in this movie. It's a crackerjack gem of a performance and a stellar comic portrayal. The only thing I can figure is that a lot of snobbery about serious dramatic portrayals somehow being more worthy of honor than great comic performances still very much lives on in much of the film community.
+version https://git-lfs.github.com/spec/v1
+oid sha256:236d1c21ef9f9b00256a4ba27b54d9934e47ff1ef956ff4271abd164e5ac64e5
+size 710

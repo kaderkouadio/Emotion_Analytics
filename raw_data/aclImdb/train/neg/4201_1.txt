@@ -1,1 +1,3 @@
-What a horrible comedy. Totally lame. The supposed "humor" was simple and stupid. Stanly Tucci (a great actor) had the only parts worth chuckling at. And he was tied up and gagged at the time. Don't waste your time with this one. It deserves a 0/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5dcd77a3613b940473a6481ae4fb3b4ba32f7dfaeab293903619dd6c094451
+size 249

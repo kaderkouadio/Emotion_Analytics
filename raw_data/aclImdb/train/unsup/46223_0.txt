@@ -1,1 +1,3 @@
-Accomplishing what I had thought impossible, this film moves from intriguing/thriller-worthy premise to absolute schlock within 5 minutes of the opening credits. No story. No characters. No acting. Dubious cinematography (I guess it's just a Blue, Blue World). All this matched by an ending which establishes a new standard for 'lousy'. Given that it was a free rental....I want my money back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bc4b14879b147fd064a80e99aee2f9f435d5f4539d62369ea159cfc29e8d8f0
+size 393

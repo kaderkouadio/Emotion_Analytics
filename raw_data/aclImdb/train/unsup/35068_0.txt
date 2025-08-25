@@ -1,1 +1,3 @@
-The subplot about the low budget theatre would have made a great comedy.<br /><br />There were some very funny moments especially with the theatre manager and the actor who wanted Buck for a neighbor.<br /><br />Unfortunately the main story line was not especially funny or frightening. <br /><br />Chuck's wife seemed nice but boring; and Chuck and Buck were just boring.<br /><br />And the movie was so unpleasant to look at that it was difficult to endure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e2c26cfe57a76e6d0a93e985a516dc78a9e9266abd4b6af7a389ce5d55bfe9
+size 459

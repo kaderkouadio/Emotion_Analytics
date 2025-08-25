@@ -1,1 +1,3 @@
-This film is a complete waste of time and celluloid. The actors (and I use that term lightly) wasted their time making this film. The people who went and saw this film (alas, I was one) wasted their time. Do you see a pattern here? This film STINKS, plain and simple. Don't waste your time on it. There are other sources of information about this famous woman. Utilize them instead of seeing this!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac7cfdd203acca1e6ffc8bf14535c3f11b401461aec4a8170ec513187abc3282
+size 397

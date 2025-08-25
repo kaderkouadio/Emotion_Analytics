@@ -1,1 +1,3 @@
-I won't waste my time reviewing a piece of bubble gum like this suffice it to say that bubble gum, every now and then, is kind of fun but gets stale quickly.<br /><br />4/10 for oft mechanical writing, visual gags that never work, and overall bad acting (except for CLAYTON ROHNER: he sold his character well).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9001c21d994805c8a096e5997ccba4571a266f2779eae5f2b75ddb8bd8bb38d3
+size 310

@@ -1,1 +1,3 @@
-When i entered the cinema it was full,i thought it will be a good movie.I also saw the director Sergiu Nicolaescu(he used to be o good director)and i also thought that i will see a good movie. It started good and i said to me that it will have a good plot.But in a very short time i realized that it is a very very bad movie. It has the same idea with another very bad romanian movie from last year with that bitch from France who is searching for a little bastard who was born during the revolution and was brought to an orphanage.It has scenes that are very absurd and the dream of one of the characters lasts too much. I saw that the director and the whole crew had made all that they could do and deserve the golden raspberry.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c184e9f3c2eb8762754fab5bf7a0a8af26d46e4a20098d6866696d7fce6b4f0a
+size 730

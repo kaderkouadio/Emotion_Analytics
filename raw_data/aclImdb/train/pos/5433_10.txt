@@ -1,1 +1,3 @@
-This movie is one of my all time favorites. Cary Grant, Victor McLaglen, and Douglas Fairbanks Jr...what a cast. Not to mention Sam Jaffe as Gunga Din. Drama, action, adventure and comedy all rolled up into one. The final battle scene still to this day gives me chills and the ending always leaves me in tears. If you haven't seen it, I'd strongly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69b8cc9aa2c7e3981eb310ce75f6371d6e63f255546c0aad994a8765f28c654e
+size 361

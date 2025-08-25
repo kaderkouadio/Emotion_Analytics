@@ -1,1 +1,3 @@
-Wow, this movie really sucked down below the normal scale of dull, boring, and unimaginative films I've seen recently. The acting was poor and robotic. The story was so bland you could have summed it up with a simple 5-minute short. Audio was so poor and dirty it was hard to even listen to; perhaps it was unedited from the camera it was shot off of? I'm not sure which movie the 3 glowing reviewers were commenting on, but it wasn't this one. Perhaps the director had his hand in seeing that his film received a good review, at least before the real reviews started to show up.<br /><br />Save your time or you'll just be wasting your time and money on this film. Absolute suckage!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8013acc725fd16136f8bd09d79a5030ad85102d77792aaaca96116eb48cf22e8
+size 683

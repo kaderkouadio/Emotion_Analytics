@@ -1,1 +1,3 @@
-This is a film that may captivate those interested in Catholic theology - others should stay away. There is too much chat, as a futuristic (set in 1999) priest visits a monastery in Ireland that refuses to give up the Latin mass. Not very exciting stuff.<br /><br />But there is a marvellous performance from Trevor Howard, an almost as good one from Cyril Cusack, and it's nice to see young Martin Sheen and Michael Gambon. Scenery and cinematography are also nice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:646be882c7f2f1bb14852d33baed54ffd002f9751c50f275242f941f3553549e
+size 466

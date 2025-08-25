@@ -1,1 +1,3 @@
-For what it is, a silly 2 1/2 minute skit starring Adam Sandler, I thought this was great. The opening shot is particually PT Anderson, but the rest is just down right stupid humour. The ending particually cracked me up, although I honestly don't get what the hell happened (and I don't think I'm supposed to). This is simply just PTA and Sandler screwing around with a free set after filming PDL, so I doubt any real thought went into this, so please don't expect "Magnolia" or "Boogie Nights" or anything, just expect a stupid, retard Sandler style short that will leave you confussed, laughing, and saying out loud "What the F***?".
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c45901aab5f59597bd0f813f230662a134f8f667e13cb8dd4d64e3b017f26b
+size 635

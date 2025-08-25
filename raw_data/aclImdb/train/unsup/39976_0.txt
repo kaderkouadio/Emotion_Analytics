@@ -1,1 +1,3 @@
-This movie did play like a dream or maybe even like an autobiography - it was disjointed. It was basically a bunch of mostly random scenes throughout this lady's life and you wonder what is going to happen next to her. The scenery was beautiful, but that is the only redeeming value I could find. Wait for it to come to tv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce79732d44a3c39ce24bded7569a66b06d71b4d3ae587aab965c805ab81fd786
+size 323

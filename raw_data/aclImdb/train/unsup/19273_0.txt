@@ -1,1 +1,3 @@
-An 'extra' on the recent DVD edition of the Gloria Swanson/Rudolph Valentino starrer BEYOND THE ROCKS (see my comment there), this is another recovered pic from the Netherlands archive. It's a ramshackle comedy from Universal, megged by Robert Z. Leonard (later a fixture @ M-G-M), starring his soon-to-be wife, the largely forgotten Mae Murray. (Her tenuous claim to fame is her preposterous, yet mesmerizing perf in Stroheim's MERRY WIDOW.) Here she's mugs like crazy in sub-Mary Pickford mode as a darling Irish-American spitfire who poses as Eurotrash to land a dancing gig at a club. The prosaic truth comes out just in time for a happy ending with an impossibly youthful Rudolph Valentino who's the freshest thing in the film, looking surprisingly like Buster Keaton. Really, just check out that profile in the final sequence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8340e430e15fb3b91b405a632848bca5779bcc552f09d1f2c57b8e4906f6142
+size 832

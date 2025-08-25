@@ -1,1 +1,3 @@
-Looking forward to taking my two girls as another reinforcement as to what the key points in life are... I guess it's easy to blow through life with a couple of key goals and this movie lays the foundation to spread the web to get so much more out of life. There's also a site www.onceuponafamily.com that has a great program to further reinforce The Ultimate Gift and really 'brings the movie to life' with a program of projects (activities) that help you and your family discover all of the gifts and live them on an ongoing basis... As a sidebar, they have a cool kit not associated with the movie called 'Dates with Dad' that looks like a great tool to assist in building a relationship with my girls. All good stuff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e0aefd5b74a4e780e1e6482a51f9345c2ac4c8680ced2b4db51ae7c5f5255f3
+size 721

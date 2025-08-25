@@ -1,1 +1,3 @@
-It's amazing that such a cliche-ridden yuppie angst film actually got made in the first place. The characters are so weak, and the acting so uninspired, that it's impossible to care about any of them-- especially Brooke Shields. The temptation to fast forward through the slow parts is almost irresistible. If you like this genre, you'd be better off renting "Singles," or "Bodies, Rest & Motion."
+version https://git-lfs.github.com/spec/v1
+oid sha256:510acf3770d7d36993e336306c4df1fa5bd85fdc25206916751b9965e708f14a
+size 397

@@ -1,1 +1,3 @@
-This movie has to rank as one of my all-time favorites. I would rank it right there with Blazing Saddles and the original Airplane. And it REMAINS funny. I have probably seen it 30 times and still laugh. So many memorable lines. And the stupidity of Harry and Lloyd knows no bounds. Even halfway through the movie, they still do things even stupider than you could possibly expect.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b19c5b7bf7bd7d966336b484924ca9c2f8ed091b1824df6419f292e19be4ae0
+size 381

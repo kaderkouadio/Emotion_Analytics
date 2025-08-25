@@ -1,1 +1,3 @@
-Well, Killshot is not awful, but it comes close. Production values are decent and the main actors do a pretty good job (except for Rosario Dawson in a wasted role), but the story is just pathetic. I don't know if the Elmore Leonard book had such dumb characters,since I haven't read it, but I'm guessing that the book was supposed to be at least slightly humorous. The movie has no detectable humor. After the first twenty minutes, you'll be yelling at the screen, "Oh, come on! Nobody's THAT stupid!!" In a nutshell, and without any spoilers, everybody acts in a manner convenient to the plot, which makes no sense anyway. A very frustrating and unrealistic movie, which may account for it sitting on the shelf for as long as it did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc36bdfc827d0be7b772a6f39a67d804c697c97c782d20f85b0e6147808f3c9
+size 734

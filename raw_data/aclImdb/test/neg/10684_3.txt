@@ -1,1 +1,3 @@
-Following a 19th century gun dual that goes awry, a charming young woman becomes a vampire. Not only does she become one of the undead, she uses her goth, temptress persona to sustain her talents as a cold blooded assassin. This is a low grade B feature that should have went straight to video. The violence is vicious and gory, but actually quite mild. The story line is so weak and dialogue so haphazard it is hard to work up much interest. Eileen Daly is the lead character Lilith Silver. Also in the cast are Mark Caven, Kevin Howarth, and Isabel Brook.
+version https://git-lfs.github.com/spec/v1
+oid sha256:539856eec61f5bd243e88810ff527800d36040e32d7cb02112869967188bd409
+size 557

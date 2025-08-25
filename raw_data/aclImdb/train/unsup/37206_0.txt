@@ -1,1 +1,3 @@
-So bad it frankly defies description. Nothing seems to ignite in this hacker flick which is not quite trashy enough to be good old-fashioned vulgar fun. The plot is unsexy, to say the least, direction seems lacking in all crucial places and performances are woody and devoid of chemistry. A true disaster.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80cd9cebb0b8f2291ff33471a599215089bdd9a2a5d9187878fa505a62a71bde
+size 305

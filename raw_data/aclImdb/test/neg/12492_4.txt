@@ -1,1 +1,3 @@
-I was expecting a lot from Mr.Amitabh Bachan's role of SARKAR, but am disappointed. Being a Ram Gopal Verma's direction i was not ready for this kind of a movie. Sarkar is supposed to be a strong character, but the movie shows that Amitabh is too dependent on others power rather than his. There is a movie in Tamil called Nayakan based on the theme of GOD FATHER and Kamala Hassan has played the lead. The movie is well directed and the power till the end remains in the hands of Kamala Hassan, not his son. Amitabh Bachan seems to be too helpless in the movie and he just accepts everything instead of changing things. The movie fails to show the strong impact of God Father.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f097d897b02a09c28b1f64e4ed98de8cb4d36c3d99b4828b7912c7b08077f238
+size 677

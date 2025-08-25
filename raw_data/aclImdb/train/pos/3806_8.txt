@@ -1,1 +1,3 @@
-This movie took my breath away at some points, I simply loved it! <br /><br />I admit that the character dialogs and storyline could have been done a bit better, but hey, this is just a simple (short) story of a couple of guys trying to slain a dragon, there's nothing more to it!<br /><br />The overall design, atmosphere, the beautiful landscapes... it's all just magical! <br /><br />They've put a lot of love in this movie. Character designs were great and funny. A bit Tim Burton-ish if you like. I can recommend this movie to anyone interested in great design, displayed in a simple small, but lovely story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3576b2f42733e5a25b4d3d71caf6fddaf54a3497b20b3a9775645de5521d8a41
+size 613

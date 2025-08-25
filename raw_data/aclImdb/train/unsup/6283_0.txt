@@ -1,1 +1,3 @@
-I just watched the DVD and had not seen the movie in many years. I found it every bit as moving as I had remembered from my first viewing. This included the Prayer For the Dead (El Moleh Rachamim) magnificently sung as the final credits rolled. I am not Jewish so I had to do some "googling" to learn that El Moleh...is indeed a prayer for the dead. What moved me so apart from the singer's mournfully beautiful voice were the names Aushwitz, Maidenek, Treblinka et. al. interpolated into the text. It reminded me of the penultimate paragraph in Andre Schwartz-Bart's extraordinary novel of the Holacaust, The Last Of The Just where the names of the death camps are artfully placed among the repeated words "And praised Be The Lord". Thank you for the opportunity to share my thoughts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46725c968914a6a5a535565dc48727e8a65df510a9bda37f871b258606cb7a8d
+size 785

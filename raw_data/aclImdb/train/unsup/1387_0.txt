@@ -1,1 +1,3 @@
-I've seen it twice and enjoyed it thoroughly each time. Still, not being an experienced movie critic, I'm grateful to Krorie for pointing out some valid deficiencies. For me, the scene in the beginning with Crawford in the wrong cabin (and bed) hooked me. Bruce's bumbling reaction was so natural, believable and funny I already decided I was going to like the rest. From then on, though, it does seem like the cast is just reciting lines. I found the constantly twisting plot at the end hard to keep up with. If anyone knows the name of the song Crawford plays on the piano, please let me know. Was it original or popular at that time?
+version https://git-lfs.github.com/spec/v1
+oid sha256:36123114030a9028fa47f0b89c649d067d905df71043ca99c95a766a38dc278a
+size 636

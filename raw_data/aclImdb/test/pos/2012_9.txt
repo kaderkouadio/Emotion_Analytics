@@ -1,1 +1,3 @@
-I enjoyed this show, it was on in the uk, but not at peak time, and they seemed to move it all over the schedules so I wasn't able to watch them all. I was surprised when it didn't return and had no i idea why, still don't know, but i guess that's not important.<br /><br />Great performances from the two leads, they were very believable as friends. The two supporting actresses also added well to the mix. I guess it was part of a whole load of shows that were lifestyle centred, Friends being the obvious main one, but sex in the city came along a few years later.<br /><br />The characters, get take out coffee, they drink at nice bars , that sort of thing, a little woody allenish in a way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efd1acc75a68612cb9e9b326a99e00cc97a4396a483b94c8d84891f936511229
+size 695

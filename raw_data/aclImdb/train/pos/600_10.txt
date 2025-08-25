@@ -1,1 +1,3 @@
-Michael Bowen plays an innocentish young man who hitchhikes a thousand miles to visit his absentee millionaire father (the creepy Ray Wise) at a sprawling, windmill-powered ranch and ends up tangled in the dangerous web of his young, scheming and seductive stepmother from hell (the yummy Clare Wren), thus causing trouble for the already dysfunctional family. An edgy, stylish and exciting drama that received no promotion and was sent straight to VHS and cable TV--where I first saw it. It is beautifully written, smartly acted, and tightly directed from a script that keeps you biting your nails. I cannot believe the reviewers who disliked it ever actually saw it. It is an undiscovered classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dd735cf56056df6993b31626ecbf6f9d91d76b852ea772d97d0bb35da2855b3
+size 699

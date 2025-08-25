@@ -1,1 +1,3 @@
-This is an absolutely horrible movie (though still better than both Queerwolf and On Deadly Ground (best use of Michael Caine's hair to sop up oil spills)). However, it is almost worth owning if you choose to just fast forward to the credits for the theme song. Any vampire movie with the line "Vampire hookers... they'll suck more than your blood" in it is worth putting next to your copy of A Polish Vampire In Burbank on your schlock shelf. There isn't much more to say about this movie except that it is very difficult to fill out ten lines of commentary about it that aren't merely "Ow... that hurt my brain" repeated over and over and over. Ow... that hurt my brain.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c0bf4969000317d6f978d40946ce09493e3208b3866ae05e990d8b6721933c0
+size 672

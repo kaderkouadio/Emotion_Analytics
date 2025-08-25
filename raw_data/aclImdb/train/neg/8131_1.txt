@@ -1,1 +1,3 @@
-Unless the title is supposed to be some kind of spoiler for the wife's transformation (the fiends! ruining it for us). Anycase, if this movie wasn't Made-For-TV, it should have been, it's so remarkably low-budget, underscripted, underacted, and hits every 70's cliche except disco. Nobody is likeable, and you could careless what happens to anyone in this one. Eminently forgetable except for the bad, bad performances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f948ba0a4ad227fb42e14ff1c979bc21d407c8b5d92dec3c9c84db0c5fcf5db3
+size 419

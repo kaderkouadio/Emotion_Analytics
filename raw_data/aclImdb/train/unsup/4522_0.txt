@@ -1,1 +1,3 @@
-"Never Again" tells of a single middle aged man (Tambor) and woman (Clayburgh) who find each other, have good sex, and then begin to wrestle with issues as they search warily for deeper meaning. The film jerks from the outlandish to the sublime and back again making for an unpredictably bumpy ride while conjuring moments of hilarity and warmth. "Never Again" is another Schaeffer love it or hate it flick which is the work of a creative genius or sexually obsessed hack depending on who you talk to. Given its middle aged focus and explicit sexual content, "Never Again" will play best with more mature audiences who can handle vulgar language, absurd comic relief, and still appreciate the sentimental and poignant moments without rationalization. (B)
+version https://git-lfs.github.com/spec/v1
+oid sha256:de0ecc96c7223060f7706f662562d725fc41bb926280322a72c873b06309ecf4
+size 754

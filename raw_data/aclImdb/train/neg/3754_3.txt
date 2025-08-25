@@ -1,1 +1,3 @@
-As a long-time fan of all the Star Trek series,I found this a disappointing episode, and I wonder if the liberal use of "flashbacks" featuring Will Riker's exploits, both positive (and largely romantic) and negative (lots of pain, and a crewmate's death)was a money-saving device, as were many of their "bottle shows" (episodes in which all scenes take place on the Enterprise). Diana Muldaur(who also appeared at least twice on the original series) deserved a better final appearance than this for her character, Dr. Kate Pulaski. Loyal viewers (in the Star Trek world, is there any other kind?) also were shortchanged. This was the last episode of second season; thus, the season ended "not with a bang" but with "a whimper."
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f1d2c90f1ad19f1e3dcf5a099b88fa67bb76c396ecd626e816d6288f1e67e4a
+size 727

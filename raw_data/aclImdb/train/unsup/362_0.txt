@@ -1,1 +1,3 @@
-Movie left me feeling that the accomplishments of anyone can affect everyone. Not a bad thing to teach our kids. Some critics will naysay this film, saying that it is childish and puerile. True, but it wasn't made for adults. 'Nuff said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df429ceef0897b00908b38a03d762aad93d6e62164bcd63f3c9a76046ceb9110
+size 237

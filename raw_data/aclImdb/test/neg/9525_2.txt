@@ -1,1 +1,3 @@
-Duncan Roy's writing and direction is really, and regularly, below par. Actually it sort of stinks. AKA is almost as bad as his recent (horrible, self-serving) remake of Dorian Gray - absurd, contorted dialogue among the 'upper class' characters, at once idiotic and pretentious, amateurish, stilted to its core. Characterisiation and script - and sometimes the acting - is creaky like a school play...but worse, there's a sort of peacock self-certainty about the direction which is just soul destroying when the director clearly hasn't grasped...he's just no good. Diana Quick must be cringing with embarrassment. DR you should just get out of film...seriously.
+version https://git-lfs.github.com/spec/v1
+oid sha256:307978d30314cf8680f2dbc0eeab7b561b2d8fd5a5905386ea3c1e8a8ff43ce0
+size 662

@@ -1,1 +1,3 @@
-In my opinion this is Stephen J. Cannell's greatest creation. The series was kind of a -What if Jim Rockford split in two? The shy, dream-laden private-eye want-to-be and the accomplished con artist team up to solve various mysteries. Goldblum and Vereen are cast perfectly. This was television fun at it's best with the homage to the pulp detectives and the MacGyver of disguises. The villains were typical Cannell with mobsters to motorcycle gangs, but these two heroes made the endings, for me, much more satisfying because of the clever characters. Saddest is how this series was miss-scheduled by ABC and destroyed in the ratings by CBS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e3bbf68985c3eec26b0588ed7fefdf098d01dfc90a49c6c8623666d63435df
+size 642

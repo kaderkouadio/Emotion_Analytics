@@ -1,1 +1,3 @@
-The evil bikie gang in this movie were called the Savages, hence the title, but Minor Nuisances would have been a better name for this sorry mob of weak actors trying to look dangerous. Whenever they wanted to kill someone, they generously rode their bikes very slowly so that their intended victim could easily avoid them or push them off their bikes. Their leader had a bad limp, but still thought he could take on the hero and win. As for Karen Black, she didn't seem to know where she was for most of the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d7e8226795864886c8a47e572c3e32653baa3a70ba73a9ff9844b61f3c21135
+size 514

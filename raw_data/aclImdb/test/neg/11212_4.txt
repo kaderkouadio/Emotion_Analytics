@@ -1,1 +1,3 @@
-Michael Dudikoff stars as Joe Armstrong a martial artist who fights ninjas who are stealing weapons from the U.S Army, in this entertaining yet admittedly brainless martial arts actioner, which is hampered by too many long pauses without action, but helped by some high energy action setpieces as well as Steve James' performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bc0df66101b697d6aef1bff2465649de55f825a6d86634292e3df17c011605f
+size 330

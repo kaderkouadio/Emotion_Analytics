@@ -1,1 +1,3 @@
-If you are a history buff, like a murder mystery and into "what if" detective plots - you will love this movie. So what if a prostitute is killed in war torn Warsaw during the final stages of WW II? A German Military Police officer cares, and even with wars chaos begins a search for the murderer that goes into post war Germany. Great acting and twists make this above average. The German period uniforms look real and the irony of a single death standing out among the millions of lives lost during the war is striking as two former enemy detectives begin tracking the killer together. Their investigation ends with a bang. <br /><br />Peter O'Toole is the aristocratic German General the title is named after, he looks the part and plays it to perfection. With a great supporting cast this a must see WWII drama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf469e5e512475594494cc7c726cc71cc1289686b5c8133b14a3a832209f823
+size 815

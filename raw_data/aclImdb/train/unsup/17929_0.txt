@@ -1,1 +1,3 @@
-Not just low-budget films, but all films. This is a real sleeper. If you don't love opera, you probably won't like this. The story is entertaining and amusing. If you know and love opera, the final scene will leave you crying. If not it will leave you bored.<br /><br />I strongly recommend this film. It's a good romance and a good story about people in general. The only shortcomings are from an obviously low budget. It's too bad. This could have been another low-budget classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:582abf1d9de4c3476c3c832188b48d98e9d0c3136d0baa7176c9c1b367d6ee31
+size 482

@@ -1,1 +1,3 @@
-I have been a Star Trek fan for as long as I can remember. When they announced the planning and premiere of the fifth series I was very excited.<br /><br />The premiere of Enterprise was well worth the wait. It was well done with the perfect setting and a great acting job done by all the characters. The NX-01, Enterprise is the perfect vessel to show the beginnings of what many people have come to love.<br /><br />Scott Bakula was just superior as Captain Jonathan Archer. Jolene Blalock gave a commanding performance as Subcommander T'Pol. That it just two people of this wonderful new crew that is boldly going to take us into the great history of Starfleet.<br /><br />Enterprise looks like it's going to be a good series well worth watching, and I recommend that. Watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bdc4ed26f343c211c02c3dd1be85848896ab31af8c87b484b9225873d1a8211
+size 781

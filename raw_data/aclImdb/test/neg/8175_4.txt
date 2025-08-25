@@ -1,1 +1,3 @@
-In a year when "Singin' in the Rain" and "High Noon" were released, this overstuffed turkey somehow won the Oscar for Best Picture. Half the film is nothing more than circus performances. The other half is soap opera and melodrama. Heston and Wilde both overact, although they are models of restraint compared to the annoying Hutton. Playing a self-centered trapeze artist, Hutton acts like an overzealous high school student in a badly produced school play. Grahame is the only cast member to turn in a decent performance. DeMille has no interest in telling a good story, only in creating an overlong spectacle, not matter how dull.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc2a977c1f989dc80aaa989bf37f28f564d56a5befc471db3d998fe052eaed97
+size 633

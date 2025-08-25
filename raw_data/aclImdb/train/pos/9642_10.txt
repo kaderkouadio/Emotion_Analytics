@@ -1,1 +1,3 @@
-The movie is very realistic. Absolutely, it does not belong to the Hollywood Cinema genre where every line must be pronounced in a perfect manner and where every move is precise. The actors playing the roles of the lovers do a GREAT job representing the characters' feelings and thoughts - their everyday life adventures. Overall, the movie climaxes the viewer to a depressed state. This is where the realism of the whole story is apparent. Not everything happens the way we think it should happen. I can say though that the movie does not end on a bad note. We watch, we learn, we experience ourselves. That is probably the moral of this story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d09e67acdefeba415cf0918c129b19023a10a9c8d6bba5f46f82596498286e6b
+size 645

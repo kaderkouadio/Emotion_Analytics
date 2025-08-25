@@ -1,1 +1,3 @@
-The comments for Commune make it sound like a very interesting film, one that I would be deeply interested in. Unfortunately, the producers didn't see fit to include closed captions for the hearing impaired and deaf. That leaves me and countless others like me, who depend on closed captions to follow a movie, completely out. <br /><br />This is inexcusable for any film produced in the year 2005. In a world where all manner of handicaps and disabilities are accommodated, it's infuriating and ironic that the ever sanctimonious entertainment industry fails to demand that all productions and movie theaters be closed captioned.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35774abfc6543a3f800e4ada06bde21934b87c5cf33330d6bb452a6fd8ea352e
+size 630

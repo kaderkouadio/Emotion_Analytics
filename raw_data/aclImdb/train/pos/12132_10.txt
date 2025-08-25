@@ -1,1 +1,3 @@
-Enjoyable in spite of Leslie Howard's performance. Mr. Howard plays Philip as a flat, uninteresting character. One is supposed to feel sorry for this man; however, I find myself cheering Bette Davis' Mildred. Ms. Davis gives one her finest performances (she received an Academy Award nomination). Thanks to her performance she brings this rather dull movie to life. **Be sure not to miss when Mildred tells Philip exactly how she feels about him.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b6639b67cc785bbd7d14639fd0fb8f283c57404be6fb250754033c8c143660e
+size 446

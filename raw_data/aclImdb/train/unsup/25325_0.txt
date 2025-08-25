@@ -1,1 +1,3 @@
-I wanted so much to like this movie. The trailer was promising. The period in Swedish/Danish history is very interesting and should lend itself to great stories. But it just felt so low-budget. Kinda like the stuff you see on "Hallmark".<br /><br />The vigilante heroes where portrayed as "The gang that couldn't shoot straight", and the murderous king turned out to be good in the end.<br /><br />Imagine a a film about the intifada financed by Fox and you get the picture.<br /><br />Good photo. Good music. Terrible screenplay. Anachronistic feeling. You're almost looking for wrist watches and airplanes.<br /><br />Sad when the topic is important.<br /><br />It could have been great. Now it's not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:547ce88f1577f28223b33d2a8f0bc017b598d57a0d0f1f12de543cb463b6b11c
+size 703

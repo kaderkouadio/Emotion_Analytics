@@ -1,1 +1,3 @@
-This film has the guts to suggest that it might be best to simply accept your life as it is, and keep smiling anyway. As one who is more excited by the idea of taking charge of one's life and moving forward, I felt slapped in the face, but that's okay: I don't have to agree with a movie to love it and respect it. Great acting by Streep and Hurt, and everyone else really, and some wonderfully quirky scenes. A serious film. And take a hanky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e20bb7941464aac00cb8fb8badbdf20d8434f3116d48e0e7f05d173589a00af
+size 443

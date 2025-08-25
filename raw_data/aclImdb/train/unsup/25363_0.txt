@@ -1,1 +1,3 @@
-One expects more from Universal movie monsters than one gets here. This film disappoints on many levels. While the Beasts of the Dark do make for some cool critters, the reasons for their actions at the end are not altogether made fully clear. Plus the ending after the expected ending is such a terrible letdown that it will leave a bad taste in most viewers mouths. Also the film has a terrible slow and dull pace. Even John Agar couldn't save this one and I so wanted to like it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfabaa72cdd877c7453fab0a32f737d3bd307b198b4239ce16e403eac88d1bb3
+size 482

@@ -1,1 +1,3 @@
-I think the biggest disappointment in this film was that, right until the end, I expected the acting instructors of the cast to break in and apologize for how poor the acting was. When you consider the powerful subject, the brilliant scenery and the effort made in creating a wonderful set and spectacular images, it is a shame that little attention was given to acting.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:32eefec7657fe2c1aa33fac236eb41591956e681ebad95bf41f7e2cad1693538
+size 382

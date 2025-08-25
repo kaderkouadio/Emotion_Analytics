@@ -1,1 +1,3 @@
-I didn't expect much from this TV movie. You have to set the bar lower than you would for midget limbo for any TBS movie starring Antonio Sabato Jr. Still, it managed to disappoint, failing even to be a good-bad film.<br /><br />Every scene was by rote, as if someone had cut and pasted scenes from a dozen movies and tv shows dealing with big business conspiracies into the script, leaned back and said, "My work is done". It's all cliche, all predictable, and, even worse, the actors are forced to look like they're taking it seriously, (even when the plot developments are laughable).<br /><br />Do yourself a favor. Watch "The X-Files" if you're in the mood for paranoia. They handle it better. Also, let anyone know that sitting through "Fatal Error" is just that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b662a1bc1f1357544d67d12cad87db67a532229495622b05d6792b482fbfaf52
+size 769

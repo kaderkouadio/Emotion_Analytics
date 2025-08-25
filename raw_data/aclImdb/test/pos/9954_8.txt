@@ -1,1 +1,3 @@
-People have often been uncomfortable with "The Merchant of Venice", due to its anti-Semitic subject matter. Fortunately, this movie avoids that, opting instead to show how anti-Semitism reigned supreme in 16th century Europe. The story, of course, is that Antonio (Jeremy Irons) needs money so that he can help Bassanio (Joseph Fiennes) ask for Portia's (Lynn Collins) hand in marriage. He gets the money from Jewish usurer Shylock (Al Pacino), who demands a pound of Antonio's flesh if the latter doesn't pay back the loan. When Antonio can't pay back the loan, Shylock is determined to get what is owed him.<br /><br />We would expect this cast to do a good job, and they don't disappoint. It is yet another testament to what a great actor Al Pacino is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e5c55483f3058085960ea1671ffc2d84815051b7ecc54c3d416d2ced5887fd
+size 755

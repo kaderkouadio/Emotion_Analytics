@@ -1,1 +1,3 @@
-As i watched "Wirey Spindell" i couldnt but laugh at what was taking place on screen. Wirey sure got a lot of play from both boys and women but i was confused as to why the actor that played Wirey in H.S. was 10 years old. Then the actor changed age to like 20 to play Wirey when he was a senior in HS...but whatever, i thought it was funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a718cbdb4ac8f10e230a70b288aabd02265fa6a58668c572f80095fb39a5d8d0
+size 341

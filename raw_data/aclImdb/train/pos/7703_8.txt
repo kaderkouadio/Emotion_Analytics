@@ -1,1 +1,3 @@
-I was surprised at how a movie could be both cheesy and excellent at the same time. The Frisbee flying saucer was naff beyond comprehension, especially when landing, yet the specially effects when the Krell attacked were awesome for a film that was made over half a century ago! Living in the middle east I saw shades of Islam creep in when JJ Adams suggested Alta should dress more modestly, and as an engineer, was amazed by the imagination used for the 'futuristic' gadgets, and gizmos dreamed up by the props department. All in all, an entertaining hour and a half, my first time seeing Walter Pidgeon and a chance to see Leslie Neilsen as a 'young' man
+version https://git-lfs.github.com/spec/v1
+oid sha256:545c7f333dfd394c14905550ea41f40b491f030c1eeb3eaf2a7f86d70791b70f
+size 657

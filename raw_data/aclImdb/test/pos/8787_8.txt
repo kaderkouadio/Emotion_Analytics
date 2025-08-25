@@ -1,1 +1,3 @@
-You can't help but marvel at Hitchcock's early work. "Saboteur," for example, is so slick and quick that it's hard to believe he made this film over 60 years ago. There's some propaganda elements but they're woven into the mystery so well that the thing plays beautifully years later. You also get some previews of stuff that Hitchcock would do later--like using a national landmark as a backdrop. This time it's the Statue of Liberty. In "North by Northwest," of course, it's Mt. Rushmore. You'll also recognize things that pop up later in "Rear Window" and "Vertigo" in "Saboteur" but let's not give away the show. Robert Cummings is excellent as is the oh-so-charming Otto Kruger. Look for Hitchcock's mini-western in this one. It happens quickly so don't blink.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83586700a8380241d293d557fbe012dbb9a9a4a06c0026b6b1de88ec10ad0f7c
+size 765

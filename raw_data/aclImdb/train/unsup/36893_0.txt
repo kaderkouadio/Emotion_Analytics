@@ -1,1 +1,3 @@
-70's movies were a crap shoot at best. "Bonnie & Clyde" was a decent movie that dealt with the same subject ,depression era crime, as "Boxcar Bertha". Scorsese has given his fans and the general viewing public a lot of great films this isn't one of them. He can't be held responsible for the lack of any kind of interest holding screenplay. However the characters seem to be stumbling through their lines & the action equals that of a grade school play. None of the characters are believable. Most every line spoken by every actor is as if they are reading them. Boxcar Bertha is a poor script & screenplay acted by normally good actors with no direction from a normally great director. All this boils down to bad cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f2a8c2960af66ea6ed9d095ebe57eac3fdb3857e1d68d1af2be75077fd7ddb
+size 721

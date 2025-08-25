@@ -1,1 +1,3 @@
-Edward Dmytryk directed this shadowy movie about a murder investigation involving demobilized military personnel. Robert Young gets to lecture us about hatred, Robert Mitchum walks through most of this picture, and Gloria Grahame revisits the feistiness she exhibited in "It's A Wonderful Life." It's Robert Ryan who gets at the heart of the matter: anti-semiticism. He goes so deep into his role as Monty Montgomery (Imagine parents named Lawrence calling their son Larry!), that the drama sits squarely on his shoulders, and he is more than up to the challenge. Without him, the movie would be commonplace. Ryan has played a number of memorable villains in his day ("Bad Day at Black Rock;" "Billy Budd"), but this performance put him on the map. With Sam Levene as the murder victim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7b9a5807aa4209844b8dee9bee7a4336143f7e822e0387bc93df1f82a6a63d0
+size 786

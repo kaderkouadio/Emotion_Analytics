@@ -1,1 +1,3 @@
-Miss Shearers portrayal of Marie Antoinette had great depth. She brought humility and a great deal of human frailty to a character who could be viewed as "above common human emotions." The simplicity and beauty of her performance left me breathless and in tears over the death of one of Frances greatest women. Miss Shearer has given us the human side of this sadly remembered Dauphine "Queen of France."
+version https://git-lfs.github.com/spec/v1
+oid sha256:278d8bb7ab95b92ae6179d876f8393a4dfd2cfc41adc7dcd1d3e44d11ce4b439
+size 404

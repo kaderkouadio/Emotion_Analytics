@@ -1,1 +1,3 @@
-I saw this movie on Comedy Central a few times. This movie was pretty good. It's an interesting adventure with the life of Sunny Davis, who is arranged to marry the king of Ohtar, so that the U.S. can get an army base there to balance power in the Middle East. Some good jokes, including "Sunnygate." I also just loved the ending theme. It gave me great political spirit. Ten out of ten was my rating for this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f0ee62ae15d75198b5b756c03fa715a8bdca4910c3e193b89a07eb678f7ca06
+size 416

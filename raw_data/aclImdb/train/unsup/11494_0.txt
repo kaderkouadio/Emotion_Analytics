@@ -1,1 +1,3 @@
-Gerald Potterton's "Heavy Metal" is definitely one of the best animation movies ever made.It has everything:violence,sex,nudity,humor and intelligent story.Great soundtrack by such hard rock/heavy metal groups like Black Sabbath,Nazareth,Devo,Blue Oyster Cult,Journey,Sammy Hagar,Trust,Grand Funk Railroad etc.My favourite segment from "Heavy Metal" is "B-17"-this one is dark,bloody and creepy!My highest recommendation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d12668701ddf79ac63124ae870737359be2ca31dfdb1348fc1510dda2e521485
+size 421

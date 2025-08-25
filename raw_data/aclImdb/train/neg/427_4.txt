@@ -1,1 +1,3 @@
-> What a dud. It began with some promise, then became unfocused and > wandered. John Cusack's Cajun accent was laughable, Bridget Fonda's role > existed only to get a skirt into the film, and Pacino did Pacino. His entire > generation of actors -- Nicholson, Hackman, Caine, Hoffman -- have developed > a standard performance that each can deliver effortlessly (or, less > charitably, "mail in") in their paycheck films. This was > one. >
+version https://git-lfs.github.com/spec/v1
+oid sha256:91a70535cd9e8d3d85a4e3d7249bdcd5fc59f9a303286efc9597f19c8bebabc6
+size 438

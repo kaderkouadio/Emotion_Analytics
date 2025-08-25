@@ -1,1 +1,3 @@
-A1 acting and casting. Story-line excellent but slightly unbelievable as to the "special effects", such as the escape capsule. Highly rated, nonetheless. Harrison Ford, as per his norm, does a magnificent and highly believable job in his portrayal of the President - Some day we might have a president that is so action-oriented - but I doubt if we would in my lifetime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bcec8fbf0245c184118ce2c7f2bb77fde49e04898c8a7d672435087ac067f30
+size 370

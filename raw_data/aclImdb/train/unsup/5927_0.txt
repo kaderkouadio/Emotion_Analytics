@@ -1,1 +1,3 @@
-I gave this movie an excellent rating because of the story line, the excellent adaptation from the book to the movie, and a truly exceptional cast. Even the incidental music was excellent. I've never heard of the composer but he truly embraced and enhanced the overall mood of the movie. The other thing that impressed me was how there was such careful attention to make sure that it remained true to the period, since this was set in England at the turn of the 20th century. Kate Maberly and Maggie Smith gave absolutely outstanding performances, they truly embodied their roles and it showed. It is a real shame that Kate has decided not to pursue acting as an adult because if she was this good in this movie as an 11 year old she would be a phenomenal adult actress. This movie is high on my list of one of the best ever made.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35f42a0b2d979f3dad9496f25ae1083dcd3763696861f51b83a838b7cb7a34b3
+size 830

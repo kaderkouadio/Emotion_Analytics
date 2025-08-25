@@ -1,1 +1,3 @@
-Now we know where they got the idea of Snakes on a Plane. To put it bluntly, do not pay to see this movie. If you really want to waste 90 minutes of your life, then either catch it on cable, or get it as a free pick from NetFlix or Blockbuster. Do not pay to rent this. If you do pay to rent this, then you are one stupid individual. The acting was awful, the plot was awful, everything was awful except for the snakes. Whether they were real or CGI generated, they did look pretty good. But that being said, still this movie has to be one of the worst movies I have ever seen. Even the nude dancing scene was pretty bad that I actually fast forwarded through that. Don't sat I did not warn you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1310ad49de9f5bd9791e0c4b274048af3e123a3e9f24a581fc0ed64de2d9709
+size 695

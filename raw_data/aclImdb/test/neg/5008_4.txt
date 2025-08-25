@@ -1,1 +1,3 @@
-"Curacao" is a foreign intrigue drama set on the title Caribbean Island which involves a retired sea captain and bar owner (Scott) and a demoted CIA field operative (Petersen). The film has numerous bad guys, foreign agents and thugs, skulking about the pair of protagonists all coveting something Scott has which they want and are prepared to kill for. A lukewarm low budget tv flick, "Curacao" is spiced up with a couple of babes and use some Carnival street parades as window dressing. Little more than fodder for the bored couch potato. C-
+version https://git-lfs.github.com/spec/v1
+oid sha256:840df707508c2b78cb7129e37c60b32dd984e9e689688e61876e7048c3901f1f
+size 543

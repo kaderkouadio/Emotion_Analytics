@@ -1,1 +1,3 @@
-One of the smartest, funniest, and exciting buddy pictures ever made. It has never received the wonderful attention it justly deserves. The performances by the two leads (De Niro and Grodin) are wonderful and they get outstanding support from Joe Pantolino, Dennis Farina, and Yaphet Kotto. But what separates this picture from all the other action / comedies ever made is that the screenplay is so sharp and original. Easily my all time favorite movie - you know how I know that? I must have seen "Midnight Run" at least thirty times and every time I see it, it gets better and better. A true film classic and is getting rereleased on DVD in June of 2003.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9eedfb6b0f528c6a2618ea75ffdab28b91766be067c84161d118e1ab8e1e11e
+size 656

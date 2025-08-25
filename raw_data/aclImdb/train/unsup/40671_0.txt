@@ -1,1 +1,3 @@
-"Boys" tells a flimsy story to which Cochran tries to add mystery by keeping information from the audience and revealing it piecemeal via flashback. Cheap shot. Ryder is found unconscious, after being thrown from horseback, by a boarding school student (Haas) who takes her to his room (yeah, right), instead of the obvious choice, the hospital. You know, HOSPITAL...where you take injured people for professional medical care. Duh. Anyway, this dumbassed flick has a list of negatives too long to go into here. File "Boys" in the boys room and don't forget to flush. (D)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59a6de634c97df09fcfb7b5f76c367e21dd3716635a72c3626a50b8910cd372
+size 571

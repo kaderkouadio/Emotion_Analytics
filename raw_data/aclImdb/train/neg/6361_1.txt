@@ -1,1 +1,3 @@
-Wow this movie sucked big time. I heard this movie expresses the meaning of friendship very well. And with all the internet hype on this movie I figured what could go wrong? However the movie was just plain bad. It was boring and the character development was never there. Space Travelers was also a horrible movie, if you didn't like that movie there is no way you will like this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19ad87b2e2753726ae22553494ee9a0c50933af5291e873c29f2c486dd12dad0
+size 381

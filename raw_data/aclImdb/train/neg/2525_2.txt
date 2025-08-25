@@ -1,1 +1,3 @@
-This movie was, as Homer Simpson would have put it, "more boring than church." Maybe I don't understand it well enough, and I thought it started out pretty well, but after (START OF SPOILER) Hermann Braun is sent to jail and Maria starts working/sleeping with her boss it just started to drag, and I struggled to keep awake. Again, maybe it symbolizes something, but the explosion at the end seemed very forced and out of place. (END OF SPOILER). In the end, I fail to see why others think it's so great, as I found it extremely boring. By the way, I did not watch this movie by my own free will, as I was required to see it for a Film class.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e3c8f1d2e1677eae25865f5bfefd0eb766cdc38c838362d491c10220e6b3f8e
+size 642

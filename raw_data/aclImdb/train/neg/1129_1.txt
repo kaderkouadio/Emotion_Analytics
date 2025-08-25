@@ -1,1 +1,3 @@
-I've seen this film because I had do (my job includes seeing movies of all kinds). I couldn't stop thinking "who gave money to make such an awful film and also submit it to Cannes Festival!" It wasn't only boring, the actors were awful as well. It was one of the worst movies I've ever seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14dae023ea81539aa0b151796bf9cfdd577914d59bc43da5675bf585cff0f66f
+size 291

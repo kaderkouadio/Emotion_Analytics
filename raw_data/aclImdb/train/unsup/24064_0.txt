@@ -1,1 +1,3 @@
-Great fun if you've ever felt a prisoner of your own home, except this one actually talks back, is real jealous, and has a homicidal streak. They don't show you this stuff in those "Own your piece of America" bank comercials where the idyllic young couple works out the financial details with the oh so nice bank manager.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e08b91a11a7b4c3b7b45e5536e4611ef891d7259d8575d2abe034fa7f265cb
+size 321

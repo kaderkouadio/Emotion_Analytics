@@ -1,1 +1,3 @@
-This is a children's movie. Is it a great children's movie? No.<br /><br />But, it is an enjoyable children's movie. Sure Gamera looks like he was constructed at the last second out of an old shopping bag; and, Monster X looks like something that you pulled out of a Salvation Army drop-box. But, this movie has children as the main characters, doing the bulk of the heroics and making the bulk of the sound decisions...<br /><br />There are a tremendous number of plot-holes in this movie; but, if you've got children, and a little patience, you can enjoy ninety minutes of pig-headed adults, brave children and flying turtles...<br /><br />Also, there is a certain resemblance to the science fiction novel Blameless in Abaddon...anyone else notice?...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8245a72134c7208660666fcc78a3935a55a3e15200c08868863fc5823d1621e2
+size 753

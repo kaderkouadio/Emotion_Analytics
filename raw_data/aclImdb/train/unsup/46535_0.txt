@@ -1,1 +1,3 @@
-A terrible exploitation film of the late 60's with a sweet actress in the lead role. The cops are really terrible (as actors and cops). The only standout part of the film is the presence of the incredible Pat Barrington. There's nobody quite like her. This director has made better films (The Agony of Love). The sound quality is particularly bad.<br /><br />The title song is excruciatingly awful as is most of the muzak. As I mentioned, if not for Pat Barrington, this would be totally unwatchable. Ms. Barrington should have played the lead instead of playing the belly dancing stripper. She has attributes the other females in the cast do not possess.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3544651aa3e5896548df04aa090a0e1a3b85d7cd7dd8662d100b8dcc5aad69a9
+size 655

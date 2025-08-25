@@ -1,1 +1,3 @@
-While I'm normally a big fan of John Turturro's work as an actor and director, ILLUMINATA is a great disappointment. Although the film has some charming moments, overall it falls flat. Worst of all, the film is confusing. Where is the movie set? Italy or an Italian troupe in New York? Why bother making a historical film if it fails to convey a setting? If you want to see a well-made, inspiring historical film also about theater, go see Tim Robbins' THE CRADLE WILL ROCK. This movie has many pluses, including a fine performance by John Turturro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08cf7bc6f6c1b0bb4ad7412b0bb895a31fc051896fd4ad2ee3bbc7fae7e49e34
+size 549

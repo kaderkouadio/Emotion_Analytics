@@ -1,1 +1,3 @@
-Good movie! Bad DVD source. :) Jackie Chan yet again. Seems like this guy couldn't have anything more to do with the Kung Fu Movie scene and then i find about 10 more DVDs. If you like Jackie Chan then this is a must see movie. Not one of his best but definitely an original work of Kung Fu Art!
+version https://git-lfs.github.com/spec/v1
+oid sha256:062ac9bc88f2a2bfbe787f1450b1c98c48e62fc034f6016b28465a8c27d8f08f
+size 295

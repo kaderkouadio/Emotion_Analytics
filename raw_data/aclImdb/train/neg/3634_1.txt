@@ -1,1 +1,3 @@
-Boring children's fantasy that gives Joan Plowright star billing but little to do. Sappy kids pursue their dreams. Frankie wants to be a ballerina and a baseball player (yuk) while best-friend Hazel runs for mayor---she's 13! Totally pedestrian in every way, plus the added disadvantage of syrupy performances by the girls as well as the baseball boys. Certainly a lesser effort for Showtime---no limits?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dac6b3d25c70c62ebca211a9a4b2806c632ca7756a36751abf010eba5ef5bca
+size 404

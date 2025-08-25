@@ -1,1 +1,3 @@
-Charles Bronson stars as Lt Crowe a police detective who declares war on a pimp named Duke (Juan Fernandez) who kidnaps the daughter of a Japanese businessman who is the man who sexually harassed Crowe's daughter (Amy Hathaway) in this sleazy yet stylishly helmed revenge thriller. Kinjite may not be for everyone with it's somewhat disturbing plot threads but it is well made and indeed entertaining.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd46332a118b6c1522e9b347c45556f7231c2b83e1094c9a9ca62f90f65d37db
+size 401

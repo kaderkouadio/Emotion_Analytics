@@ -1,1 +1,3 @@
-Rachael Leigh Cook does a tremendous job in this movie, truly making the part come to life and lifting an average movie to another plateau.<br /><br />She has the face of an angel and has a very impressive presence on the big screen. She has the ability to draw you into a movie like only the great ones can.
+version https://git-lfs.github.com/spec/v1
+oid sha256:107cf22842b985daffb9ac7231b2d880662beea06456c3283363bb502b018100
+size 308

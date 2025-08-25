@@ -1,1 +1,3 @@
-I thought that the Farlley Brothers were suppose to churn out comedies? Stuck On You is a one joke movie, and the joke isn't funny. The brothers are conjoined. HA! They do everything together. HA! Walt (Greg Kinnear) has dreams of being a Hollywood actor, but doesn't seem to be able to recognize the obstacle that awaits him. HA! Bob, (Matt Damon) has stage fright and experiences panic attacks. HA! <br /><br />If you take a look at the Farlley Brother filmographies, they only have one funny movie. The rest could be considered witty or clever, but by no means funny. We all can hope that they will one day produce another 'Something About Mary,' but with this latest entry, all were getting is something.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30c273ed332600942ee504467579fd0d020536850f46b159bf6afa290b1f4d68
+size 708

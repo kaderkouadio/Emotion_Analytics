@@ -1,1 +1,3 @@
-It built steadily, kept the suspense increase well paced and kept you guessing. Too many people don't let themselves 'go' into the experience; it's been a long time since it's been 'squinting through fingers viewing'. Advice? Don't read up or have a clue about the film, drop yourself in and enjoy the fear. The premise should of been kept up and down to the wire; right to a finale, that would have seen a 9 or 10, once it hit the knowledge horizon it fell away fast and trickled into a fade. Why people are beating up on DeNiro for this is a puzzle, he did as was required by the part and as for thinking him god like and untouchable so, 'why did he do this': Analyze This??
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fdfc7db00fbc58e535f788b3d825b83b23195bce1a2365cf5dfc0a4bb538b39
+size 676

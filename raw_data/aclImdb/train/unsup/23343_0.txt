@@ -1,1 +1,3 @@
-The story about four men in their mid-life crisis is well written and does not loose focus at any moment. Convincing actors. I did not like the scene with the prostitute. All scenes are realistic and seem to come out of really every-day life. The psychology of the friends is well described by strong dialogue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e306bc616e9d499bbced6cb043f4870cb52f63f318eb695b8c8e870ed90c99
+size 310

@@ -1,1 +1,3 @@
-Nothing. <br /><br />This movie is an action masterpiece. <br /><br />Watch this movie, The Killer, and Bullet in the Head, and then cry when all the mediocre action movies and pale imitations you've been subjected to throughout the years get ruthlessly bitch-slapped across the room and forced to beg for forgiveness.
+version https://git-lfs.github.com/spec/v1
+oid sha256:818f3fd43c5cc7fb9c296df7e939c1b7e865c7ebc1e8761ad169a0ddfaeb59c0
+size 318

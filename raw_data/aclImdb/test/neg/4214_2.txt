@@ -1,1 +1,3 @@
-This movie was NOTHING like the book. I think the writer of the screenplay must have wanted the job of writing the sequel to Gone with the Wind and been turned down. This was his or her way of getting their ideas in anyway. The only similarity between this movie and the story it was portraying was the names of the principle characters and the location of the main action. None of the events that are shown in the movie happened that way in the book. For a Gone with the Wind fan (of both the book and the movie) this was deeply disappointing. If you loved the book Scarlett, don't watch this movie hoping to see it played out on the screen. They only share the title in common.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5f6c54a7ff00dda06ec810391d42ef430e3bc1fe4d457c131173f8e861b365
+size 679

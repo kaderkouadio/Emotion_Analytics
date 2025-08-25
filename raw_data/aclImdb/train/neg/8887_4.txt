@@ -1,1 +1,3 @@
-Good films cannot solely be based on a beautiful garden and a hill top. Surprised to see it has won two awards. Extremely overrated. I first saw that kind of films from China, visually stunning BUT also with really something captivating to say, well, more than 10 years ago and I'm sure there are still more coming up. This is not one of them, I'm afraid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93cf9eb95a864aef6f5d1610cdffb409fb0f075405f71222ac21d1b767967fce
+size 355

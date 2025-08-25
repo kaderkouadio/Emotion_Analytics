@@ -1,1 +1,3 @@
-I thought this film was excellent, quirky and different to the usual run of the mill 'disengaged cop catching serial killer' film. Kiefer Sutherland was brilliant as usual - I really don't think I have seen anything that he has done where he has not acted brilliantly. The dialogue was funny at times lightening the mood, and the plot engaging. Thanks to other reviewers for showing the link with Alice in Wonderland - I hadn't picked up on those. I would recommend this film to anyone who is a fan of Kiefer Sutherlands (as I am) and to anyone who wants to watch an entertaining film for a couple of hours. It was a shame that it wasn't released at the cinemas for a wider audience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec109fb6cf9d84e73a6a9f123416eae77649f25dedcb98b67c9f74e9f427130d
+size 683

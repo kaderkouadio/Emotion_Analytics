@@ -1,1 +1,3 @@
-the friend who lent me the DVD warned me, but it beat all my expectations of lowliness. this film is unspeakably bad. don't go and see it, take my word for it:<br /><br />* it has no plot.<br /><br />* the 'actors' suck huge rocks. really huge.<br /><br />* travolta doesn't even try.<br /><br />* the most elaborate dialog revolves around the sentence 'grumble mumble'.<br /><br />* special effects are the worst ever, because they pretend to be serious.<br /><br />* costumes and characterization make space: 1999 look excellent<br /><br />i could go on and on and on, but i'm beginning to feel sick just for having to think about it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2035d67b8c15ef395e20eca96e3f1c7292cd0dfed9c6ecd60db6c0f178efaaa3
+size 636

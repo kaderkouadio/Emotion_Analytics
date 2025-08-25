@@ -1,1 +1,3 @@
-Audrey, I know you truly cherish your husband Ted's memory but PLEASE do his legacy justice and heed his wishes. Dr. Seuss refused to license his characters during his lifetime for a very good reason. We beg of you to please stop cashing in on his stories, images, fantasies and characters. They are getting disemboweled by the powers that be of Hollywood and Broadway. The children of tomorrow will be stuck with these histrionic and grotesque interpretations that will forever pollute the loving warmth and innocence of his books.<br /><br />It is indeed your property to do with as you wish. I just wish you would listen to the advice of others for a little while. Save what is left of Dr. Seuss. Thank you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9075a78e387ec4d6df72c59ac9ef1d573e647328a82474bf12cd151e91f119d3
+size 710

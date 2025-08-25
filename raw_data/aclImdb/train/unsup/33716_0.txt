@@ -1,1 +1,3 @@
-There were way too many holes in the plot to make this movie worth watching for everyone that likes the actors or genre. The only reason I watched the entire movie was because, as a woman, seeing the massive revenge against rapists was very satisfying. One of those rare moments in which the woman isn't continually re-victimized. I thought Oldman's performance was a little more natural than that of Rhames, but his was still decent. I can't say all women would gain anything by seeing rapists tortured. It's dicey. I gave it a 3 out of 10. My feeling is that veterans such as Rhames and Oldman should have seen all of the mistakes in dialog and plot consistency and maybe passed on it altogether. If you're up and bored in the middle of the night while it's on a movie channel, you might as well watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7502067f675887164890b652c451526830ba6e7067d04a2e060dd0c4d6fd3b02
+size 807

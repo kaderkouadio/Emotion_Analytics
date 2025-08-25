@@ -1,1 +1,3 @@
-I had high hopes for this movie. The theater monologue is great and Nic Balthazar is a very interesting man, with a lot of experience and knowledge when it comes to movies. <br /><br />I am a fan of a lot of Belgian movies, but this movie is bad. It's completely unbelievable that actors who are 34 are suddenly playing the roles of teenagers. The "linguistic games" were hideous and over the top. Nothing about the film seemed real to me. The ending was way too deus ex machina for me.<br /><br />I am very disappointed and think I wasted an hour and a half of my life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a90fbbd7c326f805ba7724c5d557c0154a7000f94aabe3f5f1de6b69819f7873
+size 570

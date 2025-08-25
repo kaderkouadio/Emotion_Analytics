@@ -1,1 +1,3 @@
-Sometimes I just want to laugh. Don't you? No analyzing, no critiquing and no looking for deeper meaning. Rent this movie, watch it all and laugh your ass off. Don't want to admit you liked it? Fine. But don't trash it here when you and I both know you liked it. It's Damn funny!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f23f07c8e9a639656e514aa948dc3e7d15809c01c0c833f107b8b2447fb0c271
+size 279

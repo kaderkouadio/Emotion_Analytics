@@ -1,1 +1,3 @@
-I really liked 1996's 'Mission: Impossible'. Now here is the antithesis of the first movie: 'Mission: Impossible II'. The first film was a tight, smooth thriller that barreled along at warp speed, and was a nice break from conventional Hollywood action thrillers. 'II' pretty much IS a conventional Hollywood thriller.<br /><br />Almost nothing from the first film has been picked up here: Tom Cruise? Yes, he's back, but he's not a spy anymore. He's James Bond, minus ANY cool gadgets or charisma. The awesome theme music? Gone, replaced with a horrible rock score. The action is typical Hollywood: Slow-motion gunplay and martial arts.<br /><br />Ugh, I hate this movie! The acting and dialogue is lame, the techno-rock score even lamer, and the action scenes are mundane. Here's hoping 'MI: III' won't be as cringe-inducing as this disaster.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca6f76d6aa95dc337741a8e519aa0602eeb3c238b939eee7a757a83862c56a9
+size 844

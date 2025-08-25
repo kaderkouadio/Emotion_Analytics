@@ -1,1 +1,3 @@
-Half of the movie is is flashing lights and shaky camera. The rest is made up of predictable characters (think science vs. government, 'know-how' vs. authority, etc.) <br /><br />What is the worst aspect about this movie? Is it the cars being thrown around in the first 5 minutes, is the horrible 'Russian' accent of the 'cosmonaut', is it the uninspired characters, the poorly integrated Top 40 hits, or the "US will save the world" vitriol? No. It's the fact that regardless of the "sad" ending - there is very little suspense in this movie - we basically know what's going to happen.<br /><br />The one good part of this movie: "American components, Russian components: all made in Taiwan!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:017e3b9cfd4a0fa0031c046072a79c69e52c2899b46dd75e1f7c4d85ea5bcde2
+size 693

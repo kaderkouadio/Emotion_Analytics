@@ -1,1 +1,3 @@
-What can I say? Curse of Monkey Island is fantastic. The story is good and solid, but appropriately silly, the jokes are hillarious, the puzzles are puzzling... you couldn't ask for more in an adventure game. The "You don't need to see my identification" bit is in itself well worth buying the game for, not to mention Murray, who has become the hot topic among many of my friends (only some of whom have played the game). You will love this game. And if you don't, too bad!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e907f9c7170f597340a0179382e80e9beaeed6ee3f5971b9a78963c777878160
+size 474

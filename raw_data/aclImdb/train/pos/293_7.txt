@@ -1,1 +1,3 @@
-What could be more schlocky than the idea of private detectives getting involved with the women they're supposed to be spying on? And most of the dialogue as written is perfectly banal.<br /><br />But the actors turn the dialog into something that makes sense. You can see real people behind the unreal lines. And the directing is wonderful. Each scene does just what it has to and ends without dragging on too long.<br /><br />I showed this to several friends in the mid-80s because I was perplexed at how such bad material could be made into such a good movie. The friends enjoyed it too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09d54042837a322b80a2eeb48915d11bd40fb2f076638d7b90a2d02afd0f3cc9
+size 590

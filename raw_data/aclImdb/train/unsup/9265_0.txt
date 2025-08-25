@@ -1,1 +1,3 @@
-This movie, based on a real character (Mahsun) and story, takes place in the place I live today (Rumelihisari - European side of Istanbul). It is a story of an outsider living in the streets, drinking, helping out an addict whose he's in love with, stealing cars to sleep in them not to get cold in winter nights and cleaning them before driving them back to where he steals from. Music is extremely charming and puts you in a melancholic mood. <br /><br />It is a story of loneliness, and a story of innocence that is so real that you can't get away from watching it once started. Dervish Zaim made a tremendous work. I love this movie. And congratulations to the production.
+version https://git-lfs.github.com/spec/v1
+oid sha256:faa5bb4bd0c3916ad3ace7833bb9f3f04bc7fce2eed584667ecfdebd25aca6f7
+size 676

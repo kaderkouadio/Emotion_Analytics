@@ -1,1 +1,3 @@
-There are plenty of movies I can think of that I wished were a little (or a lot) shorter. Trees Lounge however presents mme with one of the rare movies that I wish were longer. I wanted this movie to keep going, I wanted to see what else would happen to the characters. While the film doesn't entirely paint the happy bar room existence that Barfly did it does make a pretty accurate portrail of good portion of the drinkers culture. Every actor in this movie hits just the right note especially Chloe Sevigny, who has never looked more fetching. One of those silly Baldwins even turns in a fine performance. Steve Buscemi wrote and directed this movie and I shall be rather intrested in any subsequent work he does in either field.<br /><br />10 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e1f462a120aafde2ed68f3716233678d2c75adbb07f90467db5b7e74a11d59e
+size 757

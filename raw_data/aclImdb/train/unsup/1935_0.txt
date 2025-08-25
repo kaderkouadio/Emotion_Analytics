@@ -1,1 +1,3 @@
-What can I say? It has horrible acting, beyond amateurish dialogue, sub-par special effects and you know what.....I've seen it about 50 times! It is so campy and awful that it is good! I definitely think this ranks right up there with Showgirls as one of the all time so bad its good movies! Special mention goes to Dennis Quaid, one of my favorite actors, for looking like he's in on the joke!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9504adc8a1044a3fe16f976daf7da42852b8ac3985292d16ac40dc58840b80d9
+size 394

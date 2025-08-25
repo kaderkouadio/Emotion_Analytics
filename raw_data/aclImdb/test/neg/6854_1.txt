@@ -1,1 +1,3 @@
-Would someone explain to me when the Ghoulies learned to speak? This was a horrible film, I loved "Ghoulies" and "Ghoulies 2", but what's this? Unless you want to kill yourself, please stay away from "Ghoulies 3". On a scale of 1 to 10, "Ghoulies 3" gets a 1!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0250fa4ba883c445a2d9887d58004fda46c8fc3e8240942001e4dac12ca22665
+size 260

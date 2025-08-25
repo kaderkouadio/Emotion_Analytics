@@ -1,1 +1,3 @@
-If you're reading this, then you're probably a fan of Park's previous films and like me have seen the first two films in his revenge trilogy (Sympathy for Mr Vengeance & Old Boy). Mr Vengeance was good; Old Boy was just brilliant and so expectations for this final episode were sky high. Sadly this film misses the mark big time. The plot is confusing and lacklustre; the flashbacks are badly handled and when you get to the end of the movie you feel like saying 'so what?' It lacks any tension whatsoever. Maybe I was expecting too much. If you want to see a really stylish Korean film from 2005, check out 'A Bittersweet Life' instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6c5a3aba11f1fa243b28111a669d58e950f734fc380bc6d3edfaf500bb2ae9d
+size 637

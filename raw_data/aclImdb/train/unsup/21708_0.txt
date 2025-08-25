@@ -1,1 +1,3 @@
-STELLAR lineup of first nations talent, AWESOME animation, FASTIDIOUS attention to detail on part of the Director, truly FINE content which speaks from the HEART of all first nations peoples. Dreamkeepers is a coup, it speaks to everyone who cares to listen about the resilience and gentle spirit of Native American Peoples. We have waited a long time for the message of human compassion that this kind of pow-wow brings! And the closing pow-wow scene is worth every minute of the 4 hour wait...Mitake Oyasin!
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b81678ff6624f0e988febac181f4db7aeb8e8c15b45111861b975e37e1dc4f
+size 509

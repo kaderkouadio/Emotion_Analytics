@@ -1,1 +1,3 @@
-Either I'm getting too old and out of touch with reality or most of the reviews and votes on this website are done by industry paid shills. This is certainly the worst movie I've seen in a while. Murrray's deadpan can be funny but only when he's juxtaposed with either an outrageous situation (Ground Hog Day) or with outrageous people (Ghostbusters). In this case it just doesn't work.<br /><br />I know that actors have to take chances on scripts and that sometimes it pays off. This time it didn't. I feel embarrassed for Dafoe, Blanchett and the rest. Oh well. This thing is a turkey. You've been warned!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9a1eb3ddcdc88916d2fd9d9151e624082335f7e0980a5932d51ea7440b5b181
+size 608

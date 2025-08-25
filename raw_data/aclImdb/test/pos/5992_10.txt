@@ -1,1 +1,3 @@
-Romuald et Juliette is one of those French romantic comedies where they seem to break all the rules, rather like Trop Belle Pour Toi. The gorgeous Daniel Auteuil learns about true loyalty and love when his life threatens to crash around his ears. The film isn't a preachy morality tale, but a wonderful story that will keep you hooked until the last. Firmine Richard (as Juliette) is a heroine that women will cheer - her laughter is my abiding memory of this warm and witty film. The down-to-earth way she has of including all her children by their different fathers - particularly the birthdays - gives the film an edge that lifts it above your average romantic comedy. But its always the French that seem to show us how effortless this all is!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d24be2068eb32ca81e8339015024b621adb75de79648b57fb82e4b908bdf5c3
+size 746

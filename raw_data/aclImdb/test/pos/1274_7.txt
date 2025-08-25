@@ -1,1 +1,3 @@
-A suprisingly good film considering the circumstances of its production. Features performances from no-name actors that rival the top talent on the planet (sadly none have persued a career). <br /><br />Also features the the god-like ability of Christopher Nolan to write perfect dialogue. Dialogue is what carries this story, which is about a man who likes to follow people for material for his books. Well shot, VERY well edited, even better written, and amazingly well performed.<br /><br />This movie has everything a great film needs, except people who have seen it. 9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:8791de773a353806425ad5225c85e1dd7a0e397a3ef45a26023215dfe14c4436
+size 576

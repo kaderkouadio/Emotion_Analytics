@@ -1,1 +1,3 @@
-Another Barbie movie. And guess what? Kelly Sheridan is also in this film. Before I ever ran across the Barbie movies, I would have never heard this name, but that is the miracle for being willing to watch any movie out there.<br /><br />Anyway, its just a Barbie version of the "Prince and the Pauper" that has been done so many times before. Except this is a GGI Barbie version with a twist: somebody is trying to take over the 'Barbie kingdom'. Yes, very exciting.<br /><br />Overall, except for the two couples at the end, the story followed the traditional format. Not much to see here. "D-"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7229a36694aa3e7b2d9f3298b1cd09eeaf8966db2987475a535f4642c4b2ced
+size 596

@@ -1,1 +1,3 @@
-This Was probably the one of the best movies i've ever seen. It is a bit of everything eerie,scary,Psychological, and shocking. When i first saw the tcm i was on the edge of my seat. None of it's sequels can compare to the First tcm and, i heard there making a remake it will be nothing like the original.This was a very good movie and, i recommend it to anyone who's in for a real scare. 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e90617f6d37b136b0032c9d26ba702aec94a153eb7994a7cc607e84b2224396b
+size 394

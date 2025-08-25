@@ -1,1 +1,3 @@
-dark angel rocks! the best show i have seen in ages damn those people who took it off! me and my friends have gatherings to watch every DA episode! takes like 4 days but it is worth it! it finished before it finished what it wanted to say and that annoys the hell out of me!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04671f5ac0f45c1391a5a683d644e1be5d1b3f7b9bccb81892f9c80cce7f822
+size 274

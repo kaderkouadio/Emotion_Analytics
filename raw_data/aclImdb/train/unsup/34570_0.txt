@@ -1,1 +1,3 @@
-I like slapstick if done well, but it certainly isn't in this idiotic "comedy" about two twin brothers in different life situations switching roles (boy, compare "Trading Places"). Neither the slapstick nor anything else in this movie is funny. Perhaps the pie fight is a minor redeemer, for even tho it could be better in certain ways, it is so long and thorough that it is somewhat enjoyable. It is also tainted by the stupid antics, however. If you've seen "Spy Hard" and did not like it, do no see this. You gotta be nuts to like this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0639313689787766c49cb1fb7f0bfedf03956602f41e42c9db9c77c23028d954
+size 544

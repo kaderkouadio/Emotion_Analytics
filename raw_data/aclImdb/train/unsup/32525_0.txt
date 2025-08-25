@@ -1,1 +1,3 @@
-This is the story of a woman of great courage and compassion. The acting was excellent. I, however, felt clubbed to death by every anti-Jewish cliche known. I lived in the mid-west during the time of this movie's setting and had several Jewish friends. I rarely ever saw the unkind responses shown in this movie. In fact the only times that I ever heard negative comments about Jews were in a few adults who were prejudiced about equally between all the groups different than their own. In this regard, the movie is little different than many "black" movies that go to extremes to show victimizing of their class.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f1df65af5d3215962b55b9bf69643ee8b0082f8147707cd46b48bea4efcb349
+size 613

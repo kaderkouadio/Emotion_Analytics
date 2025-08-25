@@ -1,1 +1,3 @@
-How 'Thursday' managed to avoid attention remains a mystery. A potent mix of comedy and crime, this one takes chances where Tarantino plays it safe with the Hollywood formula. The risks don't always pay off: one character in one sequence comes off inappropriately silly and falls flat. In the lead role, Thomas Jane gives a wonderful and complex performance, and two brief appearances by Mickey Rourke hint at the high potential of this much under- and mis-used actor. Here's a director one should keep one's eye on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a55949c81c540554af29ffafc5e770cf68084431033a8ce94276e039dec7151
+size 516

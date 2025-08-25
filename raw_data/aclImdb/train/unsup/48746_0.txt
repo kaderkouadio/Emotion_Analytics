@@ -1,1 +1,3 @@
-I couldn't wait for this movie to end (the other two people I was with liked it better so I couldn't leave). In the words of Jay Sherman: "It stinks". It has a few funny moments. Most of the humor is cheap sexual humor - watch any TV sitcom and you'll get the same results. Save your money at the theatre and the video store - if you're looking for funny from this Shandling flick, try Albert Brooks or Woody Allen instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ac71d96a132b509340011106e6e3d56eab27bdb2515c3b224b35db17a0c9687
+size 423

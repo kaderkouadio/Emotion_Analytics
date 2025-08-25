@@ -1,1 +1,3 @@
-Having seen the first film and enjoyed it so much I couldn't wait to see the sequel, however, I couldn't believe the out come.<br /><br />The only thing that connects this to the first film is the title and setting, anything after that is Cohen's own creation. Which is a good thing.<br /><br />The more depressing first film with it's downbeat ending is replaced by a much more comic film with great dialogue.<br /><br />The special effects are poor, however, the joy of this film is in the writing and humour. Samuel Fuller as Van Meer is particularly good and is given the best lines in the film.<br /><br />For an excellent well made horror film watch Salem's Lot. For a hilarious comedy horror look no further than A Return To Salem's Lot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1837abdb70e2c8ce73f5fc5a78bb4a95094fb7bd30e603b48dff62d30a24af3
+size 744

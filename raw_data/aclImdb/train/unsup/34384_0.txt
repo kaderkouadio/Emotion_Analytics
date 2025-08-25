@@ -1,1 +1,3 @@
-belongs in the category 'better never done'.<br /><br />dreadful writing, horrible directing and wooden acting. it feels like the actors were wheeled out on stage, given their lines, filmed, and then wheeled off.<br /><br />i get the feeling most of the fantastic non-acting talent that made the series so wonderful had gone missing from the production. no wonder why.<br /><br />doesn't come close to any of the great "classic" two-part episodes done in the salad days of the series.<br /><br />what a disappointment.<br /><br />well, i guess the only redeeming feature i can think of is that they bring the replicators back. shades of better days!<br /><br />oh, and the use of arnold's original theme -- nicely scored, if nothing else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a597f4d132b2729883ff2d130eda89893448026f3a6df65e4797c96e6dfe7e64
+size 738

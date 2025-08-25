@@ -1,1 +1,3 @@
-This is one of Stan Laurel's best solo comedy's, before the 1927 teaming with Oliver Hardy. Laurel is a very good actor in the film, and provides good comedy. The best scene in the film is when Stan dances with Mae Laurel (his real-life common law wife), at the Cafe Espanol. Stan does silly dances that are funny, without you hearing the music. I will recommend this to any Stan Laurel fan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04ea86f215384d3da6ab141caab0d9d65a2d167dcc26fc57c34f2a7cbcbdcb44
+size 391

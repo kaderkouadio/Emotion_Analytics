@@ -1,1 +1,3 @@
-As fresh in a tired genre as the original 48 Hours was, this movie really sucks. Is a top-five exhibit for the contention that Hollywood's standard for enjoyable and believable scripts is (inexplicably) far lower for sequels to successful movies. Some of the worst movies in Hollywood history are sequels to some of its best films - start with this and include Halloween II(may be the worst major movie ever made), Jurassic Park II(ditto), the Beverly Hills Cop rehashes(shiver), Caddyshack II. Yecchhh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59edbae81b1e260441fa47df33f15e080d6195bf0e131ebff44d2b313c7a6dde
+size 503

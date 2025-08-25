@@ -1,1 +1,3 @@
-The movie takes place five years after the events of the first film. None of the cast from the first film return. The Welch's have moved into the house that Nancy once lived. I didn't like Nightmare 2 has much.. The movie is about Freddy trying to take over the body of Jesse. The movie has great special effects by Kevin Yagher. Robert plays the bus driver in the beginning of the film. The film picks up during the last half of the film. Nancy is only mentioned in a diary that she left in the house that is found by Lisa and by Jesse's best friend Ron. This chapter in the series is for die hard nightmare fans only. I thought the third one was better and it brought back the Nancy character back and the dad back. So I would skip part 2 all together.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db7b5e59b188de3623111b8fd5661e12d207ed40f12d3ca750ae6bc6485f8e9c
+size 754

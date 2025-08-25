@@ -1,1 +1,3 @@
-Such energy and vitality. You just can't go wrong with Busby Berkley films and this certainly must be his best. Of course the choreography is wonderful, but also the banter between Cagney and Blondell is so colorful and such a delight. Don't miss this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b53fecbc97f3a569acb4fddba00ccfb755f3a7e277c333d4cf5de77db228a12
+size 256

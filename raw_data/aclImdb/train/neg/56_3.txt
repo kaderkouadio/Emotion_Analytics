@@ -1,1 +1,3 @@
-Outlandish premise that rates low on plausibility and unfortunately also struggles feebly to raise laughs or interest. Only Hawn's well-known charm allows it to skate by on very thin ice. Goldie's gotta be a contender for an actress who's done so much in her career with very little quality material at her disposal...<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0d2febd58245468074242814e5549113c4b823091a692177f6921f33a70a65
+size 330

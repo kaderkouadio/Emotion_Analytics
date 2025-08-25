@@ -1,1 +1,3 @@
-This is a great film! I first saw this movie at age 8 and still love it and keep it in my personal video collection. The twins are well cast even though they are from illinois and Errol Flynn is always entertaining as the swashbuckling hero. Well directed with great music. A must see for any classic movie buff. 9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:840a9e87813c135be0474411bdda9076288cc691625454a00e3281ef02063a12
+size 317

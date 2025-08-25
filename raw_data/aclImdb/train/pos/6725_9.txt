@@ -1,1 +1,3 @@
-Noll's comfortable way of rolling out blunt comments, often with expletives, to describe things that he is more knowledgeable about than most is quite refreshing. There is one other character in the film that constantly tries to verbalize complicated issues, using more language than necessary. This guy should never have been given a Thesaurus. Cut to Noll and you know you're in for a treat!<br /><br />The way the pioneers of big wave surfing are portrayed is very evocative of a "lost era". Nevermind the fact that no one knows how these guys made a living, much less took care of issues like medical care. The use of old film clips throughout was masterfully done.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aed560cd95a8e958846fef7de3e0a4d9559a2eedb7802e08d3147d1d5b827c3
+size 669

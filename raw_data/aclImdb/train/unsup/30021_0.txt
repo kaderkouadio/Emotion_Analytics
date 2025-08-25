@@ -1,1 +1,3 @@
-I saw this movie when I was in the "game" that was played in the movie. I was with a group of men in a foreign land though, not in England with a group of women. Lord knows I would have preferred the latter. I have not seen this movie since the 70's and would love to acquire a copy of it. What does it take to get a DVD made?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1928434455fc5a9762d30a5fc23a69ee72b3709f3065ab7ac2231889b0924b3
+size 326

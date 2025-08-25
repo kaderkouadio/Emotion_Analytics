@@ -1,1 +1,3 @@
-As a die-hard Hitchcock fan, I reluctantly watched this film expecting a less than commendable remake. To my utter surprise, I was more than wrong. This film was very well made. It effectively brought Dial M into the nineties. The plot was actually plausible. Another surprise for me. After hearing the difference between Perfect and Dial M I thought it outrageous, but it works. Douglas and Paltrow's chemistry make the couple seem truly what the screen portrays. This movie was indeed a pleasure for me to see. Like Hitchcock's films, I'll watch it over and over again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9279de7500e4fd6f88c80a1bbbb31ed4672c426cf81d75b0d022cc4a957cd93f
+size 571

@@ -1,1 +1,3 @@
-I've heard people who say this movie is dull dull dull. I don't think they were watching the right movie. This isn't the prototypical action movie, thank God.<br /><br />This is a psychological drama about the rookie and his mentor that just happens to be about killing people. In this way it works extremely well, with terrific performances from Berenger and Zane (who doesn't sleepwalk through the movie like he has in other roles - he actually looks like he's acting).<br /><br />I was disappointed with the action towards the end - a lot of it didn't make much sense and was unsatisfying given the buildup from the rest of the movie. But watch Zane's face as he panics, alone, while Berenger does the dirty work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ef15643addb1e8f83231cd026ed5911f838bf52e2eb2d55d0b3e631bd5f23e
+size 716

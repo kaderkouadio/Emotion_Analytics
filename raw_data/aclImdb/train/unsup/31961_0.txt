@@ -1,1 +1,3 @@
-This must be one of the best movies ever made. Boorman shows with this movie what a great director he is, and I can't wait to see his new movie with Brendan Gleeson and Jon Voigt. Boorman has an excelent eye for how to make art-work of a movie and Excalibur is no exception. He has put together some not-so-famous actors, and yet he managed to make them more trustworthy than most of the more famous actors. It is just sad that it doesn't seem to be Boorman who will be making the saga "Lord of the Rings" into an epic movie. My recommendation to all is: watch this movie and forget about the newly shot mini-tele movie with Sam Neill.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a23f85c38afe913ef20e028f9fd28bfecb1a59608a0335202cd1aba0a0cb9d2
+size 635

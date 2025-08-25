@@ -1,1 +1,3 @@
-The movie is bad. Nothing special - just a "kid" movie with no serious thing in it. There is though one reason to watch this for: the animal talk. Some of them are so funny in what they say, you just can't stop laughing. So if you want to hear a dog in the dog pound saying "I'm Keyser Soze", or another animal saying "You're a dead cat walking", or many other funny one liners, see it. Cause there's no other good movie to watch it. Vote: 4 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b22a5491ba94a77d53f6abfa587a227d8eb117334a4318db7a9f7cc66baa017
+size 452

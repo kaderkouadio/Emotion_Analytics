@@ -1,1 +1,3 @@
-If you seen Rodney Dangerfield's previous movies and performances, you'll recognise several of the jokes made in this odd piece of dreck. Written like a sitcom, this movie fails to strike any sort of likeable chord throughout, from the self-help doctor played by the aways sexy-as-chopped liver Molly Shannon to the 'I'm fat, and therefore funny' John Linette. The 5 wives themselves are likeable enough, and if this had been done as a pilot for an action-adventure series, it might have worked. Instead, it comes off like a male fantasy that's trying hard not to be politically incorrect.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c75d58f8166f0be3cc2f37ada3cea2d4f87e7680350bb79846eff10a0dfeac2
+size 589

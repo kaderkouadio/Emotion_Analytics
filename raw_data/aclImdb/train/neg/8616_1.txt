@@ -1,1 +1,3 @@
-Rodney Dangerfield is a great. He has done a lot of great works. But this one....is awful. The whole plot is whack. It could have been much better. The jokes in the movie aren't funny....their stupid. This was very not so hilarious. He can do much better than this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60fd9c56e2f0acbc8b0dfd4948b88e0b9cf8171906c3a8a8d70b0dbd24be5c50
+size 265

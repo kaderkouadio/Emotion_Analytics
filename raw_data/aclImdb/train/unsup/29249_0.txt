@@ -1,1 +1,3 @@
-I am born and raised in Bucharest, Romania, where this film was made, so most of the locations were very familiar to me and I enjoyed seeing them on screen. Otherwise, I see too little reasons to pay for a ticket to see this film, and even as an action rental it is average minus. Wesley Smith deserves better scripts, this one is complicated and fuzzy, and the rest of the actors did not help at all in making it less confusing. There are no real characters, just stereotypes, and almost everything that is planned to be a surprise is quite easy to predict in advance. Car chases repeat themselves in lack of something else, and the effects are the ones we were used in such films 20-30 years ago. Even for a low budget film, this one is too routine to be interesting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:240f7552c1236a39f032b4e618375c5e6fab7e2764925adc81b318adf912eb3e
+size 769

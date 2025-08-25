@@ -1,1 +1,3 @@
-If you are looking for a phony Hollywood action movie, this won't be one for you. If the Truth is what you seek, rent or buy this. From a true story, the movie attempts to capture the heart of what was/is happening in South Africa (and many other places).<br /><br />For historical knowledge, this rates up there with stories such as "The Pianist," "Schindler's List" or "Nuremberg." Millions of people today have no clue what apartheid is or that it even exists. This movie may help them learn, and may even help them dig deeper.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09d80bc296cc7139b77407350ab91b8597172f5ab55156ac72f72779ab4d4afc
+size 530

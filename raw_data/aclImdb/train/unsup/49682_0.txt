@@ -1,1 +1,3 @@
-The film is speculation treated as fact.<br /><br />While horrible things happened and continue to, to lead the viewer to believe this is exactly what happened is simply dishonest.<br /><br />Where was the criticism of the residents?<br /><br />After viewing the film it is obvious the films creator is against the US rebuilding Iraq, and has offered this film to help inflame the situation and promote further bloodshed.<br /><br />A true documentary would have at least had real people from all sides putting their story forward without leading the viewer to the directors point of view only. As it stands we are left not knowing anything about what may have happened, and belittles the fact that people were killed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:523395a0237eb3b3cfe0691fc7dc70d5506d344652bcc102d76688082126b649
+size 718

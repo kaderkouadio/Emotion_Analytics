@@ -1,1 +1,3 @@
-I cannot comprehend how this picture was allowed to be made. It is mostly, if not completely, inaccurate so much so that the main character does not even resemble how history has him look physically. This movie made me go on the internet and go through my books to make sure I remember Nero's personality correctly. For God's sake, I have a book that lists Nero as one of the most evil person's of the world and the movie made me feel bad for him. I must say Aggrapina's character seemed close to my understanding of her, both physically and psychologically. Although, the actors all did a good job, the movie was terrible and I'm sure I will not watch any others made by this sorry team.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b4c565e3c9cc7f75a7a1575858ca10db53d182fb2a2abced89891fc4df12a48
+size 688

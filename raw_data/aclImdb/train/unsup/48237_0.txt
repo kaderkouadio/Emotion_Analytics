@@ -1,1 +1,3 @@
-Wow! I didn't think they made movies this bad anymore. This movie looked like it was made for cheap network TV. Every aspect of this movie was bad. If you have time to see a movie please see something else. Time is precious, use yours to see something better - shouldn't be a challenge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f25e684757ad01871a88b1d276752edecb079efb4f42ee130f2b0887f5b2149
+size 286

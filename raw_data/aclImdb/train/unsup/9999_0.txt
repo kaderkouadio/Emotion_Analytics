@@ -1,1 +1,3 @@
-Watching Time Chasers, it obvious that it was made by a bunch of friends. Maybe they were sitting around one day in film school and said, "Hey, let's pool our money together and make a really bad movie!" Or something like that. What ever they said, they still ended up making a really bad movie--dull story, bad script, lame acting, poor cinematography, bottom of the barrel stock music, etc. All corners were cut, except the one that would have prevented this film's release. Life's like that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46609a30589d0bee602b7475f151745d5de5e1f7e52318b8e7259d4dc86451c4
+size 494

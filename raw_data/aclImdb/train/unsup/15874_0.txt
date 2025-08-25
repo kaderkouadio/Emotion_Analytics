@@ -1,1 +1,3 @@
-Not great by any means, but this sleeper, buoyed by a terrific performance by Robert Duvall, is very entertaining. Duvall is a suspended cop tracking down the killers of his partner. The quest leads him to a very sinister Puerto Rican mafioso (Henry Darrow) and more gunfire than you could imagine. The competent but mostly unimaginative direction is by Howard Koch (though he does stage a pretty exciting chase sequence involving a NYC transit bus). The supporting cast includes Verna Bloom as Duvall's long suffering girlfriend and Eddie Egan as his crusty yet benign superior. It's occasionally rousing, never really dull and fairly fast moving. The faux funk music, which is unbelievably intrusive is by J.J. Jackson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e40fedd2c4858bc8d9b03a793d1896a294a977462a92a2111ec47e734f842cc
+size 721

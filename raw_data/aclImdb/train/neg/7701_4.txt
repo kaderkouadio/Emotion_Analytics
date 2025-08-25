@@ -1,1 +1,3 @@
-The original show was so much better. They should have left on a good note. This movie killed the whole idea. It was boring, over-dramatic, and the funny parts were too far in between to make up the slack. This movie really seemed like it was trying way too hard to be serious, and that was definitely not what I was wanting from this sequel. Not to mention, that for a long time it was just depressing about the same thing over and over again. So, sorry, Tyler Perry, but try harder next time. This movie is just kinda dull, and not that funny either. Sorry. 4/10 stars is it.<br /><br />Jay Addison
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a3331b9da9a8b28c03c561438c820dacac11288e2bb50102135a8f18e43f2ac
+size 600

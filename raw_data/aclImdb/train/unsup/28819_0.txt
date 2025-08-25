@@ -1,1 +1,3 @@
-This well written script was enhanced by the performances of Grant, Loy, Temple and Collins.<br /><br />Some may say the storyline is farfetched - but most movies are guilty of this crime. The movie is original in idea, but had the same formula and end results for the productions made back then (and a few right now).<br /><br />Highly Recommend this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f6fc81aa38087085666c2a3c3257aafaa382aff11c0a5c0a4c6051cdc34459c
+size 358

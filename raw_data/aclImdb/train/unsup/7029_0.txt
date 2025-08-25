@@ -1,1 +1,3 @@
-This is one of the worst films made by many of the cast! Oscar nominee Liam Neeson as a hillbilly brother of Patrick Swayze! Hah! Bill Paxton and Oscar winner Helen Hunt went on to much greater success in 'Twister', but seem to just be paying their dues here. Ben Stiller looks miserable. Unfortunately, Patrick Swayze has made too many films like this one; he actually seems to belong here. Truly laughable from start to finish!
+version https://git-lfs.github.com/spec/v1
+oid sha256:97b1d062df819f080ad326f2291a32b1a3c3b7443081637b17a3cbcf3b959da1
+size 429

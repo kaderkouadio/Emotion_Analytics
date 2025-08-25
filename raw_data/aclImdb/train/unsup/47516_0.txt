@@ -1,1 +1,3 @@
-I just finished watching this film with pain. although it has some laughable scenes, but failed to reach the quality badly which is other great parody movies has achieved. Don't waste your time and Money!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ddd433799a845db433bc46ec5f68c48aef2c72e6455d9c0306b9831ecbd1013
+size 205

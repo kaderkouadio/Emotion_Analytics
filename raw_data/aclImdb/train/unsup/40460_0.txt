@@ -1,1 +1,3 @@
-This is a cut and paste film made up of bits of the original series which I have not seen. If you are not familiar with the series this is not a good way of getting into it as it leaves you extremely confused and frustrated with the random parts of story lines crammed into the duration of this film, the sequel,"the end of evangelion" is fantastic only wish I could have seen the series first rather than this released, for the sake of making money, film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d864e8e4b34f1529a0cd37d4a55051039659fe5bca25565e41ace4fd66d521e
+size 456

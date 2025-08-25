@@ -1,1 +1,3 @@
-Beautiful Peggy Ann Garner, not the plain little girl that played Francie in "A Tree Grows in Brooklyn" is all grown up and plays the part of a female predator out to get her man in her first drama in living color. She plays the part well with lots of emotion and shows that she is a master of her craft.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d754c1d12ab2748a21e2d28e760a60a752db9ef5261d8a74eaefec062514d9
+size 304

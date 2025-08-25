@@ -1,1 +1,3 @@
-This film is showing married life as it is. First the being in love period, the love and understanding and the fights that turn up over whatever stupid irritations one might have. The film is a good life saver for couples who want to split up. Watch this film and start talking. Find the similarity between the story as shown in the film and get together again. The final scene in which Michelle Pfeifer declares her love is a real classic one. Very fine acting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e08d5bcfd65ae02233f013231191d447ef22a841a719820216db4176073f5f90
+size 462

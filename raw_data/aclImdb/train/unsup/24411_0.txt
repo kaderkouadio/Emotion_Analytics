@@ -1,1 +1,3 @@
-Experiments in sleep have unleashed a monster in an underground government laboratory. A good B-movie cast (Louise Fletcher, Shawn Weatherly, James Hong) and great special effects (for what they must have cost) allow the suspense that is built to sustain til the finish. Sci-fi & horror fans should not be disappointed. Fletcher is first-rate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdd34b7e1df619a87f95014b7e82c0ee92b19c0bc8ac8de8c8c1c41336e8f2f7
+size 343

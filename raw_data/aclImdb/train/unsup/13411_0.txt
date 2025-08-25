@@ -1,1 +1,3 @@
-The concentration camp survivors interviewed in this documentary broke my heart... hearing the man who saw his best friend eaten by German Shepards... and the gay man who courageously freed his Jewish lover, only to see his lover act even more courageously by choosing to return to his sick family, to die together with them. These stories are real, they are devastating, and they MUST be seen by everyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e42e22ded570992aab04a5df774d00ec288064850d1666bb17d00d227d8d31
+size 406

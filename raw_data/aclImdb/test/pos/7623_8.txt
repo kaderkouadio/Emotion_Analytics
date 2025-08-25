@@ -1,1 +1,3 @@
-Great cult flick for MST-3K types: Richard Boone is a mess -- bad hair, arthritis, even his dark glasses aren't right; about as good as a bad dino-flick can get... actually, that charging saber-toothed Styracosaurus was pretty cool -- maybe Spielberg should take a couple of notes from that one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2364a62d8ad685d50a521b99325224be129687fc6f37e093dde6c69b6a1806
+size 295

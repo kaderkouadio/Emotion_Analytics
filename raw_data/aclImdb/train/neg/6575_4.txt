@@ -1,1 +1,3 @@
-Interesting film about an actual event that took place during the Civil War in Vermont. It kept my attention to the end and I don't regret viewing it. I haven't ever read any on this raid incident so I was curious to see if the rebels pulled it off. I enjoy historical films from that era.<br /><br />My major complaint is with the Confederate uniforms. They look too good!!! The acting was a little stiff at times. I like the old man eating the mashed potatoes because he didn't have any teeth. The wounded soldier playing fetch with a hound was a little strange. Overall, it was a descent film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f5992738ea280f3ac0ae71c5e62622bfe0339a7c02e4b774d8eb3878b059874
+size 596

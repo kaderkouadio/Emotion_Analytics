@@ -1,1 +1,3 @@
-This movie has a special way of telling the story, at first i found it rather odd as it jumped through time and I had no idea whats happening.<br /><br />Anyway the story line was although simple, but still very real and touching. You met someone the first time, you fell in love completely, but broke up at last and promoted a deadly agony. Who hasn't go through this? but we will never forget this kind of pain in our life. <br /><br />I would say i am rather touched as two actor has shown great performance in showing the love between the characters. I just wish that the story could be a happy ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:761cbf168b13db23b6c3b9f9cd7cbc8be1ba74ca0cfbca44e1105e3b72b70595
+size 606

@@ -1,1 +1,3 @@
-This movie was hands down the worst I have seen from director Joel Schumacher.<br /><br />I actually really like some of his films but was surprised (in a bad way) of this one. The characters don't develop throughout the movie and the Plot was just infantile.<br /><br />Dialogue was too simple and the occasional German did not fit in with the movie nor with the characters.<br /><br />For the horror fans out there, I would recommend you see Night of the Living Dead (1990). Plotwise similar but much more original. And if you want some Nazi bad guy story just watch Indiana Jones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91cc723da1c16d6150debfc80a2bf05d4a0d60298e336b7500c25a760263ea27
+size 583

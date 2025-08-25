@@ -1,1 +1,3 @@
-I've been a fan of Kirsten for quite a while. Her acting is always excellent though the scripts are usually failing. Not this time. This movie is probably one of the better movies about the holocaust targetted at youths. The movie starts of weak, with a silly "timetravel" only to become so much more. I touched me as much as Schindler's list did. See it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:525714a992b8a2484d0832a94e5b4b5d3c11cbdc8b527babb4c493257586168b
+size 355

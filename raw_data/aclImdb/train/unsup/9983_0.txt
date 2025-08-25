@@ -1,1 +1,3 @@
-It was a true labor to sit through this "movie". I believe after the MST3K folks scraped the bottom of the barrel to find films like "Manos: The Hands Of Fate", and "Mitchell", they took a peek under the barrel to find this piece of drivel lurking underneath. Basically a hair-helmeted, bespectacled nerd builds a time machine out of his airplane and old Commodore computer, and decides to sell it to some evil guy of some evil company. Wackiness and pain ensue. View at your own risk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19f9c1af68f2d6857302d72dd396cd5c1117ec79da28adfe1df6198409aa9633
+size 485

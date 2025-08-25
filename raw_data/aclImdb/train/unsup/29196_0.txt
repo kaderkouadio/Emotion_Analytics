@@ -1,1 +1,3 @@
-After seeing this film, I can't stop thinking about how differently it's made me view our customs and our world. I see close ties to the film and the postmodernist philosophy of "truth being relative" and find myself often questioning why things are the way they are. This surreal comedy pokes fun at our tastes, upper class, parenting, government, desires, expectations, and everyday rituals. It often provides a dreamlike feel to it because it shifts absurd situations and scenes so quickly. I recommend this extremely thought-provoking, often over-the-top comedy to anyone who currently feels that we're all taking trivial things a bit too seriously!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e11037744ed423e031f87d47296a6782aa03dad477a21bacc564a1f4c5f43c7a
+size 653

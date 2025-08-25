@@ -1,1 +1,3 @@
-Disappointing film is cold, detached with unsympathetic characters and extreme violence. Though David Caruso and Chris Noth are terrific actors, their roles are not given enough depth to evoke any feeling from viewers. The two female roles are even less developed. Altogether a distasteful and distressing film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a0197786049d32263fd0c671b6ef9c595b31c8d2ad3c073e1a28ca26f0f568
+size 311

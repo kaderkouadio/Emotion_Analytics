@@ -1,1 +1,3 @@
-This show started out okay, but then it turned into a nightmare. The worst part about it was the contestants. Most of them were weirdos. They did stupid things for a living and they also did strange hobbies. In the second season, one guy said he that he talked to his pants. That is sick and repulsive. Also, no one cared about winning money. All they ever wanted to do was make alliances like it was "Survivor" or something. The men were always afraid that the women were going to team up together. The women were the same also. I just couldn't take it anymore. I had to stop watching it. It was truly one of the worst shows ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4fc64deee306fe8b867ceedf281441a20ef66864329fc90ae1921aaedb3cb13
+size 631

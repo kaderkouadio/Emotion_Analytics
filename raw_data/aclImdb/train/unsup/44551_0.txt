@@ -1,1 +1,3 @@
-I've seen many terrible tv-movies, but this one's probably the worst so far. I just cannot say one good thing about this movie; I'd rather watch tv-shop for two hours than this one again.<br /><br />Should you still choose to watch it, remember you were warned.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4044243e09dc94e3dc978ffd1dc056dda82eb33d750ddc6da86df93d69478aa5
+size 261

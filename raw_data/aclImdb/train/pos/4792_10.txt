@@ -1,1 +1,3 @@
-The Straight Story is a multilevel exploration of the goodness and beauty of America. At one level a slow walk through the heartland, it's kind inhabitants, and amber grain, at another level about growing old and remembering what is important(and actively forgetting what isn't). David Lynch gives us time in this movie and helps me to remember that so much can be said with silence. A remarkable movie that will rest gently with me for some time to come.
+version https://git-lfs.github.com/spec/v1
+oid sha256:207e0f68a7dc903fdfd3a0f28eb8454a43485b854cabafab624b318cea54590a
+size 455

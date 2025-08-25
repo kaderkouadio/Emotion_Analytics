@@ -1,1 +1,3 @@
-This one tends to get slighted by a lot of critics and Kurosawa fans, but I thought it was wonderful. It's an episodic multi-character study of Tokyo's poorest, who live in a city literally made from garbage. Though it looks like an A-Bomb just hit, the film has a sort of serene beauty thanks to the glorious use of Technicolor. The title comes from the sound made by the insane young man who drives an imaginary trolley through the slum. All the characters were wonderful and all the stories engrossing, but perhaps the most tragic concerns the man and his young son who live in an abandoned car. When not searching for food, they spend their spare time using their imagination to build their dream house. An emotionally moving and beautiful film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41875a72b9220a26179e6e107c4decf7781b1f887e8c621ea6a82cdd9f6cd469
+size 749

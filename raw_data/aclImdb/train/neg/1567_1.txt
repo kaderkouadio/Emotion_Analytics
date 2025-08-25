@@ -1,1 +1,3 @@
-I've had to change my view on the worst film in the world having just seen this one. THIS IS IT!<br /><br />Make no mistake this film is awful.<br /><br />Here's a list of reasons:<br /><br />Hopeless storyline (despite being based on a true story). Dreadful acting (what was Judge Reinhold thinking) Unbelieveably bad stunts. Childish dialogue. Non-existent continuity. Lack of atmosphere.<br /><br />Get the picture?<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b3c8ba8747bc2d9a1472800c48b1237fc87be00284f7f53ae2afb14cd6dded4
+size 430

@@ -1,1 +1,3 @@
-Jean-Claude Van Damme plays twin brothers Alex and Chad, both whom are martial arts expert who team up to take down the mobsters responsible for the murder of the parents in this empty headed martial arts actioner which doesn't have a plot that would make better use of the gimmick of having two Jean-Claude Van Dammes. Some okay actionscenes, but this is not one of Van Damme's best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd2e44a8aaa8438ab457da03dac3440783b30c32523c51783c125077c4e5931
+size 384

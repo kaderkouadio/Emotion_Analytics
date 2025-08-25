@@ -1,1 +1,3 @@
-Two immigrant brothers from Italy try to keep their restaurant in 1950s America from going bankrupt. It's pretty well made but there's hardly a plot, and it eventually runs out of steam. The acting is good. Tucci and Shalhoub are perfectly cast as the brothers - they really look like brothers. Holm has some funny lines as the foul-mouthed owner of another restaurant. Tucci co-directed with Scott, who plays a Cadillac salesman, the first time behind the lens for both and it shows in the form of some sloppy camera work. This is not a film to watch hungry as the last third of the film is devoted to a delectable feast. Unlike the feast, however, the film is somewhat unsatisfying.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e5bf38b89ab325334cef017bdbe20b7f6062d8da0548c5c2d533e671191de81
+size 684

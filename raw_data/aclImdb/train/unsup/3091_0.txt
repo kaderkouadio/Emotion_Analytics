@@ -1,1 +1,3 @@
-This is one of the best films ever made, in my option. A must see film. Some of my favorite scenes: The movie theater, the toy shop,and the kid in the tree suit. This is OK for the kiddies, though it is rather violent. Funny, check out the reference to Forbidden Planet!
+version https://git-lfs.github.com/spec/v1
+oid sha256:931d48f57cb279607be921780d81f4bf7ab78a2f9590a452d4b5b824a2f791ae
+size 270

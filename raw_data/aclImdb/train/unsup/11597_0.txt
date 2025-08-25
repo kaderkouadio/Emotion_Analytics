@@ -1,1 +1,3 @@
-From opening to closing Midnight Run is the definative road movie, and is an absolute must view. DeNiro is perfection incarnate as the angry ex-cop with honor, Grodin is a loveable goof while maintaining his classic dead-pan, and all of the multiple supporting characters are great and well used by Martin Brest. The stand out is Koto's FBI Agent, and one has to wonder how hard it was for him the keep his characters stoic facade. Buy it, rent it, copy it, whatever you do you will love this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b85fd30bf6be5f87b4b6106f809b3ce76c2576168956ec39feec6e6c55df285
+size 499

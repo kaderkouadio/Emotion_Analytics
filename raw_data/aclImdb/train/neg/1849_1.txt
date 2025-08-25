@@ -1,1 +1,3 @@
-I was interested to see the move thinking that it might be a diamond in the rough, but the only thing I found was bad writing, horrible directing (the shot sequences do not flow) even though the director might say that that is what he is going for, it looks very uninspired and immature) the editing could have been done by anyone with 2 VCRs and the stock was low budget video. I would say that it wasn't even something as simple as mini digital video. <br /><br />There are some simple ways to fix a film with what the director has, like through editing etc. But it is obvious that he just doesn't care. There is as much effort put in to this movie as a ham sandwich. It could be made better, but that would mean extra work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:573aa8f43132dbd2d6634dcd648575c27788c9c2328e8b510049232d1a1e3109
+size 726

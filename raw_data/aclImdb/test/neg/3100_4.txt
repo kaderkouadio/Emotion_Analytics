@@ -1,1 +1,3 @@
-It's been said that some directors make small budget pictures look like blockbusters. Albert Pyun makes small budget pictures look like high school A/V project films. This film was pretty much lacking in all departments. Practically every scene drags on excessively, the "experimental" lighting and camera work is terrible, Rob Lowe apparently equated being scruffy with acting, and the poor drab Euro-pop numbers stop the movie to a dead halt. On the plus side, Burt Reynolds does a pretty good job with what he's given (which isn't much), Mario Van Peebles is surprisingly decent and Ice-T puts in another of a long recent string of B-movie gangsters. Not Pyun's worst work (Urban Menace), but certainly not his best (Mean Guns).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d509ab3f8fe862079e949f2cd82feb3268ddb0fc42b2dff62d2c81a4e7baea2f
+size 731

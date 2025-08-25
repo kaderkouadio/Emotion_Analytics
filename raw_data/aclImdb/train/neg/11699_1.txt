@@ -1,1 +1,3 @@
-The plot of The Thinner is decidedly thin. And gross. An obese lawyer drives over the Gypsy woman, and the Gypsy curse causes him to lose and lose weight... to the bone. OK, Gypsy curses should be entertaining, but the weight-losing gone bad? Nope. Except Stephen King thinks so. And Michael McDowell, other horror author and the screenwriter of this abysmal film, does so, too. The lawyer is not only criminally irresponsible, he is fat too, haha! The Thinner is like an immature piece of crap for a person who moans how he/she has never seen anything so disgusting than fatness. Hey, I can only say: Well, look at the mirror.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42baaa3e7a9ebab556f1715830ec5d41fd58d58abf30cd3ea1bb5c51c7d5f791
+size 627

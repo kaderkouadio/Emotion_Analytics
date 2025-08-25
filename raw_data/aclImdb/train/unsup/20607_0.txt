@@ -1,1 +1,3 @@
-This is a great example of "film noir," as every scene has some sort of shadow pattern on the wall, the floor, the faces. All shots are done with key light on the faces. The patterns suggest "jail," "locked up," "flight" (as in a train track), "trapped," (as in a cobweb), and others. There isn't one scene that doesn't have a shadow in it! Even the day time sequences. And the actors that had great careers: Stanwyck, Gary Merrill, Claude Akins, even Jesse (the original maytag repairman) White, and, of course, George Sanders, who plays a "deNazified" ex-Nazi. Whew! Great stuff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c03738186c776bc7498286b975f256ab7651d3880bedd18478c7751419ec721
+size 581

@@ -1,1 +1,3 @@
-I first saw this movie on late night TV and was captured by the really funny lines and characters...all of them. This film probably appeals to a more mature adult who can recall the ethnic differences of our friends and lovers that made life both difficult and, in retrospect, humorous at the same time.<br /><br />I asked Joe Bologna after a recent stage performance why this film was not on video and his response was, "You'll have to ask 20th Century F0X."<br /><br />It's unfortunate for those of us who think this film should be the real "classic" shown yearly. It is an underappreciated gem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8760b8ee35dac054ec5936531746622d43aa725c211cb8c55b853c38743abd
+size 597

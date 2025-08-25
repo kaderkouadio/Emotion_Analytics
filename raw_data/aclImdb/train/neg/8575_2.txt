@@ -1,1 +1,3 @@
-******SPOILERS******<br /><br />The unfunny radio quiz show host Kyser and his mediocre band are the excuse for Lugosi, Karloff, and Lorre to pick up a paycheck in this bland, sporatically watchable haunted house spoof. Lugosi is a mystic whose seances are exposed as a fraudulent attempt to bilk an heiress' fortune; Karloff is the butler and Lorre is a professor who exposes fake mediums, but it turns out that they're both in conspiracy with Lugosi. <br /><br />Of course, Kay Kyser and his band of 30-something year old "kids" uncover the truth with the minimum of possible humor along the way. Not recommended to any but the absolute horror completist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d957dbe7e26902e1d0b0f3624a4c5c55de4063930fac15f319bc4e7a374cbb96
+size 657

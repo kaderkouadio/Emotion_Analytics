@@ -1,1 +1,3 @@
-One of the worst romantic comedies (nay, worst movies) I've ever seen. Boy (who works as a phone psychic!) must pretend to be gay to move into apartment with woman of his dreams. Hilarity does not ensue. Boredom, light gay-bashing, and horrible dialogue do. If you read Brad Meltzer and like his crappy dialogue, you'll like this movie.<br /><br />Be smart. Avoid this. if you see it, destroy the copy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1487e06ecc83a57bea0d17e992cf8f6340c7129ac88b536b2d561c2dbc198c0a
+size 402

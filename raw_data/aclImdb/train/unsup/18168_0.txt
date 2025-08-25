@@ -1,1 +1,3 @@
-Lovecraft is gothic, provoking, and disturbing. This movie is weird, boring, and the ending is poorly done and laughable. The story is faithful, but the cheesy effects and lack of suspense make it lose any credibility. Compare this movie with "Blair Witch Project" or "Twin Peaks" and see how suspense is supposed to be done (I would like to see David Lynch do a Lovecraft movie by the way). But maybe this is just one story that should stay in written form? I would recommend this only to the most diehard of Lovecraft fans. Maybe not even then.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4567f7ec62b94332198f2d6f189257150de027a412fc32e128a99e7378309591
+size 546

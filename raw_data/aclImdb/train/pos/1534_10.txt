@@ -1,1 +1,3 @@
-I love this show as it action packed with adventure, love and intrigue. Well some times love! It's so good see a show where all the characters work well together and they treat each other with respect. It's also very good to se Dick Van Dyke in a television role as I have only seen him in Mary Poppins. the mixture of the main characters, Mark, Amanda, Jesse and Steve is very capturing to the audience. This is a show you have to watch!
+version https://git-lfs.github.com/spec/v1
+oid sha256:62046b534dd68a184692a270709570e2616cfbc2c4ee07272830c9646b07f8a2
+size 438

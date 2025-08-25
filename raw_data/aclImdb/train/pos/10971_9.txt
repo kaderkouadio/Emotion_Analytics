@@ -1,1 +1,3 @@
-Grey Gardens is shocking, amusing, sad and mesmerizing. I watched in amazement as Ediths Jr. and Sr. bickered and performed while reminiscing of their past. Their existence in a dilapidated mansion, (which they had not left for more than fifteen years) is both a comedy and a tragedy. This is a film you will not soon forget.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa221cd63e5d252edb60154a479566110d8afe76f5e3e9cd33a087ce11b80fc9
+size 325

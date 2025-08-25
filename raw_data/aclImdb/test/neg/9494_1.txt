@@ -1,1 +1,3 @@
-The revisionist history -- making the evil Marquis de Sade a semi-heroic romantic -- is mind-boggling enough. But the atrocious acting, amateurish cinematography and terrible dubbing make this film achingly bad. The only reason to keep watching is that almost all the women in the film are gorgeous. And, amazingly, being tortured for days, with hands bound overhead, apparently doesn't detract from a woman's beauty, hairstyle and makeup. My guess is that the producers filmed mostly in Russia, choosing women for their looks -- and willingness to work cheap -- rather than acting ability. If you decide to watch this because you have nothing better to do, or are a film student looking for bad examples, fast-forward through every scene not involving nudity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fcd7ed652b1975594040d62c4cd3644029e79ae5f563f004567a47c7722a88d
+size 760

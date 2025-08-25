@@ -1,1 +1,3 @@
-I've never really considered myself much of "student" when it comes to watching films, I watch them, form an opinion and that's it. But Unhinged changed all this. This film is without a doubt the most inept attempt at film making I've ever seen. Every kid who rocks up at university thinking they're gonna be the next Spielberg or Tarantino needs to be handed this film with a handbook titled "How Not to Make A Film". Not only is there no story to be had, the film makers weren't even competent enough to make a film worth watching. It's been a while since I saw it, but all I can say is watch the overhead tracking shots in the opening scenes. They are never ending! It's almost like having your teeth pulled, only not as much fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:889261dc3efba0c6b5761c7e9706a3cc85323de079ab55d26fb42226eb65369f
+size 733

@@ -1,1 +1,3 @@
-Despite an early, glossy, this-film-should-have-been-made-in-the-90s fizz, Donkey Punch quickly degenerates into total farce. Whilst the orgy scene is genuinely erotic and skillfully done, that might as well have been the conclusion of the movie, not the pivotal scene that defines the film. Because thereon after, every agonisingly cheesy cliché from teen slasher movies right through to low budget horror farce is played out here and it is ultimately the fault of the banal script and utterly horrendous direction. At what point does the production crew stop and think: 'This is actually not working?'. If we, the audience, can conclude that some 30 minutes in, it defies logic that the 'finished' product was wrapped up and presented as some kind of genuine horror-thriller. A mess, and not worthy of the time you will spend watching it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a45dae3f358bb4dacd9ca0f4e856daf17ea33ff0fee37cc87346690ba2bcec98
+size 841

@@ -1,1 +1,3 @@
-<br /><br />One would expect a movie with a famous comedian in the lead role, to be a funny movie. This is not the case here. I laughed out loud once throughout the whole movie, and that wasn't even during the final comedy-scene (which one would also expect to be the funniest). This is one you can watch when it comes to TV, don't spend any other money renting it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5828941e62d271dc82017812e12d31b537aaffb06b0873d96efd5805330e1889
+size 365

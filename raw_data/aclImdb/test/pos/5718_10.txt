@@ -1,1 +1,3 @@
-This was very energetic and well played show. I saw it back in 98 and my friends and i still joke about it. Each time I watch it's always as funny as the first. I also love the way that everyone can relate to it in their own particular ways. I am very much looking forward to seeing more of John's own scripts and productions. <br /><br />Unfortunately I can't find it anywhere for sale, and I've done quite a lot of looking. If anyone knows a website or store to refer me to, I would very much appreciate it as I am looking for his other live performances as well. Please send me a message if any of you have info on the subject. Thankyou.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8895cd4e27129cec52ab987acf993ff43d0e9f0ef4d7f4d65e24c223f094c41e
+size 640

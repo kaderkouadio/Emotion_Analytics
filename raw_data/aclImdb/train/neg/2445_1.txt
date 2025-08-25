@@ -1,1 +1,3 @@
-Hello, can anybody hear me? I don't know why you came to this page, but if you're a fellow viewer of this movie: join the fanclub! This movie was so unbelievably bad I couldn't stop laughing when I saw it. I think it's a must see, it's bad in a nice way. Every cliche ever invented for a horror movie can be seen here. I'm afraid it's very hard to get a copy of this movie, but it should be in the top 10 of worst movies ever made.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9fa4cf48c2695eebcb3055310754f6ed762cd9e03a77f2d0edfb0a3e1eb591a
+size 431

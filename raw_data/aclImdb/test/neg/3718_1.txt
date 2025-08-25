@@ -1,1 +1,3 @@
-This was truly horrible. Bad acting, bad writing, bad effects, bad scripting, bad camera shots, bad filming, bad characters, bad music, bad editing, bad casting, bad storyline, bad ... well, you get the idea. It was just, just ... what's the word? Oh yeah ... BAD!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a80cedfedb34b02d6173da6c8090f7374d2a39045408e14c04bbcc2a03656d
+size 264

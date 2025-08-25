@@ -1,1 +1,3 @@
-A cheesy, compellingly awful (and NOT in a fun way) C Grade movie. Everything shouts 'amateur', from the crumby script (bizarre premises, limited coherence and predictable endings; the turgid lighting, sound and hand-held wobbly camera angles; the coy and passe sexual inneundo and references; the patchy and unbelievable dialgoue to the Z rate acting. I saw it on DVD and kept hoping Edward Wood would pop out. All is forgiven - your Worst Films are works of art, and more coherent than this twaddle.<br /><br />But still, preferable to the warbling 'Every night in my dreams I hear you' - are you sure the Titanic crew weren't involved in this on the side?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2c3cc3763f068891eb0d55cf6765cae37d59f748252d4d875815ce914429791
+size 658

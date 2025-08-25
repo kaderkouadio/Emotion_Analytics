@@ -1,1 +1,3 @@
-Every driver should see this! The world would be a safer place. The images of death and destruction are a blunt reality check. I wish they'd still shown this type of thing when I was in Driver's Ed. Somebody should remake this eye-opening short.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f31189d4e89b16a93f4a0b3639bc0fe0342fc322e3640a2e8e78ffdaa616e723
+size 245

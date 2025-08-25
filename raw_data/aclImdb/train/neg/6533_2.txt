@@ -1,1 +1,3 @@
-It's telling that as of the entry of this comment, NO females have submitted a vote of any kind for this movie. Not surprisingly, cheesy science fiction doesn't appeal to them quite as much... If you like a good "B" movie, and especially if you like to satirize them as you watch, you will like this. If you don't have fun watching bad movies, this one's not for you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e6412e469e747fd6a6e93c76eb0c66b86f037959846ab9b4b6f49fd9840c7f3
+size 367

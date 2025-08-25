@@ -1,1 +1,3 @@
-This film deals with the atrocity in Derry 30 years ago which is commonly known as Bloody Sunday.<br /><br />The film is well researched, acted and directed. It is as close to the truth as we will get until the outcome of the Saville enquiry. The film puts the atrocity into context of the time. It also shows the savagery of the soldiers on the day of the atrocity. The disgraceful white-wash that was the Widgery Tribunal is also dealt with.<br /><br />Overall, this is an excellent drama which is moving and shocking. When the Saville report comes out, watch this film again to see how close to the truth it is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce8715f8658939992a3e2e5e2ea52ba85b6e5a54daa56d20b6cac11b3bd4e694
+size 614

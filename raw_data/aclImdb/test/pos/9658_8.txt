@@ -1,1 +1,3 @@
-Satisfying fantasy with ships sailing thru clouds with cannons, evil plotters, strange landscapes, manipulations of time, great sets, void of reality, maybe like Never Ending Story or some Merlin stuff. If you like that, you'll love it. Christine Taylor is beautiful. Sword fighting is phoney. Music is delightful. Good wins out, they kiss, all is well, and the cook is pleased.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5515c414b50be51950ad0c3a65afea4a96de703507ce1975f86a7535337e16a2
+size 378

@@ -1,1 +1,3 @@
-I loved This Movie. When I saw it on Febuary 3rd I knew I had to buy It!!! It comes out to buy on July 24th!!! It has cool deaths scenes, Hot girls, great cast, good story , good acting. Great Slasher Film. the Movies is about some serial killer killing off four girls. SEE this movies
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a02b28c80d6ed48029e417d47af5694274af38c5e42f4bb1e55ddb90bbabebb
+size 285

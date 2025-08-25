@@ -1,1 +1,3 @@
-This is an ancient movie that claims to spread the word about the dangers of getting syphilis bluggg.. pardon me, ladies and gents, I think I just vomited a little... but also takes the time to be an exploitation flick by showing two lesbians coming on to each other at a strip show,etc. How considerate of it. Here's a couple of things I noticed about it. In one scene where two women are talking, a window slams shut for no apparent reason, distracting the audience but obviously not the cast or crew, but they just kept on a filmin'. In a later scene where an older man is talking to his adult son who claims to have syphilis, the older man is looking directly at the camera... as if reading his lines directly off que cards. Hmm... how very strange!<br /><br />"He took meeee!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5b0f3d941e8d6f7720d83d4f5ebb708e3637de3fb775190135b0100ae329a9
+size 781

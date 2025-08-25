@@ -1,1 +1,3 @@
-This, along with "Hare Tonic," ranks as one of the best Bugs cartoons, indeed one of the best Bugs, ever. There are some comments about how Bugs in these cartoons is "basic," meaning, I guess, that he is as yet not fully developed. I actually prefer this "basic" version from the mid-40s (Chuck Jones' was the best version) who is actually more rabbit-sized and far more amusing than the eventual long-legged version who towered over Yosemite Sam and Daffy Duck. The latter-day Bugs came to be too suave and sophisticated for my liking. Also check out "Hair Raising Hare" (1946) and "Rabbit Punch" (1948) for great examples of classic Bugs and classic Chuck Jones.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1015046507c0c03883d677811055f596c3c26ec4b59c91aeddc3b5e2b3af5ec
+size 664

@@ -1,1 +1,3 @@
-...okay, maybe not all of it. Lured by the false promise of bikini-clad women on the movie's cover...but the HORROR...THE HORROR... ...whatever you do, do NOT watch this movie. Gouge out your eyes, repeatedly bash your skull in...do what it takes. Never again--never forget!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:d24e2d4eb3312561361cf25ec1318d7c015f14114396f909496d8ea026a035f3
+size 286

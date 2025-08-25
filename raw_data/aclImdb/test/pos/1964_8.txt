@@ -1,1 +1,3 @@
-This film is one of the best of 1986 with creepy, yet intriguing performances from Crispin Glover and Dennis Hopper! The Reagan years were pretty bleak for a lot of people, not just teenagers, but this flick really captured the desperation and despair. Well-directed with great script (apparently based on a true story), I don't really see any weaknesses in this. The opening shot was brilliant.<br /><br />Keanu Reeves was decent for a change and Miss Skye was right on the money. Hopper had three other great performances that same year (Blue Velvet, Texas Chainsaw II, and Hoosiers). I imagine this has a cult following and I wonder how this picture would fare if it was re-released. Super stuff!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eaf19dfe45ff9bd34b5b2d03f7b51a35a863383f4d4c1b2a63f768a45212268
+size 699

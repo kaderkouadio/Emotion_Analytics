@@ -1,1 +1,3 @@
-One of the worst movies I have ever seen. Excruciatingly slow-moving, boring and stupid. Lots of juvenile bathroom-humor, drawn out into painful tedium. I like Jeff Daniels, but he should stick to acting and forget writing. I am amazed this is rated as high as it is. I call it a turkey.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28396dc527a66ccf0b759da7e7edd40c4919eb832f8416b8021f8cf42ec2f0ba
+size 287

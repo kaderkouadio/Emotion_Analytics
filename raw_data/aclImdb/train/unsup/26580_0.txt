@@ -1,1 +1,3 @@
-Dreadful, dreadful mess of a moovie that is as un-scary and un-funny as they come, sort of like Police Academy meets Fright Night. An obvious Dusk 'Til Dawn wannabe, this gopher turd of a moovie manages to waste the slim acting talents of such grade b actors as Dennis Miller and Chris Sarandon, and non-existent talents of Corey Feldman and Angie Everhart. The plot is painfully obvious, the effects are cheap and silly, the dialogue is painful, the direction mechanical, and the list goes on and on. Dennis Miller's character is sooo irritating that I'm tempted to believe that he was really played by Patrick Swayze in make-up. Over-long, boring, and just plain bad. MooCow says bleeaachh!! :=8P
+version https://git-lfs.github.com/spec/v1
+oid sha256:52c19d432d83e6b168f15776d1e89ced6c558b00a6d72e4bab79189f0f7eb714
+size 698

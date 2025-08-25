@@ -1,1 +1,3 @@
-Eliminate the country, the brutal government, most real names, and what you have is a look into the inner sole of what it is to be human. Alejandro Gonzalez Inarritu does a masterful job with this piece based on a massacre of people and shooting of a war photographer. These BMW Films have all been exceptional. This is true art... when your friends complain about Hollywood, tell them they are not looking hard enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c53983d0bacb74984524324628e109f6878ed8154f83aff93040b1d69938603
+size 419

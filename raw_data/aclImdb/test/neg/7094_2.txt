@@ -1,1 +1,3 @@
-Well, I don't normally think there's such a thing as a HORRIBLE movie, but this is pretty damned close! The best acting performance in the whole thing was Snoop Dogg, who has one line in a 10 second scene. I agree with the "glad it was short" review. The music videos at the end were cool though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38edeeea85045cc2a12c3b9ff68dbe7a6cf9b2b9d8f26e31c62d37d2a114d70
+size 296

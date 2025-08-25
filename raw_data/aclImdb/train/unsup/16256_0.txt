@@ -1,1 +1,3 @@
-So who, or what, exactly was the "Man from Tallahasee?" Was it a code for "I've got a man in my closet and I want security to allow him to go destroy the submarine?" :) I mean, seriously. Did I miss something in the episode? He asks for the MFT to be brought to him, but no one is actually brought to him. The only person you see with Ben is Jack (and Juliet). They showed up unannounced.<br /><br />I just don't get it.<br /><br />anyone have an idea?<br /><br />What gives?<br /><br />Damn.. really annoying.<br /><br />I have to have at least 10 lines in my comment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13073f40d3b008640a0e994c9b967aa6efcf22a80e36f9a4e2ea5f8df31a82ad
+size 569

@@ -1,1 +1,3 @@
-Boy, does this movie suck. The plot was confusing. Apparently George Patton was assassinated and there was a conspiracy to cover up the fact. George Kennedy plays Patton as a rabid, foaming at the mouth moron. Sophia Loren has trouble with the English language.<br /><br />Robert Vaughn is an officer and he's involved somehow. This has some of the worst lines ever. It's as if Ed Wood doctored the script. Absolutely pass on this unless you're a masochist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf3a07e79c39db1cb6e1bfdb8c799aa15089e5f50a220d47a8ec3531638f4bbe
+size 457

@@ -1,1 +1,3 @@
-I think this movie made my eyes bleed. This is a perfect example of bad "art" movies. Dull, incoherent, pedestrian direction, mediocre acting, clueless editing, blind cinematography, and almost certainly no writing (this thing surely couldn't have been scripted). Perhaps Bill Gunn should have made the standard blaxploitation vampire movie he was hired to make. It certainly couldn't have been any worse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4792ee74f996add7dfc7aac08e00ce1ca9b9500fdfd41494ed2e416a559c155e
+size 405

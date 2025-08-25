@@ -1,1 +1,3 @@
-With strong performances by all players, this was one of the best episodes of "Murder She Wrote". It was refreshing to watch a "Who done it" that wasn't easily solved in the first 10 minutes of the movie.<br /><br />Fionnula Flanagan's character, Margaret, kept Jessica's eyes rolling with her finger-snapping and explosive temper. The setting was beautiful giving one a sense of Ireland and it's people. Let's have more episodes, please.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa577795a9ffc510ac18f13030bf1257a82749adb69b9488d49fc80a2c937b17
+size 438

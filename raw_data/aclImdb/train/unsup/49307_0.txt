@@ -1,1 +1,3 @@
-Like many I thought this was a waste of some very good talent. I hope that this doesn't mean that these people are on their way down the proverbial ladder and will have to sink into the gutter with more trash like this. I expected so much more and am very disappointed. Hindsight now tells me I should have waited for the Video a few years from now and saved a few bucks. But then maybe in a few years you won't even be able to find it on the shelves<br /><br />IMHO I rate it 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bdd3cfc099081dd00af541eb47a71b2931b12488218fe396fecaf5b655d1288
+size 481

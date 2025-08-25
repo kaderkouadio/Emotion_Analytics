@@ -1,1 +1,3 @@
-Sorry, but I guess I'm going against the grain on this one. I remember when Michael O'Donoghue was writing for National Lampoon; he had a "how to write a short story" article. The thrust of the piece was -- if you get bored or can't figure out an ending, have your character get hit by a bus. This movie seems to take that approach.<br /><br />The 'miracle' invention that Tesla apparently provided Hugh Jackman's character, which allowed him to duplicate himself, is nowhere referenced in the movie. The ending is a cinematic equivalent of "then he got hit by a bus". In short, I think the audience was cheated. Apparently most of the people who commented on this movie didn't mind that, but I thought it lacked integrity.<br /><br />Beautiful cinematography, tortured accents, and a conceit that's actual a deceit. Not recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5e816ac64b654ee24a80b781b712d373e457b1177de2065db044454bcb75954
+size 833

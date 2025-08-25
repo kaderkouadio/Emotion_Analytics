@@ -1,1 +1,3 @@
-I, too, was disturbed by the nudity, but I was even more disturbed by the story. This little girl is made into a prostitute with the blessing of her own mother, her virginity is auctioned off, and the movie treats the whole thing matter-of-factly instead of as the tragedy that it is. I'm not even sure why I'm recommending this movie.<br /><br />Actually, now that I think about it, I think I like the fact that the film allows me to be disturbed on my own rather than hitting me over the head and telling me how I should feel (as Hollywood always does). No weepy music, no over-the-top emotional scenes, just a story. Take from it what you like.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82909e57afcb62e445d251890cfe72ac25e50815715ed9f35e45e1fe96877dcd
+size 647

@@ -1,1 +1,3 @@
-This movie bears only a vague resemblence to the novel, which is a classic, but this movie was a travesty. I was spluttering and ranting throughout the vast majority of it, as they added a 'love interest' and took other liberties with the story to make it more fitting for a Hollywood formula.<br /><br />My condolences to the cast and crew.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e44006d7d0bc79056df0204ee4921e08ba43d4d8ae0432af1722218d0698a6
+size 341

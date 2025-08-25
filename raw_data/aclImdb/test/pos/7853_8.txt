@@ -1,1 +1,3 @@
-I thought that Eastwood's most unusual role was that in The Bridges of Madison County, but that was until I saw The Beguiled. He manages to pull it off, giving a very good performance and so does the rest of the cast. The direction is imaginative given that the film was made in 1971 and had there not been some plot holes - which the director seems to struggle to cover up at times - we would be talking about an excellent film. It remains powerful, nonetheless.<br /><br />8
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6924244197a40246609c39243a4ce04d3c3f276e51bea6a9709286af52fa31a
+size 476

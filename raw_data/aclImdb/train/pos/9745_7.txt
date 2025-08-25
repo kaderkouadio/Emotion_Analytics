@@ -1,1 +1,3 @@
-As someone else commented, this is a feel-good movie. It's got glorious scenery and the wonder-filled voice of Luciano! I've seen this movie many times and just saw it again this afternoon. I'd forgotten how much I miss Pavarotti's singing of Nessun Dorma and I need to get out the CD! It's a great movie to just while away the afternoon engrossed in fun and reverie. Eddie Albert is grand as the agent and a bit over the top, but all agents are just that anyway. The Italian countryside is gorgeous but nothing tops the balloon ride for the perfect view. If you need acting of Olivier proportion, this movie isn't for you. If you just want a flight of fancy and some wonderful music, watch this film. Just enjoy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d9f66b44f20ef04e2148c4d5a1e5e206d6c8ee3931f7260726cc0cd8a8ab61
+size 713

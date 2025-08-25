@@ -1,1 +1,3 @@
-This is by far one of the worst movies i have ever seen, the poor special effects along with the poor acting are just a few of the things wrong with this film. I am fan of the first two major leagues but this one is lame!
+version https://git-lfs.github.com/spec/v1
+oid sha256:16540944923edd00d91f41c39dd21d38ce39a2fdcae5a8461d61bbb437776d20
+size 221

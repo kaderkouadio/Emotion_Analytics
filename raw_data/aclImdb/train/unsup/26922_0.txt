@@ -1,1 +1,3 @@
-i think itz a really really really really goood film, i saw it 3 times n' still not bored. Jet Li is a really good fighter, his moves are quick n' sharp, fights really well. the film is excellent, well directed, n' he's very good lookin!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:47c6a9782b2229d3642705cbf731049b7117f2c31301a9dfaa1ad93a1142efb6
+size 239

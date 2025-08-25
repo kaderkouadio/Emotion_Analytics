@@ -1,1 +1,3 @@
-Forget the jaded comments that come before these. This is an action packed but sensitive movie about people who overcome real problems in a beautiful setting. Well-acted, even by Elizabeth Berkley. Recommended for anyone who wants to feel something and experience change.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ef60ec51754ef37848f132f97457dd72487754e75c3f8c69e39a36392b67b3
+size 271

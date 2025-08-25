@@ -1,1 +1,3 @@
-Metro's answer to the gangster movies made by Warner's is exciting film fare.The film marks the beginning of the Powell-Loy partnership which made legend in their next pairing.Gable's portrayal of a sympathetic gangster is just as good as any of Cagney's at Warner's.Great comic turn by Nat Pendleton as Gable's not too bright henchmen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29951a13e397230bed9652b694a2749062169ad809e5789bbf23317003f3157e
+size 336

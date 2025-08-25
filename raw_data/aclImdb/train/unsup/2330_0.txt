@@ -1,1 +1,3 @@
-Okay so maybe I am just biased by my unending adoration for David Bowie but I am also a big fan of great games and this is one. Interesting plot to this RPG that is not overdone. The music and scenarios are unique from every other game I have played. Lovely :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:614853261bf24f1563a8ed4e5d7b9f3edaf90c2c55d7d5f287324f6299bf0116
+size 260

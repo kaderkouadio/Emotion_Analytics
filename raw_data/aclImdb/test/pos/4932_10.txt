@@ -1,1 +1,3 @@
-When I was a kid, I loved "Tiny Toons". I especially loved "Tiny Toons: How I spent my Summer Vacation". I thought it was laughs on the floor funny. A few years later, my friend had the video. And I figured I'd watch it for the good old days. I was still on the floors laughing. My opinion, the Plucky and Hampton skit is the best. They decide to go to "Happy World Land". And they end up having a crazy adventure to get there. All the skits are funny. I'm still looking for the video. So, if anyone has any tips. Please write me. <br /><br />This is one of the funniest cartoons I have ever seen.<br /><br />10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ed8b7b0e8ce77beda1878a9ab3e74109cc94cedcaca36e2b0c8727098288c7
+size 614

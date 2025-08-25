@@ -1,1 +1,3 @@
-5 minutes into the movie, and I have already figured out what the ending would be. Nevertheless, I decided to sit through the movie just to see the special effects.<br /><br />The movie could have been much more. IMHO, too much time has been spent on the introductory part - wandering around the house, etc. But wandering is exactly how the movie is... It has a hard time trying to decide whether it is a horror or a psychological thriller and ends up being neither.<br /><br />Minor spoiler: When the approached the chair and were about the turn it over, I kept telling myself - not another "Psycho" rip-off again...<br /><br />End of minor spoiler...<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:be262c49a64b962ec4efec2cff5e3ab2550fced1fc75e91d94956817382e20d3
+size 664

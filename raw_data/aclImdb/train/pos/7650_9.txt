@@ -1,1 +1,3 @@
-Wow, I loved this film. It may not have had the funding and advertising that the latest hollywood blockbusters get but it packs twice the emotional punch. The tale revolves around this one family from Utah and it's the connections between the people in the family that provide the film with its punch. The main lead (Giovanni Ribisi) plays his part very well, at no time does he leave you to believe that he's acting all his feelings. It's his brother (Elias Koteas) who stole the show for me though. When the two were in scenes together they bounded their lines off of each other, giving fantastic performances. Great cast, great film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:957b1459b128a33862440eaaa6c231eabd26ace541d781c985d7b7d881cbcb8d
+size 636

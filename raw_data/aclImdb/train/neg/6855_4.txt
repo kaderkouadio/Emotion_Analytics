@@ -1,1 +1,3 @@
-Why is it that a woman cannot be a strong character in a movie without sleeping with the leading man? The campaign manager in this movie dreams of leading Tom Sellick to the White House. It's all she can think about. So, why on earth must she have had an affair with him? It added nothing to the plot and served only to demean successful women. The only value of that tidbit was the cute "we've all slept with your husband" scene. <br /><br />Also, couldn't the people who made this movie have watched the national conventions they were spoofing? Airing between the two major political conventions only served to highlight their total ignorance of the nomination and selection process.
+version https://git-lfs.github.com/spec/v1
+oid sha256:859cae8d66ea8b0fcd779557d36af851309c084011721d6e0e32c3a2eb3a614f
+size 685

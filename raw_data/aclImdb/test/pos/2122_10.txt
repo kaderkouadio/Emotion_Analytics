@@ -1,1 +1,3 @@
-Grand Champion is a bit old fashion at first glance. Andrew Morton at the Fort Worth Star Telegram said it best "If Walt Disney had hailed from Texas, he would have made Grand Champion" <br /><br />The movie does not have the video and special effects but it has heart and soul. The kids are great and the array of stars is incredible. I bet Bruce Willis and Julia Roberts are proud to be in a movie that their kids can actually see:) (G rated) <br /><br />This is a masterfully crafted "simple" little film made in Texas by Texas Barry Tubb. Take your kids, take your kids friends, take Grandma too....they will all enjoy it and you will too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1f91e6a07cf9e78048a4f5ebae361cf08718348dcf62125d57939133a83d4b5
+size 643

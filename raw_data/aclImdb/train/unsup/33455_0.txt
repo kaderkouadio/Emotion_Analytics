@@ -1,1 +1,3 @@
-Another one of those movies where all of the humorous parts were in the trailer. Totally predictable and really not very funny. Sorry I bothered to rent it. I wasn't expecting a totally original story-line but I rarely even smiled during this movie. A romantic comedy should be funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:522559fe75a82e90ad94f5147fc7e5c27abe7cfca6135b85be82bfe0b51885ad
+size 284

@@ -1,1 +1,3 @@
-Terrible. This is not a funny movie, nor is it an action movie. This movie just reeks of mediocrity. This movie was an early sign of how terrible Whoopi Goldberg can truly be. Luckily, I'm pretty sure most people avoided this movie from the start.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b1c7a7dc6e9113f21a4b686683161ccb562d5c33b6b1fe8dce6d7ca22423d93
+size 247

@@ -1,1 +1,3 @@
-It's not a bad concept, it could have been pretty good, but  poorly plotted, poorly scripted, poorly acted. The lead is just chanting his lines, the only actor with any believability is the always amazing Jeremy Piven. Too many places where I groaned and thought "Oh no!" Every time he connects with a previous day, you see it coming - the jail scenes, for example. Pathetic. Too predictable, too unimaginative  I mean this guy is so obsessed with the girl - he never considers the other possibilities. If you knew you would be living the same day over and over until you found a way out, wouldn't you look for a way to profit? There's obviously no reason to hurry. Too made-for-TV. It focuses entirely on the love story, never on the philosophical and intellectual implications. A total let-down. Skip it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b717e586da3d19cd94a49ba39e0d04b014cc9a48bf47af536bc273124af8ea3
+size 810

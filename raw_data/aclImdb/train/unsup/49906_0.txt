@@ -1,1 +1,3 @@
-Fay Dunaway and Brenda Vaccaro are the only real reasons to watch this movie. Those two women steal the show. <br /><br />Helen Slater as Supergirl was an okay choice, but it was her first film. She's come a long way (acting wise) since then. Still, it isn't her fault. <br /><br />The story is trite and the action sequences are muddled with silly attempts at comedy. <br /><br />The romance subplot was mind-numbingly ridiculous. <br /><br />Even Jimmy Olsen from the Superman films (Marc McClure) had a few schmaltzy scenes. <br /><br />This is so-not a good movie. Enough said...
+version https://git-lfs.github.com/spec/v1
+oid sha256:4666baf3008d58925fa3a0dd1d66d014ff727b2025fc2f6c6b94c1cb228010da
+size 583

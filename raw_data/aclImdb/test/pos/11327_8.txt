@@ -1,1 +1,3 @@
-i thought this was a beautiful film. it is not my favourite of his films - chungking express holds that spot - this one is quite different from anything else i have seen of his. it is slow (but not annoyingly so) - it takes its time and ponders the characters.. there is minimal movement in the frame - the camerawork is wonderful. the acting is great. the film feels like a long warm comforting drink.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dc95ffc55b0bb060b651c8ac8b3039c00c6ecf12bd247cdc5f6af0c848a49ce
+size 402

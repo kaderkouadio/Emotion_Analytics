@@ -1,1 +1,3 @@
-The only complaint I have about this adaptation is that it is sexed-up. Things that were only hinted at in the novel are shown on-screen for some weird reason. Did they think the audience would be too stupid to understand if they were not shown everything out-right? Other than that, this is very good-quality. All the actors do marvelous jobs bringing their characters to life. For the shallow women out there, it's worth watching at least because Toby Stephens as Gilbert is the sexiest thing ever. If I were Helen I would have conveniently forgotten I was still married the minute I laid eyes on him...<br /><br />Sort of a spoiler- The ending scene is a funny reversal of what happened in the book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:721c0cf44e6a0af44fd9e4a69d11310c0ea36ed530156f01a32770b3de31ae92
+size 702

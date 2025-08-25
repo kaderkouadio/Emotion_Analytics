@@ -1,1 +1,3 @@
-This insult to the 'teen comedy genre' is both formulaic and predictable. This however is no surprize, as a movie like this is not, nor should be watched for its indivuality. However, my low expectations were still too high. It offers nothing to anybody with anything resembling a normal brain capacity. The only time I smiled was when the end credits starting to scroll up the TV screen - that was a happy moment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fb1ff8b47fe937c191554c19718be38e6ce8b0ac6297ad31204ca75579d9b8d
+size 414

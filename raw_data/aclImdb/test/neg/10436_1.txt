@@ -1,1 +1,3 @@
-The recent DVD release of Good Humor Man labels the film as comedy. It's hardly a comedy, rather a dull indie film about a group of losers. Supposedly set in the 70s, there is scant attention paid to period details, with overly muted color correction taking its place. The monotonous soundtrack only serves to accentuate the repetitiveness of the film (perhaps that is the point, but it does not add to the enjoyment of the viewing experience.) Apprarently the clique of losers only like to hang out at one location, the bleachers. It seems like the packaging of the film as a comedy is meant to deceive people into renting or buying this film, which is a complete waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c2f1776c1ec45bcbe5ec9a539482e8dbf847b2a9fbcceb96c468aadae64c26f
+size 679

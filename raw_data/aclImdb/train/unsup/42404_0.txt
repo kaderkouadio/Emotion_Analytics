@@ -1,1 +1,3 @@
-I expected this movie to be something similar to The thing with Kurt Russel, which was a pretty good movie. Unfortunately the Ice station was degrading exponentially as it approached the end. Two sons of Satan meeting in the Antartics and playing around some pentagram altar is a bit below my taste of a good screenplay. It was a complete waste of money and time to see this movie, so I advise everyone to spend them somewhere else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a1089a01f97d6ada99efa28b11122eb8ffc72555f814c7e3ae9964857767e6b
+size 432

@@ -1,1 +1,3 @@
-This movie is imaginative, but the implication that all cats are evil while all dogs are good does a disservice to cats. I guess the presa canario that tore out that poor woman's throat in San Francisco must have been a good dog, huh?<br /><br />This movie is strictly for children.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93f6841e43a54fddd34d8a94f0fca5deed1e913adee592ec293193fdaf199515
+size 282

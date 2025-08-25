@@ -1,1 +1,3 @@
-I saw this last year at the Tribeca Film Festival and I think it's a truly remarkable achievement. (According to the filmmakers, all the interiors were more or less shot on the same set that they kept reconfiguring to make it look like different locations.) This is an extremely entertaining, scary, witty movie that really gets under your skin and somehow manages to convey the atmosphere of a rapidly-vanishing gritty Manhattan as well as life during the Iraq war. I've been waiting with great anticipation for this to come out on DVD, and now that it is, I'm hugely looking forward to seeing it again, and to making it my number one choice for a "party movie."
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4532008e46cd2e915aca271f8cb60315d6a0087bac453b947bd39db20e1e4fd
+size 663

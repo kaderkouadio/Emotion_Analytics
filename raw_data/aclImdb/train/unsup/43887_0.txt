@@ -1,1 +1,3 @@
-We're back in the Great Valley again, and this time the haven is disrupted when the water that feeds it stops flowing. Instead of trying to discover the cause, all the dinosaurs stand about arguing and watch as their beloved valley gradually dries up and eventually catches fire. No wonder this lot died out. Eventually another quest plot kicks in and an avalanche of parental advice and anti-bullying sentiment ensues, the soppy moralising about sharing and working together more than living up to the film's nauseating title. It's all very well intentioned, I guess, but the cutesy-poo tone and irritating characters ensure there's nothing to engage any adults nagged into watching it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eee4813fbed55d37e3d51db450467947927c2dde5bac6cb43f8f19abbb84a02
+size 687

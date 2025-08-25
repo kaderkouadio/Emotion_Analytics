@@ -1,1 +1,3 @@
-I went into this movie with an open mind. I had been too lazy to go to the video store to pick out a movie, and my friend returned with this. I promised him I wouldn't laugh at his choice, but within the first five minutes I told him I would have to take back my promise. We kept watching, just hoping it would get better, but no; a continual mind-rape followed.<br /><br />This "movie" was probably one of the worse ever committed to film, and surely deserves a place on the IMDb Bottom 100. I really don't know how this got distributed. The lighting was poor. I have seen better acting in elementary school plays. There is really nothing positive to say about it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd36cdc2ad4c07545c5be84cf46b564c4dbad6ca55fd8a5a34095b56c67186fd
+size 665

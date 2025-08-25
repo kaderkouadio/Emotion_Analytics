@@ -1,1 +1,3 @@
-The Five Deadly Venoms is easily the most memorable K.F. flick from the Shaw Brothers' stable (exc. maybe Master Killer). It has the artists who came to be known as simply "The Venoms", some of the best fight choreography ever, and, surprisingly for a Kung Fu movie, a great plot! One of my all-time favorites!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:244fd75beebb42489947f06ad76d28077d3503f8ff8d5d43f1be95d35cad72c0
+size 312

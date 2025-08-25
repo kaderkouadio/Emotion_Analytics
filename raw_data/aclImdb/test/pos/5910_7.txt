@@ -1,1 +1,3 @@
-Everyone knows that Lindburgh succeeded in the first transatlantic flight. So how can there be any suspense or intrigue in this film? Well, there is. Don't ask me how, but there is. Partly due to the director's expert telling of the tale but mostly due to Jimmy Stewart's thoroughly engaging performance, we are drawn into the story as if it were unfolding for the first time right before our eyes. Despite the fact that half the movie is filmed in a cramped cockpit, it is as dynamic as any action flick out there. So if you are apprehensive about seeing this movie because you think you know the story already, give it a shot. I think you'll be impressed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c7c4f2cd8f1bbd63654b805868b474541f05b13a2e2dcfad1253365f7114f9
+size 657

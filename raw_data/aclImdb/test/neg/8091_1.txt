@@ -1,1 +1,3 @@
-This is movie is garbage, it looked really funny on the previews but I didn't laugh once through the whole movie. Do yourself a big favor and don't waste your money on this, don't waste anyone's money on this. I gave it a 1/10 believe me I would have given it less if I could have. I'm a 15 year old guy and I thought it was trash if you wanna see a good movie go out and see Jay and Silent Bob strike back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:535016b147b9bbea644870a3e7827cef2c7ee46e3f9d603c74c4678c8af068d9
+size 407

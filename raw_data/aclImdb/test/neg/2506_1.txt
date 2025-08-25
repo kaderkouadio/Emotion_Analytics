@@ -1,1 +1,3 @@
-I've seen several of these body snatcher type movies, but none was nearly as bad as this one.<br /><br />No thrill, no FX, bad acting, bad photography, bad sound, bad everything.<br /><br />Blue Jello eats'em all!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbbeb70254c9f0e8cc3a089c50fe4b161684a30ca425bd03cafefe9936e6c0b1
+size 213

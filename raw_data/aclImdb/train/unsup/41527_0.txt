@@ -1,1 +1,3 @@
-I went to this movie hoping to see some good acting by the like of Dustin Hoffman, Susan Sarandon and Holly Hunter. What I got was a waste of $7.25 and a waste of my time. This moving had nothing going for it. I had no feelings for any character except, possibly, Bertie. Hoffman's Ben was too blind to what was going on, Sarandan's JoJo was too angry at everyone and Gyllenhaal's Joe was too much of a coward. This was an extremely disappointing movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c417c3cd063c9e67c7163e72f9233432f08f24f00832746c474faf83fd75795
+size 453

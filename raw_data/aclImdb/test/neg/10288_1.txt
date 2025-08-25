@@ -1,1 +1,3 @@
-After a very scary, crude opening which gives you that creepy "Chainsaw massacre"-feeling, everything falls apart.<br /><br />SPOILER ALERT: As soon as the two FBI-officers start jabbing, you know they are the real killers. Anyone who have seen enough of these "fooled-ya"-movies can figure this out.<br /><br />This movie is mader with one thing in mind: To depict brutal murders. Why, then, is not the little girl tortured and murdered as well? Will this be next for us movie-goers? The torture and abuse of children? Whats wrong with you people? Lynch is truly has a disgusting, ugly mind.
+version https://git-lfs.github.com/spec/v1
+oid sha256:550c2a43840bddeb8e45678c5a79d8b193f54f175b871979bec3f700db9d8a7a
+size 592

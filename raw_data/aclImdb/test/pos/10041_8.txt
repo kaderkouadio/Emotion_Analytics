@@ -1,1 +1,3 @@
-Errol Flynn at his best as Robin Hood of the West, fighting military red tape, confederates , indians and carpetbagger business crooks singlehanded to his great and final heroic end. Not to forget the ever reliable O. de Havilland as Lady Mary of the west. Never try to link this story to the facts and the real persons, it doesn't work out. Just enjoy it, because nobody ever claimed to make documentaries when Raoul Walsh and Errol Flynn co-worked.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fef7d14f1b0d0d5a03a9e8bb747be6bf6851218a457c39146c29a50f6d301f9
+size 450

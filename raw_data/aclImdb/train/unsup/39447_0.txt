@@ -1,1 +1,3 @@
-This is an awful remake. They follow the script almost line for line. But they have not an actor who can act. Belushi tries to be Humphrey Bogart and he doesn't even know how to be a soldier. His pot-belly sticking out, he really is bad. The British doctor is such a shell of a character. He is almost plastic. Skip this one and watch the original. As you watch you see the lack of knowledge of World War II. It doesn't seem that the director of this film understand the reason the original film was made. The reason for some many different nationalities was to show the strength in the United Nations. In this film it seems ludicrous.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c6693872bedab1a7db2309df4264c0ac3b5c506ea95311f6c4931e1b28b4a20
+size 635

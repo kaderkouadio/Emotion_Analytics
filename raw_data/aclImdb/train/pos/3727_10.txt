@@ -1,1 +1,3 @@
-Tigerland is one of the finest films that i have seen, and in my opinion it outdoes even full metal jacket, a film of similar nature. Bozz is played exceptionally well by Farrell, and is a character who stays in your mind long after the film ends. The ending is brilliantly cut by schumacher - with the melodic harmony singing and the slow mo of the troops preparing to leave. What a film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ab4cad514e0d629a9b32fc2c14498df93744e82ed71dc4b656319373696761
+size 389

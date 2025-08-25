@@ -1,1 +1,3 @@
-This was simply a great show. I glanced through some of the many comments which savage this show, and frankly, I don't really get it. This program has a typical sci fi premise, with the twist of adding a slick, insidious dictator along the lines of a self righteous Ayn Rand villain. The special effects and action are a bit cheesy, but the show play it tongue in cheek ("laser whip, really?"). The plot and character interaction steadily improves throughout the show and Flash's allies on Mongo are portrayed as a lesser of two evils instead of being self righteous freedom fighters. Each of the individual cantons has a unique look and culture. The plot steadily builds and the final five episodes are amazing: inevitable, yet soundly executed. Man, I really have no ides why people did not love this show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d278de20aff620f7a90567ab280f5e1c80919025a99ecfcc659414eb6278bd
+size 808

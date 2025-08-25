@@ -1,1 +1,3 @@
-After reading the book The Winds of War and watching the first mini series in 1983, I waited for War and Remembrance to premier in 1989. I own the tape sets and re-watch them every one in a while! Herman Wouk's novel was GREAT and Dan Curtis was outstanding in both mini series. The ABC television network should re-run both mini series for sweeps week. I bet it would be a hit 2nd time around in the 21st century!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e749c803b578faa2e6e4ae1fa03184fdf4131f14afcaa358ecc57c58bd3340a3
+size 414

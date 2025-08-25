@@ -1,1 +1,3 @@
-One of the best love stories ever told. I am looking for information to purchase this movie. Jill and James light up the screen. I always ask people if they have seen this movie and many have not. This is a classic movie and should be re-released.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40cdb055142dd92f7290ddab07124a023f1ce6af535e9221bf4e6e9994032270
+size 247

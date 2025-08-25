@@ -1,1 +1,3 @@
-For my humanities quarter project for school, i chose to do human trafficking. After some research on the internet, i found this DVD and ordered it. I just finished watching it and I am still thinking about it. All I can say is "Wow". It is such a compelling story of a 12 year old Vietnamese girl named Holly and an American man named Patric who tries to save her. The ending leaves you breathless, and although it's not a happily-ever-after ending, it is very realistic. It is amazing and I recommend it to anyone! You really connect with Holly and Patric and your heart breaks for her and because of what happens to her. I loved it so much and now I want to know what happens next!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9546f7ca2f95ac3d0d2c17ed2a3ee5172a0a216ad1a75e012aea3a09542cd6f6
+size 684

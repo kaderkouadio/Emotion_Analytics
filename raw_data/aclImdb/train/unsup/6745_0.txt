@@ -1,1 +1,3 @@
-This movie is Hilarious. I have seen it several times and laugh just as hard every time I see it. No Need for additional commentary here as the other commentary explains the movie. All I can say is MAKE SURE YOU SEE IT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b6af918a8adb23f888f9c7bc248aad0a1e1de90c4f142e0a7d2fbecf56a346
+size 219

@@ -1,1 +1,3 @@
-I saw this movie a couple of years ago. Recently I picked up a copy not remembering I had already seen it. I was about 15 to 20 minutes into the film when it began looking familiar and I realized I had, ergo, why I say its not one you would remember. The plot was some what off beat and you wonder just how much trouble Dermot Mulroney's character can innocently get into; he seems to attract it like honey does flies. Growing up is part of life and it is seen some what here as a young man transitions into manhood, all be it, Mulroney was 28 when he played the part. Several actors did not appear to be of an age near the individual characters they portrayed; specifically, the mother and aunt of Mulroney's character. I found this somewhat distracting. While okay to watch once, I was not that thrilled the second time around.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f1586e2fcc90c28497390dc901d7b7cdcf9ce53a9845621e493e6245666fefb
+size 829

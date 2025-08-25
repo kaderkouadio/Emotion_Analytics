@@ -1,1 +1,3 @@
-I remember seeing this movie when I was about 4 years old and let me tell you that it was great. I was always renting this movie and I was always watching the TV show. It was one of the most fantastic animated adventure made when I was a child. I will always remember the thrill of seing Adora transform herself into She-Ra to save Etheria. It is so sad that it had to end. I really hope that one day a network will show it again to the next generation of children.
+version https://git-lfs.github.com/spec/v1
+oid sha256:905182e0c620c6b2044598505771d1f3007a0810d987dfa3612a5201425f046b
+size 465

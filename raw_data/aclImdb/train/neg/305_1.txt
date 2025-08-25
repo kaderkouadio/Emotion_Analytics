@@ -1,1 +1,3 @@
-I'm glad that I saw this film after Mr.Sandler became famous.<br /><br />It is bad....bad,bad,bad. There is no plot. It's like watching a painfully dull home movie.<br /><br />I really enjoy his other films......but if you're a fan like me....stay away from this one. It may change your thoughts on Adam. You may never recover from the horror that is this film....I've had a better time watching old folks play scrabble in a home.......
+version https://git-lfs.github.com/spec/v1
+oid sha256:62aba1ba00d423b0292738bfe2462f658de4b8e1f9dc7b0777a6b245fde0f929
+size 436

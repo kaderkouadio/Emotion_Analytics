@@ -1,1 +1,3 @@
-Maybe it was the fact that I saw Spider-man the day before I saw Duces Wild, but I do not think that there can be any excuse for this movie being as bad as it was. The cast was there to do it, but it seemed as if once they found them selves with a decent cast they had to try and make them fit into the movie. The only problem was that they did not fit. I did not like any of the characters and the story was sketchy at best. I left wondering why i spent my money on this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2576a63c1a2c2e896d868aefd44b1b563d1e7a5b01be83f39233a345ff46751
+size 478

@@ -1,1 +1,3 @@
-When I heard that Adrian Pasdar was in drag in this movie, my expectations that I would watch the entire movie were low. The only reasons I gave it a chance were the magnificent Julie Walters and the recommendation of a friend.<br /><br />What i thought would be a broad "Mrs. Doubtfire" type of farce turned out to be a gentle and insightful comedy. Pasdar is entirely credible and empathetic as the ambitious business man who needs to release the female part of his being by cross-dressing on occasions. He transmits these needs to the audience in a thoroughly believable fashion. Julie Walters is magnificent, is as her habit, as the landlady who teaches him unconditional love.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acef3e7903d25ff1f832cba167fc09d2aa442938d02380097c093cd9bb41596a
+size 681

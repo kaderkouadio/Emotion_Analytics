@@ -1,1 +1,3 @@
-Gray can make the English language jump through hoops like none other. He recounts a number of events, tied together by his writing of a manuscript (the "Monster" of the title), some sad, some uproariously funny, all in his characteristic, sarcastic manner. If you liked "Swimming to Cambodia" you will love this one. I actually thought this was a bit more interesting and better told than "Swimming to Cambodia". A real masterpiece.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80e91091b533ec21be16505174dfcef794e0add09f3d403f6e7ca1e63b89797e
+size 433

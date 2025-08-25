@@ -1,1 +1,3 @@
-Michael Caine always could anchor a spy flick, and The Holcroft Covenant is no exception. While the plot is a trifle flat, and a couple of the supporting actors (Victoria Tennent) stretch their abilities, the cinematographic techniques and direction by John Frankenheimer are superb, and Caine and Lilli Palmer are absolutely wonderful. The elements of film, particularly outdoor angles from crowded streets and icy violin sound effects echo back to the great spy movies of the Cold War era and lend an almost Hitchcockesque eeriness. The seedy Berlin night life is not overly useful and a bit tawdry, but it passes as just a spicy interlude. And when the climax finally reveals the plot, even the dense can see the implications and relevance to contemporary events in the 21st Century.<br /><br />Frankenheimer puts on a great show!
+version https://git-lfs.github.com/spec/v1
+oid sha256:065a9793129856516f5993b4bcdc1c5a6db5aa02e5170e5e2708ef7ee1bd803b
+size 833

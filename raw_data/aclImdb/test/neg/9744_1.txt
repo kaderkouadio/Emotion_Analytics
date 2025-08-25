@@ -1,1 +1,3 @@
-I couldn't even sit through the whole thing! This movie was a piece of crap! I had more fun watching "Dont' Tell Mom The Babysitter's Dead"! It was just too painful to watch. Say, besides "Austin Powers", has Tom Arnold ever been in a hit movie?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c8e6c63ff659800c14d60b24968c3f1687296337ac6654c06c836d1a3038fa8
+size 245

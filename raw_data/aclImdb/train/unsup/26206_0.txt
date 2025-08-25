@@ -1,1 +1,3 @@
-Slow, but intensely fascinating and erotic story about a typical female English (if there is such a thing...) crime novelist. <br /><br />Bored with her usual crime-fiction character and jealous of the upcoming new writers her publisher offers her a vacation in his peaceful french summer vacation cottage in the idyllic french countryside (close to the ruin of the house of Marquis De Sade!). <br /><br />The publishers very free spirited (some would say nymphomaniac) daughter also visits at the same time (or does she?!) and the two slowly begins to merge leading to the inspiration of a new kind of crime-novel which is eventually published by another firm. Exquisitely acted french film-noir with layers that increases at the second viewing ;-).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ffcfd8be0af626c4df01289e95645dd24eb457112229b0ad9ffc5393dccdd7c
+size 750

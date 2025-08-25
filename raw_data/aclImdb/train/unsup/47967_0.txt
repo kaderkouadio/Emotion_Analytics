@@ -1,1 +1,3 @@
-"Particles of Truth" is a dull, uninspiring film with a weak storyline. The film is about Lilli a washed up artist with bad hair. She is at most unlikeable in appearance and personality. Throughout the film, Lilli is depressed and unkempt. We see why she is so: Her parents were drugged out hippie commune like folks with no direction in life and her love life stinks. Throughout the movie, Lilli meets Morrison a man who suffers from ocd. There is a possibility of a romance for Lilli and Morrison. But their scenes lack chemistry and passion. In a later scene, Lilli sees her dying father. They reconnect briefly and the film ends meaninglessly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdc9b8d5350bf4a47f1adbc4d8ec00289b1edb09ba1d056f08440ccf22a9f197
+size 647

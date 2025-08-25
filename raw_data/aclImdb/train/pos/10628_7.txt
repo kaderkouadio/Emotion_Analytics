@@ -1,1 +1,3 @@
-despite the occasionally stilted acting and "seen-it-all-before" story, this is a fairly compelling movie.<br /><br />It has suspense, the scenes with the demon are actually pretty creepy, some of the visual effects are superb and best of all, no ridiculously ill placed humour to detract from the film, as too many (wannabe) horror films have in them now<br /><br />honestly, this isn't the greatest film ever made, but it actually draws you in and at least makes an attempt at character development<br /><br />i was glad i watched it
+version https://git-lfs.github.com/spec/v1
+oid sha256:e85f7a8aae24f9a5a824e1ef125adfc270cf7b8bded33a57ffc1a2a2aae82475
+size 535

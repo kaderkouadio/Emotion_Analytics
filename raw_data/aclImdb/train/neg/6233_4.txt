@@ -1,1 +1,3 @@
-Outrageously trashy karate/horror thriller with loads of graphically gory violence and gratuitous nudity, and a thoroughly preposterous and bizarre "plot". This is lowbrow and low-grade entertainment that will appeal only to viewers with particularly kinky tastes, but it's kind of cheerfully bad and I must admit that I wasn't actually bored while watching it.... (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc16da3446dd3385f974870ff9c527c8153b4a379c0b35287586bdca1ac31370
+size 371

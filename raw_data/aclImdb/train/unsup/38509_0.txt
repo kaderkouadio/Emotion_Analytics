@@ -1,1 +1,3 @@
-This film is poorly cast, directed even worse and you would do well to spend your money sitting in the lobby eating popcorn. It should be a romantic farce. Instead attempts to make it sincere, deep and touching are misguided, poorly executed and immature film-making at its worst. The Four Last Songs do not enter into the presented theme if there is an attempt to bring out a theme, and perhaps that is its greatest flaw: what was this about - wife vs muse, father/daughter, ex patriots adrift, brothers in jeopardy? Or just poor cinematography in a beautiful location. It appears to be an American version of an European melodrama by students with more money than talent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ce53ba9e9c9e0bfdec6589ce1f8e80fe680ae57d0cbae1ec1d30f76bd19e8df
+size 673

@@ -1,1 +1,3 @@
-The movie's got it all: great acting, gripping story, exceptional music, drama, pathos, humor, great visuals. Besides illuminating the story of Billie Holiday and showing us early 1900's in America (fairly truthfully for Hollywood), it has Diana Ross, Billie Dee Williams and Richard Pryor. Particularly impressive since it was the acting debut of Diana Ross - what range! Young, old, successful, sick, sober, high, happy and downtrodden.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a6f408958787d9e2d49d2a36dd179aaa061b25caf2419ba7143de534df4d688
+size 438

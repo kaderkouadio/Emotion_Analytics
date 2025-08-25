@@ -1,1 +1,3 @@
-Drew Barrymore is such a great actress when it comes to these kind of movies. She stars wonderfully and gets away with the quirks and jokes. Romantic comedies like this suit her and I believe that she's done her best so far. Check out her other romantic comedies. You'll see what I mean.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab717172605d221f0429770f67ff8dc2d7090bf862ceec85a5ff5d31d674a405
+size 287

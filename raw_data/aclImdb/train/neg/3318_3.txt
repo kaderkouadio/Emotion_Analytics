@@ -1,1 +1,3 @@
-How good is Gwyneth Paltrow! This is the right movie for her... too bad she's completely out role. I haven't read the book by Jane Austen, but I can't believe it is so superficial and the characters aren't much more than caricatures. It wasn't probably that easy to reduce in 2 hours of show about 600 pages of the book, but I had expected more than just seeing old pieces of furniture and tea cups. I was taking a sigh of relief every time I saw an actor who didn't overstep the mark of overacting (a couple of times).
+version https://git-lfs.github.com/spec/v1
+oid sha256:23135142258fae45bfbe3bd036ecb5c3479689874105d6dfb2ccbbdb8ac1a8da
+size 519

@@ -1,1 +1,3 @@
-Hard to fault a Clint Eastwood movie; he is so versatile. Interesting to see his daughter Allison at such a young age, as previously the only thing i ever saw her in was "Midnight in the Garden of Good an Evil", which he put together around a set of Johnny Mercer songs. Interesting to see him so young too; he looks like a kid in this movie. Also cool to see New Orleans in the 80's, "pre-Katrina"..Pretty risqué for an "80's" movie; lots of nudity for such an old movie. The one thing i didn't like about it was that it was so dark; a lot of it was filmed at night or in the cat houses. Also after seeing current "CSI" shows regularly, it does seem a little primitive in their investigative methods.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a927f453fab0dbb5923707be1778e6cc261fc320d8976f0075522454a7d7be9
+size 702

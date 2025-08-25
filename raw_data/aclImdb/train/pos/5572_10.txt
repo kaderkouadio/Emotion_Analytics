@@ -1,1 +1,3 @@
-This movie was hysterical. I haven't laughed this hard in a long time. I mean, it's not "Good Will Hunting," but was it supposed to be? I actually went into the advanced screening expecting a lot less and was pleasantly surprised. The comedy hits hard and is fairly constant. Amanda Peet is hot and awesome. The entire audience that I screened it with seemed to be enjoying the film as much as I did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f9be0d31b1a0dd43a55496e6aa47f4b97e69978e77d6bbee95c76b04d6c3a14
+size 400

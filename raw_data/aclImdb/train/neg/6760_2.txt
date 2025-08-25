@@ -1,1 +1,3 @@
-Renown writer Mark Redfield (as Edgar Allen Poe) tries to conquer old addictions and start a new life for himself, as a Baltimore, Maryland magazine publisher. However, blackouts, delirium, and rejection threaten to thwart his efforts. He would also like to rekindle romance with an old sweetheart, a significantly flawed prospect, as things turns out. Mr. Redfield also directed this dramatization of the mysterious last days of Edgar Allen Poe. Redfield employs a lot of black and white, color, and trick photography to create mood. Kevin G. Shinnick (as Dr. John Moran) performs well, relatively speaking. It's not enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de0dd7cf0bcbd80aeefaebfdb34aa9a56bce32ae4dd20956979e23eb4114e2bc
+size 625

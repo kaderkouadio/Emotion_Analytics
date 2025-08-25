@@ -1,1 +1,3 @@
-Valley Girl is an exceptionally well made film with an all-around great cast. Even though the dialogue is a bit dated now, when the movie was released it was very hip. To this day, I know many people (teenagers included) that cannot form a sentence without using the word "like". That is without a doubt the legacy this movie will leave. A rating of 8 was given for this, like, most excellent movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b222d2b3cd8066ca00afe0d20a605d672c6dcb9f323b49321ac39ebe35a8a3b3
+size 399

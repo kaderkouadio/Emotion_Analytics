@@ -1,1 +1,3 @@
-Albuquerque is a film that has all the elements of a class A western, except one: the story, that really belongs to a class B or C. That was acceptable at the time the film was made, when people were so thrilled to see a western in color, but nowadays it just looks very primitive. Nonetheless for people who enjoy old westerns, it is entertaining, the original color and sound are very well kept on the DVD that recently came out. Gabby Hayes is a good sidekick, Lon Chaney is mean as always, and Randolph Scott a bit more cheerful than usual. In a film named Albuquerque you would expect to see something that would remind you of the city, but the town that is shown here could be just anywhere.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e406bb4b94f9b082ecb472b0cd23188bfe7b679f5d55a60393b50e1384f2db
+size 697

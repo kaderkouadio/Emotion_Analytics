@@ -1,1 +1,3 @@
-This movie surprised me, it had good one-liners and laughs, + a nonstop action-packed storyline with tons of gun action and explosions. This movie surprisingly had a lot of good twists and turns. The plot is solid despite what others may think, it kept my interest the whole time right up till the very end. In conclusion; this is a great way for an action movie buff to spend time on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba764ef811aab0406442bf4a2392aa59e250365f58c80e19c296db2f757e225f
+size 385

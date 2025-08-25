@@ -1,1 +1,3 @@
-He plays straight but with a quiet intensity that makes him one of the top cops in movie history. Roy Scheider stars in a poor man's French Connection that has a little of the same gritty appeal. FC is a better movie, but I prefer watching this one because 1) I think Scheider is great and this is his best movie, and 2) this has the best car chase EVER, one that makes Bullitt look like a cable production (thanks again to Bill Hickman, who actually plays the driver). It doesn't hurt that Tony LoBianco stops by (again) to play a baddie. Please enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd04abe9690220bc0be019fc019751525ba5af6882388f1ee0128d8de424bb50
+size 553

@@ -1,1 +1,3 @@
-We really enjoyed the first part of DANIKA, but it got more and more confusing as it went along. As the drama progressed, we held out hope that the many questions we had would be answered, but that did not happen. After the movie, we went online and searched and only THEN did we feel like we partially understood the movie. There are still lots of loose endings and unresolved questions, but maybe this movie was just too "psychologically thrilling" for us to understand! :) <br /><br />When all was said and done, it felt like a waste of 80 minutes of our time. If you are someone who enjoys tidy endings to movies, DON'T rent/buy this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c757e4c2ebfcdbf7ff8a579050950f8bae4df5156a37a48195d62a63432a565
+size 642

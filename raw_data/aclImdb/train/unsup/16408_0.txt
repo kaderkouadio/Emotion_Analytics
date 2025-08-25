@@ -1,1 +1,3 @@
-The "true account" of the tribal wars of ancient England. In minuscule budget.<br /><br />King Arthur fights saxons, picts and whatnot in this watchable little flick. Lots of effort has been put into sets, mainly in pouring shedloads of mud on the ground. It's not the great adventure you'd expect, but as it delivers it's peaceful message towards the end at least I wanted to believe it.<br /><br />Released on video in Finland in the early eighties.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4cf8beca285e539789e1c9606563c0dc361e86667100abe60400595b731d2c4
+size 451

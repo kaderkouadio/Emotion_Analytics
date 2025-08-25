@@ -1,1 +1,3 @@
-So often with Stephen King adaptations, you just get a collection of characters reciting dialogue from the books. This really captures the heart of the book. Maybe because they DON'T use large chunks of text straight from the book, but it's a bit more of an improv of the events in the story. A big part of its success is Miko Hughes as baby Gage. Dale Midkiff and Denise "Tasha Yar" Crosby really act like his parents. There's a scene where Louis is cuddling Gage, and they are very natural together. Fred Gwynne is WONDERFUL. He nails the Maine accent perfectly without lapsing into parody, and is wise and warm just like Jud should be. (8 out of 10)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a489b27d867b3f1d6c71e82f7ccb339bb1933c77952c634830a5b5527ef2025e
+size 652

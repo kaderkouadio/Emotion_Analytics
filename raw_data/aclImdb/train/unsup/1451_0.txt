@@ -1,1 +1,3 @@
-I didn't expect to rate this movie more than a 4 before I saw it. The director has taken a plot which looks boring and trite and turned it into a unexpectedly good movie. Lots of clever lines(ala Neil Simon)and excellent performances by all actors. I gave this a "7" rating and should be watched whenever one wants something just fun to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:313354e5cd8e8e9706a79a55ff13a331ed8fffb9770b8b0de64e1079a71f69a8
+size 343

@@ -1,1 +1,3 @@
-I recently saw this movie for the first time. I enjoyed it so much that I went right out and bought the DVD. This movie is pure genius and only gets funnier with each viewing. Anyone can write jokes or funny dialog and have actors memorize them, but the basis of this movie is improve!! How do they do it? Thank you, Christopher Guest!
+version https://git-lfs.github.com/spec/v1
+oid sha256:883fcd8812476318e81453007fc8a73d4f9f2b6f88b1167ee8246910252f5e4b
+size 335

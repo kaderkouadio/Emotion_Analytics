@@ -1,1 +1,3 @@
-A well-made run-of-the-mill movie with a tragic ending. Pluses: The way the story moves - begins with Soorya struggling to live followed by a long flashback about why he's there. The Music. A disinterested look at the life of policemen. Minuses: The violence and the gore, but I guess they add to the realistic effects. Still, having people's heads chopped off and sent in boxes and sacks could have been avoided.<br /><br />No complaints - 7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:4476776a24378198ca41e65071ef5528c30dba4ae4f91eecf0aab5c90f94362e
+size 445

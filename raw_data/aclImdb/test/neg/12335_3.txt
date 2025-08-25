@@ -1,1 +1,3 @@
-This movie had the potential to be a decent thriller, but it was hampered by only having about twenty minutes worth of good script, which was mostly used up in the beginning. After that holes started to appear in the story that one could drive a truck through. The movie followed a descending curve from good to ordinary to bad to ludicrous by the time it concluded. It's not recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6d9463b8e1b99d3142bae589b6f7b30fedb482440908e90c96253b62e99a94
+size 388

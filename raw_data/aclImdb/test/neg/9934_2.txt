@@ -1,1 +1,3 @@
-I have been a rabid Star Trek fan since 1966. Still am. One thing I learned from Star Trek is that the special effects are secondary to the characters. Encounter At Farpoint fails in its mission.<br /><br />Superbly produced.<br /><br />POORLY directed, written, acted. D.C. Fontana really blew this one. This episode is so embarrassing the master tape should be burned.<br /><br />The first half of the first season didn't fare much better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10e2d2c0f3e60e3579b02d1a0b7694afd980010ffa379696e3b7ee28f922921b
+size 441

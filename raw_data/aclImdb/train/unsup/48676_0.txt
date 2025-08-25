@@ -1,1 +1,3 @@
-Leslie Nielsen and Patrick Macnee? How could they go so wrong? I've gone out of my way to watch really bad films, and in their own way they're often entertaining. This was painful.<br /><br />Nonexistent plot, spun out for 75 minutes. Little discernible attempt at humour - and believe me I'm the target audience for spoof space film references.<br /><br />There must be an amazing backstory to this film - good cast, but they clearly didn't want to be on that awful set in that forsaken community college. Perhaps this is in fact the funniest film ever - and the joke's on all the viewers who sit through it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd33f6ed7d575c1de526d5acb604d1c29f8555b63818609185ba8e5a905dc67d
+size 609

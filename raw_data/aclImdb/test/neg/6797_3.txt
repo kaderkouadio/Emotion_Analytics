@@ -1,1 +1,3 @@
-This was an abysmal show. In short it was about this kid called Doug who guilt-tripped a lot. Seriously he could feel guilty over killing a fly then feeling guilty over feeling guilty for killing the fly and so forth. The animation was grating and unpleasant and the jokes cheap. <br /><br />It aired here in Sweden as a part of the "Disney time" show and i remember liking it some what but then i turned 13.<br /><br />I never got why some of the characters were green and purple too. What was up with that? <br /><br />Truly a horrible show. Appareantly it spawned a movie which i've never seen but i don't have any great expectations for that one either.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c408141e119e7af0922210f736bf9a46a84de8c2831b88de21f048da649c4c
+size 657

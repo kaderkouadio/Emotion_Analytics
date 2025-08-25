@@ -1,1 +1,3 @@
-This movie is extremely funny - the character of momma keeps me returning to the movie time and time again! I can't get enough of her dry lines ... like when she tells her son Owen to bury his friend in the back yard before he smells up the place ... and her suspicion that Owen is trying to kill her by giving her unsalted nuts! It's hilarious!<br /><br />If you like movies such as National Lampoon's Vacation, Uncle Buck, or Planes, Trains & Automobiles, this has similar humor. It's a great, wholesome laugh ... a must see!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c21088ba2f88eaeecc64e5b2c2558ebd2a61b7932fa61d0ff82fc78f5f8b736a
+size 527

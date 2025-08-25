@@ -1,1 +1,3 @@
-I guess this movie was alright. I have always been a fan of the Scream series and I enjoyed this one. The writers put way too much humor into the movie though. They didn't keep a dark enough tone like they did in the first and second. Despite this it was still a good movie, entertaining, scary, creative, etc. It is a great way to end the wonderful horror series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c09a2c21a8bc73b0c3d6716c33464fd1697002d3cc7d6a30ed806756e5fe788
+size 364

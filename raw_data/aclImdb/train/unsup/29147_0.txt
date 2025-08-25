@@ -1,1 +1,3 @@
-This is a really great action movie starring the master himself, Gary Daniels. The movie has lots and lots of action scenes. The fighting scenes are GREAT. Daniels delivers, and shows us that he is one of the best martial artists actors out there. Just keep in mind that, despite this being a Daniels-movie, there aren't that many fight scenes in it. But there's much action, for example a really long car chase scene, and shooting as well. Pretty standard action-plot, but that's exactly what action fans want in a movie like this. People who think otherwise should watch a crappy drama movie instead. Verdict: 7 stars out of 10. Well deserved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af8d940e3bfa13b86bf9f29c98c2baed1d0040000e40a67d5ea459ec35189c07
+size 645

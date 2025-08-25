@@ -1,1 +1,3 @@
-This is a great movie about the Cambodian genocide. Refusing any sensational or sentimental approach, it is just made out of testimonies, and patiently, slowly tries to understand how such a thing could happen. The mechanics of the Khmer Rouge crimes, the paranoiac will to obtain (by torture) a "reason" (completely absurd) to kill their victims is terrifying. And testimony's of the torturers are striking of refusal. Patience, the intelligence and the firmness of one of the rare surviving victims give again fortunately confidence in humanity. This movie is made on a similar approach to Claude Lanzmann's "Shoah". Which means to place the testimonies in the center, and refusing any reconstitution or archive images. Maybe the only way to speak about such an event ?
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c9e9f9cfec37a880f4a2bc66a75d94f0f1a9aff365ebfb941217708066e174
+size 771

@@ -1,1 +1,3 @@
-And thats about all that is. This thing is slow. The actors have ability, they just don't seem motivated to put forth the effort. The plot isn't that great and is hampered further by the aforementioned slowness of it all. The accents, when there are any, are British. Uh, lots of these folks are supposed to be Danes. OK, OK, accents aren't that important. But language is. I don't think they used words like "yeah" and "OK" in Beowulf's day. And that supposedly way cool weapon his king gave him? Did he ever reload that thing? Did he ever sight it in? Or was Beowulf just that bad an aim? Well, his aim did at least match the computer graphics used in generating the monsters. Those were rather off too. Bad special effects. Bright spot? Just one that I can think of. Marina Sirtis has held up well over the years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be90d8a892a3070e8fa223e73f03f6b4916e4adcec0abfa747f04fb9f2d6df58
+size 816

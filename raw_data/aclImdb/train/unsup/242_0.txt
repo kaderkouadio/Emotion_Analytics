@@ -1,1 +1,3 @@
-Synopsis: "Na Nan has known best pal Dong Mi and Jung Joon since childhood, and now the trio shares the ups and downs of their turbulent single lives together. But everything turned on end when Dong Mi and Jung Joon end up in bed! Na Nan has a job offer and a marriage proposal from the Charming Soo Heon to consider, and her twenties are fast coming to end. What's the generation of soon-to-getting-older youth to do?" I liked this movie a lot. The plot was light hearted and funny, and characters were well developed and are people you can relate to. Na Nan especially shone light on what it means to be single and fabulous (well, not gracefully).
+version https://git-lfs.github.com/spec/v1
+oid sha256:17eb32962f55775febe568e60736a6117b396494768a5de7c872fc4f760d01ec
+size 649

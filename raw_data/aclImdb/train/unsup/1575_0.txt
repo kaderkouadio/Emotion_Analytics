@@ -1,1 +1,3 @@
-This is a top ten pick for me. It's not so much the Orwellian culture it depicts. It's about our humanity; what we are. The shadow of the huge lectern where Fritz Weaver lords it over the accused. His incredibly emotive speech method. It's Burgess Meredith, seemingly cowering at first and then realizing that if his life is to have worth, he needs to make a final statement. While there is a bit of religion thrown in there, I like to think that it is the wish of this man to simply live out the last moment of his life on his own terms. Meredith, as I've said before, is a great actor. His calmness and grace in this role make this otherwise simplistic tale sing. The meek shall inherit the earth I guess.
+version https://git-lfs.github.com/spec/v1
+oid sha256:354080a002d860b85f990c424559e4ec82829f96ab91b72fcc12e4d3ca874717
+size 707

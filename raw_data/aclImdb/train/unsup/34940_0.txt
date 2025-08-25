@@ -1,1 +1,3 @@
-This sequel is rather quite disappointing to me. In all honesty I loved the first film, Romancing the Stone, so I when I heard there was a sequel to this I was excited to see it. So I went ahead and rented Jewell and it turned out to be one of the worst sequels I've ever seen. I figured it would be at least an entertaining fun movie, especially since it had the stars back from the first film. One thing that really ticked me off was the cheezy score that accompanied the film. I don't know whose idea it was to make this movie but as soon as Robert Zemeckis and Alen Silvestri said no this production should not have gone underway. Michael and Kathleen weren't bad but even they couldn't save this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55570702cee435305791d4bb3ddc685b9d60f6451290436b3ec0f76520ce2d84
+size 705

@@ -1,1 +1,3 @@
-After I watched this movie, I came to IMDb and read some of the reviews, which compared it to Lost In Translation LITE. When I read that I immediately could see the reviewers point.<br /><br />This movie was a poor attempt at a similar theme. Interestingly, the format of the movie is nearly identical, but the PACING is incredibly different. "10 Items" rushes the viewer through the 1-day time line of the movie, whereas the better-planned "Lost In..." seems to stretch out over a few long days.<br /><br />I'm sure some people will see this because it has Morgan Freeman, and will be disappointed. It seems his better roles now-a-days are supporting roles in big blockbusters, rather than leading roles in sub-$10mil limited release movies and indie films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92f2f811b00b25ad40f99ad076c39393812351cefd3f896f5cee10e7f1c50711
+size 758

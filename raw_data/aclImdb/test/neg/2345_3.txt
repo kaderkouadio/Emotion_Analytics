@@ -1,1 +1,3 @@
-Mediocre at best. Slow, but probably more entertaining to the younger viewers. A young boy(Chris Miller) is haunted by an Indian spirit and horrid monster in the cellar of his father's new home. Also in the cast are Patrick Kilpatrick, Suzanne Savoy and Ford Rainey.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbfdad4813c9ce1b565c9f5a6119e90a910f5f5151fcf8ae5f43ab447bd44f07
+size 266

@@ -1,1 +1,3 @@
-I guess maybe I'd have been interested in this film if I knew anything about skateboarding or the history it documents.<br /><br />However, I didn't, and I was bored. This movie did nothing to encourage my interest; I didn't care about the characters or anything that was happening. Furthermore, the stunts weren't even at all impressive (except a few shots of modern trick skateboarders at the very end, and even that was just impressive by comparison).<br /><br />Don't go see this film unless you know you're already interested. At least it's short.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b304b1508606bd9429abdd8c073eeec0012f91fe16720486e8e73a78dd45b2e
+size 552

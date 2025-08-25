@@ -1,1 +1,3 @@
-One of the funniest films I ever saw in the theater back in the early '70s, and sadly, it's only been on TV a few times since. This movie should be released on video. It's Sellers at his sleaziest, slimiest best as a crooked hospital administrator. Great cast, great movie. If anyone has a good VHS copy, I'd love to buy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c07c624a415cff8a0489dbbd905801286708e18d8fe5c90d725c26de638a5911
+size 324

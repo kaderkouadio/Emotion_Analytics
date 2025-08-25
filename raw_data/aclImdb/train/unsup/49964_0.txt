@@ -1,1 +1,3 @@
-In 1870 Philadelphia, faint-hearted Don Knotts (as Jesse W. Heywood) obtains a license in dentistry, and decides to spread "dental health through the west like a plague." After his stagecoach is held up, Mr. Knotts joins a wagon train. He plays horsey with buxom Barbara Rhoades (as Penelope Cushings) and dresses up as a fetching Indian squaw. Is Knotts' character bisexual? The ending leaves the question unanswered. Gun smugglers Jackie "Uncle Fester" Coogan and Don "Red Ryder" Barry head off an able supporting cast. Vic Mizzy's wild, wild western music resembles his own "Green Acres". All in all, this is a tedious, uncalled for re-make of Bob Hope's "The Paleface" (1948).<br /><br />** The Shakiest Gun in the West (7/10/68) Alan Rafkin ~ Don Knotts, Barbara Rhoades, Jackie Coogan
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d3bbaa960c98e4239c5dff9dd46d6d6ea2005fe670017467c0fefcc224913ec
+size 790

@@ -1,1 +1,3 @@
-...this movie no doubt severely disappointed most Forsyth fans. It had very little to do with the book. It seems that (as usual) some Hollywood wonk, noting that the novel was a best-seller, gave some hack the basic premise from the back-cover blurb and got him to make something up that would appeal to Joe Sixpack and his girlfriend. The result? A cliché-ridden B-movie. Forsyth must have been livid.<br /><br />It's competently handled (for such an old film it holds up amazingly well), but what presumption! The original story was just fine. What made them think that their version would be better?<br /><br />Pity they didn't have the sense to hire Kenneth Ross to do the screenplay. He'd already done two of Forsyth's other books (Day of the Jackal and Odessa File), and at least made the effort to be faithful to the originals.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566ecde276d0e80be4cc303c302b276047fbec04f6e545db5f77ad0b8d50faa8
+size 835

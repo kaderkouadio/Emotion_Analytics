@@ -1,1 +1,3 @@
-A Three Stooges short, this one featuring Shemp. Of all those involving Shemp I've seen, this is my favorite performance by him in a Stooges short. The basic plot is that Shemp must get married by 6 o'clock that very evening if he's to inherit the half a million dollars a rich uncle left him in his will. So Shemp sets out to get himself a bride but finds it a tougher road than expected, that is until they learn of his inheritance money. Best bits here involve Shemp shaving, Shemp and Moe in a telephone booth and Larry on piano as accompaniment to Shemp's voice-training session. Also the sequence where Shemp is mistaken as Cousin Basil and its outcome proves hilarious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18c3ae0cfa02fc16a5830d947242d958f2d44f6f1033525cf0cfee1539fc3fd6
+size 676

@@ -1,1 +1,3 @@
-Chevy Chase is just awesome, I can't say it enough. He is funny in every movie he's in. Charles Grodin is good in this one too. I love the way he moans and groans like a wuss. It's hilarious. This movie is just funny. Chevy leads the laughs, and the black butler Chester cracks me up. Watch it, it comes on an HBO every 2 hours it seems like .
+version https://git-lfs.github.com/spec/v1
+oid sha256:365908e6245c03eee36fa22b2c8527de03d14c0fcf8e3e2d8a88f1505b859511
+size 343

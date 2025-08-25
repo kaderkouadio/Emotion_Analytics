@@ -1,1 +1,3 @@
-How can someone buy this film. My husband and I have been trying for two years but we can't find it. Is there a copy out there available, if so what is the price? It is not at all a cartoon but an excellent piece of Victorian art. The drawings evoke the sketches used in Dickens own time. There are moments that are intense, certainly frightening for young children.<br /><br />The pacing causes one to feel as though Scooge has very little time left to mend his ways. The ghost of Christmas Present is much darker than in other versions. Ignorance and Want are included in a very effective and horrific manner. Marley's ghost is not to be missed.<br /><br />This is anything but Mr Magoo or Mickey Mouse Dickens. Please post info as to where it can be found.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe0b0d62ee823b2ee3e19e15cb6bf3151535d99fb7cde6059a16fde2cdd18028
+size 759

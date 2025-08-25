@@ -1,1 +1,3 @@
-Alien body-snatchers in the desert. Little blue rocks that look like they are made from cheap plastic. The overall storyline isn't bad if you like that kind of thing but the acting is so far beyond poor that it amazes me that some of them actually entertained my in The X Files! And the special effects? Hello?! Where did they get their FX crew from, Secondary School? I mean, come on; there was so much more they could have done! It was amateur and extremely basic. I didn't particularly enjoy it (and my Dad fell asleep during it!) And of course our hero falls in love with the leading lady! Its so typical and highly predictable. Bleugh!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5a62a436c5a76256eab326f758ad88321706f52b171eb91704c08d21d6778d1
+size 644

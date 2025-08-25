@@ -1,1 +1,3 @@
-I love this movie. Even though I rated it a "4", that's because the acting, the plot and the budget were all slated to the "B" universe even before this movie was released. But that's OK! It is an entertaining film that has a lot to offer! <br /><br />I remember what Leonard Maltin said about "Plan 9 From Outer Space": a film so bad that it's great! Lacking the UFO - alien plot, The Thing the Couldn't Die relies on the supernatural (divination, a buried head looking for it's body, hypnosis, etc) to tell it's story. The acting is stilted, the camera work second class and the settings are limited, but boy! what a movie! This film is available in the bootleg market. If you find a copy, buy it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:68da63c5095b67d4e35618c8729b09d706a5bc2fe2def24d9fb12bd4b4ae07d9
+size 699

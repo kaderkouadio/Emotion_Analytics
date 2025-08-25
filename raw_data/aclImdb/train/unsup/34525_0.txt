@@ -1,1 +1,3 @@
-Richard Benjamin's 'Made in America' keeps harping on a theme in vogue.<br /><br />According to the script Nia Long realizes that her father was a sperm from a sperm-bank. Whoopie Goldberg - her mother - denies everything. Even that she was born at all. And then comes a white man called Ted Danson and upsets their whole world.<br /><br />So that's the story. Goldberg extravagant performance is annoying. However she and Danson falls in love with each other on the shooting.<br /><br />Will Smith has eyeglass, the script has no gags, and we have to see something else.<br /><br />4 of the 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be58c80ce0d83e92affa594e66f0e6e339063674a461237c03caa6d18c6a2afd
+size 595

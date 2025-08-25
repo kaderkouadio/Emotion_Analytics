@@ -1,1 +1,3 @@
-Hulk Hogan plays Rip a professional wrestler who has a big heart but is pushed to the limit when his girlfriend(Joan Severence) is kidnapped by thugs who are forcing him to take on another wrestler(Tiny Lister Jr.)Bottom of the barrel actioner is such a failure that even Hogan looks ashamed to be in it, and with the evidence portrayed, he should be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1266529c51678368a47ce9306e1556c7aa95a033441c957f3c85f9788952e515
+size 351

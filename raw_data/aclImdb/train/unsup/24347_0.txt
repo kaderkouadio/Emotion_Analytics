@@ -1,1 +1,3 @@
-Ahhhhhh! This is really cute, especially the cousins. Its message is subtle and not laid too thick. The evil spirit is really scary. Her voice drips with pure poison and you have to admit that the world would be terrible if nobody cared. The good characters have plenty of charm and personality. They're not cloying. You really care about what happens to them and that's what makes a good movie. 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:58ea04ef7ef54d967230f2842eeda8aab1cad439a61aaa25d420ce8bf52e744a
+size 400

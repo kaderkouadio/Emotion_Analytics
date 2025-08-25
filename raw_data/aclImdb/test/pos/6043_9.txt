@@ -1,1 +1,3 @@
-Misfit recruit private Owens tests drill instructor Sgt Moore's (Jack Webb) skills. No explosions or bloodshed or hip soundtrack or sex. It is set at the USMC's Parris Island S.C. boot camp and most of the cast were actual Marines. Memorable one-liners abound, and the closing credit's "dedicated to..." is intense. With such strong male and female characters, this movie could not be made in today's touchy-feely world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d63eb9997e888927c56e1bbbc197bf2997c06cfd39bbd81ed0e8f669fab41cb5
+size 420

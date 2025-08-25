@@ -1,1 +1,3 @@
-This movie looked like it was rushed to release for some reason. Definitely not a well made movie. So unbelievable. The scenes where the President (Holbrook) were downtown and walking among the people were a farce. There would not be a chance for the common folk to be within 30 yards of the President in that situation in real life. If it wasn't for the blood and profanity, this was shot like a TV movie. It could have been decent if it was done differently. Holbrook's (President) talents were never realized in this movie. Shatner's acting is okay. The production values in this movie leave a lot to be desired. Overall, I think most people would be better off not wasting time to watch this affair.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51dce075d2a9b9e4310d8ed3ccc2a8d9e9766640705122bc05c739b58c5060b9
+size 703

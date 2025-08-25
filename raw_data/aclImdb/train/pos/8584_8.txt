@@ -1,1 +1,3 @@
-Sergeant Ryker is accused of being a traitor during the Korean War, a hanging offense. A long drawn out court-marshal ensues during which time the Sgt. must remain in a military jail. After much investigation the defense attorney attempts to exonerate the doomed non-com with an eleventh hour ploy. Very good picture.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a44a9a25377100ffce308454f5f17e750d52dd546aa1438cca23795980116ee
+size 317

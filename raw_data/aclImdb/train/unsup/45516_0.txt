@@ -1,1 +1,3 @@
-I thought this would be wry and amusing like Hope and Glory and others of that ilk. Instead, it was one-note and pedantic, making even the otherwise fantastic Mr. Postlewaite wear thin quickly. This movie has more anger than substance. It gets highly ranked because it is independent and the theme is popular, but it is just not very entertaining.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f3db2e7083494925f3d75aa11583ef6b2806345e0ea427c0598d44e0549ea3b
+size 347

@@ -1,1 +1,3 @@
-The original Vampires (1998) is one of my favorites. I was curious to see how a sequel would work considering they used none of the original characters. I was quite surprised at how this played out. As a rule, sequels are never as good as the original, with a few exceptions. Though this one was not a great movie, the writer did well in keeping the main themes & vampire lore from the first one in tact. Jon Bon Jovi was a drawback initially, but he proved to be a half-way decent Slayer. I doubt anyone could top James Wood's performance in the first one, though... unless you bring in Buffy!<br /><br />All in all, this was a decent watch & I would watch it again.<br /><br />I was left with two questions, though... what happened to Jack Crow & how did Derek Bliss come to be a slayer? Guess we'll just have to leave that to imagination.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e0f35e9c2b2e0ef1e7c23d5751a8913be0b7f102e8a9c5996fbb94d7ce1ebf0
+size 841

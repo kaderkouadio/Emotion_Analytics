@@ -1,1 +1,3 @@
-Under the Sand was a haunting, touching movie. Charlotte Rampling was excellent as the denying, grieving wife. I think the film did a good job in examining the effects from the death of a spouse. It is not a young person's movie nor is it a particularly happy movie. It does have an effect on you. I wondered if I would be as strong or as weak as Marie Drillon if placed in a similar situation. The movie invited this introspection and that for me is the hallmark of a good film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a605f792d2339c5aea9c18672e8ac13d6744abfa37d146dc86ce86a7f0a5f86
+size 479

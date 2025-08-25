@@ -1,1 +1,3 @@
-This movie is about an irresponsible young couple that live in their car with no means of support. When they find out they are expecting, they see their unborn baby as a way to make money. They research many couples on the internet (how do you have internet with no place to live?) and visit a prospective couple. A couple they have seemingly chosen as the adoptive parents. The couples come together and things go well as long as the baby's biological father can keep his true nature under control. He gets angry and slaps his pregnant girlfriend which makes the adoptive father question whether or not they are making the right choice with this adoption. It is from this point that things start beginning to take twists and turns. You may be able to predict how the movie is going to end, but the trip to the end is an enjoyable one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf258fb58aa4c592f11ccd896ae73bd2f02328e48deae205c42a752b845354b6
+size 835

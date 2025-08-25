@@ -1,1 +1,3 @@
-You won't know who to root for, if anybody, in this Hitchcockian caper film, which seemingly pits Gayle Hunnicut and Michael Sarazin up against Hunnicut's Aunt in order to steal her fortune -- or does it? And what is it all really about anyway? The location camerawork in San Francisco is terrific. And, Linden Chiles scores highly in a key supporting role.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27c72b8712248a81b9669d1bfcbf2beb084d5ca3d19a088a00e81fda0490488b
+size 357

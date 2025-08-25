@@ -1,1 +1,3 @@
-Engaging characters, nice animation, dynamite songs...all this and cute kitties, too. There's a lot of excellent humor, but no real menace, so don't worry about your little ones. The two farm dogs steal the show, even though they only appear in two scenes. The artwork has a linear quality that may put off some people, but I find it charming.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2843cb275ccc483504fff487f3b1acdb8bc9488bc08a460b3632183a5f4ae7
+size 343

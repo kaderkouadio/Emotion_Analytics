@@ -1,1 +1,3 @@
-The cast was well picked. Pauly Shore is hilarious and does a good job of bringing the plot of the movie together. However, Tiffani Amber Thiessan is who really makes this movie special. Her talented acting combined with her great looks makes this movie a definite see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ec07a08d9369e9ea6b6b50d44f93910b8736487f3d2dfc0d29688af64ae58a5
+size 269

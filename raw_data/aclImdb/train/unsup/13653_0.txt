@@ -1,1 +1,3 @@
-Maigret is looking after a women killer in Paris. It's the occasion to see some places from the old Paris. Jean Gabin is really fit for the role of Maigret. Hopefully it's not a movie where the whole action takes place in a police office. In that film you can also see a young beginner named Lino Ventura.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b6d6c61e6d7c3111d08bbe44921d6f8ebaf327f5d27868ff7db952bd0d98495
+size 305

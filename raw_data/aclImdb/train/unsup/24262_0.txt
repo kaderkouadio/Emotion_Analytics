@@ -1,1 +1,3 @@
-While this may not be Adam Sandler's best movie in terms of pure comedy, it is his best all-around movie. In addition, the casting for this movie was superb. Drew Barrymore is amazing as Julia, Christine Taylor is perfect as Holly, Allen Covert's portrayal of Sammy is great, and the cameos were well thought out, too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97f3461aa0bc5c1e819eeaf46aa1e579c4604d7d46010ffaa0a8100e0cedc1d5
+size 318

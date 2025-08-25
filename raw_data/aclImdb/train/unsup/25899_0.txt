@@ -1,1 +1,3 @@
-I have seen other movies by MTV films, and I would have to say that this is the first one where they really dropped the ball. The premise was horrible and while the idea of spoofing all the different personas (frat boy, virgin, introvert, sensitive guy, the artist) was initially an inspired one, that was blown by the awful actors portraying these people. Not to mention the timeline not matching up. For example, if this really was the "lost season" then why would one cast member make reference to the movie "Panic Room" and why would Aneesa from the most recent season of the Real World be one of the Real World alums that was supposed to challenge the Real Worlders. Just very rushed, and sloppy and don't really see any reason why this movie should have ever been made.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb966505062c8ecd920929979dd339f35fa1d00cd4d03ffb7b000bd1cf0f3f5
+size 775

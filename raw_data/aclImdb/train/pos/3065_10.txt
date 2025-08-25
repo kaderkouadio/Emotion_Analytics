@@ -1,1 +1,3 @@
-<br /><br />I really liked this film. One of those rare films that Hollywood Really does not make anymore. William H Macy Is Just great as the hit man with a soul, and Neve Campbell is just flat out fantastic as the woman who puts his life on the track of redemption.<br /><br />If you have a chance, see this film. It earns it's praise
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb6828eea987985caec074c6487453b2cb7db4a2fde2a622938541e2716c162
+size 336

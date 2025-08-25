@@ -1,1 +1,3 @@
-This script was mildly original when it was written in 1935, but the poor performances and the inconsistent quality level make it impossible to recommend. Some of the vignettes are absolutely terrible and the dialogue is never natural. A few of the plot twists were creative, but I was very surprised to see it so highly rated here at the IMDB. A few scenes are worthwhile, it's as a film that if fails completely to entertain. If you like this sort of montage, run don't walk and get "Tales of Manhattan" (1942) a marvelous film that follows the life and times of a topcoat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ed6a117346a073c9295ffd37ab32045fbb0fed3e164c4fb141bc4f126eb87dd
+size 575

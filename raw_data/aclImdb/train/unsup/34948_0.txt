@@ -1,1 +1,3 @@
-This is an old-fashioned way how a film is made. The characters and the story are not what we can relate to. They are totally dull and unconvincing. Who cares about the pathetic jokes a guy putting himself in a difficult situation. Just painfully waited until it ended. This film is overrated and a big disappointment from Thailand.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ebaadc7734ce09fd9f76c0b3513a88244a21793b001079c8672ed36a06471c3
+size 332

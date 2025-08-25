@@ -1,1 +1,3 @@
-The one-liners fly so fast in this movie that you can watch it over and over and still catch new ones. By far one of the best of this genre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66f08fb0234cbd406c58032ad646ee14f601d200a18a40f4dbc06e8449a29565
+size 140

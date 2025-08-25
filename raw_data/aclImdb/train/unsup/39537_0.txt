@@ -1,1 +1,3 @@
-This movie has some interesting characters and started off pretty tense. But eventually, I got worn out by the endless stupid chase scenes on foot through (maybe the same) forests. I chase you; then you chase me; then we chase him; etc. The same for the "grab the gun from the other guy." Endless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c587ac0e0f2cd004d030ccfbe180107633d4803e82c4f299e05a1fe75232134c
+size 297

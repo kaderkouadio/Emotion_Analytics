@@ -1,1 +1,3 @@
-Just saw this film at the Vancouver International Film Festival. I was barely able to stay awake through the long tedious thing.<br /><br />The shame of it all is that this film could have been great. The plot of a woman wanting to search for the daughter she gave away while the daughter is searching for her could have been very interesting. Instead, this is an "almost but not quite" film.<br /><br />The acting was good but that's not enough. Some of the audience walked out. Nobody applauded when it was over. I didn't hear anyone talking about the film as they were leaving.<br /><br />Sad. The Sleepy Time Gal could have been great.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03ad703db4c2f88bd035517b037cd37831fd5af3471790b199e9d1ef1234b9f3
+size 639

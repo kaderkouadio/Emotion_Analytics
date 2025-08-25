@@ -1,1 +1,3 @@
-With all the hoopla I'd heard about this movie before its release, I was expecting a lot more. Instead, I was treated to a pity party thrown by the guest of honor. I was told it was going to be an expanded version of the short of the same name, so I was expecting that. Instead, I got a movie on how tough it is to break into show business, and how the little guy always gets trod upon and ground into the dirt by the bigwigs. Please. I've seen that done 100 times before and 1,000 times better. There was little to engage me; it wasn't "The Wizard of Speed and Time", but "The Making of 'The Wizard of Speed and Time'."
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfff73db0bace567deb8b78e5ef005f3d9273a4e8a968d99b08b70f8ca9c79f7
+size 620

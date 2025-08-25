@@ -1,1 +1,3 @@
-This is the second film ( Dead Men Walking) set in a prison by TheAsylum. The mythos behind plot is very good, Russian mafia has this demon do there dirty work and the rainbow array of inmates have to defend their bars & mortar. Jennifer Lee(see interview) Wiggins stars as a prison guard who has a inmate ,who maybe a DEMON. The monster suit is awesome and frightening, and a different look that almost smacks of a Toy Franchise, Hey if Full Moon and Todd McFarlane can make action figures for any character..Why not The Beast from Bray Road Wolfette,Shapeshifter with medallion accessory,or the Rhett Giles everyman hero with removable appendages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a13c97ada02fd35cc7ac6bfdd383348462eccd8b264c3e071580851a4d37eb4
+size 649

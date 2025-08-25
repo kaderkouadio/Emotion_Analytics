@@ -1,1 +1,3 @@
-This is one of the great ones. It works so beautifully that you hardly notice the miscasting of then 37 year old Dana Andrews as the drugstore soda jerk who goes to war and comes back four years later, when he would have been, at most, 25. But then, who else should have played him?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdee4ec3a990c52aea728508fe0b1f0ff33104b96cf2b5ce7c4fcbfe1445094f
+size 282

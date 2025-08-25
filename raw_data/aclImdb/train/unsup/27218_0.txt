@@ -1,1 +1,3 @@
-This is a very accurate portrayal of David from teen years to his death. I could follow along in the Bible with the movie. I like how they use God's name in Hebrew Yahweh throughout. It was filmed in Israel so the setting was real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c46756f13e20a6a6c4fd59e3d36ed2be11e9e6c68f12b88e9b5ec7f191c286ef
+size 231

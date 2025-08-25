@@ -1,1 +1,3 @@
-Ali G Indahouse has got to be one of the funniest films I've seen in a long time, and Cohen's portrayal of a British gangsta is hilarious. This film has cult classic written all over it, and it features some really great lines. Ali G Indahouse is a good-time party movie that will leave the viewer laughing literally from beginning to end. Definitely Vote Ali G and keep it real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef66ab485235dba478214b8201293640828cd2b53ac5582c78d786ebeb56272e
+size 379

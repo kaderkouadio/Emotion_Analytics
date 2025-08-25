@@ -1,1 +1,3 @@
-N. Chandra's Tezaab was given more than it's due. True the song "Ek Do Teen" is a foot-tabbing number & Madhuri Dixit shot to fame with this movie, yet what nobody seem to have noticed that it is a bad remake of Hollywood's action/ musical "Streets of Fire" (1984).<br /><br />Much publicity was given to the movie, which helped to make it a big success.<br /><br />Another flick used to make the movie a definite success, was adding a song number after the film's release.<br /><br />Nothing special about this movie if you're well acquainted with good movies & cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5cb3f6a58b2f4e18a971e6b3f26509c453eee7a4e2a7914529267bdeb4cd06
+size 570

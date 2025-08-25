@@ -1,1 +1,3 @@
-Okay, 'enjoy' is a pretty relative term, but flexibility is in order when you're dealing with a filmmaker of James Glickenhaus' calibre.<br /><br />McBain is truly one of the most ridiculous, over the top action films I've ever seen, without the nasty edge of The Exterminator. Other reviews have commented on a suspension of disbelief regarding the film's heroic middle aged commandos, but how about making a film in the Philippines that is set in Colombia? All the extras are Filipino. In fact the only character who looks remotely Hispanic is good ol' Victor Argo as the much reviled 'El Presidente'! Oh yes, we also have Maria Conchita Alonso overemoting like crazy as a rebel leader. There are tons of explosions and bodies flying everywhere in this amusing paean to the glories of American imperialism.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5c947bb090437881a573c50350a0e3c891e6ece0e2317e9a7f0c59cd87d215b
+size 808

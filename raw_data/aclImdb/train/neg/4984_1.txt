@@ -1,1 +1,3 @@
-The original "les visiteurs" was original, hilarious, interesting, balanced and near perfect. LV2 must be a candidate for "Worst first sequel to a really good film". In LV2 everyone keeps shouting, when a gag doesn't work first it's repeated another 5 times with some vague hope that it will eventually become funny. LV2 is a horrible parody of LV1, except of course that a parody should be inventive. If you loved LV1 just don't see this film, just see LV1 again!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2dd3e7d33a1831acf406be3f0da8481b7f3f8252493c4a32aa1dca83c32a0ba
+size 465

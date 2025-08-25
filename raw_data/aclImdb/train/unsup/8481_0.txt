@@ -1,1 +1,3 @@
-The animated series makes the leap to the big screen with its qualities intact: stylish animation, depth, strong characterisation, and a sense that its makers really get what makes the characters tick. This is a classy, exciting movie that cuts between Batman's battle with a remorseless vigilante in the present day and flashbacks that fill in his back story and pile on the mythos. Wonderful interaction between Bruce and Alfred ("You think you know everything about me, don't you?" "I diapered your bottom, I bloody well ought to!") and a hilariously unhinged Joker mix with intense action sequences and an air of realism that wouldn't be out of place if this was a live action film. Even the sound effects suck you in. The best of the animated movies and a terrific Batman movie full stop.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa2415dfefbb79f2047a74a360aaf5417bc8791a03ef3deefbe0b2ef894b147
+size 793

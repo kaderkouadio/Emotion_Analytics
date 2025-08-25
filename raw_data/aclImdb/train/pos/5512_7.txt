@@ -1,1 +1,3 @@
-The first one meant victory. This one means defeat. It takes place in a Bolivia, there the guerillas are sick and wary and don't meet that much sympathy from the farmers. If you know your 60s history, you understand how it ends. You will understand it even without that knowledge.<br /><br />Del Toro is once again splendid. He goes on building this icon about the revolutionary who remains the same, regardless of success or failure. That's what Guevara is according to the legend, but still it's so well acted.<br /><br />The documentary feeling is there around the icon, which is one of the greatest achievements in this big Soderbergh project. He has succeeded.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0afffe08313c4a001ca5cf66d08139464de327e01bc98867cf17383998508afc
+size 665

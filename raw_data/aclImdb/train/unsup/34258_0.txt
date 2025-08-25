@@ -1,1 +1,3 @@
-After the first two films, with their lavish sets, excellent acting, and state-of-the-art CGI, this comes as a massive disappointment. It's an ultra-low budget animation, so poorly drawn that it looks like a rough draft rather than a finished animation. The cast who played the Little family in the previous films return to voice their characters here, but the dubbing is so haphazard that you'll swear that different actors were used. The plot is paper-thin, the jokes are mostly lame, and even the very young are likely to get bored well before the end. A great shame, as the first Stuart Little in particular was a great hit with my daughter, and one of the best children's films of recent years. Stuart Little 3 is, however, best avoided.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c56dfe36fc90f79caa10278c13f7a17d51df0b241a3992868a1e0f9242e631c
+size 742

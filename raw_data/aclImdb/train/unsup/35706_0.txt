@@ -1,1 +1,3 @@
-Sticks and Stones is a coarse, crude, violent, and largely pointless film. Of the first 25 votes cast for it, fifteen were a '10'. I suppose this means the cast and crew enjoyed it. I am thankful that so few other people were subjected to this waste of celluloid. <br /><br />It is advertised on the video box as a film that will 'touch the family'. Worst case of false advertising I've seen of late. I was appalled by, (and had to comment on) the coarse language to my teenagers, so they will not think that sort of thing is normal or acceptable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d343aaab9ddeb0773c4279719b9c2805523cdb758dbf68cdd359b5479c7ae7e1
+size 547

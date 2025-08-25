@@ -1,1 +1,3 @@
-For a scientifically-engineered super-dog that was supposed to be the answer to petit crime, CHOMPS was a chump.<br /><br />All I ever saw Chomps do was sit, or walk, or run. Or run, then walk, then sit... and then get back up again and stretch, and then walk, and then jog to K-Tel dance hits. And sometimes it had all the answers to the daily Jumbo. But mostly it just sat a lot.<br /><br />All I am saying is: In a Celebrity Death Match, Chomps couldn't take out Mr. Bigglesworth.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b78f9dac3de910376448aeac2b566c7f8e8f7d46d2c21d2c5b1ac7cf64275f
+size 483

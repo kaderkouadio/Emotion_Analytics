@@ -1,1 +1,3 @@
-House 2 is not at all a sequel to the first one. Different story,different house, different actors. And this one is not as good as the first house. House 1 tried mixing humor with horror. This movie is just plain humor which is not even funny for most part and not least bit a horror movie. The whole plot and movie is goofy and rolls non stop action. If you loved wackiness of the movie "Big Trouble in Little China" then you may want to check this out. Otherwise one of the worst movies I ever saw.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7888da4a4bfbee64105e77c134fe184ac63d5d6deafe9796a20ebef89958bf9
+size 500

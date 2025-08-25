@@ -1,1 +1,3 @@
-Pickup on South Street (1953), directed by movie maverick Samuel Fuller, contains a stunning opening that establishes a double complication. Subway rider Candy (Susan Peters) collides with pickpocket Skip McCoy (Richard Widmark dipped in shades of Sinatra cool). She's unaware that she carries valuable microfilm; McCoy is unaware of grifting it. Both are unaware of being observed by two federal agents. Thus the grift sets in motion a degree of knowledges. Candy is doubly watched (Skip and the police) and therefore doubly naive; Skip, the overconfident petty thief, is singularly unaware, trailed by federal agents; the feds, all knowing, are ultimately helpless. They can't stop the "passing" of government secrets or the spread of communism.
+version https://git-lfs.github.com/spec/v1
+oid sha256:134296c7bb740111958b742f56a29ba489b1e180030decac56245136bb57ac93
+size 747

@@ -1,1 +1,3 @@
-What starts out as an interesting story quickly disintegrates into nothing. Don't bother watching to the end hoping for an explanation of what is stalking the visitors, there is no ending. No explanation, no resolution, zip. This could have been a good movie it they had purchased an entire script.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac69e2b475a7138a601e11e850617b4fc6d5e00b04ac3f837ef63c3fa1c0f71
+size 298

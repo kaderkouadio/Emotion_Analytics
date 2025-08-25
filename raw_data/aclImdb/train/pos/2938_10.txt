@@ -1,1 +1,3 @@
-So terrific, so good. I have never seen a man be more funny than Eddie Murphy. In this stand-up-comedy you will see a lot of imitations more done by anyone!<br /><br />If you have seen Raw (1987) you will have to see Delirious. It's so funny! It's so professional!
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b9f73e5b75748a36bda4d47cb0a57755945518ebfa699fa7516b9512ee1f62
+size 264

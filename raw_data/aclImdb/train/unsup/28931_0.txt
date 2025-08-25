@@ -1,1 +1,3 @@
-In my opinion, one of the best movies of the last 20 years. Very well-made, entertaining, & educational as well. A must for anyone who enjoys a good, intelligent movie, whether you have an interest in space, politics, modern history, or whatever!! I have seen it several times (I teach American History & show in class every year), and am always entertained, never bored. I give it a 10!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cee7708975795d540b2af467f651bc73272310186a7dbb80bf5b21c948242ef5
+size 387

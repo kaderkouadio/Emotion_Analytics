@@ -1,1 +1,3 @@
-Just watched this after my mother brought it back from America for me, was dreading watching this after all the negative comments on here but I have to say, yes the acting is cheesy, some of the effects are laughable.<br /><br />But you have to remember this was meant to be 1898 not 2005, and for such a low budget I thought it was quite good. I enjoyed this version much more then the Spielberg version I saw last week.<br /><br />I have read the book so many times, and found myself going "ahh yes that's in the book" almost all the time, with the other version hardly anything of the book existed.<br /><br />So well done for at least trying to make a true version.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aa81500fd91860b0fbdd01740eeb6ed57a27986174851dbc1546e0162478e6c
+size 669

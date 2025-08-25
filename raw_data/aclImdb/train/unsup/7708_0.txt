@@ -1,1 +1,3 @@
-This show was so much fun. I suppose it could get on your nerves but it was never meant to be taken overly seriously. I was a kid when it first came out and I've seen every episode. That is probably the reason I like it so much. And I love Soliel Moon Frye, she is still pretty cool. THis is just a fun little show from the 80's that is just meant to be enjoyed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b985ac9d57b85f965ce2d70f338bcf949fa2e155a2d12cfea29c1c6e48c7cbe
+size 362

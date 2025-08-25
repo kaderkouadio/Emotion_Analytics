@@ -1,1 +1,3 @@
-Last of the Johnny Weissmuller Tarzan films and a good thing too, as this is easily the worst of the 12 films he made over a period of 16 years. No mermaids are featured here either as a beautiful island woman tries to escape the clutches of her people, who worship a god and try to force her to be its bride. She finds Tarzan and Jane, who try to protect her. George Zucco is present as a potentially villainous High Priest but isn't used to his full advantage. Also on hand and worthy of mention is a hugely annoying guitar player/singer who goes into song every so often. Even the "great" Robert Florey can't aid this one.<br /><br />*1/2 (of four)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7449e1307a74b03733abef0b83cb2eff300b50189c7496eea1fec1f1df200b22
+size 651

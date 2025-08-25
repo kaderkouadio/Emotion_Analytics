@@ -1,1 +1,3 @@
-This movie is a real treasure. Walter Matheau is excellent as Mr. Wilson and Mason Gamble brings the cartoon Dennis to life for us! Christopher Loyld does a wonderful job of being a menacing Switchblade Sam and is able to be vicious without being truly scary - which is helpful as this is primarily a family movie. His part is important because it shows how even a really mean person (which Mr. Wilson's character is not) can be foiled by the innocent childhood antics of Dennis the Menace.<br /><br />The real joy of this film, beyond the many sight gags and the smart dialog, is how the movie doesn't seem to age with time.. I saw it at the theater in the early 90's and it still seems fresh 13 years later. Also, it is one of those rare movies that can be watched over and over and still surprisingly be interesting, enjoyable and brightly funny!
+version https://git-lfs.github.com/spec/v1
+oid sha256:459e932a0de80a4d8b3096f3cbd10f6d3e0510c3163afdce45e0e1534e849070
+size 849

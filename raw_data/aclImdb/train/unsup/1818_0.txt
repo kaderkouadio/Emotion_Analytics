@@ -1,1 +1,3 @@
-During WW2, a young Russian soldier is rewarded for bravery by being given a leave of a few days to go meet his mother and fix her leaky roof. This beautifully filmed and superbly directed drama chronicles his long, enlightening journey back home, as he meets some interesting people and learns about life. Ivashov, in his film debut, gives a remarkably natural and free-wheeling performance as the soldier who is basically a good-natured country boy. Prokhorenko is beautiful and endearing as a girl he meets during his journey. This simple and moving film has some heart-wrenching moments, but its central message is simply to point out the the absurdities of war.
+version https://git-lfs.github.com/spec/v1
+oid sha256:652cc4c78c6e30e9165e5e9da4f796c1f665586ae177840b0a91508442428824
+size 666

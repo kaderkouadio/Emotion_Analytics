@@ -1,1 +1,3 @@
-Shame on Julia Roberts and John Cusack. They are so talented and should not have had any part in this movie. The storyline was dumb and predictable. The jokes were not funny. The romance was not really romance. I was all too happy when this movie ended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81841ff2c75f04e7dc789a89f6e42850bc88d658067c5c477e26ed35c3c2bae6
+size 253

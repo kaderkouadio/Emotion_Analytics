@@ -1,1 +1,3 @@
-Geat movie. Salma and Russell really shine together, and the dialog is amazingly good and really hits the spot. <br /><br />The two main characters spend a lot of time talking about relationships, but it never gets cheesy - quite the opposite. Its real, its insightful, and it vividly portrays the complex emotions that go into relationships and the conflicting feelings that make them so exasperating and yet so irresistible.<br /><br />And of course Salma is absolutely a treat to the eyes. <br /><br />If you've been in love, and if you've ever felt the pain of parting - even temporarily - you'll just fall in love with this move. <br /><br />A must see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a56a11183a843c2031a76ba53f0070116cb53bc6879db2a940ad39acbe213f5
+size 658

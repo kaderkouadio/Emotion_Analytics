@@ -1,1 +1,3 @@
-Glenn Close is back as Sarah Plain and Tall, a woman who keeps a family together through the good and bad times. The acting is superb -- Christopher Walken (unusually non-spooky) as her husband once again delivers a top-notch performance. It's good to see young Christopher Bell all grown up; too bad we don't get to see much of Anna (Lexi Randall, also a few years older), but the new addition to the Witting family (played by Emily Osment) was very welcome. And finally, Jack Palance, as the long lost Witting patriarch, is as fine as ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f303bdc528ed7b78f03a44fe8453b1ac2d60a3cf2f69e16b54d4554681b92378
+size 542

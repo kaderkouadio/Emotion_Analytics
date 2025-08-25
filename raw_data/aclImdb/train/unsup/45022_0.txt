@@ -1,1 +1,3 @@
-Bad, bad, bad, bad, bad. Those are just a few of the words that describe TEENAGE ZOMBIES. One of the worst bad movies I've ever seen, and I've seen a lot. However, as others have pointed out, the fistfight near the end is worth suffering through the rest of the film for. I have rarely laughed so hard. Too bad there are no decent prints of this film (the DVD transfer is awful), because the bots and Joel would have done it proud.<br /><br />Did I mention this was BAD?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1daa97db05062756d469a02d9866c046fafdb5404577fd4cafe1a6201395d932
+size 470

@@ -1,1 +1,3 @@
-Another harmless outing for Ernest. The title says it all, this time he's in the army...though much of the time, the attempted gags don't often have that much to do with the army. Much of the time it seems the film should've been called "Ernest in the Desert." There are a few minor chuckles, and plenty of failed bits. Yet, it's tough to really call this a bad movie. It just doesn't leave you with that same icky feeling you get from watching a really bad movie. The kiddies will like it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4894d5975ee27aa1b0f05215991bf70b41cd3b207ed0ae2f05e29006e7b6a3b
+size 490

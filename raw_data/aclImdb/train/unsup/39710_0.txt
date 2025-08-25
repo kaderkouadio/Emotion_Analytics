@@ -1,1 +1,3 @@
-Story of Renaldo Arenas' life, a Cuban writer life during the revolutionary period in Cuba. Subtitled in parts, it is somewhat lengthy, and depressing. Renaldo is gay as well, which I didn't know going in, so some male gay love scenes weren't exactly what I had hoped for. He makes it to America during the 1980 boatlift, but promptly dies of AIDS a few years later. I think the book would've been better. D+
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd7b9ae180bcb3716a415837b2ca27eb9a75ee8afb23a9cd7a4d358a6a2407ba
+size 408

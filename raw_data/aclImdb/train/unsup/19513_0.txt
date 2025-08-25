@@ -1,1 +1,3 @@
-Herzog has worked a masterpiece here...<br /><br />In a similar endeavor to Aguirre, Fata Morgana and Nosferatu, Herzog has captured the grotesque absurdity of contemporary man and made it beautiful. He has begun creating the images essential to man's survival - those necessary for man to escape the inarticulacy in face of our modern times. The images in this film are not about war nor the atrocities of war. They are rather offering man - who is void of adequate images - a set of images with which he may begin to understand. To understand the complexities and the fundamental basis of these complexities for which at present, his language is fundamentally insufficient.<br /><br />Chapeau Werner!
+version https://git-lfs.github.com/spec/v1
+oid sha256:28367e209706b61c84f04fd8404f42937da76404165dbb2689860541422c3057
+size 702

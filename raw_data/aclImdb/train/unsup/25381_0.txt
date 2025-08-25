@@ -1,1 +1,3 @@
-The film is quite fun to watch and the Mole People are a little on the wired side but nonetheless they looked good especially for the 50s!If you like the Universal Monsters movies then check this out soon!I think you'll like it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c25ac9e43b4745228fc69771f38160d96bb69d218443fe9f04435c52fef41c9c
+size 228

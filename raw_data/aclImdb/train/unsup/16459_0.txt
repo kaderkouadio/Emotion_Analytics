@@ -1,1 +1,3 @@
-This film is actually lots of fun. It hooks you and has you laughing out loud at the beginning with its offbeat romantic comedy. Then you are on the edge of your seat as the romance goes off the rails--with unpredictable twists--in the second half.<br /><br />Sure, it has a few flaws in production values, but for a low budget indie film with virtually unknown actors, it is really quite a coup. The cinematography is quite good, as is the directing. The acting is consistently strong and engaging. You can really "buy in" to the characters. If you see it with an audience at one of the festivals, you can feel them getting pulled in.<br /><br />In short--fun, creepy, and oddly engaging. And very entertaining.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b261d5882439afbd6b0348b22edb0d27ac0e06f21531aa6d6c1ef5d8b75bb5
+size 712

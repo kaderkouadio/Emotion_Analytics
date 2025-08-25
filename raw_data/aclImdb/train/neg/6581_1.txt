@@ -1,1 +1,3 @@
-I rented "New Best Friend" hoping for a movie similar to enjoyable teen thrillers such as "Gossip" and "The Curve". Instead, "New Best Friend" is much more like "The In Crowd", in which there are no thrills and the acting is incredibly phony. "New Best Friend" is boring, and the events during the movie are the same. Skip this movie...it's a waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9940b94b36884b69c7c50b2349271eeaccc9f8e395389fb9de4590bf7a713abb
+size 357

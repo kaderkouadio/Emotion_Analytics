@@ -1,1 +1,3 @@
-I was in physical pain watching the eyes of the cast as they participated in this sham. Bad dialogue, worse (worst) acting, lifeless all the way, and the cast knew it. The two preceding movies which this attempted to copy had life, sparkle, and were captivating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6b3105b3215b46eef782d7bd1d6034e1904fa30bc59eba5125461c85799513
+size 262

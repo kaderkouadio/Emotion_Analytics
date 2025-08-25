@@ -1,1 +1,3 @@
-I couldn't stop laughing in this one. I thought the eye candy in this movie was awesome. Only problem I have is....I can't find a place to buy it on DVD. Probably a bunch of stick in the mud critics hated the movie....and the producers did feel it was worth trying to sell. What a shame.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bfece705e3ccd6c76d60ef1e6d23b738422fa0468cf662ff065509341d286cd
+size 287

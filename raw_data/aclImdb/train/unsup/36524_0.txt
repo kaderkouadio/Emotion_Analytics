@@ -1,1 +1,3 @@
-The film had everything going for it except writing talent. Actors were fine (especially Andy Griffith), camera was in focus, sets were marvelous. But it was a grand "so what?" at the end. Mom has baby, ditches controlling husband, gets a big fat legacy, ends her dead-end affair, and lives happily ever after. Sort of an afterschool special for the WTV set. I did love the pie pieces throughout the film, but the characters were waaayyy too stereotypical. The very real, claustrophobic, relationship of the main character was just dropped at the end with no unpleasant traces to show for it all as if the filmmaker ran out of time and was tired of the story. Not recommended...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01f8cab91d78b5a7c8cc9a4b1c4d10b247a7dda27d04ff4b092f0909fba7904
+size 678

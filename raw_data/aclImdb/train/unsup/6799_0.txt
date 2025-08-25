@@ -1,1 +1,3 @@
-Chuck Norris played this movie to the limit!!! He showed his skills and then some. He is no doubt a professional in this movie. It was brief and to the point. Someone killed his girl and he takes vengeance. There was much action in this movie. Nothing but KICK ASS and take names in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b3206b92a487ef2e44b4ac37d323f35f2cf4022f319784878f86a4beea70e6e
+size 294

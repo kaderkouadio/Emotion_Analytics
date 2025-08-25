@@ -1,1 +1,3 @@
-Certainly a horrible movie..<br /><br />Its the worst movie i've seen.<br /><br />Really Bad..<br /><br />If I had an option to vote as zero I would choose it..<br /><br />In the movie there is no horror, no action, shortly nothing..<br /><br />I watched this movie with my friend's advise.<br /><br />Because, he has been watched the movie and he was repentant and he wanted me to be as well as him..<br /><br />So an advise to you, if you don't want to be repentant do not watch.<br /><br />Thus save your time..
+version https://git-lfs.github.com/spec/v1
+oid sha256:519e4d1769dd44644b6468c955a197c3eb98f3b904e9e351a2ae7bc9788f1456
+size 514

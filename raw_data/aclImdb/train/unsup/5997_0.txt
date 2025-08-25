@@ -1,1 +1,3 @@
-Uinasu senki, a.k.a. Venus Wars, is a pretty good war film. However, I find it lags in some spots, and I never really was a fan of animated characters on a moving live-action backdrop. Other than these minor complaints, the movie is enjoyable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c760fc36d2c4c572371e0224d106a5a5f36194b4ff683da1c5d56d26d684a0
+size 243

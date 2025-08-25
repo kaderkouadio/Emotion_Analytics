@@ -1,1 +1,3 @@
-Normally I enjoy movies like "The Silver Chalice"(Paul Newman's first feature), in which actors I usually enjoy show that they, too, can be in movies that stink. This movie was different. For a while it was fun to watch Richard Burton recite idiotic dialogue in a stupid plot line, and do it badly. About half way through, the "enjoyment" started to wear off, and it began to hurt badly to watch someone be SO bad. I had to force myself to watch the entire movie, and even the uplifting ending (the "good" locust/human triumphs over the "bad" locust/human) could not save this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e169146b4b2793b43ff5c07b4bacc8d52aa61f5a8a35f607ef3ab81af31348
+size 583

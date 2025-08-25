@@ -1,1 +1,3 @@
-This juvenile production is a dumbed-down version of "The Memphis Belle: A Story of a Flying Fortress". To some it may seem an homage to the original but to this viewer it comes across as a cheap way to cash in on our desire for nostalgia. The aerial scenes are as unconvincing as the cleancut actors. If you want to see how it really was, catch the original.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93732a5cde86f9aba128f873618c2c2cbd4af1975a8517c2e09d72267bcb08e0
+size 359

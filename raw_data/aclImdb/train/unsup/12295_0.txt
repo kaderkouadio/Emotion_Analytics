@@ -1,1 +1,3 @@
-Police try to solve the murder of a businessman. Unknown to them, the man's attorney is implicated and, of course, she wants to keep her involvement secret. This leads to the wrong person being charged, causing the lawyer to go looking for the real culprit. Good mystery with lots of action and tense drama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64fc4fa6f43e9b9b2d0335ee1b51c4767c835fdd12b45a671d92118d2a25cf33
+size 307

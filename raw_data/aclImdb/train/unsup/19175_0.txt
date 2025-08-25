@@ -1,1 +1,3 @@
-Standing on the Pinnacle of Giants<br /><br />A secret domain of poets deceased, enlightens the men whose numbers increased. Assembled in class, they march with a stride, undaunted and strong with Keating aside. Passions intense, his lectures draw ears, like sheep of a flock, the Shepard of hearers. Expressions conveyed and rules provoked, the school of Welton becoming evoked. A boy with much flame who soared to the skies, accepted advice, unknowingly died. Unfortunate loss to teacher of choice, remember his words to raise your own voice. Now but a legend his message relays, be your own person and still "Seize the day!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e50b7952af33e79f1b0819b822c56e02d0f8ced5b3a7cfc21c78269c75d437f
+size 627

@@ -1,1 +1,3 @@
-Return to Cabin by the Lake is Perhaps one of The Few Sequels that Can Live up to The Original. It Had Black Humor, Good Suspense, Nice Looking Girls, and Of Course, a Psycho Killer. What are We Missing? I Think Nothing. Except we Are Left with a Small Amount of Gore and Nudity because It Was Made for Television. Besides Being one Of The Best Sequels, it is one of The Best Thrillers to Watch as a Family. Recommended for Everyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae4cfcab389a6591d13f617113e3c4ffc5270b70b9ad244f28fa888edffbbdd
+size 433

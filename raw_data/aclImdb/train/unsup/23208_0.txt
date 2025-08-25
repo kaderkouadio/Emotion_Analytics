@@ -1,1 +1,3 @@
-the first ski school was an entertaining funny comedy that just clicked on all the right cylinders this one has none of the cleverness of the first one..Wendy hamilton is a good distraction though. on a scale of one to ten..4
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff6b6889b5e982669106babcec21a0dceaa1169a434ac619199db12531e70dca
+size 225

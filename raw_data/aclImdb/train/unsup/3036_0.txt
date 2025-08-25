@@ -1,1 +1,3 @@
-Tyrone Power shows his considerable comic flare in his role as a young American in Paris who is blackmailed into posing as a Russian prince to court a wealthy heiress (Loretta Young). The script is extremely witty with fast-paced, sharp dialogue that keeps the viewer in stitches from start to finish. Highly recommended! Unfortunately, this movie is not available on video, but it is played on the Fox Movie Channel from time to time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:018cfe71d3c0cfe8f780137dbedeacd077e6e8aae597d4222e73d8929ba9733e
+size 435

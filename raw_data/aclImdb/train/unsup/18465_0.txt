@@ -1,1 +1,3 @@
-I have been a fan of Jane Austen's writings for some time. This adaptation of her novel is by far the best and thorough screening. I love the way Jennifer Ehle and Colin Firth play their leads. I knew that after I had seen this, I had to own it!!!!! By far, one of the most romantic movies of our time. For anyone who has never seen any of the works of Jane Austen, this is a good movie to start out with. But I also feel that this is the best of all of her works. Colin Firth gained me as a loyal fan after seeing him in this movie as well as Jennifer Ehle. I look forward to seeing them again in more work. I hope they will work together again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c8fcbfd1d8184a8b513db97822e8965ed82eaa4d4a5b40d3329b90d8fcaf03
+size 646

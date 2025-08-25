@@ -1,1 +1,3 @@
-Man,did Disney really make this. With how corney this movie is. It's so stupid I mean at the end Sonny peddling that bike faster than a car. If you ask me this film really stinks. And I'm not giving it a break because it was made in 1998 so overall I give it a 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af30133a36a506534aad2863153b2ce30a7082ceae7e88b78238f6032ccc834c
+size 263

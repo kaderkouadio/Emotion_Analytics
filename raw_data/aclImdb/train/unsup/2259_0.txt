@@ -1,1 +1,3 @@
-I liked Julio Medem's "Vacas" and "Los amantes del círculo polar" very much (I have not seen "La ardilla roja" but I've been told it's good), but this time I found his movie so ridiculously pretentious and boring that I could not believe my ears (because my eyes were more or less fascinated by the vistas.) Maybe if I were a foreign language spectator, I would not notice the actors' mumbling as I read the subtitles, but this film even needs subtitles for a Spanish-speaking person like me. The actors murmur, undress, suffer (and how!) and try to add coherence and credibility to the silly dialogues to no avail.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a1729887ed5f80d45fab75ac3152c70961b4ae57d98b1a8756c4aeb0edc05e
+size 616

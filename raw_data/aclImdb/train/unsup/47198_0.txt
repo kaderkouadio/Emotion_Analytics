@@ -1,1 +1,3 @@
-I can't find anything good to say about this movie. The acting is poor; the plot seems to have a mind of its own (like a 2-year-old's); the fighting scenes are some of the worst I've ever seen in a movie. They're so unrealistic, it's more like watching a cartoon. Dennis Rodman does seem to try, sometimes. Most of the time, he's just trying, unsuccessfully, to be cool. Half of the characters in this thing seem to be there for comic relief. Seriously, half of them. It's that stupid. Don't pay money to see this movie. And don't EVEN consider buying it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c76f2518f3a5730874f4b00040fc800217f9a0b6701a665a84f0bc72cd039fb1
+size 555

@@ -1,1 +1,3 @@
-Jim Wynorski knows how to make a movie! He doesn't skip on the T&A and never takes his flicks too serious. If you're familiar with Wynorski you'll love Hard To Die, it has all the same elements of Sorority House Massacre II, pretty much the same story with the same girls running around in lingerie being stocked by the spirit of Hudsacker which has taken over a girls body. Our friend Orville is back too. He's trying to help the scantily clad girls, but they just keep killing him. And much like SHM II, it takes the time out to for the girls to all take showers, God bless you Jim please make more movies! Its perfect for movie night with your friends. Check it out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:92d9fec373ab4fce31aa49d0fdfdec38b529390efa30f3813e4340fe037232c1
+size 669

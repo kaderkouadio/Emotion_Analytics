@@ -1,1 +1,3 @@
-The second film of the "Mr.Wong" series is a technically primitive, unimaginably dull and talky mystery. Even the mystery itself doesn't stand up to much scrutiny this time (SPOILER: what kind of killer would send a threatening note to his intended victim written on a piece of unique paper that can be traced directly back to him?). Karloff's presence notwithstanding, the entire film has only two interesting scenes: in one, a murder takes place in front of at least ten people, yet nobody notices it at first and they go on playing a guessing game as if nothing had happened; in the other, detective Wong gathers (indirectly) all the murder suspects in his house and explains his various theories in detail, in a sequence that plays very much like an early version of all those "and now all will be revealed!" endings of the Poirot movies. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e25d74fea27a615e2e1df94aae93654e89445f0fc3faa34c37a2975c381ed9f
+size 849

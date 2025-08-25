@@ -1,1 +1,3 @@
-this movie was way way way way kiddish, it was cute and everything, a cute idea and all that but it was way too kiddish for anyone over 8, i mean it was funny at some parts but kind of annoying at most, i wouldnt reccomend it for many, it bored me right down to the ground so dont go see it unless your with your little brother or sister or are a parent
+version https://git-lfs.github.com/spec/v1
+oid sha256:960d45550cc283a2c4afaa956413d76bc22d713bfb32c26eef424056c6c5a3d1
+size 353

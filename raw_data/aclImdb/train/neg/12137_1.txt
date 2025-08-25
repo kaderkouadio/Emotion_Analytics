@@ -1,1 +1,3 @@
-Oh my god! This movie insults the intelligence of everybody. I mean really, who thinks three kids can fight 30 to 40 ninjas and win. Not to mention the brainless humor thrown in. This film is baaaaaaaaaaaaaad. The movie is an omen, the only thing it's good for is a time killer or unintentional laughs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a02c9be3c5067d13b83bfdb276fb4f40427bade61e13abb3f7c845462f5aebb3
+size 302

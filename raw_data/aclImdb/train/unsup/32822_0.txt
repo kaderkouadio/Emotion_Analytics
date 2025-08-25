@@ -1,1 +1,3 @@
-Someone read too little Nietzsche and decided to encapsulate it all (a la Cliff-Notes) in the form of a little melodrama. Plays out the same as those tales of born-againers sowing their nihilistic wild oats only to find Jesus just as the thrill begins to get lonesome. It's just that this guy finds The Torah and decides the only decent thing left to do now is to act out on the wisdom of his Hebrew-school-inner-child that had somehow never been successfully challenged. God's all powerful. After all, isn't that the way we make Him? Someone told this story much better a long time ago. It was called the Parable Of The Prodigal Son...
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ce975f125c51c83fc203826700fb78c5065f500e27b178937dd5e394f8c83d6
+size 636

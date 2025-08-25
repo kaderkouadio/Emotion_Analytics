@@ -1,1 +1,3 @@
-If you are the kind of person who likes happy endings, with themes of comedy and romance throughout, then this is a film for you. It was definately not a boring film, as i was engaged throughout, with the unusual storyline. I would recommend watching this film because I know that at certain parts, you will laugh your ass off. ***POSSIBLE SPOILER***(the funeral and the blow up dolls), people who have seen it, you know what i mean.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f02d9e889ecb01d2b7bfe9e2f3ff514816b4db67f865b01d794778c26631573
+size 433

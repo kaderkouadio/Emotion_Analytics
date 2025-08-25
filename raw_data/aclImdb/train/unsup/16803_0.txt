@@ -1,1 +1,3 @@
-In 1985 I went to see this at a theater based on the impressively cool artwork used in the ad. There was nothing in the story that resembled the poster image. An absolute failure on every level, Def-Con 4 is the antithesis of entertainment. My precious _soul_ was damaged by this cinematic monstrosity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:351aca425e3b8c0c9c9f52aa6af3eef2a075ccd105fca2074adbbb51f4661685
+size 302

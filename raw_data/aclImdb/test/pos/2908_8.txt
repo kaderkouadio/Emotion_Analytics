@@ -1,1 +1,3 @@
-This Fox spectacle was a big hit when released in 1954. Sumptiously produced, with great music and sets, intriguing cast, it moves slowly, but interestingly. Edmund Purdom is strikingly handsome as an Egyptian who becomes a renowned doctor, juggling three stunning women: a handmaiden Jean Simmons who passively adores him, temptress Bella Darvi who eludes him, and a pharoah's sister Gene Tieney who wants him as HER pharoah. The movie's popularity has not waned, since being re-shown on AMC (preferably in widescreen). Purdom is particulary great, his character apparently striking out with the women, and ending up never married and a "thinker." Darvi is amazing and tantalizing in her femme fatale role. Victor Mature, Michael Wilding, Peter Ustinov co-star. Check it out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb34785692d2c23947c441bfb1936578f0d8587a96efab2de30cc3745553d09
+size 776

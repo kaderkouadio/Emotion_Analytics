@@ -1,1 +1,3 @@
-Dark Angel is a futuristic sci-fi series, set in post-apocalyptic Seattle, centering on Max (Jessica Alba), a genetically enhanced young woman, on the run from her creators.<br /><br />The Dark Angel universe is absorbing, (not as much as say Buffy, but absorbing nonetheless) with an interesting and believable set of characters. Certainly, it is not for everyone, but those who give it time will find themselves watching one of the most enjoyable series out there. Dark Angel is criminally overlooked, and under-rated, and was unfortunatly canceled after only 2 series. Which was a great shame, as this had the potential to become a great series, although its 42 episodes are only 10 shy of long running BBC sci-fi comedy Red Dwarf. As it is Dark Angel remains unfinished, so seek it out, and if you want more, lobby Fox to make another series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc7eba705203f265176f4748fb2a0fa89dd765a26373b3ab52ca17f11a152043
+size 846

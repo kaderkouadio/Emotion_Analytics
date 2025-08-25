@@ -1,1 +1,3 @@
-This terrific movie is one that I'll be thinking about for quite some time. It's great in every way, especially the acting of Aaron Eckhart, who deserved some serious hardware and even more recognition for the performance that he gave. While this is certainly not a film for everyone, it is yet again refreshing to see the chances that independent filmmakers will take. This is the kind of film that would never be made in Hollywood, for they would be too afraid that people would be offended. I actually liked the fact that I was laughing at jokes that were completely tasteless and politically incorrect in the extreme. We need more films like this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57975f848c43bbbce46198fd6be9ad4c55a5902a0b21484e46a6d29c6217058a
+size 651

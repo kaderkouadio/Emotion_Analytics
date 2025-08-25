@@ -1,1 +1,3 @@
-This movie plays out like an English version of an ABC after school special, with nudity. It makes you wonder who the target audience was supposed to be. It's not as though the writers were too preoccupied with selling a plausible plot either. While it does possess a certain watchability, Virtual Sexuality is fluffier than dandelion meringue. It's a good movie to watch if you're snowed in, the cable's out, and it's the only tape you've got.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0540d67d1d7c677f4146a79087c470398cc8398d69f6dc8f85f0213f76445d1
+size 444

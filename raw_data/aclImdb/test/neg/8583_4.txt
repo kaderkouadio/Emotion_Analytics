@@ -1,1 +1,3 @@
-For a horror film, this is criminally dull. A few memorable, gruesome bits can't compensate for a really poor script. Very little coherence is achieved, and the movie relentlessly overplays its one basic idea (a killer cat), until it becomes repetitive - and things are made even worse by the constant use of shots from the cat's point-of-view. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6eddf19cb2f5ef99a3a9f4b1369039a5d35156766e7d150feee06cf83cf58f4
+size 351

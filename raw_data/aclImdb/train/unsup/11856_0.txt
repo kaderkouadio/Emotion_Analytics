@@ -1,1 +1,3 @@
-Ah, what is it about Centron productions that make them stink so much? This short basically tells young men that if they don't take industrial arts courses, they'll not have the tools to have a full and rewarding life. It has a LOT of bad acting, stupid plotlines and really doesn't do the job of convincing young men (note I say young men: seems that back when this was made, it wasn't all right for young women to do this.) to take industrial arts courses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42473380038f936ffa58a605623b70f2b4f0e0f014dc132102d988adc9f0d2e
+size 458

@@ -1,1 +1,3 @@
-Although any film based on cartoon or comic characters is meant to be taken lightly this one really is appalling. I actually couldn't finish watching it because I felt I was wasting too much of my life sitting there bored out of my wits. From the opening scene, where Baldwin (who seems to have forgotten how to act) is converted from evil to saviour of the people, you know this isn't going to get much better and it doesn't. Even the wonderful Tim Curry can't save this dross.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1476e8058b568ce3263f27d2bd40865f71ed7b620afb9f4039bf4c5d94bb5c
+size 478

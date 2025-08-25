@@ -1,1 +1,3 @@
-I have been known to fall asleep during films, but this is usually due to a combination of things including, really tired, being warm and comfortable on the sette and having just eaten a lot. However on this occasion I fell asleep because the film was rubbish. The plot development was constant. Constantly slow and boring. Things seemed to happen, but with no explanation of what was causing them or why. I admit, I may have missed part of the film, but i watched the majority of it and everything just seemed to happen of its own accord without any real concern for anything else. I cant recommend this film at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4511e23477cdbcd4780aa8ce92ba38f7e6fb94307ecd02c84e67831d5ee0b9c
+size 617

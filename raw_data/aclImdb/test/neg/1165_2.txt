@@ -1,1 +1,3 @@
-I just saw this movie and it turns out to be pretty lame just as mentioned by other user reviews and the one thing that bothered me the most was the southern accent some of the characters had, it took place in Wisconsin, not the south. As mentioned from other reviews, Ed Geine wasn't a big dude, so why did the guy that plays Jason and Leatherface portray him?<br /><br />I fast forwarded through most of it being that there are many slow parts. <br /><br />Hopefully someone will do their homework on Ed Geine and the town and make a more accurate movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cbb9d0a594b2c7d89a67801dfa78991cda7df1e8955f4ec631eafed33d549e4
+size 555

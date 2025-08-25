@@ -1,1 +1,3 @@
-I saw this in the market place at the Cannes Film Festival. <br /><br />It's a real cheapo prod - nothing wrong with that but you have to make up for it with a bit of sex or gore or both. <br /><br />Think Larry Cohen. <br /><br />Sean Young is an interesting actor - well done to the producers for hooking her I guess.<br /><br />The opening scene in the space-ship coming down is hilarious - you could picture all the crew hands shaking it around! <br /><br />Ha ha - but I wish the people who made this well - at least it's not pretentious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb4f2f3b2481f970b4e169bb43cb37e4a9f80e34904a5e97ade57ba8d7b6d9f
+size 543

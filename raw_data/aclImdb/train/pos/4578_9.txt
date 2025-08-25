@@ -1,1 +1,3 @@
-I, as a teenager really enjoyed this movie! Mary Kate and Ashley worked great together and everyone seemed so at ease. I thought the movie plot was very good and hope everyone else enjoys it to! Be sure and rent it!! Also they had some great soccer scenes for all those soccer players! :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d659f3fa878ea40c097880c32e285aecfa7102024fe0c9344ae2eb9c3994792c
+size 288

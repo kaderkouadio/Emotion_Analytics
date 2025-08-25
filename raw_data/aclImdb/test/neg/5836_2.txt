@@ -1,1 +1,3 @@
-Terrible movie. Just terrible. The start of this movie is like something out of a bad women in prison movie. Then it moves on to being a B-movie version of Aliens. B-movie in this case meaning the addition of gratuitous sex-scenes and women in lingerie. Oh and a lot of the footage is the exact same as used in two other movies by the same company (including the women in prison schtick). The only thing saving this movie from a 1/10 is that I have actually seen worse movies. Not many, and not much, but worse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba37a535e10d2dcee264126447a4a61d801f6bf6adba73dcfc7cccf10c98768b
+size 511

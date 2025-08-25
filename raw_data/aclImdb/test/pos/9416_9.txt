@@ -1,1 +1,3 @@
-this movie takes the voice of terror and makes it better. holmes is protecting an inventor in switzerland and is on the trail of professor moriarity, who has become a nazi. this is a better version of holmes in a WWII world. rathbone does a great job with holmes as a spy and a detective. see this if you liked the voice of terror.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0e48bad5b8d75ff25784ffa6023e2cb5c2b51ffcb2893bd921d01173c2db649
+size 331

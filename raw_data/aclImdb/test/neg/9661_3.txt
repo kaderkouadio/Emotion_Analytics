@@ -1,1 +1,3 @@
-wow, this movie sucked.<br /><br />This movie was a embarrassment to the original sandlot.<br /><br />Everything about this movie was awful.<br /><br />The acting was horrendous. Every part except the part of the 'mexican' sandlot manager was terrible.<br /><br />Luke Perry, though only bit parts was absolutely awful. This was is worst role ever. Even the kid actor playing him as a kid was someone you'd want to punch, even in the end, lol.<br /><br />This movie reminded me of those kid movies that go that extra mile making a part goofy way beyond the funny stage. The humor was for 6 year olds.<br /><br />If your over 12 and want something worthwhile to watch, skip this movie and watch a sitcom instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed4674bafc60016814d1f0717b34bb8ca230f636ef289767f415604b7dbe3661
+size 711

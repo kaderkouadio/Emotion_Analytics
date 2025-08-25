@@ -1,1 +1,3 @@
-"The Naked Cage" is a textbook anthology of "Women-In-Prison Drama" cliches (innocent heroine, sadistic warden, lesbianism, catfights, stabbings, riots, etc.). Watching it, you feel as if you're wallowing in a cesspool, and the fact that leading actress Shari Shattuck is not believable for a minute certainly doesn't help matters. At least Christina Whitaker is spirited and fun as the "wild" Rita. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8e330725aaa2fef13fc610be04f9694e23eb5f3141e7587bf88d6bcba43c22
+size 406

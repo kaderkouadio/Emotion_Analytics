@@ -1,1 +1,3 @@
-Yeah, the movie stinks. Yeah the plot (such as it is) is a waste of time and the 'characters' act incredibly stupidly and obliviously, but "the only known face..." What are you talking about?<br /><br />Anyone who doesn't know Corbin Bernsen, Stephen J Cannell and Robert Conrad really doesn't have any business judging a B Movie!<br /><br />Heck, half the fun in films like this is watching "big" names embarrass themselves!<br /><br />In short, don't go for the film - go for the joy of watching semi-respectable actors struggle to extend their already far-too-long careers!
+version https://git-lfs.github.com/spec/v1
+oid sha256:495f002efb54042c48061602cc58f6c09fec7b59d61644e6f00fa64ed613597d
+size 576

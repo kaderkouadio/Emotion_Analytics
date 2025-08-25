@@ -1,1 +1,3 @@
-I am still uncertain about how I feel about this movie. It is pretty good, except that watching it sometimes gets very annoying. Some of the dialogues aren't as much funny as painful to watch. I feel for Cage's character while wishing the movie would just end. So, after watching it all the way through once, I have decided not to watch it more than 5 times. I have time to spend on other movies than one that just is annoying to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec3c671fc5c2c879c29bc4352c4b619b59a4e592ffef47c28f5f36b9657b4e7
+size 436

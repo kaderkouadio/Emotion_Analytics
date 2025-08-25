@@ -1,1 +1,3 @@
-As a "Jane Eyre" fan I was excited when this movie came out. "At last," I thought, "someone will make this book into a movie following the story actually written by the author." Wrong!!! If the casting director was intending to cast a "Jane" who was plain he certainly succeeded. However, surely he could have found one who could also act. Where was the tension between Jane and Rochester? Where was the spooky suspense of the novel when the laughter floated into the night seemingly from nowhere? Where was the sparkle of the child who flirted and danced like her mother? Finally, why was the plot changed at the end? One wonders whether the screenwriters had actually read the book. What a disappointment
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5e7efcac1b835c31b08e8970698db192cd591283101b93ef60937ec47ed09a
+size 706

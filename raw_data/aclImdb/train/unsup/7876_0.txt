@@ -1,1 +1,3 @@
-I think that "The Other Me" was an amazingly humorous movie and I recommend that when you get a chance to watch it you do. Andy Lawrence did a great job along with everyone else involved in the movie. If you cannot see the movie then I recommend reading the book and if you have seen the movie then you should read the book also if you've read the book then you should see the movie. I think that the movie was a great reflection of the book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02cc8a3fde7207359330e59e406a93329de861dde329dc63c58be85a159eaafa
+size 442

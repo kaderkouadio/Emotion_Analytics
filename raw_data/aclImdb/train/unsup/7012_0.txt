@@ -1,1 +1,3 @@
-This film is the best of the Doug Maclure-Burrows films. Of course its bad, but in the best way. Tons of the monsters and effects that you loved as a kid! Harrihausen stop-motion animation in all its choppy glory still has an endearing quality that the sterile CGI effects of today could never duplicate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0245eed86686d9197277e2c94ecac8815a9d254406d42f1a0bc7d00f386c768d
+size 304

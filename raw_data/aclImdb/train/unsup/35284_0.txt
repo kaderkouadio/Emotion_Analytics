@@ -1,1 +1,3 @@
-Save your money if you're looking for a good haunted house flick. This isn't even a bad haunted house movie... it's just a bad movie. I was bored 15 minutes in, and it never got any better. First of all, the direction is poor, as is the cinematography... it looks poorly done and cheap... there's a story, if you stay awake to follow it. It sure doesn't move quickly. If you're looking to be creeped out, stay away. If you're watching because your class is reading the story... well then tell your teacher that the class should read a more interesting Henry James story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1634b320b6709d10306cf489fca969d41e966f3e51a2ddec3c08704e8f7bd04
+size 570

@@ -1,1 +1,3 @@
-At first i thought that it was just about Eddie Murphy talking to some stupid animals. I was right. Some people called this movie Eddie Murphy's comeback! Who are these people? Jesus if this is the best he can come up with he can just stay away. What was the story again? I was so annoyed by all the lame jokes i forgot. I should have walked out on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4476978ef834d8545508d454398a6642edee44e494d6a19b947d2d399345b5e8
+size 358

@@ -1,1 +1,3 @@
-I mistakenly thought that this neo-noir effort from the Buffalo - Niagara Falls area might be something different. Unfortunately I was incorrect. There are are many problems with "The Falls", that really have nothing to do with it's low budget video production. Immediately one has to question why all the constant narration? My feeling is that if you have a decent script, the audience will follow along, without having to be insulted with voice over storytelling. The acting is very amateurish, which is not unexpected, but simply adds to the problems. Finally, the entire thing is annoyingly shot like an MTV music video, which I found to be totally unacceptable. The narration, bad acting, and annoying video effects are all good reasons why this should be avoided. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cfbba32d7a78c3843eae03e0a0e8ccb48cd5a105c974912e9989579fa05a2fd
+size 776

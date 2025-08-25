@@ -1,1 +1,3 @@
-The last and craziest of the six Hubie & Bertie cartoons, about two decidedly non-country mice. In this one, the pair have been living in a cheese factory and, having eaten enough cheese for the next two thousand years, decide to end it all, by leaping into the mouth of Claude Cat, their dupe in the Oscar-winning MOUSE WRECKERS. The entire cycles goes on and on, with many a funny sight gag. Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd751f2fce7e458d0958ac41c8392d2d10226a9e209a8b8f6b8e8375b2d01ad
+size 413

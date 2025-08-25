@@ -1,1 +1,3 @@
-I'm very impressed by watching this movie. The Rocky Dennis story is sad, but the courage of this boy impress you, and make you think about how stupid people are when they take an opinion about others paying attention only to their physical features. I love Eric Stoltz very much for his wonderful performance. Cher is very good too, as Rocky's mother.
+version https://git-lfs.github.com/spec/v1
+oid sha256:798b7b321345b86c47056086bfdd37ae72bee82d2c020731c18749cbb369d82f
+size 352

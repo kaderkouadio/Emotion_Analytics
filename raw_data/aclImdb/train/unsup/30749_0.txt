@@ -1,1 +1,3 @@
-I watched this movie the other night as there was nothing else on I thought I would give it a chance. Having never seen the first movie the storyline became apparent within the first 10 mins. There was no shortage of action and the plot kept me entertained and on the edge of my seat for the full 94 mins. The mixture of British language and humour I found quite amusing.<br /><br />The only thing that dissapointed me was the ending as I was expecting the story to continue further...will there be a third movie?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6833e84f0d7cc4524c4d7389a1415d444e96ad444552b3b7f37af0e57c78000
+size 513

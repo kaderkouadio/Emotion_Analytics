@@ -1,1 +1,3 @@
-To quote Clark Griswold (in the original Christmas Vacation): "WORSE? How could things get any worse? Take a look around here, Ellen. We're at the threshold of hell." Little did Chevy Chase know that he was describing the "sequel" to one of his best films. Christmas Vacation II sets a new high (or maybe it should be LOW) in bad movies. My wife bought this DVD thinking it would actually be a sequel to the original, but we were severely disappointed. This film is LAME. It bears no resemblance to the original, is an absolute waste of film, and an embarrassment to the otherwise good actors who had the misfortune to be part of it. It must have set a record on IMDb for the most bad reviews. I really think we have a good case to win a class action lawsuit to recover the money we consumers wasted on this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c14340a5b01467986d1fa7ccd09749343a20d412cd2d7ba17d2d02256cf525e
+size 814

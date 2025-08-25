@@ -1,1 +1,3 @@
-So-called "thriller" in which a young couple (Moira Kelly, Vincent Spano) unable to have children adopt the daughter (Julia Devin) of a husband-and-wife pair of criminals, after the girl has been taken into police custody following a failed robbery.<br /><br />This movie does not deliver the goods; for starters, it does not maintain my interest for much of its running time. It's sordid, unappealing, and lacking in energy. It really is a routine and forgettable movie that is saved from being total garbage by a couple of good performances (Keith Carradine is no less than completely convincing as a mangy, sadistic psycho). Of course, seeing a child being subjected to foul and abusive behaviour from adults is always a debit - no matter how good the movie is otherwise.<br /><br />3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd280d9ea09211c0fe7797584e247f4b028fd3e684ee48d3a4bbe84ee3c74bf4
+size 790

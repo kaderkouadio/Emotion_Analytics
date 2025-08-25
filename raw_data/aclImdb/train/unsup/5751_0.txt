@@ -1,1 +1,3 @@
-This series of eight videos is by far my favorite japanese animation series.<br /><br />My other favorites are "Akira" (superb details, excellent coloring scheme, artistic aspects) and "Ghost in the Shell" (great opening scene, strong atmosphere) but my heart is captured by "Bubblegum Crisis" and its cast of female characters.<br /><br />One of strongest features (esp. in the first episodes) is the soundtrack; albeit in general japanese pop music sounds pretty childish to most listeners, the songs from "Bubblegum Crisis" have something special to them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2a8b26f7c2da9e2f3f81f1023f3107066c0205c963ff1dff341c13052cd2e9
+size 558

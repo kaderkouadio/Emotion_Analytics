@@ -1,1 +1,3 @@
-J.G. Ballard's perverse, and often coolly humorous, prose works are not really suited to the screen. If anybody could successfully transfer one, the likeliest candidate would have to be David Cronenberg. At least, that is what anyone would have thought before seeing "Crash".<br /><br />It seems it's best to leave Ballard to unsettle and disturb the printed page alone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3260eee22bc054d193a55299804c3cf9a3050ab9c80e506623d1bb41bf0f2a0f
+size 370

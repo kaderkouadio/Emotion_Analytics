@@ -1,1 +1,3 @@
-Great movie. Good acting ,a wonderful script. It's exciting to find out what the people are thinking and how they react on the situation they are in. A pity about the ending; a 'page' of text of how Nynke's life went on, instead of moving images was a poor choice. I hope this movie attracts a lot of people; it's worth it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29b81db2c0f7d6ea8efde6c566fe1a912acd135cb88dca748d659bff9652604
+size 323

@@ -1,1 +1,3 @@
-How can you resist watching a film with some swing? It's a delightful little film full of wonderful actors and a wonderful story line. Too bad they don't tour out here...I'd go see them. See it if for no other reason than to hear some good music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da9b1b8e58a116290d3d767750b58032500a693a89b3b89550d3f0a9a9d02b46
+size 246

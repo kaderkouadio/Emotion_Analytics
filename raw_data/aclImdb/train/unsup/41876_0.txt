@@ -1,1 +1,3 @@
-Story of a spoiled rich kid who begins to sell Ritalin and advice to the student body of his new high school. In doing so he begins to find himself and his life.<br /><br />What you think of the film will depend on what you think of Anton Yelchin as Bartlett. To some he's a charming rogue, to me he comes off as an insufferable twit in the same way that Frank Albertson could be annoying in the B movies of the 1930's and 40's. I found him abrasive and had an impossible time getting through the film. To be certain the film is witty but with out a central character you care about all the clever lines in the world will fall flat, which was what happened here. In all honesty give me Juno any day.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84152fa09a4d16a5e820bb2c88b83b1c26cfcf3ed62425aa5c5dcf2f2894a58a
+size 699

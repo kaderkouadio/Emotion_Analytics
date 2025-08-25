@@ -1,1 +1,3 @@
-Right from the start it is apparent that the film is very cheaply made. The initial Vietnam scenes were filmed in New Jersey, but it doesn't look like Vietnam at all and looks very amateur, but it is strangled by it's minute budget. Having said that it is a worthy attempt. The film features the director's brother Ricky Giovinazzo as Frankie, a Vietnam veteran returning home to find a very bleak and depressing New Jersey, where he wanders around aimlessly almost throughout the entire film. He lives in a squalid flat with his wife and deformed baby (which looks like a cross between E.T and the baby from Eraserhead, though not nearly as believable). That is all there really is to describe, just a confused and desperate guy who is on the edge and eventually has to explode, which he does in the film's shocking ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf6b565713a408ed846109eead4364d28743e561ba9fbe40822699b09ed9ccf9
+size 824

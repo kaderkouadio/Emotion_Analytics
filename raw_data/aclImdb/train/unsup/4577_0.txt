@@ -1,1 +1,3 @@
-I rented this film because of Angus MacFadyen, who did such a great job in "Cradle Will Rock." I am also very impressed with his work here. "Cranes" is a story about the many complicated facets of coming out, keeping secrets, sharing life with others, and being true to yourself. It has a richly thoughtful plot, and some of the sweetest love scenes I've seen. It's definitely a must see for gay/queer/rainbow folk, and those who want to understand a little more about coming out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fbb6b71bf3d20ae4773f91ec08d1209ba35606d2f0db66aa160c2292f59407e
+size 480

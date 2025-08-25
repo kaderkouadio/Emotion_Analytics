@@ -1,1 +1,3 @@
-This movie is all about subtlety and the difficulty of navigating the ever-shifting limits of mores, race relations and desire. Granted, it is not a movie for everyone. There are no car chases, no buildings exploding, no murders. The drama lies in the tension suggested by glances, minimal gestures, spatial boundaries, lighting and things left -- sometimes very ostensibly -- unsaid. It's about identity, memory, community, belonging. The different parts of the movie work together to reinforce the leitmotifs of self and other, identity, desire, limits and loss. It will reward the attentive and sensitive viewer. It will displease those whose palates require explosive, massive, spicy action. It is a beautifully filmed human story. That is all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c80dda0f5d67ae3b41f7e1ae268787075a4d83dbefa15e524fbd8a113dd36b3
+size 748

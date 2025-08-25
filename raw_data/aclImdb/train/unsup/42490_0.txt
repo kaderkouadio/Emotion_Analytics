@@ -1,1 +1,3 @@
-Here's the poorest entry in the recent Toho Godzilla cycle. Besides being overlong by about half an hour the story is dull and, worst of all, some bright spark at Toho decided to commission a new score by Takayuki Hattori. In fact the whole movie reeks of Hollywoodisation, and it's the least 'Japanese' Godzilla film ever. (Except for that one with Matthew Broderick.) Toho came to it's senses when they moved on to Godzilla vs Destroyah and reinstated the classic Akira Ifukube cues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a018e69f30bfbd41851bc9c7ca6e2aa2b14a1f667bbe6ba5b83007cfb1d7153
+size 485

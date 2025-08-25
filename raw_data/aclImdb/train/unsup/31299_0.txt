@@ -1,1 +1,3 @@
-This movie, simply put, is Charles Bronson at his absolute best, and proves that he does indeed have the ability to handle drama/suspense. He delivers an extremely convincing performance which is, arguably, his very best. It is too bad that this movie is as obscure as it is, because if it had been produced state-side and been more mainstream, he might have enjoyed a much more critically-acclaimed career, deserving of a lifetime achievement Academy Award. However, this is not the case and die-hard Bronson fans get to enjoy this little gem while the rest of the world misses out because they were too busy shunning the unfairly typecast Bronson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:995fc8ae9f304ed5cef4e0ecead8f65a620c5b0c5656a51916598f146afacb43
+size 649

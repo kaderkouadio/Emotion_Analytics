@@ -1,1 +1,3 @@
-This was typical of the one-sided, unintentionally funny, and jingoistic action movies that came out during the Reagan Administration, and as such, clearly shows its age.<br /><br />See Edward Zwick's "The Siege" instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c49a30262fa2979c0a57408e910fc97f399674b13f2d503140dd5efc7e7bf6d3
+size 221

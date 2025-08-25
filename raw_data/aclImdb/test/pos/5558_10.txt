@@ -1,1 +1,3 @@
-Farscape totally rules! In my opinion it's very close to Babylon five although there are only 7 main characters in the series (spaceship included). The humour is excellent and the writers manage to keep the show interesting though pretty much everything happens on the ship.<br /><br />What I really love and appreciate in Farscpae is,that they don't use CGI for the alien characters or if they do, it's unnoticeable. They use those lovable, crappy rubber animatronic puppets very similar to the ones used in the original Star Wars.<br /><br />Farscape is something you definitely want to look into, if you already haven't.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4746689d44ab507c4c316250d91db7341941271105c8cd968ef5fa5337b3e5f8
+size 623

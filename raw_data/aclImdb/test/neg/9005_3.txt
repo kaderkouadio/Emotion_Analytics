@@ -1,1 +1,3 @@
-"The Thomas Crown Affair" is a terrible remake of a not-very-good movie, redeemable only for the topless shots of former supermodel Renee Russo.<br /><br />That's it. The plot is negligible, Pierce Brosnan phoned in his part, and Dennis Leary (as usual) plays an annoying Irish cop, but I couldn't take my eyes off the beautiful Ms. Russo. There's an okay love-making scene on a stairway, a terrifically sexy ballroom dance, a topless beach scene, and a roll in the sack. Oh, and there's a painting stolen from a museum and a catamaran gets sunk.<br /><br />But let's hope other directors recognize Ms. Russo's perky attributes and cast her in more, highly-visible roles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d31f4ba3b5d7ad9a0eb221d261d4f71c3ed7b784d5327c215dc142978b2356
+size 671

@@ -1,1 +1,3 @@
-Considering this more of a drama than a horror movie it's quite a nice ending (or beginning) of this trilogy. At the end I actually felt for Sadako as where in part I & II I found her pretty scary. The cruelty of the people is what shocked me in this one and makes it hard to watch. The ending is pretty strong and quite surprising. See it, even if you don't like drama and prefer horror!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6745861e759d8991479d1cf7aa69cb66c00ddf95a14423b8cc117481445bb432
+size 388

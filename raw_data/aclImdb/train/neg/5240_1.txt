@@ -1,1 +1,3 @@
-As soon as it hits a screen, it destroys all intelligent life forms around ! But on behalf of its producers I must say it doesn't fall into any known movie category, it deserves a brand new denomination of its own ! It's a "Neurological drama" ! It saddens and depresses every single neuron inside a person's brain.<br /><br />It's the closest thing one will ever get to a stroke without actually suffering one. It drives you speechless, all you members go numb, your mouth falls open and remains so, and the most strange symptom of all is that you get yourself wishing to go blind and deaf.<br /><br />No small feat for such a sort of a "movie".<br /><br />The only word that comes to my mind just having finished my ordeal is OUTRAGE !!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2152c3433960465ae6e29dba4290d6e3160159709db10bc21a92c24c9700ba74
+size 742

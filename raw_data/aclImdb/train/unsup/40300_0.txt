@@ -1,1 +1,3 @@
-This parody of the Nazi occupation of Poland has a few moments >of classic Mel Brooks good humor but is by far below the level >of his other works. If you are looking for a good laugh and a >bit of Hitler bashing rent 'History of the World Part I' or >'Blazing Saddles' instead
+version https://git-lfs.github.com/spec/v1
+oid sha256:f492c6c8fc18456bd76a152808a33311d09d5dde4b9e7eeb71155dcb9e7ca5e1
+size 277

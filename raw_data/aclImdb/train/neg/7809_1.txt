@@ -1,1 +1,3 @@
-Definitely an odd debut for Michael Madsen. Madsen plays Cecil Moe, an alcoholic family man whose life is crumbling all around him. Cecil grabs a phone book, looks up the name of a preacher, and calls him in the middle of the night. He goes to the preacher's home and discusses his problems. The preacher teaches Cecil to respect the word of God and have Jesus in his heart. That makes everything all better. Ahh...if only everything in life were that easy. The fact that this "film" looks as if it was made with about $500 certainly doesn't help. 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:25b7add91831aa3fc81b36189a279e458e502b322bf99a430922f3afafa8865a
+size 552

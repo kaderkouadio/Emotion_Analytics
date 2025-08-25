@@ -1,1 +1,3 @@
-This is one of the worst movies I've seen in a long time. The story was boring, the dialogue was atrocious and the acting hammy. I'm not sure if this movie was the result of a film school homework project, but it certainly played like one. It is not even particularly successful in its central conceit of trying to appear as a single continuous take. The whooshing horizontal camera pans are a cheap and unoriginal way of hiding cuts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c38aac71e3be84a118eefb94165b397917b2c662a0f66a8f32f2e90525d98f9
+size 434

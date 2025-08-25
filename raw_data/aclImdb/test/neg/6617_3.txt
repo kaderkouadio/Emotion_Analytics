@@ -1,1 +1,3 @@
-Despite the famous cast this animated version of Dickens tale is the borest I've seen. Enough that I zapped away in he first commercial break. The characters didn't appeal to me at all and the animation is looking cheap.<br /><br />I'll give this movie a very low rating. Give me the Disney version anytime.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7f4fd0a2ff4be8d4529551956ece43ec7e791bf1dd492729dbe0f49bbb45179
+size 307

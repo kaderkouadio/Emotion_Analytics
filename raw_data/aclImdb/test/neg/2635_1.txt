@@ -1,1 +1,3 @@
-This movie was by far the worst movie I've ever had to endure. I couldn't believe that they tried to pass it off as a serious movie, it was so bad I couldn't even laugh at it's pathetic attempt to entertain me. If you want cheesy horror that you can laugh at, rent Dr. Giggles instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed9316d3d8f7b73fae013153ded087c6f84410c490ec2352a41fa5ef1b600e69
+size 285

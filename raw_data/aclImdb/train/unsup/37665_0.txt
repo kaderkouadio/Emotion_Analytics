@@ -1,1 +1,3 @@
-Oh, this is such a bad movie! Not even the formidable acting talents of Walken & Dafoe can save this film. I've really enjoyed Abel Ferrara films in the past (especially Bad Lieutenant (1992) and King of New York (1990)) but this film just does not work. The film is both convoluted and boring, a lethal combination.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19e2b49b1ea79a91bce17fb25044a5472e830c7ce9a0dcac759ab129b6a4e64a
+size 316

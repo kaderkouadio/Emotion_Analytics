@@ -1,1 +1,3 @@
-Another powerful chick flick. This time, it revolves around Diana Gusman who is always getting into fights at school. Instead of getting expelled, she takes her anger elsewhere, to the boxing ring. She trains to be a boxer and there she meets featherweight Adrian and begins to fall in love with him. This movie has a powerful message of taking your dreams and going with them even if someone doesn't believe in you (in this case, her dad doesn't believe in her). That alone makes the movie worth the price. Enjoy
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccb2e828f7e26bac280aca2bf6d6bcb702e45ca7ebe83be0ac5de868185e063c
+size 513

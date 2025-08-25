@@ -1,1 +1,3 @@
-Eddie Murphy goes back to Beverly Hills for another below par adventure, this time to investigate corruption at a popular theme park called Wonderworld. This third installment has many things that just don't work, including the annoying Wonderworld theme song and the absence of John Ashton. The filmmakers even went as far as providing a love interest for Murphy, but that falls flat as well. Even with John Landis behind the camera, the humor isn't there. The only thing that makes the film worth watching is the return of Bronson Pinchot from the original COP movie.<br /><br />1 out of 5
+version https://git-lfs.github.com/spec/v1
+oid sha256:53b13e99ca3088b466019148086f29f30df28061b964079db624fa81c48af505
+size 591

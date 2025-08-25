@@ -1,1 +1,3 @@
-Stretch the limits of credibility in a military espionage/romance. Now stretch them some more. More. M-o-r-e.<br /><br />Now you have the "story" (if it can be dignified with that term) of "Jet Pilot". It is hard to imagine that the movie-making craft had already been around over half a century when a story as preposterous as this was committed to celluloid.<br /><br />The only thing that compares to the silliness of the plot is the absolutely abysmal casting of the leads. Two short planks of wood would've rendered more heat than the pairing of Wayne and Leigh. As a love story and as a military spy story, this forgettable fluff is a bomb not worth the hour and a half of anyone's time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55c66eaed801148d2b3e014e75f02082a67d068c14285dd27abf3bb244541fb0
+size 693

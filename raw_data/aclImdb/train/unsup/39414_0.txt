@@ -1,1 +1,3 @@
-This is truly one of the worst films ever made. The characters were pitiable and the entire movie was a connection of cliches and formula subplots. The one memorable scene in the movie wasn't even that funny. My wife and I really felt ripped off. Since I'd MUCH PREFER to see "Plan 9 From Outer Space", voted by many as the worst movie ever, this should be dead last!!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:9925c81d737a9aee610de81426f0954e56ce767f1966f476618ef4b35e19cc1e
+size 380

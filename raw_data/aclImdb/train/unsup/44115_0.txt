@@ -1,1 +1,3 @@
-The english title for this Movie is "Love Sucks" and I have to say after sitting through this garbage I must agree with the title. This has got to be the worst movie I have ever had the misfortune to sit through. Even Jennifer couldnt save this movie as her role was badly written and somewhat annoying. On the whole a must miss movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cfee08b3bb68bb1aa880057d0777098e268b378fb76734fe8b14087771d25f9
+size 335

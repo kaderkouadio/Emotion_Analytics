@@ -1,1 +1,3 @@
-The Road Home is a delightful coming of age film that has just the right mixture of romance and baseball. What an accomplishment for this first time director! The cinematography was beautiful and the original score is something the behold. I think we can expect a lot more from Drew Johnson and his crew in the years to come.
+version https://git-lfs.github.com/spec/v1
+oid sha256:493702ce015313142af77bc1eea1a3441fd3bf19811da2b8642af727442c5c6f
+size 325

@@ -1,1 +1,3 @@
-This is a typical Don Knotts comedy in the same caliber as "The Ghost and Mr. Chicken". I actually went to the theater to see this when it first came out and was surprised to see that it was filmed in a very familiar location, The Biltmore House in Asheville, N.C. Don Knotts is the overbearing lead detective as Tim Conway is the clumsy assistant trying to solve a homicide at the huge mansion. Don Knotts is more cast as the character of Mr.Furley in "Three's Company" than he is Barney Fife. Tim Conway is typical Tim from the Carol Burnette Show but it really is both of them together that makes this movie so funny. The movie is clean and would be very enjoyable by the whole family as these two goof-balls are hilarious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:997080f24fd538af4a5b7b89adbdd257f0211cd6360625968116085eab0ac146
+size 726

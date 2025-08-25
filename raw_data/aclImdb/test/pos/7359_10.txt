@@ -1,1 +1,3 @@
-This movie is so awesome! I loved it, it was really scary. I love the Scream movies and all horror movies and this one ranks way up there. It probably helped that I watched it at midnight. If you want a real scare rent this one! 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bc60781f502d8291c341aa928881dbb0b2af42bdced558c0fa83230f4712bf4
+size 234

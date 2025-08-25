@@ -1,1 +1,3 @@
-L'Auberge Espagnole is less funny and less interesting than any episode of Dobie Gillis. Where is their Bob Denver? Do they even have a Dwayne Hickman? A French man moves to Barcelona to attend classes. He moves in with some other students who are no more interesting than himself, and they do and say uninteresting things. This movie is unbelievably bland. The only bright spot was a pretty French girl who played a Belgian lesbian. She places her hands behind her head and reveals shaven underarms, not the usual tufts of dark, smelly hair. But bare armpits does not a good movie make. L'Emmerdeur was funny, so was La Cage aux Folles. L'Auberge Espagnole and Le Placard makes you wonder what is going wrong with French comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e799f2f76c7deaed1d45b55a090a56c2b75631486c67d166fc198e1b2f8eb9
+size 729

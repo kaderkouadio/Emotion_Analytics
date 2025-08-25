@@ -1,1 +1,3 @@
-The buzz on Bulworth was that it was a daring, honest and amusing comedy that boldly confronted political taboo. I was excited to watch it, but was genuinely amazed at how absolutely terrible it was. Bulworth is a foul-mouthed, rapping politician who espouses woolly left-wing/liberal platitudes and who would last under 2 seconds in the real political arena. Most of his policies would amazingly unpopular and, it must be said, wrong. He trots out gangsters to back up his "hardcore truths", and the effect is laughable. This movie was extraordinarily painful to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6185f4c18f1775a24faaab332f1bfd15f7890b05370bb09049ec9c2eff34a5
+size 570

@@ -1,1 +1,3 @@
-Another review likened this troupe to a cross between Monty Python and Twin Peaks, also aptly. Yet another review expounded on the differences between the comedy we enjoy non-critically and black comedy, also well worth consideration.<br /><br />Watch the whole thing, all three series. At the end, all the characters are tied up and the puzzle pieces fall into place just as well as a Douglas Adams novel. The detail and intricacies are staggering. Thoroughly post-modern. Wickedly funny, and startlingly tragic. Not for kids. Not for those with thin skins or who lack objectivity. Thought-provoking. At once literal, figurative, and surreal in disturbing ways. The blackest comedy I can recall.<br /><br />And very possibly the most wonderful thing I will ever see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ccfd4f591fddbde1b1cd886a1ef95bb588a45614591935680c93f0006db0319
+size 767

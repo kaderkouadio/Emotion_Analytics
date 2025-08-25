@@ -1,1 +1,3 @@
-"Wow,a completely unknown title.Nobody ever heard about it.It will be probably a great horror flick!"-I thought when I prepared to watch this one.Was I disappointed after the projection."Fear Runs Silent" is dull and confusing,the characters are annoying and one-dimensional and the film is relatively gore-free.If the movie ain't gonna be scary,at least they should make it bloody."Fear Runs Silent" tries to be more psychological rather than typical,but fails miserably.OK,there are some good points especially a wonderful location sets(a snowy mountains,forests)-delicious!All in all,I was really disappointed with this one.This is not completely bad picture,but isn't good either.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58febc1e08c85a560231dd0f3825dc9107e85992702810c118a2d4910c4b6cee
+size 684

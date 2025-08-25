@@ -1,1 +1,3 @@
-I have watched this movie well over 100-200 times, and I love it each and every time I watched it. Yes, it can be very corny but it is also very funny and enjoyable. The camp shown in the movie is a real camp that I actually attended for 7 years and is portrayed as camp really is, a great place to spend the summer. Everyone who has ever gone to camp, wanted to go to camp, or has sent a child to camp should see this movie because it'll bring back wonderful memories for you and for your kids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:840f1595af2ef0daed8d4d67a21baa05381b874423aa6fd56d765c272542da0c
+size 495

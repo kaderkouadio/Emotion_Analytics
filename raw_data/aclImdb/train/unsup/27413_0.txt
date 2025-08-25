@@ -1,1 +1,3 @@
-I got this film after reading the back of the cover. It sounded wonderful: An exploration of the five senses through the lives of five people that interconnect. After watching the movie, I wondered where the movie that the box described went. I didn't learn anything about anything. The only good thing that has come from this film is the quote "I'm tense because your making me tense." Its been awhile since I saw the film, but I do rememeber that this film does not live up to its expecatations at all. If you've only seen Hollywood movies, then you might think that this is art, but otherwise, your in for a dud.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abbe905a4eed4d348a1a73a1e8c50cb0dcb128e77e9e6b5bd7cdd160b9ec3a77
+size 615

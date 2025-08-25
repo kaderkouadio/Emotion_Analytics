@@ -1,1 +1,3 @@
-The first comment absolutely missed the point of the movie. Apparently the poster does not make the distinction between a documentary about monastic life and the last James Bond movie. Die Grosse Stille is the only movie ever shot in the Grande Chartreuse monastery - no visitors being allowed there, not even monks families. No chance that a friend of yours may ever shoot a movie there. I guess that the director decided to provide almost raw material so that the spectator can come to her own feelings and conclusions. For more informative documents about the Chartreux, one can go to the Correrie museum (1 mile from the monastery).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cfc6342b24d6e257474f24565556b06736a57e2fdd1bde90ab8732e889dc200
+size 636

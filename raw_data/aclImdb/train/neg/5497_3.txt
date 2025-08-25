@@ -1,1 +1,3 @@
-The movie starts little cute. There are a number of revolting scenes. People in toilets. GOOD actors wasted and the original television series has all but ruined here. This did not need to be crude.<br /><br />Forget it. Find the tv show. Disney at new low.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42479c2e3ee2127ab15c8f4089d07d4e68cbdd2fb85f574461c15a66762f7820
+size 257

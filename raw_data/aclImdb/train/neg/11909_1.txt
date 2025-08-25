@@ -1,1 +1,3 @@
-I think I found the most misogynistic film of all time: Darklight.<br /><br />The gist of the film- Lilith was Adam's first wife and she was considered imperfect and banished from the garden of Eden because she considered herself Adam's equal and refused to submit to him. See, I took those words straight from the script. Then the film keeps going on and though she is the heroine of the film, the only time that she becomes acceptable is when she does what the men tell her to do! She ends the film under the control of The Faith- an all male group!<br /><br />Other than that the script was predictable and the FX were awful. Apart from the obvious hatred of females that is usually a lot more subtle in modern film, there was nothing original about Darklight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e97f06722da4a02a33e6c991b92807041def2a92c7ec5ec086ee1a082ad239b
+size 763

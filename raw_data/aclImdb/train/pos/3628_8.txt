@@ -1,1 +1,3 @@
-The film had many fundamental values of family and love. It expressed human emotion and was an inspiring story. The script was clear( it was very easy to understand making it perfect for children)and was enjoyable and humorous at times. There were a few charged symbols to look for. The cinematography was acceptable. There was no sense of experimentation that a lot of cinematographers have been doing today(which quiet frankly is getting a little warn out). It was plainly filmed but had a nice soft quality to it. Although editing could have been done better I thought it was a nice movie for a family to enjoy. And the organization of information was just thrown at you which was something I didn't like either but in all it was a good movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2fe75e3153a23df18c72918799c3d14d8f52dbbaaca99151c31215a8b705b3
+size 746

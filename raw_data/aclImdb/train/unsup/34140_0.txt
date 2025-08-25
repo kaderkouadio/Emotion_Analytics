@@ -1,1 +1,3 @@
-Director Frank Tashlin stretches his anything-for-a-laugh method of comic film-making to the breaking point with this very weak advertising send-up (with equally dull romantic-confusion underpinnings). Tony Randall seems the wrong actor for the part of struggling ad-rep Rockwell Hunter, who gets a buxom beauty queen to shill for a new lipstick--but at a price. It's supposed to be a riot, but Tashlin, who also adapted the script from George Axelrod's play, can't seem to bring the material (both farcial and cynical) into a cohesive whole. It's full of prankish jokes and questionable taste, but the episodic results are loud and forced instead of funny. There's a satirical, promising opening sequence (brightly prodding the TV commercials of the era), but the movie steadily loses steam from there. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:f63f7b866de3ea5dbb31774626407de86340eac7352ca8d039dcb40f9e4aacb3
+size 818

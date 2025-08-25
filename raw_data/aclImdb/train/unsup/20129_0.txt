@@ -1,1 +1,3 @@
-It is appalling that such a cheap movie got a rating of 6.0. The budget for the movie couldn't have been more than $150 (and the producers more than likely took the cast out for dinner with the surplus). The sad thing is, if I saw it in the movie store, I'd probably rent it again, just to have a good time. Look for this one to be some sort of demented underground cult classic in the near future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1873c1dcf99fb74cfc29db7924c83232c5d93c45e03d03fe93d38fd2c0806dc
+size 398

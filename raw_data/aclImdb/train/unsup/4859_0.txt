@@ -1,1 +1,3 @@
-Cecilia, an unhappily married woman living in the depression era, escapes the brutality of the real world by watching movies. Then one day, one of the movie characters comes off the screen and into her world.<br /><br />This is a wonderfully made movie and supposedly one of Woody's own favorites. It's also one that can be enjoyed even by people who aren't fans of Woody Allen as he doesn't act in it, so if you caught it on TV you probably wouldn't even know it's one of his movies until the end credits rolled. While I wouldn't rate this among his absolute best, it certainly is an enjoyable experience that I would recommend to just about anybody.
+version https://git-lfs.github.com/spec/v1
+oid sha256:507b0cf3535a6a079cd2db565302fcd85127583bdb6ad3de94d80884ec2ccd09
+size 651

@@ -1,1 +1,3 @@
-Richard Farnsworth is one of my favorite actors. He usually gives solid performances, such as in The Straight Story, and The Grey Fox. He also does fairly well here, but the rest of the film suffers from a low budget, poor writing, and so-so photography. The Miller-Movie formula gives it a 4. Richard gets a 5.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa7964423e7b4ddcdc95a4fb72279b09e22f03d9686fe6bfe9671e82eeb13825
+size 311

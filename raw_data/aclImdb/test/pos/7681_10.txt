@@ -1,1 +1,3 @@
-Surely the Gershwin family realizes this is one of America's greatest opera. You have thousands of fans of this opera waiting for it to be released on DVD. Please don't be so stubborn, give us a break. Think of the joy and wonder you can bring to a starved public for quality music, by releasing this great GEM. Don't wait until the film is beyond repair. The cast is first rate, the music is just awesome, we need beautiful music in today's world. It may never be filmed again with such a great cast again. With today's home theater systems,wonderful sound systems and need for great music, I'm pleading with the Gershwin family to reconsider and release this awesome movie. Thanks So Much
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed429e1c6ae6fd25983b9be74449c550c8744f56e1ec12f5955f124ba5624f4
+size 690

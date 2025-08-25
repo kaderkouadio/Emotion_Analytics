@@ -1,1 +1,3 @@
-And also a wonderful beginning, a real quick start. It keeps you yearning and waiting for is about to come. Unfortunately the high adrenaline dries off quickly, but most certainly after half the movie is over.<br /><br />And it's a shame, because this movie has really good ideas and explores many of them thoroughly. But that is also one of it's faults. By exploring too many things, it get's mixed up into to many things, so in the end you're too confused to follow any plot or characters. It's very dark and moody, but that doesn't help much, if it's also genre hopping just to try to fit any- and everything in it's story!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b48ffe4fa6d52ae3aa83250c514e20000bd1976bfdda8e166e63c864dd4cb00
+size 626

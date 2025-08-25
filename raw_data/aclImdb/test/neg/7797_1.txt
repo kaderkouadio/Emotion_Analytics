@@ -1,1 +1,3 @@
-The "film" consists of the audition tapes of the "Surrender girls" and some footage from previous films. It's not hot or even suitable for late night viewing on Cinemax. Only an adolescent boy could be interested in Auditions from Beyond. I recommend avoiding this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a153adb34bcdcfd968ab0ca468a275ffc3e173ac41f59d1d0c3f9f2c2eb480f
+size 269

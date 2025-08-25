@@ -1,1 +1,3 @@
-I found this to be a captivating and entertaining movie - great pains were taken to reproduce that 70's look and feel and it is totally convincing. While seemingly limited in their ambitions, the main characters are nevertheless sympathetic and there are some quirky sidekicks whose characters are fleshed out enough to be entertaining as well - everyone from the landlady, the boss, to the friend who drives. I also found myself seriously enjoying the director's X-rated version of an Ingmar Bergman film over the actual film it self. The woman doesn't have much ambition aside from being "womanly" but it is based on a true incident and hey it was the 70's in Spain.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d41a5979707bf7d4069647c162fdf02f6b14910c8253aea512287e68514239b0
+size 668

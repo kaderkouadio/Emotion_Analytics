@@ -1,1 +1,3 @@
-this was a favorite Christmas Special that I wish that they would release on vhs or dvd , since my 33 RPM got lost,and any cassettes I made are also long gone.<br /><br />I am not even a big John Denver fan but was very impressed with the music , which was mostly traditional favorites with a muppet spin ( esp Little St. Nick ! ) It also contained a few little known songs ( original ? ).<br /><br />Even though it was done at the end of the '70's this show had a timeless feel to it. Hoping to find a copy soon !!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:16e24d01aacb362a6fdda9387623ddaae4294e3b861b0d20a01deccdd38a4db5
+size 516

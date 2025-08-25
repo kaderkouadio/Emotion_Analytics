@@ -1,1 +1,3 @@
-quite simply this film put me to sleep in under 30 minutes. Why bother using live footage of great white sharks and try to edit it into a movie. The whole thing stunk of being cheap and nasty and spoiled what was left of my night. i'm stunned to find they have made a Shark Attack 2, i certainly won't be entertaining it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:290d4c540937d512ef71802077e9164ad7728f0d080ab115b9b63f2a766c66d4
+size 321

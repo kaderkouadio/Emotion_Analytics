@@ -1,1 +1,3 @@
-first off, this is one of the worst movies i have ever seen. second, why does it say in the plot summary that the teenagers are hunted by a twisted killer with an ax? i never saw the killer touch an ax throughout the entire movie. what the hell is going on with this piece of crap? where was the first kid who got killed? you never see his body again. also, the killer looks like the killer from house of wax, another piece of crap. instead of wearing a wax mask they threw him in some overalls. hey haw. so, if you want to see one of the worst movies ever, watch dark fields. the killers death scene is maybe the worst acting that i have ever seen. i am not exaggerating. watch his reaction after he gets shot in the head. it is classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9230ae21c9194f7c3a4337c4c91163a1c79f0bbda11e1abe5ca7fe8369c0be09
+size 738

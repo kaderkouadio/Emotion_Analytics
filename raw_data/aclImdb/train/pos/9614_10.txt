@@ -1,1 +1,3 @@
-As a producer of indie movies and a harsh critic of such, I have to say I loved this movie. It is funny and intelligent, well directed and entertaining. Hats off to the producers and directors for making a good one! I'll be watching for the next one. I gave it a 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d66522df651700941b884334b630e44e599119819a7ca0d6a4fc09b52350323
+size 266

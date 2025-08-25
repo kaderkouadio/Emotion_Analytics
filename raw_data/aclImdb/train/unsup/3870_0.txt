@@ -1,1 +1,3 @@
-Rated E(Contains Violence) <br /><br />Released in 1988 Double Dragon is one of the first side-scrolling beat-em up fighting games.Sort of like Final Fight.In my opinion this is one of the best games released for the NES.For 1988 it was almost flawless.<br /><br />The graphics were fairly good for its time and the gameplay was fun and simple.Double Dragon is a nice fun fighting game.You can fight using your fists and legs or you could use various weapons that you can find.This is one of the first of many side-scrolling fighting games to come.Double Dragon is a fun and good NES game.One of the best NES games in my opinion.<br /><br />9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e77e5e88a192b10a85ad91722d6cc37244279f5423ee4119b4863d63d42054d5
+size 645

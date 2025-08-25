@@ -1,1 +1,3 @@
-Having read a fair amount about the Holocaust and having visited the memorial in DC, as well as seeing other films depicting this time period, I wasn't sure what to expect. However, I thought this movie was extremely well-done. Robin Williams was perfect in his role as Jakob, a latkah vendor, who pretends to have a radio and distribute good news to other Jews in the ghetto. Both sad and funny, this movie is well worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e0f3e0b989eacc34c9bab3286a45f62cfc3372459262ac9616a69b1735c28d7
+size 429

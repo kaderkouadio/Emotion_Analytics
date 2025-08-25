@@ -1,1 +1,3 @@
-This movie stands for entertanment. Its the funniest movie I have ever seen. The lines, the acting. And the clothes, wow, talk about 70:s. If you ever see this little gem, buy it. Its worth every penny. By the way, the opening song is awsome. If anyone know where I can find it. Plese, send me an E-mail.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51a4e95972786c52bbd688ac505fe2f3ea42504c959099d7d15bbaf5bf7ab5df
+size 304

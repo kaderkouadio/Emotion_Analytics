@@ -1,1 +1,3 @@
-Firstly let me say that I didn't like the fact that The Rock won the title that is so gay. Next I feel Regal should have got back his European title, Jeff Hardy is a crappy champ. Rob Van Dam had the Intercontinental title too long already Brock should have won it. I am pleased with Storm and Christian being tag champs, best match was the Booker T and Big Show match in my opinion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bca5e20308d181018ffbf42bb4fc32c5ae8992b2724d868ab86addca6d7c2cb
+size 383

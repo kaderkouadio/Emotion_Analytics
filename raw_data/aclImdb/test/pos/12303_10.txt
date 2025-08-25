@@ -1,1 +1,3 @@
-Writers and directors, by the nature of their craft, stand back a frame from the action in their work to show insights about characters and situations. Here, Huston and Joyce have stepped back a bigger frame yet to show us the ultimate view of what it means to be human. Until it's very end the movie appears to be about nothing much, the kind of typical circumstances that fill every day life. It is not until the end of the very final scene that we realize that it is in fact about everything.<br /><br />It is not possible to watch this final scene without simultaneously feeling pity, and also deep affection, for oneself and the rest of fellow beings.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c664ec779130156914adf92ef17ce6b21fa382714e68a8abc8c8e38e4368f1b
+size 656

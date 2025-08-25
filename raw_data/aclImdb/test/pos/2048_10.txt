@@ -1,1 +1,3 @@
-When this movie came out, I had seen Geena Davis play only soft, feminine roles... This movie was anything but soft and feminine. Great lines, great action...she and Samuel L really clicked. Too violent for the kiddies, but if you and your significant other are trying to agree on a movie, try this one on for size. Go Geena! Go Geena!
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf32442784cac71e2655101fbaa7a40bc7e68b5da34c9377054c89e9c83bcf2
+size 335

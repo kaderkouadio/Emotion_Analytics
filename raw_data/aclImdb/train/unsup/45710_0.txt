@@ -1,1 +1,3 @@
-Interesting premises for a screwball comedy based around the nagging wants of a former First Lady and her relationship with the tired and frustrated Secret Service man. The performances by the two leads are perfect and certain situations are clever. But the third act ends on a ridiculous serious note that killed the film as a whole. And the music is way over the top.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c08e9719dc453ff01004e5f55ca4dc9087d91c4b4657803208b7ace00362b2
+size 369

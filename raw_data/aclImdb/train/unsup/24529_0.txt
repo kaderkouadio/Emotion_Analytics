@@ -1,1 +1,3 @@
-If you've read the comics, you'll be happy with this adaptation (and you'll be the part of the audience that gets the yellow spandex joke!) My friends that I saw this with, who were NOT familiar with the XMen beyond the promos, also enjoyed this very much.<br /><br />(Wolverine's original costume in the comics was made primarily of... yellow spandex).<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:759ac2455ea000aad883473fa9ab9ed128eaf57de7a38185f643d75265ebe972
+size 365

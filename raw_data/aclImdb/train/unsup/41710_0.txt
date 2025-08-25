@@ -1,1 +1,3 @@
-I am a JAG & David James Elliott fan but his acting in this one was horrible. His behavior as an FBI agent was unbelievable. And his & Terry Farrell's parenting on the plane were criminal. Very bad movie. Don't waste your time on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc260cabfb3f3bac65c11576cc4789d4409be2437592c7e2c4042f55418ca8de
+size 239

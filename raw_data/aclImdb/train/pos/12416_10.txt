@@ -1,1 +1,3 @@
-The story centers around Barry McKenzie who must go to England if he wishes to claim his inheritance. Being about the grossest Aussie shearer ever to set foot outside this great Nation of ours there is something of a culture clash and much fun and games ensue. The songs of Barry McKenzie(Barry Crocker) are highlights.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e4fcea3cd0c801908eadce837226e68ba40aef498994cc5de4536ce9645bbfa
+size 319

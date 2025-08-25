@@ -1,1 +1,3 @@
-this movie corrupted all that was good about the hobbit.<br /><br />the music was frightening.<br /><br />the script was a product of too many late nights of white lining.<br /><br />it gives you a brief, misleading summary that not even a child could enjoy.<br /><br />at least it is better than Ralph Bakshi's LOTR.<br /><br />apologies to those who actually finished watching the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaf0968f30bbb0480b60f9a119bcbbdcad0846b431041bd6989b1b527a3ab2e5
+size 389

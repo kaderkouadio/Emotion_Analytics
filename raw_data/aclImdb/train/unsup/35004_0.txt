@@ -1,1 +1,3 @@
-I was utterly disappointed by this movie. I have recently bought both series on DVD as I had seen the first one in the past and liked it very much. While the first mini-series was fantastic, the second one was just awful. I could only watch half of it because it seemed to have little in common with the original "Thorn Birds"; it simply lacks the romance and the characters do not possess the emotional depth of the first series. Fee Cleary, the tough, quiet woman we all knew from the first series, couldn't stop talking in this one. Also, the dialogues are pathetic, it almost seems like a parody of the first mini-series. Absolutely disappointed!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f217130427817f77a763f541ac2696906da23b8be55bb5eccc8f3226628cd13e
+size 650

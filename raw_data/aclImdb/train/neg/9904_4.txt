@@ -1,1 +1,3 @@
-The movie 'Gung Ho!': The Story of Carlson's Makin Island Raiders was made in 1943 with a view to go up the moral of American people at the duration of second world war. It shows with the better way that the cinema can constitute body of propaganda. The value of this film is only collection and no artistic. In a film of propaganda it is useless to judge direction and actors. Watch that movie if you are interested to learn how propaganda functions in the movies or if you are a big fun of Robert Mitchum who has a small role in the film. If you want to see a film for the second world war, they exist much better and objective. I rated it 4/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b647f74c8758703711a53a5001339ce882a49fdee8b2aeff18c56f1b73675a2
+size 647

@@ -1,1 +1,3 @@
-I kick myself for watching trash like this. It is sad that a major hollywood studio would release something that insults and reflects poorly on American armed forces. I'm a veteran and found the movie to be not funny and just another hollywood lie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8af7427c88cfa30aebb5101b01a4e6d68602c7b1f866f4c542ff4c9148d42609
+size 248

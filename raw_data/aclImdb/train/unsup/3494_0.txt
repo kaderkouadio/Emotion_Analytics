@@ -1,1 +1,3 @@
-This film was very well done. I had heard a lot of negative hype before I saw it but I was impressed. This film tells a great story about the human race becoming refugees and fighting the force that dominated them. The characters were played very well, they were hard people living in hard times. The children added perspective and even hope that humans could outlast the beasts. The visual effects are stunning, from the dragons to the wasteland the film has a dark beauty. The plot is survival of the fittest, and only one species will survive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94505a86daa20adcc43af8522ae00720c761233e7ab5dd2cf26cf252d9d6de6c
+size 546

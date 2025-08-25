@@ -1,1 +1,3 @@
-What century was this film made in? The racial attitudes in this snooze-fest are unbelievable. Yeah sure. Any self-respecting black tribe in Africa will bow down at the first white person who walks along. Ridiculous.<br /><br />There's very little plot here: Pilots look for girl, find her, try to escape. The end. For the life of me, I don't know why this film was made. There's absolutely no point, and it would fail as an action/adeventure film because there's so little action (and some pathetic insertions of stock footage).<br /><br />I would expect better from the two lead actors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1bb91bea92f7b698f0c997edd7d7fb308d4dcb299816ee6c4cab1428505cfe8
+size 588

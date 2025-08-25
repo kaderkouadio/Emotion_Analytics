@@ -1,1 +1,3 @@
-I'm not sure HOW this was accomplished, but Blood of the Vampire is both ghastly AND dull. I had taped this off AMC during the 2002 Halloween marathon and finally had a chance to watch it and while it had the look and feel of a Hammer movie it was amazingly, painfully dull. The fact that Dr Callistratus is resurrected from the dead is the only supernatural element in the movie and somehow it never becomes an issue or is talked about again. (SPOILER AHEAD) Although the visual elements of the Doctor's secret laboratory is stark, there is no attempt to generate any fear in this movie. Dull dull dull.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3904110542efb581c38e1c7f5f72a00b9378c0780bca0f36613c226623ca39ef
+size 604

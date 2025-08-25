@@ -1,1 +1,3 @@
-Clive Barker did a good job on the original Candyman. It was truly a cut above most horror movies. The second movie was mediocre at best in my opinion but this one was just horrendous. There is no suspense at all in this movie and the acting is deplorable. Donna D'Errico is soft on the eyes but too bad she talks. Lets hope this is the last sequel to this series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b1120c8ba2c081dcacc4a0c7ece0e618bff669e6de67537f19b92294065fb75
+size 364

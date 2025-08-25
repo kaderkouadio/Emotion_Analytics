@@ -1,1 +1,3 @@
-This film seemed to be going for shock value, but without much sense of reality in the script or in the acting. <br /><br />No addict of any kind would submit to the indignities depicted here unless predisposed to do so. <br /><br />I rated this 2 out of 10, though, because of a pretty cool soundtrack, and because "Dorothy" was kinda cute. ;-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06d12ba05dae969f70927f2c41bdeea1915e3a7cbe19e15015c7858030a5362
+size 345

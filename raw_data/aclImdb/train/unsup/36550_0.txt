@@ -1,1 +1,3 @@
-Primal Force is a terrible movie but it's one of those ones that's so bad you actually enjoy it. Now, Ron Pearlman is a fine actor but this film probably isn't one of his proudest moments.<br /><br />It is hilarious at times. The 'mad scientist' giving his speech is unbearably funny and the psychopathic mutant baboons will make you wet yourself (not with fear, of course). When you're not dying of laughter, you'll be marvelling at just how bad this films is.<br /><br />It is awful but I recommend it just because it's so much fun to watch a great 'bad' movie sometimes. If you're not up for Kurosawa or Tarkovsky, some beer, a few friends and Primal Force are a great way to spend an evening.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f7a646a4a252253c7c9aeed3055cba3a63158426b7a1abae6bd5faeed9beb1
+size 696

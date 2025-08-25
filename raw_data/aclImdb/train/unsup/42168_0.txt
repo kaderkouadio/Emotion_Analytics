@@ -1,1 +1,3 @@
-A very predictable, sentimental movie about a pedantic cop whose strict adherence to the letter of the law results in Bogart turning to crime to support his family during the Depression. Of course, as the cop (O'Brien) gradually realises what trail of events his 'efficiency' has sparked, he begins to relax his attitude ....
+version https://git-lfs.github.com/spec/v1
+oid sha256:e095ad9631dd6f924cb8d98698821b09da2a92449504d3abce4ba0b80d60de56
+size 325

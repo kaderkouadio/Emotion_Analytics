@@ -1,1 +1,3 @@
-Movie didn't have much plot and was uninteresting. Basically you spend a lot of time watching people paint. Also it's very difficult to hear or understand the dialogue -- partially because of the accents, but also because words are mumbled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218765521083a51658cb0fd5d64141a52d0b7c89bbb7a572e2422ed8bf6e6867
+size 240

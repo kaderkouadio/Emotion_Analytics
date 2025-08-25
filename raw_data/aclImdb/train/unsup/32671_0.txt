@@ -1,1 +1,3 @@
-I think worst movie ever is being too kind. If I had the option of watching this again or ramming nails through my head, I would choose the latter and I hope all of you do as well. This has got to be the dumbest idea I have ever heard of. And Hulk Hogan? Wow, he is just absolutely pathetic. Stick to wrestling - that's something you suck at slightly less than acting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bef3d7fea4695bac1a1fc2ed7d91d37c68f237705fe619a572143c51da7c112c
+size 368

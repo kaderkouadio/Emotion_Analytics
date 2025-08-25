@@ -1,1 +1,3 @@
-Standard alien-abduction conspiracy-theory story that could be written in one's sleep (and probably was). The centerpiece of the tale is a very unappealing All-American Family...Hollywood Yuppie version. The dad is a complete wimp (he's handed a grenade and says "What do I do?"...that really cracked my kids up). The mom is overbearing, overprotective, and humorless...probably heads the local PTA. And the kid is whiny...but then, look at his parents. The only enjoyment I got out of this movie was watching Dean Stockwell....I loved it when he was frying up eggs for breakfast, and then asked the dad if he would rather have granola..or (with great disdain) Yogurt! Personally, Dean would probably have had a better time if he invited the MIB to breakfast...and barricaded his house against the Yuppies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f783c33e9809f985dcee430d76bea36b03953f66124a54db901f0a1dbd294283
+size 806

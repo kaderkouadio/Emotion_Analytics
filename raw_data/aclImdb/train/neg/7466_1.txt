@@ -1,1 +1,3 @@
-Wow. Some movies just leave me speechless. This was undeniably one of those movies. When I left the theatre, not a single word came to my mouth. All I had was an incredible urge to slam my head against the theatre wall to help me forget about the last hour and a half. Unfortunately, it didn't work. Honestly, this movie has nothing to recommend. The humor was at the first grade level, at best, the acting was overly silly, and the plot was astronomically far-fetched. I hearby pledge never to see an other movie starring Chris Kattan or any other cast-member of SNL.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79a4ce59238eb5e4563024ae3d69082a3ee664971acd54d9d55b34bee987c7bc
+size 568

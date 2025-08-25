@@ -1,1 +1,3 @@
-This movie was of poor quality, film wise, but that didn't bug me.<br /><br />So what if it looked like Mark Hamill was shooting with his handicam? Fact is, the plot was so poorly excuted, and the movie so boring, I fell asleep for 30 mins during this... and missed nothing!!!! The cameos were neat, and fun, but not worth the rental price. Very few good one liners. And some pretty hot chicks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85258f262490cd14905781890d1a9165305522af97b962468559c54cdfe5bb4b
+size 394

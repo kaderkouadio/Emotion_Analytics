@@ -1,1 +1,3 @@
-This would have to be by far the greatest series I have ever seen. I vividly watched every sunday night and purchased the box set as soon as it was available. this is a timeless play written by a fantastic Australian that people of all ages could relate to, whether they are Australian or not, however for those of us that are Australian it truly brings across the typical Australian icon. A must see 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:f229e1d12b1b6fb3568a7982c65af79b7abb37596d6cfb58077fe1d72c90d725
+size 406

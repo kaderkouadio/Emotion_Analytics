@@ -1,1 +1,3 @@
-It's exactly what I expected from it. Relaxing, humorous and entertaining. The acting couple was awesome, as well as the scene selection. I personally recommend this. It's kind of the movie that can be seen by whole family at the same time without anyone feeling uncomfortable or getting bored. This cute movie will make you smile, and laugh too. And the action scenes are tasty. Classics of modern american comedy. And very well done.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7296f5d52fab8c607fd11fdf66aa471db55c05e134f4915dea256d5c53e2437b
+size 435

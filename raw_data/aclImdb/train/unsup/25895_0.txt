@@ -1,1 +1,3 @@
-As an avid watcher of the Real World... I was totally disappointed in the storyline and well, its characters... it was badly played out and possibly the only good part of the tv-movie... was Adam, the frat boy's face... otherwise the characters were very bland. Roland, what kind of name is that, who planned the Real World 'Challenge' was a terrible character. Bunim and Murray... that was a low blow to your Real World Wonder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:662ba0a03238ed22193747d77e23693e7cce2e56b5e3c9d2c9101818f8f83802
+size 428

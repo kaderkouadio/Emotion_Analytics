@@ -1,1 +1,3 @@
-Although the premise is interesting, this movie doesn't always carry it through well. That being said, this movie features some of the funniest lines I have ever heard in a movie, particularly from Michael Keaton, who made one of the GREATEST entrances ever in what was his first film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80934addd5f1e670f4bfc7e7f631e5eabb5752a65f560c57b009d8c6ff8fe59a
+size 285

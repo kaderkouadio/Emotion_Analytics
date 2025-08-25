@@ -1,1 +1,3 @@
-Did this movie have a point? I'm running into more and more of these movies lately where it's just a bunch of people having an average conversation with nothing interesting to say. How are movies like this allowed to get made? - better yet, how is these movies get so many stars to be in them??? The only highlight of this film was Janeane Garofolo and the nostalgic soundtrack. Don't waste your time with one. I don't see what all the hype was about.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7527f65b60687017a981e1d7064f6642bc2a48d6de350199a3cefa770904b0
+size 451

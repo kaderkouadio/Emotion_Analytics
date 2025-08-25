@@ -1,1 +1,3 @@
-I saw Mulan, Anastasia and Prince of Egypt in a row. I loved Mulan, I loved Anastasia even more, and now... Well, I must say that Prince of Egypt is probably the best of all. I'd even say, the best animation feature ever produced in the USA (aside from Batman : Mask of the Phantasm).<br /><br />It is a real piece of art, aiming to entertain everybody, not only act as a baby-sitter movie for kids. There aren't even any pets here. Only a great story, moving scenes, credible characters and fantastic music and storyboard. You will love this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3548945f0b3fc113cd6e5ddeaa42feb5e749df535dfb73ea977dc83c8697ba31
+size 547

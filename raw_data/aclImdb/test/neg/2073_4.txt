@@ -1,1 +1,3 @@
-Dull acting, weak script...worst spanish movie in years...I was<br /><br />attracted by the (naked) beauty of Paz Vega, but as an actress<br /><br />she's useless, you almost can't understand what she's saying...<br /><br />About the story there's not much coherent to say...we heard of it<br /><br />before, but as this is a "modern Carmen" we find a few changes: -The french soldier is now a basque soldier. -Merimee himself is a character in the story. -Carmen is a dangerous "bandolera" in love with a famous<br /><br />"matador" and she can speak fluent basque...<br /><br />Can anyone understand this mess?
+version https://git-lfs.github.com/spec/v1
+oid sha256:58d80b22ef7426d209178b452480af95f43a1644ec2a8cfad011393c9257b83d
+size 612

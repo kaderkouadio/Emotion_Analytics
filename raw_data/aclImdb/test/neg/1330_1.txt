@@ -1,1 +1,3 @@
-This movie was terrible! My friend and I were so bored by it we fast forwarded through the last half of the movie just to see what happened. It's the typical sports thing, she either wins or she loses. The only remotely interesting thing was when the one guy refers to someone as a Veg-e-tab-le. That will be a line my friend and I bring up for years to come reminding us of this colossal cheesy cliche waste of time
+version https://git-lfs.github.com/spec/v1
+oid sha256:799084385f98bcc164167d13223e7a93e3a581290c01c567020409c10465de8d
+size 416

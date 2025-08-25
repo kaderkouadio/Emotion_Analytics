@@ -1,1 +1,3 @@
-Watched it on TV, started to wonder why others liked the explosions. Just a bad movie all around. They must have a lot of money in Hollywood to go ahead with this movie. I would like to read plots of movies that did not make the cut because they must be really horrible if this movie got made.<br /><br />'The Postman' was a great action flick next to this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:308319c032a119effd8e9496ec6869aa00e88bd35b33f222474deb94e61c72a4
+size 357

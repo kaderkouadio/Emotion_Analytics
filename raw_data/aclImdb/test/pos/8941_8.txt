@@ -1,1 +1,3 @@
-This film had a distinct Woody Allen feel about it, so if you're not a fan of dry humor, dark humor, or back-handed humor, you probably could find something else to do. If you ARE, however, this is quirky, with some nice twists and a flowing, natural dialog.<br /><br />The story itself is quite engaging, not quite like a train wreck from which you cannot disengage your eyes, but close. I mean that in the best way possible. The intrigues are plenty, the twists are enough to fully engage the senses, and the characters are downright lovable.<br /><br />I had a great time with this movie.<br /><br />It rates an 8.3/10 from...<br /><br />the Fiend :.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b115c17ae2946389dbf25aab891be1a702032047b5435e89129f87689bc9ee07
+size 653

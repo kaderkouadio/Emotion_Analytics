@@ -1,1 +1,3 @@
-I enjoyed Still Crazy more than any film I have seen in years. A successful band from the 70's decide to give it another try. They start by playing some gigs in some seedy European venues, with hilarious results. The music is fantastic, the script and acting are terrific. The characters are spot on, especially the lead singer with the high heavy metal voice, makeup and personality problems. The concert at the end was unreal. Go and see it, preferably in a cinema with a good sound system :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1682d6c6d2c0b4e41045a0ab5d97a514b2f0acc25dada8265ad625560645beee
+size 494

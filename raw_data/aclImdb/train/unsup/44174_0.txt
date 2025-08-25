@@ -1,1 +1,3 @@
-The Alpha Video release seems to be fairly complete with the entire story intact (except for some splicy sections in what was probably a 16mm television print: The story does make sense in this version which has the entire explanation of why the criminals are on the ship in the first place and what the doctor's motivations are.<br /><br />It is mysterious that the film runs about 63 minutes when the main IMDb description has it released at 57 minutes. That's probably incorrect and doesn't represent the original theatrical release, but rather some random individual's timing from a DVD or VHS tape that wasn't complete in the first place.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d144af210248546fc5daa7ec36d71c74fe701dcb55ccc8e83606dc347360b45
+size 643

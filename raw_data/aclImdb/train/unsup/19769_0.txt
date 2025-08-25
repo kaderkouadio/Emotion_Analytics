@@ -1,1 +1,3 @@
-This comical sci-fi cop adventure is set in the future and follows the exploits of a New York detective who is given superhuman powers from a mysterious Kabuki. Suddenly he turns into a colorfully dressed, but still somewhat bungling crime fighter.<br /><br />My Rating:2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a807f14787cbb085b7ec0ccb80b700b05c640aa67ff063132706176fee8b18f
+size 274

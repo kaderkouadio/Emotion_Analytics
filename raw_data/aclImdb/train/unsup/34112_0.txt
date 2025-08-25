@@ -1,1 +1,3 @@
-holy cow, what an awful movie! i'm a dave chapelle fan, and i like danny devito too, in most of the comedies he's played in. norm macdonald is a gifted stand-up comedian. but in this movie, chapelle's reduced to playing the silly black sidekick, danny devito is given NOTHING to work with, and macdonald is so unfunny i found myself thinking about cleaning house while the video was on. yikes. i wouldn't even recommend renting this movie with a free rental coupon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79b5571919be75e38c1c7cd967c308d5df70beac5b75c6f5a153e62288dce46b
+size 465

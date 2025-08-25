@@ -1,1 +1,3 @@
-The best film ever made. That is what I thought as a child. And now fifteen years later, I still believe it.<br /><br />This story shaped my whole way of thinking as an adolescent, and maybe even helped make me the person I am today. It is not about a message, or a favourite scene. Just the way you feel after seeing the film.<br /><br />If todays world of witnessing the 'Terror wars' gets to you. Then watch this. It may just give you a different perspective, or at the very least, escapism and maybe hope.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3ec5a1a6e8a485027359237567d6581700231590b4bd967ada611ccb45dffa7
+size 521

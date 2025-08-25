@@ -1,1 +1,3 @@
-The perfect tv show of the eighties. Here in Italy arrived some time later but it was recognized absolutely fantastic. It will be always in my memories, thanks a lot Don, Philip, Edward and all the guys !
+version https://git-lfs.github.com/spec/v1
+oid sha256:52d334e45f80beeab9667f35154e0dedba81a200d4e34563bf0fc8ba4407ff70
+size 204

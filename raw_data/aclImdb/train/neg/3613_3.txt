@@ -1,1 +1,3 @@
-It's a poor film, but I must give it to the lead actress in this one....Francine Forbes. She appeared to be acting the least and I personally thought she was kind of cute. Too bad she only appears in one other film in the database. Besides that, the film is filled with laughable gore and fakey death scenes. People get stabbed and they GUSH like 2 gallons of blood! But, if you like to watch poor horror films, I recommend this one highly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e1ac4172083bf5b9e058082ff78a4c0a094ef4b7bff4b03a06f56eb725cebbe
+size 440

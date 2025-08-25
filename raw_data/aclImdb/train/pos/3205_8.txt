@@ -1,1 +1,3 @@
-I saw this in the theater and I instantly thought that it is good enough to own on video. I am a big nut for Sci-Fi action flicks though anyway.<br /><br />Without giving any of the story away, it is worth seeing if you like Sci-Fi without requiring much thought. The story is basic, and the plot is very good. Worth your time to see!<br /><br />Maybe they will make a sequel? :)<br /><br />8 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e070467bb3bd537552f5fb60d12a11b80b71b6fb3547056b1190998ccda55b0
+size 402

@@ -1,1 +1,3 @@
-I hate to criticize anything from low budget independents but this film is just plain awful. The characters are barely credible, the script is disjointed and weak and the directorship is poor. Low budget films can still be pleasing to watch, but not this one.<br /><br />I fully support independents and believe that some really fine talent comes out of smaller productions but this film has left me reeling.<br /><br />The concept has been flogged to death by the likes of Final Destination and now suffers from any form of originality. Please Please Please do not produce films like this unless you have a) A sensible Budget B) A credible cast and C) A decent concept.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24292159acd3c0dd483dfef03f95ca189466c69d4d6d1528dd34595c6629d210
+size 670

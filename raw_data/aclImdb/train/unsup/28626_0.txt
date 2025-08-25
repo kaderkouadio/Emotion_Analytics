@@ -1,1 +1,3 @@
-This film is often overlooked but if you can find it, it is well worth your while. Adapted from a stage play it is admittedly slow and talky, but it does challenge the intellect. Guiness and Hawkins are brilliant as a churchman consumed with self doubt and a zealot consumed with the state. Their battle of wits forms the crux of this many layered work. A rather pale love story added to the screen play simply detracts from the films power. This is a film that will challenge you to think. It requires work on the part of the viewer and, as a result, is not everyone's cup of tea. Any fan of great acting shouldn't miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c67dc80ea6ad73801ed1404d63b9e6953d0601a1e0dc7e4d0f64952b62ab8b
+size 624

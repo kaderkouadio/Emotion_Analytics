@@ -1,1 +1,3 @@
-Julia Davis is a brilliant writer and actress but I found this utterly boring. It was billed as a black comedy but it prompted not one laugh. It was not particularly black either. The recreation of the period seemed meticulous and rang true to me, who vaguely remembers the programmes. But such ingenuity deserves a better script. One is tempted to suggest that the subject matter was just not that interesting. However, there were hints that Craddock's character was extraordinarily complex. But left as hints they did not lead anywhere. I suspect that Julia Davis was too constrained by the need for this biopic to be true to the known facts to be able to produce anything funny or even interesting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6db9904935c7d538ebbf0d2509d246806ecb9c1edc090476a981afe30797ebf6
+size 701

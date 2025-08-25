@@ -1,1 +1,3 @@
-Once you can get over Nic Cage playing an Italian soldier who loves opera and believes in making love, not war, you can get down to enjoying this beautiful-looking film. This could be used as an advert for tourism in the Mediterranean. John Hurt is great and Penelope Cruz isn't bad, as you might expect. Christian Bale's character is somewhat one-dimensional, which is a shame.<br /><br />The main drawback of this film is the adaptation from the book - having been told subsequently the differences between the book and film plots, I feel cheated out of a much better and more convincing storyline.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3816cf0870c1870a894de43e76daa1bd246dc7f577e55cf062eeb5e49556bad
+size 600

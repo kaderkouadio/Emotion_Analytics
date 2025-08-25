@@ -1,1 +1,3 @@
-A dedicated fan to the TLK movies, with the first one being a milestone and the second probably the best sequel Disney has produced, along comes this film... Now I'm not arguing with animation, voice work, music, but this is no more than a Timon/Pumbaa screwloose in the TLK atmosphere. Although it isn't bad, it doesn't add anything. Basically this movie is one big joke... and that's about all that saves it. Make a real TLK3, Disney! The potential is there.<br /><br />4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:942a0879776f6749d76d6c2956b7bf83bb817f7354542d86cf3488fb638584a6
+size 476

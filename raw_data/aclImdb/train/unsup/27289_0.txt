@@ -1,1 +1,3 @@
-Absolutely glorious series. All the actors in this series are in or have been in American films but they have always been underrated and are some of the best actors alive. There are more dames and knights than you can believe. Derek Jacobi is breathtaking in his performance. Sian Phillips is subtly evil. John Hurt as Caligula shines with madness. The sets are unbelievable considering the small budget they had. The most shocking thing is that everything in one sense or another is true. These people really did die these ways. It will take you completely out of your everyday life and deposit you in the world of the Romans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8affd16e78b961896ccbf320fba1ecb04740ce2910e2637b33af0d713f726842
+size 627

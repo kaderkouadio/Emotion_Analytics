@@ -1,1 +1,3 @@
-This is one of those low budget affairs that purport to present an alien world or a bleak future whilst looking like they were filmed in a warehouse for about $20,000.... which Mars probably was. Tedious and unexciting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6668a8a0f4da44f471a0772cffaf4adf7301d642dfba68f4ffc922aeb603bc5f
+size 219

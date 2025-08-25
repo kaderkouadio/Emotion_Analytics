@@ -1,1 +1,3 @@
-I read Rice's novel with interest, and became quite enchanted with its characters and heartbreaking tale based on historical truths.<br /><br />However, I was simply APPALLED at this disastrous adaptation. The casting was based merely on physical appearance, and not acting talent (with the obvious exception of Peter Gallagher, who was neither blond-haired, or able to act his way out of a wet paper bag). The cast's embarrassingly clumsy and inconsistent attempts at affecting a French accent was hilarious, but not in an entertaining way. I found myself wincing through this muddled and melodramatic tripe, and was surprised I made it to the end.<br /><br />A warning to fans of the novel - stay away from this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35cee082d9bc645a1f5c330533a0da04b518c61953cd9602c8855f4283c0cfbe
+size 718

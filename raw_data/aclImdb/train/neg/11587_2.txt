@@ -1,1 +1,3 @@
-This one is just like the 6th movie. The movie is really bad. It offers nothing in the death department. The one-liners are bad and are something that shouldn't be in a NOES movie. Freddy comes off as a happy child in the whole movie. Lisa Wilcox is still the only thing that makes this one worth while. The characters are extremely underdeveloped. All in all better than the 6th one, but still one the worst movies of the series. My rating 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:67cb6d96efd540b9dd891b738cd23fd6ec818da87c114ba7fee0293e369096fe
+size 445

@@ -1,1 +1,3 @@
-This is one of those kids' films that adults can't sit down and watch as well. Okay, it's got nice morals, but pleeeeease, no DOUG'S 2ND MOVIE !!!!! Boring attempt to stretch a tiny DOUG episode into a feature-length production...didn't work. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:02200f8df8ced2bfd28d365a53a6c2f41d508affb910b472be94173270025b0c
+size 247

@@ -1,1 +1,3 @@
-Perhaps the WORST attempt to tell the story of Arthur, Lancelot, and Guenevere ever made. From poor costuming to a complete inability to follow even the most basic fundamentals of the Arthurian Legends, this movie has it all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6613df2e2e5d955c77dfee3b763e5918463b806e697ac1839623d32ab65e09bc
+size 225

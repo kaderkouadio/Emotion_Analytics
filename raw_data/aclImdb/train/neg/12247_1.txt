@@ -1,1 +1,3 @@
-This film is really terrible. terrible as in it is a waste of 84 minutes of your life. Special effects are so terrible. The acting wasn't convincing.<br /><br />Its about a crocodile that attack a view tourists as they are filming a documentary about "blood surfing". Blood surfing is when they surf around sharks but it turns terrible wrong when a 31 foot crocodile interrupts there holiday. The sharks don't look real. The crocodile is even worse, and it gets even more pathetic when they are running away form the creature, but the crocodile gets stuck and 2 females flash it. The deaths are fake and the pirates are just to fill in time.<br /><br />A pointless, terrible film thats not worth seeing!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:581ca7157e917063a09a3b952509e39f7e8cb5dbd24d7960ecbbfbbe1f849620
+size 704

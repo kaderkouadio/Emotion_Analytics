@@ -1,1 +1,3 @@
-This short teaches the merits of, what else? Yup Industrial arts. It has a creepy kid who likes those tools a tad more than a normal sane person would and a coach (Chuck Lacey,who did a great many of these 'educational' shorts) who agrees that that stop would never be useful to him, but how he respects that he learned it none the less. MST3K mocked this short unmercifully of course and it was among the funniest ribbing of a short I've seen from the show. Bought a big smile too my face. This short can be found on the Mystery Science Theater 3000 Volume 1 before the film "The Skydivers" (episode 125) <br /><br />Normal short grade: D <br /><br />MST grade: A+
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d940137c953873345950371d4b56bd4a5510b0fcff3ef6219201645f1ee05dd
+size 665

@@ -1,1 +1,3 @@
-Awesome movie. Salma and Pierce were great together, clever plot, big twist. And of course, it features my board game, Tanbo. Besides Salma, there were a lot of beautiful women in the movie. Tall slender women with nice round asses bouncing to and fro in tiny little bikinis. The twist at the end wasn't just a little twist, it was a turn-the-movie-upside-down type of twist. Very clever. My compliments to the writers, directors, etc. And as I mentioned, Pierce and Salma were (pretending to be) playing my board game Tanbo, a game I invented 12 years ago. An abstract strategy game which is played on a Go board, with Go stones. Information on Tanbo is easily found on the internet, and can be played at tanbo.com.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2dd565c863dd211246b2410b9b6ca327a61e30fb0dd1e50fb5329747c859bb9
+size 716

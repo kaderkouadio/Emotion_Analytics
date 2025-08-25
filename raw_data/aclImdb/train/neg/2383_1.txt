@@ -1,1 +1,3 @@
-This is a candidate for the single most disappointing movie experience of my lifetime. Cool title, excellent director (I saw "To Die For" and "Drugstore Cowboy" before this), and hey - Uma Thurman in the cast. How can you go wrong? Well, that is a question that throbbed in my temples for hours after I watched this turkey.<br /><br />Disjointed and unfunny in an attempt to be offbeat, this is a dead-zone of a movie that should be avoided at all costs. Its critical lambasting was well deserved. You have here one of those rare films that does not contain a single redeeming quality. Zero out of ****.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e104d84979b215cdbd1acc624884e2cc8d3ae84b8a976c24f279dea20d6fd8a8
+size 603

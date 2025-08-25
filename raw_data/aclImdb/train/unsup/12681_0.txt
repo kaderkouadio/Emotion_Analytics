@@ -1,1 +1,3 @@
-I was amazed by Ramsay's thorough understanding of children and their feelings. This film, a touching portrayal of a father-daughter relationship, is by far the best I have seen. Poetical depiction of the seemingly endless railways are reminiscent of the long and hard life. One has to accept the people you love as they are and realize that they may be loved by others. One needs to be able to share the beloved. Final scene is the best. The girl forgives her rival. It is interesting how the girl starts to hate her rival. I wonder how important was the fact that they look alike. I think I want to start shooting movies as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe8aa59e964ba359205cfb35389f8091149b7475c410f2ce61b1631340113209
+size 631

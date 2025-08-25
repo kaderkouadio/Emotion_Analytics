@@ -1,1 +1,3 @@
-So one day I was in the video store looking for a movie. I came across this and rented it because it was a film I hadn't seen or even heard of.<br /><br />Now I like slasher movies in general, but this is just abysmal, not even good for laughs. Besides being ultra ultra cheap and containing all slasher film cliches and terrible acting it has the most incompetent and inept direction I have ever come across. Now sometimes the aforementioned traits can be present in a film and some enjoyment can still be had, but not here. Painful example of home-made horror.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daea38ed445a5ad596aac685c685b18a08da522458653d123f0f7588593b308e
+size 562

@@ -1,1 +1,3 @@
-I saw this movie on a Delta Airlines flight the other day. Even with my higher level of tolerance on an airplane, I couldn't even finish this one.<br /><br />There is practically no character development or plot development. The acting is not believable--no kid would scream like that so consistently or behave that way, and no parent would be so whatever about it.<br /><br />Don't waste your time with this. It's sad when a movie fails to entertain even an airplane audience. And unfortunately, the cute little girl didn't save the movie. I can't imagine any realistic ending could have been pulled off after the lame start. Sorry.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5664b39e4f3032c101cfe49211bec5c199b7f59d391095fbcd37c48907ccd3b
+size 633

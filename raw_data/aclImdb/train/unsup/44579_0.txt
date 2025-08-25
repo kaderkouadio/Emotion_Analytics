@@ -1,1 +1,3 @@
-Don't really like the whole hopeless sorrow thing, too black. Marrying an emotionless zombie girl as solution?! Evolution? This is just plain sick. Besides the zombie thing, it's somewhat similar to a manga I read: by the end of 21th century, mysterious illness spreads out, teenage girls suddenly becoming more and more beautiful day by day, and so as weaker and weaker, then eventually die off. End of humanity... Come on, horror film should leave some space for hope (not a twisted one).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee0348e4ecd34fcf210a0ece82d168a9f05931adb3850b8501346b80abc71a36
+size 490

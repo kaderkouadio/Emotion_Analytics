@@ -1,1 +1,3 @@
-Just wanted to say this is an absolute masterpiece, and everyone<br /><br />who's lucky enough to have a chance to see it shouldn't miss<br /><br />that chance, it's a once in a lifetime. Congratulations Jacques,<br /><br />give us more of the same please! (or anything else, actually)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e0b65d4798fab4d5c043ff023a4f2d9beea55baf29007e86e3f2f668002afd9
+size 285

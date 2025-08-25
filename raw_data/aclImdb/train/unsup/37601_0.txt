@@ -1,1 +1,3 @@
-Actually, considering that this is the *only* show about geniuses to my knowledge, it could certainly use a few on the writing staff... and one or two in the directing, acting, and casting pools wouldn't hurt.<br /><br />Seriously, how could someone take such a cool idea and screw it up so royally, and with such effort? I couldn't even make it through the heavily computer-animated pilot. "Dark Angel" had more believable character dynamics. And why is it that every single genius is an idiot, perpetually annoyed/annoying, and/or a hot chick? Give me a break. The constant "sound library" cheese-music was also a nice touch.<br /><br />I suppose the biggest morons are the folks at Sci-Fi. Seriously, someone's blown a gasket over there...
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4ae4c2b2be7fa724129edbc40f20885512ad7df7f425e4711b8ad474e3e761
+size 742

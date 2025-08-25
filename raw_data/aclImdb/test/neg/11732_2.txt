@@ -1,1 +1,3 @@
-No,no,no. That is my advice to you if you are wanting to see this film. Anthony Perkins is the one and ONLY Norman Bates,as is Janet Leigh in her role as Marion Crane. This just seems like a colorized version of Psycho,with a few mildly different touches thrown in for a more modern appeal. Vaughn is dull as ill Norman,and Viggo Mortenson's Sam Loomis seems too much the cowboy compared to the original. Please folks,do yourself some justice. Don't bother with this. One can only wonder what Mr. Alfred Hitchcock and Mr. Anthony Perkins would be thinking right now.......<br /><br /> * out of ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:04aeba821408c2e89b7cf44ecee64373b8f040e64aea3eb6ce9c1ce4a14f84d5
+size 598

@@ -1,1 +1,3 @@
-I didn't know what to expect from this film being a fan of all Sandler films. It was funny on a different level than films like "Billy Madison" and "Happy Gilmor". It's great that he goes for a more mature sense of humour in this film than most of his other ones. After Mr. Deeds, I thought Adam had hit a wall as far as making good movies, but I enjoyed this one. And hey, Jack was great.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32906010c5f57d34b70a8e923d51fe6b3254f0d90583392e7f41edec50fa3e4b
+size 389

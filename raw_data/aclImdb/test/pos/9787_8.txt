@@ -1,1 +1,3 @@
-this was a get up and go horror movie with an intelligent cast and a director with great vision to really capture the mood of the story i highly recommend this movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b790008a12368d38f4ca58d64e0bd75ea632e50025ef7b4f78a15dbef103ed2
+size 165

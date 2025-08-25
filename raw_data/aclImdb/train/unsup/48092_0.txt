@@ -1,1 +1,3 @@
-This movie made me laugh, partly because of the persistent clown theme and partly because it is so cheap! The acting is bad, the lines are cheesy, the effects are budget and the plot is silly. The only thing that is really done properly is the clown faces, which have a lot of character and might even scare young children. A shooting star falls to earth and soon the crazy ugly clowns are shooting innocent residents with popcorn guns and wrapping them up in cotton candy. Enter the stereotypes: the girlfriend and boyfriend, the macho cop, the grumpy cop who thinks it's all a hoax, and lots of innocent bystanders. Fun if your brain is switched to standby :-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f917c96a0f0f4a5f5c96635fae986826c73f1ea58f3aaddff469b2fc3e40bcc
+size 662

@@ -1,1 +1,3 @@
-Just like in " Romeo and Juliet " Olivia Hussey takes place in front of us. She makes all the difference. An extraordinary actress with a very special beauty takes this classical movie and place it very, very high...<br /><br />The music, the scenery- and the acting... It all ends up in this beautiful movie. Sadness. Frustration and a lot of love.<br /><br />You got to love it...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be8e6ad93ee6171ad9005a1b1ea870727507b33e89524704f8dd17a63d12385
+size 382

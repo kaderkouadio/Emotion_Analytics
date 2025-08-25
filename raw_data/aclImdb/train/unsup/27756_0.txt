@@ -1,1 +1,3 @@
-This movie is a sweet fantasy with a good message about life, love and destiny. I usually skip movies with medically-oriented protagonists but the fantasy/psychic elements more than make up for the fact that Jeff Daniels plays a psychiatrist. Demi Moore is lovely, though the blonde hair is not. She would have been better with her natural look. Molly Steenbergen is great. I like the way regular people are touched by magic. Less stereotypical than a lot of other romantic comedies. Some people might be distracted by Demi's Moore's accent but I thought it worked well. The movie deals with psychics in a normal manner for a change. Unlike so much of TV and movies now, I really liked most of the characters and believed they were good people.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e403edb8d21b740ae4852b347a8b0f6531e079a0a72b2613751f9f8143977fed
+size 744

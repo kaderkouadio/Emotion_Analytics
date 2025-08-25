@@ -1,1 +1,3 @@
-I truly enjoyed this movie. It came and went in the theaters very quickly, much to my disappointment.<br /><br />Tom Berenger and Barbara Hershey are excellent as a mismatched pair. They do a superior job convincing us of their relationship -- in my opinion as good as any Tracy/Hepburn team-up.<br /><br />The premise is slightly unbelievable, but if you suspend your disbelief you will really enjoy a fine romance/western/fantasy/adventure.<br /><br />The only knock I have is the excessive use of profanity for no reason.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5235ddc991c6691d0b444d81527a112bb7b23ec12d7dd27113277c0fb64f6501
+size 524

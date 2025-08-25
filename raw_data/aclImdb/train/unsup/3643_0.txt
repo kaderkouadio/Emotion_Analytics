@@ -1,1 +1,3 @@
-Besides the great performances by the two leads, portraying antagonists with similar world-views while on different sides of the law, I especially liked the permeating atmosphere of Japan that came through with the cinematography, the soundtrack, and the scene set-ups. The final scene culminated the film's strong reminder of the almost unpleasant yet intense fascination I often felt in the urban environments of Japan in the late 80's and early 90's. "That," I thought of the movie when it was over, "after setting aside all the comic exaggeration, is the real Japan." Like the movie "Shall We Dance?", it clearly showed a true aspect of Japan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3175b9ea4ff0b8c73fa5ffa54d9f09b9f46e30f00afc4b3c8f142e5fce7103c6
+size 647

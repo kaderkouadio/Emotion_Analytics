@@ -1,1 +1,3 @@
-Very good action movie that takes the Dirty Harry style more mainstream this time.The story/script here is only average and does not have much depth but the action and Eastwood's charm still makes this film one of the best action movies all time.The deterioration of Dirty Harry movies start with this one but you will still enjoy the action here.Just don't expect a masterpiece.The sound quality was below average.You can tell this film had a B movie budget.The cinematography is also just average although there are great shots of the San Francisco scenery.Only for action fans and big Eastwood fans.....
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ca6145e00a7e3759f498059733963267198f8086ed33cdb6fe008ec19106e7a
+size 606

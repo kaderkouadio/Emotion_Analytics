@@ -1,1 +1,3 @@
-Beyond atrocious horror film was apparently made in the director's sleep, and edited with a buzz saw. Cheap and awful in every way possible. The plot synopsis on the back of the video box made sense; the film didn't. Don't watch it if you value your sanity. 0 out of 4 stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34832fa0a3595c8df7f92a8a4fa77c92bcf47e3f7cdcb46809f8f767f0e509d8
+size 275

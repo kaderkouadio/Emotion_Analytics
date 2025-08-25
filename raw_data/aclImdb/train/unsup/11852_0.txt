@@ -1,1 +1,3 @@
-This is typical Lee Evans, he is definitely one of the funniest comedians around but surprisingly not many people have heard of him. If you want to see what Lee Evans is really like doing stand-up comedy then buy this video, I couldn't stop laughing all the way through, a definite thumbs up and a must see for anyone with a sense of humor!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ac79c5576ac98eeadb1e12e42b7552808951129df23eb041f150bd5bced6396
+size 340

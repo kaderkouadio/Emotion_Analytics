@@ -1,1 +1,3 @@
-I remember being forced (yes--literally FORCED) to see this film by a Southern Baptist Preacher when I was a kid, and even then I loved its awfulness. It's designed to scare poor suckers into being "saved." The only thing that "saved" me was the fact that it finally ended and I could go out and have a REAL life.<br /><br />Check out the chapter on this film in Sarah Diamond's book "The Politics of the Christian Right." FASCINATING. And certainly more interesting than the movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:057eb5dbed3f3351620cec7bdd803ac6c6765d244245c9e29810214604170ff5
+size 482

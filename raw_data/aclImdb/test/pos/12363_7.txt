@@ -1,1 +1,3 @@
-I have just finished watching this film for the first time, and I must say that I am very impressed.<br /><br />How bleak. How full of despair. How nightmarish. Incredible.<br /><br />Visually stunning, several scenes are embedded in my mind...the first appearance of the phantom carriage...the soul of David Holm as it rises from his corpse...his spirit on his knees, pleading.<br /><br />This film takes a simple story-that of the ghostly driver of the phantom carriage, doomed to collect the souls of the dead for a year-brings it into the present setting of the film and then uses flashbacks as a means to explain how David Holm ends up in his predicament.<br /><br />I would love to see this released on DVD so that more might see it. Everyone should.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0767c5987cb8cfac10c62d2b43252a03afbd170cdd81b8e363cd6c1cc66b24d
+size 756

@@ -1,1 +1,3 @@
-The characters in this film do NOT act like real people. It's just not authentic. I sat in the theater thinking "no woman would do that to her family." When I can't recognize the characters as real human beings, that's when I have a major problem with the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14ebdff142860b7f32650126af8cc5777ec54c9d3761b419ef056d743b7e5abc
+size 261

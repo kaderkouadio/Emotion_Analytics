@@ -1,1 +1,3 @@
-This movie is a real disaster: insulting, with awfully stereotypical acting and an incredibly poor script that one wonders why this movie has been made for.<br /><br />If I had seen that movie as a closeted gay teen, I would have been shocked and ashamed. Fortunately I have seen it first as a (by then openly gay) movie-addict in my twenties, so I could dismiss it as only an embarrassingly bad film. Either you just forget about this miserable movie or you take it as a source for filmhistory, namely how bad, how ridiculous, how homophobic so-called comedies sometimes could be in the sixties (alas, there are not that many of this kind...). I'm afraid there's nothing more to say about it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8580aa10987ffab2fd3f99ee2be05f3982a6b61ad0709ce359788530ed872027
+size 693

@@ -1,1 +1,3 @@
-At a panel discussion that I attended after viewing this film, the filmmakers stated that one should look at this not as a movie but a provoker of thought. Well, the only thoughts that were provoked from me were of the time wasted watching the movie. The gimmicks of the film (documentary style, futuristic setting) served as distractions of what was supposed to be a thoughtful examination of the abortion debate. This film illustrates the problem when people try to use film as a platform for their political views - usually a very boring movie that preaches to the choir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7539dac1b1881fda4119650fd48062cb2282c53dd996a61a2fcf545fc6cb8937
+size 574

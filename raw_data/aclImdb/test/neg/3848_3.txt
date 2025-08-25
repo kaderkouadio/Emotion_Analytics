@@ -1,1 +1,3 @@
-Just to save you the $3, or whatever it costs to rent movies at your local video store, and the anguishing hour-and-however-long-this-movie-is here's a simple plan. Go over to a friend's house, talk them into renting The Pest for you, watch the first 30 seconds or so and then make up some excuse to leave. The opening sequence is really funny, definitely worth watching. Unfortunately, the other 99% of the movie is horrible. Without the shower scene at the beginning this is one of the worst movies of all time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64a5cbc1eb504cb9a7de3ce221e61022ba1ad48ebb523b5be166bffc9aedff1
+size 513

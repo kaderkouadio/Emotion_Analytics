@@ -1,1 +1,3 @@
-THE PROTECTOR. You hear the name. You think, "ah, it's a crappy Hong Kong movie." Guess what - it's not Hong Kong. And yes, it is crappy. This amazingly stupid Jackie Chan film, ruined by us, yes us, the Americans (I'm boiling with anger, ooh, I think I'll jump out that window!), has Chan as a New York cop hunting down a gang, avenging the death of his buddy. Sounds cool...but it's not. Don't waste your money renting it. To prove he could make a better cop film, Chan made the amazing POLICE STORY (1985).
+version https://git-lfs.github.com/spec/v1
+oid sha256:db23a1c9a61a5cf27b60cbcf36a6780dc665965afcff5da1d0d861fe80fa798f
+size 509

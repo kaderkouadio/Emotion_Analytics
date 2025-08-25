@@ -1,1 +1,3 @@
-I really enjoyed this movie and I usually don't like animated pictures. But I thought the cats were appealing and the story line was charming. There is a good song called "Everybody wants to be a cat," that is a lot of fun. It has some comic moments and is an interesting adventure. I think it helps to be an avid cat lover to enjoy this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06e074e7c780d7c1c297c6db768cd319eae69ac7863be78db558720675b0f3c
+size 343

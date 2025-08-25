@@ -1,1 +1,3 @@
-I saw this film when it was shown on TV, and I really enjoyed it immensely. As I recall, it seems like the film (and two more with Robert Goulet, "Carousel" and "Kiss Me Kate") were presented by the Armstrong Circle Theatre. I was already a Robert Goulet fan from his role as Lancelot in the musical "Camelot." I liked the film so much that I bought the Soundtrack LP which was offered (Armstrong, I believe, sold it in their stores). I didn't really know much about Sally Anne Howes before this film, but I think she was great in it. I would dearly love to be able to buy a copy of this film, or at least see it again. Anyone know if it's available? Did the TV network that showed the film ever repeat the showing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e8ecd69c190c629a373e303e79141d401941f76383473a63c6eeabde918e047
+size 715

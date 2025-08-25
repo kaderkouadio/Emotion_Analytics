@@ -1,1 +1,3 @@
-This is one of the strangest I have watched in a good while. Of course an hour is not too long to devote to one of your horror film favorites. Disappointment sets in when you realize this is not horror, just odd. Bela Lugosi plays a ruthless Chinese villain that is not short in ordering murder in order to collect the fabled 'twelve coins of Confucius' for himself. Conveniently the coins are concentrated in New York City's Chinatown. Adding to the mystery and oddity of Lugosi's character...his thick Hungarian accent is not disguised.<br /><br />Note:Lugosi's arch rival Boris Karloff had a series of Mr. Wong Chinese detective flicks also directed by William Nigh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e2cc145ebb3f582e8c6cff2b685a3f3042b8403abb05bb73b3ad66b7ac6da00
+size 669

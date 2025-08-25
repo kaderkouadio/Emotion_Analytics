@@ -1,1 +1,3 @@
-Is there any question that Jeffrey Combs is one of the true horror greats? This movie seriously doesn't suck and is sort of funny... Watching a young Combs at work is great but I wish he had had more lines. Look out for Beyond Re-Animator. It's going to kick some azz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:541ab24d8eb34e2823f47e01c2f28b9c95b5fd1c0e7d0e43882e4bb082eda319
+size 268

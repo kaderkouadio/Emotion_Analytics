@@ -1,1 +1,3 @@
-I found it so confusing and just utterly disappointing. Do something else with your time. Read the book because that truly is a masterpiece. I guess I was just really upset that the movie is a total farce and that it distorts the book and makes the characters seem really week and oblivious to their lifestyles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34178d6a734d5459cbc0a56b48f94de9a0e90c851ea8e47103aa8dc1a4330532
+size 311

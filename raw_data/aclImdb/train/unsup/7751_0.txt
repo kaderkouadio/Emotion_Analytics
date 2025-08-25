@@ -1,1 +1,3 @@
-The Wraith is a fairly typical mid-1980s teen movie, with the twist of a revenge-seeking ghost. It's kinda neat seeing the bad guys get their due, and it has a nice happy ending.<br /><br />But who really cares about any of this...? The movie has Sherilyn Fenn in it - - 'nuff said. She's great (as usual), and Charlie Sheen is alright as well. Highly recommended, but mostly just for Fenn fans.<br /><br />Score: 7
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dd1be71cfb88dc9cd70be57e06296ea64a6095374735520cf4dc91da3b41cb7
+size 415

@@ -1,1 +1,3 @@
-This film has plenty of plot options and new character development to work with. However, the film makers seem content on turning what could have been a classy horror sequel into a borderline B movie. Unfortunately terribly awkward dialogue and poor staging give this film a very unsatisfactory feel. Still, it does advance the story line and continues the plot of the original film rather well. But in the end there is little excuse for a production company backing a film with this many visible flaws in a finished product. (PS - Don't put your money in this FX companies stock)
+version https://git-lfs.github.com/spec/v1
+oid sha256:23420ff8d59e203c4778c3590473c123d6a42ae945a1744b0bbfabca6fecea08
+size 580

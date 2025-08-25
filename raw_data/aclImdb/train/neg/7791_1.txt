@@ -1,1 +1,3 @@
-I've seen the original non-dubbed German version and I was surprised how bad this movie actually is. Thinking I had seen my share of bad movies like Ghoulies 2, Rabid Grannies, Zombie Lake and such, nothing could've prepared me for this! It really was a pain to sit through this flick, as there's no plot, no good acting and even the special effects aren't convincing, especially the so-called zombies, wearing nothing more than white make-up and their old clothes, so their good set wouldn't be ruined by ketchup and marmalade stains. <br /><br />If you really want to waste 90 minutes of your life, then watch it, for all the others, don't do it, because you WILL regret it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e76adadc2ea8c9cfda6833a4c7b005234715ceaef3c1f96feffc6cba612a3e52
+size 676

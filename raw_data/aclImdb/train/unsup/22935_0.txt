@@ -1,1 +1,3 @@
-I thought this movie was great. <br /><br />I usually don't like Swedish movies (I'm Swedish myself, mind you) but this was great. I like how the past mixed with the future and I thought the ending was really surprising! <br /><br />It's not really a thriller. It's not an action movies. But I wasn't bored. I like the feeling in this movie. It's a story about true friendship. :)<br /><br />It made me somewhat nostalgic.<br /><br />I would really recommend this movie to people who doesn't want gunshots every five minutes, fast cars and explosions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b57f68f4a67502675c1d91bc221327770a8fdca5290b49005970dac0d14d417
+size 551

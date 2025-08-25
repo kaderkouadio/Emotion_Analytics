@@ -1,1 +1,3 @@
-Personally, I really enjoyed this movie and found it extremely funny in parts. The premise is almost bog standard classic British farce (and there is nothing wrong with that at all) and I totally endorse the Woody Allen reference made in another review. This is very cleverly put together with a perfect combination of a very witty script, a good director and some excellent performances. <br /><br />The ever reliable Henry Goodman is great as the TV chef whilst the always watchable and very underrated Neil Stuke delivers yet another good comedy performance as the leader of the hostage takers. <br /><br />Summary, as good a low-budget British movie as you will see this year.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54877af95cd4cdc8959e7e4a81408d9297c0ff48abe247e1f8acb8003d2a35eb
+size 680

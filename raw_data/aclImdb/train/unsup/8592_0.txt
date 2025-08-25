@@ -1,1 +1,3 @@
-I thought this movie was very funny. The 2003 black/white culture conflict comedy mini-genre (BRINGIN' DOWN THE HOUSE, HEAD OF STATE, etc.) gets a big lift with MALIBU'S. Taye Diggs is hilarious as a Julliard-trained commercial actor hired to play a thuggish gangsta kidnapper. Jamie Kennedy and the rest of the cast are solid as well. I especially liked the little bald campaign advisor in Ryan O'Neal's camp. I've seen him in a bunch of stuff and he's always great.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9725997c0692353df676891917b1e4ed03075583f291abbbcf0032049c1ca28a
+size 467

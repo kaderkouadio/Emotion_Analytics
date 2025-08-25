@@ -1,1 +1,3 @@
-A truly awful film, this movie is an incredible waste of time and talent. The plot deals with a Christian noble trying to lead a rebellion and being opposed by legendary ninja warrior Jubei Yagyu. The story wastes no time with such trivialities as plot, characterization or story unity and gets right into the violence.<br /><br />And the violence is stomach-churningly gross and repellent. Warriors are massacred by the hundreds, guts and body parts are exploded, and, well you get the idea. If all of this sounds like your cup of tea, by all means tune in. Others are rightly warned to steer clear.<br /><br />BTW, this film is not at all related to Ninja Scroll, as the marketing would lead you to believe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cbc5809b50d5c755f124bd1bb82e31be8dd9a8e092aa4d947124c0d67197abb
+size 709

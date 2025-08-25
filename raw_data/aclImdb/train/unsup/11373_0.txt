@@ -1,1 +1,3 @@
-The jokes are stupid and Johnny Yune's acting is atrocious, but this is one of the funniest comedies ever made.<br /><br />Best line- "I'm a sex object, when I ask women for sex, they object"<br /><br />Trust me on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:184c2f6b284fdd4b5d2284da2ba26dcdbc54c32c03381e971807a9a013796ef4
+size 224

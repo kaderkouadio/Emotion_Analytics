@@ -1,1 +1,3 @@
-People of course are not going to like some plot aspects. How did Squall suddenly fall in love? Where did Ultimecia come from? Who in their right mind would elect Laguna president? Yet, I believe the point of this game was to showcase Square's amazing FMV technology, proving that it will be around to entertain gamers for a long time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:130eec943ff353c7d63b5ea22e3c8465f2938834f4db37ea0cf1edf88b3d741a
+size 335

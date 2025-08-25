@@ -1,1 +1,3 @@
-Charectar development has been a huge problem for an anthology show, especially if the show is only an hour and a half, bu Rod Serling pulls it off.<br /><br />The episode of 'The Twilight Zone' entitled the 'The Obsolete Man', is awesome, the acting is awesome,the duologue sets in the mood perfectly. And Rod Serling can control you're mood. All of this gold of this is shown in this episode.<br /><br />It starts out in a police state, where books are banned (notice Faherheit 451 similarities.) Where a man is arrested for being a librarian.<br /><br />This episode ha great performances from everyone, even extra's, you can believe you're there. And the setting matches this depressing future perfectly. So all an all this is the best 'Twilight Zone' episode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afa7156b2f6c5043e1f83728993899443d08e3b73749bef1d81016fc687d6371
+size 764

@@ -1,1 +1,3 @@
-While this film has aged well, it's not especially well made. It's watchable, maybe even entertaining, but I wouldn't say that it's worthy of the mystique that Hitchcock has aquired. Having also seen Rear Window, I'm wondering if that reputation is deserved at all. This is, however, a decent film, and better than many things being released in the present day.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65541b7167fcecfd7c232d2521a568a048a53ef73065a3e19937cbde3a33e98d
+size 361

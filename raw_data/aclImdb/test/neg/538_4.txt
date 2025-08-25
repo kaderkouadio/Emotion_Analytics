@@ -1,1 +1,3 @@
-It's perfectly ok that people dies in an animation, but there are just way too many death in this one. Start from the very beginning, the story is all around battles, fights, death, and revenge. It goes on and on for entire one and a half hour. It was interesting at the beginning, but I grew very tire after before the show was half way through. Unlike other animations, this one is lack of humor. There are not many interactions between the characters either. The good thing about it is the sword fight scene looks pretty good and the characters look nice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6969d21dec8a66cf59d5a4a61f3d1f6b430b147aa67d3dfe990ab56deddb314d
+size 558

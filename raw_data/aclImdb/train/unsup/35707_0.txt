@@ -1,1 +1,3 @@
-This was one of the most predictable films I have ever seen. It was obvious from the start that everything would turn out as it did. You could tell the lead character was not going to get far with baseball for whatever reason, but he was going to do well at something. Gosselaar was poor and tried to build his role up beyond it's limits and Kirstie Alley should have fired her agent! I would expect better than this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b64ad49df141db480735052bf724d41ad5cc209130eb5c3d2a2459397963c0e9
+size 417

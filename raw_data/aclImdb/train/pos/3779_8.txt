@@ -1,1 +1,3 @@
-I got the first Bill and Ted movie for christmas and I had to get the second when I saw it in a store. This one was (I think) just as funny as the first but a much wierder story. It was funny how they had their own personnal hell and how they had to play death. The funny thing was that they played him in stupid little games like clue. The only thing I'd change is Station and Death being in the band but other than that it was great.
+version https://git-lfs.github.com/spec/v1
+oid sha256:953098b90b5b49b376aa6af81050a6fd95e7fb502f70ee4e1a87a8278c227190
+size 435

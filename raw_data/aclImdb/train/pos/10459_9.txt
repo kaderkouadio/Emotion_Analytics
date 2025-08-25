@@ -1,1 +1,3 @@
-I wasn't expecting to be so impacted by this film portraying a family just like the one you'd expect to be living next door. They are ordinary flesh-and-blood people, not like the typical Hollywood fare. They face an all too common problem--debilitating illness. But the story-line grips the heart with a powerful lesson. Casting, script, direction, and acting flow together with a surge that draws the viewer deep into the story. Give this film your full attention and its message will truly inspire.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f931ef777ca3106420689ce7ac824955c5db8e91c6566d67ae4bb3f1db2f9d1b
+size 501

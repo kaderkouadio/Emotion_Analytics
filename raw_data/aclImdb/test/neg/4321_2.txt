@@ -1,1 +1,3 @@
-I can't believe that I actually sat thru this entire film. A friend rented it because the jacket made it sound good. In it's defense, the jacket was correct; there was a supposed haunted room that someone slept in overnight. From the jacket, it sounded like this was on par with Freddy, Jason, or maybe "The Shining." It couldn't be farther from the truth.<br /><br />If you are a fan of minimalist and/or surrealist films, you may enjoy it. If you're looking for a good fright movie, or a couple of thrills, go rent Jason vs Freddy IV -- you'll have a much better night.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82d36aaa22d4ccb6568be71c0ebe560f04920605ec8d48d73050ba9dd47d011d
+size 571

@@ -1,1 +1,3 @@
-For me this is a story that starts with some funny jokes regarding Franks fanatasies when he is travelling with a staircase and when he is sitting in business meetings... The problem is that when you have been watching this movie for an hour you will see the same fantasies/funny situations again and again and again. It is to predictable. It is more done as a TV story where you can go away and come back without missing anything.<br /><br />I like Felix Herngren as Frank but that is not enough even when it is a comedy it has to have more variations and some kind of message to it's audience....<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:3732a6571302cb7a3471743be9f712e97d573c194d83b26f51f79421eebd4f5b
+size 610

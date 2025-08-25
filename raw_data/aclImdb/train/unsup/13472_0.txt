@@ -1,1 +1,3 @@
-Thoroughly bizarre, poorly-lit, misnamed. An experience not to be missed, for anyone into cult films. It does sort of compare to 'Twin Peaks', but has none of the laid-back weirdness of the aforementioned film. This is a film you should be drunk to truly appreciate, and watch it in a darkened room. The actors really become secondary to the setting, as does the plot. Everything in this movie really seems to be an excuse to have things happen WHERE they happen. Recommended, but not for teetotallers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f1d579e0a64a1864d731c17a84141548678fbff5c0b35530dec0be3f0de084
+size 502

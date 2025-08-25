@@ -1,1 +1,3 @@
-This is hands down the worst movie of all time. A combination of Whoopie Goldberg (the worst actress/person in history) and a talking dinosaur ala Jar-Jar-Binks add up to a painfully bad movie. That was an understatement. This movie is unwatchable. For the love of God, do not watch this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:132ef854182200a9b58377112f398d043d759bc18545d8c7823b5d2b33112921
+size 294

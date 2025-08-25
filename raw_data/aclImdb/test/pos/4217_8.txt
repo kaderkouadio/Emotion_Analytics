@@ -1,1 +1,3 @@
-In this 4th Child's Play film, Chucky gets lucky. It's very funny and there are some enjoyable parts. Very good direction. Not as bad as it could be. The best one in the series since the first. Three stars out of four.
+version https://git-lfs.github.com/spec/v1
+oid sha256:122968bea4ab791d60c4286aeabb9a98654fa88e7c587218d288c2cd5c6070d9
+size 218

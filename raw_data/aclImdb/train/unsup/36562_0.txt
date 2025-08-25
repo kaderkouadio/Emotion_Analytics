@@ -1,1 +1,3 @@
-It's simply, one of the worst movies I have ever seen!<br /><br />It is hard to believe people put money, and agreed to participate in such a puerile film. This is a completely flawed 'after the end of the world' film - badly acted, with cheap effects, and a horrible filming. Nothing to keep you watching it, excepting the fascination of how worse it can get. And it gets worse, as you watch it!<br /><br />Avoid it! 2/10 on my personal scale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2495b3d202e3ae6185b75d08f3bd98be48bd32a8ecfaa203c147b1d106e57e56
+size 444

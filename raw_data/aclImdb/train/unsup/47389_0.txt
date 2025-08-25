@@ -1,1 +1,3 @@
-This is a movie about a man who wants to be a violin player, but who becomes a boxer and injuries his hands. This film is back from the dark ages as far as how women are treated. In one scene the Father comments to his daughter's husband not to hit his wife in public, but to do it at home. Then the daughter tells her Father to butt out and that her husband can hit her anytime she likes. How sick! Oh and the movie practically put me to sleep too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:039fadb6715716d381f81eb56b89965cd7edaa4fa5382b053da0cc86882911c8
+size 449

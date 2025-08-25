@@ -1,1 +1,3 @@
-I saw this in 1993 on a VHS tape but have been unable to find it at any source since. This is a very bleak and uncompromising look at the last days of the Japanese Army in the Phillipines. Anyone with an interest in the Pacific war would do well to view this film and see what conditions the other side fought under.From what I can tell, this is historically accurate, and depicts how easily men can descend into complete barbarism. I understand the Japanese Army was completely cut off from any re-supply in the Phillipines by 1945, so there is no doubt many of the horrific incidents depicted here happened. I might not have been able to identify with the film's characters, but I appreciate their humanity and struggle to survive. If I had to compile a list of the ten greatest war films, this film would be on it. See it if you can get it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53995d2cbd6fe9b908588013ecded7ffd0f171825a816649e1ecc5b56d993e06
+size 843

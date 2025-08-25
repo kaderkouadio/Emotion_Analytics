@@ -1,1 +1,3 @@
-This film is all right, fairly silly and to be taken lightly. But what I can't stand are the numerous heroes and that boy's ILLEGALY SENTIMENTAL comment near the end: "look, they all look the same". Isn't that by far passing the good taste standards? I thought it was revolting, as were the heroic, unselfish acts by some of the people in this film. I'm not saying it won't happen like that, but zooming in on all the bravery like that makes my stomach churn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f9002c625f446eda823a1213ec4558ae83a88bb0d284d590f1f69099a2ba96
+size 459

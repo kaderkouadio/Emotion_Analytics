@@ -1,1 +1,3 @@
-The plot: A family moves into a house close to a cematary. Something weird is going on in the basement. Could there be a maniac dwelling there?<br /><br />Comment: A horrible movie. Completely devoid of any suspense. Nothing further has to be added.<br /><br />Acting: Horrible, everybody is horrible. The voice dubbing on the young boy is intolerable.<br /><br />Gore: Plenty. Disgusting splatter-filled gore, looks gruesome, not stylish at all.<br /><br />Verdict: 0 out of 4. The pits.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd53bcb7977250c2b07a49916a6685c692bbdf242037faddcd851b9da561a9a
+size 500

@@ -1,1 +1,3 @@
-The only thing about this film is the Indians, in this case the Florida Seminoles, are the bad guys. Oscala meets Coop underwater in a duel to the finish, in good early 50s Hollywood style. Other than that, it's not your usual oater. The story is OK with an aging Coop showing he's not yet over-the-hill and a young Richard Webb, later TV's Captain Midnight. Not a lot of memorable moments here but nevertheless fun to watch. Cooper was always worth the price of admission.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba5c7faee19c04fe777a7abfcf8da16a0f132319dd7e61546cae64d0883a62b
+size 473

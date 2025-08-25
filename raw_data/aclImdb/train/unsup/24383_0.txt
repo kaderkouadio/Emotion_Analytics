@@ -1,1 +1,3 @@
-I caught up with this movie in the late eighties when I rented it on a local video store. It was a bad recorded VHS tape transfered directly from a bad 35mm copy. The main reason I rented it is because Carol André, the beautiful actress from the SANDOKAN TV series was on the cast. The movie is incredibly awful, beyond the worst I have seen so far. Bad actors, terrible acting, horrible script, unintelligible plot and some sequences that really made me feel guilty for having rented it. Unforgettable is the character Polo, one of the most naff villains to appear ever on an action movie. Also the scenes with the silly and clumsy main character jumping in and out of windows really made me laugh out loud. No doubt I expect the day to watch it again to laugh again at it. But this time I expect not to pay a single cent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd763d3cabbe860ad5edc173607c27a42f18191b6bf77588e2807e6982076644
+size 824

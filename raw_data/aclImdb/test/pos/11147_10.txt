@@ -1,1 +1,3 @@
-This film is exceptional in that Marlene & Raymond present outstanding performances. The acting in this film is the greatest strength of the production, but the script, direction, and editing deserve applause. There is an extraordinary chemistry that exsists between the two stars. If you like Marlene, and you like Raymond, you'll love this film..... (It's a classic that compares with Casablanca.)<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:29d1da39974b4fefbbd15c8755525d5b7893b54077ef2581ac4a517d2e216086
+size 411

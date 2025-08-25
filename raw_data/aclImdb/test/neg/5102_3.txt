@@ -1,1 +1,3 @@
-This was a very nice concert by the one and only MJ. The choreography was excellent and the costumes were decent. The vocals were okay. i have to admit that his vocals were crap on Human Nature and Billie Jean. You couldn't hear him half the time. The other songs make up for the singing. The Highlights of the show are: Jam Smooth Criminal I Just Can't Stop Loving You She's Out Of My Life Thriller Billie Jean (The Dancing Not The Singing) Black or White Man in the Mirror The concert was almost perfect. If it was anybody but Mj it would have been a 9. It is a must see. I wish I was born then so I could have gotten a ticket to the best concert of 1992.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5d3c33c71d2b9a4bf14168f4b308f8af71f10b839134c3cc747b2637e376434
+size 657

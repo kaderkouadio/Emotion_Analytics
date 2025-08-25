@@ -1,1 +1,3 @@
-I thought this film had so much potential with the two women's lives running parallel and knowing they were going to intersect. But I felt dizzy by the stress and angst of the characters. I thought what might have made my viewing experience less dizzying was that their stress could have been exposed for sure but the character response to the stress could have been more tranquil. I mean who could live their lives like that. As it turned out the ending could have been even more dire given a two hour film with little touch with reality. Yes, we all have angst in our lives, loads of it but it's a personal choice to be that blinded by it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03524d5b569599be3ac4dc7ff92dbdb2656ddb39dd29fc4aa098611cf5f44240
+size 641

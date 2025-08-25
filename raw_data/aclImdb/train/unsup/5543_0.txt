@@ -1,1 +1,3 @@
-I have seen numerous film adaptations of Les Miserables. This 1957 French version (directed by Jean-Paul Le Chanois) is the best one I have ever seen. I watched the version that was produced by The Bridgestone Group in 1992 with English audio (ISBN# 1-56371-044-7). It aligns closely with the plot of the novel, and the cinematography is outstanding.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffa16ac8272a2bab9a7d861bc0be42092caf543b641896cf5dd89f16e0df22fa
+size 350

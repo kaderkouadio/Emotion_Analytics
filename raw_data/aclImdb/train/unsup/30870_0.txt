@@ -1,1 +1,3 @@
-Let me just say, I am a big Adam Sandler fan. I love and find most of his movies funny. This one was not. The jokes were lame, and way too crude for a pg-13 rating. I just kept thinking my daughter was watching this two seats away, and I felt uncomfortable with the many reverences to sex. It lasted two hours but didn't have two hours of comedy material. It felt preachy about tried to teach tolerance when it came to people from the middle east but came off unbelievably stupid. I find it strange how great comedy writers like Adam Sandler and Judd Apatow could produce such a piece of crap! I wouldn't waste your time on this one. Or wait till it hits H.B.O.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d698f9ebc84bd9cbaaeee9ee3cf18dded9ae4fc6f36919df168a4854e8e93407
+size 661

@@ -1,1 +1,3 @@
-I totally agree. This is "Pitch Black underground" and a well worn plot. The best scenes I thought were the divers exploring the caves, going through impossible subterranean passageways, some of them were heart pounding. The scenery was great. Had they dispensed with the staple "alien" toothy CGI badboys entirely the movie would have been much better. All they would have had to do is never show any monsters at all but have everyone wondering, and follow Jack's descent into madness, and this might have been a top rate hitchcock-style thriller, maybe award material. The acting isn't bad. But those rubber bats just reduce it to standard fare.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe4186f23a0b92283b49aab4cc4a63bd2a8d2bfd1c5fea41c09b686df9b726ce
+size 647

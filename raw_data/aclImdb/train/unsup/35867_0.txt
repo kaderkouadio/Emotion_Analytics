@@ -1,1 +1,3 @@
-I really enjoyed the first Mortal Kombat movie, I like action flicks that aspire to be more. This movie does not fit that bill. There are a legion of things wrong with this movie, beginning with the death of Johnny Cage, and going downhill from there. Women wrestling other women in mud. Terrible film. I felt like I wasted more money on this movie than any I've ever seen before.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c61b5b47c6ad87664606e00efc6dcb8c4064e43497d276dbf7684d418f7769c
+size 380

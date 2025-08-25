@@ -1,1 +1,3 @@
-Poor attempt at the Edgar Allen Poe tale. . I was not invested as an audience member in the film. I actually walked out. I have better things to do with my time. The acting is wooden, the direction and editing are quite poor as well. Cinematography was so so, if not that motivated, predictable. Most everything about the film was predictable. Too bad, could have been a great little thriller. Shot digitally and projected that way, which made it look even worse. the production design wasn't that bad. It didn't get in the way nor stick its head out, which is good. The sound was often out of sync and looped after the fact. All in all, I was disappointed. It really isn't that hard with a story this good to make and even passable movie, but some how this director found a way to squander it all. Don't bother.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d631e8ffb3a16ed206bdebeb175774404ef312cc29adbe77d5cc7fef572a45d
+size 812

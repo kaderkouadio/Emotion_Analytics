@@ -1,1 +1,3 @@
-It's all bad, the story, the acting, and special effects. Some of the flight sequences are recycled from `other sources', i.e. they were obviously not filmed for this movie. It is hard to believe that they made more in the series after this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e42efb16e10039e453bb7824627f13c8c3706a27744e5a7d5260f13b0a6e7b
+size 245

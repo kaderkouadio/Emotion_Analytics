@@ -1,1 +1,3 @@
-I felt like I was...stuck in traffic. Hard to sit through. As much as you<br /><br />are not supposed to like Ben Affleck's character, his acting is flat<br /><br />too. His character has not depth and either does his performance.<br /><br />Hmm, which came first...chicken or egg here? The story idea is<br /><br />great, but it does not clip along at a good pace like a story taking<br /><br />place in a day like this one should to feel right. I could not sit<br /><br />through this movie. I left almost at the predictable end and got a<br /><br />latte.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7e3bd29897726bde032f9a94c4398dac029448e0fa8e1614f206fc8ae65f1be
+size 558

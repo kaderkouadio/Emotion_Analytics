@@ -1,1 +1,3 @@
-This seems to be the Sesame Street adoption of "Labyrinth" (1986, Jim Henson). Yet, I love Labyrinth. TAOEIG is less dark than the original, and generally more funny. Perfect family entertainment (not only for the children) with lots of nice music, jokes and warmth. 10 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:082afacdd67225471a6dd9361eb5c3ff0e09200a04c38d99c50cc395efc92fe2
+size 280

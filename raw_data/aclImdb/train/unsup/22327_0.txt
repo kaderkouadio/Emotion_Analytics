@@ -1,1 +1,3 @@
-Without question, the finest version of this classic "tearjerker". Belle Bennett will break your heart. The finale (watching the wedding in the rain) is an epiphany comparable to the end of IKIRU... This is a work that should--no, must--be made available for film lovers around the world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a983de28ecc42d76a5a95e037f0e2c1d06938bc26946ab8fae21f5d541bee8b5
+size 288

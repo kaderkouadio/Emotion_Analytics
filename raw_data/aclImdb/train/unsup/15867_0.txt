@@ -1,1 +1,3 @@
-Denys Arcand's new film STARDOM is a very funny satire of the celebrity obsessed times we live in. Jessica Pare plays Tina Menzhal, a girl from Cornwall, Ontario who becomes a supermodel. Along the way we see how the media reacts to her and her relationships. The film is funny throughout with wonderful supporting work from Dan Aykroyd, Frank Langhella and Thomas Gibson. Although Arcand goes too far sometimes, the film is overall and excellent satire of modern life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec2f161ec3343754aeab0e44088292d53c3235a5bcb5ded874f56bdae2908c1b
+size 469

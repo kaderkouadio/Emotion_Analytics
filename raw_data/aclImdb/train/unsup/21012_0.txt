@@ -1,1 +1,3 @@
-Now come on this is a great movie. I don't know what people mean when they say the acting was bad. Jonathon Freeman, Gilbert Gottfried, Jason Alexander, Dan Castellaneta and even Jim Cummings all did great jobs here. The songs were great. As much as I hate Iago being a "good guy" it was still a great movie. It was nothing like Aladdin but who cares? Not me and nobody should judge it because of Aladdin the first. I didn't care about the animation because it was good enough. You could still tell what was going on. You should all stop complaining and realize that this is a great movie. Some parts were rushed and some parts were pointless but they do make up for it. It was better than The King Of Thieves because the animation gets even worse. The Return Of Jafar is a great movie for all Aladdin fans .
+version https://git-lfs.github.com/spec/v1
+oid sha256:f585f5e7147c3052c45ad6816a9ea215bade55ec5bcb540869ba75e31eb33d82
+size 808

@@ -1,1 +1,3 @@
-Right from the start you see that "Anchors Aweigh" is a great comedy. Gene Kelly and Frank Sinatra make such a funny team! The songs they sing together are pure entertainment. Kathryn Grayson is gorgeous and really sweet. Dean Stockwell is the cutiest child actor I've never seen. If you are fond of piano, you'll be amazed by José Iturbi. This movie was the first one to combine animation with real actors and it did that wonderfully in an unforgettable dance number. Undoubtedly one of Kelly's funniest movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:210369b7e47d2c3b6e97b4e588ca90d7f30c085d656c9c5de3e61719809ed181
+size 513

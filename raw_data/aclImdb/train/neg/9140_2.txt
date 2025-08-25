@@ -1,1 +1,3 @@
-Phew--I don't what to say. This is a film that could be really good a with a bunch of stoned viewers. Some of the acting reminded me of John Waters' early offerings. Perhaps I should take that back--I don't want to insult Waters' ability as a director/storyteller.<br /><br />I particularly loved the lawyer taking about the "full faith and credibility" clause. It's "full faith and credit," by the way!<br /><br />This also reminds me of "The Conrad Boys," where the main actor is also the writer, director, film editor, etc. Those sort of multi-involved undertakings such as that are probably best left to very seasoned film professionals who would have the technical ability (albeit a stunt, some might say) to pull something off like that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0853b1ef8984ea519a894f65d26cfec1809ea4f95adbd847dad86b6270619b0
+size 743

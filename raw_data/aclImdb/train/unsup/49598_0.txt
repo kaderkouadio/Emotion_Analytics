@@ -1,1 +1,3 @@
-I never had such a good time making fun of a movie until this feature-length Hercules episode came along. Everything seemed to have been fished from the bottom drawer: lame flaming swords (gosh, could those be their attempts at light-sabres?), scrap-metal artifacts, second-rate hell-beasts, and an ensemble of clowns. All thrown in with that wannabe fantasy-epic intro. My friend and I were left with eyes watering and bellies aching from almost non-stop laughter. One of those flicks which are so bad they're actually good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87a2b00e5b6d07c79e1dec7926003402baffd58c48fd8290793eea211c8a2086
+size 525

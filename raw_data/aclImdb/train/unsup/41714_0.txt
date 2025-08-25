@@ -1,1 +1,3 @@
-If you decide to watch the movie, count how many times Terry Farrell's character makes a dumb decision. Get this: AFter she finds out that a serial killer is on her plane hunting her and her family, she keeps LEAVING HER DEFENSELESS SON ALL ALONE at every opportunity! Also, I've never seen a more nosy wife. Also, if you were an FBI agent hunting a serial killer, would you really bring your wife and son to Austarlia with you to interview the serial killer? Dumb, dumb, dumb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be6dd8b73b087390a2278018d3d0d8b10b37c60def54c804c0c6edb6f91f86c
+size 477

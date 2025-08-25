@@ -1,1 +1,3 @@
-I rented this movie because I was curious who is this, Jason Yee guy on the DVD cover. I wasn't impressed with the movie making until I saw how it was made in the DVD bonus features. An action movie made for $80 Grand!!! That's like the cost for one day of catering on a Hollywood movie. Not bad for first-time film maker, my hats off. Jason Yee did an incredible job considering he produced, wrote, directed & starred!! Who the hell does that?! Maybe Clint Eastwood but, he's a seasoned veteran with millions of dollars. I would love to see Jason Yee in a big budget action movie with a famous director. I hope Hollwood producers are paying attention because he is the next action star, just look at him!
+version https://git-lfs.github.com/spec/v1
+oid sha256:48bad1a97e90b14143689838e1df3a3e52858c67e1df2e2d0d2f07e35998efdb
+size 705

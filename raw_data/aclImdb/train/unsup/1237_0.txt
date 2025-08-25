@@ -1,1 +1,3 @@
-Pretty dull thriller. The director chooses an "arty" approach with lots of slow-motion sequences, "poetic" music and minimal dialogue, and it doesn't work. The characters have no personality, the script is virtually non-existent and the suspense is deflated by the fact that the "evil" car's driver (or the evil car itself) has plenty of opportunities to get away from the heroine who chases him, but keeps returning to do battle with her as if he has some scores to settle (we never find out what they might be). While you're watching this movie, don't be surprised if your mind starts going elsewhere, like into thinking what's for dinner or the next day's chores. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9013c8a1bf0cae129457a94d91a7cecb091c3d8f9b9427ad2cedd9f528914a77
+size 673

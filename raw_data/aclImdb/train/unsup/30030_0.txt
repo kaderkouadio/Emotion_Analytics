@@ -1,1 +1,3 @@
-this movie is a clunker. Francis plays a silly British wife who goes to Paris while her husband goes off to India. She falls under the spell of an unscrupulous Latin Lover (Ricardo Cortez) and ends up involved in his murder and blackmail. Francis looks great (as always) and does a good acting job, starting out as the silly wifey and becoming a more sophisticated (she thinks) woman of the world. Paul Kavanaugh, Doris Lloyd, and Nance O'Neill (as the evil sister-in-law) are good, too. The Paris beauty salon scene where Francis must decide on the shape of her eyebrows (she settles for "plaintive") is a hoot!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2810f17d6b58b81013ae51d501194cca66c3d09d5748426d5fe6d8bef28d76
+size 612

@@ -1,1 +1,3 @@
-I watched the dubbed version of this movie. Despite the logo that pops up every ten minutes, this movie still stinks. The dubbing is hilarious, and the effects are side splitting. This is THE worst movie I have ever seen. It even has product placement for gasoline.<br /><br />Oh, and yeah, it is just a rip-off of King Kong. 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:806a9a8d251a22c5eb2fff3909523cd105c3d7cbf0dfe18f1d41bc351c1debd8
+size 330

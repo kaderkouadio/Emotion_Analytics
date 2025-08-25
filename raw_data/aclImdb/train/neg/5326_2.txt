@@ -1,1 +1,3 @@
-"Smithereens" is the kind of worthless flick which just hangs out among the cable channels taking up space like a cheesy dime novel in the public library. A worthless bit of tripe and first effort for mediocre director Seidelman, the film is fraught with bad acting, bad sound, bad camera work, and poor quality in all aspects of the film. Many better films never make it to market and why junk flicks like this one do and never seem to go away is one of life's great mysteries. (D-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe99cfe531f004101f87a9865410a34826ee9ef0db1475bad86020ac74fe16f8
+size 483

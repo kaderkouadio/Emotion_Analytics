@@ -1,1 +1,3 @@
-This is a horrible film. Its nothing like the Karate Kid except that it has a kid in it who knows Karate. The plot is paper thin, the acting is cardboard (Corey Feldman included) and character development consists of good guys in white, bad guys in red. The whole film takes itself far too seriously and this is especially evident anytime the overly dramatic soundtrack ques in (good example being the very serious sounding synth music being played during a food fight in a school cafeteria as students smile on). The way the film plays out it feels like they're making it up on the spot. Even the action is boring and safe feeling. Don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:877b033247d2393608c86a215c8fcfc128e9094a1b7363230ee2611dd0b41aa4
+size 655

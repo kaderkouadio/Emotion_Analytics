@@ -1,1 +1,3 @@
-We saw this on the shelf at the local video store, saw "Coppola" in the credits and got excited. That was the one and only time this movie raised any interest. I could never quite work out if it was an attempt at a humourous film that failed miserably, or an attempt at a serious film that failed miserably. In general, the entire production seemed incredibly amatuerish. The sound in particular was absolutely dreadful, especially in the scenes shot in the little bar; the dialogue was so corny in parts it was unbelievable. Very disappointing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:100a0855e7bfdac61b28b4a7823e49daaef37d5fd832c246e8fff153f2a91cbe
+size 545

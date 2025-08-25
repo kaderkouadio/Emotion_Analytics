@@ -1,1 +1,3 @@
-I expected to enjoy a romantic comedy featuring Hip Hop, but was disappointed on many levels. First of all, the story is so badly recycled as to make it almost unbearable. Second, the setting, acting and story are not very authentic or believable. Third, there are a lot more good black actors to choose from than these standard picks. How about some originality? Third, there were very few Hip Hop songs played in entirity - if any. None seemd really central. Overall, film was a great disappointment, but the editing style was very interesting and almost made the film worthwhile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d2c712da83c3cb86219d3ffd9b416a7d289db627714c956b297b921665c22e
+size 582

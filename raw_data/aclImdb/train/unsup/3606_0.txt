@@ -1,1 +1,3 @@
-This is a tightly written time travel thriller that holds together, with all loose ends tied up. The explanation for the device is a little unbelievable, but hey, it's the movies. Unlike Premonition, which had so many plot inconsistencies that made the film unwatchable, the writers of this screenplay clearly gave their plot line a lot of thought. The director gives you subtle clues throughout the movie that connect events and link them to the plot, so it's possible to keep up with the action without getting too confused, but it does keep you guessing. All in all, a cleverly written sci-fi drama that holds your interest. Denzel, as usual, holds the movie together with another great performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:067eda56658d1cd4d62662322fe3fa8f6b4f9db4a39fd094be590eccbe288a7d
+size 702

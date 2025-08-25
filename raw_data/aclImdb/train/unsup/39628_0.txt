@@ -1,1 +1,3 @@
-Quite possibly the worst direct to video horror film ever made. The first half is stupid, and the second half doesn't make any sense. Also I have never seen a film with so many unattractive people. Even Leprachaun had Jennifer Aniston. I would unwatch this film if I could.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1de3f0df6a4601611312d786fdbbd2142b2bba05915b9a1b2e6a3c1f7e4858
+size 273

@@ -1,1 +1,3 @@
-This movie does a great job of explaining the problems that we faced and the fears that we had before we put man into space. As a history of space flight, it is still used today in classrooms that can get one of the rare prints of it. Disney has shown it on "Vault Disney" and I wish they would do so again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b962a0d06e8aee83cff4efd2937056922a05f536b437b084ea9f276097fb61
+size 307

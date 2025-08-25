@@ -1,1 +1,3 @@
-As in Amelie, recent French films seem to be taking a stereotypical male-female relationship slant, centered on a female finding her one true love. In this case, desperation leads to a convict, which leads to her evolution into a mob prototype. Clever and surprising story in many ways, except that the female is there to support the male.<br /><br />For those of us that don't speak French, the subtitles are a little quick, but not unreasonable.<br /><br />The soundtrack, as seems to be increasingly the case with European films, is great and in perfect sync with the film's variations. Nothing seems forced. Visually, it reminds me of various urban horror movies. There's a Wes Craven in Chicago feel to it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32d98495046494d9453689d33db65ebce2319da3d0f1072132845ec1f2c71484
+size 711

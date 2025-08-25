@@ -1,1 +1,3 @@
-Not all movies are Oscar worthy but let's face it, sometimes these types of movies are more fun to watch and leave a longer and lasting impression. This one left me smiling and happy and I couldn't wait to hug my own son. Anyone who has had a pet (no matter what type) knows what it feels like to lose one. I believe most people would identify with Buddy almost losing his best friend who he raised from birth. Bruce Willis was great as the tycoon turned nice guy and Joey Lauren Adams was convincing as a good mother. The little boy who played Buddy had a cherub face and his sister and friend Edgar played terrific backup roles. Liked the movie a lot and it was something the whole family could enjoy. Thanks!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e89ec8b3003ee84f1d19eba8d6a6c166d9d5b1d282982f8da5d46d33142cadf3
+size 711

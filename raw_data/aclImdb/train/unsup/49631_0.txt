@@ -1,1 +1,3 @@
-*MAYBE POSSIBLE SPOILER* Sorry, but I'm afraid to say I disliked this movie. I've seen Dragonheart many, many times (which isn't really a children's movie), but when I saw this one, was surprised to see that's what it is. A children's movie, I mean. No appearance by Pete Postlethwaite doesn't help, either. And since when did dragons breathe ice? You'd think the fire and ice would cancel out or explode or something, but anyway, If you liked Draco in Dragonheart, see this one because Drake (The young dragon) is the only similarity to the first film. And even then, only marginally. 1.5 out of 5.
+version https://git-lfs.github.com/spec/v1
+oid sha256:570412dd09f70bd1b125a4ea0bec853718ad32bae7ed1e68d421eaa41d484f01
+size 599

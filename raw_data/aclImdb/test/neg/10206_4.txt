@@ -1,1 +1,3 @@
-No Holds Barred is that movie that when you were nine or ten was the coolest movie this side of arnold schwarzenegger. But then when you grow up and watch it you feel embarrassed that you were so gullible to have liked it. You feel cheated, embarrassed, and stupid. If you have a little brother and you show him this and he tells you it's gay, give him a high five and take him to the strip bar for his eleventh birthday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:172d0d968908a5eb550d8d9d4850a2ca8e39dcc74f9b09f169863edf9b03b3e6
+size 421

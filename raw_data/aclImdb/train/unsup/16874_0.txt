@@ -1,1 +1,3 @@
-It took me a number of years to see it. Always knew the music, but never took the time to watch it..for some reason or another. Few years ago saw it on a Classic Cable movie channel. I have not stopped watching it since. About a year ago, I BOUGHT THE DVD SPECIAL EDITION..I always find a reason to see it again. And I keep finding more things in it..to make it more rewarding each time. syl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b234ae96e7f4e0532df71a230c691eb881f2adaf8e7c23c35d76d5dfa8bc3a71
+size 392

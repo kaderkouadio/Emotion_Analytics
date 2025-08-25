@@ -1,1 +1,3 @@
-I have a bad feeling that this started out as a serious indictment of man's destruction of the Earth's environment. Unfortunately it was treated no better by it's American distributors than any other Toho daikaiju epic. The dubbing is as bad as ever, the pan and scan transfer makes the film almost unwatchable, and there are lengthy (dull) expository passages that probably played better in Japanese. I'd like to see a widescreen print with subtitles. Good music by Tomita, at least!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4eb5d91b809157f539a00e56715ea4d6cccfc7455098c010096d1987b338c9c
+size 484

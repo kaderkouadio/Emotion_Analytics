@@ -1,1 +1,3 @@
-I've seen worse films. This is bad but at least doesn't try to be good so it deserves a brief round of applause. It rest firmly in the realms of the low-budget B-movie sci-fi genre.<br /><br />It is a rubbish film but in a nice way and is certainly worth buying if it's in the bargain bin at your local supermarket. Awfully charming rather than just plain awful.<br /><br />The highlight for me is when Galaxina's lover goes to rescue her. Upon turning up she exclaims "Bunnyfluff!" which draws sniggers from his co-pilot.<br /><br />Sit back, get drunk, enjoy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b59a749fc4960af9ab66f9a5fe81ff8399034274ced6aa6ed8fe7b11a6edbbc
+size 561

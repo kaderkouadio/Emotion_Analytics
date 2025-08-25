@@ -1,1 +1,3 @@
-This is what the 'Carry On' movies would be like if they lacked any jokes, innuendo or restraint. This grubby movie, the first of four, has slapper Robin Askwith having unprotected sex with numerous horny housewives on his window cleaning round, while his brother-in-law Anthony Booth cheats on his pregnant wife! What a larf, eh? Aside from the dubious morality of this so-called comedy, wit and suggestion are so far out of the writers' reach that this is a laugh-free succession of unappealing sex scenes and leaden filler, topped off with a charmless cast. The only purpose the female characters serve is to jump on Askwith, take off all their clothes, or nag endlessly at the men folk. It should be silly fun, but it's just a load of rubbish.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e64f4ce1d6ce75bb459a1b05c90173d44e6fc4bb5eb70a6a66579a822bb8fad
+size 747

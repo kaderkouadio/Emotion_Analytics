@@ -1,1 +1,3 @@
-I saw Grease for the first time last summer because I was curious about the movie my mother loved so much.. Well, I loved that movie myself! The music is catchy, the actors are pretty good and the story behind the music is also entertaining..
+version https://git-lfs.github.com/spec/v1
+oid sha256:459c1b1ad10cdb01f4335664b925ed6ddbcb564991e2423cfa8dfc307172ded2
+size 242

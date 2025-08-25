@@ -1,1 +1,3 @@
-Yuck. What a terrible movie. I really can't phathom how combining a great actor like Sean Penn (Dead Man Walking, the Game), a good actor like John Travolta (Pulp Fiction) and an ok actress like Robin Wright Penn (Forrest Gump) can result in a monstrosity like this. The Penns play Maureen and Eddie with absolutely NO charm, with as result that the first half of the movie is almost unbearable. Travolta at least seems to try after that, but the sheer stupidity of the story is too large an obstacle for even him to overcome. Conclusion: a real waste of time, money and talent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7749e166a7b4f50f75c59df6787d1631a47e1f6584e8cb8b6ac1ae982da9cc7d
+size 578

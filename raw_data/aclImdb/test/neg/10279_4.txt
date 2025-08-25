@@ -1,1 +1,3 @@
-"Electra Glide in Blue" is a slow moving B-flick in which Blake plays a desert motorcycle cop who wants to be a homicide detective and becomes embroiled in a murder investigation. A mediocre film at best, "EG in B" features some members of the band Chicago, a whiff of action, some philosophizing, and lots and lots of boring dramatic filler. Not worth the time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5fb1b354efb6fff0e5c290b4703f3ab276571dd180b5d777ce2f87217c3717f
+size 362

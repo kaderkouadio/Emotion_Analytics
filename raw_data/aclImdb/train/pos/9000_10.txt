@@ -1,1 +1,3 @@
-I first saw BLOOD OF THE SAMURAI at its premiere during the Hawaii International Film Festival. WOW! Blood just blew us away with its sheer verve, gore, vitality, gore, excitement, gore, utter campiness, and even more gore, and all in SUCH GREAT FUN! Especially for those of you who enjoy all those Japanese chambara samurai and ninja films, YOU DEFINITELY HAVE TO SEE BLOOD!
+version https://git-lfs.github.com/spec/v1
+oid sha256:970765c968c219b25bd80888e5168cb651aa1a4e66a124e913e9ed697e11bea4
+size 375

@@ -1,1 +1,3 @@
-I LOVED this program, and for years searched for it on video. I've contacted a great many folks in my attempts to get a copy...to no avail.<br /><br />I DO, however, have the second half of the program. I would be willing to share MY half, with anyone who can give me a copy of the FIRST half of this show. I'd offer to provide copies of what I have to anyone, BUT it's just only part of the program...so it's just not an adequate representation of the show.<br /><br />There are a few folks selling this on EBAY for some incredible cost (and that's plainly not fair...not to mention blatant copyright violations!).<br /><br />Please send any correspondence to: thndrmouse@aol.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c21e6342d01bcf5835e664717f9a5782789abebf3a6435124d37f0ae17b5c1
+size 680

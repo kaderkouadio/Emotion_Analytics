@@ -1,1 +1,3 @@
-Darr, although a copy of some Hollywood flick, is one of the best films I have seen. It is not only beautifully portrayed but also has great songs and beautiful scenery. Shahrukh is his usual self. His expressions and voice matches his character. I was pleasantly surprised by Sunny Deol's portrayal in the film. He is a bit romantic and lovable in the film, unlike his other characters in his other films.At times you feel like Justice hasn't been done to his character. Sunny was intended to be portrayed as the good guy in the film but ends up looking like the villain at the end. Juhi Chawla is beautiful and bubbly. She is her usual self. In short, A great love story with passion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db4614bc1747fb79cb3d59b3188f6e9a49c6f8cd3b89d7dcd4724c76932d8bc
+size 686

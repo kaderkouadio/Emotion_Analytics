@@ -1,1 +1,3 @@
-A good thing they hardly ever show Montgomery because he is completely unbelievable as Marlowe. How and why he ever falls seriously for Audrey Totter, whose characterization of a phony female is overdone even for the time, is one of the mysteries of the film. Audrey Meadows steals the show as a ditzy possible murderess. All in all a poorly done detective flick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1062dfaf3d43fb5a495c8cf2180ff40ae59a58a6e48f95a44d162fcafb34ae5
+size 363

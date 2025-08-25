@@ -1,1 +1,3 @@
-"In the Line of Fire" is one of the best thrillers I have seen, it builds and builds to a great climax. This film really draws you in your heart is beating and you are out of breath from the action. The cast turns in strong peformances, particularly Clint Eastwood and John Malkovich. This film is expertly directed by suspense master Wolfgang Petersen. Thrillers don't get much better thn this, don't miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c6addea42371ddd9d073a2557d6af29b03d986b9b6e6a14e76d8c0cacf05190
+size 410

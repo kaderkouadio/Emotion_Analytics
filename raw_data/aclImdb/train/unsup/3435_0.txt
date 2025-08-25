@@ -1,1 +1,3 @@
-Implausible and boring, with distracting and unnecessary profanity. Bonnie Hunt's talent was totally wasted. Maybe the film would have worked if a different set of actors had been cast. It was really quite unpleasant to watch them going through the motions, and not caring about them at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4757b2020130df3030421edfdb1d4bf6c63d51c73da83e327ca495e553cafeb
+size 291

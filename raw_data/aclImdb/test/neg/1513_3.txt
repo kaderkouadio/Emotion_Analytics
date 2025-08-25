@@ -1,1 +1,3 @@
-Apart from the fact that this film was made ( I suppose it seemed a good idea at the time considering BOTTOM was so popular ) the one thing that puzzled me about GUEST HOUSE PARADISO was what happened to the lighting ? There is absolutely no artificial lighting used in this film whatsoever , and I watched it on network TV so it wasn`t a case of watching a dodgy tape. In fact the film was shot so darkly it was impossible to see what the hell was going on . But if the dialogue was anything to go by that`s maybe not a bad thing
+version https://git-lfs.github.com/spec/v1
+oid sha256:346de737009c07f419714b8b721c99ea7b0067f62ad5dc4f471b7fd52e736541
+size 530

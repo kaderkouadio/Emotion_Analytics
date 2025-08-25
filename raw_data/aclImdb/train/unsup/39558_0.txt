@@ -1,1 +1,3 @@
-It could be a nice film, but it was too predictable. The script was shouting it was made for TV. It might be a true story, but at some points it seemed too much that a lot of events were put together just for the dramatical effect of them, and it came out too unrealistic. It was a good thing watching Anna Chlumsky in a more mature role, but I thought that role was tailor-made exactly for that purpose. It was also a surprize seeing the final guest star, playing himself, and in fact a reason for searching IMDb for this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf9b49d86d2189b34f07300e08d8afcae26685322e4cf72c1b52a66d2e36f1c0
+size 529

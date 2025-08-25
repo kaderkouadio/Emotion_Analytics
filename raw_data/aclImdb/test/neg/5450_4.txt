@@ -1,1 +1,3 @@
-Jonathan Demme is such a character-oriented director that, to see him pulling a Brian De Palma (which is to say, aping Hitchcock), it is nearly predictable when he fails to work up much suspense within this tepid mystery. Working from a screenplay by David Shaber, from Murray Teigh Bloom's novel, Demme attempts to strike a chord somewhere between Alan J. Pakula's paranoia dramas and Hitchcock's dangling-participle thrillers. Roy Scheider stars as a retired Secret Agent mourning the murder of his wife who is now busy dodging bad guys who are out to kill him. Takes off right away, but the script is full of flimsy threads and any excitement dies out quickly. There's a visually impressive climax at Niagra Falls, but Demme gets little out of his cast, and even less out of this bummer of a story. ** from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2250ebb5d8a5a87bb991c0c89d63d789a0b47271cd4e6a4cfaa41e24ad76aa
+size 814

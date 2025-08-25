@@ -1,1 +1,3 @@
-For you complaining about woody acting: this is not a bug, it is a feature. It makes sense the same way it makes sense that the type three is not attacked by the screamers, when you understand what it really is.<br /><br />All these droids and their characters are artificial. Their characters are designed.<br /><br />The machines who designed them have read some Shakespeare, it seems, and watched stereotypical American warrior stories.<br /><br />Get it? It is crappy, but it is meta crappy. Like in Total Recall you are looking at traces of someone else's story within the story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a4f4697826533f928a095899f73bf56ae68afc08b9df27c64771eda84a71c5
+size 584

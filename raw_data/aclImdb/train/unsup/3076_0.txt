@@ -1,1 +1,3 @@
-I like when Dolph Lundgren direct Movies. I have seen several of Movies he directed and it shows his talent as an Actor and Director. The only problem with this Movie, the bad guy: Why do the Bad Guys always look so ugly? However, rather then Schwarznegger, Dolph Lundgren hasn't lost that touch of a Cool Action Dud He gets better the older he gets. Its funny, every time I see Lundgren on Screen its like reminds me, oh there must be something about Russia or so. Rather then Retrograde this Movie was a lot better. Retrograde was waste of his Talent. Its really cool to watch Lundgrens Movies and I know that there are some moments I think no this is not acting. This is himself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4962bc8d975e489adc8a8e392bf7e5add72a8caa502a5e62685246c3f75fdd6
+size 682

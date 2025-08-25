@@ -1,1 +1,3 @@
-It started off weird, the middle was weird, and the ending was weird, but I really, really liked it. A modern day version of Homer's Odyessy but that is really irrelevant. Interesting story and casting. Clooney was great and I applaud him for taking on such an adverterous role - so unlike anything he has done or ever will do again. Lots of surprise stars - why isn't Holly Hunter in more. Do something different tonight and watch this really different and unexpected flick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab5b41a70fb7e4426b40755bdaaf3ea5c29a058ee219675e5f8022d7027fe5b7
+size 475

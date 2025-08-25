@@ -1,1 +1,3 @@
-This is one of the most spiritual movies I have ever seen. I headed up with about 150 people to St. George and we saw this movie in the visiting center of the St. George temple.. Not one person had dry eyes in the audience. Also, there were some non- religious and anti-Mormon people in the audience who felt the spirit of the movie and were touched by the captivating music and reenactment of the story of the pioneers and the hardships they faced because of their beliefs.<br /><br />I recommend this movie for anyone who wishes to understand more about Joseph and the hardships that the pioneers went through. After all, it is apart of American History.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5009b1ec00bca05115ff08993f744b55e37b9b520d6fdcaab51f6c03de86f8ca
+size 656

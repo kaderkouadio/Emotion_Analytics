@@ -1,1 +1,3 @@
-This film remains alive in my memory in the form of its emotional impressions (the term "bittersweet" may be overused here but is completely appropriate) as well as the final chords of the soundtrack, which darkly underline the story's conclusion. I'm with everyone here astonished that this film's still not available for personal acquisition. It's not as if it was a misstep for either of the stars, something to be kicked under the rug; if anything it's akin to "Harold and Maude" (but not an imitation...the resemblance is superficial). I can still feel this film in my blood, though it must be 20 years since I last saw it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c9b459cf19a744b867d839c6bd1286be5ef6c3364315611c25a782859fb107
+size 628

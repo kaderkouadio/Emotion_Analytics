@@ -1,1 +1,3 @@
-I was a little afraid when I went to the cinema to see this movie. Indeed, it is always tough to make a movie from a comics and the first episode of the adventures of the French two greatest heroes was good but not fantastic. Finally, it is very funny from the beginning to the end with unexpected gags, some cartoon scenes, no timeouts, great FX, a great cast, great landscapes, great everything !!!<br /><br />However, I wonder how they will manage to translate all the French names in English or German, because it is certainly funny in French but how will it be in another language ???
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cc77f560bbbbcb0c579e104c49f9302a0afc9550aacc7393f13eb46de93f552
+size 589

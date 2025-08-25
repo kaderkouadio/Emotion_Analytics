@@ -1,1 +1,3 @@
-Average family style drama suited only for liberal minded people.This movie could have been good if it had better cinematography and script/screenplay.Still,if you are a liberal and a fan of family comedies and like any of the lead actors here,you will probably ignore this movie's limitations and be quite entertained by it's feel good fantasy.......
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f2fdb7f235a6adb791db4b99cba4ea2bd592e4f49d6d1f4642ce8124327713
+size 351

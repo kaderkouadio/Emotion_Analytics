@@ -1,1 +1,3 @@
-It's terrific when a funny movie doesn't make smile you. What a pity!! This film is very boring and so long. It's simply painfull. The story is staggering without goal and no fun.<br /><br />You feel better when it's finished.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a920c011a184bb735af851059779e4149e9f986ca0f37e453b69ffe24fd05868
+size 226

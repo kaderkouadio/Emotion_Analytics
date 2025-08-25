@@ -1,1 +1,3 @@
-Basically a road movie. The gay, transsexual, and other gender-bender themes are rather disturbing, particularly when the child is involved. You do have to hand it to the costume designers. As for the actors, the only one I was familiar with was Terence Stamp. I suppose it was a very good performance, out of his (or anyone's) normal range. The movie as a whole was shallow, just a vehicle for the clever, bitchy banter. All in all, I don' recommend this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d92f9779a0278ff73272f4b55a91ddf122282cf8b8ed4f214344107cea120f1
+size 460

@@ -1,1 +1,3 @@
-Repetition is fine in theory, but this turkey should have been edited. We get the point already. To just drag us through it over and over without shortening the process is just plain pretentious. Where was the editor on this? And for what? Smell the roses?????? The assumption here is that the character is rushing because someone is in danger. Him? A loved one? We don't know. And that's okay. But to set that up and then say -- "hey, we all need to slow down sometimes and smell the roses" is just plain bunk (not to mention cliché sentimental crap). <br /><br />I'm exhausted watching this. And it was only a few minutes long. <br /><br />PASS. and PASS. and PASS. and PASS. and PASS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:342e9c4c7ef0158397732f319d82b4284b8a17f3453463b21a2ab45ec707729f
+size 688

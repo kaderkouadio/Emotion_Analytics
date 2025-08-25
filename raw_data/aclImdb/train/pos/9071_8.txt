@@ -1,1 +1,3 @@
-Pre-adolescent humor is present in large quantities. The acting and story are wonderful if you can stomach the concept. Those with weak constitutions will have some difficulty since the "worms" are realistic enough to cause churning of more than a few in the audience.<br /><br />Tom Cavanagh and Hallie Kate Eisenberg stole the spotlight, but the young Ty Panitz could get some serious time on screen over the next few years.<br /><br />Miss Eisenberg has developed from a cute face into a strong young actress with charm and wonderful comic delivery. <br /><br />The story does a spectacular job in dealing with bullying, friendship, and fairness. It creates an opportunity to discuss these topics in an open and frank manner while recalling some "gross" scene from the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d513901c6b94b974ff165a928e987791c6f2ed37e611b39f6a565206cc7c17
+size 777

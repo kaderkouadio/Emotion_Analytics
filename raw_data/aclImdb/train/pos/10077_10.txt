@@ -1,1 +1,3 @@
-This is probably my favorite movie of all time. It is perfection in its storytelling. It will break your heart not because it's over sentimental but because you will truly feel every emotion these characters go through. You feel for Doggie because of the hopeless situation that existed for young girls in China at that time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5418a56882d4a985500c662c405ab45949c515b6768ad7d80e484e8392cad252
+size 325

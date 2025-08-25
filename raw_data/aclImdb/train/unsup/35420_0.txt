@@ -1,1 +1,3 @@
-Hint to all young producers and directors: just because someone is named ice something does not mean he can carry a movie alone or even act. I don't mind Ice Cube, he is just limited and the angry black guy routine can only carry you so far. This a movie that Fred Olen Ray might have even passed on making, hell maybe even Jim Wynorski. If you must watch this movie, then you might not want to invite any new people over just in case of the whole first impression thing. Overall I would suggest that you would be more entertained by playing charades alone.Jump down. Turn around. Eat a bowl of arsenic.Seriously, I think ice might want to be a little more picky, if possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71c36a2af6b0e662e822cfc9077f4128232021eff545cb32b005e99f5824030
+size 676

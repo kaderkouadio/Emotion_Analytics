@@ -1,1 +1,3 @@
-I watched it on the telly just this afternoon and it had been a while since I had seen TBATB. I loved it. Douglas is brilliant and so is the rest of the cast. Turner (a mediocre actress, at best)delivers her best performance. The story is wonderfully entertaining, if not ultra-realistic. The mood is not mean-spiritted, with enough room for humour. Catch this on a saturday or sunday afternoon and you'll be spending 2 hours in joy.<br /><br />I give it a 9.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f03ff7bc2b0a6b9d5771e21068f1f83a250a2f92158edad3552e14b0683e1b08
+size 459

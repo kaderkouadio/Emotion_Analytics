@@ -1,1 +1,3 @@
-In high school some friends and I were cruising Blockbuster and we stumbled into the narrow "Other" section, where my eyes set on a movie called "Ganjasaurus Rex". On the spine of the box, under "Genre", some jaded employee entered "BAD". Needless to say, we rented it.<br /><br />The "plot" of this "movie" involves a six-foot inflatable dinosaur that terrorizes stoned hikers for their pot. For about half the movie, the date and time are in the corner of the frame, betraying the filmmakers' use of a friggin' CAMCORDER! Funny to laugh at (not with), but the absurdity loses its appeal pretty quick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fda060b02b11eb984e93904a459d7ac15712bff9b8daf07aca51e864d2ded73
+size 602

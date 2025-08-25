@@ -1,1 +1,3 @@
-This is one of those few movies that is just so dreadful I couldn't stand to watch more than half of it. The acting by the main character and dialog is atrocious! Avoid at all cost! Save your money and stare at a blank wall for 2 hrs - it'll be more entertaining!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f1510953baeafb70b04bacf3db7e5819977f7728024984d109448e94a35957
+size 263

@@ -1,1 +1,3 @@
-In conception a splendid film, investigating the tensions that occur in family life in the idyllic setting of Galiano Island off the coast of British Columbia, _The Lotus Eaters_ is marred by the fact that it has been packaged as a made-for-TV movie, diminishing itself throughout by the addition of chirpy music over potentially powerful scenes, as if to get ready for the interruption of commercials. A pity, really.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3276b8a3e1e0a034e4ae0bffe878fafedbd91586eef66cee69a205e485922169
+size 418

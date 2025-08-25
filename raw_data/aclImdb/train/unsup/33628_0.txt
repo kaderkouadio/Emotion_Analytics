@@ -1,1 +1,3 @@
-First of all, this wasn't meant to be an "Amityville" sequel, it just tried to draw its audience by using that word in the title, but otherwise has little to do with what has happened before it in the series. That would be OK if they had come up with a good flick anyway - but they didn't. Do you find it a good idea for a horror movie to give away its own surprises halfway through? If not, then avoid this one. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:540901dec4c0d061afdb6c754ed1fc023f52025d0289a6db42d8a5738f39af2a
+size 419

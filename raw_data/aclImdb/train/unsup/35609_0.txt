@@ -1,1 +1,3 @@
-This movie is one of the worst movies I've seen. You want a werewolf movie, watch An American Werewolf in London. This one looked so, so fake. Why does the dog always have his month open??? If you like watching a movie with a guy with hair, watch this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c6477510e8610acd59d7bb214c9a4133b960a6278e0065496d09600537e889
+size 252

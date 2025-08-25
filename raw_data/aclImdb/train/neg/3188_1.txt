@@ -1,1 +1,3 @@
-Joe Don's opening line says everything about this movie. It takes place on the island of Malta (the island of pathetic men) and involves Joe Don Baker tracking down an Italian mobster. Joe Don's character is named Geronimo (pronounced Heronimo) and all he does in this movie is shoot people and get arrested over and over agin. Everyone in the movie hates him, just like everyone hates Greydon Clark. I liked an earlier Greydon picture, "Angel's Revenge" because it was a shirne for thriteen year old boys. Avoid this movie at all costs!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e21e1d6eebde16e9b9e2f29a6beeb76f59a4e9bb4afd0130d1234b795b5ebf8c
+size 538

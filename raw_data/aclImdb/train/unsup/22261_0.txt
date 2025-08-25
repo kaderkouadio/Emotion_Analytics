@@ -1,1 +1,3 @@
-Ice Cubes writes, directs, produces, acts, makes the sandwiches and thoroughly spoils everything in this movie. If it was made by a white person it would be slated out of hand for being racist. Written in crayon, it even uses a country and western song ("Coward of The County") for the denouement of one of it's plot lines. Yes, beating up the person responsible for the rape of someone you care about really settles the score. It doesn't get more sophisticated than that. Jamie Foxx plays a character who continually denigrates the dancers in the movie until he shows tenderness to one of them at the end for no reason but " that's Hollywood, forget logic". I don't think that this movie featured heavily on his CV .
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2afe46549046c4278fd1d838a45a5060ce389244ac00a310a8575ae48a752a5
+size 717

@@ -1,1 +1,3 @@
-Generally thought to be the first official Laurel and Hardy release(although PUTTING PANTS ON PHILLIP is also put in this bracket),the boys don't wear their Bowler hats and have their heads shaved,but are very much a team in this early effort,more so than PPOP where they play against each other rather than for.There's plenty of amusing incident and situations(especially when they attempt to escape the jail as painters);one slight quibble is that as convicts,the characters they have to play here have a very slightly more unpleasing edge than they would be establishing only a few films later in the partnership.Still funny though,and Jimmy Finlayson's double take and fade away is worth a few more laughs as well here;in early publicity material the boys were sometimes billed as 'Hardy and Laurel' in this film;that soon changed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f221ad9d12bcb5551ea27664e3ce5f270be663fc79b05f6b9c65eb5d6ac2957
+size 835

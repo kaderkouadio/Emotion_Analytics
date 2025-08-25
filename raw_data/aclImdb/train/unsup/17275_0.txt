@@ -1,1 +1,3 @@
-I came upon this movie purely by accident when it was being shown on cable, and found myself riveted to my seat, not wanting to miss a minute of it. The performance by Joseph Cross was captivating, but what was even more compelling was the story itself. I was constantly trying to figure out how it was going to end.<br /><br />The ending turned out to be a real surprise, but I was also impressed by the portrayal of boyhood that the audience receives in the process of getting there. It was so true to life that I found myself wondering how much of it was based on the film writer's own experiences. Above all, I was impressed by the amount of respect the movie seems to have for boys, and by its willingness to recognize that 5th graders sometimes think deep thoughts and ask deep questions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:144aa194dd3d13c617c3b7ef63cb1bd5e8d5e446b5b2318de7769ba81d773f9a
+size 794

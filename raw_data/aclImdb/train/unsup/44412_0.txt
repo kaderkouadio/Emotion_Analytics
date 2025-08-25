@@ -1,1 +1,3 @@
-The characters were paid for this...and pretty well. They are acting throughout the entire movie. Sure, they are really street kids who one must feel sorry for, but their attitudes can't merit any sympathy. Their tough-acting is totally fake. They act that way because there's a camera in their faces. Watch the scene with the kid talking to his dad. How many different camera angles were used? How do you think they fit twenty cameras in there? It was scripted. Get a clue. The voice overs were sort of a dead giveaway too. Sure, you have to wonder what happened to the kids, but you also feel hope that maybe a couple of them got smart and got a job. They've got plenty of time on their hands to do it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79b6d9184e1c4a75e834fc0a40ac888d0a6e67b9523dd8d29c7b85173953a05
+size 704

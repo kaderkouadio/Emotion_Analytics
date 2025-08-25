@@ -1,1 +1,3 @@
-This movie is a lot of fun. What makes it great especially are two things: one is the straightforward way the characters embrace the stereotypes, with discussions of their costumes and superpowers. There's an endearing earnestness to the parody that's very appealing; the second is basic sweetness of the characters and the quality of the chemistry. Claire Forlani deserves particular note as the object of Mr. Furious's desires. There's a boatload of talent here. I realize some with high expectations may have been disappointed, but this movie is a lot of fun, and kind of sweet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15e15dd3cb5760cf9569934e6be870c4e8f269f3cd632b40947ef36881ea593e
+size 581

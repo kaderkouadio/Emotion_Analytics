@@ -1,1 +1,3 @@
-Joel is supposedly the "good son" - straight-laced, dull but an average guy with implied moral values that erode throughout the film.<br /><br />Initially, you get the impression that he needs to let loose a little, but of course things get out of hand.<br /><br />The overly-trusting parents are cardboard morons, his wacky friends show more personality in one line than he can muster throughout the movie - no, dancing around in your BVDs does NOT constitute a personality- and Chewbacca De Mornay's hooker character is not quite ugly or crusty enough to be remotely believable.<br /><br />Yeah, I realize Risky Business is trying to be over-the-top, but watching a really boring Tom Cruise character crumble into moral decay after a long sequence of idiotic events doesn't do much for me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cec7ed6884088679c31727e83f3fb2d0ae2e89438e533eac8054152758bbe96
+size 791

@@ -1,1 +1,3 @@
-My guess is that this director/writer had something to say. Let's see, what it could have been... a. Frog storms would be creepy? b. can I get someone like Tom Cruise to say the "C" word many times and look like a bad Patrick Rafter? c. Cast my wife and get her to say the "F" word every 2 seconds. This aside I really liked the beginning and the frog storm. The rest was a relentless, over-long (under-edited), over-indulgent failure. Glad so many of you enjoyed it! <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:15ff47d811256bfbf700cc3791cdece44117d5421541c030eeb66ac7e5e32b27
+size 480

@@ -1,1 +1,3 @@
-Truly a horrible movie. Except for one thing: Donna D. looked incredible. I couldn't get enough of her and her three sizes too small t-shirts. With that said though, this was one lame horror movie with no substance, flair, or even good gore/special effects. Don't waste your time with this one. Unless of course you're a Donna fan..........
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1df1b3c9cb4f9dd4c1edc2d6dddc0d62cef90db7a301b46c955987cc94dccd4
+size 340

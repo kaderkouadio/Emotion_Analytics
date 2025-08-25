@@ -1,1 +1,3 @@
-This was, with all honesty, absolutely terrible. Take a really bad movie, multiply its awfulness by 100, run it over with a tank, dice it up and then glue it back together you'll get Blood Lake. Which isn't really a bad thing, because it's so SO SO bad it's almost kind of interesting. One of the things I thought was humorous was like the 15 minute ending where they showed the killer walking around doing nothing. Also, it was freaky how that scrawny hillbilly kid kept on saying he was going to bang the black chick. And I think they ended up getting it on.<br /><br />You should see this movie, it'll give you a laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9b119667d3f644665ae6c9bcf469d7f8ff8da7bd89e29f3f7e3a7a9fc28888
+size 622

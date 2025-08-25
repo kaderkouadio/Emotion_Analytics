@@ -1,1 +1,3 @@
-If only this were as good as the old Perry Mason TV series, but it's not. So contrived, it unintentionally makes you laugh and cry at the same time. So unbelievable. Zero Mostel as a small-time thug? For serious Bogey fans only.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b800c5e247c6b7c5e90a6637b7bdb0929f57508879e90778f2d834589d6c6cef
+size 228

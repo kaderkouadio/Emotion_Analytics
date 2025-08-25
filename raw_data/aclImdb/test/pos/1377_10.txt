@@ -1,1 +1,3 @@
-OK, so maybe it's because I'm from the North East of Scotland and I talk just like the guys in this film, but I found this great fun. Cheap fun to be sure, but plenty of effort has gone into making the film look great and the actors certainly give it all. I was actually quite effected when they died. In particulare when the Captain finally fell. The script? Well it;s a game of 2 halfs. The opening half of the film is well written and sharp. The last half hour is not so great, with many questions left unanswered. This will doubtless annoy others as it annoyed me. But nevertheless, good fun and a very smart first feature from Sturton.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c319b3ee3ae7a254ab72c91bb653db4ea6d7402a8a3b1e33632b3493ae4cb4
+size 640

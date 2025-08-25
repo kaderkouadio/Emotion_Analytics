@@ -1,1 +1,3 @@
-"Capitães de Abril" is a very good. The story isn't a documentary about the 1974 revolution in Portugal. But it gives us an idea of how it was like. The fiction of the story isn't of great interest, but it doesn't spoil the movie. The heroic actions of Captain Salgueiro Maia aren't exaggerations and the film is also a tribute for his deeds. Captain Salgueiro Maia remains one of the greatest heroes of the 25th of April Revolution.<br /><br />All the actors are very good and even the smallest roles are played wonderfully. Lisbon looks beautiful as ever. Don't miss it! I liked this film very much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c820753d0f8c9b9b82db2de369f50d9010b1edaf06522b654fcc0fd1b2b7a3b
+size 602

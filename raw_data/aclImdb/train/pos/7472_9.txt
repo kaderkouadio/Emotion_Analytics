@@ -1,1 +1,3 @@
-I really liked this movie. I've read a few of the other comments, and although I pity those who did not understand it, I do agree with some of the criticisms. Which, in a strange way, makes me like this movie all the more. I accept that they have got a pretty cast to remake an intelligent movie for the general public, yet it has so many levels and is still great to watch. I also love the movies, such as this one, which provoke so many debates, theories, possible endings and hidden subtext. Congratulations Mr.Crowe, definitely in my Top Ten.<br /><br />P.S. Saw this when it first came out whilst I was backpacking in Mexico, it was late at night and I had to get back to my hotel and I had a major paranoia trip! Where does the dream end and the real begin?
+version https://git-lfs.github.com/spec/v1
+oid sha256:db91c73836cdde56611cccd3f1378d5819ee9d3c8c104d421c533a95e7b874d8
+size 763

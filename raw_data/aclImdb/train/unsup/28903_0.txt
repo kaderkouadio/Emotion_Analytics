@@ -1,1 +1,3 @@
-The interpretation of Cary Grant is very great and appreciable. The story is very nice. This is another of the excellent films made by Cary Grant, who I consider the best actor in the cinema's history. By the way, I must say that watching "Penny Serenade" on TV I have discovered a very clever actress, too, who I haven't known before, Irene Dunne.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63263c0b53e8ba30ae82e6d08f0bf230d345e8fee3ab4d3466a12ec1bff45386
+size 348

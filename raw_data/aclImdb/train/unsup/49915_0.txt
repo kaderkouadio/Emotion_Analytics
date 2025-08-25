@@ -1,1 +1,3 @@
-I adore Jeremy Brett. I love Basil Rathbone. I like a few of the honorable mentions, especially Rupert Everett. Christopher Plummer, not so much. What they probably told him was a sly grin looks like a smirk to me. And what is with the hair in this movie? The Plummer and Sutherland wigs must be the envy of Trump and Blagojevich, not to mention Gielgud's lower face. It's the small things that gnaw at your cuticles, but when I could tear myself away from the hair, I appreciated the set design, costuming and music. It was beautifully shot and had some refreshing non-Conan Doyle dialog: "You squashed my pea." And what a cast! By the way, the Clark commentary is good. In short, not a favorite movie but not a wasted two hours.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f359f82de817e2a5d96e97fd13b7b8a83ae55c95e6b136e7af3271809ac83f4b
+size 730

@@ -1,1 +1,3 @@
-The movie is not THAT good, but the manipulation of the average vote is ... not good. <br /><br />Add the votes, divide them by voters, that's it. <br /><br />The humor of this is not what I prefer at the age of 38, but back then ... It's 80s trash, it's fun.<br /><br />It's not better than a 5, but voters liked it much more than the " weighted average" tries to make you believe.<br /><br />I'd prefer to ban the "top 1000 voters" than anything else.<br /><br />Description of the movie? No, watch yourself.<br /><br />Recommendation? Not for old people. Not for young people. It's for the eighties' youth only.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b14bd5fd8c9680ab569aa1c178e1ae57a0bf34e780c04598b2fc82a96e0cbe09
+size 614

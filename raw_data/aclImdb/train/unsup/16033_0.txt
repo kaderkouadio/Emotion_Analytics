@@ -1,1 +1,3 @@
-A few of the 70s drive-in movies I've seen were a lot of fun. This one is not. I appreciate Xenon in bringing back the "blaxplo" heydays through their video releases, but man, why not leave that scratchy looking print on the shelf and make it stay forgotten? BLACKENSTEIN is downright awful in its dreadful glory. Not a whole lot can be said about the horror elements other than the removal of body parts. How about shoving down people to make them die? A lot of your fun goes to scenes of mad scientists playing with liquid formulas and having to sit through useless scrap footage. The way our stiff-looking creep in an afro walks around and spreads his arms defines the most horrendous acting performance I've ever seen. It's that bad! Naturally speaking, don't confuse this one with the much superior BLACULA. The two are not the same. Dreadful!
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c9d7c76070115cd89860c1ee810471cfd246279cb36f0283ab447c5f834b63
+size 848

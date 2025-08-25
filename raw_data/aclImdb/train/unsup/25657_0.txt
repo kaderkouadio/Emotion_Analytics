@@ -1,1 +1,3 @@
-Brilliant - the story line is unique, the comedy is there, the acting is typically stupid and therefore fits right in with what we expect from Dan Aykroyd. The gags are hugely funny especially the references to our everyday things by their alien meanings! A must for FAMILY ENTERTAINMENT. A complete lack of swearing (almost unheard of these days) is refreshing!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3248a96a9d9a49a11d6f43cb2b7f3c9a2f3baddae95044e67311a83f67bfe6f7
+size 362

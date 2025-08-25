@@ -1,1 +1,3 @@
-These three directors are off to Good Beginnings. The three stories are remarkably well-done for independent productions and capture those traumatic feelings of "coming out" when you aren't really sure it's a good idea. I laughed at those veiled glances around the dressing room in "Pool Days"; I smiled at the notion that fans of Bette Midler, Judy Garland, and Barbra Streisand are assumed to be gay in "A Friend of Dorothy"(ie. browsing through the CD music racks); and I cringed over the "jock" in "The Disco Years" whose memory of sweet sex was now "blurred" by liquor. It all seemed so real. I look forward to more offerings from this trio of directors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8df1a6317983a2269fa30720ced289be4b6c21cc0402623d7070f0dd934e478d
+size 659

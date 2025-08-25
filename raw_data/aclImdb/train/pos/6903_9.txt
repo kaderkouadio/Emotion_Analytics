@@ -1,1 +1,3 @@
-This little-appreciated movie is one of my favorites. I can watch it over and over. Dreyfus and Braga are masterful, but Raul Julia steals the show! A tongue-in-cheek, menacingly humorous Gomez Addams, with just the right tone for this irreverent spoof of this oft-told story.<br /><br />Generally untrumpeted and unappreciated, Moon Over Parador allows you to check out of reality and join the fun going on up on the screen. Two thumbs up!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cffc2b243f86cf8e4676784733ffa0bc5a484392dcba8f482570afa349950672
+size 440

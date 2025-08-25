@@ -1,1 +1,3 @@
-Compared to this mind-numbingly awful piece of dreck, the weak first film was a masterpiece. It is genuinely shocking that Hollywood was able to produce a film this utterly inept and mindless. The writing (the screenplay is by Simon Kinberg, who somehow also wrote the excellent "Mr. and Mrs. Smith") and acting are dreadful - not just from non-actors like Ice Cube, but even from Oscar nominees like Willem Dafoe and Samuel L. Jackson. The plot is incomprehensible, and the CGI is so poor that some of the action scenes look like "Tron".<br /><br />The one redeeming feature is the fact that the film is frequently, unintentionally, laugh-out-loud hilarious. Lines like "I need to speak to this man alive" abound.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8b3e9817930af97498e348a0d988fa18a6368f1f865c46c8e895da1ef6f5112
+size 714

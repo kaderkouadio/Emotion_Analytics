@@ -1,1 +1,3 @@
-I notice from other reviews here on IMDb that lots of people seemed to like this movie. Maybe I should have toughed it out for a little longer? I got eight minutes into this badly scripted, badly acted and badly directed bomb before I gave up and slipped a different DVD into my player.<br /><br />My message to the Director: You have to give me a reason to stay with your movie beyond the first few minutes. You failed. If I had payed $10 to see this in a cinema I would have stayed longer but I saw it at home. Even when watching a DVD borrowed from the library I place a value on my time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1bfa2a29c9b81a1f9964ca2ea37eb5e35fecf6c09b2e07701d2f60c4bfc50d
+size 591

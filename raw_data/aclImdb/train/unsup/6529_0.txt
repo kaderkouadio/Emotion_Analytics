@@ -1,1 +1,3 @@
-Yes, this movie was truly pathetic. As another viewer points out, the mountain did an excellent job. Other than that, embarrassing. Terrible and inconsistent Russian accents, not to mention offensive stereotyping. A doctor who can diagnose "internal hemorrhaging" by touching the outside of an injured climber's parka. The female Russian climber actually looks like she is wearing jeans. The impossibly implausible position of the cube. The RIDICULOUS final climb with the cube--what is he holding on to? It is so clearly shot with them lying down horizontally. Flying effects that looked like a SNL skit.<br /><br />Nevertheless, it was still rather fun to watch how this train wreck of a movie would get worse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a483773167c71b27c5953d34a0f5de47059915e39b2b2b45d65d5549811f6de
+size 712

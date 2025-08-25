@@ -1,1 +1,3 @@
-Found this film under Cinema Classics and was very disappointed with the entire film or TV Series film which lasted with only two episodes. The only reason this film might have interested the film viewers was Demi Moore who is a daughter to The Master (Lee Van Cleet) and was missing from her dad for many years. The Master enlists the help of a young man (Timothy Van Patten) whom he trains in the martial arts so the both of them will be prepared to defeat the kidnappers. However, The Master and Timothy are unaware that a deadly group of Ninja assassins are on their trail. Demi Moore made a few brief appearances and gave a few quick kisses to Timothy, there was some action, but nothing to write home to mom about.
+version https://git-lfs.github.com/spec/v1
+oid sha256:831bad6de7fa8dc6c011e3cbdf68448ca9bfe6a6a0d0e4ed7ea35cc1ef7fb7a4
+size 720

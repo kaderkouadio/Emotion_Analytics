@@ -1,1 +1,3 @@
-I saw this movie for the first time in an old small town movie house in Big Spring, Texas back in 1978. Seeing the film where I did is one reason I will never forget it . . . and there are at least 20 other reasons I will probably watch it once every few years until I'm gone. I have watched it at least a dozen times over the past 20 years. It's a great movie and I recommend it highly. I laughed and cried out loud. Few things in life are more important than surfing with your friends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab7b699971f30a87fc6527b887c5867cca8951d637807198e5af1bb71db88d4b
+size 487

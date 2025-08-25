@@ -1,1 +1,3 @@
-The movie within the movie - a concept done many times in the history of cinema. It is accomplished here as well as in any.<br /><br />If you love Carmen, you'll love this version.<br /><br />If you love flamenco, you'll love this version.<br /><br />The plot of the classic opera is played out in the actual rehearsal of the opera by a flamenco troupe. The music is authentic. The direction wonderful.<br /><br />If you like dancing, you'll love this version.<br /><br />There is tragedy. There is passion. There is intrigue.<br /><br />There is...<br /><br />Carmen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b649850d1be2fb06c3ff9c80b767c9741230e2e617d238ac694a3cd14a50bf78
+size 568

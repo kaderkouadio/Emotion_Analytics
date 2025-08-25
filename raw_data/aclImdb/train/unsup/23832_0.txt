@@ -1,1 +1,3 @@
-It's a different kind of movie about coming of age. Dermot Mulroney is great as are most of the cast. Dermot Mulroney is a working-class, high school boy whose time to grow up has come.<br /><br />Not a formula film in any way that I can tell. A great cast. Lili Taylor, Sam Shepard, Delroy Lindo, Mary Kay Place, Benjamin Bratt (not his best performance perhaps), Will Patton, Burt Young.<br /><br />The ending was great, in my opinion. In fact, what said it all for me was at the end of the film, the change in the expression of Dermot Mulroney's face as he sat in the back of the pickup. I thought the acting was good. A strange movie, I grant you, but I feel it was well worth the watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc85f68588d0c3b1ef8573dcb7cdff25a7b32488310190687465e61bc4ce2684
+size 691

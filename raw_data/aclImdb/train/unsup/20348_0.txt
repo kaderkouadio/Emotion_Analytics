@@ -1,1 +1,3 @@
-This has to be one of the best anime films out there. Endless Waltz is, in my opinion, just as good as the Studio Ghibli films (to name a few, Princess Mononoke, Totoro, Laputa - also known as Castle in the Sky -, Spirited Away). Go see it! And Duo Mexwell is the best character without a doubt. Don't doubt me!! LOL OK so I'm just a little obsessed. But really, if you ever get the opportunity, watch the TV series then the movie, as you will certainly not regret it! You'll really have to watch the TV series first though, as I have to admit (like all movies of TV series I should think...), otherwise you'll be sitting there going, 'Whaaaa...?' ~Sandileina (Sandy for short)~
+version https://git-lfs.github.com/spec/v1
+oid sha256:169fd684aa723f3beb973347afe3ee29b1c069b4a6a9a085c786c6c6c523a97c
+size 678

@@ -1,1 +1,3 @@
-I have one word to someup this movie, WOW! I saw "Darius Goes West" at the Tribeca Film Festival. People in the theater were sobbing. This movie shows the hardships that Darius sufferes with Muscular Dystrophy. The movie was very well done and really made you part of the movie, I WAS SO emotionally moved by the movie because it made us remember that we are very fortunate to be perfectly healthy, some people in this world are less fortuate then us. And sometimes we should give them a had and help them, to the very end. I would give them ten stars, they gave Darius a had when they weren't asked to, they did't do it for the money they did it for a friend in need, Darius, the world should know, Darius went west.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91be38de541fec3f3187d72b4e3def4b94aac557e4af42eb8324184c2481f16d
+size 717

@@ -1,1 +1,3 @@
-Don't let this pass you by. Evocative, funny, poignant, and tragic by turns, it leaves you with a warm feeling and a sense of puzzlement: if they can make things as good as this, how come we have to put up with so much dross? Great ensemble playing, great music, stand-out miniature performances from Christine Lahti, Mercedes Ruehl, Rosie Perez, and Gregory Hines, but the icing on the cake is a chilling song from Taryl Hicks in "Sax Cantor Riff". The musical close under the credits was also a knock-out.<br /><br />Quote of the movie: "Only in New York..."
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e2b7eb0b07a54afdab240ecf77b0964ac75dbb045f4d29f945af91b326b494b
+size 560

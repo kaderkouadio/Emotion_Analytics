@@ -1,1 +1,3 @@
-This film is available on DVD -- as part of the "Treasures from American Film Archives" collection released this year. The collection has lots of gems on its four disks but "The Battle of San Pietro" alone would make it worth the price.<br /><br />I watched this 30-minute documentary of one of many battles in Italy shortly after having viewed "All Quiet on the Western Front" for the first time. I thought the Milestone film was brilliant but it was this Huston documentary that made me cry. I don't know whether it is the matter-of-fact narration (by the director), the sight of all those G.I.s, or the Italian children that got to me but the sum of it all was almost overwhelming. Very highly recommended. 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:b17789ac39c72932638b80ce311c6979bddd60f7f3b5544f45d8e68e6892fe4f
+size 715

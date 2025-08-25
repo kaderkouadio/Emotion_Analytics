@@ -1,1 +1,3 @@
-Perhaps I was just in a really good mood when I watched this film. but, for whatever reason, I really liked this film. Was it terribly original? No. Was it a bit predictable? Yes. And so what? It was still a really nice movie. I've always liked Bruce Willis (well, almost always, there was Hudson Hawk and The Fifth Element, after all), and he portrayed a selfish, sarcastic b***ard perfectly. Maybe this movie isn't Academy Award material, but it sure is feel good material. Go rent it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dbff1ecc76d576e282cf10bd116d79f41013190aef88ba253f7b38451affdf5
+size 487

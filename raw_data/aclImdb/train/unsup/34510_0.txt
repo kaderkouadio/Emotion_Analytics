@@ -1,1 +1,3 @@
-This is the type of show that used to be produced weekly on Playhouse 90. Many of those dramas were later re-made as motion pictures. It even has a television drama feel. There seem to be commercial breaks built into it. The acting is strictly Ham-Ola. And for all the comments about Muni's performance - he is as bad as he ever was. Luther Adler plays his friend. Adler was the original "Golden Boy" in Clifford Odets Broadway play (opposite Frances Farmer) here he gives a surface performances. <br /><br />A completely self-indulgent project that is saved only by the performances of a few of the supporting players including Billy Dee Williams and Betsy Palmer. David Wayne was never good in any role, this one included.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c820dccd06307725e343902c805e5d96fd1e07fab807cb7eade3a6fa573afc0
+size 724

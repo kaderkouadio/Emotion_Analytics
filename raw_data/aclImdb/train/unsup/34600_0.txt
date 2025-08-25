@@ -1,1 +1,3 @@
-My pick for the worst movie ever made...complete garbage. I cannot even make one positive comment. This movie should be shown to prison inmates as punishment. A week in solitary confinement would be preferable to the torture one endures during the 88 minutes of this stinker. What the heck were Jason Alexander, Robert De Niro, Rene Russo, and Randy Quaid thinking? Are they so hard up for a movie role?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ab1231bd6863d201385e55b1ab326c733b72f1439484f20b33c12beed8b42d5
+size 403

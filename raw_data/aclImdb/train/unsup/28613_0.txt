@@ -1,1 +1,3 @@
-I've seen this movie many times and I love it more and more. I guess I'm just a sucker for long lost loves and for Richard Chamberlain. This was a well cast movie with beautiful scenery and it gave you more than the love story to think about. I think this movie reaches many people at different levels & leaves you realizing that everything in life isn't just black & white. I would like to have more movies like this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:097daf0536d5a67b10c2ebef41af2abfe31a745d823264a9e96c719ea56ba32f
+size 418

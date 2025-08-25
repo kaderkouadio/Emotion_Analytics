@@ -1,1 +1,3 @@
-This movie is like Chemotherapy; it sucks the life right out of your bone marrow. It wrecks you on a cellular level and there is nothing funny about it. Imagine watching Jerry Lewis run around a jungle set with a guy in a gorilla suit, screaming and making cross-eyed faces. Now, replace Jerry Lewis with a Jerry Lewis impersonator; who is, if you can believe it, more annoying than Lewis. Bela has about 15-min of screen time, and he is entirely wooden. The Dean Martin impersontar looks and sounds nothing like Dean Martin. The most captivating performance is from a chimpanze. Honest. You don't have to do this, people. Some doors are best left unopened. ---|--- Reviews by Flak Magnet
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d4f6fbd7793c49226d288ccdec82b0eab660b3822be047fd2a1ca8c80d8dbd
+size 688

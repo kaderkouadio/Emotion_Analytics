@@ -1,1 +1,3 @@
-Starring the ever great Jason Robards as Howard Hughes, this little gem was one of Jonathon Demme's first films, and one of his best. Quirky, lovely and gentle, it is what I HOPE was what really happened, but again- who knows? Mary Steenburgen is also perfect in what must have been one of her first films. A delightful surprise. .
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da569e8cfbe6c8919a62fcbd51c47f6a2cca4dc7750c838bf9c27f5e2bb7a1f
+size 331

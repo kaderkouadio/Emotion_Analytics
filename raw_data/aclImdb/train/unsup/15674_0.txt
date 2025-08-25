@@ -1,1 +1,3 @@
-From half the team that gave us classics of the hippie and drug era, comes this suprisingly good comedy. Some sentiment, some romance, but al in all a lot of laughs. Cheech Marin puts in a solid performance as Rudy who gets accidentally deported. Daniel Stern is frighteningly good as the sleezy con-man who works just south of the border, and hires Rudy to do whatever little tasks he could come up with (and pocketing most of the earnings, and a share of Rudy's). Kamala Lopez is simply gorgeous as the El Salvadorian who becomes the romantic part of Rudy's stay in Mexico.<br /><br />And what can be said about the Red Headed Girl in a Green Dress that you can't see in the opening scene.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3940730bdc4dce7152d89fd9ad9ca2750959b32b64756a4846cfba0da1ed4eaa
+size 691

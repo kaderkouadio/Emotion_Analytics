@@ -1,1 +1,3 @@
-Yes, I agree with the average 4/10 rating. This is another marginally watchable, below average mid-60s fare, worth your time only if you have absolutely nothing else to do with your time. Not horrible, but nothing remarkable either. Little in the way of character development, no memorable dialogue, and a plodding, straightforward plot (if you can call it that).<br /><br />If you make it all the way through, follow the crew's example, and break out the brandy; after that, you deserve one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1854eedf8612cd29b3fcfbc082d4dde0c685bf72a1dd9ddb6fbfa8e43bd5da06
+size 492

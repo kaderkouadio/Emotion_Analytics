@@ -1,1 +1,3 @@
-Perhaps I was not on the same wavelength as the director, but I thought it was painfully torpid with little substance. I can definitely appreciate a movie that has a different pace; I was simply not mesmerized by the same elements everyone else seemed to be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4da79e0bf97690a73bab253b193297acb51e81b3c6da70a2f2914a7e2ee66893
+size 258

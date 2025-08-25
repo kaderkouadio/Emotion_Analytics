@@ -1,1 +1,3 @@
-Slow, deliberate, and a perfect example of great editing, every movement seems to have meaning. I never realized Rampling was such a powerful dramatic actor. The ending is just that-- and ending. There's no dramatic closure, the viewer is unsure of the ending, but that is as it should be. Saw this the same weekend as Moulin Rouge, which underscored what a pleasure it is to see a thoughtful character study on screen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b511a58b8f33060090991a5e9dab13c65b5288306d199c760bbed6eb445a865
+size 419

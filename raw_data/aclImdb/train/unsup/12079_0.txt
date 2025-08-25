@@ -1,1 +1,3 @@
-A wonderful movie of the horse and it special relationship with the human being. A complex plot interwoven, beautifully, with the simple story of winning a horse race. We shoud all learn from such a movie that to preserve and protect the wild horse, and all wild animals returns such rewards and meaning to us human beings. The movie is beautifully acted and a wonderful treat is to see Omar Sharif in a supporting role. It is, also, a wholesome story of honest and self-less love and concern for each other. This is a great movie for all ages. It is a must movie for lovers of horses. Viggo Mortensen must be one of the more interesting and least known great actor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ae94962a62502132afca1374a42dcba2d77282698c23a6233cd2ce5c80e6f5
+size 666

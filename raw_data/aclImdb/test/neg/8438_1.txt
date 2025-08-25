@@ -1,1 +1,3 @@
-The sound is terrible, the picture is worse than worse, the acting is awful, the female leading actress is chubby, and the story is... wait a minute... There is no story...! The plot is really bad and the title of the movie is misleading. If you expect to to see Piranhas, you might be disappointed. This movie has nothing to do with the Piranha movies from 1978 and 1981. Actually, I can only think of one scene involving Piranhas.<br /><br />The only thing that I liked about this movie, besides the fact that it runs for only about 85 minutes, is the song at the end. It's written and sung by Jim Stein and it's called "Love all things that love the sun".<br /><br />I don't recommend this movie. It is so bad it's not even funny to watch. I fell asleep after the first 20 minutes and I am the kind of person who watches anything.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96071d4f3aae2461db13c9e3c4a2b3cf5a31404e09b124ffd93433cb80e35a19
+size 833

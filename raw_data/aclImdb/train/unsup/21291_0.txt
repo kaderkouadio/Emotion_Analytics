@@ -1,1 +1,3 @@
-This got to be on of the worst movies ever. The plot was terrible, the action scenes boring and the whole thing totally crap. Good action films makes you forget that some things are unrealistic, like having 100 bullets in a gun. This movie is not like that at all. Here it just seems silly. And the ending is crap as well. <br /><br />The only good thing is Lance Hendriksen who can actually act, otherwise do not waste your time on this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ac67eab61d3acf43955cc9ddb7787850c859b56b72c855715bfbe87f7c0844f
+size 444

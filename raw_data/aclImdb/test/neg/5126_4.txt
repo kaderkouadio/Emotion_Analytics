@@ -1,1 +1,3 @@
-When I first watched this movie, in the 80s, I loved it. I was totally fascinated by the music, the dancing... everything. However, I recently watched the whole thing again on DVD, and I was completely struck by how extremely stupid the storyline was - how it contained holes, inconsistencies and - frankly - a whole lot of crap - and how horrid the dancing was. I mean, in a realistic world, she would NEVER have gotten into that ballet repertory... The whole thing was quite pathetic. The character developments also lacked in depth. I think that this was, very much, a product of the 80s: the film does not hold up today!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eea84782c80ffbbf4e8061c4e160f946443f29ca8722d790f4ba127fa32804fd
+size 624

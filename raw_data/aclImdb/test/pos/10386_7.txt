@@ -1,1 +1,3 @@
-First, the positives: an excellent job at depicting urban landscapes to suit the mood of the film. Some of the shots could be paintings by De Chirico. Sophie Marceau, beautiful.<br /><br />The negatives: the stories are hard to believe. Unreal, uni-dimensional characters preen and posture 100% of the time, as if they were in some kind of catwalk. This is neither the Antonioni of his earlier, much better movies nor the Wenders we've all come to know and appreciate. Malkovich is excess baggage in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b32832710d91b94427b1200565a99a9faf1544b145d2784e9bc8de30704ee445
+size 511

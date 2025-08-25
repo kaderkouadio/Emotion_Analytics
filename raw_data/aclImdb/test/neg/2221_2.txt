@@ -1,1 +1,3 @@
-Mildly entertaining and self consciously cheezy -- but what else could it possibly be? Cushing in one of his poorest roles, and he often sounds dubbed. McClure is just too Cheezy to be believed, but who can blame him in the wasteland of this movie whose plot about ancient dinosaur birds ruling humans has 19th Century throwback "period charm," but not enough and unfortunately the script carries the racist connotations of the literary genre into films. Nice effort from the actors, but a poorly conceived production.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daa9b56f2d73c0c60d4c8618236be9a8bc94929d24395ed77acf4828de6053d7
+size 518

@@ -1,1 +1,3 @@
-This film is so unbelievable; - the whole premise is bunkum; the fact that a serial killer (vampire or otherwise) could fly around untraced and kill as many people as the film implies is laughable. The vampire himself would not look out of place in a Bela Lugosi film. Most of the acting is so wooden the actors should be treated for dry rot. I await the day when someone makes a decent film from a Steven King novel (with the exception, possibly, of Stand by Me). This film suffers from what most Stephen King films do - lack of money used for the "special" effects, poor actors, appalling characterisation and dialogue. This film is cheap, tacky and fails in everything it tries to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5457f439b26bc8bd78433cf3afbad721c1f6b5a7146ceaa893cd165a81ee3e56
+size 687

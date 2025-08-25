@@ -1,1 +1,3 @@
-The story deals about Jet Li who has to fight against his old<br /><br />friends.But there is one problem, the friends are superfighters. The film is filled with blood, super action and the best stunts forever. And Lau Ching-Wan is a great Co-actor. Of course the movie has the typical HK-Fun.But I love it! In Germany "Black Mask" is uncut.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00f48c81e8601d238d3544bcc5c669846305e9d47c4950b088de22793d8623bb
+size 341

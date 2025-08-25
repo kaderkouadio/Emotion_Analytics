@@ -1,1 +1,3 @@
-Well, there must be a lot of pretentious people out there and several of them recommended this film to us. We simply couldn't fathom it. I am happy to accept that it is very hard to film in those frozen climbs and that this film might be deeply meaningful to Inuit people. Here in the UK, it was a hollow experience and we were unable to stick the 3 hours plus. Thank goodness we had waited for its TV viewing so we could fast forward the video.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3430a531e2230f768270326df5220878b63c7e5ec6bc11fa8c0d1afc2201021
+size 445

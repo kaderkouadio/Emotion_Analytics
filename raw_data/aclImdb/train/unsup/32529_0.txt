@@ -1,1 +1,3 @@
-Is it just me, or does this seem like a bad takeoff of Indiana Jones to anyone else? Exploring jungles..... looking for treasure..... near-death experiences..... sound familiar to anyone else? I just thought this was a cheesy, idiotic movie. At first, I thought it might be interesting, but after the rather hard-to-follow introduction, it just kept going down in my view. I find Indiana Jones much more satisfactory movies. They're easy to understand, have action that is a bit more believable (I said a bit more, not totally!!), and better actors. But then I may be a bit biased as I was forced to view this movie, I didn't watch it by choice. Just my views!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae0ff2e4c771eb113d947035d8f5978c5f42ca728be6f58223f36afbfb4c596
+size 661

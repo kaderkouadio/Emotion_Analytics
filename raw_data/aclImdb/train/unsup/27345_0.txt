@@ -1,1 +1,3 @@
-Nowhere To Run is one of Van Damme's better films. It has a nice storyline and some good acting. The direction is tight and I lked the score also. Not bad, but will probably be overlooked because it's a Van Damme picture.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a30e09d81c04e47ce1eca241a5252d86f4188a1462cfc6ac11ce910eff5f498
+size 221

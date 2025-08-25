@@ -1,1 +1,3 @@
-This outstanding film has about the best acting that you'll ever see, and that alone makes this a must-see. The entire cast is excellent, but then again, it had to be in order to keep up with Dustin Hoffman and Meryl Streep. It didn't take me long to get hooked on this film, and aside from a courtroom scene that is merely good, this is top-notch entertainment. This is a rare film that actually deserved all the Oscar recognition that it received. See it for yourself and you will definitely not be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82156d61672a33930454ee33c0cdee4d83436a81105b66fc28fdb92720aa0ad9
+size 514

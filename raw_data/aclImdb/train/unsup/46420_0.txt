@@ -1,1 +1,3 @@
-I know that it takes a lot of people and a lot of work to make a film, but this film is absolutely horrendous. Only thing good is the costumes. This is the only film to date where I have actually walked out of the theatre in the middle of it.<br /><br />Bottom line...big pile o' pooey. PLEASE don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:902faaee38add6bf048d9570b4418807f0b24295b56371b45a530542d9fb787e
+size 316

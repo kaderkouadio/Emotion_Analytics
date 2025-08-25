@@ -1,1 +1,3 @@
-1st watched 6/21/2001 - 2 out of 10(Dir-Emmanuel Itier): Pretty much worthless supposed thriller that spends more time drawing us into sexual encounters with and without the star 'Amber Smith.' It tries to wrap a story around the sex scenes but as usual with these types of movies it is not done very well. I was so bored with this movie that I actually fast-forwarded thru the ending to get it over with. The video version I watched was called 'Tell Me No Lies.'
+version https://git-lfs.github.com/spec/v1
+oid sha256:b01d6ae61564661aa7dd0a6c78e76af640c0b94a3ccbb16d9e792d3b3cef6a83
+size 463

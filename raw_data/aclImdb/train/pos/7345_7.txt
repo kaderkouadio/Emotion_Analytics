@@ -1,1 +1,3 @@
-Picked up the movie at the flea market for 4 bucks, sure did get my moneys worth!. Could care-less about the hot babes but the animation just blew me away after a steady diet of Simpsons (Sorry Mr. Groening). The best part, facial expressions. Recommend multiple viewings with some cool tunes, good friends and a couple of cold ones!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a44f5572614d2c2bcb58a37c029d1e26b254ebccf41c22bd03d11b0707adca7
+size 333

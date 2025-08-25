@@ -1,1 +1,3 @@
-A collection of Deleted scenes and alternative takes, edited together and with added voice-over to make it appear to take place after the events of the first. Pretty cool idea, but deleted scenes are left on the cutting room floor for a reason and this is further proof. As it's just not as funny as "Anchorman", and really let's face it THAT film wasn't exactly comedy gold either, so you get a 'movie' worse than one that was moderately funny. In my eyes that STILL puts it one or two notches above "Kicking and Screaming", or "Bewitched". Chross your fingers that "The Wedding Crashers" is a return to old school form (no pun intended) <br /><br />My Grade: D
+version https://git-lfs.github.com/spec/v1
+oid sha256:37c87f0e2d89e0029bee66385887b58ce4eb78e37de2291a3ff6ac2942648915
+size 662

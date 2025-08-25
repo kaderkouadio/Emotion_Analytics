@@ -1,1 +1,3 @@
-anyone who has a heart or a mind or a stomach won't enjoy these at all. The characters are small animals with the consistency of butter and they seem to just get laughs out of blood and gore. Some episodes are total junk, physically impossible, and utterly stupid. I am sorry to say some of my friends liked this, and as a result I just avoid them to stop the flow of bile coming to my mouth. If you want to watch something funny, you have Blackadder, Monty Python, the simpsons, blazing saddles, young Frankenstein, and fawlty towers. In any case you have a wide variety of movies and shows where you might even have to think to get the jokes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0f07494f0f9a07dc1205788b4bed239552be87e7814e14751bef0b3c0feaec
+size 644

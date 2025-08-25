@@ -1,1 +1,3 @@
-Saw this at TIFF 2005, my buddy and I went into this movie with no expectations and it ended up being a favorite (top 3 for me) of the film-fest. Unlike most at the fest, the pacing was perfect and each scene was necessary, it's a rare movie today that has such tight editing. The mystery and eros has a slow-burning build....<br /><br />This was the only film I attended at the fest that left the audience hushed during the credits as well. I wouldn't call it 'eerie', maybe 'otherworldly'? Reminded me a little of polanski's ninth gate somewhat (and that's a good thing), but I doubt that anyone else would make that comparison :) I've been thinking about this movie for five months, figured it would be a shoe-in on the art-house circuit, but haven't heard much yet, this movie deserves to be seen!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeeacb567cf0317960c0210e51c15b296d9dc0721e734df312d669734033b9b9
+size 801

@@ -1,1 +1,3 @@
-This is possibly the worst movie I have ever seen. Can somebody please explain the plot of this movie to me? Yes, I know the bus ran out of gas in the middle of the desert, after the driver never noticed that his compass wasn't functioning, but what then? And how did it end? Maybe I'm to stupid to understand this movie, but to me it was an absolute waste of time.<br /><br />My recommendation? Do not bother, there are far better movies to be seen. This movie ranks with my other all time low-low's (Going overboard - Adam Sandler and Fire on the Amazon - Sandra Bullock)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f915c8c7536a35f2904bd566b85f2ae3e8cfc1ce4fd9ba5ab7bd1a8699737c
+size 573

@@ -1,1 +1,3 @@
-I chose to watch this film because I am a Stephen Nichols fan. Unfortunately, I am unhappy with Mr. Nichols' choice to do this movie. The film was slow, badly acted, and included some very graphic sex scenes of Mr. Nichols' character with a very young woman. Watch at your own peril!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dde647a5a64abde8eddd4468024465825c1dfe1224210da17c7c249a9beb111
+size 283

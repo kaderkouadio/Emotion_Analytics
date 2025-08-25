@@ -1,1 +1,3 @@
-Certainly one of the dozen or so worst movies ever released in any form, featuring a bizarrely abominable performance by Rain Joan of Arc Phoenix (River's sister, inevitably), as Bonanza Jellybean plus inconceivably awful voiceover narration by Tom Robbins, the author of the novel, which had/retains its peculiar sweet/loopy charms.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d7cc7435d7a1c24c93a83b655f84c5a35d2e4d5b30cc6bd80fcc6cb7aa9f1e
+size 333

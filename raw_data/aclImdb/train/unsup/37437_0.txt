@@ -1,1 +1,3 @@
-This was an attempt to return to a genre that officially died in the late 90s - The slasher. Introduce teenage characters that no one cares about in any facet, make them doing "bad" things and getting killed for doing it. I thought about clicking the spoiler button, because that pretty much sums up the movie.<br /><br />While this probably would have made a decent video game or short story, it's definitely didn't make the trip from screenplay to screen without introducing every slasher cliché imaginable. It's not worth your money for the DVD, nor was it really worth the rental fees. If you've watched any of the retro slashers, skip this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bef3f0f1e34582bd77de59bc01c1394d2464b17039e89cc5113701d1e27b436
+size 650

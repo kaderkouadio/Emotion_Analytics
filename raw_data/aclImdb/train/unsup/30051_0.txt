@@ -1,1 +1,3 @@
-This is a great adaptation. It is well cast and all the performances are excellent. I particularly liked the performances of David Morrissey as Bradley Hellstone and Stephen Mackintosh as John Rokesmith.<br /><br />The script remains fairly faithful to the book, and the costumes and scenery give a very convincing Victorian look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1193967479c9d7a015e5e6473272d67dcf4b9e16ed19cc788b32ef5e7f3d28
+size 330

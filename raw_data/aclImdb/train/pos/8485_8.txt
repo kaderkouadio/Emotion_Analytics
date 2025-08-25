@@ -1,1 +1,3 @@
-Gung Ho tries to express many ideas and entertain us with a wiseguy comedy at the same time. The result is uneven, but generally entertaining. Keaton balances all three aspects of his lead character quite well. Wantabedde is even better. One warning: George Wendt is very poor in his supporting role. Otherwise, this is quite enjoyable time capsule.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08fd3a5c73dc7ed6e6ed6ac32687714fc49ff37fbc403423ccf11fb34ee5d70
+size 349

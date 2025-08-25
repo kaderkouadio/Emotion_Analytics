@@ -1,1 +1,3 @@
-Its about a totalitarian society where people only have one chance at having a kid. They have this futuristic super max, with these ingestible detectors, and a computer mainframe warden. This film is great, watch for the scene with the d day computer virus, it is a classic. The character development, and acting is decent. Worth renting, I love this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e48295a9695315e5ebd4229de0515586e30e34e9945eec5e0772013d1ebb204a
+size 356

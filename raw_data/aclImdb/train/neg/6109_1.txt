@@ -1,1 +1,3 @@
-I wanted to vote zero or lower. I loved the commentary. It IS the worst movie ever made and 'unendurable' is the perfect word for it, unless there is something worse that Roget never thought of. I am also at a loss to think of anything negative enough to accurately describe Bo Derek. The best that could be said of her is, she's consistent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e89f770d4c9c38819019829af32dceaf64497c5979dd20b3c4720fd39ceb9e82
+size 341

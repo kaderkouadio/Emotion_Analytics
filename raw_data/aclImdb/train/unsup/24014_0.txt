@@ -1,1 +1,3 @@
-Very entertaining. It's clever, lots of good personalities on camera, the editing is witty. <br /><br />As a Democrat, a bitter pill to swallow.<br /><br />While I appreciated the focus on campaign strategy, it was impossible for me to sit through this without thinking about the murkier questions surrounding this event. I left feeling that the filmmakers had to turn a blind eye to those questions in order to get the story they were after. I suspect it would be a deeper film if they had explored the chaos created by the surprises of the campaign.<br /><br />line 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e0f2c3cd6ca452d1f3e573db42caa6dd55b767918db75424b0d385cccd2a4a
+size 570

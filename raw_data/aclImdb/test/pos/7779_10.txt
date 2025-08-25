@@ -1,1 +1,3 @@
-One of my favorite movies of all time. Beautifully done, well written and well acted. It portrayed 20 something blacks in a way I don't think has yet been duplicated, and the dialog? Hmmmm, so stimulating. Makes me want to find love like that........
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba2e1ca5155ad38b569ed3a756dc9cc0de121d92026c57f3988e0c4ba7b56a6
+size 250

@@ -1,1 +1,3 @@
-The movie never becomes intolerable to watch. And to tell it straight, it has nothing to show either, except maybe part-sexy Alicia Silverstone in a nerdy non-sexy character in revealing quite-sexy dresses. The story is very easy to follow or there's nothing to follow -- you can see in either way. There is no suspense, little action, unimpressive dialogs, unsatisfactory sensuality, same boring locations and very bland acting. Kevin Dillon is totally worthless. Silverstone... well, I didn't concentrate too much on her acting, I confess. Yet as I said earlier, if one has nothing to do except watching a movie, this won't look so bad. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdec9be74e229c01e44a3c5f60421d6404ac816d55de8d3aa31528fa1c2ae12c
+size 643

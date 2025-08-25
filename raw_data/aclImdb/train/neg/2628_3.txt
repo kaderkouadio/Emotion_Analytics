@@ -1,1 +1,3 @@
-The director Sidney J. Furie has created in Hollow Point a post-modern absurdist masterpiece that challenges and constantly surprises the audience. <br /><br />Sidney J. Furie dares to ask the question of what happens to the tired conventional traditionalist paradigms of 'plot' and 'characterisation' when you remove the crutches of 'motivation' and 'reason'. <br /><br />The result leads me to say that my opinion of him could not possibly get any higher.<br /><br />One and a half stars.<br /><br />P.S. Nothing in this movie makes any sense, the law enforcement agents are flat out unlikeable and the organised criminals are full on insane.
+version https://git-lfs.github.com/spec/v1
+oid sha256:592d48ea48f7d1ffb73fae9ce1cf070421cc2a71420bbe8f1527e1eb9094de76
+size 644

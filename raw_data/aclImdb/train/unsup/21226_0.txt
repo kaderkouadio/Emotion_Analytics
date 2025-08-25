@@ -1,1 +1,3 @@
-A curiosity primarily for the array of character actors (Walter Brennan, Jane Darwell, Alice Brady, Jesse Ralph). The usual backstage clichés: rehearsal begins with full costumes, sets and orchestra. The backstage area is spacious and well-lighted. And the show goes on in spite of the temperamental leading lady. One of the rare film opportunities to see Lawrence Tibbett. He sings extensive operatic excerpts, and it's not as stagy as one might expect for early filmed opera. This was filmed during the peak period of his career. Sadly, as his voice declined, he faded into alcohol abuse, arrests, and a life-ending fall.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed41f17b51f75ce0bf16e361ddb7bc4b64af018605381b10b19270df712a7aa
+size 624

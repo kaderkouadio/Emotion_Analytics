@@ -1,1 +1,3 @@
-This is a big step down after the surprisingly enjoyable original. This sequel isn't nearly as fun as part one, and it instead spends too much time on plot development. Tim Thomerson is still the best thing about this series, but his wisecracking is toned down in this entry. The performances are all adequate, but this time the script lets us down. The action is merely routine and the plot is only mildly interesting, so I need lots of silly laughs in order to stay entertained during a "Trancers" movie. Unfortunately, the laughs are few and far between, and so, this film is watchable at best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3298afc20d807ef3f8baee7fa6ae0eea495bc175badd2c3f3f00ab31cfe7ffd4
+size 597

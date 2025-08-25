@@ -1,1 +1,3 @@
-This has got to be one of the worst movies i have ever seen.<br /><br />Thank heavens there was Scary Movie to boost my confidence in spoofs, this movie is so dire it goes beyond belief.<br /><br />Every single one-liner and visual gag falls flat on it's feet, there is absolutely nothing in this movie to make you laugh - avoid at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:871b9d1f823d062d88e9f43869962d4c7fea5470684bb3f492ee0f32ad8870ae
+size 342

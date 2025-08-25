@@ -1,1 +1,3 @@
-The intricate plot, great visuals, the world's greatest car chase ever make this movie a lot of fun to watch. The beautiful Charlize Theron adds to the enjoyment. The sound score is outstanding. Add to all this an energetic cast that also seems to be having a lot of fun making the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b169c37a259bb12d9265083a1c44fbcf2ed86910e80f2a17ad46747a569fa7bd
+size 288

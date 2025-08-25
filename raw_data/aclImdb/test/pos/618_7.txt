@@ -1,1 +1,3 @@
-First half of the movie scared the hell out of me and normally I'm not easy to scare, but second half of this thriller didn't work quite a well, but still very scary! A good thriller, than use simple ways to make good horror. Lowbudget, set in Russia, unknown cast, and made in Europe. but still great fun, and yes there is a few laughs throw in for good matters as well!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fefc6774e9b2eef5c43b918f5d77bda743a65f9efac6825363a5d4a77602718
+size 371

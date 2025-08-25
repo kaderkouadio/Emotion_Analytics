@@ -1,1 +1,3 @@
-Wretchedly directed, dully written, with no characters, just situations, KUFFS is not improved by the addition of grotesquely inappropriate Three Stooges-like comedy (complete with sound effects) and stupidly flamboyant directorial touches. Avoid as though it were deadly poison.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f6ab65d8d243fedd793ad70ad6bb1e4f547e038b75008173a8b45f8b3cb6613
+size 279

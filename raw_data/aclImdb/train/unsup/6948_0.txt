@@ -1,1 +1,3 @@
-We could only stick this one out for about 45 mins. Travolta should buy the rights and burn it. The owner of the movie rental store said she couldn't watch it either. The characters were all right off the Jerry Springer show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80da1fc75e8b9f9df7f2b4138c6d78865ed8d6dbfeb4b6278074d86369d03c8f
+size 225

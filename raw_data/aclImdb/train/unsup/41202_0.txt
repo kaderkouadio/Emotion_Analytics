@@ -1,1 +1,3 @@
-Having the best film title around is about all G has going for it. Richard T. Jones, a hip hop record producer, and Blair Underwood fight over the laughably emotive (and, frankly, not pretty) Chenoa Maxwell. Considering the genre (pseudo-gangsta love drama), I can forgive a lot. My biggest complaint is not that the editing is slipshod, nor that Maxwell is truly awful, nor that Underwood (quite possibly the most attractive man on earth) looks like R Kelly here (and that's not good). It's supposed to be a movie about hip hop - with practically NO HIP HOP! Oh - one of the most memorable unmemorable quotes in cinema this year comes from G: "Happiness is God's orgasm."
+version https://git-lfs.github.com/spec/v1
+oid sha256:5933e144b87760c08f7c1c1c7037a8250b9e28bd2133cb2c0df7c503cb308462
+size 672

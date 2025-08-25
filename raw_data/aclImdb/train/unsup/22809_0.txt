@@ -1,1 +1,3 @@
-John Amos plays a luckless coach who bombs out at football, baseball, basketball--but during a trip to Africa he discovers a Tarzan-like athlete (Jan-Michael Vincent, looking like a Tiger Beat pin-up) and turns his attention to the track and field. Completely inane family comedy from the folks at Disney, who apparently had no faith in this basic premise, thereby shoehorning in a dire voodoo sub-plot (allowing for silly special effects, like over-sized props). Vincent does well, Amos tries hard, but Tim Conway (always an acquired taste) is both broad and boring in a gratuitous supporting role as a flunky. For '70's aficionados, there's also a cameo by Howard Cosell... *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:64f6db27dd0724ef4d80273a0a0af174e6827b9f943384b052f92b99272dff5b
+size 690

@@ -1,1 +1,3 @@
-This is a very dull film with poorly developed characters, subplots that go nowhere, and barely tolerable acting. It comes across as a poorly conceived rip-off of "2001."<br /><br />The only thing making it worthwhile are the sets and costumes and visual effects. But even that wasn't enough to keep me from nodding off. I would like to get the soundtrack, especially the music during the space flight sequence, for nights when I have trouble falling asleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8061dea6fadf7263d3c9bcd6c034e11ca65bb38210ee7e1788b4a72ec71a3a11
+size 458

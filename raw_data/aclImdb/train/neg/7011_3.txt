@@ -1,1 +1,3 @@
-Unless you understand wretched excess this movie won't really mean much to you. An attempt was made to interject a bit of humanity into a cold and bleak period consumed by alcohol and drugs -- it doesn't work.<br /><br />When Salma Hayak does her big disco number her voice is so obviously dubbed it is pathetic -- the producers could at least have gotten someone that sounded remotely like her.<br /><br />The documentary that has been playing on television lately is far superior and gives a much truer view of that period of our history.<br /><br />No one, with the exception of Mikey Myers, could be accused of acting; however, he does an incredible job.
+version https://git-lfs.github.com/spec/v1
+oid sha256:727c98c4d74e2544d4f03ecb3bbffaa6ca469d87d0c2915f2c71d1932e766c9d
+size 658

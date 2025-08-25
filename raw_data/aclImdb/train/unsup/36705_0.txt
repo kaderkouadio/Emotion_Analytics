@@ -1,1 +1,3 @@
-James Caan must be wondering why he agreed to the project... his eyes seem to mist over every time he has to exhibit a reaction to the laboured twists and turns of a preposterous plot. Jeanne Tripplehorn is wasted too as his daughter, merely being asked to establish the premise that (a) she loves Hugh Grant, and (b) she can't marry him because her father's a mobster. Grant saves the movie with his likeable performance, especially with his attempts at a mob accent. Sopranos this ain't.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e058f03a4a6f5dc80261aaeacf18f0d3380cbca08420ba5cbb5b788f9bea8463
+size 489

@@ -1,1 +1,3 @@
-Immediately after this movie was finished, I wanted to find out how I could get back the hour-and-a-half of my life that I wasted watching this stereotypical, unimaginative, poorly written, poorly directed mess. In addition it boasts one of the worst endings ever in the history of movies. Please don't waste a fraction of your life watching this film. Like me, you will not be able to get that time back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e91f5ff9238bdf56c60c50108d6a93bbaa97fff7e7db40a219666a7ad0cb316
+size 405

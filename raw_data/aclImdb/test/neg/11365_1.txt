@@ -1,1 +1,3 @@
-This movie is so over-the-top as to be a borderline comedy. Laws of physics are broken. Things explode for no good reason. Great movie to sit down with a six-pack and enjoy. Do not - I repeat DO NOT see this movie sober. You will die horrible death!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c794854d93a47f290c4365eaa2d22fde365c5bde8334ef2ae1851a06fd3ea8
+size 251

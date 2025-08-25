@@ -1,1 +1,3 @@
-This is one of Bruce Willis' finest films yet. He plays a tired old cop who is handed the menial task of driving Mos Def, a criminal, who has to testify in court. Little does he know, he winds up running into very much trouble. Although one might think that this movie cannot be suspenseful because it takes place within the radius of 16 blocks, many twists and turns occur which make it very interesting. <br /><br />Mos Def also delivers an outstanding performance through the use of his accent and his hilarious anecdotes throughout the movie. He adds a lot of depth to his character and to the movie as a whole. Thus, the audience is able to sympathize with him. Overall, this movie was excellent and I would highly recommend it to anyone who enjoys a great fast paced thriller.
+version https://git-lfs.github.com/spec/v1
+oid sha256:698441b50d0646264d81005d4a18f80cbc3e35f31d25b0e761555c28d67c0e0a
+size 782

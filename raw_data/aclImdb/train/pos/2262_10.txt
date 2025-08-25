@@ -1,1 +1,3 @@
-Although not one of Vonnegut's better known works, it is a definite "must-see". Interestingly thought out, I especially like how the director filmed the couple in love.
+version https://git-lfs.github.com/spec/v1
+oid sha256:443285f7dfc092c4e477bcef6a7700ecc922c5d4885cda2e2884e8508a008079
+size 168

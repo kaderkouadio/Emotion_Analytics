@@ -1,1 +1,3 @@
-A restless crowd and a cheesy double feature lead to two brutal killings at a drive-in! Detective Koch and O Leary assemble a mixed cast of suspects that would make even Charlie Chan cringe. Is it the deranged knife-thrower the foul-mouthed bigot the projectionist the janitor or the pathetic voyeur? Cold razor-sharp steel slices through warm flesh and hot blood squirts over the screen as patrons are splattered across the hoods of cars and even dismembered at the concession stand! Starring BRUCE KIMBALL ADAM LAWRENCE DOUGLAS GUDBYE and VERKINA FLOWER. Executive Producer ROCHELLE WEISBERG. Story By STU SEGALL Written By GEORGE 'BUCK.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fff3c97cc8c5ae4ffd63ffc6364a2e4698ddf961da1c050a02c84855fc07a28
+size 639

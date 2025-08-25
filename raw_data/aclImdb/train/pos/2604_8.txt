@@ -1,1 +1,3 @@
-"Amazing Grace" has a languid feel to it as it tells a contemporary story of various lives in an apartment building. The language spoken is Hebrew, but the drama could take place in any modern city. It observes family values, romantic relationships, and age group characteristics with equal aplomb. It does not judge the characters, only present them in a straight forward manner, as they strive to work out their individual problems in this modern world. The quality of acting is very good, and the observations made on the characters are astute and sharp. I appreciate this flowing film very much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c638ec0b463c13bcfdcdf2632a343df53a265c97d94173fcf0b6b489d0a37bf8
+size 599

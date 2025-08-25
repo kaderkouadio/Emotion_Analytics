@@ -1,1 +1,3 @@
-I saw this film at the Taos Film Festival last year, and was just overwhelmed by it. It's a rich, warm novel brought to the screen, beautifully acted, and well directed. More than anything, it reminded me of the films of David Lean, both in its ability to handle a complex story, and its knack for creating powerful scenes that affect you on several different levels. The best movie I've seen in years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d32bee0fbac456bdbc79f6703ef57f31c4711020e54acfcd56924e88aa8c7efd
+size 402

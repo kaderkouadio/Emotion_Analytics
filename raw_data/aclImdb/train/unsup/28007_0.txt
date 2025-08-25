@@ -1,1 +1,3 @@
-*** CONTAINS SPOILERS *** This movie was great. Absolutely marvellous, in fact. I don't think I have ever been so infuriated with a movie character before as I was with Wilbur. What an utter b**tard! He is funny and almost lovable, but sponges unaffected on his brother's indulgence to the point where his selfishness, as the ultimate irony, drives Harbour into committing suicide. That makes me angry. What makes me even more angry, is that up until the very end I actually liked Wilbur.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b2de576d5ef7862813f5a3b9f63d406bee1c0d97b4f740fbdb358a7bfe727d
+size 488

@@ -1,1 +1,3 @@
-Frankenström is pure crap! It might be funny for the makers of the film, but to others it is pure torture. I watched this with 5 of my friends and everyone hated it. Tedious "love" scene and unfunny dialogue doesn't really help.<br /><br />1 out of 10<br /><br />[ ½ star out of ***** ]
+version https://git-lfs.github.com/spec/v1
+oid sha256:668d8db033d3838643ee12ad65f16898575324b676a355604f8581a8ccd1e26e
+size 288

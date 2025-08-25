@@ -1,1 +1,3 @@
-Golden Boy is ecchi humor (bordering on hentai) in the guise of "educational moments." The main character, Kintaro, wanders around getting himself into the silliest situations involving women... It's just that he's shy on the surface but analyses everything until he can learn something from it. The most striking feature of the series are the circumstances surrounding his "education", which are outright embarrassing, yet funny at the same time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6def24e605e62fd2ae5c1ba42bbdfca6f98fae1ba6aa740a2089165654105a0b
+size 447

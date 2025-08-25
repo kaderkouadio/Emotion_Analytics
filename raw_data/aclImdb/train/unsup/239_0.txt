@@ -1,1 +1,3 @@
-This movie was a well filmed work of art based on a Japanese novel. It was a hit in the Korean Box Office. There were some funny moments, but not that many. I have to say, this movie reminded me of Madeleine. However, this Romance movie was quite unusual. It wasn't boring, and yet, there was no solid resolution. The story line was very interesting and original. The acting was okay, and the OST was great. If you are a fan of Korean Drama, you'll probably enjoy this little flick. Odd Film
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1a5c0dbd25594fce689115df4f5f6f6941753f1d51cacc2fca2b01f1acc3321
+size 491

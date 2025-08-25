@@ -1,1 +1,3 @@
-I saw this movie and it really is not great! The music is great, but the plot sucks! Save your money, and just buy the only thing thats good about the movie: THE SOUNDTRACK! P.S. Keep in mind I am A Rugrats fan!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cb47ae02ea89a9635b928a4ce911e416f73a81b61bdda4b253d96fe2ce1485b
+size 211

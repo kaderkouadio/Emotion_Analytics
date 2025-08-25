@@ -1,1 +1,3 @@
-I was very impressed by the quality of the dialogues in this movie: very fresh, very deep, very intelligent. The movie is based on a play (the title is "Happy") written also by the director of the movie and this theatrical origin is very obvious and... enjoyable. I really recommend this movie to anyone interested in topics like the emptiness and disorientation of the X-geneneration (Y-generation and so on), urban love stories, conflict of genders, and, above all, human feelings and reactions. Nice movie indeed. IKEA fans and other modernity-addicts should watch it as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f690b3762ec2a2881fdf6376177edd1bede582f5c8edb6f8080c15b5f1441ba
+size 579

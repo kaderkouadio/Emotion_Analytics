@@ -1,1 +1,3 @@
-I was dumbfounded at how bad this movie is. So bad it's good. My brother thinks this is the worst movie ever and watches it over and over again for the camp appeal. SEE THIS MOVIE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0948d53a945c708ac9a34a9fd8812aa8fde3c3a9a488f1248a9347faca96b3d
+size 180

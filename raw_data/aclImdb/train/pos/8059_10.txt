@@ -1,1 +1,3 @@
-I just saw this film on Turner Classic Movies last night and was blown away by Victor McLaglen's performance:In every sense of the word a "tour de force". The atmosphere of 1922 Dublin evoked through the cinematography and production design really foreshadowed techniques used in the best film noirs of the 40's and early 50's.Very nice attention to detail also;during Frankie McPhillip's (Wallace Ford's) wake, the mourners are all praying in Gaelic. Max Steiner's score is unforgettable. As in later films such as 1939's GWTW, he appropriated folk ballads to lend local color and a sense of place and time. John Ford: already a film giant in 1935!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8654121d658df5d454a702f84e27f4cd0c3916ce7b894f34609c06e083249d7e
+size 649

@@ -1,1 +1,3 @@
-Mud and Sand is one of Stan Laurel's spoofs of the popular movies at the time, this one being of Rudolph Valentino's Blood and Sand (hence Stan being Rhubarb Vaselino). While partly inconsistent on characterization (how did he defeat those bulls in the beginning is not explained), this was mostly funny from beginning to end with one of the best sequences being a dance he does with his then common-law wife, Mae Laurel. Another funny sequence concerns his reluctance with romancing a femme fatale, Filet de Sole, while his wife, Caramel, is waiting for him that shows some glimpses of his later innocent character with Oliver Hardy. Well worth seeing for anyone interested in seeing Mr. Laurel's early work before his fateful teaming that made him popular around the world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f73efe8100c3415533b455bbf07aed9e78a21d9ec08d9302e99b523a6df81b
+size 775

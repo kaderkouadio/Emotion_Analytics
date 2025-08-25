@@ -1,1 +1,3 @@
-Not to make myself out to be conceited, but I think of myself as a Film Connoisseur. I am also a fan of Louis Gosset Jr. Anyhow I believe this script does not do him any justice. As far as Amy Locane goes. The only movie i found her remotely good in was airheads. I would only recommend this film to anyone who has those Summer Repeat blues and there is nothing else on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26274d4881a95aa0c29a00cfea532bf945d8f6846eab02f2ebcc602070026ea2
+size 370

@@ -1,1 +1,3 @@
-This movie is not meant to be taken seriously. It is serious fun. The cast is delightful and the story fast-paced. It is light-hearted, inoffensive, and action packed. So what if it isn't believable? It isn't meant to be. Relax and enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:410e61ebbfd77775e79eac926c767adccffb3c41326450572b02618ce807afb7
+size 238

@@ -1,1 +1,3 @@
-This film proves that the "commercial" cinema ,or else,the Hollywood movies are in a serious crisis.There is absolutely no reason that this movie should have been produced apart from the fact that somebody expected success based on Shaquille's name.There is no worth referring to the plot :it is a bit more perplexed than a knot.What else?The screen is somewhat dim,O'Neal is a bad actor but Francis Capra is even worse.<br /><br />Rating: 1 / 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f52b16552fe18d5aa8f5865d2d2db9a3088abeb4fb8c8a09da024f1a89beae5
+size 447

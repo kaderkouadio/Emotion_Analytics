@@ -1,1 +1,3 @@
-This is simply one more extremely bad vampire flick that occupies space in the "Horror" section of video stores. The notion of "plot" barely even punctures this movie. But Dennis Miller is, well, Dennis Miller. It is only because of him that I rented the movie, and only because of his wry, sarcastic comments that I finished watching it. If you're a Dennis Miller fan, then perhaps you should see Bordello of Blood. But don't rent it for its horror value--there is none.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6b68e369627a6f75f64b939499136a34e707ea7c54e4f37e282cc332bb8bc2
+size 471

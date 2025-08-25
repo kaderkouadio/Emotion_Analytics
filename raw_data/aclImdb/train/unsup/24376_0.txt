@@ -1,1 +1,3 @@
-Mortal Thoughts stars Demi Moore and her husband at that time, Bruce Willis. I was instantly intrigued by this film. The storyline is fantastic and the casting is superb (although I would say that as Bruce Willis is my favourite actor!) I was impressed by the acting, particularly Harvey Keitel, who plays police detective John Woods. Willis is also very good as evil and abusive husband Jim. He is very convincing and instantly hateable. Although the film contains some disturbing scenes, it is exciting and tense throughout, with an impressive and unexpected twist at the end. Set in New Jersey, the directing is also good, with flashing images and slow motion effects. A creepy but enjoyable film from beginning to end, and well worth the watch!
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeb41e7cea5d971f2c51e54cd41b1c09d7ae8594bfb98f0a7b70c28444989060
+size 748

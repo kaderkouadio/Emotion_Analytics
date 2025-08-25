@@ -1,1 +1,3 @@
-I was excited to see the movie. Then I was disappointed. Much of the acting, especially the "known" stars, was quite cheesy. The writing seemed disjointed and the characters weren't funny. I especially was put off by the nastiness of some of the dialogue. The reference to defecate or not to defecate was gross. Occasional humor but too sporadic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db1f16d0554b72b00acbb270508a1b5be85945e42d7c6ea382948380ba18a2b
+size 346

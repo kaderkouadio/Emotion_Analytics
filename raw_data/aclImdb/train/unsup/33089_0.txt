@@ -1,1 +1,3 @@
-The movie isn't bad, so don't get me wrong. It is a well made, well-acted albeit a very generic, uninteresting film. Didn't care one bit about the characters or the story. Phillip Angelotti's performance is extremely one-note and dull, but he gets points for putting in a good effort. Kept me yawning through the first two thirds. If people set out to make an independent film and sink a lot of their own money into it, why not make something interesting and unique rather than trying to imitate the crap that already comes out of Hollywood. Pass on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5504a115a30bb2a7cc1d02c2bc9a0460db23618c646d495434a6151d1d7ec040
+size 559

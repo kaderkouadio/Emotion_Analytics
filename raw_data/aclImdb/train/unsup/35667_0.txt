@@ -1,1 +1,3 @@
-This is typical of a lot of modern pseudo-religious fiction, which unfortunately gets taken as gospel by a lot of ignorant people. Like the silly "rapture" books and Hal Lindsey's books about Revelations, it fans the flames of Christian fundamentalism.<br /><br />People have been claiming that the end of the world is at hand beginning immediately with the followers of Jesus. His surviving disciples expected his return in their lifetime, and so it goes. Every hundred years and especially every 1000 years, there has been a huge upsurge in these beliefs.<br /><br />If you can ignore the religious propaganda, the series is an OK mystery adventure story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:938fc5cb7ee502749971e6e60057731746050b6da99a12f6ac62b0b5824536ab
+size 657

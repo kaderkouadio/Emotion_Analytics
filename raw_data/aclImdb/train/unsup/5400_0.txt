@@ -1,1 +1,3 @@
-I saw this film in 1994 or 1995 on Canal+ and I can still remember that I was really impressed by this film. I almost really believed everything was really happening. My VHS-tape of this movie is broken now, but I would really, really appreciate it if anybody could tell me how I could get another copy. (DVD, VHS or any other format) So... can anybody help me?<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf35651a01fb9a2f0b6c0dbf2120a146275f20185ae991aa1635209edf72c84c
+size 373

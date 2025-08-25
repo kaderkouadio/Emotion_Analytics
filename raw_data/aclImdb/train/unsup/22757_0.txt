@@ -1,1 +1,3 @@
-I saw this movie at the 2001 Toronto Film Festival, and enjoyed it quite a bit. It went over well with the entire crowd, actually (and the theater was completely filled). It is very different from the action films North American folks are used to seeing. The references given to loads of other action films may go over the heads of non-film-festival-type folks, but I still think action movie fans would enjoy seeing it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d2c03b9174b5c6dea8b166e2939191ce5a6b8997a775c0172dac3897b10aed0
+size 420

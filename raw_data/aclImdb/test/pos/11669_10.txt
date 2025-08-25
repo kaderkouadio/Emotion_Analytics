@@ -1,1 +1,3 @@
-I'm astonished how a filmmaker notorious for his political left-wing fervor could make such a subtle, non-sanctimonious picture. If you're for capital punishment, you'll still be for it after seeing this. If you're against capital punishment, you'll still be against it. But whatever your stance is, this movie will, at the very least, make you reflect on why you feel the way you do. There's not one false note in the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a4c2da672ebcf8f5a4f712f3613fd85747e999c583431252849f4259ab88fa
+size 424

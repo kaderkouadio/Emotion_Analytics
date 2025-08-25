@@ -1,1 +1,3 @@
-The movie delat with a delicate topic. It could have been hokey or over-sentimentalatized, but was smooth, deft, well done. I was quite moved by it. Characters were all very real, believable. Who are the 'elephant men' today?
+version https://git-lfs.github.com/spec/v1
+oid sha256:61d6baabfd2fa6b0cab749c1d80776f3b42bccc0e18d945a93680788aee35381
+size 225

@@ -1,1 +1,3 @@
-A middle aged man, Robert Jordan, set in his ways, takes on a boy scout troop after his predecessor leaves under duress. Jordan takes on the pack mostly to learn what the boys like so he can revive his flagging radio program which is losing it's appeal to the younger set. He has a rough go at first with the boys, especially so with Mike, an 8 year old who forms an attachment for the older man which is anything but reciprocated. Do things work out for Jordan and the scouts? Check out this entertaining and amusing film from the old days.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d26fe0b3ab1e4dfa38a5550177b5426c9098412567ec16c96eb175b5bb80ca
+size 541

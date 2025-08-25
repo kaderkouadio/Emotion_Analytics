@@ -1,1 +1,3 @@
-StarCraft is a real-time strategy game (RTS) set in the early 26th century in the Koprulu Sector at the edge of our galaxy. The balance of power is a stake as three of the most powerful species in the Universe go head-to-head. The nomadic Terrans, brutal Zerg, and stalwart Protoss each seek the ultimate prize: survival of their species and domination of the galaxy. This game is truly a milestone in RTS development. The graphics are great, play control is intuitive, and the storyline is top notch. Blizzard Entertainment takes an interesting approach by telling the story from the perspective of each race in three separate acts. Thus, the events from Act I (Terrans) are then referred to from the other side in Act II (Zerg) and are acted upon. All in all, this game is worth its weight in gold!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f73d71e1111f52c58a1b44906c9af8160b47974f18359cbf53601f0f9e56ff4
+size 800

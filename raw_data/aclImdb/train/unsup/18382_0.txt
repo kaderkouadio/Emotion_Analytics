@@ -1,1 +1,3 @@
-This is a fantastic movie. Well done. During our screening at a particularly tough part for the title character, I heard people in the theater say "No, no..." The level of "buy in" and suspension of disbelief is high. <br /><br />Even the dissonance of Wizard and Lila's father was handled superbly. Robin Williams hit just the right note in his portrayal of Wizard. The actors playing Agust Rush/Evan Taylor and his mother and father were amazingly well cast. <br /><br />This is truly a symphony of a film. You'll enjoy it, your children will enjoy it, and you will walk out of the theater knowing that, for once, your ticket money was well spent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:229c3a4a27519fe0186f1d1a6c60098584e3db979f1ccd58fdb0da475805571e
+size 649

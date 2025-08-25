@@ -1,1 +1,3 @@
-What a let down! This started with an intriguing mystery and interesting characters. Admittedly it moved along at the speed of a snail, but I was nevertheless gripped and kept watching.<br /><br />David Morrissey is always good value and he Suranne Jones were good leads. The Muslim aspects were very interesting. We were tantalised with possible terrorist connections.<br /><br />But then Morrissey's character was killed off and all the air left the balloon. The last episode was dull, dull, dull. The whole thing turned out to be very small beer and the dénouement was unbelievably feeble.<br /><br />Five hours of my life for that? My advice: watch paint dry instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:421ab5944c0bd52448a4f76136fe05c1984dc7b7a978f0e5bcab6eb3156e960d
+size 672

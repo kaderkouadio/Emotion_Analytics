@@ -1,1 +1,3 @@
-This BBC TV miniseries version is, without a doubt, the best screen adaptation of the timeless novel. The storyline is as close to the book as could be expected, without major omissions. The language is carefully preserved, and when spoken by the excellent actors Sorcha Cusack and Michael Jayston, the book does come alive. What a tribute to Charlotte Bronte! Why, oh why, has it still not been released on video?!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5eb05c0a88736e1c2f25c83c8c9deb9f2bf7a34180b17ebcd183805e38f31a6
+size 415

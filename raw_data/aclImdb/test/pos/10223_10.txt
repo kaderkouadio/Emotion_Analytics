@@ -1,1 +1,3 @@
-This is Clive Barker's masterpiece in my opinion. The movie has a great storyline and some amazing make-up and effects. The one thing I would love to see happen is a sequel. The movie was set up for a sequel and with improved technology the second movie could be incredible. David Cronenberg must appear in a sequel as well as Craig Sheffer. But this particular movie was a great original, creative and entertaining idea and I could watch it over and over again. Cronenberg was perfect in this movie and Sheffer added an interesting spice to the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59cf73dec58a34261f7b920e78f72a38f549bda5edd6dd5207dee023d4ac5256
+size 551

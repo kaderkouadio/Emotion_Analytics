@@ -1,1 +1,3 @@
-An independent film, "American Desi" accurately captures the ABCD/FOB experience. The title is a play on the phrase "American Born Confused Desi", used by Indian immigrants as a disparaging term for first-generation Indian-American (Desi is Hindi for "someone from our land", meaning India).<br /><br />It's a good mix of cross-cultural issues, with an ensemble cast that also covers the diverse nature of India itself: characters include Hindus, Muslims and Sikhs.<br /><br />Engaging & fun, this film is full of Indian & western music, offering a good blend of cultures.<br /><br />Smartly produced, it's a well-written story that is reminiscent of American teen films from the 80's.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b20b68c15cf086648e21be0b6ec36dc625677eed21d2aba63008df8b9e05dd
+size 685

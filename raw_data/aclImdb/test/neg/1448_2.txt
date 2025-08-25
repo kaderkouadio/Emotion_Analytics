@@ -1,1 +1,3 @@
-The Power started off looking promising but soon became boring and tedious to watch. The plot is about an ancient Aztec doll that takes possession of those who own it. The idea is "decent enough" and this film would have been fairly entertaining had it been done better. However after the first ten minutes or so it soon becomes boring; we don't get any good death scenes and have to listen to loads of talking. At the end one of the possessed men meets his death by melting away in front of two girls, but it's not very interesting and definitely not gory.<br /><br />I wouldn't recommend The Power to any horror or slasher fan as there's little to be gained from it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4823d14f7a1d4c69ce87dbf284f5b7f85fc00436a0f37f5d3cffe7c4f5d67b0c
+size 668

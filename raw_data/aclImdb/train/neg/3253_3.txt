@@ -1,1 +1,3 @@
-I actually saw China O'Brien II before I ever saw the original China O'Brien. And I have to say that the first incarnation is actually worse. But: worse = funnier! And funnier = better. If you're a bad movie fan like I am, this is great material. If, however, you are looking for any sort of meaningful plot, acting ability, or movie-making skill, this is best avoided. The best part is how they filmed all the fighting sequences in stuttering fast-forward. Hilariously bad. See it for a laugh, see it for mindless entertainment, but whatever you do, see it for free on TV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:054050eccd446b5a60ffa526b919544b4f1e91486ad015a75b3c1eb30c0b46e2
+size 573

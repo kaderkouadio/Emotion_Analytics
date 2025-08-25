@@ -1,1 +1,3 @@
-2 trouble-making girls get sent off to boarding school in Greece. Just another typical 80's movie, with no substance or acting ability, just rebel kids getting into wacky situations. Not really as bad as many movies, but really boring. At least this one has some attractive girls (Tricia Leigh Fisher) to look at instead of just a bunch of nerds. And what is it about dumb 80s movies that they have these great theme songs? Weird.
+version https://git-lfs.github.com/spec/v1
+oid sha256:800bf78fe8a071c48b2f26465d8fcfe329a977d8a985a35954a52cfda19d9db8
+size 430

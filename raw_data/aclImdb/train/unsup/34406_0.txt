@@ -1,1 +1,3 @@
-Have you ever watched a movie for sixty seconds and realized it was be horrible and had no chance of getting better? This is that movie. I will admit it. I think most movies stink. But even most of these stinkers have good production values, reasonably good acting, but most fail on the fact that they have no story or have one you've seen a million times. This one has a bad story and bad acting and bad.... everything! It's so bad you even notice the bad wardrobe and make-up. Half the characters are washed up has-beens and the other half are from high school drama clubs. I can't believe anyone would attach his or her name to this thing. One more thing, kids won't like it either.<br /><br />It has to be seen to be believed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33ef7b7690b3f1c6ef40187769c503caf05c3596e5d99a30975da8b0dd476c8d
+size 730

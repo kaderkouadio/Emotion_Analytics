@@ -1,1 +1,3 @@
-This film is well cast, often silly and always funny. Lemmon and Matthau work their tag team magic to perfection. Brent Spiner is just a riot as the egotistical tyrant of a cruise director. From the first "hare krishna" to the last "you ought pay him fifty bucks for calling you two studs", I thought this was a totally entertaining fun comedy
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bdfbef9ec021ca4865db28ad90e1a896cfbc1b1a3594e2e35297c63c68f8b43
+size 343

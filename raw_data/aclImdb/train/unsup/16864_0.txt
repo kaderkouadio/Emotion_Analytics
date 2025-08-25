@@ -1,1 +1,3 @@
-One of the finer films ever made. Masterful direction and screenplay set against a dreary but romantic postwar Austria. Even if you dont dig film noir, you will enjoy this. Pop it in the VCR sometime after midnight and soak it in baby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d4b31c5c799985ec33969df2b88dfe9a688c04ca939e9c2693c4518b6566d8
+size 235

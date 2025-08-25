@@ -1,1 +1,3 @@
-Price is a con-man with a dream. He finds an orphaned girl, forges a pedigree for her, and instructs a governess to make a baroness out of her. While she grows up, Price puts the finishing touches on forgeries making the girl baroness of Arizona, heiress to an entire region. The girl worships her savior, who marries her for the swindle and then ... but I won't spoil the ending. You're not likely to find this one at the video store, but if you see it on the late-nite movie, pop up some popcorn and give it a look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af23f364f63592d0c52b87f3e19af2be0154660a9036297904642fa0aeeaddd4
+size 517

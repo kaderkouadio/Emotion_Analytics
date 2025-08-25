@@ -1,1 +1,3 @@
-This one is a little better than the first one. It still relies on a lot of its humor which basically keeps saying that the old Bond movies were not realistic. That wears thin after so many parodies. The girls were more interesting in this one.<br /><br />There is a tremendous amount of total gross out humor. Hopefully one day real comedy will come back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94caa9cbb440a210c266ea36e30777cf9f740004242be1d7c426fb26f0e2c4bc
+size 356

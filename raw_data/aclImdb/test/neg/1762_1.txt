@@ -1,1 +1,3 @@
-<br /><br />This movie really has nothing going for it. With the Reverend played by Phillip Seymour Hoffman complaining about his constipation and other toilet humor in a 2.5 hour movie, you know that they made no cuts at all and left the crap in, literally. It's a waste of good talent, and a total embarrassment. Dreadful!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b71922204be346c919ebda9a16cddc7320cc9bf93d43fcb473282b0f0151748e
+size 336

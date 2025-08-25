@@ -1,1 +1,3 @@
-With a cast like this, how can you go wrong? And the film is a delight from beginning to end. Although all the players were great, special kudos to William Powell, whose uncompromising morals cause him to lose almost everything he has. His is a gut-wrenching performance, and the scene in which he addresses the assembly with tears in his eyes to tell of his own "weakness"--wow. It's rare to see Powell in a role with so much complexity and it is a marvelous performance.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa0fcf55a1f14b7c737c3cb3e80cf29e5f7117208c4c0d66908fd83cdac6d7e
+size 484

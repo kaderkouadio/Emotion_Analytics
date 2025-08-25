@@ -1,1 +1,3 @@
-I was just amazed when I finished watching this Italian thriller. Inspired in quite a few American and European movies of this kind, it gets you intrigued from the start till the end. Strange events, mysterious characters, (including the main one who is an amnesic man who doesn´t know who he is or why someone is trying to kill him), the right rhythm and really thrilling moments make this movie one of the best Italian thrillers I´ve ever seen. Absolutely recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb8f9c255f71d5b421ea435ca99ad48ee3ec8e1e7f16fa6a72ed7f975857e0b1
+size 472

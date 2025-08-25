@@ -1,1 +1,3 @@
-In these days of ultra-fast processors and the Internet, coming up with a movie like "The Matrix" may seem merely the next step from coining the term 'cyberspace', but do you remember what computers were like in 1974? Right. To come up with the notion of virtual reality back then is truly an amazing feat of the imagination. Fassbinder's movie, of course, has none of the massive gunslinging and pyrotechnics, and a lot of 'artsy' elements instead, but the atmosphere it creates is intense and poses the question how we can know what is real in a dark and gripping manner, making this a chiller and a thriller for the mind. It also takes it up a notch on more recent VR stories: if you get out of one cyberspace, can you be sure you didn't just emerge into another level of virtual reality?
+version https://git-lfs.github.com/spec/v1
+oid sha256:71944bf8a32e819a2bc4b404d12e93f754f9f788f816aa36e2783676d4464b7f
+size 791

@@ -1,1 +1,3 @@
-The worst movie I have ever seen - simple as that. It went plunging past the "so bad it's funny" stage and descended into the deepest bowels of bad movies. The only time I have ever really felt that I wasted my money to watch a movie. I would rather have a Tang® colonic than be forced to watch this movie again. If you want Flintstones, stick with the cartoon!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8d2a2e1f103c84ad6f14ddf4fd54f5cfa0f767fc524933bba2d2c7763db0638
+size 362

@@ -1,1 +1,3 @@
-Watch on the Rhine is one of the best anti-nazi propaganda films made during World War Two. Paul Lukas was certainly deserving of his Oscar. Bette Davis shines brilliantly as the great actress and beauty she was. I would recommend this film to those interested in that era, and, of course, the fabulous films of the late, great, Ms. Bette Davis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2cd0cda4b237154913688d6ce77d91867a12ce816d09e485f8ae9c7b3f5a9a3
+size 345

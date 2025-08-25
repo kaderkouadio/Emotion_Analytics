@@ -1,1 +1,3 @@
-It has a real Hollywood psychological thriller feel to it, which will appeal to younger generations used to scary, shocker-flashback movies with surreal, supernatural twists.<br /><br />Though the main character's "dream" sequences were gripping and sometimes harrowing, they weren't too much for me to take (and I hate scary movies) nor were they at all graphic, violent or gory. Those "visions" were frightening in what they implied, and most only pieced together in my mind afterward.<br /><br />There is one heck of a twist at the end in the courtroom. Critics and reviewers are saying this movie meets its stated goals: educating while gripping the audience, not being preachy or propaganda, just telling it like it is. I agree.
+version https://git-lfs.github.com/spec/v1
+oid sha256:659f916039fb2bc4be78d5d1bd21482a2ea6bd0817d727d61c387514881e2d42
+size 733

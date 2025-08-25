@@ -1,1 +1,3 @@
-I like everything with Burt Lancaster and Burt in a western is that much more enjoyable to me. If you like "Revenge" movies like "The Crow" or Death Wish" then you'll probably like this. It also has a great supporting cast which is mainly the "bad guys" and when they make Burt mad he makes them wish they didn't. Good shoot em up flick!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e33afa90ec60761c724a452a6c8cbc9bcb5256bb11a75ebba162883f7d1640
+size 337

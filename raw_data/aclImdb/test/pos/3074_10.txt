@@ -1,1 +1,3 @@
-I don't think I have ever seen a better movie parody. Mel Brooks is insane. EVERY time I watch it I find something new and it makes it even more funny than the time before. Cary Elwes is perfect for the role of Robin Hood. It has a great and unexpected ending that leaves you cracking up. Every character is great from Little John and Will to Maid Marian and Broomhilde. I laughed the whole way through and will never get tired of it. Watch it!!<br /><br />If you liked Cary Elwes in this Movie, you must definitely see The Princess Bride.
+version https://git-lfs.github.com/spec/v1
+oid sha256:162c2e8b948fc52d925317428fdd02d55ed89f3d5b40dea262a0a7d6f951198f
+size 539

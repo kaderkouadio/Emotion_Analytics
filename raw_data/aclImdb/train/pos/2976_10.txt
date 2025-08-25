@@ -1,1 +1,3 @@
-For a comedy this has a decent and inventive plot and Trey Parker and Matt Stone's comic timing is perfect. There are dozens of funny moments to this fantastic movie. I especially like the multitude of colors and the way the clash in the sports arena scenes. Robert Stacks Unsolved Mysteries spoof is also very amusing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dcff59b160ace85828416ab79ba1c0c2d64d00440b01d7d2ffe725866e0156b
+size 319

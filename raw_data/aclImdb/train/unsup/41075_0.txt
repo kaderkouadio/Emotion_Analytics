@@ -1,1 +1,3 @@
-This has got to be one of the most boring movies ever. Even Peter Sellers' routines get embarrassingly tawdry and pitiful with the slow, difficult pace of this film. His faux-Indian accent is likewise embarrassing, somebody needs to put this film out of its misery. The jokes and funny stuff are not that funny, they may have been better suited for the early Lucy shows. This is "must miss" stuff for sure. It doesn't come anywhere close to Sellers' perfect work in other films of the period. The drunk waiter routine is likewise very filled with tedium after the 10th visit to this situation. I watched it on TCM and I can't believe this film was the prime-time attraction at 8PM on a Friday night.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b24d4dc4b0d4e6f07293a70c025c32671f9dcec80ec10f6dc6570dacdb2439d4
+size 699

@@ -1,1 +1,3 @@
-Possibly the worst movie I have ever seen. Pathetic in almost every way.<br /><br />I threw the DVD straight in the bin - I didn't even think it was fair to give it to the local thrift shop.<br /><br />The effects are beyond a joke. The dam control room looks like cardboard. The water looks way out of scale with the backgrounds - nothing works.<br /><br />Then there is the limp plot - about as much depth as a Scooby Doo cartoon.<br /><br />I couldn't wait for them all to drown.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b369d057ffd2963390242ef90ddb413c41f802ad686c0a0224bb9a01889eed8
+size 482

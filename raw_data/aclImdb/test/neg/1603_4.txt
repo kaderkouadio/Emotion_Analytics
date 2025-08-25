@@ -1,1 +1,3 @@
-Yeah, there's a "sleeper" watching Sleeper Cell and it was me. After reading comparisons to "24" (like on the cover of the DVD), I expected a fast-paced action romp. But nope... this series just putts along. In my groggy half-awake state I would think, "He's gonna... " and, poof, it would happen... "Guess that van is gonna roll off the... " and there she goes.<br /><br />And so on.<br /><br />And why would Darwyn, in extra-deep cover, pursue a babe? Could it be, perhaps, to provide a little T&A? Hey, that works for me, hence four stars rather than three.<br /><br />This show is no "24". I've watched "24". Sleeper Cell, you're no "24".
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6870f157e9e82bdbbd8c4c72af1839a139f523757193e2c934a26ade420038
+size 642

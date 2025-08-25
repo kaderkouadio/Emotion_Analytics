@@ -1,1 +1,3 @@
-this is the most pathetic movie i've ever seen. it don't come close to being funny. i can't understand y this movie was even made in the first place. it wasn't romantic or even slightly sexy, as i expected it to be. and there no story. really a waste of time. avoid at all cost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:191f2ad41b933ce17f48a3b3945b662d39abbb28eef925f4c0ec290359ca1d86
+size 278

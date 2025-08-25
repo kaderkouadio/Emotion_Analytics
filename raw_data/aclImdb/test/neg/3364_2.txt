@@ -1,1 +1,3 @@
-Jack Frost 2 is out of the question, I'm actually surprised people are allowed to make these sort of movies.<br /><br />As Sam and his wife take to the Tropicana for a relaxing Christmas, Jack returns to kill off the fun and take on a revenge with inbreeding...<br /><br />Don't take a swip at this film at all, most people say its a laugh with your mates, but frankily its a waste of time. If the people who made this film can get a job by doing what they do, they can at least take the time and effort to write up a better story, especially the cheesy character names.
+version https://git-lfs.github.com/spec/v1
+oid sha256:543c7e37e8993328b0247003a96cac6337bd1c297202c2089ee09a96418daedc
+size 570

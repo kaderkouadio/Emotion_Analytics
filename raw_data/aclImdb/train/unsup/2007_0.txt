@@ -1,1 +1,3 @@
-Besides being a great fan of Gary Cooper(Capt. Quincy Wyatt) "Love In The Afternoon",'57; my family wanted to visit Florida and the Castillo de San Marcos Fort in 1951 where a great scene in the film depicts a fight in this famous fort, now a National Monument. My family visited the fort the day after Gary Cooper was at this fort. As many have said, there is great under water photography, actual scenes of Florida during the 1950's which made it more realistic. Gary Cooper carried this entire film on his back and it is truly a great film classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e74fd814e311b6581688ec6f19c2bf37c954d9555210452186e661a64534301a
+size 551

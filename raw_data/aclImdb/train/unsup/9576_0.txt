@@ -1,1 +1,3 @@
-Amelie is such a loveable character! Flawed and insecure, yet good-hearted, she is charming. Audrey Tautou captures all the winning qualities of this character, and makes you really care about her interactions with the quirky people in her life. The camerawork is original and cheerful, the narrations are hilarious, and the message of the movie is wonderful: the best thing you can do with your life is to be a ray of light and goodness to those around you, just like Amelie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc7faffea9f5b2b535f3b5fa63dc568a6edf2741cccf737c774d40ce0939d8b
+size 476

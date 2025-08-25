@@ -1,1 +1,3 @@
-Adapting JG Ballard's novel might have seemed like a good idea to a director as provocative as David Cronenberg, but if any book screamed un-film-able, it's CRASH. It may be filthy, but it's also extremely boring, which is especially disheartening considering the fact that at least two of Cronenberg's earlier films --- THE BROOD and THE FLY --- are masterpieces of modern horror. CRASH features a typically dull James Spader getting entangled with a group of car crash fetishists and having sex with various people including Holly Hunter and a hobbling Roseanna Arquette. Ballard's book was devoid of narrative and Cronenberg makes the mistake of trying to instill one. He's not successful and unfortunately CRASH is crap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6d16a506bf533c09b095f75a7e35d4a88f033479d6a1685b3451c1889b5fc7
+size 724

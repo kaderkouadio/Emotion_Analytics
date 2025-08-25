@@ -1,1 +1,3 @@
-What an astounding, absorbing, tour de force! Happened upon "Dark City" on cable TV in the wee hours as I was about to go to sleep -- and right from the start, I was mesmerized by this amazingly brilliant, darkly thrilling, gothically mysterious excursion into the labyrinthine nature of existence. One of the most outstandingly creative, intelligent, well-crafted philosophical filmic SF journeys in decades! Even though I found the very ending to be a bit week (though passable) and tangentially inconsistent with the visceral flow and power of the film as a whole, I heartily recommend "Dark City" to all those who thrive on a challenge to the imagination and have the courage to question the darkness in a quest for the light.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aab8834ed3a55c7654d4fa7a27b01fc141d666adbfac7173dbb61dfa6037e6a8
+size 730

@@ -1,1 +1,3 @@
-Aside of the always popular 'back to life via toxic waste' introduction, this is a very unique and atmospheric film. The characters are all very representative, and rather well cast. Many scenes like the music box greeting over the telephone and the exploration of the catacombs stand out as very well done, but nothing can compare to the finale: Frantic flesh eating, echoing screams, amazing special effects, and no happy, Hollywood ending. Definitely a great movie, and a good representation of the style and ability of Jean Rollin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11d801b6adf6398ee900c27817fac0781442fa3dfc4a2246cf1d2df38bb58ede
+size 535

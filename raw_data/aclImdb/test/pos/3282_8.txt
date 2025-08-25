@@ -1,1 +1,3 @@
-ManBearPig is a pretty funny episode of South Park.It spoofs Al Gore and his speeches on Global warming, only replacing global warming with ManBearPig(a fictional monster who has parts of a man, a bear and a pig).He tells the boys about it in a school assembly and Stan feels sorry for him, so he and the boys decide to hang out with him.Gore eventually gets them trapped in a rock cave where he believes manbearpig to be and they are stuck for days.Meanwhile, Cartman finds treasure but wants to keep it all to himself.ManBearPig is a good spoof on Global Warming and overall a funny South Park episode.<br /><br />8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0a923a1e26dc91bc2b5536338f44d5a6a1b8f04ccad3953ab60aff583116883
+size 620

@@ -1,1 +1,3 @@
-Oh dear, what a horrid movie.<br /><br />The production was so cheap and nasty... Remember the shot from "the Natural", where the lightning hits the tree (leaving a glowing stump) that Roy Hobbs makes a bat from?? Well the producers of this movie used that same scene to prefix a scene where a tree branch slammed into the house.<br /><br />I wonder if they paid to use the footage from The Natural, or did they just hope that no-one who would watch the film would pick it up ?<br /><br />Then at the end where they were getting trying to get away in the truck. Such over-acting in the cabin. <br /><br />A really bad film, a really bad film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec2b0f1a872e061a5d68111ff73f27ed9e914438493fef4a66f69abc6f4608bd
+size 642

@@ -1,1 +1,3 @@
-I just did not enjoy this film. But then I loved Babe, a Pig in the City and have been spoiled by talking animal films that are exceptionally well done in every way. The animals were not likeable. They were all irritating especially Chris Rock's guinea pig, but then what could I expect, it's Chris Rock. I believe I smiled once or twice at a couple cute lines, but that's it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3463767132cefac46c79655caf21d0d9f1872f12c2aa2d4397ff67fcb5dab0b8
+size 376

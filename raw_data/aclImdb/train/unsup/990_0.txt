@@ -1,1 +1,3 @@
-I saw this movie and found it extremely puzzling. The child, Emil, is the least sympathetic character I have seen since, "The Good Son." Emil is cold, calculating and manipulates the other characters with no conscience whatsoever.<br /><br />I found the ending the most curious of all. Emil attempts to murder Pat, and because he cries over it, and confesses the Nazis kept him in a dark cell for what his father did, the family forgives all. This seems to be a recipe for disaster. The end credits roll, but does anyone believe a kid that tried to kill before won't try to do it again when he doesn't get his way? Nuts!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efb1cb3ceee9388938df5f4a86f5fbbb13ee80a18f495a2f8fd1258e5635328
+size 620

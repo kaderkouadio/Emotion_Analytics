@@ -1,1 +1,3 @@
-This is a bizzare look at Al's "life", back when he still a hyper 20-something. The (real) home videos of Al as a kid are great, and the commentary from his (real life) parents gives a nice glimpse of just how Weird Al wound up as screwed up as he is. This video is a must own for any devoted Al-coholic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bef7142bb4dbb336321843ec2e870ce03d38a267ff9fb771a9e0eddc2a12c1d8
+size 304

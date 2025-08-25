@@ -1,1 +1,3 @@
-I love Stephen Kings work and the book was great but I was very disappointed when I bought this movie on DVD. This was one of the worst B-movies I have ever seen. It feels like they had a tight schedule and only took one shot at every scene even if it turned out to be a bad one. And where did they find the actors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b8df00b0268f16ffb00d560cd738c4195bc5085756a32ab8e2467b5916ff08a
+size 315

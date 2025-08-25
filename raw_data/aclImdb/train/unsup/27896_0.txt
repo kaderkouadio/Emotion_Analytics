@@ -1,1 +1,3 @@
-Adam Sandler is a very funny guy. Billy Madison is very funny. Yet Happy Gilmore is more funny and Adam Sandler is at his best. His other movies were let's say not as funny. I.E. Waterboy, Big Daddy and Wedding Singer. I haven't seen Little Nicky yet, so that may be his best. If anyone has comments, say something.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6917c5f9c1bc390d2c1f06308ce2ad9ffed905dfdd62c6da8b6fc297afe50e
+size 315

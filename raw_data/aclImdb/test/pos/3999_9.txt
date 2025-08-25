@@ -1,1 +1,3 @@
-What a movie! I have always liked the Asian style of shooting, and this movie does not disappoint at all! Photography is breath-taking, ranging from amazing landscapes to whirls of colours. The main actor is really realistic in representing the painter (whose paintings are astonishing). The ending is also very well chosen, very poetic. The only remark is that they should have maybe shown a bit more deeply the connection between his inspiration and his abuse of alcohol and women. But altogether this is an excellent film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c016b3daed5305f299530f45abaf9a600cc29586ae83f7301d186c45367fd0e
+size 525

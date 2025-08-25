@@ -1,1 +1,3 @@
-Some of the recent comments are wholly unjust to this movie. The point of the film is to make fun of phony sentimentalism, sanctimonious posturing, and the general tendency of the media to put profit ahead of grace, dignity, and the simple truth. Carole Lombard is not only beautiful, but an exceedingly talented actress (in this and everything else she did). The writing cuts to the bone, exposing hypocrisy in all its forms. The film is as fresh today, and is as relevant to the culture, as it was when it was made. As for the notion that a movie made in 1937 offends someone's sense of what is politically correct in 2004, and therefore deserves criticism, give me a break.
+version https://git-lfs.github.com/spec/v1
+oid sha256:116eaf09d0bd925af8be3fd6cd44c6ed22f99fc958f33099c0fd2571b690707c
+size 676

@@ -1,1 +1,3 @@
-"Sometimes They Come Back...for More" is a fairly routine and forgettable horror film that offers literally nothing new.The first half is actually interesting,but after it the film goes quickly downhill.Two military officers(played by Clayton Rohner and Chase Masterson)set out to investigate a remote Antarctica based governmental outpost where a mysterious occurrence has killed crew members.The only survivors are a medical officer(Faith Ford)and a tech officer(Max Perlich).Before long,the bodies are discovered all over the place."Sometimes They Come Back...for More" has nothing to do with Stephen King's short story.The plot tries hard to surprise,but all its twists are pretty silly.There is only a little bit of suspense and gore,so I was disappointed.Give it a look,only if you want to see every horror film.4 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36bcd76ca290478643f5d6128c4de91d5d3ad655fff7b3d5470fa2cdbe91fe59
+size 830

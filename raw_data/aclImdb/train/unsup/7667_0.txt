@@ -1,1 +1,3 @@
-i was very surprised that this film was as good as it was. it had some amazing effects like a guy getting his leg cut off and charlie (who was a very very cool guy) gets shot in the belly with a shotgun a couple of times and you see a massive hole in him. the final sewer scenes were great as was the bit with charlie in the market place. very good film.<br /><br />7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:63209c8a8aec629d6ff26bf9c5c98a12a68e4a9eb4dc0c74932c976ec1bc86ac
+size 370

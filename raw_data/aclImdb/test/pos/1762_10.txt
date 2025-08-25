@@ -1,1 +1,3 @@
-A pity, nobody seems to know this little thriller-masterpiece. Where bigger budgeted movies fail, "Terminal Choice" delivers lots of thrills, shocks and bloody violence. A little seen gem, that deserves being searched for in your local video shop. That anonymous guy beneath is quite right, when he says, you'll never trust hospitals again... it IS that effective ! Good ending,too, not really a twist, but it doesn't end the way one thought it would. Yep, that's Ellen Barkin in an early role...
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea2cff2f37d35a636dafd40e00c17b5c7251ae95b7cc5b70376899451a977896
+size 496

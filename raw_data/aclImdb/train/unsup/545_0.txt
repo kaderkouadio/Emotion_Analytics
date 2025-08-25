@@ -1,1 +1,3 @@
-If you're patient enough to stick with this film, and you dig eerie nightmarish imagery, this film is quite a treat! Personally, I really miss the atmosphere of films such as this that relied solely on the characters, and things not so human, without the use of glitzy computerized graphics, something today, in my opinion that has been over glamorized and almost used as filler. As I mentioned if you're patient you'll appreciate this film, it builds and if you hang on and agree with my review thus far you'll most likely really appreciate this film. All in all check it out, it's not a masterpiece by any means, although it rather strikes my fancy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1610b2c7d59627a5867029b2251f44660214a6e8d5eb9e5b3eee7afd345992ce
+size 651

@@ -1,1 +1,3 @@
-This movie was plagued by overall mediocrity. While parts of it were funny, many jokes were so bad that you question the movie being called a comedy. In terms of plot, there are many insignificant twists to the point where you don't even concern yourself with following the story, only to see what happens at the end. Not worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03a6e641b70c2fd2a390990b94f03b128611672d11a16f6a5ed593a7e5dbe8f0
+size 337

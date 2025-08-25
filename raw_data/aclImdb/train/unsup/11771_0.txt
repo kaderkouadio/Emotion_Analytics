@@ -1,1 +1,3 @@
-At the U.S. Secret Operations Center a small group of doctors led by Kim Delaney are experimenting with a metallic skin on a frozen cadaver. This particular body is that of a secret agent that succumbed twenty years earlier to self injection of a blood sample from a...werewolf. Barry Bostwick plays the evil Colonel harboring the blueprints for this gruesome experiment. Thus the Government has given life to a wolf-like creature with metal skin. The only reason I watched this is Kim Delaney. I'd watch her do a puppet show! Also in the cast are: Brian Brophy, Carole Davis, Tim Duquette and Kane Hodder as the MetalBeast. Pretty bad movie except for the last twenty minutes or so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba101ebf3b3aa95e0d44e769148091fac47114f5c3cf8ced51e461efdd45e0b
+size 683

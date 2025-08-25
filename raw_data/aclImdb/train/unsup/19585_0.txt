@@ -1,1 +1,3 @@
-I thought this was really good. The comedy writing was really funny, but handled with intelligence, and the political satire was dead on. Didn't come off preachy, actually, it came off as fun. Got a few messages across in the process. Although I like stupid comedy as well, it was refreshing to laugh at some intelligent comments hidden in the comedy. Really well written, acted and directed by Warren Beatty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cd360e17fb988a50e980bdbc1c1f1c035395887e4c967d41397637f3352fd79
+size 409

@@ -1,1 +1,3 @@
-I say seven but really I mean seven and a half.<br /><br />This movie is great. It is a dark comedy that follows the fall of five stupid people and how they manage to destroy themselves morally, emotionally, and physically. Nothing happens that the government cares about. No breaches in National Security or plans to attack anything, but the belief that something big is going on destroys the people involved.<br /><br />The best part is that these idiots manage to surprise and confuse the CIA. That a simple nonevent between five people in Washington could completely catch the CIA off guard.<br /><br />Overall I would say that it is a funny movie that is not for those who don't like to lose characters unexpectedly and without consequence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c0c32d58a3d0d5b06c9a51f8152b82c960680d97b378555142ea3a5106adf0
+size 745

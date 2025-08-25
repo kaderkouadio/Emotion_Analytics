@@ -1,1 +1,3 @@
-It's the story of three brothers pulling together in the midst of hardship and loss, and learning that the really important things in life are family, love, trust, and forgiveness. The entire cast manages to pull in a powerful performance despite a few lousy one-liners. A great film for fans of true to life problems befalling believable families. Also worth a look for fans of Dermot Mulroney or Sean Astin. They both do an astounding job, often bringing you to tears. Take my word for it and rent this today!
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f4b52189d49ef7eea699e65c8fb44ffed00dcd67f08a4d839ccc68bfd319b1
+size 511

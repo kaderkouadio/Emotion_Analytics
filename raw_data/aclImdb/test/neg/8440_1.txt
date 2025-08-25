@@ -1,1 +1,3 @@
-this was absolutely the most tragic pile of cinema to which i have ever born witness. not only was the name a complete misnomer--since the film has next to nothing to do with piranhas--but the acting is as hollow and stale as the attempt to actually make some kind of plot. when you watch this film you cannot help but spend every waking second questioning when you've had enough and it's time to turn it off. unfortunately i waited until the end in my case. that's two hours of my life that i will never be able to reclaim.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df5601765c3d321cd3d2b563e1d22e5c7f9728a0ac18dee30579ce53c6534573
+size 524

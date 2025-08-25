@@ -1,1 +1,3 @@
-A female ex-cop who was drummed out of the force for recklessness (and who could probably beat Chuck Norris in a fight) hires herself out as a private bodyguard; her first client is a worthless playboy type. It takes half the movie for her to get kicked off the force in the first place. Lots of great fight choreography but the plot is strictly by the numbers, and the acting is as wooden as the dialogue. Give this one a miss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04d058cd044ac124dd1848d3ecaf44fd60881d58191adf146fb372c45e9b58b6
+size 428

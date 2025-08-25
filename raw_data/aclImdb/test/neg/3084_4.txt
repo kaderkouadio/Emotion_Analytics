@@ -1,1 +1,3 @@
-A ditzy girl (yes, ditzy is about as complex as her character gets) won't take no for an answer and does quirky things to get her husband back. It's too far-fetched to be believable with such flimsy characters going through the motions. But not far-fetched enough to be fascinating in the way that say, Being John Malkovich, was. So it ends up boring.<br /><br />sv
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc8ce22c97e7766eb52652117695300d8fbd9162728ceea15cd4099ba8cd2e3a
+size 365

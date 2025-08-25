@@ -1,1 +1,3 @@
-This film isn't just about a school shooting, in fact its never even seen. But that just adds to the power this film has. Its about people and how they deal with tragedy. I know it was shown to the students who survived the Columbine shooting and it provided a sense of closure for a lot of them. The acting is superb. All three main actors (Busy Phillips, Erika Christensen and Victor Garber) are excellent in their roles...I highly recommend this film to anyone. Its one of those films that makes you talk about it after you see it. It provokes discussion of not only school shootings but of human emotions and reactions to all forms of tragedy. It is a tear-jerker but it is well worth it and one i will watch time and time again
+version https://git-lfs.github.com/spec/v1
+oid sha256:5394b5cf4c351a9b9840c6e8dfd0402fda54e8a1159012671c69da0edab4a106
+size 732

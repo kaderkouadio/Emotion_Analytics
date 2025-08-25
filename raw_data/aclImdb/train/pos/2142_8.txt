@@ -1,1 +1,3 @@
-This is a very real and funny movie about a Japanese man having a mid-life crisis. In Japan, ballroom dancing is not approved of. But when Shohei Sugiyama becomes obsessed with meeting the beautiful young girl he sees in the window of a dance studio, he suddenly finds himself enrolled in dance classes. No one is more surprised when he begins to like it than he. But he must keep his secret pleasure from his coworkers and family. When the truth comes out it is quite funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c238dc2ef1ead638bf3a1cc892af607e6065fb1a242c97f1a9ac3813ee2862
+size 475

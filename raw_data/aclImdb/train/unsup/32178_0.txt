@@ -1,1 +1,3 @@
-La habitacion Azul is an everyday story, it shows us nothing different from real life events. The rhythm is incredibly monotonous and totally predictable. The cast is OK but I think mexican productions are in great need of new talent, the same actor appear in several movies and all of a sudden you don't know you're watching a different one. I like to go to the movie theater to see something different, out of the ordinary, stories that challenge the imaginations, that go further than what we live.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f8029dc114c4e2dd233b1de0ebb4336ebb8244f88423673321c9edddcb2b30
+size 501

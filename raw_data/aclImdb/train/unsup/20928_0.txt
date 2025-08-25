@@ -1,1 +1,3 @@
-ACE VENTURA: PET DETECTIVE had plenty of laughs, but some of the humor was stupid. Jim Carrey was part of that. He was funny mostly, but also very dumb. The reason I like this movie is because I like that type of movie-Cops or robbers or detectives and stuff(BEVERLY HILLS COP, 48 HRS, LETHAL WEAPON, etc.). This one was like those, but not quite worthy. I liked it, and recommend it to any Jim Carrey fan, or someone who just wants some, comedy that's stupid, yet funny. 7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e8519ec52f53f0f681bf1eedd3bcf94e0f69d641a64bed100c57afeb9764a9
+size 476

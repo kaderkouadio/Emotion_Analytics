@@ -1,1 +1,3 @@
-Not a particularly good film. It proves that Michael Moore isn't nearly as good at telling a story than showing a story. Canadian Bacon will be remembered more as one of John Candy's last films than a brilliant satire. Although, it is interesting that the premise was totally recycled in the South Park movie. However South Park succeeded where Canadian Bacon failed, it made me laugh. There are too many unforgivable cliches. I found the way the black character constantly referenced the fact that he was black annoying. I don't recommend this film to anyone unless you are a die hard Michael Moore/John Candy fan. Moore redeemed himself with the follow-up documentary, The Big One.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724e55f5f2ece5c3fe3679bf2e30a0f69036b13fc29875d45f42d2c9acb32af2
+size 683

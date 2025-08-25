@@ -1,1 +1,3 @@
-I stumbled across this movie late at night on TV. My brother and I could not stop laughing at how God awful this movie is. The crappy sound effects whenever White Ninja or Black Ninja punch, kick, or use a weapon is hilarious. This movie is almost on the same level as the Evil Dead series, but you can only watch this movie once because of shear crappiness. I'm not sure if the director meant for it to be so crappy on purpose because he knew idiots like me would buy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6b4e4320643044aee6a3a6eb8a8b9277d7b67375de1edb5f742a6734f5f9b29
+size 472

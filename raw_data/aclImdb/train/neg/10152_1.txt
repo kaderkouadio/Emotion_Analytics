@@ -1,1 +1,3 @@
-Being a fan of cheesy horror movies, I saw this in my video shop and thought I would give it a try. Now that I've seen it I wish it upon no living soul on the planet. I get my movie rentals for free, and I feel that I didn't get my moneys worth. I've seen some bad cheesy horror movies in my time, hell I'm a fan of them, but this was just an insult.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d3e0fbb8e186cdbe511b04329e4d3385dc11f5d5e49cde45afa9b20937cb7b
+size 350

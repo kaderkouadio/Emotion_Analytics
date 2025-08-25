@@ -1,1 +1,3 @@
-While this documentary lost its focus toward the end (when the son--filmmaker Chris Roe--became a bit whiny), I found it insightful, touching, and often funny. The interactions between fathers and sons in different countries was very interesting, and surprisingly entertaining. While many of the interviews did border on maudlin, there were several fathers and sons whose cultures dictated a colder or more macho relationship. Well done, and should hit home with both Boomers and their Gen-X offspring.
+version https://git-lfs.github.com/spec/v1
+oid sha256:390ff7ec0c92e34c26ce34460245a4e01ff3205dcbf6acdbcfe7bba81982b570
+size 502

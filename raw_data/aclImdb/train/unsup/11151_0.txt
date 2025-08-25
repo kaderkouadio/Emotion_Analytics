@@ -1,1 +1,3 @@
-In this film, T.D. Jakes cites the statistic that a woman is "killed by a man who says he loves her" every 15 seconds. This is inaccurate. The statistic that he should have cited is that a woman is "battered" every 15 seconds. This was a major motion picture (and an enjoyable one at that)and so it is hard to believe facts like that were not vetted. If they were vetted, this would seem to be an intentional distortion.<br /><br />The movie was impressively shot and presented, and I came away at least impressed with Jakes' acting ability (though perhaps that sort of ability is requisite for his line of work). This statistic misrepresentation, however, raises questions about Jakes' reliability.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f8a5672d498c78e461484180a186c02b021acc78a34fe4f39816aedb1dc78f
+size 699

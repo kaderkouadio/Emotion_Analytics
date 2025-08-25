@@ -1,1 +1,3 @@
-Watching this film reminded me of an afternoon sitcom, the actor's did without a doubt, it just has "done on the cheap" written all over it.<br /><br />it claims to be about the person that the movies "Exorcist" is about, but I found nothing of the such to back up that claim at all, so thats the production company blagging away there.<br /><br />It's a shame really, as I'm a fan of the genre, but this has "Made for Teens" all over it.<br /><br />Shame really because it could have been good, especially when you remember that the original Exorcist wasn't released here in the UK for fourteen years!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f0a716bf4918a88def5bf7d837ef7c5723b970923a580a721f70e499f074d31
+size 602

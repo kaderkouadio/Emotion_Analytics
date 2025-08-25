@@ -1,1 +1,3 @@
-Some extra-dark version of Samuel L. Jackson spends over an hour berating an investigator with severe cystic acne scarring. Annoying full-length shots of women being overpowered and strangled without any real sexual violation, even though the killer(s?) are supposed to be sexually driven. At some random point, some Tim Gunn-type man takes over investigation, advised by his distracting bowties. Flashbacks to the most lame murders of the movie. Boston has an ugly skyline and contributes nothing to the film. Accents change as drama escalates. Random clichés such as "innocent until proved guilty" randomly uttered by cast. Acting on par with that of my first play in elementary school.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0643433643d7841f495ea615ad3525dad9c21bc484a1a3cc1d6903b1f6ce8f
+size 689

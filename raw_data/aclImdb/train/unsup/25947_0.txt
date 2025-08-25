@@ -1,1 +1,3 @@
-The first 1/2 hour poses an interesting premise. However, by the time I passed the second hour, I had had enough. It slows to a halt, and never gets moving again. I decided to give Sherman's March a second try, and made it all the way through.<br /><br />This was a mistake. If you want to see a good premise badly executed, this is the paradigm. If you want a good movie, march away and choose something else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5733fbd881cb0dc1006ca577e120b61861a7556bd03958bd6aa87e0306e7bb
+size 410

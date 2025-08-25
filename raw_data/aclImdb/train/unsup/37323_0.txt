@@ -1,1 +1,3 @@
-This movie is one of the best YAAS movies I have seen recently. - Good actors, great effects, even music is great and everything is full of action. It keeps watchers focused on USA flag all the time. Sure, like as always USA saves the world from catastrophe. - God save us all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6bcdde9646c9389065ca86a3ecf5af79e04fe943887f52a73a055bfd20f750
+size 277

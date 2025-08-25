@@ -1,1 +1,3 @@
-This is by far my favorite show, Les is a great role model in the sense that his house is completely self sufficient ...if you have ever seen his show off the grid, you would know his water is from a well. his power is wind water and solar generated. Now sorry 4 rambling on back to serviorman. my personal favorite episode is the (canadian boreal forest) one because its in my home country and i sometimes go out it the woods and do my own little survivor thing. not for a week or anything but for like a weekend all my friends think in nuts... anyway!! this show kicks the crap out of any other survivor show GO LES!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:64bf7211b248b5b00bcb57dcfc7e90482e4e3ef56e039cf6b1b98b4a1b917c8d
+size 622

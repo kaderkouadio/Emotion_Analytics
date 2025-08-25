@@ -1,1 +1,3 @@
-This is the worst documentary to come out of Canada ever!!!! I'm glad to see the guys haven't made another movie. All they want to do is get a movie made and it doesn't have to be the one they wrote. They keep changing the script to suite the person they're pitching. I could not get out of the theatre fast enough when I saw it at that year's Toronto Film Festival. Please never see this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ffed01e3b0321c10445df01bef7775cc45d4e1ac06b9826c7a466da261b0ee
+size 394

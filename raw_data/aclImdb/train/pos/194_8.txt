@@ -1,1 +1,3 @@
-Perhaps the funniest 'backstage at Hollywood' movie ever, especially for a look at comedy short factories like Keystone.<br /><br />Marion Davies should get a medal for bravery for taking a part where acting poorly in front of a camera is part of the role. Plenty of cameos for film buffs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98636ea55f8c26288f9eea285a140aa894510633489cd5ffc2f6467ab22cceec
+size 289

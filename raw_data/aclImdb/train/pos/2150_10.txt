@@ -1,1 +1,3 @@
-If you are tired of films trying too hard to be fairy tales (the "Pretty Woman" variety love story), here is a beautiful film in which a Japanese businessman is pulled free from his robotic, dispassionate life when he falls in love...with dancing. Wonderfully drawn characters bring to life a story that is at once deeply funny and poignantly moving.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93d1d84e8600d6753e6cb58c180d0b339496b1a87e246d63186cd56d9f91c012
+size 350

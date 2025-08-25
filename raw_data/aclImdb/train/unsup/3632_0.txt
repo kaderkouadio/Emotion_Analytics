@@ -1,1 +1,3 @@
-I'd say this movie definitely lived up to expectations I had from the ad trailers. A good mix of science fiction and cop drama, with the occasional good joke. Both my wife and I thoroughly enjoyed it. Denzel entertained as usual, as did Adam Goldberg. Don't be turned off by the professional reviewers. Those guys can never seem to enjoy a movie that's content with being slightly unbelievable. If I always wanted believable, I'd stick to documentaries or the news. There won't be any Oscars coming out of it, but it was a action-filled thriller that kept me guessing till the end. If you liked the Island, this is right up your ally.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a455ea660a616c9906adc4c6c533145a0a23ab3449592b0f319ae26a2553472d
+size 634

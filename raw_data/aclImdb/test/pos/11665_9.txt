@@ -1,1 +1,3 @@
-"Dead Man Walking" is a piece of incredible filmmaking. All the acting is top-notch and realistic, and the script examines the issue of the death penalty from both sides, paying equal homage to both. Above all, this is a deeply moving story of redemption, of death with dignity and loss of ego. Any film that deals this courageously and maturely with such incredibly difficult subject matter deserves a rating of 10/10. Thank you, Tim Robbins!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ebca0ff73bf9325c386bfc3981e7ef88adbcc4ca3d0322c181103648fbbe51c
+size 443

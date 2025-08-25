@@ -1,1 +1,3 @@
-One of the finest musicals made, one that is timeless and is worth seeing time and again. Delicious! The acting, especially by Ron Moody as Fagin, is superb. Costumes are exquisite....even the shabby ones.<br /><br />The two young lads who play Oliver and The Artful Dodger are wonderfully talented. Oliver Reed does a great job portraying Bill Sykes to where you can't help but hope he comes to a terrible end....which he does. <br /><br />The dancing is cleverly choreographed and is mesmerizing. Oliver can hold its own with the likes of My Fair Lady, The Sound of Music, Oklahoma, etc. A film for the entire family.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3988ccc20fdd2b727e0d1ebc146f6be9f3f0dd45d683426b069b8aacb2ac4762
+size 619

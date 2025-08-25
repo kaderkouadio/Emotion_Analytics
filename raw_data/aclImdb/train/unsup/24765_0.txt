@@ -1,1 +1,3 @@
-'The Man Who Came To Dinner' revival was just absolutely amazing! The cast shined. Mr.Sheridan Whiteside was played by the one and only Nathan Lane, who made the play pleasurable the whole time. Jean Smart was, in my opinion, one of the funniest on stage. In a specific scene, when she finds out her cables have been wrongfully sent, she has the crowds (and folks at home) up in roars. This wonderful cast also includes Lewis Stadlen, Harriet Harris, Byron Jennings, Terry Beaver, and many more. If you are ever faced with the chance to see this play, don't pass on it! It Is A True Masterpiece!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3385c83e04eb1726401f7b9b406155c38beb7df2f9f51f1791aa8f0a11ca4be5
+size 596

@@ -1,1 +1,3 @@
-This was a good acting role for James Lydon, as a mature young man protecting his mother. But, one wonders, is he too protective?<br /><br />Paul Cartwright becomes weary when his mother starts dating again, one year after his fathers tragic death. The man is smooth and challenges Paul about his interest in criminology. Paul starts investigating, and comes up with interesting facts about Mr. Curtis. The story is a good one, as we unravel this mystery about the death of Paul's father. Don't miss this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f4d47be001b0c84b52d13a44d923eabc2b9c9ef0b59f2088952335c05cf5f7
+size 505

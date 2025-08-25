@@ -1,1 +1,3 @@
-John's role in this movie was the worst I've ever seen. He's usually the man, like if you've seen The General's Daughter. But this time, my girlfriend and I both agreed (which rarely happens) that this movie was horrible. I gave it a 2 because the story itself was ok.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfd5fe4557a28816b8fae99a9322337eb1ab0fab3429fafe8f41b9323c2a38ce
+size 268

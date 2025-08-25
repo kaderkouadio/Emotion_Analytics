@@ -1,1 +1,3 @@
-I saw this at the Seattle International Film Festival in 1991 and was very impressed. I was so surprised that it wasn't in American cinemas soon after. I now have read about the huge price Werner & his people were asking for it. Sometimes distribution issues can kill a film from being seen, and it is us, the audience who gets cheated.<br /><br />Perhaps Werner could have toured the film in the same way that Warren Miller does his ski films. Warren never fails to get that $12 to $15 per ticket, and he doesn't have to worry about popcorn sales.<br /><br />I'd love to see a fresh print of this film released theatrically in 2007 and tour the country. Are you reading this Landmark Theaters?
+version https://git-lfs.github.com/spec/v1
+oid sha256:daeb9f71bba66764d97e046366cef9d443e2c69bd10069a88547cb106d5be0ec
+size 694

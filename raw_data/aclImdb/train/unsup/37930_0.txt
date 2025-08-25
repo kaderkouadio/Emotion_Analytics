@@ -1,1 +1,3 @@
-This exploitive piece of garbage has the look of either a bad T.V movie or a porn flick. Misty Rowe (the name sounds like a stripper) portrays Norma Jean as an idiot bordering on mental retardation. The script is terrible. The acting sucks. Marilyn Monroe would roll over in her grave if she ever saw this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a7112423eb7ac18c7994065fa2848e9d3f1eafad5a121aa35dd980f22c3f5c9
+size 312

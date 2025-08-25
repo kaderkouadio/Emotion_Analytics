@@ -1,1 +1,3 @@
-"Tomorrow Is Forever" is a great movie. I think Claudette Colbert and Orson Welles are great together. And even though Orson Welles rarely played the romantic lead, he's wonderful. I cried during most of the movie the first time I saw it. There are also wonderful performances by George Brent and young Natalie Wood. "Tomorrow Is Forever" is a movie you need to see at least once! It's great!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fb2dd3606966c9f45d49eebcdc00c9b19cdccd8d7a7da3817edc628d547515f
+size 392

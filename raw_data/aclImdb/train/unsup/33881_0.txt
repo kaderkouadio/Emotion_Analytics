@@ -1,1 +1,3 @@
-More resemblant of a '70s TV cop show, this revenge flick from Dorothy Ann Puzo [and this is her only attempt at celluloid, praise God] is truly wretched.<br /><br />The always-excellent Brad Davis stars as a cop out to avenge his father's murder [at the hands of Jonathan Banks]; femme-almost-fatale Sharon Stone is the only other reason to watch this.<br /><br />0 of 4 NiroStars <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d10cc19cbef03b2052d0c205b76a2c158f247a21c56704af892180026c179b6
+size 394

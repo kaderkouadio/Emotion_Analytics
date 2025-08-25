@@ -1,1 +1,3 @@
-Nine Months is a very poor excuse for a comedy. Scene after scene of sitcom-level 'humour' followed by gut-wrenching sentiment. The talented cast are really slumming it here but it does have one funny scene (Hugh Grant and the praying mantis) - pity it's only 30 seconds long. Worst of all is the incessant finger-wagging hostility towards a). not having children & b). responsible parenting. Grant makes an innocuous comment about not letting obnoxious kids run around screaming their heads off 24/7 and the parents pounce on him for being "selfish", like all other childless scum. Only Hollywood types who pay strangers to rear their kids for them could fail to see the logic in keeping them under control, lest they frolic in front of a passing bus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2d40539414408cee2f330eb7fa3de58837aaa23a562772b4ef29f775df27735
+size 752

@@ -1,1 +1,3 @@
-I was treated to a viewing of Cracker Bag last night before a preview screening of Disney's Holes. I don't know who decided to show it but I'm so very glad they did. Cracker Bag is an absolute gem, a snapshot of Australia in the early 80s as seen through a child's eye. The "conversations" between Eddie and her brother were hilarious and, as with the rest of the film, so true to life. Each shot brought a great sense of nostalgia as it reminded me of my own childhood (being the same age as the director probably helps a little) and the audio multiplied the feeling. I only hope I get to see Cracker Bag again some day.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a063731ea1ba400119aa3acd121818b45c9a2c24e6b2e2b9f26c7f8bc8bcf6
+size 621

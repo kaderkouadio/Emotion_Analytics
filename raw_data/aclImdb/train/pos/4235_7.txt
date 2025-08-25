@@ -1,1 +1,3 @@
-....after 16 years Tim Burton finally disappoints me!!!! Whatever happened to the old Burton who read "The Dark Knight Returns" by Frank Miller as research for his preparation to direct Batman back in 1988-89? By the looks of it Burton didn't research the book nor the movie cause he got everything WRONG! This movie sucks! It's not as good as the original and it doesn't deal with the same subject as the original. If you want a good ape movie watch the original.<br /><br />**out of****stars
+version https://git-lfs.github.com/spec/v1
+oid sha256:0941530f8e58856f650cbbf0ed4f950ef95f44153198f8ab0724b7e89f17c37d
+size 493

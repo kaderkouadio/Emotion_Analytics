@@ -1,1 +1,3 @@
-I primarily started to watch this to see who Cyd Charisse was. I heard a lot about her through the years, and know she passed away this year to much fanfare. So I wanted to check her out.<br /><br />This movie was perhaps not the best movie to try to showcase her talents. Let me start by saying Im not a huge fan of the Musical genre to begin with. I often find their plots to be lacking and contrived. This one was no different.<br /><br />Cyd was indeed very beautiful and a talented dancer. Her acting was so-so, however. I guess I just don't find loosely strung together numbers with no real plot to tie everything together a waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5989b71b0a7bd41b7203711496b0f9a6ee0f6f5d2b303642835838f86ffc98
+size 645

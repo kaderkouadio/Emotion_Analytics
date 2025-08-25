@@ -1,1 +1,3 @@
-WOW! This movie is absolutely terrible; the directors took a dumpy, low-budget film WAY too seriously. I mean, c'mon, with all the misplaced CGI blood, horrible acting (the best performance came from the bear) and continuity errors, you'd swear this was done to give you a good laugh... <br /><br />Mind you, I did miss the very start of the movie, however once I was involved, I also took notes of things throughout the movie (mainly pertaining to survival given the circumstances) and figured I may as well post them. I'll leave out any that have already been covered.<br /><br />(to be continued below)
+version https://git-lfs.github.com/spec/v1
+oid sha256:67af2a622f3160f60a2d87b08e334512b98f65e1e8032e94c59246156fb1da4e
+size 605

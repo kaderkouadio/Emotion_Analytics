@@ -1,1 +1,3 @@
-We know from other movies that the actors are good but they cannot save the movie. A waste of time. The premise was not too bad. But one workable idea (interaction between real bussinessmen and Russian mafia) is not followed by an intelligent script
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe8947586e930c5e9fe76847fa4cc86a46f76b9b808d9c76f78b2671324425ca
+size 249

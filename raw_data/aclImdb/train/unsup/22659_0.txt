@@ -1,1 +1,3 @@
-I bought this DVD for a few bucks and am glad I didn't pay more. Busy Philipps should never be allowed in a film again. She is one of the most annoying, over-acting, no-talents ever. Even with Dominique Swain, Thora Birch, and Keri Lynn Pratt they are still not enough to save this movie. Birch basically has a glorified cameo, done up in "Whale Rider"/rave makeup. Swain is the reason I bought the film, she's always good, but gets plowed under by Philipps. Pratt is adorable but her character is uneven. The script is all over the place and the characters are such stoners, it is a hard movie to watch. One of the worst I've seen in a long time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67a68716a024d414e841986e5b6e45e768405779d25e83f8bd6458036c40dec4
+size 647

@@ -1,1 +1,3 @@
-This is one of the most interesting movies I have ever seen. I love the backwoods feel of this movie. The movie is very realistic and believable. This seems to take place in another era, maybe the late 60's or early 70's. Henry Thomas works well with the young baby. Very moving story and worth a look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:548271d76f81e1046d1eea4d1e6ed15b217e1f01b20d43f92aec876162bf71df
+size 302

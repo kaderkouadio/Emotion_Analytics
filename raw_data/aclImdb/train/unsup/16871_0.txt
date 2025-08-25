@@ -1,1 +1,3 @@
-This stunning film noir's politics may seem a bit dated, but besides that it hasn't aged a day. The cinematography is brilliant, the performances flawless. Easily ranks with Chinatown, The Maltese Falcon and Touch of Evil among the great film noirs of all time. Orson Welles leaves a lasting impression in his mere 3 scenes. Joseph Cotton is brilliantly restrained as the out of his depth American writer. Carol Reed's direction is magnificent. That last shot is, in my opinion, the best ending to a film noir EVER.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f5487267a8017e558e909e9114d58f02d257a224b9285470647f6fc2004a15
+size 515

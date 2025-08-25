@@ -1,1 +1,3 @@
-This boring british video is long on talk and is really hard to figure out. It has something to do with experiments on mentally ill people and a drug that opens the mind to parasites from another dimension( I think). There are some bloody scenes that liven it up a bit but this movie is so slow and disjointed they don't help. Maybe a bigger budget and script rewrite would have helped.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d315f8e5d33af5cdf48d7f981a762bb6ccf1896fb01d994ea7040051f43646
+size 386

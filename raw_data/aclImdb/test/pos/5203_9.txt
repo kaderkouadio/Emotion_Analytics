@@ -1,1 +1,3 @@
-This movie shocked me. It was so realistic and the story was incredible touching. They talk German and Russian, which makes it more believable and real. This is a must-see movie. The actors are great too. Really a good piece of work. The plot takes place within a German troop in WWII. They have to go to Stalingrad, Sovjet, to fight against the Sovjetian armies. You get more connected with every soldier in this group and follow them through all the perils as they get captured within Stalingrad. They get face-to-face meetings with death, blood, grief and the coldness of Russia. This is a must-see-movie and you cant afford not to see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a445e5ecead066b2732be0c232882b34a6940e3603f7925397a04d0103318a8a
+size 642

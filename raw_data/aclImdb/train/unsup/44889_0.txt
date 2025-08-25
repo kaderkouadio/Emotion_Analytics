@@ -1,1 +1,3 @@
-I'm a drummer myself I'm gonna be in Marching Band again next year and this movie had no point to it at all, I mean I know he can't read music but you can't be in band if you can't read music. No one I bet learned any of the instruments or anything! This movie makes drummers look really bad and thats not cool. Don't watch this movie you'll be wasting your time!
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b05e398f60e772738ac17b5aa3d19a5c31a7f1c4894c47011af9cbb2efaef4
+size 363

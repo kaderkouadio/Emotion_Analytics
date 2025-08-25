@@ -1,1 +1,3 @@
-Marketed as "science fiction," The Mole People is just a fiction. The only "science" element is the hero's claim to being an archeologist - in which case "Raiders of the Lost Ark" would be science fiction also. Really I think The Mole People must be seen as a comedy. Specialists in Babylonian studies profess a vague familiarity with the story of Gilgamesh. They discover a race of unmanly albinos living under a mountain. The albinos don't know about the world above ground. They harness Mole People as slave labor to grow mushrooms and spend their days whipping and flogging them. Apparently they do nothing else. The most sympathetic characters are Cynthia Patrick and the Mole People. The Mole People rebel against their taskmasters; Cynthia Patrick is killed before she can rebel against the will of John Agar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79ecfe5725ad484b4b97d5639e4282774b5a3bfe19ce79f90ea93c2533372c0
+size 816

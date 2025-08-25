@@ -1,1 +1,3 @@
-Fast Times it ain't. But check this movie out, it has a heart. Pour yourself a drink and enjoy. It's loaded with a slew of just-beginning stars. Sherilyn Fenn has her first on-screen credited cameo. Chris Penn, Lea Thompson, Eric Stotz, Jenny Wright, Rick Moranis, etc.--they all look so young. Oh and if you look closely the cop's wife is Nancy Wilson from the rock band Heart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c8dad9b64614cecf3e2d346bf467649e1f32ca17b4f88973870e1fd438a5eb
+size 378

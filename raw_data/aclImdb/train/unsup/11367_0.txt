@@ -1,1 +1,3 @@
-Get set for all the zany fun in this hilarious comedy about an Asian immigrant that everyone calls "Bruce," because of his resemblance to the legendary Bruce Lee. <br /><br />Bruce unknowingly works as cook for the mob and is duped into making deliveries of "Chinese Flour" - which is really cocaine - all across the U.S. <br /><br />It's a non-stop, rollicking romp when Bruce is persuaded by a wild and crazy assortment of characters - Texas sheriffs, Vegas hookers, rival mobsters, Kung Fu Krishnas, street punks, Urban cowboys and a host of other wacky, weird people interested in "flour."
+version https://git-lfs.github.com/spec/v1
+oid sha256:801651f9002d6d1460c495b3342f46afd4067d0cb4a8ac6c3387a0e2b6fbffbd
+size 593

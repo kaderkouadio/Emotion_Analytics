@@ -1,1 +1,3 @@
-This film has beautiful images to share. The movie was well produced with a great use of music with the different shots. The movie did get a little "environmental", but it was to be expected. I also think they could have chosen better music than Crosby, Stills and Nash. Overall I would highly recommend seeing it if you have the opportunity. It is educational and breathtaking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ff6eb2f6a5bdb7424b044cef27b92a6007f53295b7fc541f44caab47ae4e20
+size 378

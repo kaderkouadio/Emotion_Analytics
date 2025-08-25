@@ -1,1 +1,3 @@
-Comic book movie adaptations have a terrible record overall, and Marvel comics has the worst record of all. This movie should be banned by the Geneva convention. The movie really seems to try to do credit to Peter Parker's comic book origins, but the budget, and effects limitations ensure that the movie looks cheesy and corny. For decent comic book adaptations look to X-Men, the first Batman movie, and (to a lesser extent), the Superman movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bbaeff541f9aa93318c9327852570aff8133bec477f9ceceb255f61b858198a
+size 448

@@ -1,1 +1,3 @@
-Like an earlier commentor, I saw it in 1980 and have never been able to shake the memory of the gripping story, splendid acting, and dramatic musical score. It certainly contains some of Sam Waterston's finest work. He and the writers depict Oppenheimer not simply as an unjustly victimized hero -- which he was -- but also as naive, fond of alcohol, and snobbish, a rounded portrait instead of a stereotype.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58cef7ee5048d25296cacecac42d877220044681fa64d6179724b4eeb91d0b32
+size 408

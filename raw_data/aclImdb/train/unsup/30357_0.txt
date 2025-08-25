@@ -1,1 +1,3 @@
-Well, by camera work I really mean all visual effects as well as the cinematography, set design... it's a visual treat. The effects used to dramatize Bob McConnell's sense of isolation and loneliness were intriguing.<br /><br />Also great acting by Mr. Slater, as usual. I like this guy's work.<br /><br />It's nice to see William Macy in a different type of role than I usually see him in, but anyone could have done that turn -- not much there for him to do, but he ably supports, which is a fine thing, since that's what his role here should be...<br /><br />In some ways, it reminded me of Fight Club.<br /><br />Saw this on an airplane today, and now I'm kicking back and looking it up. <br /><br />I quite enjoyed it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a45536ba9afae3f3f94acf913b462e5252dd317c6a92233284bed0a84da5ad2
+size 723

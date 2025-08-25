@@ -1,1 +1,3 @@
-"The next Karate Kid" is an outstanding movie full of adventure and new surprises. It has a wonderful plot and moral that tells a wonderful story. Hilary Swank does an incredible job of achieving the role of Julie. I have seen the actor who plays Mr. Miagee and this is one of his best performances in my opinion. The movie is funny and charming and I cannot stress enough about how interesting the movie is. I definantly gove this movie a 10 out of 10. I suggest the movie to anyone who likes a good movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4acce694f12bc54222b380ee0f9d801111c305a69a93106016984724c6186065
+size 507

@@ -1,1 +1,3 @@
-I realize that I am late to watching this movie and that I watched and edited version on AMC but after just listening to the entire book on CD I want to know that the heck happened!? There are so many things that were in the movie that were not in the book and things that were critical to the book that were left out of the movie. Just an example, Sam's daughter Lee(Faye Dunaway) never visits her father before he dies in the book, but yet in the movie they have her visiting him. Second, there is no bomb in Adam's hotel room. Lastly, and the part of the movie that really irritated me was that they never catch Wedge, even when he does visit Sam in prison. There was no direct confrontation between Adam and Wedge. Why do screen writers and directors feel the need to mess with a good thing? READ THE BOOK!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:76d396e0b62b1e2101436de89247df28658522ff94bc53fdae1be4279efcb468
+size 812

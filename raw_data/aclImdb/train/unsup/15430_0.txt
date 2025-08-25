@@ -1,1 +1,3 @@
-I have seen this movie many times over the years. It's just the right genre of creepy for me, interesting old place the girl inherits full of old clothes, etc., it has that grandma's attic feeling about it. A little Psycho, a little sixties scary-movie feel. Then the psychological twist gets folded in, along with a nice little romance and good acting. This movie is not formulaic overall, when you consider that it's almost impossible to make a scary movie of any kind that hasn't been done before. Sure, familiar elements are there, but even though the setting is modern for the period, it has a bit of a Gothic feel to it. If you like suspense and a creepy plot without the gore, this is for you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5065d8e1a87cec3104d2e6a4b7140cdae39b02a30d293d24c3ca86627b1cc194
+size 700

@@ -1,1 +1,3 @@
-In this film, there is a lot of action. But, that's almost all. Poor acting, Hogan can only play with his eyes, even when he close them, and Shannon Tweed is never naked... Sigh... (For the aficionados, a little catfight between Tweed and an european nurse could be the best moment of this movie.) By the way, Shadow Warriors I is very much better, same team, same director, same action, but much more entertainment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a951c147752b30ab7c560aca0dcc954796fbd0f12f5d71d1d2174e28511dc1
+size 416

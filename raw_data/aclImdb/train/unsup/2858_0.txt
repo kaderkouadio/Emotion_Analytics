@@ -1,1 +1,3 @@
-Director Bob Fosse does it again with Lenny, a fine movie of the life of legendary 60's comedian Lenny Bruce. Using the same trademark style he used in Cabaret, Fosse creates a wonderful black and white visual collage. The mood and world of 60's nightclubs is wonderfully recreated. Both Dustin Hoffman and Valerie Perrine are superb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c1c9cece8799e251abf953037497922f49126084eb542b17702fab219e5f04
+size 334

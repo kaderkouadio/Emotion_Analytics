@@ -1,1 +1,3 @@
-This flicker is badly acted, with hammy dialog and horrible alterations to the comic. If you liked the comic, don't watch this movie. If you like movies, don't watch this movie. All I ask as a viewer is that the movie respect its viewers and itself. This movie is vile, which is a real pity, because it could have been really interesting. The source material certainly is and, no, I don't expect movie adaptations to stick 100% to their source material (like Sin City, which, let's face it, was wooden). I don't expect to be written down to, though. Though I should have expected that Hollywood would remove all the sophistication and cleverness they could lay their hands on. Gah. The dialog. The dialog. Lord help me, the dialog.<br /><br />Oh, yeah: the costume was cool.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d8ca88f1cc9e1967c1dfe61240fa08cc94d99b019969f6f23d8314a794b3b7c
+size 774

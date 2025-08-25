@@ -1,1 +1,3 @@
-A good war movie should ultimately project an anti-war message. No movie in a long time has projected such a strong sense of this as SAVIOR. It will be a long time before I am able to forget the nightmarish imagery featured in this film. It shows the ugly war in Bosnia and the insanity at work there. Some people have claimed this is a racist film. I do not see it that way. This film shows everyone in a bad light. There are no heroes here. It shows how hate and prejudice can pose as patriotism.This is one of Dennis Quaid's best performances. His face is remarkably powerful in depicting repressed and escalating anger; he does it very well; it's almost the dark opposite of his famous easy grin. This film is disturbing but, ultimately, it contains a message of hope. In that sense it makes good companion piece to WELCOME TO SARAJEVO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d604922d1056666a45160903b0740e37b092d47cd5e8d646bc670a7202b257d
+size 840

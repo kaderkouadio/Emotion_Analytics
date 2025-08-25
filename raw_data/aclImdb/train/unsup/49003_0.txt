@@ -1,1 +1,3 @@
-If it hadn't got caught up in the political rhetoric of the time. The propaganda of Russia - bad - and "freedom" - good - is so caricaturized, it is reminiscent of the awfully silly musical movie the main characters are producing in the film. Sometimes the music and dancing can save such a movie, but this one contains mostly snoozers and losers. The cast does a good deal for the picture, but they can't save it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a1800b4214f83d2f2829597a6da3d5b8125e62a54aa09f8501756ab92c4f5e
+size 414

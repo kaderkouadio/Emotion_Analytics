@@ -1,1 +1,3 @@
-I caught this tonight on HBO and I'd like to express my gratitude to Oliver Stone for making this. I've been wanting someone to do this for quite some time. It wasn't until very recently that I made the discovery that this was actually available to us.<br /><br />The documentary does a very good job of illustrating Fidel Castro's role in Cuba and in the world. Opinions from parties both for and against his rule are expressed, and provide a fairly balanced outlook to this important situation. I haven't seen the first part of this series yet, and I'm looking forward to it.<br /><br />I would definitely recommend this to anybody, as it serves as a valuable learning tool. Anybody from an avid historian to a procrastinating student may find value in its substance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03d59dcf2bc3e5f6ca426cf5d573a109a3bf87a81f4d9595ed8ccc3a8b6ed033
+size 769

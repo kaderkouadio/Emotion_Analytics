@@ -1,1 +1,3 @@
-Brilliantly directed, superb camerawork, great script! Whoever owned the multi-story carpark used in the amazing climax must be thrilled to have given their permission for it to be rammed by a car! I've heard on the grapevine that this film was made on a very low budget - surely a sign that the director and his company "Troubled Children Films" are capable of so much more! I happened to stumble across the film-maker's website, and hope to see more of their back-catalogue - The silent snooker film in particular seems just as well-scripted as this masterpiece! I stand by my fellow impartial reviewers and say "Well done! 10/10!!!!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70fac37d5338b55b0cd6deec431d84ee6feb0fd75a8fb180a58e674541d0fa1
+size 636

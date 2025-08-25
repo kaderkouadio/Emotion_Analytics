@@ -1,1 +1,3 @@
-Gwen (Sandy Dennis) has an annoying voice and her accent just intensifies it. George (Jack Lemmon) is a whiny jerk who just can't figure things out. The entire plot was laid bare with the first problem the couple runs into and it just went downhill. A little of the dialog was witty, but the movie took far to long to get its last gag to stagger across an airplane. If you can't take dumb humor, please, do yourself a favor and stay away.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18f85db3edbd623742d78eefa462054a985d879edacde033a22863c67b90762
+size 438

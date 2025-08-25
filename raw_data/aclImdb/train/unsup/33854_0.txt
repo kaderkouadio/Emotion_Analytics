@@ -1,1 +1,3 @@
-Unfortunately, the DVD case doesn't warn you of the terrible quality of both the acting and the filming of this movie.<br /><br />For over 50 percent of the movie, you cannot even see the actors. Apparently the filmmakers have never learned about lighting. They are in an unlit house at midnight, but you can't even tell where in the shot they are. Which is probably for the best, because the acting is so terrible that you're better off not seeing them. The story line isn't exactly great either.<br /><br />Haunted House isn't even one of those terrible movies that you rent and laugh at because it sucks so badly. Its one of those movies where you genuinely feel cheated out of 5 bucks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a6070d75e516229cc1fe561a87d89b41382c6136f37f3bc7437423d8e482bc3
+size 689

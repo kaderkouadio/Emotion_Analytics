@@ -1,1 +1,3 @@
-What is very French about this film is the time taken to establish the two leading characters. This might require a bit of patience, especially since neither is "attractive" in the typical Hollywood definition of such. However, once the "heist" kicks in, the film rushes forward quickly, perhaps at times too quickly. But it is a real rollercoaster ride and if you don't look too closely it is all quite believable. The kind of film that you know Hollywood would have botched up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7e52a12e4fef20e355ab7937e9d15bbc0556eb8b2792b4b17db48645abeb93
+size 479

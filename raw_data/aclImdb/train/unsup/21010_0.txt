@@ -1,1 +1,3 @@
-This movie is the weakest of the 3 Aladdin movies. This movie is nothing but a pilot for the cartoon that debuted shortly after the release of this video. The fact that it is just a pilot for the TV show is further demonstrated by the fact that it is just over an hour long and that it features one of the show recurring villains(Abis Mal). Aladdin and the King of Thieves is a much better sequel than this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4d56367242cbf65fe1be7c8711a9fd2ee615eb0a6dfc49ec367c3edaa96238
+size 411

@@ -1,1 +1,3 @@
-An amazing piece of film that was well-conceived and kept me on the edge of my seat. Brilliantly orchestrated in its timing, and the comedy kicked in exactly when the tension needed a release. The acting was generally well-done (the "Director" should've asked Alec Guinness for acting lessons), and the shot selections were impressive (as in elongating the hall as Billy tries to race to the door in the studio). This movie didn't let up since the opening scene...
+version https://git-lfs.github.com/spec/v1
+oid sha256:b44b70c53d5c7166e641b86fddfac3240cf50f5da20850342b4bec1c76a001ba
+size 464

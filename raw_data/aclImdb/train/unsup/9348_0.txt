@@ -1,1 +1,3 @@
-The plot of this film progresses very slowly especially by modern standards but the linear storyline is not really the reason to watch it. The cast brings to life a nice collection of unique personalities whose interactions are a joy to behold. Cagney is cast against type (he's not in trademark tough guy mode; he even hates to stand!). Fans of his are in for a treat and like I said the entire cast distinguishes itself. All in all a very worthwhile viewing, 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d757e976bde5496098e2e58e371213b8d1329715804159f5f3442deff1102267
+size 466

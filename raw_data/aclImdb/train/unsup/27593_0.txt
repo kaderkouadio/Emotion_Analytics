@@ -1,1 +1,3 @@
-"Crocodile Dundee in Los Angeles" follows the same fish-out-of-water formula as the original 1986 film with a different setting. That probably explains why its overall IMDb user rating is just 5. People get the feeling that the movie is only repeating, with minor changes, something that was already done. (Like when Mel Brooks used jokes in his Robin Hood movie that he'd used years before in "Blazing Saddles."<br /><br />Yet "Crocodile Dundee in Los Angeles" is still a pleasant and funny diversion. Perhaps if "Crocodile Dundee" and "Crocodile Dundee II" hadn't come before it moviegoers would be more enthusiastic about this movie.<br /><br />It's also a movie you can show to young children, which is more than you can say about 90 percent of the comedies (or movies in general) nowadays.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b5a8558d6ada0ea8665b5719343659b25dc1f284881f12f60d9f62cf314351
+size 794

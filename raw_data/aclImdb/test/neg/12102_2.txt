@@ -1,1 +1,3 @@
-Usually I have a lot of luck with these small scale movies. I looked at the cast. Leary, Lovitz, Delpy, Wuhrer, Estevez. How bad could it be? Unfortunately the answer was...pretty bad. I have a hard time remembering a movie that had such poor execution of a plot that had potential.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0373af82b44af887fef5af59d9fdff5c977db698adec728bd075a764514f5638
+size 282

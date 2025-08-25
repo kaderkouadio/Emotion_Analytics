@@ -1,1 +1,3 @@
-Well, it's an interesting premise, but the director misses most of the opportunities it offers, managing only a handful of suspenseful moments. The film plays more like a whodunit than a horror film, but the "mystery" part is dreary, and the death scenes are silly and overwrought. What a cast as good as this one (including Sara Botsford, a real revelation) is doing in an unimportant little time-waster like this is anybody's guess. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e416536c88eb6ae14b5e72691730695c8d4ca55407587ea81769e4e29abe94d
+size 441

@@ -1,1 +1,3 @@
-I've seen this movie again recently and it is very dated. But I can remember loving it when I saw it some 25 years ago. It is low budget and simplistic, but it had kid appeal when we didn't have 200 tv stations to choose from and video stores at every corners.
+version https://git-lfs.github.com/spec/v1
+oid sha256:949d860268a38cc7f0125e015aaf74f1d8beea19abd2df624525b1ef20dcb47c
+size 260

@@ -1,1 +1,3 @@
-Part of this turkey of a movie was filmed two houses down from me. I came out to go to work and there were movie people blocking the entire street, not to mention hogging up my lawn. Looks like you all wasted your time and money filming this movie. Boring movie with bad actors. The girl's easy on the eyes, though, but apparently she now relies on her Backstreet Boy husband for life support now. Who can he count on now that he's getting old? <br /><br />Note: the movie "Sydney White" (and the Seven Dorks) was filmed around the corner from my new house, but at least that was several blocks away so I don't have any gripes on that. Word on the street is that that was much better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:882ed5ac7246fea9b10c5d22aded5973023365f6124c39ae346282ecc8a23adb
+size 684

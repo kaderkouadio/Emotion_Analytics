@@ -1,1 +1,3 @@
-It's fairly enjoyable - if you haven't read the book. The only similarity to the actual book is a few names. The plot is different, the period is different, the characters are different. Why bother adapting the Miss Marple (and it should be MISS Marple and not just plain Marple - that's so very rude) books if the adaptors are just going to change everything about them? Why not just write entirely new mysteries, instead of hanging their own stories onto Agatha Christie characters and book titles? If you want to see Miss Marple:Nemesis, try the far superior Joan Hickson version. This version is not an Agatha Christie mystery.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2518340ff1c7d900193925241ac8933d405ff0b23e4f45e1e4a537dd18aada1
+size 631

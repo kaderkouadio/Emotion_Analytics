@@ -1,1 +1,3 @@
-This is vintage Mike Myers (has there ever been a bad Mike Myers movie?). Mike Myer's characters, Charlie McKenzie and Charlie's eccentric Scottish father, carry this movie which would otherwise be pretty ordinary.<br /><br />The best moments in the movie occur in the McKenzie household where Charlie's father steals the show. His brutal bagging of William (head) is among the funniest movie moments I have seen. The songs (women women, "if you want my body") provide material for many drunken sing-a-longs. I thought Stevie Wright was also very funny, but the ending was pretty lame.
+version https://git-lfs.github.com/spec/v1
+oid sha256:958239390d9d052d5c361a6852e332551b77dbbe7b65fcdd57dde35cca8799bf
+size 585

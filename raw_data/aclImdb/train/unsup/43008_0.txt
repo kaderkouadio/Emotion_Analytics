@@ -1,1 +1,3 @@
-which is what I wish I had done. Some decent actors are largely wasted in this pale sci-fi tale. Score is straight out of Quake, and in fact the whole thing has that kind of video game feeling, though at least in a video game you are participating in some small way. It's not even fun on a camp level. Pass it by.
+version https://git-lfs.github.com/spec/v1
+oid sha256:495c60215e8a4bf8e6ae60491a7ae6b68dae5d3aa3a338708b27b8eb95c9e6fc
+size 313

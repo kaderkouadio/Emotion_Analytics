@@ -1,1 +1,3 @@
-This movie truly has it all. Astonishingly bad acting, directing, writing, editing... it belongs very high on any list of the worst movies ever made. It doesn't even fit into that "so bad it's good" category. After an uninspired, stupid, and simply unfunny opening gag, the film goes downhill from there. The "big stars" are Dom DeLuise and Rodney Dangerfield, but they really play supporting roles to Kevin McDonald of "Kids in the Hall" fame. Kevin was hilarious on that show, but given this material I actually felt sorry for him, and everyone else involved in the film. This movie is only for anyone who wants to see just how awful a film can be. Certainly one of the worst I've ever seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2add5fde7dafd827117bb69a76b93a664d7fb232ce906c4af41a3e3dc306ffb7
+size 693

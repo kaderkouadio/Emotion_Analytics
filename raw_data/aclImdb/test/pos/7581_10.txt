@@ -1,1 +1,3 @@
-Anderson's animation easily rivals that of Pixar and goes well beyond most anything I've ever seen Disney do. While some say the story is a bit too abstract, I find it a thought-provoking and refreshing change from the exaggerated characters and bumbling animals typically found in animated shorts. It's an interplanetary version of CASTAWAY! Anyone who has left the safe harbor of home and gone off to a lonely, frightening place by themselves, will readily identify with this forlorn microbe. Excellent work, Mr. Anderson!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde82129aca50d20dd73da8fdfe7cdcbc4469dc92125801d3a473e4b736ada78
+size 536

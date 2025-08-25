@@ -1,1 +1,3 @@
-I'm an American ex-pat living in Seoul.<br /><br />I saw this movie without English subtitles and still managed to be affected by the story despite just having started to study Korean.<br /><br />The excellent story, direction, acting, and cinematography carried this film over any linguistic obstacles I had for a great delivery. I can't wait to pick it up on DVD to finally know some of the dialog that had every Korean person in the theta sobbing by the end of the movie. Really, a great story. You Are My Sunshine (English title) covers the issue of AIDS as well as prostitution, two topics that are still a little taboo in Korea, as well as much of Asia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42fa94b673ac3361879f1c0986da284a521c25bf8af16083d781d5115314eb0e
+size 659

@@ -1,1 +1,3 @@
-This is one of the worst movies I have ever seen. I didn't go in with high expectations, but as soon as it started I thought it might be o-k. It wasn't. Jim Carrey seemed to try, but he spoke all his lines as though he were some diabolic cartoon character. The other actors all seem to try their best but are kind of wooden. The plot has a good basis, but the melodramatic lines make it dull and kind of stupid. I was laughing during the whole second half of the movie, and after five minutes of that I got tired of that. Most plot 'twists' you could see from several miles off. It's just not worth watching. I really wish I hadn't wasted my time with it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93c5cc414ba56c94cd667621b63bc0a856d711570f04a2c3a4fc5d99e9d0988
+size 655

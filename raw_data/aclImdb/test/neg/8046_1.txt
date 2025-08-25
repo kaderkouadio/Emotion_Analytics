@@ -1,1 +1,3 @@
-This is no doubt one of the worst movies i have seen in a long time. I was expecting alot more from the actors. It started alright, then things go from idiotic to absolutely ridiculous. Definitely not worth renting except if its a free rental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba183c1d971a5dcfde9ad2928f640ae37bfd93cadb1fc857743d6ed4e8590a6f
+size 243

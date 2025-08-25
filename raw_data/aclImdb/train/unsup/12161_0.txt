@@ -1,1 +1,3 @@
-The key to understand this great movie is the poem by Dylan Thomas: "in my craft or sullen art" "In my craft or sullen art Exercised in the still night When only the moon rages And the lovers lie abed With all their griefs in their arms I labour by singing light Not for ambition or bread Or the strut and trade of charms On the ivory stages But for the common wages Of their most secret heart.<br /><br />Not for the proud man apart From the raging moon I write On these spindrift pages Nor for the towering dead With their nightingales and psalms But for the lovers, their arms Round the griefs of the ages, Who pay no praise or wages Nor heed my craft or art." Two works of art:the film and the poem<br /><br />tadzio filippini
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e2db7619ebac8c8d4a4a3116273723ff1de3cbd948638c08d6fcb4e7a25d6ef
+size 730

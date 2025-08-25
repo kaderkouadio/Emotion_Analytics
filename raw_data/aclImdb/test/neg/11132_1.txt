@@ -1,1 +1,3 @@
-Great concept, perfect characterizations and voices, but a complete waste of time. A real shame since had it aimed higher, it would probably not have been the bomb it was (is); way too dependent upon scatological humor, for starters. I'm amazed by comments from "educated" reviewers referring to the "good science" behind this piece of puerile trash. Unlike "Finding Nemo," where (with a bit of suspension of disbelief) attention to detail was staggering and the science was as good as the context would allow, "Osmosis Jones" was utter nonsense; don't kid yourself about the science. Humor aimed at eight-year-olds but subject matter suitable more for some unsophisticated teens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:911cdf1caa5c7cb83ac539c74e40d8d113e8a2343b86c4dd0bee381b180f31cb
+size 680

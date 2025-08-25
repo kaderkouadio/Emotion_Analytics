@@ -1,1 +1,3 @@
-While this is not quite the train wreck that TRAIL OF THE PINK PANTHER was, it's still a pretty weak entry in the PANTHER series. Ted Wass is bland and ineffectual; when I watch him here I keep thinking of how much better this movie could have been if most of his scenes were acted or directed differently. One of the few times he made me laugh was when he was doing the voice for his "instant companion."<br /><br />The "new Closeau" at the end was an interesting touch -- not convincing, exactly, but funny.<br /><br />In hindsight, if Blake Edwards really wanted to wrap up the series after Sellers' death, I think it would have been better if he combined the "using deleted Sellers scenes" concept from TRAIL with the "searching for Closeau" concept from CURSE into just one movie, and left it at that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f5bb8a0e1ecaf951007eae7747bf916d03542fc13b74d8824f15dcb4579e26f
+size 806

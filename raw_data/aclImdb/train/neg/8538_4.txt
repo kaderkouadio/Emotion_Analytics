@@ -1,1 +1,3 @@
-This movie got off to an interesting start. Down the road however, the story gets convoluted with a poor illustration of ancient black magic rituals. The male lead was very good , even though he gets the worst end of the stick in the climax. In comparison, this is "Boomerang" meets "Extremities".<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db554346baca9c7550099dff7da07d39fc1e25498c99fd1f0dcff20705f5467
+size 309

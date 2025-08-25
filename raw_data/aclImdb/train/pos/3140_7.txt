@@ -1,1 +1,3 @@
-This is a bad movie in the traditional sense, but taken for what it is meant to be it is quite good. Very funny and well made, although there are a few death scenes that are in bad taste, what with jiggling breasts as a girl suffocates and so on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e168fb5515b7d89b9b018b2715346df5add7f9df7e80aa49ed99452e9d729e
+size 246

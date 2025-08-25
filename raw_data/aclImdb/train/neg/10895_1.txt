@@ -1,1 +1,3 @@
-I have seen a lot of bad films. Most of the time I can enjoy a crappy horror film for what it is. But this really takes badness to new extremes.<br /><br />It is bland, the plot for what it is never really goes anywhere and takes its time over it. There are no shocks, no horror, no suspense, just a load of guys rubbing themselves for an hour and a half and then a quick finish.<br /><br />A blight on the crappy horror genre, avoid at all costs.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:3705b44d442fc8713f3b446f4b344c853b39d6ca6dadabc1018a17f7f7a20ca3
+size 459

@@ -1,1 +1,3 @@
-I thought this movie was both moving and funny and more important believable. The characters were well thought about and played with charm. At no point was it a in your face film and thought about its subject with a fresh and likeable understanding. My one disappointment was the thought that the only way for young gay people was to find each other was to go to the toilets or woods, Or that all gay people want is sex Come on lets get a bit more original on that one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64c358e7e14610f44ed4cd518de5294fdb1b3a91e289230530f035b6547cbf4a
+size 469

@@ -1,1 +1,3 @@
-This is one of the more adorable episodes of the Twilight Zone, with some fun dialog and amusing characters to break the tension of some creepy moments. There's the usual blond vamp "dancer" (what is up with Serling's fondness for that kind of character, such that she keeps showing up in various episodes?) and other assorted characters, but it's Jack Elam's "old man" who totally steals the show. I consider this the funny, light-hearted version of "The Monsters Are Due on Maple Street" -- or, perhaps, a 20-minute Twilight Zone parody of "The Thing." On another note: I thought the young lover of the episode might be someone who eventually went on to other things -- he looked familiar -- but it seems that "Ron Kipling" disappeared after just two TV credits to his name.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17779fb78e94cab5912b6f62c574b383c9d75f85fa1a0432df9eddc33084bdd6
+size 776

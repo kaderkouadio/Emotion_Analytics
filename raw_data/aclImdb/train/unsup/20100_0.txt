@@ -1,1 +1,3 @@
-This is one of the rare kungfu movies ever made in Hong Kong. Nothing is boring here : interesting script, direct and efficient scenery, good acting. But what makes this movie so good is the fightscenes that are inventively and beautifully choreographed. Not only it's very good but it's also very hard-to-find. Dammage.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20e4e8bdd4e79ccf7208e6703929b8c6b6c6c0159f91b872f1ddc215f22c0136
+size 320

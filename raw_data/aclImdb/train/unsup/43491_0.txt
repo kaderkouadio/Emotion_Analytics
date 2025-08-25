@@ -1,1 +1,3 @@
-This is a strange, lukewarm chiller that arguably for the first time in the movies has a corpse telling the story of her mysterious death by way of flashbacks from a lab in cold storage. This is also the only movie that Bela Lugosi played in that was released in color. The mysterious green mask that keeps appearing in the window does fit into the weird story line. Albeit this 65 minute mystery/drama is more odd than horror.<br /><br />Beside Lugosi, very familiar faces show up in the cast: George Zucco, Roland Varno and Nat Pendleton are aided by Molly Lamont and Gladys Blake.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1886dc9c655b8f35e064727ea263cf36ae00d91c1a613fb35de6241e53bc729f
+size 583

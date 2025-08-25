@@ -1,1 +1,3 @@
-A great movie about triumph over all the nay-sayers who try to kill your spirit, achieving the impossible. I won't go on about it, other than to say that I liked to reflect on the this film when I'm facing something particularly daunting, and realize that if Lindberg could do what he did, I can certainly face the task before me. Definitely a "feel good" movie.<br /><br />See it. You won't be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd580fd4ac71dbe3b01695e55eb0f5a58ba28327e043907f21ad4c4392a2fe8
+size 408

@@ -1,1 +1,3 @@
-I'm glad I didn't have to pay to see it.<br /><br />Not much more to say. The few funny moments are rip-offs of movies like American Pie. The rest is like staring at a photo of a corpse with a lot of smiley faces drawn on it. The corpse, however, will be a lot happier than someone who had to watch this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e27e5a52910d6d0a7637bd9d9aaf5c35e9719cc3418439c8e008ca60d12d642
+size 310

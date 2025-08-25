@@ -1,1 +1,3 @@
-Jamie Foxx is fun but this movie has been done before. The bad guy plays a "malkovichian" character from "In the Line of Fire". The cops will do anything to find the bad guy - and of course the good guy has two sets of bad guys and one set of cops after him - all the while he is just trying to turn over a new leaf...
+version https://git-lfs.github.com/spec/v1
+oid sha256:1288613f3c9d4d7714d355b38c505d2715def83d3be0c376646b011c13a3693e
+size 318

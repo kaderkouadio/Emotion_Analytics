@@ -1,1 +1,3 @@
-Enormous suspension of disbelief is required where Will's "genius" is concerned. Not just in math--he is also very well read in economic history, able to out-shrink several shrinks, etc etc. No, no, no. I don't buy it. While they're at it, they might as well have him wearing a big "S" on his chest, flying faster than a jet plane and stopping bullets.<br /><br />Among other problems...real genius (shelving for the moment the problem of what it really is, and whether it deserves such mindless homage) doesn't simply appear /ex nihilo/. It isn't ever so multi-faceted. And it is very rarely appreciated by contemporaries.<br /><br />Better to have made Will a basketball prodigy. Except that Damon's too short.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf031df27dc880cd7fac0c6792d7df2ab32ebd82ca7404ca67174905f996196
+size 712

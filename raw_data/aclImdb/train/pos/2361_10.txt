@@ -1,1 +1,3 @@
-I am one of Jehovah's Witnesses and I also work in an acute care medical facility. Over the years I have seen people die from hemolytic reactions to blood transfusions, have attended numerous conferences on blood born pathogens, and have seen several patients become seriously ill from pathogens induced by transfused blood. I have also heard several Jehovah's Witnesses being told that they will die if they refuse blood and after 26 years in the field I have never actually seen it happen, leaving the question, "is it really unreasonable to refuse blood transfusions or is the community at large benefiting from the battle on this issue?" The issue for Jehovah's Witnesses is a moral one. "You must abstain from blood" is not an ambiguous statement. Thank you for this movie and allowing comments on it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a0e0e1fe28bfc70e547a39938dfb46ab08c6c044ce4ef3b18dc73e31502d94
+size 806

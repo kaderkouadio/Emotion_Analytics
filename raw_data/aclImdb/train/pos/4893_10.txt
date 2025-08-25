@@ -1,1 +1,3 @@
-This film was in one word amazing! I have only seen it twice and have been hunting it everywhere. A beautiful ensemble of older screen gems who still have that energy. Judy Denchs ability to carry the whole film was amazing. Her subtle chemistry with the knight in stolen armour was great
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a217a693439cc76ec1fd98113476f4c8a60f9daf93d5a3079090d0bf95227c
+size 288

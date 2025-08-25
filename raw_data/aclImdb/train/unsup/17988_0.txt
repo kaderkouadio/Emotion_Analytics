@@ -1,1 +1,3 @@
-"Dennis the Menace" is unique in its own way because it's observant. This movie made me laugh at stuff i've always laughed at and things i'd never thought I would laugh at. The film can be surprisingly innocent at times and sincere and heartwarming. And the kid who plays Dennis is a way better actor than Macaulay Culkin. I liked the film for its imagination and humor. A good film. I also liked how they showed Dennis trying to resist the temptation to do something bad but can't resist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7e18499a6b07f7921f1974d9ddbc8eb4e8d7ab5bd091724f79bacd453201992
+size 489

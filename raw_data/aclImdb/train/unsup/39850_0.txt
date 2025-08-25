@@ -1,1 +1,3 @@
-This movie is so awful it's fantastic. It has everything -- a lead actor who moves his eyebrows up and down to convey strong emotion, unnecessary (ludicrously unnecessary) nudity, idiotic death scenes (the best one is when Ricky shoots a car with a handgun and it flips over and explodes). Yeah, that makes sense. Oh, and the script is outstanding. Watch for a provoked Ricky saying, "Punish!!!" and "Garbage Day!"<br /><br />If you get a chance to see this one, don't miss it. It's one of my favorite movies ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74fcae2621e943440ca65c478ea6352fb500e52aa2a41274e76ad1839cd43920
+size 514

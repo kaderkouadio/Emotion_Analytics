@@ -1,1 +1,3 @@
-This film is about a family trying to come to terms with the death of the mother/wife by moving to Genova, Italy.<br /><br />The plot of "Genova" sounds promising, but unfortunately it is empty and without focus. The film only consists of a collection of scenes depicting the daily life of the family, such as swimming, taking piano lessons or cooking eggs. Most of such scenes are redundant and tiresome, completely failing to engage viewers emotionally. The ending is very disappointing as it is not spectacular, moving or emotional. I can safely say that I am disappointed and bored by "Genova" The only thing good about the film is the sunny weather and the beauty of Genova. "Genova" can serve as an extended tourism advertisement for the city, but not as a film to be enjoyed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ab26f0d2508f3ace10b3beefb68d47ddf975157e812db0e26b74d727bab9fc3
+size 782

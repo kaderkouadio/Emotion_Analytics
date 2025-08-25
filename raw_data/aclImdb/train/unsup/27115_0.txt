@@ -1,1 +1,3 @@
-Wonderful film. Cinematogaphy is brilliant. Story is one long overdue in telling (few people knew of the diggers prior to this film, outside of a small alternative community). Memorable scenes, such as the crossroads confrontation between the Puritan parson and Winstanley. The battle scenes at the start are artfully, sparingly, and convincingly drawn. <br /><br />Winstanley himself may come off as a bit saintly, but he's nonetheless compelling, and a good choice for the role (he was a schoolteacher by trade and amateur actor). The attention to historical detail borders on the fanatical, and is well worth watching. And much of the dialogue is drawn from actual writings of Winstanley himself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88090ffd6a2d8648970a2ecbb5078e3f0637ac6278711faeadebd58613d3ae65
+size 699

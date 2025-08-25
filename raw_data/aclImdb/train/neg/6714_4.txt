@@ -1,1 +1,3 @@
-Oh, well, this movie starts off well. It's kinda funny and seems like it could be a fun movie. Then it becomes a bit serious and goes off the rails. It sort of wants to be 'Boogie Nights' but it can't achieve it. If only it stayed with the tone of the first quarter of the film...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ea689f572aa8293deb9f3f8321ce1c8ef5ff5445500197af39ce022001ea2d
+size 280

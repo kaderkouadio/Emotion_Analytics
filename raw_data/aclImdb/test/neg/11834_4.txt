@@ -1,1 +1,3 @@
-Screen treatment of the comedic Broadway success "The Gay Divorce" (a title which was considered too scandalous for American moviegoers, though it was used in the U.K.) concerns a man and woman (Fred Astaire and Ginger Rogers) meeting under embarrassing circumstances while she's in the process of divorcing her spouse; they dance, argue, make up, dance, argue some more and dance some more. Betty Grable is very appealing in a brief bit (singing and dancing in the number "Let's K-nock K-nees" with overtly sissified Edward Everett Horton), but the star-couple looks distressed and unhappy throughout. The surroundings are screwball-sophisticated yet the characters are not more than one-dimensional. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:edfe253958676b0d98c20845584e45edb13bcdf864529b9753f1a44ae2beba9c
+size 716

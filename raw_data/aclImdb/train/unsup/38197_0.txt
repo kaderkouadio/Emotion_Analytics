@@ -1,1 +1,3 @@
-A slasher stalks kids at a....well, at a cheerleader camp, slaughtering them in the macabre ways introduced in the FRIDAY THE 13TH series.<br /><br />Some good gore scenes, some great gratuitous female nudity, some lame one-liners, adds up to a delight for slasher fans. Other need not bother.<br /><br />MPAA: Rated R for graphic violence and gore, nudity, sexuality, and some language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85ca5cf9b04ca5e87c5975f8b02f64a0e9b4ecdc2d10f647b522d5978ac89191
+size 387

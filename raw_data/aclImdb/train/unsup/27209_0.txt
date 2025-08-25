@@ -1,1 +1,3 @@
-Peck's third best movie. The supporting actors did flesh out the tension and struggle. The story line can be easily followed. The decisions made during the movie are predictable, but the realization that it is life and death struggle overwhelms the predictability.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:467480497b511b289fbb9cf42aa8644c6274d90e21b1ea6cc4a09814871f5145
+size 276

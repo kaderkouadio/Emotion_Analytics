@@ -1,1 +1,3 @@
-heres a fun fact, I was the baby in the movie, the one in the crib. :) I am 19 years old now. my parents took me to try out for the part, we lived in Texas at the time.I think I only made like 80 bucks for it, but i wasn't in it very long. My parents said i would cry when i was supposed to be happy and would be happy when i was supposed to cry. I was all mixed up. Strange and funny fact i suppose.. and no I am not a child actress. I am livin' in San Antonio, workin' at a walgreens. I graduated here in Texas but I lived in Maryland most my life. This Movie is a great movie, though, good concept. I have seen it several times in my short 19 years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f5ffc92823f62b12f715d41a312296f9685f28b7aac7a7a58853e7bcbbefee3
+size 652

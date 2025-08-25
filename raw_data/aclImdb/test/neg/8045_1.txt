@@ -1,1 +1,3 @@
-COC had its moments. I enjoyed the action sequences, but I despised the screenplay and plot. I hate this film so much, I'll just write about the dumbest part. First of all, the plot would never happen. Second, the bleakness of the Chinese President was uncalled for. That would never happen. Finally, the dialogue. Employing non-Chinese actors to play Chinese roles is understandable, but to write dialogue for them that's TOTALLY OFF is dumb! For those of you who understood the Chinese in the film, you know what I mean.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a19860e7ee4567bb4460636645716d68b8a02c19c68193e40769a2f0bd4d3362
+size 522

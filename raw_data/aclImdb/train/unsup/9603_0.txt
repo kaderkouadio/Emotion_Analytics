@@ -1,1 +1,3 @@
-At first, this movie seemed like your typical Playboy film. Two sex scenes within the first 20 minutes, woo! But then things actually develop into this weird Hitchcock-esque story with multiple twists. All in all, however, the pure brilliance of the writing is ultimately ruined by the poor acting and subpar direction.<br /><br />Definitive Brode!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f190326c6d70a55a43a0d48f7a508249bd9742250eb6776a940846a9e633579
+size 348

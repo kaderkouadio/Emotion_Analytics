@@ -1,1 +1,3 @@
-There is no denying that for its day and age this is wonderful.<br /><br />Given that it is nearly a century old it holds up very well.<br /><br />Though slow in places and long at 2 hours and 19 minutes I can imagine the original audiences must have blow away by the special effects, action, and story, costumes and sets etc;<br /><br />If course, the real selling point is Fairbanks who truly lights up the screen. Yes, its hammy even for a silent movie, but what comes across is his boundless energy, his enthusiasm, and the love of what he does.<br /><br />Recommended for all those who love swashbuckling adventures!<br /><br />A treat to go back in time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4d93ba1985c9a251d4b59fe6732f9e6be63fb8fb7215e0a145331d62ca1c5c
+size 660

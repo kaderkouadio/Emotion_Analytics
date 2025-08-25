@@ -1,1 +1,3 @@
-A couple of interesting footnotes. The wrecked train in the film is still visible today in the river where it sank in the film, somewhere in Tennesseee, I believe. Also, check out the civil war general played by Mike Donlin. Donlin was a star player for the New York (baseball) Giants, who parlayed his ballplayer's love of night life and glamor into a film career.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f63ffebba45eb76bdaa277e01f2f2a3b75c0158debe43dc9d90aebbdd1bd5442
+size 365

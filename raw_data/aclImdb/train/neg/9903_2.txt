@@ -1,1 +1,3 @@
-This true story of Carlson's Raiders is more of a Army training film than anything else.Obviously thrown together quickly on a miniscule budget about the only thing it has to recommend it is an early performance by Robert Mitchum,who's the only decent actor in the cast,and actual footage of the wreckage at Pearl Harbor which gets your blood boiling,as it was obviously intended to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c3ca97f3ceebd3716a6b1e75bf0dd0cdbe6d565cadb2713a194c3b13f1aaae4
+size 386

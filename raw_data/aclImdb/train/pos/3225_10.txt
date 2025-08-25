@@ -1,1 +1,3 @@
-When I rented this movie to watch it, I knew that it was not going to be a mindbender movie. Instead I thought of it as a disbelief of reality where someone is going to get a serious beating. And you know what it worked. Kurt Russel did what I though was a remarkable role in showing the emotionless soldier that he was. I recommend this movie if your out with the boys and want to watch a good action film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9ea53ad4113553f8d673f31649dea1bd0a9ed9f318d95f87f507fc022cb5081
+size 407

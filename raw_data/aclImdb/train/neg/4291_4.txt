@@ -1,1 +1,3 @@
-The movie was disappointing. The book was powerful. The views and the learning of Little Tree were powerfully portrayed in the book. The movie just coasted along and finally dribbled away. Still a nice tale for kids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae20cba38793693849966e0a6e26fdd117a58f3e171b8d4adefc9040b4ab966e
+size 216

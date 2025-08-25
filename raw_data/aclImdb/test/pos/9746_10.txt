@@ -1,1 +1,3 @@
-Flash Gordon was a first rate serial. I know there were a few goofs, however, i didn't watch it for the flaws. Buster Crabbe is Flash Gordon. He was not a trained actor but he gave a very good, convincing performance. Jean Rogers is pretty and at 20 yrs. old did, in my opinion, a pretty good job. Charles Middleton as Emperor Ming, is superb. He was in a lot of other movies, quite versatile, he could sing and dance. His portrayal of "Ming The Merciless", in all 3 Flash Gordon serials, was top notch. The rest of the cast also did a very good job. Well, boys and girls, get some popcorn, settle back and enjoy. John R. Tracy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d68d8b71f6b77d48307e4392b586ff8bc72bd04237e6f76576d4521519b327a7
+size 628

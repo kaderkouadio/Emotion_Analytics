@@ -1,1 +1,3 @@
-Very silly high school/teen flick about geeks trying to prove themselves better than the rich brats. Sound familiar? This television movie from director Rod Amateau ("Uncommon Valour" and some "Dukes of Hazaard" episodes believe it or not) says nothing, does nothing, and surely will entertain very few.<br /><br />Notable for its "who's who" of television cast, including Michael J. Fox, Bob Denver ("Gilligan"), and Todd Bridges ("Different Strokes"). This lame effort barely limps over the line. Also stars Anthony Edwards ("E.R.").<br /><br />Saturday, September 5, 1998 - Video
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c9229f22c81ea42cd47aedeb3c848fd99323e19bf00e0d229666f053a05cb6
+size 582

@@ -1,1 +1,3 @@
-TV may be mostly a wasteland these days, but every once in a while, a fine original film shows up on the tube. `Dinner With Friends' is certainly in that category. It takes the viewer deeply into the relationship between two couples and within each. They were best friends until one of the marriages hits the rocks. We see each side of that split and how it affects the other couple. Initially, sides seem to be taken along gender lines, but that reverses as each member of the separating couple finds new relationships. Is it fatal to the other marriage? Watch and see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59327b77958186087aff7f8e0df694995dd7abb8602afe46da80c83989d2a86a
+size 570

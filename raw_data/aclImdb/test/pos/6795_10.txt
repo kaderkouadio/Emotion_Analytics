@@ -1,1 +1,3 @@
-After my 6 year old daughter began taking riding lessons I started looking for horse movies for her. I had always heard of National Velvet but had never seen it. Boy am I glad I bought it! It's become a favorite of mine, my 6 year old AND my 2 year old. It's a shame movies like this aren't made anymore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dbf32cfd2ab0adb2c3afd0956a42fec8900759ef3f84a05a34d6ec92fe5713a
+size 304

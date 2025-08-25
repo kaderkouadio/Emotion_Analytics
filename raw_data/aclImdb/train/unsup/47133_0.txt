@@ -1,1 +1,3 @@
-This is probably the worst Tori Amos performance I have ever seen. I have seen her live 3 times, and most of her televised performances including her appearances on MTV Unplugged, Hard Rock Live, and PBS. Most of the originals have improvised sections. As a Zeppelin fan I am all for improvisation as long as it adds to, while improving the song. However, her improvisations here do neither. She sings off key on occasion, and the performance seems a little forced. If you want good live Tori get a copy of her performance on Hard Rock Live. Rating: 4/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b71d87d851a7e9fe839afb7db56d200a1941a60b7f91f5aac9f1c998fb822816
+size 555

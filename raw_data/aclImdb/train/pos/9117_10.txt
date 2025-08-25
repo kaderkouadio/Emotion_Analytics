@@ -1,1 +1,3 @@
-This film provides us with an interesting reminder of how easy it is for so many to get caught up in the busy occupation of doing nothing. We as a people of African descent owe it to ourselves to make a change to this cycle of "all talk and no action" and start to realise in order to make a change, there needs to be less talk and more action. It is a powerful statement of the divisions of our people over small issues, and our failings to recognise the bigger picture and the need to unite in order to make a difference... Despite its reference to the black community, all viewers can learn something from the message this film seeks to portray.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53fdc2fb557a7155b977a913df45822a863ee5f589dffed3ff46c5240dfdc548
+size 648

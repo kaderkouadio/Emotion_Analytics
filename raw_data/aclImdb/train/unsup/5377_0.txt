@@ -1,1 +1,3 @@
-Great comedy for those who like the Scottish spirit and sense of humor. Fairly low budget look doesn't hinder the film except for the sound track. Lot's of memorable scenes and quotes. I enjoyed it for the characters and not so much for the look or the sound.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7c8c43ca25ff097a37b4efb3ac309b1ab5e0e318661077068a1c4a2a5a94ccb
+size 259

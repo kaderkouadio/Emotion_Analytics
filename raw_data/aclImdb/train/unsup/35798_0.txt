@@ -1,1 +1,3 @@
-The Harley-Davidsonesque graphics on the video box are the best thing about this film. Oh - and the jiggly cut-out credits at the end of the film. You will rarely get the chance to see acting as bad as this. So slow it took me 3 days to watch all 90 minutes as there were so many more exciting things going on, like the phone ringing, dogs barking, taps dripping...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cfa112faa7526ad5f7ff56f379c48a82cbbb22db91bb8a7b3712a0bab74c9d0
+size 365

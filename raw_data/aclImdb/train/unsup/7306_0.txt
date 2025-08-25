@@ -1,1 +1,3 @@
-Yves Simoneau uses the stereotypes of Canada, the beer factory, the hockey rink, the snow-covered wilderness, as his setting to examine its relationship with its bombastic neighbor to the south. But instead of a heavy geopolitical study it's actually a hoot. He throws in opera and cross-dressing for fun, and Robbie Coltrane gives a fabulous performance that almost steals the show. Yet the entire cast hits their notes well, with the smaller parts especially shining. Beautifully shot, it's a gem of a film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8198348eb85560d38a080d449da0ce3aeed78ac53fbf6bed32a16fe732046be4
+size 509

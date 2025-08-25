@@ -1,1 +1,3 @@
-The book the movie is based on -- Burglars Can't Be Choosers -- and the whole Bernie Rhodenbarr series by Lawrence Block are simply marvelous books - must reads! This movie does a great disservice to the book. The casting choices are odd, given that Bernie is a male character -- and is played by Whoopi Goldberg -- and Carolyn (Carl here) is female, played by Bobcat Goldwaith. This effort to be clever is really a smokescreen for a badly written adaptation. The book is delightful and a joy to read, the movie is heavy handed and dark, with none of the light charms of the original text. My advice to you is simple: In this case, avoid the movie, read the book!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b05b88d6fe9a3eaf17d6b3e2aeb3565205a17c71e73bf530cf05adc0acf6094d
+size 663

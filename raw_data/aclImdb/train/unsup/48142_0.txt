@@ -1,1 +1,3 @@
-This film has the unlikely premise of a popular young musician using his charisma, youth and influence to win over the American public to a more youth-inclined culture, a one with no time or patience for adults. Basically this is out to shock and it succeeds in this respect..however there's really very little message or meaning here beyond that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88421d1e2e3830ecb281b8baa5363e628b6af6c83b3d8f6cb03265a55342bde9
+size 347

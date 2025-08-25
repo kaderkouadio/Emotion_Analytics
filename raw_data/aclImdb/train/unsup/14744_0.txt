@@ -1,1 +1,3 @@
-This is my favorite of all the John Waters movies. The script alone is priceless. It is really amazing to hear David Lochary, Mink Stole and Divine spout out lines of harsh, cutting dialogue...but to appreciate it, you really need to see the other wonderful movies he has done, especially Pink Flamingos, Female Trouble...well, just about anything! I highly recommend it to anyone with a sharp sense of humor. If you don't, you will not appreciate it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aebee0e2590752b073cddedd1b5751d878a6b2c34fbeeb4e87515880be4a528
+size 451

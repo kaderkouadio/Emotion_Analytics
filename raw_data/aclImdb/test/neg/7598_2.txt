@@ -1,1 +1,3 @@
-When I first saw this DVD in a bargain bin for three dollars, I really couldn't believe my luck: a Christmas movie starring Tori Spelling, William Shatner, AND Gary Coleman??? Needless to say, I snatched it up immediately and considered it a worthwhile investment.<br /><br />The movie itself was just as bad as any movie you'd expect to be combining Christmas and the three aforementioned "celebrities." The dialogue was inane, the characters were one dimensional, and Carol's character arc was completely unbelievable. The movie itself was a lifeless piece of boring that refused to end and made me feel used as a human being when the end did finally come.<br /><br />My advice: Don't watch this movie unless you have to and then only under the influence of some serious holiday eggnog.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fbfcd59975c264b2075516141355c1f8f4e4f9dcf74cafc64d1d178ef38eba0
+size 788

@@ -1,1 +1,3 @@
-Taken straight from "actual files of the Hollywood Vice Squad",Penelope Spheeris' fourth film tries to be both a comedy and serious drama at the same time,and fails miserably at both.The comedy doesn't work,and all the actors look like they're acting underwater,so the viewer ends up not caring what happens to any of the characters.This movie is like watching a train wreck in progress,without the adrenaline flow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ca1711027919fecf0f0b3c3f976dab987f8f54fe6a6561c16371967117bd7a
+size 415

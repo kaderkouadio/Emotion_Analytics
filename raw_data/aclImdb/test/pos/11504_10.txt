@@ -1,1 +1,3 @@
-If this film doesn't at least be selected for an oscar nominee for best foreign film I'm going to stop waking at nights watching the event. Fridrik Thor Fridriksson has proven that money isn't the key to making a good movie but originality. Out of a cold country comes a warm but thought-provoking film of a mentally ill man and his struggle against an insane world. After an insight like this, you question whether or not the man is crazy or the world he lives in.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f600731876867a5924158b9b0ca232b547c22f692ff92468ef6a4e745f3797a0
+size 465

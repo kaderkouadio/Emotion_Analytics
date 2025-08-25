@@ -1,1 +1,3 @@
-Great surprise from Peter Jackson on the Fellowship of the Ring Extended DVD. Jack Black hands over the One Ring at the Council of Elrond. Problem? He got drunk with some mates the night before and got is...put somewhere personal.<br /><br />Spliced together with the scene from the film, this is a great little treat for people who hate -- or love -- The Lord of the Rings.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feb3e3772f0791b6c2918ea5858e75f1aeb04a55d5c71ec4b49a59be2b76a6e8
+size 374

@@ -1,1 +1,3 @@
-A very close and sharp discription of the bubbling and dynamic emotional world of specialy one 18year old guy, that makes his first experiences in his gay love to an other boy, during an vacation with a part of his family.<br /><br />I liked this film because of his extremly clear and surrogated storytelling , with all this "Sound-close-ups" and quiet moments wich had been full of intensive moods.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:58ddc4542b1bd929a5e48521cab76a8a165bb32b752f1f92ef92707633e76c79
+size 412

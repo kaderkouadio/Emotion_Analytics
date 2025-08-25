@@ -1,1 +1,3 @@
-"The Chilling" directed by Deland Nuse and Jack A.Sunseri is one of the worst zombie flicks I have ever seen.Why Linda Blair("The Exorcist","Witchery")appeared in this stinker is beyond me.The plot is really dumb:the frozen bodies at a cryogenic lab are revived after lightening strikes and turned into cannibalistic zombies.The characters are completely one-dimensional and stupid,the zombies look horrible and there is no gore.Avoid this cheap piece of trash like the plague.My rating:1 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09ca0aab92d664b8157a4ef8abcdc9898f3c7a955522de3a4d412e97936f8dec
+size 499

@@ -1,1 +1,3 @@
-Oh, this is such a glorious musical. There's a bit of miscasting -- Frank Sinatra is sorely miscast as the Jewish Nathan Detroit, though it only becomes evident on "Sue Me", which is a distinctly Jewish song. Sadly, the filmmakers decided to cut out one of the best songs from the show, "Marry the Man Today", and replaced it with an inferior Sinatra showpiece. With these two flaws in mind, the movie is otherwise magnificent. Jean Simmons shines as Sarah Brown. Marlon Brando can't sing worth beans, but pulls it off anyway. Stubby Kaye wonderfully reprises his Broadway role (it was written for him). Damon Runyon's language and pacing and humor come through quite well. This is on my see-it-every-chance-I-get list.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f0c6ed5757ca1b7a68e9099b809cdbcebe4e6164496d842468fa78be1d2f80f
+size 719

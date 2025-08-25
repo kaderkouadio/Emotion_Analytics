@@ -1,1 +1,3 @@
-With a strong cast including Tony Shalhoub and Maggie Gyllenhaal, we assumed this "brilliant comedy" would at least be moderately funny. We were wrong. Not only were the moments of humor rare, but the overwhelming lack of motivation left us scratching our heads. The actors did engage, and each character had enough depth to sustain an interest, but only enough to feel let down at the end. Apparently, the movie was "about" 9-11, and if the point was to portray the feeling of pointlessness and futility that many of us felt after the attacks; mission accomplished. At least it didn't meet the 90 minute minimum for Oscar consideration, or we would've had to hear people talk about how great it was.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f51926bcc6bef269444b07a5d6cf6f9f544e2f861c6b8b66053afcdebb5e713
+size 700

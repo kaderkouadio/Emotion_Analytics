@@ -1,1 +1,3 @@
-It´s a fantastic vision of Hollywood's backstage,painful elationships,violence,and different points of view from the three main characters: Timothy Hutton, Michelle Burke and the great dark character that Joe Pantoliano develops here. A mad function that celebrates confusion of life and cinema, not even a bit of fun in the middle of the way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc27ac255da8288cd5445a1b88a7707e29d5550200496d3982868bf9a160e5f9
+size 344

@@ -1,1 +1,3 @@
-After eight Moto films the series had run its course, as this last entry demonstrates. Peter Lorre was clearly weary of trying to pump some sort of human interest and entertainment value into the wispy character of Moto, and the dreadful idea of pairing him with a "funny" British sidekick utterly defeats all his efforts here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b618ed8774d69f1ed3bdda6e16dbfb34d8623e0d10572fbeebcfeeae31f00f
+size 327

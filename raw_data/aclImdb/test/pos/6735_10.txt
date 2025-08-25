@@ -1,1 +1,3 @@
-This movie moves and inspire you, it's like you are one of the family. Just to see and witness life during the depression era, makes you feel humble and grateful. Jonathan Silverman delivered well, so convincing and very witty! A must see for Teens!
+version https://git-lfs.github.com/spec/v1
+oid sha256:236fd87e5fd27e32e12f0ceedaca90348f9aa2391ed8ac887f540074f0845832
+size 249

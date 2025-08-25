@@ -1,1 +1,3 @@
-Weaker entry in the Bulldog Drummond series, with John Howard in the role. Usual funny banter and antics, but not much plot. Barrymore gets something to do as the inspector, swapping disguises to follow Drummond, Algy, and Tenny on a wild goose chase (mostly in circles; perhaps the budget was tighter than usual) to rescue poor Phyllis, who is being held captive by people who want to lure Drummond to his doom. For those keeping score, in this one, Drummond is planning to ask Phyllis to marry him and Algy is worried about missing the baby's christening. It's fun to see Algy and Tenny dressed up as fisherman to blend in at The Angler's Rest, but little of it rises above silly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cac01eb0f0f5f5c79b2b61a01d951b1c08dcb571e6ca05122b8625f2efcfcc83
+size 682

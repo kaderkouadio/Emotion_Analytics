@@ -1,1 +1,3 @@
-The ending of this movie made absolutely NO SENSE. What a waste of 2 perfectly good hours. If you can explain it to me...PLEASE DO. I don't usually consider myself unable to "get" a movie, but this was a classic example for me, so either I'm slower than I think, or this was a REALLY bad movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0355bd5fd7ab5a25005cd8d0f3ededbee0c24bfe15d47896e2730b6ff1d70dd
+size 294

@@ -1,1 +1,3 @@
-I wasted my time and gave this show a chance. This has to be one of the worst new shows. If they gave an award to shows that suck THIS one should sweep the category. The acting is poor and the story line is contrived. Now Dinosaurs was a bit strange but at least it was entertaining. That show lasted three seasons and was finally scraped. This new show, based on an insurance companies commercials, is not funny and really has nothing going for it. Possibly the original commercials and the amount of times they were, and still are, repeated is what is wrong with this show. It just came to TV and already we are tired of seeing the "caveman" characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22a533c7a78adbdac8d12ad096d351d1dc77e3d84dedff6e6263ec9b2ae03d48
+size 655

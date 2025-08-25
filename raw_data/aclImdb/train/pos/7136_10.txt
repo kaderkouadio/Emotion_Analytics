@@ -1,1 +1,3 @@
-I saw the movie before I read the Michelle Magorian book and I enjoyed both. The movie, more than the book, made me come close to tears on several occasions. This film touches the deepest points of the human soul and never lets go. I encourage as many people to watch this masterpiece as much and as soon as possible. I give it ten stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e357c05e1506acd3a20b245be70e133e858b604fe827789069944a972563b39
+size 338

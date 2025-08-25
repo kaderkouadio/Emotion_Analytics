@@ -1,1 +1,3 @@
-The movie hardly makes sense. However, its redeeming value is seeing a young Babe Ruth and the historical footage of the Polo Grounds as it appeared in 1920. The highlight is seeing Ruth at bat in a real game -- the pitcher winds and throws and the Babe swings and hits the ball, and then runs the bases. Terrific stuff. Early in the film Babe takes a turn on the mound. Before he gained fame as a hitter he was an outstanding major league pitcher. The scene involves a sandlot game. I'm not sure Babe gave it his actual windup, but it looked good and professional. The view of the Polo Grounds stands shows the largely male crowd in derby and straw hats. The closing shot was taken from the clubhouse area, which was in back of centerfield. It's too bad all this happens at the very end of the picture.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51ca5cba1e9c582ed65512a925fa9f3bf48d07216e5b47f6b669aedd3d021096
+size 803

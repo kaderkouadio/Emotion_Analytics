@@ -1,1 +1,3 @@
-and it's a damn funny movie (at times) to boot! We've all heard about Mariel Hemingway's bisexual proclivities and this film just adds more fuel to the fire that she seems to want to fan. Fine with me! Mike Binder has made a very enjoyable picture, and I never got bored with it. 97 minutes is just about the right length - any more and he might have lost me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4282f37add9ca22512e187eccb09448feefac461cc066899393aba3ef5dc4512
+size 359

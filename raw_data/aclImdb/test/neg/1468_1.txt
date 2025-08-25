@@ -1,1 +1,3 @@
-This movie sucked wind. I imagine that the other 300 people that gave this movie such high votes must be independent filmmakers. I can't imagine that anyone else could possibly find it funny or even slightly entertaining. I feel like 100 minutes of my life were just wasted.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ff681222e7f5c8011b12645b4c408bd9f83827e47df37e760923b679128717
+size 274

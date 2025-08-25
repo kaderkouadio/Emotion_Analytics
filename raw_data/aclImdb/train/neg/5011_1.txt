@@ -1,1 +1,3 @@
-...And I never thought a movie deserved to be awarded a 1! But this one is honestly the worst movie I've ever watched. My wife picked it up because of the cast, but the storyline right since the DVD box seemed quite predictable. It is not a mystery, nor a juvenile-catching film. It does not include any sensuality, if that's what the title could remotely have suggest any of you. This is just a total no-no. Don't waste your time or money unless you feel like watching a bunch of youngsters in a as-grown-up kind of Gothic setting, where a killer is going after them. Nothing new, nothing interesting, nothing worth watching. Max Makowski makes the worst of Nick Stahl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f413133cef495a48c712059ab2100da529c1ab882f63956b8305ca597a287d0
+size 670

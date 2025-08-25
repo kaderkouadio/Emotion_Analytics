@@ -1,1 +1,3 @@
-Great, great, great! That is all I can say about that movie, but imdb want at least four lines of text so I'll elaborate. The cast was great (Jerry O'connel is soooo cute!), the music was great (The sixties had the best music ever, imho), the historical material was interesting, and so was the way they made the actors of the '90s seem like they were actually there in the '60s. And most of all - the stories of the main characters brought tears to my eyes, and that is the greatness of any drama. BUT IN ONE WORD: GREAT!
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c8af492007d6f3446447d270c4a2dbe93b433ce148efb8dc266269497c5546
+size 522

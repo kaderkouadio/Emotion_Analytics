@@ -1,1 +1,3 @@
-A bad day of movies. First, it's Dreamcatcher, which I couldn't even stand the last twenty minutes of. Now this! This is a chick flick, full of brainless nobodies (besides Perabo, what's she doin in this?), and it's a comedy. But with no laughs. The most hilarious moment would have probably been an unfunny catfight. So, this is definitely one to avoid. AVOID.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5edefb775307e2e975dc80d2f8e284408997037e5c8d84eb3fdc4460a4cb1bcf
+size 361

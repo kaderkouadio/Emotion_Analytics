@@ -1,1 +1,3 @@
-Why oh why do people make films that start off with a light-hearted attitude but in the end become grim and depressing. "Hickey and Boggs" and "Shout at the Devil" also come to mind in this respect. The only things saving this film from being lumped in with "Hustle" (the worst '70's Reynolds film in my opinion) is Jack Weston as a bumbling federal investigator and Jerry Reed as the icy evil villain. Of course, with the acting talents of Lauren Hutton on display, a lot more is needed than just a couple of good character actors. Add an exploitative ending that feels like it was tacked on for a sense of serious "drama" and you get one bad movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98057857487258c9cf720309aedd92875c8489997c661789ab83ed41571daa84
+size 650

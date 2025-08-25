@@ -1,1 +1,3 @@
-Words fail me. This film was extremely difficult to watch and in hindsight I really wish I hadn't done it. Although I attempted to sit through it until the end credits I have to admit I couldn't last for more than hour, so my opinion could be unfair. However, this film would require the most impressive final third in the history of film-making in order for it to be given a review which is anything but vicious.<br /><br />Please do not watch any part of this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3591a85feae84c9837991e3bfb2af87c001f9a204efebfa914704ab274a20ff
+size 467

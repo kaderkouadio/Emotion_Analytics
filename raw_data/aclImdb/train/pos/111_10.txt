@@ -1,1 +1,3 @@
-Before Dogma 95: when Lars used movies as art, not just a story. A beautiful painting about love and death. This is one of my favorite movies of all time. The color... The music... Just perfect.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ec348633eb7f1cddbd652e4e2964ea11dfc187826374a088428e16589fc1fb
+size 194

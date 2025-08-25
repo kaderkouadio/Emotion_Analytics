@@ -1,1 +1,3 @@
-A lot of people have forgotten how to have a good time over the years. This movie brings it all back with its witty humour and an original plot.<br /><br />Before Mike Myers began completely embarrassing himself with the third instalment of Austin Powers, he played many a great character. This movie is not to be missed. A 9/10 in my books.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37608cf5b53f49368d7ea35a4d95d88b04fd9798e16e9e68cd4270b493454506
+size 341

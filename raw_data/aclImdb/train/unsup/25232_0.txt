@@ -1,1 +1,3 @@
-This creaky and absurd film starts out promisingly enough, as young Joan Crawford does a decidedly risque dance to native accompaniment. It's all downhill from there, and the film's climax is particularly absurd, as Crawford makes up with lover Robert Montgomery immediately after shooting him! Not one of the brightest stars in MGM's firmament.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2abfd0e3ed30c388dab18c2415b3ced559449cb02400a19d159a075c0a8415ae
+size 345

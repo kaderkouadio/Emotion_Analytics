@@ -1,1 +1,3 @@
-This could be called an ideal film to turn men gay. Good grief, such an endless pile of heterosexual hogwash mixed with vaudeville pratfalls...Sorry, but I had to force myself to sit through this weak attempt at a comedy. And they even couldn't resist throwing in a line about the baby getting circumcized. Jewish fathers will love it. The rest of us, no thanks...
+version https://git-lfs.github.com/spec/v1
+oid sha256:d15866034a8f7d84ac49f89949ba2306db3ba8cd37e56792b2d215255c6f464a
+size 364

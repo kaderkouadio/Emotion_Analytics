@@ -1,1 +1,3 @@
-It took me the first 10-15 minutes before I realised that this wasn't a documentary, but was in fact a mockumentary. In other words it's all fiction. I loved that fact that the comments by Sam Neill, Leonard Maltin etc made it all seem so real. What a hoot. Well thought out, and well acted. Just love it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a668822d5f4a246a7d3f288fd95989d9768bcd805a6c3e2aad8143f84dff759
+size 305

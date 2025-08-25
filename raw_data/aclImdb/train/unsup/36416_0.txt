@@ -1,1 +1,3 @@
-My son is 8 and he enjoyed it. At three hours it was a too long for me, but I remember watching Tarzan movies for hours on Saturday mornings when I was his age, including those awful Mike Henry in South America Tarzan movies. This was better than those. So, even though I didn't like it much, I'm glad movies are still being made that a kid can watch and get lost in. One thing I thought was puzzling, they kept introducing characters that they never really did anything with. Steven Waddington was the only supporting character that managed to shine. The history was of course pretty silly, but they "fixed" that at the end. It made my son want to know more, so we went on the web and looked up what really happened. Definitely a "B" movie, with limited special effects and wooden acting, but still fun for kids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2680a1d278b4b80806eb03e02d053d511411289735e8f744469e9e232a0e5a3
+size 813

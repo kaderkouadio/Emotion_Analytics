@@ -1,1 +1,3 @@
-This movie was lame, lame, lame. What a build up! What a let down. All form, no substance. A terrible waste of talent and time. Would not recommend it to my husband's dog, who will watch anything.
+version https://git-lfs.github.com/spec/v1
+oid sha256:514e2bb49b72081cb87b0dfd2de532de09f1d06fe230a20f0e141946d2bd6a4f
+size 196

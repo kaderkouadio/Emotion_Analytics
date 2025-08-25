@@ -1,1 +1,3 @@
-''The General'' clearly ranks at the top of Keaton's work in silent film. This movie is eerily beautiful, funny and evokes what may be film's closest version of what the Civil War was really like. By the way, the story is based in truth. Keaton did other solid work before and after ''The General.'' But this is his best. Check out the scene in which he's on the train...the water spout douses him with water and he looks into the sky to see if it's raining. Or when he throws the chunk of wood at the cannon. Very simple, very memorable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa24eb942e06b4f525cd86fb451ffe0dd853f23100f72e11dfce0ef11cc4084
+size 538

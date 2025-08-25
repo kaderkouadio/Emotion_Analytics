@@ -1,1 +1,3 @@
-I remember seing this movie as a teenager when it was new. I still remember how the touching story burned inside of me, and the soft music that soothened the flames, created a epic memory. Since that first time, I have watched this movie at least ten times and it is STILL as great as the fist time. I really feels lika a "true story". Not like the rough (and often stupid) picture of vikings that Hollywood creates. I highly recommend anyone (above 11) to see this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8339389b74b80528f86d6756d8d126043aaeb9e3225a6dcddebf2b2345c1577c
+size 472

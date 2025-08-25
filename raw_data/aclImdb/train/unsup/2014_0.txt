@@ -1,1 +1,3 @@
-"So Close" is about two Hong Kong hottie sister assassins (Qi & Wei) who use martial arts, guns, and hi-tech gadgetry to take out an army bad guys...something about evil corporations and a score to settle for killing their father. Toss in a female cop with perpetual PMS (Mok), a whiff of pathos, lots of sass, pop culture trimmings, plenty of cool action with personality, classy stylistics, stunts, effects, CGI, etc. and you've got one fun girl power action chick flick. Jackie Chan & John Woo, look out! (B)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f8e00d8cf0f8bdd389910d8d35973deed6cbe0fe9e38440cf4c3a9689d6c3d4
+size 511

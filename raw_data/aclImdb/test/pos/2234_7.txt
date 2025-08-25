@@ -1,1 +1,3 @@
-This is a pretty clever, well-acted version of the "modern" 30s woman's fairytale romance. In this case, she helps the man she loves become head of the company while serving as his secretary and eventually wins his love from a scheming social butterfly. Interestingly, her business sense is shown as subtly parallel to her homemaking prowess, and the ladies of the office are depicted as the "powers behind the throne." Lifted way above the average by Mrs. Astor's intelligent performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c8dc73d04fa12b4f37c639da717744506774acbbef1bae82b2d0a33636565f5
+size 489

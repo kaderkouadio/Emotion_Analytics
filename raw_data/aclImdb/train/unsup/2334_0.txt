@@ -1,1 +1,3 @@
-I could understand why some people wouldn't find this funny - if you didn't absolutely connect with the humour that's involved, you'd almost describe DUST OFF THE WINGS as annoying. But, if you've ever glimpsed Sydney's party-surf-party-surf-party lifestyle, you'll know what this film's on about, and the humour is undeniably aussie. Kate Ceberano is surprisingly good; there are some fantastic and memorable quotes ("I'm opening a brothel." "Yeah? What's it called?" "C***s-R-us"); the acting, while not brilliant, is funny at least. If you want to see Sydneysiders making fools of themselves, DUST OFF THE WINGS is the ultimate viewing experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:768183166a6d5b3530a1c98733b87059ca76fbe3b0140c9ac384b2416010ca24
+size 650

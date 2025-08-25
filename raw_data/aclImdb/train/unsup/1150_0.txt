@@ -1,1 +1,3 @@
-Everyone in this website thinks this is a bad movie, but i wholeheartedly disagree.(pardon my spelling). Now it's true that buddy cop movies have been copied since 48 hours, but this one uses the formula they all use and cuts out all the cheesy special effects and awkward dialogue that the "bad boys" films had. Also, good movies don't have to be longer than 2 hours to be great ,and at 79 minutes, this film uses it's time wisely. Jackson and Levy are hilariously Miss-matched in two on key performances. So, just give this movie a chance and ignore the clear ripoff, the exorcism of Emily rose. One more thing, Roger Ebert gave this movie 1 and a half stars but he also gave, "the honeymooners" 3. Think about that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef6c732e10a80b39ab0e93a8904826c1f069deb5278bcc0a9a384086510b865
+size 718

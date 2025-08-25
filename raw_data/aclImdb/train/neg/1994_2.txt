@@ -1,1 +1,3 @@
-This film, originally released at Christmas, 1940, was long thought lost. A very poor copy has resurfaced and made into a CD, now for sale. Don't buy it! The film is unspeakably terrible. The casting is poor, the script is awful, and the directing is dreadful.<br /><br />Picture Roland Young singing and dancing. And that was the highlight.<br /><br />Perhaps this movie was lost deliberately.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c94bcda5a2f931e0c7194d68be790261fe9f2fb166e4d7fa489a7b8a4ea179
+size 394

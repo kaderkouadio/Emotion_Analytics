@@ -1,1 +1,3 @@
-Final Fantasy VIII is the apex of fantasy RPGs. Not only does it take place in a world we can believe and understand (a somewhat futuristic world that is fairly peaceful but still militarized), but it features characters we can feel akin to, for the first real time in the FF Series. These characters are very real; they have problems, ambitions and fears. They love and hate. They experience real hope and true despair. Final Fantasy VIII is truly the last great love story of the 20th Century... a story for the ages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9550faa00db1cf60b652c26a09c6129c3a12c0ce71c1a78d62420b8b07c171fc
+size 519

@@ -1,1 +1,3 @@
-This movie is mostly annoying. <br /><br />Many scenes are unnecessarily prolonged. I started to skip ahead through the last half, and it became slightly more tolerable. <br /><br />The dialog is stream of conscience, and mostly failed to contribute to the story. Maybe if I was thirteen it would be more entertaining. <br /><br />Music plays throughout the entire movie, which comes off as a failed attempt at creativity. I love new filming techniques and what not, but this just didn't work for me. The music makes the entire movie feel like an intro or intermission scene. Maybe it is an attempt to disguise the bad acting.<br /><br />To its credit, this would be a pretty good plot for a porno film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ced7d5f3db9dcb243a93f0135c12004447044993ddc0f7e4090f85c8428c472
+size 703

@@ -1,1 +1,3 @@
-The original movie ( dated 19??)did not show any "monster" , it just SUGGESTED scary "things" , .<br /><br />This version however shows every aspect of a "sick minded ghost" , including unnecessary special effects . <br /><br />The "mystery " ,as presented in the original movie , was the most scary part : one simply did not know what was causing the weird things that happened. By showing the face of the "old man" , this Mister has completely disappeared. Even worse : the special effects ( crying wooden children faces) is ridiculous. This is a stupid remake , too obviously spectacular to even be close as scary as the original
+version https://git-lfs.github.com/spec/v1
+oid sha256:275f535231da789dc2e86b446f03d70d2ede9895b0a305b585fba48f2896ec8d
+size 632

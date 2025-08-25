@@ -1,1 +1,3 @@
-If there was a God, he would have made sure this movie stayed in the toilet were it was crapped up. This is BY FAR the worst vampire movie I have ever seen. I may never watch a vampire film again because of this movie. It makes Zombie Lake look like The Sound of Music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cad560d59bb6a7045371a2f4ec2efd45232868df934e6c77a830a869acb94008
+size 269

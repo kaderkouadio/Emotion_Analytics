@@ -1,1 +1,3 @@
-First-time director Tom Kiesche turns in a winning film in the spirit of cutting, dark comedy. Shot on a shoestring budget, yet had the flavor of the early Coen brother's film Blood Simple ... and throw in some Monty Python flavorings to boot! Needs to seen more than once to appreciate all the elements that carry one scene to the next. Expect more good things to come from this writer-director-actor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa24557bc8bc2001d79de838f2e5a730cf7f114bc8a61525a8e8703198a79cd6
+size 402

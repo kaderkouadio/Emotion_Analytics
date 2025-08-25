@@ -1,1 +1,3 @@
-Who? What? Where? When? Why? The acting was terrible. Very robotic, rehearsed. I have seen all of the actors in this film in better roles. The screenplay was very elementary. By the end of this film, the story line was tied up. And Jeane Claude LaMarre should be tied up, too. So that he never attempts to write/direct another film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aca9e67da04d544a6f1114adec72ce35cf6f467300272c3252cacf5357c7ec0
+size 332

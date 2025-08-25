@@ -1,1 +1,3 @@
-Poorly directed short "film" (shot on hi-def or betacam it appears). It screams student film/video all the way. The premise is limited in scope and the short actually feels a lot longer than it runs. Some interesting acting moments and some decent production value, but not enough to lift this film from "the hole" it has fallen into.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9791d0195cd5363d78b91c75bf46f7fadebe1d0c4fe3c44b19339ee0f1ed5f57
+size 334

@@ -1,1 +1,3 @@
-This movie is awesome! It's really a great movie for all die-hard Doug fans (like me). Doug fans (as well as kids and adults, not to mention teenagers) will really like it. The movie answers all questions that Doug fans have like, is there really a monster in the lake? And will Doug and Patti get together? The animation is a step higher than the TV show which is great! I had teenage friend who saw it and laughed! It's funny, sweet and smart! Lots of fun to watch!
+version https://git-lfs.github.com/spec/v1
+oid sha256:889e60c1dbd8057fcc92e913dca689be1fed438e080d52255d93a62e087e4cf3
+size 467

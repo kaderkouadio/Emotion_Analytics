@@ -1,1 +1,3 @@
-I have no idea why this film, or many of the other Sundance films for that matter, are rated so low on IMDb. It's a shame, because this is a remarkable film.<br /><br />Amber Tamblyn gives the best performance of her career and deserves an Oscar for her subtle, eerie picture of teenage confusion, fear and malice. Tilda Swinton is also very good as the detective investigating Daley's case, and both Melissa Leo and Timothy Hutton give solid backup.<br /><br />See this movie - it is a frightening and eye-opening portrait of real life. ****/*****
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcc9ed089af83c932cf2f6dba73a881fe51cac7c5c52171c8b651218f7c5aaf
+size 548

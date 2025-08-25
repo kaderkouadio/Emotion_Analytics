@@ -1,1 +1,3 @@
-To Die For has it all.This film has a great cast. Lots and lots of romance and terror. Not too gory but still enough to appeal to horror fans. There are a lot more vampire love stories. If you are a fan of vampire love stories I strongly recommend this film-10/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:917a0a6af07229fc01e7c6f48f9e251d28d9c4100d69b98c7cf44727acb14454
+size 264

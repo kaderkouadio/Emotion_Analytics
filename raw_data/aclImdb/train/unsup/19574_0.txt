@@ -1,1 +1,3 @@
-One of the smartest movies to come along in a great while, it's also very funny. Beatty's transformation from a suicidal senator on a campaign trail he no longer cares about to the life loving man who embraces urban hip-hop culture to the hilt is great. The best comedic moments are when Beatty is in his "rapper" mode, speaking in rhymes at campaign functions and tv interviews. A really great movie, you won't be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:481f6e950740adac0bf02933f059561210d575782de680d092c81aca43464bba
+size 428

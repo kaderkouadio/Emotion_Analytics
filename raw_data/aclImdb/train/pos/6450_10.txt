@@ -1,1 +1,3 @@
-This is absolutely one of the best movies I've ever seen. It takes me on a a roller-coaster of emotions. I laugh and cry and get disgusted and happy and in love! All this in a little over two hours of time! <br /><br />The actors are all brilliant! I have to mention the leading actor of course, Michael Nyquist. He does a remarkable job!! I also admire the actor who plays Tore, who plays this mentally-challenged young man in such a convincing way! He sort of reminded me of Leonardo di Caprios roll in Gilbert Grape! And then there is the most beautiful song in the world: Gabriella's sång.<br /><br />I recommend this for everyone to see and enjoy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:be1858dfc184197389f8463ff2d18654f42f23d908fc28faca98af11d181325a
+size 653

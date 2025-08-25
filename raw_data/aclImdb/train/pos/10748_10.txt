@@ -1,1 +1,3 @@
-I have to say that the events of 9/11 didn't hit me until I saw this documentary. It took me a year to come to grips with the devastation. I was the one who was changing the station on the radio and channel on TV if there was any talk about the towers. I was sick of hearing about it. When this was aired on TV a year and a day later, I was bawling my eyes out. It was the first time I had cried since the attack. I highly recommend this documentary. I am watching it now on TV, 5 years later, and I am still crying over the tragedies. The fact that this contains one of the only video shots of the first plane hitting the tower is amazing. It was an accident, and look where it got them. These two brothers make me want to have been there to help.
+version https://git-lfs.github.com/spec/v1
+oid sha256:445fa78df3b8e4dbe693e4372f708d299ee11f247c502cf87a729d86db605d4d
+size 748

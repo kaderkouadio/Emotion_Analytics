@@ -1,1 +1,3 @@
-OK maybe the special effects and the storyline are not that great, but as a cool action flick, the tiger blade rocks. The duration of the movie is 110 min and it contains almost 80 minutes of non-stop action. The movie has only begun or the action explodes on the screen. You have bullet-ballets, go-cart-chases, kick-ass-fighting and always with a funny undertone. I recently watched Born to Fight and Tom-Yum-Goong, and OK the action sequences are better made, but in total, both movies we're rather disappointing. Both these movies we're made with much bigger budgets, but The Tiger Blade is more enjoyable and a second viewing will not be a problem. I'd actually want to see it again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ba5787842461904587e288ac533e16d6941b00f95f889e5b92db075e8dcc9dc
+size 688

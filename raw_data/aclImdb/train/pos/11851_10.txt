@@ -1,1 +1,3 @@
-In a time when Hollywood is making money by showing our weaknesses, despair, crime, drugs, and war, along comes this film which reminds us the concept of the "Indomitable Spirit". If you are feeling beaten down, this movie will free your mind and set you soaring. We all know how tough life can be, sometime we need to be reminded that persistence and courage will get us through. That's what this film did for me and I hope it will for you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a76de94f3246cc697dbc9870cb9820261c3c80177521015ed26fa5e8469d87
+size 441

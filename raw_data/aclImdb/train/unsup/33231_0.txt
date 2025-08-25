@@ -1,1 +1,3 @@
-I don't know who is giving this movie all those 10's. It cannot seriously be based on the quality of the movie. The directors are more talented than they got credit for in the series, but the movie is completely predictable and full of sorry cliches. Shia Lebeouf is a decent actor but, personally, possibly the most annoying person I've ever seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92438cd4d177e3d2837a5c27773e5688dc7f19c317616c20c79dbf58f133a850
+size 348

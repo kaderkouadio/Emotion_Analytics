@@ -1,1 +1,3 @@
-Not a bad show! Was part of a very popular Saturday Morning lineup that probably attributed to its success. Not as good as the rest of the lineup, but still funny. Included were many members of Taz's family including his valley girl sister, his laid back father, his action figure playing brother, and his mother, who was a typical mother! Hard to find on video, but if you can, I'd try and rent it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73abcaa5ff7f0614be561f67d0ce69d8825a39ca37030e7cfcbf442c8cff0fa1
+size 399

@@ -1,1 +1,3 @@
-I loved this movie, I saw it when I was about 8 years old and almost seven years later, this evening I got to see it again. I really thought it had an interesting idea, they only thing that upset me was the ending which I felt was a cop out. 'Round here it's hard to find this movie and I was lucky enough to have seen it on BRAVO. I also expected to see more Drew Barrymore in here too!
+version https://git-lfs.github.com/spec/v1
+oid sha256:894fd1289b491b3afca21522603eb8a22c1b1a57385ea727577514fb979c010e
+size 387

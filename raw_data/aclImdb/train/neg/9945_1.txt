@@ -1,1 +1,3 @@
-After watching about half of this movie I noticed something peculiar ... I found myself constantly switching through tv-channels to see what else is on - not exactly a good movie trait.<br /><br />This movie is listed as being in a number of genres, and I must say it mostly failed misserably in every one of them. 80% through the movie I switched over to watch an old rerun instead. Bottom line - the whole movie felt as if the ones making it didn't exactly know what to make and ended up in a concoction with no discernable taste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:826e02f1c97222229870e42daacf390f7a769f5db8002558c70fddcbaa9b770a
+size 532

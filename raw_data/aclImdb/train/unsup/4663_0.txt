@@ -1,1 +1,3 @@
-It was about a million zillion times better than Batman & Robin and that actually came out in theaters. Go rent this 'cause it's the second best Batman movie. The best being Batman 1 'cause it was just amazing. See Joel, it's a dark movie so there's no neon. It's a pretty basic concept.
+version https://git-lfs.github.com/spec/v1
+oid sha256:279f6267492854e3211a44805ee7377a77c8edf1ceb8624e65a87facb8792c6f
+size 287

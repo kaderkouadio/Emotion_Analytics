@@ -1,1 +1,3 @@
-Good Wholesome Family Fun-filled movie. I saw everyone from children to senior citizens in the theater. Laughing and applauding. Great music by the way. Great football scenes. Nice Chemistry between the coach and the assistant coach. some comments were that it started a little slow but after a third of the movie you got hooked and it only got better!
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f7136419e2ef21c2498b185e2b02e302665df38c57769439c881e6cec3c7fd
+size 352

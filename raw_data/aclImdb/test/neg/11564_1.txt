@@ -1,1 +1,3 @@
-I am not familiar with the producer's other works, but this movie is a piece of crap. <br /><br />I never saw the MST3K version, but I can tell you, Mike and the Bots probably didn't save it. <br /><br />I love a grade-z movie as much as the next bad movie fan, but this was almost unwatchable.<br /><br />There was no credit for who did the voice of "The Dark One". Sounded a bit like Patrick Stewart at times.<br /><br />A group of high school students who found a junk super-8 camera in the trash heap could make a better movie than that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05c79c02356c41ac284cef69584429ed23b4e92829ec5a2fe503c4eb018e0872
+size 541

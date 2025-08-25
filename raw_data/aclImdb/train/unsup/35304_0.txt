@@ -1,1 +1,3 @@
-Not MY idea of the horror genre...maybe fantasy, in the form of the Silver Rider bloke, played by independant filmmaker Jim Jarmusch, who's far from a main character. Some of the actors appear to be speaking English, but that language from others (I suspect) is dubbed. The disjointed action involves a would-be member of The Cannibals (law-breaking motorcycle gang) being pursued by them. Mostly comedic, in my opinion. Really strained. Almost awful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b62429c1e3432852e2445c49a493d1396eb548ec102c93cdcf29e63960d7a66
+size 451

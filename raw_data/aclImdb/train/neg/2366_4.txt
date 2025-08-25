@@ -1,1 +1,3 @@
-I am a fan of the Nightmare series but this one is horrible. The deaths are so trendy. If you were to watch this 20 years later the whole nintendo scene is outdated. I did like the flashbacks. I think they should have just made a prequel about when he was still alive. That would have been more interesting. This is a movie you can take or leave. Depends on how much spare time you have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:423e0f0b9e534e0249f4c554c85cc4180a24a9045a26856e168ecf410a19c3b1
+size 387

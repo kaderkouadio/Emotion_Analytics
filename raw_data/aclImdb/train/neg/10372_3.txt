@@ -1,1 +1,3 @@
-I enjoyed the first reviewer's comment far more than I did the film when I saw it at a second-run theatre in the early '80's. I was impressed then by the care taken to create costumes modelled so closely after the Tenniel drawings. But to me, the cast was largely squandered, their personalities muffled by the masks, while the direction I think of as being unusually static, and the photography murky. The rating jotted down at the time was a nought, which means "not worth sitting through even once".<br /><br />Still, I too would jump at a chance to have a second look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57751a6799b357899e66d8287121b5ce769c75eca66b688d3531847802d9f9c2
+size 572

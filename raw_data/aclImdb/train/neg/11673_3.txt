@@ -1,1 +1,3 @@
-1st watched 5/17/2002 - 3 out of 10(Dir-Ewald Andre Dupont): Fairly lame account of the Titanic disaster is the first filmed version of this much-heralded event. The replication of the disaster is not bad, but the drama around it is at some times silly, badly acted and way-too soap opera-like. The story is very much the same as the most recent Oscar-winning one except that we are shown how the crew tried to hide the actual disaster that was occurring until almost too late. Good for nostalgia purposes only and to get a feel for what James Cameron was competing against(barely) in his recreation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8518a7fce020c7cf41654ebfba0a521696da6645daa3e8a66eb8ce4f5253f4d9
+size 602

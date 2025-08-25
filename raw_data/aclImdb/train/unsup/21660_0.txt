@@ -1,1 +1,3 @@
-For anyone who's seen "An Inconvenient Truth", you'll recognize the same theories, evidence and message in this much earlier work. But there is sooooo much more. This program manages to include the entire environmental history of the world, but, coming from a future perspective, takes a good look at where we are now from a somewhat impersonal view.<br /><br />Entertaining, enjoyable and packed FULL of information that's not dumbed down, but remains accessible. James Burke, as always, has a knack for making formidably complex issues understandable without talking down at you. Although an admirer of Al Gore's goals as an environmentalist, this is a far more intelligently organized and comprehensive piece of work.<br /><br />If I was an earth science teacher, I'd require this for my classes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9749c9dd9f99bd78f322868ae73a8c7de6f5dfb95c4aee6b35cf44d0f2048c87
+size 799

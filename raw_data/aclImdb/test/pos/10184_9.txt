@@ -1,1 +1,3 @@
-I saw the second part of this beautiful period piece set on a ship sometime in the 19th century. Golding's book must be responsible for some of the superb dialogue but everything else was good too! I especially liked the way they created the period and feeling of being on the ship so well. For me this had a feeling of completeness about it which I know I won't be able to convey in words... Perhaps it was the way they mixed in technical and historical details about sailing in the eighteen hundreds to the story without messing it up. Benedict Cumberbatch was excellent, as was the rest of the cast. It's not often a mini-series sends me to the "zone", but this one did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:492b0349dab96c070ee5ed55a8f74e1cc2d2d97e8bbb880304c66282c35be7b3
+size 673

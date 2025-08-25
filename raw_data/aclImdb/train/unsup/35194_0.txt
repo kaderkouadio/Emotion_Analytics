@@ -1,1 +1,3 @@
-It has some beautiful landscape shots and really good cinematography but it ends up being dull and sluggish. The best part of the movie contains the bear scenes, which were truly impressive considering that they used a real animal in these scenes. It is a big movie for east European standards. But stays short of an epic, which it had a potential to be. Overall slightly disappointing experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11bb5e0031f4d28457bda67a3d046fe5b77cfbae6722dfb0f4d5597e8d2c9925
+size 397

@@ -1,1 +1,3 @@
-This is the worst movie I have ever seen. The whole movie is just kids bummed out because James Dean died. I saw this movie back when it was first aired in theaters, and it is the only theater movie I've seen that was roundly booed by the audience well before the ending. Don't anybody even think of putting this movie in the same genre as American Grafitti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:741953c386dc6a97fc1f23eddf411649d35cfe6fb45ee983e365841ace4958c5
+size 358

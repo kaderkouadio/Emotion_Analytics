@@ -1,1 +1,3 @@
-Good show, very entertaining. Good marshal arts acting. Good story plot. The entire main crew did a nice job from Robert Urich, to Chuck, Norris, Jennifer Tung, and especially a BIG hand to Judson Mills. An especially fine tribute to Robert Urich, in his latter days. A GREAT ! actor who will be truly missed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88f57b98903be216d9d49a139a898788eb40c0a4c4596c8ce742bee0a381f093
+size 309

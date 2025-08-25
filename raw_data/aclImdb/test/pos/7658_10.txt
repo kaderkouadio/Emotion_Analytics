@@ -1,1 +1,3 @@
-Latcho Drom is a cinematic survey of Gypsy music from several countries. It is touching, sad and joyous. Most of the segments appear to be completely unstaged, unrehearsed. The music, ranging from the sensual flamenco music of the Spanish Gypsies, to the melancholy music of the Central European Gypsies, is exquisite. If you love Gypsy music, you'll find Latcho Drom absolutely beautiful.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c0b008758b12cfaf079a142944edc4b87fd117fdefe90cc99c8c3acd63c6f0e
+size 401

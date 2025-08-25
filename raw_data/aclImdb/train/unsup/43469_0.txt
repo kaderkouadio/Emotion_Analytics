@@ -1,1 +1,3 @@
-Hollywood great Michael Curtiz directs Boris Karloff in this middling thriller about an ex-con, just out prison, who is framed for a judge's murder by racketeers; after he's convicted and killed in the electric chair, a team of scientists revive him. Fatigued entry in the 1930s back-from-the-dead horror cycle doesn't allow Karloff to do anything fresh or substantial (indeed, several of his big moments seem lifted straight from "Frankenstein"!). Curtiz can't do much with this hackneyed scenario, and he's certainly not helped by the unsurprising script, though there is one strong sequence at a piano recital. Otherwise, "The Walking Dead" is D.O.A. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f7e8e086017a9cb84fd629d1b4356160ec42b25218a19259e301116f4816ac7
+size 668

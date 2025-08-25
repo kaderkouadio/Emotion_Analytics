@@ -1,1 +1,3 @@
-Average love comedy with good performances from the participating actors.The film could have been better with more quality directing,screenplay and cinematography.The simple manner this fairy tale was told gave the movie credibility and worth watching to the end as long as a love comedy is expected.Fenn fans will like this for sure.....
+version https://git-lfs.github.com/spec/v1
+oid sha256:783cec7d8ded591aabfed78d745155cdd74f16d824a29ad86394bb136df41070
+size 338

@@ -1,1 +1,3 @@
-...that should have been this great films title. Reb Brown rocks, its amazing that in the time of dinosaurs, they also had hair bleach. These "horrible" Italian made films are a great way to see how Italians viewed American culture, for instance the theme song, sans the lyrical content that very well could have been preformed by any of the great American hair bands. Reb please make a sequel or prequel. This 10 line minimum is killing me here!..... seriously....................................................... .................. ..................... .......................... .............................
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c34401f3ac27b115ff0412878b3af8e30561a96995c9e95025e53875a3c2efd
+size 614

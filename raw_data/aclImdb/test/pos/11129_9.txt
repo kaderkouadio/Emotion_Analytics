@@ -1,1 +1,3 @@
-Of course this came out right at the beginning of the 1980s. Of course it did. Those drama students dancing in the street to Irene Cara's famous theme song, it's an indelible eighties leg-warmer style image. But there's more to the film than that. There's deprivation, and one man's struggle to learn to read, and a struggle with sexuality, and an attack on a child, and one girl tricked into taking topless photographs, and contemplation of suicide. In the end, though, it is also about that song.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e1069df9d0e3ded988e77c33f57189acf2075fff4cb427922c24b4015b5bd0f
+size 498

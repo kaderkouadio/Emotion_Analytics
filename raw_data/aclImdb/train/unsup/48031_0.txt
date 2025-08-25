@@ -1,1 +1,3 @@
-31/100. I realize it is a family oriented film, but that doesn't mean children don't have brains. It is needlessly inane, with that gross humor they so often put in films of this kind. (throwing up, farting etc.) It is a waste for everyone involved in the movie. The silly plot is just so far out there it makes you wonder what nitwit thought up something like this. With the poor grammar the children use, their misbehaving antics and their relentless defiance of authority, I hope most parents skip this one for their kids. There are so many creative and worthy family movies out there that are so much better than this. The quality of the movie is also well below par.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b61ea3e7565a963020f5c83a0c8e4e32ec86bb46ead0d3a68f0d46e7013b3e33
+size 671

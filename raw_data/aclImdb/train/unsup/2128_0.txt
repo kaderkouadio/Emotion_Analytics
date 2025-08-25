@@ -1,1 +1,3 @@
-This movie stunned me when I first saw it, so I went and saw it again two days later. It's so beautiful, and it gives me so much to think and wonder about. I'm still thinking about it. I want to go and see it again. I may or may not do that. I realise that the reason I want to see it again is that it inspires a deep yearning in me for depth and beauty and purity and truth and love. Seeing it again will not satisfy this longing, but it will remind me that I have it. And that's good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec08f4f148b2a83d2954f46fb2a8e404555717ca0bd9a207d02f79302a5ad472
+size 486

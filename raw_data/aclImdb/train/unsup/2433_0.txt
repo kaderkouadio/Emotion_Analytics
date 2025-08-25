@@ -1,1 +1,3 @@
-Mare Winningham is really one of the great unsung American actresses of our generation. She is exceptionally talented whether she is playing the daughter of a deaf couple who must sign language to communicate with her parents. She is the their ears to the world and often must translate between her parents and the hearing world. One memorable scene is her at the funeral home translating for her parents and the undertaker as a child for her brother's unfortunate death. Winningham's performance is award-winning as is the mother played by deaf actress, Phyllis Frelich. Her character seeks to be independent and hopes that her parents can adjust to the hearing world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5868701a9be0a9e3aac57bafe075ca022e30f94d5c1c4a7d2e40996f46f59d6
+size 669

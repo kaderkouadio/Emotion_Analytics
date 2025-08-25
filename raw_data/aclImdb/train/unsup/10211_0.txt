@@ -1,1 +1,3 @@
-I'm a little bit tired of horror and suspense films. I had to get to the cinema because I could not say no to my girlfriend. Now I do not regret the wonderful evening I spent. This film achieved what others did not- I could not release my girlfriend's hand all over the time, and when the story finished I discovered there was nothing unexplained. A great suspense film I recommend. Belén Rueda, is a completely credible character and the place where the story has been shot helps make it realistic or, at least, the viewer gets into the environment created. The rest of actors are good and Geraldine Chaplin's scene is one of the most creepy I've ever seen
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ce142cb36f453a50a3f9028305acdafe5de8a441a2cfbd8d475dc0dd2caff8
+size 658

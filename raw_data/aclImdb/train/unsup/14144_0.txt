@@ -1,1 +1,3 @@
-Eric Braeden is brilliant and matched action for action with the entire cast in low-key masterpiece about dangers of unchecked scientific advances. Cold War atmosphere is captured perfectly and the brittle dialogue is delivered to perfection. And sargent's direction matches script and performances in being understated yet uncompromising -- surprising me at every turn. Great movie, but if you are like me, you may wish not to see it alone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9c59001378afaff9ac90320335176dd5185d7c2104f87d6b2a5f5ca4ced2be
+size 441

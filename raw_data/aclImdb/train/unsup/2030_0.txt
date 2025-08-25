@@ -1,1 +1,3 @@
-This is a very nice Chinesse movie about two sexy sisters who work as assassins.After an exciting hit in the first scene,they become a target for an army of criminals.In the same time,a police woman starts suspecting them.There is a plot twist in the middle, so your attention will be hold until the end.The action sequences are well-made and sometime pretty bloody.The three leading ladies are good and their relationship is interesting and original(something between rivalry, friendship and sexual attraction).A very enjoyable ride, "So close" definitely worth a view,both from the fans of traditional Assian movies or from those who like western productions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:462483688a5226f28e6e46e28b2ff11d659b845224356eaa952545734fb6596c
+size 661

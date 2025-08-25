@@ -1,1 +1,3 @@
-I'm sure pre-teens liked this movie.<br /><br />This is one of those films where a very competent technical staff has to watch their work being neutralized by flat and inappropriate acting and poor direction. The sets are good, the lighting is well done, and for TV, the Special Effects are more than adequate. But the main characters are one-dimensional, the supporting cast bad, and the bit-players, many who are local Egyptian people, are almost embarrassing. It's a shame. A director's job is to work with what you've got, and find ways to make even the smallest role as believable as possible. It just didn't happen here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79117944e78b78b8f25d30ad4bce18d39bd65a5e965a713b03e2ed176c5f95f
+size 626

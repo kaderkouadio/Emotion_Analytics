@@ -1,1 +1,3 @@
-I picked up the movie with no cover and not even knowing what it was, but when I watched it I laughed so hard. It is now one of my favorite movies of all time. Rusty and the guys created a masterpiece I would highly recommend this movie to any one with a sense of humor. Thank You Rusty for giving us something to laugh at.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c1eff35b69ccd43c08997a9fde7db60a36398124bbc73579ae450836d97672
+size 323

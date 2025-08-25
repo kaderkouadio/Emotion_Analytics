@@ -1,1 +1,3 @@
-...And that's why hard to rate. <br /><br />From the adult point of view (hmm, student point of view:)). i must say i fell nearly asleep here. Sure, there is some laughing scene (all the credit takes here Eddie), but that can't save the disney type of script and whole movie, that's why<br /><br />2 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:340abf3c9cd733d6da9bd1c63e18bd79795d1a768c4a92b1cfa49a66de5d1cc6
+size 309

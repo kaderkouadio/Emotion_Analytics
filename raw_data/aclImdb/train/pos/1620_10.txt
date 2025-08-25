@@ -1,1 +1,3 @@
-So wonderful, so quirky, so romantic, so Italian. The film is so feather -light you float off into its refracted reality and you never want to return to the humdrum again. A kitchen sink world of bakeries, and hairdressers, and plumbing, but one that shimmers with a soft luminescence. Should the credit go to the screenplay or the direction? Take your pick -- they're both faultless. Let me get back to that New York City that lies just beyond the looking glass.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86f90b64a2ea66c5c524e13b0fb1e7a7c5f0e99afaf418966a6920616c7e2a40
+size 463

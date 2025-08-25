@@ -1,1 +1,3 @@
-It's quite a feat to take a really good play, give it a great cast, and still manage to make a bad movie. I've liked many of Bruce Beresford's movies, but this one just didn't work. He doesn't have any sense of comic timing, so a lot of the humor falls flat. And it's a real shame because the actresses are all wonderful. They play off of each other really well, and they really feel like sisters. It's worth seeing just for the acting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a95cd20574aaf8a7ae7a6657e0826b3ec5b79756591f9054701e4f520c32b97e
+size 436

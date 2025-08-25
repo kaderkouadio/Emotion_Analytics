@@ -1,1 +1,3 @@
-The story line has been rehashed a number of times; "a breath of life in the retirement home". Several plays, movies, novels, short stories, poems and news articles have beat the subject to no end, but it's still an excellent platform for character studies.<br /><br />If 'Gideon' was crafted more enthusiastically it could be brilliant, but the dialogue is painfully boring and the story is absolutely flooded with cliches (even the subtitle and summary of Gideon's "simple wisdom" almost made me laugh in its ineffectiveness). Mostly indifferent acting is the final straw for this weak film, but the rest of it is bland enough to make the actors' lack of focus almost irrelevant.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07919cb600dc78c5af714e1806530106782e7a312d21ba81f74ebbc1ffb86d67
+size 681

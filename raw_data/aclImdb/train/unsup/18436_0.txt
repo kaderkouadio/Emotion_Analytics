@@ -1,1 +1,3 @@
-This movie was by far the worst Techno-thriller type movie I have ever seen, I suffered through the entire movie to see who was the brave soul that allowed his/her name to be attached to the technical adviser's slot and who the continuity director was. Now I know that everyone is not an accuracy nut like I am, but having been in the navy, it would be nice to have the film stay in the ball park. The hardest thing about this film to believe is the fact that of the 90 minutes that it ran, 45 of it was re-hashed from other movies, and the majority of those 45 minutes were from "Crimson Tide." I guess sampling is alive and well in the movie industry as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c289ce2e9e3ba9d40db42590685351c5463c95fe296963b79e3cc65b6cd8d38
+size 661

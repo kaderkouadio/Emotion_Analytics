@@ -1,1 +1,3 @@
-Words cannot express how poor this film is.<br /><br />There is no plot, the acting is appalling, basically the whole film is a joke.<br /><br />With a running time of 97 minutes, it's about 96 minutes too long.<br /><br />It might have been OK as a short sketch on a comedy show, but the premise is way too flimsy to work for that amount of time without boredom kicking in.<br /><br />Avoid this one, go rent a good movie instead!
+version https://git-lfs.github.com/spec/v1
+oid sha256:59307fda56dce8dd603af9a98064ef17dc98ef4494fafd1586a09a4726090e5f
+size 431

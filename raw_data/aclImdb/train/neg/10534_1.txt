@@ -1,1 +1,3 @@
-Perhaps it's because I am so in love with the William Holden - Kim Novak version, or because I'm not a Gen-X'er, but this was absolutely the worst remake I have ever seen. Without the original's soundtrack, it just seemed like another typical TV movie...yes, about as bland as Kraft cheese.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a5012ac9cf43df43de11cab48b4453c832c4c2551470ee29c993d0d786fa94
+size 290

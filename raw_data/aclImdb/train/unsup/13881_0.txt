@@ -1,1 +1,3 @@
-I just saw the picture on television, and I was very angry. How can a mother do such thing to her own daughter only because she loves another woman? Thank God I live in the Netherlands where gay people can marry, have children and even adopt children. Because the only thing that matters is that the child is raised in a loving family with parents who take good care of them, and it doesn't matter if the parents are heterosexuals or homosexuals. Like any other child the most important thing in it's life is to know that it is wanted, loved, taken care of and safe. So I think it's really time that people change their way of thinking and see what is the most important. And that is love.
+version https://git-lfs.github.com/spec/v1
+oid sha256:366931b366dfe0467f5c594969891c0935243c43ba5bf5eb86854874398d7c8b
+size 689

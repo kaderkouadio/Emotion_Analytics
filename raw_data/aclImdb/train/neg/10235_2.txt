@@ -1,1 +1,3 @@
-The only reason I give it a 2 is that filmography is so stylized these days such that it has at least something to comment on.<br /><br />This film is asinine. It's like so many other 21st century grind house fodder. The gore is gratuitous and simply revolting. I didn't care about any of the characters, but I did care that some cretin bothered to pen this crap: I'd complain about the money I spent, but my date and I wisely left after 40 minutes and went to an adjoining theater to watch the adventurous and entertaining "Live Free or Die Hard," which probably got a much higher rating from me simply because I endured the utter poop of "Captivity" for 40 minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd6b7ffe17da84ca2c99d30f0da9ca0f8a244080a10f9d51d418fa7f5353c79
+size 667

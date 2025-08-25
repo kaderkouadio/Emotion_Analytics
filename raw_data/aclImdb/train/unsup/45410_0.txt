@@ -1,1 +1,3 @@
-This is truly Abominable!<br /><br />I did an independent test asking a few non sci-fi nerds "What is the 1st word you tend to associate with Abominable?" and almost all of them said Yeti.<br /><br />Where as this film is more about Sasquatch and he is nothing even close to the Abominable Snowman or Yeti.<br /><br />Having seen the cast list as the opening credits rolled, I wondered why Jeffery Combs And Lance Henrikson were so low on the billing. Jeff gets about 10 or so minutes screen time, Lance gets even less and both get killed.<br /><br />Basically this is the old "There's something nasty in the forest" plot. The ending is quite a fun twist and possibly the only surprise the whole movie has to offer.<br /><br />Watch it if you must, it's fairly harmless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3da8bd038983ba35f5df24e90d08a2a2c4c76d861dd32c85f5b495d01c873df9
+size 770

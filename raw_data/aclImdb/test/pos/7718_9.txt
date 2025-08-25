@@ -1,1 +1,3 @@
-have just got back from seeing this brilliantly funny film.<br /><br />granted, part of the reason i loved it so was because i could point out people and places i knew ('i walk there everyday!', 'i work there!', 'i've had drinks there!', 'hey! that's our postman!' etc...). but, still, if you're out for a 'feel-good' with a bit of spice (excuse the pun) - this is just the right answer. relationships, culture and, most importantly, love are all woven together within the plot.<br /><br />with preston (where the film is set) recently being made a city, it is good to see this work featuring the place and adding to the feeling of uprise. it is also a brilliant representative of the many cultures in this part of the north.<br /><br />fabulous!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a60dd76a7b5b1fce2d47d4022c703fd88bf8d8d34ddf1400eee7a3f9d2c282dd
+size 746

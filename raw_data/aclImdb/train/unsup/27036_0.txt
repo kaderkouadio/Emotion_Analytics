@@ -1,1 +1,3 @@
-When the movie started i thought that its gonna be just another one of those stupid ones where the most important thing is a car blowing up. That would be my guess but as the story developed after 15 minutes, the movie got better. A variety of good characters made it even better and a touch of humor even more. But this does not mean that things wont be blowing up. The story is also developing pretty good and it takes unexpected turns as the good guy turn bad and the bad ones turn good. The whole concept of a dude being in the wrong place at the wrong time is good and till the end you'll just be waiting for it to hit you with another new situation that you haven't seen before, nor later.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b9247a4f09bf26447b588355e7db31f0b8c32d0aafc4f6dc57dcda6bca40edb
+size 695

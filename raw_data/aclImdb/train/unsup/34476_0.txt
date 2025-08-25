@@ -1,1 +1,3 @@
-"Highball" is a funny spoofy/campy/droll comedy about a bunch of friends at parties. This dinky little flick sports a good cast and some funny writing. Everything else is pretty much crap. If nothing else, this movie will make you wonder why so many good actors climbed on board this low budget dog.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f41867dd178ce4507940b441e80daabf28258b49ce36075195a29ae1da5e9319
+size 299

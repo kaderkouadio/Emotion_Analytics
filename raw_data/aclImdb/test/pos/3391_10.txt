@@ -1,1 +1,3 @@
-This is one of t.v.'s greatest mini-series! It comes to life almost as well as the book did. Also the cast was outstanding to play the roles. I'd recommend this movie series for anyone who likes the Civil War or the history leading up to it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23a4412d823d4de1435fa4f10facddf74be1ec2f5c7f5ea5291ca8760f5a900b
+size 241

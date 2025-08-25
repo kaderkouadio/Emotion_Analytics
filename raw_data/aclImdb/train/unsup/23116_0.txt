@@ -1,1 +1,3 @@
-Well made supernatural thriller that is short on gore but still has plenty of atmosphere and scares. Though the movie does use some well-worn plot elements (i.e.: group of friends covers up crime/murder and it comes back to haunt them, literally), it does it all quite professionally. The actors are uniformly terrific, not a bad performance in sight. The special effects are done expertly and, for a change, used sparingly and to good effect. The story is well written and beautifully photographed, and the director keeps the pace up through the film, substituting mood for cheap shocks, though there are a few jump-out-of-your-seat moments. This one caught me by surprise, I wasn't sure they made them like this anymore. If you enjoyed The Others or Lady in White this film will appeal to you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91907f4c2bae19a323cec380423e6afc10b2c5e0e668bbdc3290a0d3336e761
+size 795

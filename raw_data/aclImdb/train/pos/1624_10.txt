@@ -1,1 +1,3 @@
-The Old Mill Pond is more of a tribute to the African-American entertainers of the '30s than any denigration of the entire race (Stepin Fetchit caricature notwithstanding). Besides who I just mentioned, there's also frog or fish versions of Cab Calloway, Fats Waller, Joesphine Baker, Bill "Bojangles" Robinson, and Louis Armstrong. This Happy Harmonies cartoon from Hugh Harmon and Rudolf Ising is very entertaining musically with perfect characterizations all around. They all sound so much like the real thing that half of me thinks they could possibly be. If not, they're certainly very flattering impersonations. Even the lazy, shiftless Fetchit characterization gets an exciting workout here when he gets chased by a tiger as "Hold That Tiger" plays on the score. Highly recommended for fans of '30s animation and jazz music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8674d2c5c0bb2bc42db668b75b1824efcb92b7124669e5937d37588623500264
+size 831

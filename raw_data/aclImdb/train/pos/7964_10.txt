@@ -1,1 +1,3 @@
-It surprises me how much I love this movie despite the fact that I don't really like dogs. Fox, Field, and Ameche do a wonderful job with the voices of Chance, Sassy and Shadow, and the acting by the animals themselves is just amazing.<br /><br />I have seen this movie 72 times already (I know that sounds scary, but it's true!), and every time the ending scenes still get me. I highly recommend it to people of all ages and especially to animal lovers. It is indeed my all-time favorite movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d410557e75a56c60fce4b4c9bde29f98b8f97023616af238696b9ebe62c48b90
+size 495

@@ -1,1 +1,3 @@
-What a musical masterpiece that movie is. Just listen to the variety of songs and styles provided by Bette Midler and the rest of the cast. But the story has it's downside. Too many subjects, too many levels, and the make up department didn't do their best job when giving Midler and Caan the "age" look. It's too plastic. But Ms. Midler still is a great singer / actress under the bad make up, so I can still recomend this movie. Bring tissues!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee6f8191ff77fa4a632e113038afc968b7315650a240f2ed20b0690b77499777
+size 445

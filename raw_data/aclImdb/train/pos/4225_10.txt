@@ -1,1 +1,3 @@
-Ruth Gordon is one of the more sympathetic killers that Columbo has ever had to deal with. And, the plot is ingenious all the way around. This is one of the best Columbo episodes ever. Mariette Hartley and G. D. Spradlin are excellent in their supporting roles. And Peter Falk delivers a little something extra in his scenes with Gordon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2986511b9563738acfce033b0e0ba61d34705c25dc41cd894a025a9513fb21e7
+size 337

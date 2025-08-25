@@ -1,1 +1,3 @@
-"Romero" is about injustice in the world but presents this theme without "preaching." It draws in the viewer through the excellent performance of Raul Julia (rest his soul! he is missed!). "Romero" is also about class differences and the intolerance of the powerful towards social change. It's a great film for teaching Americans about what life is like in the rest of the world. It's a Hollywood film that managed not to go Hollywood.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c3fe7bd174afb185fd2b64d212ffcb17edb92b9c90a988241da6503b8c5d41a
+size 435

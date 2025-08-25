@@ -1,1 +1,3 @@
-This is an extremely-powerful based-on-a-true story film that can be infuriating to watch. I say that because how brutal a hounding press can be to people, in this case an innocent Australian couple charged with killing their baby.<br /><br />Meryl Streep received a lot of recognition for her performance when this film came out but I thought Sam Neill was just as good. Let's just say they both were excellent but the role was little harder for Streep because she had to learn an Australian accent. (She learned it so well I had trouble understanding her in parts.)<br /><br />Without giving anything away, all I can say is this movie will wear you out emotionally.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20bc971a7379403f2eb35bf1a46581890e6471ba4e0327768af28c23aed355c0
+size 667

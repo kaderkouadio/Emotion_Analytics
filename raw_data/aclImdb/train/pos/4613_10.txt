@@ -1,1 +1,3 @@
-This movie has one of the cheesiest plots I have seen. For me, that's what makes it so awesome! Fred Gwynne and Al Lewis are very good at what they achieved in the original Munsters series. While there was less slapstick, they still worked wonderfully together "comedically." I wish Yvonne De Carlo, as Lily, would have had more plot involvement. She showed that she could do comedy in the original series, but it was mostly wasted in this movie. This movie also stars the great Sid Caesar, but sadly he doesn't have any interaction with Gwynne and Lewis. I think some better work could have come out of that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c2d856009a61a04776917ce811f15ca09a5ad9e4814de7eafb29463cbf36b2c
+size 609

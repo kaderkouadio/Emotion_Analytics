@@ -1,1 +1,3 @@
-This movie was an atrocity. The whole movie based on Flip Dog's dream of going to Chicago, and you waited for him to leave Iowa the whole movie. Finally he went and just came right back to Iowa. Then it ended. Not that the beginning and middle were anything interesting, except Iowa locals doing what you would think it's like to hang out in Iowa. Except there life was ridiculous. Three ridiculous individuals. Flip Dog is pretty cool though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0be9e8cd3312eb76275cac8f626d76f731f0a477f5723f4e2bebb8a10b301610
+size 443

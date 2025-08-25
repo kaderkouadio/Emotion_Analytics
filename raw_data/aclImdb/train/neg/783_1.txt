@@ -1,1 +1,3 @@
-I watched this show and i simply didn't find it funny at all. It might have been the first episode. Lately i realize ABC is playing a lot of stupid shows nowadays and is going down as a station. All the characters on this show are pretty bad actors, but even if they were good the jokes and script are pretty horrible and would still bring the show down. I would say that I believe this show will be cancelled, but seeing as how ABC is doing pretty horrible for quality of shows they are playing, they might just keep this one simply because it's average compared to them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f71c213db901d010dbb616b213f014782dfab22f1175f756210c70ed9f5b7940
+size 572

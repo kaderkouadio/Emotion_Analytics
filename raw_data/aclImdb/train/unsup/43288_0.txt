@@ -1,1 +1,3 @@
-Breathtakingly, stunningly bad. Production values seem to be even lower than the average adult movie.<br /><br />Total acting skills displayed by all participants: close to zero. Poor shooting, directing, editing, script, DVD transfer, etc. If anybody connected with this movie was paid more than bus fares and lunch money, they were overpaid.<br /><br />Some movies are bad, but entertaining because they are bad. Not so with this turkey.<br /><br />The only reason I gave it one star is because there isn't a zero-star voting option.
+version https://git-lfs.github.com/spec/v1
+oid sha256:571392132d8adfb92e4f705a8e36d0470a020a590e0f9459073f08a238ac4e63
+size 535

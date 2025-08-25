@@ -1,1 +1,3 @@
-I never actually thought that a film could be so atrocious, but alas I was wrong. Terrible acting, terrible plot, terrible effects. The Crocodile was awful and as for the stupid sex/killing scene all in one, that was a bad move from the word go. It was truly shocking and that is not a compliment! How can someone make this film, watch it back and then actually say "Yeah, thats a good movie. People will watch that" If you haven't seen it I beg you DON'T BOTHER :-(
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d6c28d1c2093f3e443a549aea2bbd2a1c74df65c50bdf4a88fca4b2ef64e34
+size 466

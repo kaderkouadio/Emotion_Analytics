@@ -1,1 +1,3 @@
-Let's just say that it might be the worst movie I've ever seen. On the front of the box of the movie it says something about it resembling Reservoir Dogs. I fell for it hook, line, and sinker. This is just a warning message to anyone who might read this. It's not even worth renting when you want something to laugh at.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd546c5eddb49753bf380d79e531d7a54b4aa549af9805e6fc0adf022ffde68
+size 319

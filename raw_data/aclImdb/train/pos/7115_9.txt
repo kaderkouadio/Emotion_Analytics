@@ -1,1 +1,3 @@
-A wonderful and gritty war film that focuses on the inner torment of blinded marine Al Schmid. Although it is tough and unpleasant it IS in the end heroic - Schmid's triumph over disability and depression. The battle scene was superb. But one bone to pick. No matter how many .50 bullets they fired I never saw any water or dirt being kicked up by the impacts! It hurt the realism, but I can live with it. Fine performance by Eleanor Parker, again, as his girl friend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8774541b6c15fa4ec657f00a7c6d9fa4d65ea64d7262109a8a3ceac9a346f72
+size 468

@@ -1,1 +1,3 @@
-One is a good first effort by a novice director. Good acting, excellent special effects and cameos by Cleveland news celebrities make this a relatively painless way to spend a couple hours. The weak points were the script and editing which made the story confusing in some parts and overly simplistic in others. Tomeric shows that he has the technical skill to make a reasonable science fiction movie- it will be interesting to see what he can do with a decent script in a more challenging genre like comedy or drama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b60f253bdd013b26a67e3c2aaacb5acaa957f6f91c8ae28dca53097bbbc24ec
+size 517

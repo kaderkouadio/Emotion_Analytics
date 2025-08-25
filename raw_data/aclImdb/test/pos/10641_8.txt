@@ -1,1 +1,3 @@
-This is one of the best films I've seen from the silent era (sad to say, I've yet to see too many with the exception of Chaplin/Keaton stuff). Very visually brilliant, with insanely influential style in editing and composition. Really unique (especially for its time) camera angles and extremely hectic editing. Definitely a must see for the film nerd.<br /><br />The downside is that it is a bit too in your face about its politics (I have no problem with politics in film, as long as they are subtle or at least somewhat ignorable as a backseat to the story). Also, it's not an "entertainment" film, which is fine, but it's not something I'm going to watch a billion times. This is art, plain and simple, like it or not.<br /><br />Worth an A+ for influence alone, but based on personal enjoyment, I give it an A-.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa0eac515a507fb4d5b056dee234f8dc6c5557c7bf0327d4285a028828428b90
+size 816

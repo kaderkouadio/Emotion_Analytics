@@ -1,1 +1,3 @@
-Nicolas Cage and Deborah Foreman provide stunning performances in this 80's tour de force! A great 80's movie akin to Fast Times at Ridgemont High! I highly recommend this movie to any child of the 80's who hasn't seen it. It's a cult classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7ba81a549a11289b6e3c31ca92834c1114b9aa1747b4058d593c9a5c1da513
+size 243

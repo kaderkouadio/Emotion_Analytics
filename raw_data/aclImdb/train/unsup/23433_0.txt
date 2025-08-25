@@ -1,1 +1,3 @@
-At long last! Steven Martini, an extremely talented actor who aside from a doomed TV series and a few made-for TV movies, has been lost to me since _Major Payne_ where he blew me away as Cadet Alex Stone. But through an amazing streak of luck, I ran across this movie. It was wonderfully cast, not a single person seemed badly chosen. The whole story was great, and I was even more astonished when I found out the low budget.<br /><br />Let's give credit where it's due and get this in theaters soon! Absolutely wonderful!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7080882d4f2f9e0230ff6955e09eaa00d622888211a55e5f4dba911b57a7bbcb
+size 522

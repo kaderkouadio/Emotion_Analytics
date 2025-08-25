@@ -1,1 +1,3 @@
-Very outdated film with awful, cliché-ridden and mawkish dialog and a very poor construction. In addition, Cassavetes and Falk overact constantly. A pseudo "good movie". It takes no time to discover how catastrophic this intellectual turkey is. The first scene is a total bore, filled with histrionics and hysteric exchanges. The sound is horrible. Camera movements are without imagination as is the building of characters. No poetry, no subtle psychology, no interesting shots. The actors smoke constantly and we see ads for beer beverages. Very cheap, indeed. (one exception : Ned Beattie"s nice and simple way of playing the hit man).
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ad2b69d8507865e6e2e7aa94eaa4f1763cabecba8eac4990819b9ee02435f1
+size 638

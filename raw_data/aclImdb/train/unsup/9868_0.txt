@@ -1,1 +1,3 @@
-I loved this movie. Jessica Lange is very convincing as the controlling , vindictive mother-in law to Gwenyth Paltrow's seemingly unsuspecting Helen. Jonathon Scheatch (what a hunk) is the believable, niave son, does a fantastic job as well. Nina Foch is awesome, where did they get her? Overall, a great suspense-thriller
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f13ba49f5e71fda2db4727e6d9f9cb51df74a9f233399a46f3104129934dd28
+size 322

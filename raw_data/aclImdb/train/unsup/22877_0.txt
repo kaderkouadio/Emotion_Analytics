@@ -1,1 +1,3 @@
-This was the most touching movie, I loved every thing about it. I find it very hard to believe this movie has been taken out of circulation. I know its out there somewhere. My husband and children deserve to see this movie,and I've vowed to find it somehow. The actors,the music,the script were all exquisite and I can remember even as a young person the profound effect it had on the way I viewed and still view the value of life.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:47af255386da549637e3a13e202de296f6c8fba9f967349b04a5a15b6f6f32ed
+size 443

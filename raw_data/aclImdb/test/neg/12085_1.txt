@@ -1,1 +1,3 @@
-If I heard the male lead say "This is madness!" one more time I would have barfed. The film is one big cliche, with fake "grind him under your heel" attitudes. Not one male in this movie has one redeeming quality; reminds me of Soviet-era films with strongly politically-oriented messages. I couldn't even understand WHY there was attraction between the leads, nor could I wait for the ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d1d1c427636d40bc197f38d60cdd99235deeb9d06031e4214498abfd31a9029
+size 393

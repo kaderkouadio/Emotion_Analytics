@@ -1,1 +1,3 @@
-Beautiful and touching movie. Rich colors, great settings, good acting and one of the most charming movies I have seen in a while. I never saw such an interesting setting when I was in China. My wife liked it so much she asked me to log on and rate it so other would enjoy too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e6db60c8b4b7ffb03a78750ee605236690a0154952e13df97dd0f057c7cb7a3
+size 277

@@ -1,1 +1,3 @@
-Truly awful. This is a far departure from "No Cure For Cancer". The number one rule for comedians should be: NEVER talk about your kids or pets. Its just not funny. I could care less about how cute his kids are. I want serious comedy. Where's the edge? Where's the drugs, sex and rock n' roll?<br /><br />Let me put it this way, he used to bitch about cigarettes, now he complains about coffee.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c230a7cd78855d27e9090722980b8f7cfb212178df75fb54c4c08e76c9528d3
+size 394

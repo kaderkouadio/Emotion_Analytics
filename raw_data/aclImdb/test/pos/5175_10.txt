@@ -1,1 +1,3 @@
-This is an excellent movie and should be presented every year during the holidays @ Christmas! Beautiful with great acting. John Denver at his best, i,e, sincere, kind, talented, and natural. The town is Georgetown, Colorado and every bit as lovely as in the story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6da3216af80a5c1989d0feae5b4d2b7492daa2f6bba8e2fd7394bdb3690948a
+size 265

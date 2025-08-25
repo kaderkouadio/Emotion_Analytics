@@ -1,1 +1,3 @@
-Police Story is arguably one of the best works by the master of action himself.Compared to other action films,Police Story makes Schwarzenegger and Stallone look like beginners.The stunt scenes are well cheorgraphed and the action scenes are superb.If New Line Cinema has any sense,they would release this in theaters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2729c3f29c01ac53ca085e0597e9f49d275966b9818da5254ee1bab3485d36f6
+size 318

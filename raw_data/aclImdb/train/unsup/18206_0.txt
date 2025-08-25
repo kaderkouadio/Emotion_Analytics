@@ -1,1 +1,3 @@
-I've only had a chance to see the hour teaser that was shown at a convention that I was attending, and i was impressed at the quality of work that an independent film company could produce. The name Tom Savini sat me down, but I think it was the guy who played Jeff Juransky that kept me in my seat, I'll certainly keep a look out for him in future films. I won't spoil the plot, but it's apparent that a lot of time and effort went into this film, and since they don't have the money to drop on the "special effects that can make you forget that there's no plot" concept, there is a lot of time devoted to developing and furthering the storyline. Hat's off to the cast and crew of this incredibly talented group, I look forward to seeing more from these talented individuals!
+version https://git-lfs.github.com/spec/v1
+oid sha256:85df5348a43c17cf6adceff4ef45e4d554e486d8d3169547d77cdd49dd0bd6b7
+size 776

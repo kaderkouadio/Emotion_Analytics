@@ -1,1 +1,3 @@
-This is just so bad. The acting is absolutely appalling. The entire cast sound as if they're reading unfamiliar dialogue from an idiot board. Ricky Addison Reed doesn't appear to have done any other film or TV work before or since, & it's not at all surprising. In fact, a quick check through the database shows that quite a few cast members have only ever appeared in other schlock horror movies by Larry Cohen. The monster special effects are laughable. Just check out the ridiculous "true face" of the head vampire, it's on a par with those cheap & cheesy 50's horror/sci-fi B-Features. The script is an insult to Stephen King. Another reviewer stated that this movie isn't as bad as others have made it out to be. I disagree. It is really, really that bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5bc038f5ea02f35b9be11cd9192066e93c08bf3a5828a9b0f6826edf764b1cf
+size 760

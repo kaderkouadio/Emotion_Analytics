@@ -1,1 +1,3 @@
-Nicely filmed, a little uneven, "Nobody" is a good evening's entertainment. The plot is simple enough--three yuppies get into a scrap with a group of strangers in a bar, and it turns out to be much more than they bargained for. The acting is decent, and there are a few unexpected twists. Watch for the completely unbelievable (like the 10 shot revolver, and 25 shot semi-automatic handgun).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d210f805d56355a1df884014fa2609cce2c6edb24704559f7d4bd88d1089a80
+size 391

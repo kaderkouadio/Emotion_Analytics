@@ -1,1 +1,3 @@
-Dan Duryea, a perfectly decent B-movie actor who made lots of lookalike noirs in the 1940s, can't do much with this one: young man is accused of murdering an unhappily married singer; when he's sentenced to die, his wife decides to solve the case herself with help from the dead woman's husband. After a dazzling opening shot, flick quickly settles into B-movie formula. It certainly looks good, but the twist finish is colorlessly handled and the cast (including Peter Lorre and Broderick Crawford) is just a bit stiff. Based on a Cornell Woolrich novel, and passable for a single viewing. <br /><br />** from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f1187163d78cafc380266e3e5b0c29dd262492531e9178af8af11c8ba3b7f48
+size 615

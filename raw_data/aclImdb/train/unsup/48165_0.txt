@@ -1,1 +1,3 @@
-What this is a bad movie. Well, when you start with a Diana Palmer novel it is hard to imagine that the result would be any different.<br /><br />While Joley Collins and Kevin Otto manage to rise above it and give reasonable performances, Jonathan Cake is out of his element. He is even more stiff and uncomfortable than his character calls for him to be. Although, he does manage a credible North American Accent.<br /><br />Young Blair Slater also manages to be appealing despite the script. <br /><br />Do yourself a favor and let me be the judge. It's not worth your time to find out if I am right or not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d5bd9a67861fc5203c71829138f2bde46414dd65041d40cd77a48ada08090ae
+size 609

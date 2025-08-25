@@ -1,1 +1,3 @@
-I can see why Laurel and Hardy purists might be offended by this rather gentle 're-enactment', but this film would be an excellent way to introduce children to the pleasures of classic L & H. Bronson Pinchot and Gailard Sartain acquit themselves reasonably as the comedy duo and there's a reasonably good supporting cast. I enjoyed it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da880aaba89b79f48d86d8e53bc58f6134daac65e562c68c9019670e133c8ca2
+size 335

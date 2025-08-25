@@ -1,1 +1,3 @@
-This outlandish Troma movie is actually a very good movie. It is known as their epic and best and most highly rated production. Their version of Shakespeare's play is extremely funny with the usual dose of Troma nudity and gore. Troma has made some very good gore films, one of my favorites is "Street Trash" and of course the Toxic Avenger movies. I have one Troma movie, "Terror Firmer", which has a reputation as their goriest and nastiest movie. I enjoyed "Tromeo and Juliet" so much, that I need to finally watch "Terror Firmer". This is a 2-disc Collector's version with four commentaries and many many features. "Tromeo and Juliet" is an absolute hoot and highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58f20700d1322cacd63bd5068679b1be3b296fcc3b58721178f29773594b0361
+size 682

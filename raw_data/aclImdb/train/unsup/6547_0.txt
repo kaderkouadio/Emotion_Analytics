@@ -1,1 +1,3 @@
-An intriguing portrait of a young man drifting away from reality. And since that young man was a famous hacker with an unhealthy interest in conspiracies, the movie has got to be about conspiracies, right? Wrong. But that's exactly what the ads would like you to think. Very bad marketing for a very good movie. And beware: it can bring you to tears!! (Just thinking about that PDP in the rain makes me weep ... *sniff*)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f6ceffaba70616a743c8ddf935db8772372f0277044eb4c5b7bd67f380dacd3
+size 420

@@ -1,1 +1,3 @@
-In the cheapjack horror flick "Decoys" - which might more accurately be entitled "Sorority Chicks from Outer Space" - aliens disguised as blond co-ed bimbos terrorize a college campus by turning horny frat boys into freeze-dried fudgsicles. Luke is the freshman who uncovers the plot but can't get anyone to believe him.<br /><br />Set on one of those college campuses in which the students pursue everything but their academic studies, "Decoys" can't seem to decide whether it wants to be a straight-ahead horror outing or a parody of the genre. Unfortunately, it fails miserably at both, being neither scary nor funny, just idiotic and lame. Although there's a reasonably diverting twist at the end, the movie can't overcome its silly script and cheesy special effects. Send it to the trash bin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca783aca031805f65c0b228a810f2864c2b1de5b3ecda517e2f4e263e38497b5
+size 797

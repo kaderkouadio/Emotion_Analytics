@@ -1,1 +1,3 @@
-This movie was perhaps the biggest waste of 2 hours of my life. From the opening 10 minutes, I was ready to leave. The cliches there slapping you in the face, and the plot was not only predictably stupid, but full of more holes than swiss cheese. I am considering suing for that lost 2 hours, and $6.25 along with the fact that I am now stupider for watching this waste of film. The T-Rex's must be flipping in their graves, so to speak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f49906a24273a743e0944086127d209f0a5d4127474dc23c811ccd988d11b5cc
+size 437

@@ -1,1 +1,3 @@
-this movie scared me so bad, i am easily scared though so its no big thing but this movie was scary and whoever wasnt scared by this movie, im surprised because everyone i know said it was scary, i hope everyone sees it, but dont see it with the lights off like i did....
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b48f913e287e109ce6621cda45910be0c5a0d9bc27f532b01305dbbb16f8a29
+size 271

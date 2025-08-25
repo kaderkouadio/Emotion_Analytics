@@ -1,1 +1,3 @@
-Ever wonder where the ideas for romance novels and other paper back released come from? According to 'Jake Speed' they are based on real people, living out the adventures they write about and publish. This movie is quality family entertainment, moderate amounts of violence, and skimpy clothes at the worst. The language is is also not a problem, and the jokes are funny at all levels. This is a 'Austin Powers' look at 'Indian Jones', without the over-the-top antics of Michael Myers. I highly recommend this film for kids in the 10 to 15 range.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1871cb531f6694c1570b8288cfc806b41a591035c0bdb708bd27a3d7a4a4b312
+size 546

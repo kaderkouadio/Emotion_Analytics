@@ -1,1 +1,3 @@
-I liked this film a lot. The story, based on real events, is tragic and beautiful. Juliette Binoche, IMO one of the finest actresses around, plays the wife of the captain in charge of a jail. She is determined to save the murderer housed there awaiting execution. Daniel Auteuil is absolutely wonderful as her husband, who loves his wife beyond all reason and common sense. It is performance that most stands out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa37a9a1bce99dd3c5e44973c0562470e69a109f9d52edcdc126e9f8dd8a7bcf
+size 413

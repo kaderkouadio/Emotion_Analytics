@@ -1,1 +1,3 @@
-A very good film worth watching and recommending. Although it's low on suspense, the acting by Laura Leighton makes up for it. Her role as Newsreporter Gerry Millar is one that makes the movie. She steals the scene everytime she appears. Who knew that she was also pretty as a blonde!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b0903253225f943d4665e6ee42c777f356f7dcb4400ce09cec662916c3872ae
+size 284

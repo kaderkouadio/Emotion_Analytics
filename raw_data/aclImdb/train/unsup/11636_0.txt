@@ -1,1 +1,3 @@
-John Travolta tries his best as writer for Rolling Stone magazine hoping to finish an unflattering piece on the faddish California health club scene, but complications arise after he falls in love with a sexy, sensitive aerobics instructor. Perfect-ly awful drama, shallow and dated, is surprisingly cynical about Rolling Stone and its ethics (this despite the fact the producers had the magazine's input and even cast its editor, Jann Wenner, in a supporting role!). Film does get a tiny bit of class from Jamie Lee Curtis, and supporting players Anne De Salvo as a photographer and Laraine Newman as a wallflower are more than respectable in clichéd roles. * from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab70547deef4c6530381e542c592b788900d77acd435a763f1b58ca392584e24
+size 671

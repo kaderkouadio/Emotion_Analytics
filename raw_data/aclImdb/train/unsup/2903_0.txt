@@ -1,1 +1,3 @@
-'The Garage' is great viewing. If you are past your youth, this will remind you of your younger time, when you had choices to make that would shape your destiny. If you are at that youthful 'turning point' time in your life, you will definitely relate and if you aren't at that place yet, you will learn about the turning points of decision that are soon to be headed your way. 'The Garage' succeeds in evoking many feelings from it's viewer. There are moments of warmth, humor and sadness as well as hopeful expectation and the audience is privy to feel them all. Remember your first love?...your first great loss?...the camaraderie of your best friend?...'The Garage' will bring them all to mind again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca639acd720f7ad1fb7e530dfc28fd5509b8c2ab0e6619ba6711c69e3875939
+size 704

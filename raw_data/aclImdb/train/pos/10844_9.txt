@@ -1,1 +1,3 @@
-This reminded me of Spinal Tap, on a more serious level. It's the story of a band doing a reunion tour, but things are not harmonious between them. I was especially impressed with the performance of Bill Nighy as Ray. You felt sorry for him, yet he had a certain creepiness about him. It's a great movie to watch if you have ever seen your favorite band get wrinkly,old and pathetic.Bittersweet, highly recommended..
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ef4c0a7937bed3e0aba5db96a3bd0e27422516f5f458f32dfcf1815fdd6966
+size 416

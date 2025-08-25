@@ -1,1 +1,3 @@
-So what's the big fuss out of making an INDIANA JONES wannabe when you have an actor who's cast as a fictional dude from adventure storybooks who doesn't want to go out on an adventure??? Whoever wrote the script for JAKE SPEED was probably fired, but for whatever reasons possible, this movie greatly lacks in excitement! That doesn't mean it has no action, but look on the dark side of the picture. This has got to bare no resemblance to INDIANA JONES or other action-adventure thrills containing cliffhangers and narrow escapes, and JAKE SPEED was promoted that way using clever propaganda to make me and several others interested in it! Besides, I've never heard of the guy, so who needs his attention?
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfd6c7757c9b7cc2e0d17a7defcf6c061d670246195cb9422bc6ae23f9303d00
+size 706

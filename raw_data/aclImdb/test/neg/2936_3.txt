@@ -1,1 +1,3 @@
-This movie's basic premise is that everyone in the world can know that a person is gay except for that person. And that a man who likes show tunes, has good taste, and is neat in appearance MUST be a homosexual. Yes, the movie is funny in parts, but the basic premise is to homophobic and insulting that the entire movie crumbles into something that is quite painful to sit through. The performances, particularly Joan Cusak and Kevin Kline are very good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36a6845e62dfe5bd5d5f9bdd3727aa1327159fc721261e8dacc5b3d4aaa257cb
+size 455

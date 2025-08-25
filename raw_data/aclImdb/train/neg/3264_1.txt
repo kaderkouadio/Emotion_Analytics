@@ -1,1 +1,3 @@
-This snarky, homophobic thing was dated in 1976. It seems particularly mean-spirited now, filled with gay stereotypes, and characters that are meant to be laughed at, rather than with. Redd Foxx does his standard schtick, Michael Warren at least tries to bring humanity to a one dimensional character, and Pearl--Pearl what were you thinking--? Pearl Bailey deserves far better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ac46141c386f7b2e9b6c0d7aa4131145ffdba030916f67a8df06f56b3aaa382
+size 378

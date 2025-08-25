@@ -1,1 +1,3 @@
-Aside from the ponderousness, I was especially dissappointed to see an icon, Michael Caine, play a sniveling, groveling religious fantatic, alternately crying and kissing his St. Christopher's medal, in hopes of gaining absolution. Well, he'll never get it for this performance. And what were Charlotte Rampling and Alan Bates doing in this heavy handed message movie? Did they arrange a private screening for the Pope?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e9658240bb4858f4cd55468b9047bfc0b766ab6ccd40c6856e1181772e8c0c8
+size 419

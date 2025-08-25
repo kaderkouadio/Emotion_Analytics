@@ -1,1 +1,3 @@
-I remember seeing this as a kid in the theatre, and saw it again for the first time in many years on cable recently. I was surprised how much I enjoyed it after all this time. Russell's performance is quite believable, despite the fantastic story line. Really good entertainment, and blows away much of the modern Disney entertainment provided these days, which is pretty nauseating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e38f88a4f392e8c630e460dcc36171ee8f711b3e4e642b0f9ce5ca19450ce86
+size 383

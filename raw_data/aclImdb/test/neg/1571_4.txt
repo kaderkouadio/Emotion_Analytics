@@ -1,1 +1,3 @@
-The film was disappointing. I saw it on Broadway with Bernadette Peters and she was outstanding. Maybe as she, herself graps on to the end of her musical career, her condtion of desperatation lands her in role that she flaunts, re-invents and triumps as her own. Bette's singing is always belted, always flat and lacking to show her ability as an actress. To be entertaining, this performance was dying for a stronger lead and a stronger cast, so that the others would be memorable in Bette's absence. Another criticism: she smiles directly into the camera every time she start singing! I know it is musical theater, but please leave some grace sociale-- Middler cannot perform like Liza or Streisand might in a retrospective tour - out of character and out of context.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ff4230182068ba2a6ac0683217e1355c9c6138433cb3bf816ef83ffe3a1928
+size 769

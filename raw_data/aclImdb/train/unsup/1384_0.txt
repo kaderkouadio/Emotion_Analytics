@@ -1,1 +1,3 @@
-Always a winner in sophisticated roles, Crawford had a huge hit with Cheyney. Far superior to the Shearer film (Norma only had 3 expressions), Crawford gives a heavy dose of credibility and leaves one wishing she had made My Man Godfrey, not Carole Lombard. It is her ability to take the most banal lines and give real meaning to them that enabled her to achieve greatness in roles that were not always very great. This being one of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecefcecb884db64e0da0ba973fb01964a02c29cce779c3df8bacd3f43939967c
+size 438

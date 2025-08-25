@@ -1,1 +1,3 @@
-Just about my favorite black and white movie. And a fine mystery at that. Cotton, Wells, Valli and the rest of the cast all fit their roles. Hyde-White as Crabbin injects that bit of surprise into the movie. Valli gives you that hopeless feeling that many people felt after the war. I cant think of anyone else that could have done the roles better. The chase scenes are legend. You just cant find movies like this anymore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bff6a1363fb2bbf9c269a385249765ec4c5706c20f8f853e54ae48171442108
+size 423

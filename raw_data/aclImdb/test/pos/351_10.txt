@@ -1,1 +1,3 @@
-(Warning: May Contain Spoilers) Let Rosalina help Mario lead the way and smile because this game will brighten your day. <br /><br />120 stars will require luck and skill, but 60 will bring you as much of a thrill!<br /><br />Blasting through stars show Mario and Luigi and what travelers they now are! <br /><br />Walking upside down has never been more fun, especially a final battle with Koopa near the Sun! <br /><br />This is truly a super awesome game and it absolutely deserves a place in Nintendo's Hall of Fame!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5fec9df1e9965c4226a73d33f8aa4a3b647b10cdd230f152bc7d727b2f67c58
+size 520

@@ -1,1 +1,3 @@
-This lame movie is strictly Hollywood formula, and tries to ride on SE7ENs success, but without coming within an inch of that movies style and sophistication. The plot is unbelievably far-fetched, the directing bland and unoriginal. One or two moments are mildly effective, the killer on the internet, and the descent into the killers basement, but the end result is hugely disappointing. A waste of time and money. I like Chris Youngs scores but I hope he finds better films than this in the future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b0ce89d9617655ebb7b785c79e5070ff82bd68e1f0cce18f3870425098b0dea
+size 500

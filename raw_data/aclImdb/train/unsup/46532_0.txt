@@ -1,1 +1,3 @@
-We picked this movie up at St Vincent De Paul store for $1.49 and at that price it was over priced!<br /><br />About 40 minutes into the movie we became painfully aware that the story line and acting was more that of a pilot for a Fox show. Clearly this was not intended as a stand alone cinema release, but a hastily repackaged pilot episode.<br /><br />It was interesting to see an early Simon Baker, however it looks as if he has since had a nose job. Still like his hair.<br /><br />The characters reactions were more those one expects on TV vs film. Bad bad bad you just stopped caring about the characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1198396f0517e045322e6b15c0a8a0b4d54ccd3335f9c462e484773ee37b1445
+size 612

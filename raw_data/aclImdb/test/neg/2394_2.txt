@@ -1,1 +1,3 @@
-The premise is interesting and the cast does the best it can, but the script and the directorial effort are so poor that it is not surprising that this film was buried--which is fitting given the screenplay. As I watched this, I could not decide which was worse, the screenplay, or the directing. The actors are over the top, the art direction looks like a Disney movie, the music is contrived, and the sentiment so sweet that it gives viewers cavities. It's a bad attempt to imitate "FOur Weddings And A funeral". If one wants to watch comedy that is as flat as a pancake and how poor direction can turn a story into cavity sweetness, this is a good one to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf3f3aefc29f891fda6d7c82f1855333a1f3e004082a7b33cbed1f32d8a7f50c
+size 664

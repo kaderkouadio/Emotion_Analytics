@@ -1,1 +1,3 @@
-A boring and disappointing TV film. True, after 9/11 it is hard to watch a disaster movie happening in New York as reality unfortunately exceeded everything fiction script writers ever imagined. However, this is still a bad TV movie. Cheap melodrama, flat and bombastic characters, ridicule script lines a real person would never say, and everything is so predictible - you can always guess what happens or what will be said next. 4/10 on my personal scale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a42fcb79886586653784c5b6bd8a53e2562c3458877305f8e0a966e9b133c98a
+size 457

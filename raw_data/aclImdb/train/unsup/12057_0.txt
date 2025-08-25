@@ -1,1 +1,3 @@
-The Oscar-winning Danish short-film of Kim Magnusson and Anders Thomas Jensen is their third short-film to be nominated to an Oscar. It is, as always, an ironic film about a very heavy subject. The Danish mentality is the keyword in this fantastic short-film. Don´t miss it for anything in the world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86700f1dd086dfc136cb0a0d345a4686ed6c01f98baad8fe1ab07682a1d8eac4
+size 301

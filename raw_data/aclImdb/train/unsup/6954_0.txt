@@ -1,1 +1,3 @@
-I thought it was a good movie. I've watched it several times and I keep noticing things I have not seen before. I know people just like Nora, played excellently by Coleen. Her facial expressions speak as loudly as the dialog. Jeff Morrow as Hack was also great casting. He knows that when he is condemned to die that it was useless to protest. Strorther Martin also added a bit of humor. I think it was courageous of Hollywood in 1957 so make a film with such an overtly religious theme. I doubt it would pass today, where everything stresses the insignigicence of life. Every time I see the movie, it becomes more and more real. A great movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b49153240a75ab20d9cf9c9dc78864cb97541234791b81429414c531252802f7
+size 644

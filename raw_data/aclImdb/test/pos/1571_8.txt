@@ -1,1 +1,3 @@
-Having worked professionally with young girls on the run, I found this film surprisingly authentic. I would never have found it had a friend not loaned his videotape. There are classic themes here: Coming of Age, Mother/Daughter Estrangement, The Limited Choices of the Underprivileged, Who is the Good Samaritan, Tragedy is in Every Life & the many layers or relationships. Flashbacks are meaningful (when Alice acquires a gun we know she has some familiarity with how to use it) and it does not end in cliché. The cast really "sells" their roles. It is adult material and the audio is a bit too grainy. Allow it 15 minutes to so to draw you in.
+version https://git-lfs.github.com/spec/v1
+oid sha256:001a1dda94c936dd90e38ea1ad34c778d434f915426941c699e5c1651ed34cfc
+size 647

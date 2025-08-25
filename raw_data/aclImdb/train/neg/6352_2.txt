@@ -1,1 +1,3 @@
-I've always been a great fan of Woody Allen and always will be for most of what he did in the past, but only a blind lover could ignore how dull, meaningless, pretentious and most of all horrendously acted this movie is. A vacuous mental masturbation based on inconsistent grounds. And what a disastrous idea to artificially recreate a presumed "actor Allen-clone", that is putting into Will Farrell's mouth and gestures what Allen would have done in Farrell's place had he been 30 years younger. The outcome was obviously ludicrous. And not to speak of the dialogues... what was intended to be philosophical reflections turned into an involuntary mockery of intellectual pondering, unaware of its comic effect. How sad...
+version https://git-lfs.github.com/spec/v1
+oid sha256:de28b30b4e1743feda5df92e8826f1bdd4c58c1861309dfd6261f94ad88d6113
+size 722

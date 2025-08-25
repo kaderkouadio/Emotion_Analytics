@@ -1,1 +1,3 @@
-"If you like this title, we also recommend...<br /><br />Boa vs. Python (2004) (TV)." <br /><br />There's really not much more to say other than that, but I'll try: Imagine being strapped to a chair while every stupid person who has ever irritated you, wasted your time, or otherwise caused you grief pokes you repeatedly in the face with a rolled-up copy of the National Enquirer while explaining the plot of Jason and the Argonauts to you using no words that contain more than two syllables. That's how much fun you will probably have watching this movie. Cue next anonymous hyperbolic scathing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:182146f857d79200fc726d15adf3a60d1c1bf282a195a50775a3f0238aaa4de8
+size 597

@@ -1,1 +1,3 @@
-The story of pre-unified China must be a popular one. Jet Li's Hero made the assassination of the King popular.<br /><br />This is another story made a few years earlier. It stars the incredibly beautiful Li Gon (Memoirs of a Geisha, 2046, Miami Vice) as the King's lover, who was sent to recruit an assassin so that the King could defeat him. She recruits Fengyi Zhang, but falls in love with him.<br /><br />No matter, he is not able to complete the mission anyway, as the King knew about him beforehand. I suspected he also knew, but went anyway.<br /><br />It was a beautiful story with massive military operations, and, of course, another chance to see Li Gong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca65ff21fd32a772a5417c09884df097191fde4d7e62e023882555f66a1c4789
+size 666

@@ -1,1 +1,3 @@
-"Show Boat" is one of those garish musicals from the 1950s where scope and spectacle dwarfed content and story. It's directed lethargically by George Sidney, as if he thought audiences would be so tickled by the elaborate Technicolor sets and costumes that he could just set up his camera and let it run. Said costumes, though this is supposed to be a period piece, have a distinctly late-40s/early-50s flavor. And Ava Gardner is miscast in her role; she sort of vapidly walks through it with little conviction.<br /><br />It doesn't even do the sterling musical score justice, which is its greatest crime.<br /><br />Grade: C-
+version https://git-lfs.github.com/spec/v1
+oid sha256:de355f969bc827b7feb1d9c6b8dd84e1bc990f446593559fafda4f3d3ca330d5
+size 627

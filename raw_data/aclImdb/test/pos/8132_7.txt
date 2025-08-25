@@ -1,1 +1,3 @@
-Though I saw this movie dubbed in French, so I'm sure it lost something in the translation, lack of accents, etc., it was an excellent, fun movie for a lonely night in a hotel room--a real pick-me-up that portrayed accurately and positively the complexities of individual sexuality, gender role, and finding a place within the communities to which one is supposed to belong--male, gay, urban, 30-ish, etc. I was very proud of French television for showing such an honest and positive portrayal of the gay community. While the fact that the gay lead character ends up somewhat "straight" in the end is mildly disappointing, that's life, and that happens sometimes. This is a great movie, whether alone or with a date! A really enjoyable experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed017a733d98f6fa2f99a8e6f09f675e967c7062aa22300ba32307cedc9909a5
+size 747

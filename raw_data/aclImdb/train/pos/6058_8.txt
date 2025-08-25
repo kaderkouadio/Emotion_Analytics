@@ -1,1 +1,3 @@
-This is a well-made documentary on the exciting world of Indy Car racing. The photography is simply outstanding. The scene were Mario Andretti drives the old racing roadster down the New England street lined with the ancient maples, leaves blown to the side by the speed of the car, is incredible. The film does lose some of its beauty on the small screen but if you like watching cars driven to their limit you should see this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d82ae5eb01a44cf5228eb869dd3b910bf392e586a68822f1cd7259fb2ea9c6
+size 433

@@ -1,1 +1,3 @@
-Yes it is your typical direct to video action flick. And of course they do their best to change it up a little bit but fail miraculously. Snipes delivers his perfectly bland performance that he always does. Colloca proves that you don't need any talent to star in a film but just sex appeal. The worst part is that it didn't cover my bad movie basics which are: 1  Cheap looking villains. 2  Perfectly timed one-liners. 3  Intense car chases with massive explosions. 4  The hero hooking up with the hot chick. 5  Multitudes of nude or scantily clad women for no reason. OK so I lied, it covers those but does so horribly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aab22c5d5b89a9c54f74b1c296f50b1b8e83c53c73f16486da288a7d2bb2229b
+size 631

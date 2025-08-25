@@ -1,1 +1,3 @@
-There was other games that appeared that used video to tell their story, but no game before did to the extent of Wing Commander 3. The first product really worthy of the term "Interactive Movie"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e293c91c94e1bcb126bf60fc351ce3b124ad5f3f632aa70db8a72417587ecc87
+size 194

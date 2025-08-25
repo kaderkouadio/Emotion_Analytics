@@ -1,1 +1,3 @@
-An interesting change from the first one. there was more mystery to this movie then the first. Even when it ends your asking yourself what happened who was the killer. There are some good parts through the movie, the first half starts off slow and then in the last half the pace picks up. All up the movie is enjoyable. The story is 22 years after the events that occured in the first film, Norman Bates is out of an asylum and back to the Bates motel, but when a woman turns up claiming to be his real mother, things start going wrong. Perkins plays an aged Norman well again and the scene at the end was excellent, he swang that spade awfully hard.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6d89227bdb29e56bdbbe7070ddfc46ed8a981d127bec1bbde442f81b77e74c
+size 650

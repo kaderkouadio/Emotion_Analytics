@@ -1,1 +1,3 @@
-Working in a music store, my collegue first tipped me this soundtrack. The music of this movie is perfect. One of my favorite CD's. Only years later I saw the movie, I was afraid it would not fulfill my high expectations, luckily it did. A feel good romantic love story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ec35ece5d558052ca71409b4f99aa62fca52d49654370796700cb6d06d45aa
+size 270

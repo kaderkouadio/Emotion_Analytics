@@ -1,1 +1,3 @@
-Kudos to ABC and Disney for making an MOW look like a real film. Can't believe this story wasn't told sooner. Hope it becomes a series. I could watch Robin Hood's daughter and the middle-aged merry men every week. Performances were strong. The actress who played Gwyn is beautiful and should have a long career. Way to go ABC!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd60ab8cdf965f70ab8dd501a2628aa01244d8b7e058459bf1c1290225adea5a
+size 326

@@ -1,1 +1,3 @@
-Saw a trailer for this on another video, and decided to rent when it came out. Boy, was I disappointed! The story is extremely boring, the acting (aside from Christopher Walken) is bad, and I couldn't care less about the characters, aside from really wanting to see Nora's husband get thrashed. Christopher Walken's role is such a throw-away, what a tease!
+version https://git-lfs.github.com/spec/v1
+oid sha256:73009d93681ef45736dc755e9c4d6c6bf49f27417f7b08f20dabc5ae66cfcc59
+size 356

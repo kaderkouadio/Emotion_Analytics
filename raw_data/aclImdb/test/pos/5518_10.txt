@@ -1,1 +1,3 @@
-This film was different. It took a sort of typical thriller story and reached for a more interesting, in-depth look at an individual character's struggle with faith. Of course, it helped that the main performance, by Andrew McCarthy, was quite excellent. The other performances were also quite interesting, although not as consistent. The ending was a bit of a let down, but there were lots of good moments. The film-makers tried something different here -- they didn't just go for the obvious chills and scares. This is a dark film (not for everyone) but if you want to be entertained and not talked down to, try this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09bce83fc5a9709ae280c4fdf3b1f9d6b5e52187916e16b5b3fed2e17f70b97e
+size 623

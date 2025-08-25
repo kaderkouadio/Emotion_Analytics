@@ -1,1 +1,3 @@
-I liked this movie. I was just flicking through my channels when I saw Rachel Blakely, I knew her from "The Lost World" so I decided to look at the movie. It was good, I couldn't stop watching it. It isn't like this brilliant show or anything but it held my attention. I stayed up until really late in the morning.I wasn't about to miss it because who knows when it would have been on again.<br /><br />I wish they would show it on television again. I have only seen it that one time and would love to see it again. It is a nice little show and I would recommend others to watch it, just for a little fun. You might be able to predict some parts of the plot but it doesn't matter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b1bd7b53bf431b0daad0e92fc066a22d8e0709a9fc386e995ee4082a06863d
+size 680

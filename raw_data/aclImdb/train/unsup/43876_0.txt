@@ -1,1 +1,3 @@
-I knew nothing beforehand about this film. I only watched it because Ally Sheedy was in the cast. This was one of the poorest films I have seen in a long time. In my opinion, the only actor who really put anything into his part was Paul Winfield. I like Ms. Sheedy no matter what film she's in, ever since I first saw her in War Games. Judd Nelson was inappropriate as the hero. The plot became more preposterous as the film went on, so that by the end nothing that happens surprises the viewer. The actions which the hero did were totally over the top, and he got away with all of them!! All in all, a film to avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:536d6834ed8ba1de4fe5290f05218b041942b6cc2110a952efa42906cda88f7c
+size 617

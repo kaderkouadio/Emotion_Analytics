@@ -1,1 +1,3 @@
-My Cousin Vinny was a great movie. I borrowed this film from a friend but had no idea what it really was but just knowing Joe Pesci, Ralph Macchio, and Marisa Tomei were starring in it. After seeing it, I really liked it. It was a funny movie. There were tons of laughs and I never knew it was going to be this funny but mainly Joe Pesci as Vinny was hilarious. He had the best role in this movie out of anyone but Marisa Tomei as Vinny's fiancée and Fred Gwynne as the judge did wonderful. I was surprised how good the movie was and overall it really entertained me. I highly recommend the film.<br /><br />Hedeen's Outlook: 8.5/10 ***+ B+
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c0e457c14a0d0055efb84c2ef723e9ce91e3977dd0425740b245359a15f578
+size 641

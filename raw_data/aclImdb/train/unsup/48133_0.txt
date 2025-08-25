@@ -1,1 +1,3 @@
-The "Dead Next Door" was an OK movie for myself, but i have herd that many people enjoy the film and recommend it. I don't think the plot is very good, but i do realize that it was a low-budget movie. i did like the gore however (there is plenty of it) and the violent effects are not that bad, so if you are a gore-hound then you might want to pick this movie up.<br /><br />i do own this movie and bought it for a fair price; i don't recommend paying an arm and a leg for this movie unless you have seen it and enjoyed it enough to shed some cash. if you're not one for mediocre acting then i also don't recommend this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52fd3454e1c231769a4d0dc89e0b895c00f1b3402493be0d1ef2c3a6aefb2760
+size 627

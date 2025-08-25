@@ -1,1 +1,3 @@
-Excellent farce! Which, of course, is all it is intended to be. Thankfully there is neither a social or political message, nor is there the slightest attempt in that direction. Could the plot actually take, or have taken place in any particular time or location? Unlikely, for, after all, this is simply, merely, a movie, and movies spring from imagination, not from reality. The only goal of this movie is to entertain, certainly not to educate, and entertain it does, with reality delightfully and lightheartedly tossed to the winds. I think most would agree that from documentaries we expect enlightenment and authenticity. But for entertainment I want what is nowadays described as a "no-brainer," which The Mating Game is in all respects. For a few chuckles and an outright laugh now and then, this is fine fare fantasy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59595edfc1cd8f918baf6e68b4b2cf1fb4e0521547fd1dae5b206f9a0871cf18
+size 825

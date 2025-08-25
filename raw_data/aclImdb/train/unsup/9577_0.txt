@@ -1,1 +1,3 @@
-In the Netherlands everything with the word french in it, usually means something half finished, but that by no means applies to this absolutely wonderful film. It is funny, without slapstick, it is sweet, without sickeningly so and it is romantic. What else do you want from a feel-good film? The way the voice-over is doing his voice-overing is brilliant and the love-scenes are beautiful. Definitely a film to watch time and time again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef40a19e890f9053f1c063b4f23d153e9a8810b52d27d741981895bd5fccf830
+size 439

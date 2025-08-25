@@ -1,1 +1,3 @@
-Trekkies is really not a movie about Star Trek fandom. It's a freak show about those Star Trek fans who have no sense of reality. As a freak show, it's fine. But it is a mistake to think that this movie gives you an insight into Star Trek fans. Most Star Trek fans cringe at what this movie shows.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f68b130eed40748bd9747e2d6c871817c62d633f87fbfcd21b85d0f799b70bc
+size 297

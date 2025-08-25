@@ -1,1 +1,3 @@
-"All Passion Spent" is one of the finest dramas ever produced for television. The casting was a triumph with some of Britain's best character actors. Dame Wendy Hiller was perfect in her quiet, dignified, yet resolute portrayal of Lady Sloan. Maurice Denham's eccentric Mr. Bucktrout will always be one of my favorite supporting roles. This film was one of my all time favorites and never failed to give my spirit a lift and help me "consider the lilies of the field". We lost our copy in an accident a few years ago and I fear I will never have the opportunity to view this magnificent film again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7b7c05c7b03a55d4bcf24810ab54008da166f375bf4588db6e701ed46d8269
+size 598

@@ -1,1 +1,3 @@
-Hollow point is an alright movie worth a half price rental or if nothing else is on a good time waster with no thought required. There are the requisite explosions and hammy acting and pretty ladies. A pretty good cast with Donald Sutherland, John Lithgow, and the lovely Tia Carrere. This cast plus a light hearted touch make for a not a great movie but a fun one..on a scale of one to ten ..a 4
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d526c87ba1e1209749db496fa2da76a64e43ab2f0e244ab44eb7e04d4fdbfa0
+size 396

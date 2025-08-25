@@ -1,1 +1,3 @@
-Well the main reason for seeing this movie would be to see Colm Meaney at his best. During the 1st 10 minutes of this film I was quite irritated by what I thought was another shamrockery and begorrah script. But once you get past that, its a very well acted, well-shot film. The humour was very dark though. Some in the audience were laughing while I felt like crying. I suppose the humour is open to your own interpretation. Overall a very sad story though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cc2cf6b2743fa7495df5e2796badc4d77ddb9aa341ec56e4fa3dcb0adeb3042
+size 458

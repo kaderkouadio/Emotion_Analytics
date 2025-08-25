@@ -1,1 +1,3 @@
-DO NOT watch this movie. First, it is historically and hagiographically empty. It's image of Sebastian dates from perhaps the Renaissance and has little resemblance to the actual story of the title character. Just because a painting has become a gay icon does not mean that one should make a movie about a real individual who was NOT a gay icon. Second, it displays the very problem with most movies about homosexuality: namely, that they all have to contain a lot of gay sex. This is quite ridiculous. We watched this movie in our "Latin in Modern Mass Media" class for College. The Latin itself was hardly impressive, and seemed far too influenced by British grammars and barely qualified script-writers. It didn't even seem to be using the colloquial form of Latin common to that time period.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71864e73f5ea5217ff6bfac6ce98b4f44b4c22050a90a2a914d5512618e30446
+size 795

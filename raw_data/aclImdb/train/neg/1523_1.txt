@@ -1,1 +1,3 @@
-This 'Movie' has to be the biggest pile of steaming C*^p I have ever<br /><br />seen, What more can I say than BAD, BAD, BAD, BAD, BAD, BAD. There is NOTHING to save this 'movie' and I pray that they NEVER even talk about making a sequel. If you are thinking about watching this then you should know that the storyline is that two garbage men get dragged into saving the earth. Movies like Men in Black has been torn to shreds and put back together to make this 'Comedy' but have TOTALLY failed. Please avoid this movie, (save yourself).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d376a55de10ea06861ed67dcbcce25f5b03d2689d8815de69363b6e52ce4218e
+size 537

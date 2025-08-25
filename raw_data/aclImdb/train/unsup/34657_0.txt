@@ -1,1 +1,3 @@
-Cheezy "German" accents, A-list actors (Olivier, Peck, et al), lots of beige clothing, rude pubescent clones with sinister pale blue contacts UND a dash of history all add up to the wonderfully awful "Boys from Brazil."<br /><br />I kept expecting/hoping Werner Klemperer would burst upon the scene and shout "Schuuuuuuuullltzzz!!" At least we would've had a real German! Mein Gott!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:91ec2eb05ddb48e820a69b1af0cec08d4ad50366a35b6f6417ba1807d47e7c94
+size 383

@@ -1,1 +1,3 @@
-This movie is probably the best way to end the magnificent Gundam Wing series. It answered a lot of questions asked about the series. It showed the pilots' pasts. The new Gundams are awesome, especially Tallgeese II. I didn't like Wing Zero Custom because the angel wings was ridiculous!!! Death Scythe Hell was nice too. The animation was much better than the series.<br /><br />Watch the series first or else you won't have a clue about what's going on in the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91b0b6c6d8b7bca0e8b027a752473b108299b2411d31dda56446cc92a9628ec
+size 468

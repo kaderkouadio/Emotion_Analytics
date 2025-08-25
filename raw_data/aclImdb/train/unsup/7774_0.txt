@@ -1,1 +1,3 @@
-A terrible unprofessional looking film with an awful script,scene chewing acting and cartoonish "special effects".The plot is a silly unexplained mix of zombies and skin disease with the characters mostly standing around in a house and wondering what is happening while their neighbors all mill around outside and shake their heads really really fast.I guess the fast head shaking is supposed to scare us or something.I'm mostly scared I'll accidentally rent another movie made by this crew.<br /><br />This film is embarrassingly bad and not in that "so bad its good" kinda way either.<br /><br />Avoid this mess like you would a big steaming pile of dog dookie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43685b1c54b93541db755686cb23eaabcf9d628a930691f7804da9192e94c154
+size 663

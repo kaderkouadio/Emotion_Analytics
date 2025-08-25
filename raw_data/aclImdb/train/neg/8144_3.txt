@@ -1,1 +1,3 @@
-I just saw this at the 2006 Vancouver international film festival. The synopsis in the festival guide sounded pretty good so we decided to check this one out. I'm sorry to say I was very disappointed.<br /><br />Besides being poorly written, it was boring. I won't take away from the actors as there is not much they could do with this bad script.<br /><br />First bite was cliché without being ironic, over the top seriousness without being funny. The movie would have been better had Hunt Hoe went with a campy horror feel. Instead he took himself to seriously and this resulted with a boring film. I can't recommend this film. It felt too long and all in all just plain weak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df3d39b88d4d80d98e5f3b37cce0844e5a2e3a8818637eb74c62b714a69215e
+size 679

@@ -1,1 +1,3 @@
-Creative and original horror comedy about an eloping teen's girlfriend who is abducted by a cop from Hell---literally. The late Richard Farnsworth plays mentor to the teen (Chad Lowe), and soon the boy is off to the netherworld to save his bride-to-be. Only mildly suspenseful, but works better as a self-parody, with dashes of loopy humor and supporting characters the like. The Hell cop (played by FRIDAY THE 13TH PART 6's C.J. Graham) is particularly amusing.<br /><br />**1/2 out of ****.<br /><br />MPAA: Rated R for violence and brief nudity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c6b13c10fcca08001847d2206ab1111261698f626852fa97d47024d18b28cd4
+size 548

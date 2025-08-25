@@ -1,1 +1,3 @@
-Young Elijah Wood and Joseph Mazzello are outstanding in this excellent film about two boys who have promised to "take care of their mother," and how they cope when their new stepfather begins beating the younger boy. The supporting cast around the boys is top-notch as well. The script really gets inside the mind and heart of an imaginative child. It's hard to believe Wood could grow up to look anything like Tom Hanks, but that's nothing new in Hollywood. That's honestly my only criticism of the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f875f2023767a03d0788ebcb607797f537da8a1b81ef4b1316006d1fa4ae87b
+size 506

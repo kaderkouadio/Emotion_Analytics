@@ -1,1 +1,3 @@
-The third film in the Dirty Harry series is more of a regular action film than a Dirty Harry movie. It has a plot so basic it was probably thought up in 5 minutes. Still, that does not make it a bad movie. Harry still focuses mostly on tracking down the bad guys so there's plenty of good action. I liked SUDDEN IMPACT more but this is definitely better than THE DEAD POOL. If you are either an action fan or an Eastwood fan, go out and pick this, its a fun movie. 4/5
+version https://git-lfs.github.com/spec/v1
+oid sha256:1817d609a1e3118ee884a47a6d484d8f23b206999ba52a1b82db50824a0d3b19
+size 468

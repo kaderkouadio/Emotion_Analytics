@@ -1,1 +1,3 @@
-It seems like the only comments here are very negative. I found it rather entertaining, maybe it did not fully live up to the reviews but most of the history works. I think that both the lead characters are well played by Niels Olsen and Sidse Babett Knudsen and Lars Kaalund is great as the friend of Niller. Sofie Gråbøl made toes crumble but not because of bad play but because the character she played was so embarrassing clumbsy. But if people prefer movies like "Op på fars hat" and "kampen om den røde ko" then I come short of arguments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c374ad1fd41bb3bc56bc22ce5a34e8f9ff45766c6b9d55e58429f58cd40153
+size 548

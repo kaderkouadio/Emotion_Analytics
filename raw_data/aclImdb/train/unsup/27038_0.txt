@@ -1,1 +1,3 @@
-Firstly, the correct title for this film is TRUE VENGEANCE. Bernhardt portrays Allen Griffin, an ex-Navy SEAL who's daughter is kidnapped by her Yakuza grandfather to force Griffin to kill an exec of a rival company so he can take it over. Racing against time, Griffin is determined to get his daughter back at all costs. While being chased by the police for the murder, he takes on the Yakuza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c627fcb5ba6dc90f21ad7b09a3e7d3dda1db1861dd36ad42716841e70d5e32
+size 394

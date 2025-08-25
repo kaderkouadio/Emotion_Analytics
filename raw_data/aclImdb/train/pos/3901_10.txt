@@ -1,1 +1,3 @@
-This video rocked! Eddie is one of the funniest comics I have ever seen. Not only does he have class, he makes some of the funniest observations on history and culture that I have ever seen. Eddie is the most original and most intelligent comic I've seen in a VERY long time. Tell all those other stand-ups to get off the stage and let this "executive" reign!
+version https://git-lfs.github.com/spec/v1
+oid sha256:56811912d49bde2a12ecc409ab1f73eb6a311d0c388c4be9ac1617af3caff428
+size 359

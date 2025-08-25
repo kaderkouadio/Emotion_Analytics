@@ -1,1 +1,3 @@
-The kind of film that earns "European films" the bad rap and bad rep the get from a lot of people these days. I had the feeling the film was written to showcase the music, not vice versa. And since you can't write a terribly compelling film about training vocalists, we're trapped into watching seemingly endless camera pans of trees, birds in them chirping ad nauseum, pseudo-profound, meaningful stares between people who have nothing to say to each other, and a Mahler symphony on the sound track that just simply won't go away. A terribly tedious film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0442ad9aed30325462b994080b5699257039acd85674ac1bf0810bf7161c0da3
+size 556

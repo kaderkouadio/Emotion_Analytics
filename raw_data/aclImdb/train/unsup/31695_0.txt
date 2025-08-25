@@ -1,1 +1,3 @@
-I took my almost-4-year-old and her two cousins (age 3 and 6) to see this and we all had a wonderful time! The cast was outstanding - Colin Firth marvelously befuddled, Angela Lansbury wonderfully austere, Emma Thompson gruesomely wise and endearing, and all of the children sweet and mischievous without being cloying and horrible. It was clever and never "dumbed down" as some movies peddled as family fare are these days. This film was both funny and touching. The scenery and costumes were also wonderful to look at -lovely use of color. Some reviews have said that the movie tries too hard to appeal to adults, but I disagree. If preschoolers can enjoy it, most children will. I highly recommend it to audiences of all ages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d0a8f648ac9ccd527687cb381c7c1f90f7b64036138f6f9bc7d07cee0b21363
+size 729

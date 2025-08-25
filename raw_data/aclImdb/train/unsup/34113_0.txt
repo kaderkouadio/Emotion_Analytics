@@ -1,1 +1,3 @@
-I swear I love Norm Macdonald I think he is a great comedic talent. Right up there with Denis Leary,but this movie (I will not call it a Film) was horrible. This was one of those movies like "Joe Dirt" where they had maybe one or two funny ideas and they built a whole movie around it. I really hope his next effort will be more thought out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a48b79b87046efe3bd4baf78d80c63eb736af5d360606913bd4e173bddf2ad
+size 341

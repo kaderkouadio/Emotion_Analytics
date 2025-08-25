@@ -1,1 +1,3 @@
-As a Dutch gay man I am ashamed that this movie was made here. There is not one good thing about it. And the other review here is simply nonsense. This movie isn't even worth mentioning in the same sentence as the other movies referenced there, and I won't.<br /><br />The acting is horrible, the story is retarded and the poster art is offensive.<br /><br />Please do not watch this movie, you might get a very wrong impression of the Dutch gay scene. Also please do not think anyone involved with this movie has any respect in the Netherlands.<br /><br />This might just be the worst movie ever made...
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe9ff17b351c3045e82a6efe5b08b891bf5c8c7dd79a4ae36e647bbbfadf77c6
+size 604

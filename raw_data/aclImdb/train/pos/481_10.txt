@@ -1,1 +1,3 @@
-This is one of the unusual cases in which a movie and the novel on which it is based are both great. Maybe this is because Gorris' takes Nabokov's initial ideas and gives them a different interpretation. The final consequence is a point of view over Luzhin which dignifies him more than the Nabokov's one.<br /><br />The only thing in the movie which I don't like is the influence of Valentinov's on Luzhin's destiny. I can't imagine Nabokov creating a person like Valentinov and giving him so great influence on novel's argument.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74b50b8a2ed409049e4caf608e3aaab18da37647b805e6f8e5719ddde6bdb5ea
+size 530

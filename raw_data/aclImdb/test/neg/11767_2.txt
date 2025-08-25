@@ -1,1 +1,3 @@
-If you can stomach the campiness, this movie should make you laugh out loud several times. It did for me, at least. I'll only mention one of my favorite elements: the "underwater shots" of the "fish" "swimming". The sound which accompanies those shots is great too.<br /><br />One last note: William Katt is actually a pretty decent actor. I hope he gets another day in the sun; watching him as "The Greatest American Hero" was a fun part of my childhood a couple of decades ago, and he hasn't been very visible since. He seemed kind of depressed in this movie. Somebody give him a fun job on a good show, or something.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7feb94729323312f0a28475b495f95c49832efa69e26126238dc09cc62eca1e1
+size 619

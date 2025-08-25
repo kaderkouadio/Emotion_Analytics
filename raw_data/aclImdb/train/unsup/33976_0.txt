@@ -1,1 +1,3 @@
-This film is boring garbage. But instead of doing a well-worded review, I'll just...<br /><br />What I learned from this movie:<br /><br />- Policemen get very lonely in the desert. - Rednecks love pretend-crippled rock stars. - If you wanna get away and the car won't star, it's scary. And totally not cliché. - There's a silent film studio that specializes in personal exposition infomercials. - If your sister kills herself, it's because your grand-grandma wouldn't marry that guy in the desert. - A guy standing at the very rim of the road counts as a road blockade. - Lyndsay Martin: newest inductee in the All-Time Acting Hall of Shame. - "He is coming for you!" WAAAAAGH! Works also in Spanish.<br /><br />El Charro's makeup isn't too bad, too. Seen worse. 3/10. The End.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f2ce97da2d9200057438765a431ce9fe6e8704bf02a038e55b66b4a3f5e37b
+size 779

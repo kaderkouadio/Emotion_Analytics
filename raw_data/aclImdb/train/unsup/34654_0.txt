@@ -1,1 +1,3 @@
-I saw this film on TV a few nights ago for the first time and was quite literally stunned at how bad it really is. For such a high profile and well respected group of actors (in the main) the performances are exceptionally bad. Laurence Olivier and Gregory Peck try to outdo each other in the worst ever accent stakes to such an extent that one has to question whether or not this was actually made as a tongue in cheek comedy! Steve Guttenberg in a very early performance gives us a taste of the lack of talent and mediocrity that we shall come to expect from him over the coming years, as a group of pantomime Nazis try to stop him from revealing their secret. If nothing else, I got a good laugh from this piece of 70s camp, which truly has to be seen to be believed!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5450200f4e229a068d26a0f0a3d53bfd3027f6e0e4b59f9ff46d220fde899560
+size 770

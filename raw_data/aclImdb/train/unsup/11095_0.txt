@@ -1,1 +1,3 @@
-... I enjoyed "oxygen" to an extent. Alright, it's not perfect. Fine. The script is underdeveloped. Okay. But, mind you, the performances by both Maura Tierney and Adrien Brody are worthwhile. Their unusual chemistry intensifies the scenes their in together. Other than the script, the scene with the agent should have been cut.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eec64b8cd7258991f23eac1fc30fac520d1da746d8efc736a1a9d50d3b9d168
+size 328

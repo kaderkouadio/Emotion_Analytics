@@ -1,1 +1,3 @@
-I really enjoyed the film. It was really cheesy at times. (They destroy the villain with hair driers--but where are they plugged in?) It's a unique film though, and I enjoyed the acting of Courtney Draper and Tamara Hope. I also enjoyed Fanuel (however you write it...) liking Megan's charecter because she called him a dweeb. Besides the acting, the "rewinding" and showing what happened on Ariel's and then Megan's point of view was quite interesting. I saw it twice and I'd see it again
+version https://git-lfs.github.com/spec/v1
+oid sha256:03d74e0a6f4ed40a61006af62ad3a6a01bc394c4f50fe48f34d14af420399f29
+size 489

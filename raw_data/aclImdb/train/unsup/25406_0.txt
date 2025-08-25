@@ -1,1 +1,3 @@
-Some movies are so bad, they're good. This movie is so bad, it's bad.<br /><br />A man is visited by aliens a couple times, and nothing more happens. There are some vaguely entertaining surreal parts, when the main character encounters the aliens (both of which look like cheap X-Com rejects), but the whole fun of the surreality is that a willing viewer can briefly pretend he is not watching "Communion" and is instead enjoying an ugly acid flashback. The suspense is horribly managed, the acting is terrible, the film has little direction, and when that 103rd minute finally rolls by, the audience is left with nothing more than the back of the box will tell them. Avoid, avoid, avoid. Better than "Manos: The Hands of Fate," but worse than "Death Machine". And not in that fun-to-watch bad movie way, either.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bd7f2a4ab6a524ada5a7465352ded1dfc41cdbd7226b6e0ac6be16abee0860f
+size 812

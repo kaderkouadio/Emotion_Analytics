@@ -1,1 +1,3 @@
-This is essentially a slapstick farce in the vein of POLICE ACADEMY (they were all popular around then weren't they?) only it was made in 1996 and seems like a film from the '80s (that's how cheap the quality of the film is). It stars Corey Haim and Jim "Ernest" Varney (R.I.P.) but isn't funny at all, with revoltingly bad performances and "jokes." It's stupid, crude, unfunny and downright hard to watch at times. Saw it years ago on HBO, and don't plan to ever again.<br /><br />This is the sort of movie that you wish could be burned. The plot (if there is one) is basically just a lot of chaos at a snowboard academy in the middle of nowhere - sort of like OUT COLD meets POLICE ACADEMY meets something else that's really dumb.<br /><br />Don't bother. Please.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25a31f130bb1327639f6efc1b21648a6b49266182a02a4e8528990e3f3092195
+size 765

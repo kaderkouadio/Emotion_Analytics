@@ -1,1 +1,3 @@
-Better than a lot of movies out there, but could have been done a little better...changing the story from slave to artist was dumb, and that actress was horrible!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdcedaadd9dfc889a4fd950ebeb0e293e2307bf33594ed02a7d91ce6a0823e7c
+size 165

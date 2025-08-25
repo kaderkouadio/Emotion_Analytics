@@ -1,1 +1,3 @@
-Richard Pryor struggles mightily with the forced, weak, idiotic material in "Moving". After each effort at generating laughs, there seems to be an uncomfortable silence as the audience consistently remains silent, or worse yet, sighs at this unbelievably unfunny movie. Vacilating wildly between slapstick and just plain nonsense, there are no more than two chuckles, and it leaves you feeling almost embarrassed for having watched. Do not be misled by the token appearance of Rodney Dangerfield, because he is almost totally wasted, and Randy Quaid's character is so repetitively abrasive, he quickly becomes boring. Very definitely not recommended. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bc055e3eb2ef629950e049ec4aa9b64ae0d04a1bbcb50722826eff94e5da2b0
+size 657

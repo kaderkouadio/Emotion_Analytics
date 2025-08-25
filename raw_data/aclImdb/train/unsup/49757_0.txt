@@ -1,1 +1,3 @@
-When visiting my grandmothers house on a Sunday afternoon i'm normally susceptible to all sorts of tripe that pass as Sunday Afternoon Family Films. Today I was treated to this, but Sean Connery is in it, it can't be that bad can it? Yes it can. This is far and away the worst film i've ever seen. The acting is horribly bad, but not in a funny way. It's beyond laughter. The concepts are completely implausible and the whole thing is just horrible. I don't know why Connery was involved in this but I bet he wishes he wasn't.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c3290a59e2f689ffc7f68e3db32b5d65586c82a8199e1e3d9f9c61fd97ab103
+size 526

@@ -1,1 +1,3 @@
-I must say, after I've watched this move, I now consider it my all-time favorite. Everything is just awesome! The casting - perfect. The story - so cute and funny you just have to love it. Don't miss this awesome piece of art, or you'll regret it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b8a886e6a62051eb4ee29ed6753ceb500eb676da5c439430c23f1f83bbd2ed
+size 247

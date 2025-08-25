@@ -1,1 +1,3 @@
-Roy Rogers (as Roy) and sidekick Raymond Hatton (as Rusty) join Teddy Roosevelt's "Rough Riders". Soon, they get suspended in order to "Round-up" the killer of partner Eddie Acuff (as Tommy) along the Mexican-U.S. border; they discover creepy gold runners in the process. Notice how, even suspended, Mr. Rogers is able to get the Rough Riders to join in his Round-up! <br /><br />This is not one of the better Roy Rogers westerns. The fighting scenes look like choreographed dances. Rogers sings/yodels "Ridin' Down the Trail", one of two relatively ordinary songs; and, a stand-out moment, overall. <br /><br />** Rough Riders' Round-up (3/13/39) Joseph Kane ~ Roy Rogers, Raymond Hatton, Lynne Roberts
+version https://git-lfs.github.com/spec/v1
+oid sha256:711a108f96a57c5c4e51542b2be0f0033a3fef8d6c63fe297095f372d2b56742
+size 703

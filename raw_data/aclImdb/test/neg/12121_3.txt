@@ -1,1 +1,3 @@
-Unfortunately a boring flick, and obviously the only way to see it is the butchered bootleg Public Domain version, which is so blurry and dark that at times you have hard time making out where the screen is. The leading actors are a nuisance. The man spends most of his screen time trying to appear nonchalant, charming and sexy, forgetting totally what the film is about and that he is a murder suspect because of some dame who played him for a goose to start with. The dame herself merely walks through the flick, being dignified if she's not busy appearing cute. It's a rather badly written stuff, never interesting or witty. No good camera work, no memorable soundtrack, no glamorous actresses or atmospheric sets. It only scratches the surface of the genre, and nothing happens if you miss this totally missable flick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7863fec904fbe84a1553089374f7666bd5875012617521a1554b1e0aaec043f
+size 823

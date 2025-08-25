@@ -1,1 +1,3 @@
-This movie was bizarre, completely inexplicable, and hysterical to watch with friends while drinking in a big empty house. I really love the opening stuff with Lisa wandering about lost in a gorgeous city. I want to be a beautiful stranger lost in some exotic European locale, though maybe not in a low budget horror flick. Definitely get the ending where there are the strangely non-sexual sex scenes that were cut out (in my DVD copy anyway). Don't attempt to understand it, just go along and watch out for the weird bits...which is everything. Don't watch this if you actually want plot or characterization or anything at all to make sense. Pretty beautiful, though you may just give up on this and decide to watch an actual horror movie, like say, Dead Alive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89f0c22676f51e4c1905373fc6bef916ebcfcb09d99e40b3c14d546fd2c8f40d
+size 763

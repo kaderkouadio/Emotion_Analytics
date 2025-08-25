@@ -1,1 +1,3 @@
-Most Christmas movies have a "redemption" theme but most are a variation on a very similar plot. This movie is wacky and has an unusual plot. You may need to hang in there for the first half where events may seem hard to believe for a movie (but not as unbelievable as real life - Scott Adams, the creator of Dilbert, says he's never made up anything in any of his cartoons - they're all based on real life stories told to him by his fans). The second half starts to fit the plot together. I enjoyed it. <br /><br />BTW, one reviewer noted that the idea of someone not having cash available is not credible in these days of ATMs, but it's perfectly credible if you've lost your wallet - who carries ATM cards anywhere else while on a business trip?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c68830c857b57b6647b7b66a8bf11df761ae82af27a5888e264ee5b0275e1d1
+size 748

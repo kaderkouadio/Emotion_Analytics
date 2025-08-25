@@ -1,1 +1,3 @@
-"büyü" The worst movie I've ever seen . Nobody can make worse than this. Orhan Oguz is the worst director of the world. He does not know anything about horror movies.This movie is a trash. I have seen before "Turkish exorcist" at the theater. It was an old movie but was the only real Turkish horror. Except that, new generation Turkish horror movies have really bad scenarios ,actin' and direction. "Büyü" cant be like a "Turkish star wars". Cause star wars is a strange movie. But "Büyü" is a really terrible bad movie. Now at last I must say "dont watch any Turkish horror movie". "araf" , "gomeda" , "dabbe" are not much worse than "büyü". But have you got enough time? Don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ecaeaf2adab213c2bfbe760dae8c8bc70bf3ab19e74ce05739c4a51ddb231a
+size 704

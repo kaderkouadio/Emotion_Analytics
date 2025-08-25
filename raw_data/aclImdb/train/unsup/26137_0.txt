@@ -1,1 +1,3 @@
-This is, without a doubt, a true masterpiece. The ending leaves you guessing and wanting for more, but not unsatisfied. The cinematography is beautifully done, it gives you a up-close and personal look at the characters. During the murder scenes you feel as though you are right there experiencing it with the Montgomerys. Paul McCloskey, and Barbara Lessin create a disgustingly casual feeling to the film that makes you want to hide under your blankets. Spadaccini truly captured the feeling of the Montgomery family and their sick passion. If you're squeamish I do not recommend this movie, as it is not for the faint of heart. Nonetheless this film will forever go down in my books as a classic. Job well done Mr. Spadaccini!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b09056ecec6a9091da7d32c84000699d3e6884a92b8c747868cfebba6e1c4ed
+size 729

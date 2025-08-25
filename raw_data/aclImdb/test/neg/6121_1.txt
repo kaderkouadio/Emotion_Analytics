@@ -1,1 +1,3 @@
-This movie was a waste of time. It looks nice, pretty settings, nicely acted, appears earnest and seems to be leading somewhere so you stay tuned awaiting a meaningful payoff. It doesn't happen. <br /><br />It surprised me that so much effort could be put into a movie, it was clearly very professionally done, and have an outcome that seems nothing short of a b-movie.<br /><br />Save your precious time and see a good french film like Les Visiteurs (funny), Jean de Florette or Manon of the Spring. I can't recall the language in Europa Europa, but that's another Great film--heavy but very worth viewing.<br /><br />This film appears to promise a lot but delivers nothing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4cec04c780cb4f25ed1e5368284eeb09265df96a708b25c28f597920dabe47c
+size 675

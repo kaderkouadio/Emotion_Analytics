@@ -1,1 +1,3 @@
-Yup, that's right folks, this is undoubtedly the worst show in the history of television. If you want to watch a sad, lonely and unfunny hack comedian attempt to entertain the masses with a half hour of pale and tired social ramblings that your mildly retarded cousin commented on at the Thanksgiving dinner table then this might be the show for you. This is billed as edgy comedy my friends but to be honest this makes Tim Allen look like Richard Pryor. Avoid at all costs. Unless you're a masochist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35809ef27b84d82f04013801ecf32fe1c973e86270535625b6f23ee3c0b27d28
+size 501

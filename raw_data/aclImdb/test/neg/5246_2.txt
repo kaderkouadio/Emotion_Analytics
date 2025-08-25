@@ -1,1 +1,3 @@
-Christopher Lambert attracted me to this movie. What a waste! The plot has more holes than my string vest the special effects were not very good, it did not take much to figure out who the creature's mother was and the creature owed more than a little debt to Predator. Anti-climatical this movie could have been done a whole lot better. It does raise one interesting point however. When is Hollywood going to discover the rich vein of European folklore out there just waiting to be mined?
+version https://git-lfs.github.com/spec/v1
+oid sha256:10d88f098920baa1ee89ae82473f2dac5cd7b465b044950ddbcbec0cbc493e41
+size 489

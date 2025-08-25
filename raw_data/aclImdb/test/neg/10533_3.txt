@@ -1,1 +1,3 @@
-Half Past Dead was unlike any Steven Segal film I've ever seen. Very little of Segal, himself in action and I agree with the last review I read, Nia Peeples steals the show.<br /><br />I saw nothing really new here, just the same old stuff from other flicks changed around a little. The best action scenes were Nia's as she once again kicked butt. It was interesting seeing her as the bad guy after watching her for two seasons on Walker, Texas Ranger, still kicking butt, but for the good guys.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb91c75210c8819e38d21d20f54b5aeebba3ad9ea38c51da82c146d5f51f11d5
+size 507

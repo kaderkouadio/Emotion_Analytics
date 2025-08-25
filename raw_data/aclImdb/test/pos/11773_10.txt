@@ -1,1 +1,3 @@
-This ranks as my favorite movie of all time. It's the best spoof of a science fiction movie ever; the fact that it was a sendup of Star Wars just made it all the better.<br /><br />I love slapstick. Think of this as the Marx brothers or the Three Stooges meet Star Wars. The writing is hilarious. The effects are a hoot. The free association that goes on guarantees all sorts of things coming out of left field. (I almost wet my pants when the Wookie Monster accosted the Princess.)<br /><br />Space Balls was a much longer movie, but only had about 15 minutes of good material in it, and I felt sort of ripped off afterwards, like buying a burger that turned out to be mostly filler. Hardware Wars, despite being only about 15 minutes long, would be worth paying a feature price, IMO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5c1d2c8e342b1dda78471ccb258cd2bb6b77861e91c2fd29716f87d4c15957d
+size 785

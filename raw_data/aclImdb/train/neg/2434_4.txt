@@ -1,1 +1,3 @@
-Realistic movie,sure,except for the fact that the characters don't look like to be scared. When Billy Zane tries to kill someone, he feels bad...but he doesn't look like to. That's why I don't like his performance in this movie. Tom Berenger is again playing a soldier. No good thrill, realistic sequences. Not always shooting, that is one great thing. Well filmed. I hate the helicopter sequence, cause only one terrorist kills almost the whole marine bunch...I give it **and a half out of *****
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d41d94a222d123567268be3effe9cf2aff09102e9d02b8caabc3484d062f00
+size 496

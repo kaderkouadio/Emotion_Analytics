@@ -1,1 +1,3 @@
-The description was pretty honest in that the documentary covered both sides of the debate. My confusion is what purpose was accomplished with this? One side makes a statement, but doesn't back it up with facts and vice versa. I am pretty sure I have seen documentaries that have included "editorial comments" from a reputable source. For example if someone says "these are three reasons for X" no matter how stupid, the "stupid" VIEWER is going to say in their mind "I agree with this, what is the problem?" To the person who knows it is factually wrong says in their mind "I already knew this and we are not going to change this (possibly ignorant) person's mind. Why am I watching this?" Just listening to people's pain and disagreement doesn't help me much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6817de3e42a9cde57f71ad516a4e49e5486dd0c242cc8d968ce88676c727423b
+size 761

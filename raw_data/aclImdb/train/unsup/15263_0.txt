@@ -1,1 +1,3 @@
-"Poker at Eight" exhibits the situation comedy at the height of its form! The camerawork, set design, and, particulary, the acting of Charley Chase and Constance Bergen sparkles with wit, truth, and immense charm. The songs in "Poker at Eight" are witty and well-integrated into the plot. Charley Chase at the height of his art as a writer, singer, composer, and director of comedy. A definite precursor to screwball comedy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d6e71eed3b2348e47fc18f239e79df934dc23594ee105c60a185e97f67b266
+size 424

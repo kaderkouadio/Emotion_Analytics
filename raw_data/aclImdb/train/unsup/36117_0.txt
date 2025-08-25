@@ -1,1 +1,3 @@
-I do enjoy watching some of the movies that have been voted worst ever. Plan nine from outer space, attack of the killer tomatoes, and all those late fifty's horror flicks. If you can get around the idea of how small people were exploited in many thirty flicks this movie has some enjoyable moments. The horses are small but the guns look pretty big. The cook is interesting. It is a great movie to watch with the right people so that you can moan and groan together over the cheesy situations and classic predictable plot. I caught the flick on TV and I am not sure how easily this movie is to rent, although I know it is on DVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7590d23f1a800caa0e2ed994b60b48eca562373dc69d04ca88d343bdda02930f
+size 630

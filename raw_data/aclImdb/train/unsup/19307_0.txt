@@ -1,1 +1,3 @@
-"Life according to Doris" might be an adequate alternative title to this film. Instead of telling a linear story with a showdown, Dörrie spotlights moments in people's life that tell everything about their past, their present and the world that surrounds them. The way she does it puts her in one line with Jim Jarmusch. As in most of her other films, it is what the characters say and do more than how it is filmed what makes the film. "Bin ich schön?" is the closest any of Dörries's films comes to her remarkable short stories.
+version https://git-lfs.github.com/spec/v1
+oid sha256:641cb445a15d933555ef4df993e9725e515c2c146001895a6ec03cf2b1080d98
+size 533

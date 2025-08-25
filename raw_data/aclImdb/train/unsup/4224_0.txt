@@ -1,1 +1,3 @@
-"In the Wake of the Bounty" is one of the worst films I've ever seen. However, it has the special Ed Wood quality badness where the film's incompetency crosses the line over into surrealism at times. The blend of dramatic reenactments and actual (probably staged) documentary resembles "Glen or Glenda", except without the enthusiasm Wood had. It has plenty of unintentional laughs also, and is rather entertaining at moments. To prove that first impressions aren't always everything, we also have Errol Flynn giving his screen debut, in a performance that doesn't show any signs of the charisma and appeal Flynn would have only two years later in "Captain Blood". "In the Wake of the Bounty" is mostly a curiosity for die-hard classic film buffs. (4/10)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bffaa393e0c479d7640196477b25492e8929d6fcdd3914ee7667d0b7303b710
+size 754

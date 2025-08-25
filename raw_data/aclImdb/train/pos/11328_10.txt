@@ -1,1 +1,3 @@
-This movie is great. If you enjoy watching B-class movies, that is. This is a classic college 80's slasher movie, in which one song is played throughout the entire soundtrack. A horrible film, but worth renting to make fun of, or just to watch old men pop out of closets with knives. Kinda funny, if you ask me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4932e97624efca53d1e819fd6abe6de856a3cf48731c57f2b44f73d7bc8c5757
+size 311

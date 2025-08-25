@@ -1,1 +1,3 @@
-Very poor, ameraturish, and incompetent monster movie about a small community that gets attacked by killer humanoid-esque creatures living in aquatic caves. Some decent gore, but the film is so poorly made that it's hard to enjoy. Don't bother watching this film, it is boring, slow, and sports some really bad acting. What a shame. Could have been THE monster movie of 2003.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6e58b0abc327ba1f093f9d00f267f74df611cdcea0d2b33402c022692eb5fc
+size 375

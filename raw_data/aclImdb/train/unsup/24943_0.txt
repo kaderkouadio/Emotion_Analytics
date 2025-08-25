@@ -1,1 +1,3 @@
-This is a must see for any Russian film lovers; or rather, anyone who enjoys something with spice. Fast, slick dialogue, w/ sexy characters, it is more than just a one night stand. In fact, it sits on my shelf. Film techniques are interesting too - borrows a little from Russian Arc and also, a little from Stalker (of which I've only seen a little - unfortunately). Perhaps the most amazing part of it, is that it takes place only in one day...? Also, it makes you want to jump onto a plane to Russia. It's not that it shows romantic landscapes or a wholly 'pretty' view of the country; quite the opposite. It shows the dirt alongside the rich. Thieves and students. Everyone. The colours are grand. The rain is even grand.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb75e04af6687e04582f5d9390aacc5167502375af03e96ecba63bfc8dfdaf1
+size 724

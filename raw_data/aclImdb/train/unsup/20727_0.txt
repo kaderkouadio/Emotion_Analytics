@@ -1,1 +1,3 @@
-Although I didn't identify myself on this movie, I've identified some friends in trouble and, why not? some issues that happens to my marriage. This movie, although extremely realistic and sometimes strong, shows optimism when two persons realize that above the problems, they still love each other and then decide to fix this marriage. The final dialogue (or monologue) of Michelle Pfeifer worths for the rest of the movie....
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d10cd931318fb2d88b452f84e8b9ceaae4ebd8e53cd5d29afb4e8eb917f4eeb
+size 427

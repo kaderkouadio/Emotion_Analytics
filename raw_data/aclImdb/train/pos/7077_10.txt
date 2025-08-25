@@ -1,1 +1,3 @@
-One of the all-time great science fiction works, as visionary and thought-provoking as Blade Runner or even Gilliam's own Brazil. Willis gives his best performance here, but he's outdone by Pitt's incredibly frenetic turn that's unlike anything he's done before or since. Even Stowe isn't out of her league here, though. The story is very layered and offers quite a lot to think about. The climactic scene is beautifully magnificent, and the last lines fit perfectly. The scenes in the mental hospital are creepy and yet so funny in their own way. Lots of dark humour on display here. Fantastic production design and suitably bizarre cinematography. In my top ten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6379f7b478310e82ef7c684ace8553e6b6f7f0391b7d5896b9d9f2aa821bdbd1
+size 664

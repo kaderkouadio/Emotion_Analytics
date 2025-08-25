@@ -1,1 +1,3 @@
-Though operating on a meager budget, this is a film that says more about the frustrations of the Vietnam war then almost any of it's extravagently budgeted brethren. It is an excellent preview of the coming involvement of American troops and the futility and waste of fighting a limited war.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a7baff60d60ce4eb0649c6ece29c076effa11feff273cade17e8da96c1aa89
+size 291

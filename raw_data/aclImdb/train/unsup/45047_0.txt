@@ -1,1 +1,3 @@
-I had no idea that movies this bad were being made. The production quality--and I'm not being facetious--was comparable to a mid-80s porn movie. I've seen and enjoyed many B-movies, but this was absolutely atrocious. The story, acting, script, camera work, and sets, were among the worst I've ever suffered through. The worst of it, however, was the music. Holy crap! the music was so obnoxious, paying attention to the movie became impossible. This may very well be the worst movie ever made.<br /><br />I'm curious to find out who is responsible for this film and how much was spent on production. This was not just a waste of time and money. It is an insult to the horror/sci-fi genre, and B-movies in general. To the people/group responsible for this movie: you should be ashamed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d862ea233af688428db9287d7c2a11964cdfa9fb3953e2fa34ff7438737ca68
+size 784

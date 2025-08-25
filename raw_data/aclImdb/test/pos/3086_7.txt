@@ -1,1 +1,3 @@
-This is a funny film and I like it a lot. Cary Elwes plays Robin Hood to a tee. This is, of course, the usual good vs evil with Robin against the evil Sheriff of Nottingham. The humor is sort of in your face stuff for the most part, but still works well. A comedy for a night when you don't want to have to think much, it's well worth a rent!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cffde73d81b32cc8d651b6c8ebfdeb2f1c399e57665c57b2ae359a2868b87b3
+size 342

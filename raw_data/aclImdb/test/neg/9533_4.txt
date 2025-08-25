@@ -1,1 +1,3 @@
-This film was so unfocused, rambling and uneven that it was an effort to watch the whole thing. (I actually thought some interesting plot elements might develop.) This was nothing more than a "coming-of-age" film for the thirty-something generation. Total crap and I have no idea what Julianne Moore was doing in this since it was the only reason I picked it off the shelf at the rental store.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6ac632b3dc88e18aa60b7cf9019bc8ffa47c2b9b77d81aeeeb110f93a934802
+size 393

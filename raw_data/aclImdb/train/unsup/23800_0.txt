@@ -1,1 +1,3 @@
-A kind of religious movie... A young rich woman (an angel?) comes, sets free the poor people living like prisoners in "Cold Comfort Farm" (great title!) and, once her mission is done, flies away. Before her arrival, all were dull and enslaved by the old lady living upstairs... but our angel knows what's right for everyone. Maybe the message is: you will be happy only if you follow your dreams. A delicious English fairy tale, that I watched with a constant smile on my face. Schlesinger proves himself a very good director. After all, can anyone tell me what the old lady saw in the wood-store?
+version https://git-lfs.github.com/spec/v1
+oid sha256:10f3aedd709d66979ab0c49435b4a1438a7796f9b79e3b4f6528d91e50f92c92
+size 597

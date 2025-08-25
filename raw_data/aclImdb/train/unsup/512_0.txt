@@ -1,1 +1,3 @@
-I saw this film at DeadCenter film festival in Oklahoma City. Connell has done a great job assembling a cast of interesting characters. This film is very funny but also shows the harder side of life for these background actors. The film is very engaging and keeps your attention from start to finish. The crew followed these actors for 8 months and then edited for over a year, and it shows. They have done a good job in showing growth in the film, and the editing of the story is excellent, with no voice-over and very little text required to pad the story. The actors are telling the story, and that's what makes it interesting. Recommended!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb71baf1ad70b6452a31e5c6bcdc6f89570d2caec33f09aa4843ac08684f5bab
+size 643

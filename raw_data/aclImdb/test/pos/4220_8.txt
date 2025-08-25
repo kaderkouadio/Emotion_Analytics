@@ -1,1 +1,3 @@
-It's unbelievable but the fourth is better than the second and the third. After the third that was awful, it's incredible how they could have an unexpected sequel with new ideas. Chuck is the same nasty doll of the previous movies. Interesting the final that lets know that a fifth can be done....
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc357c91e84b6e07973d7043ad390698d8ddf8ad0ee1bc8ff3e7aec026727487
+size 297

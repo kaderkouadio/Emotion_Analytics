@@ -1,1 +1,3 @@
-Lately I have been watching Agatha Christie stories that have been made into movies. Some of them, like Murder on the Nile, and Murder on the Orient Express, are great films. This one is not. I would suggest you pass on this film and watch either version of 10 Little Indians instead. This film suffers from unimaginative directing, poor acting, and poor writing. Some of the plot devices were so bad I could have done better. This is a very poor film, I would recommend avoiding it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39403cb33a2ecd66fb35febdb0191df50f1761419928b2d394fd8f869fc75c08
+size 483

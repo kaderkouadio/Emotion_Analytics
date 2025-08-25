@@ -1,1 +1,3 @@
-This is without doubt one of the worst films I have ever seen. Almost everything about it is awful, especially the editing. This is no exaggeration. Watch something like Nosferatu, which was made in 1922, and then watch this, made over 50 years later and wonder why editing technology hasn't advanced in such a large period of time. The only thing this film is good for is that it's so bad you may have wet yourself by the end (which is crap, as if you had to be told). One of the worst films ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7039e34b2011703806bb2b2a100c34b0168799de354359b74f8fa1e35a17a42a
+size 498

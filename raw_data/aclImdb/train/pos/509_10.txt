@@ -1,1 +1,3 @@
-"Broken Bow" takes us back to where it all began. Set 150 years in our future and 100 years before Kirk, Spock and McCoy. This installment of the "Star Trek" franchise, is in my opinion the first series since "TOS" to recapture the feelings of wonder, danger and excitement of "Going Where No Man Has Gone Before". Scott Bakula is perfectly cast as Jonathan Archer, the first Captain of the first "Star Ship Enterprise". He and the entire cast truly show a true reverence for the Star Trek legacy. John Billingsley is Brilliant as the alien Dr. Phlox, and Jolene Blalock is totally luscious as the tempting but logical Vulcan science officer T'Pol. Broken Bow is in my opinion the best premier episode of any of the Treks, and I believe Gene Roddenberry would surely be proud.
+version https://git-lfs.github.com/spec/v1
+oid sha256:641e9ae6f5b0f5b1d83050d79565ce3899f443e171b02d6a406aeca4fc8bfa27
+size 776

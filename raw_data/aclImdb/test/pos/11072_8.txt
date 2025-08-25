@@ -1,1 +1,3 @@
-I lived in that area (Hoboken and Jersey City)for about ten years. This film certainly captures the feel of that time and place. The dialogue is very good, the music is right and scenarios realistic. As another poster said, it looks almost like a documentary.<br /><br />I like the way it humanizes these kids, who probably would have rather have been born in Westchester, but fall into what kids fall into. It just so happens that area is pretty rough.<br /><br />They over-demonize the cops quite a bit, but that's to be expected. I'd say the acting is good all-around, too.<br /><br />It gives the viewer some sense of how this idiocy is caused and gets blown out-of-proportion. Hopefully, the new mayor of Newark is making progress.
+version https://git-lfs.github.com/spec/v1
+oid sha256:836831aed7cac1dfb9c18feaf377a2385b9427811da30870cea5506d39b65b88
+size 736

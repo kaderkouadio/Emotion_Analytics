@@ -1,1 +1,3 @@
-Technically abominable (with audible "pops" between scenes)and awesomely amateurish, "Flesh" requires a lot of patience to sit through and will probably turn off most viewers; but the dialogue rings amazingly true and Joe Dallesandro, who exposes his body in almost every scene, also gives an utterly convincing performance. A curio, to be sure, but the more polished "Trash", made two years later, is a definite step forward. I suggest you watch that instead. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8512453252b8fe2d3369a9e0cbd45996afb0f99be3570a564e680286c282677d
+size 467

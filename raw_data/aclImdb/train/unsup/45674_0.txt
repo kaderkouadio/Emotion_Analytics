@@ -1,1 +1,3 @@
-Dull, lifeless direction... A total lack of atmosphere... Dialogue scenes that stretch on endlessly... A story that fails to rile any tension... Gore that's on par with a home movie...<br /><br />Lucio Fulci is high on my list of favorite directors (check out his early-'80's output to see what I mean), but "Demonia" is one of his worst movies, not even worth the trouble to revive on video, in my opinion.<br /><br />Zero/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcaaf4d0feb1589b3324e2f1caf3bd30672e1b9b32a795e30b950db9baea4fa1
+size 426

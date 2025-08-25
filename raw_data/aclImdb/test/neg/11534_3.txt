@@ -1,1 +1,3 @@
-As a fan of Henriksen (I liked him in the "Millennium" series) and of course Lorenzo "Renegade" Lamas, I had expected at least SOMETHING from this film. Sadly, the plot is predictable, the acting is bad and the computergraphics used for most stunts don't work out. Sometimes it even looks like they've captured some shots from Microsoft Flight Simulator.<br /><br />The cinematography sucks as well. Unnecessary funky camerawork in the beginning only detracts (from the cheesy dialogue) and gives the film a cheap, made-for-video-look. It works in hiphop-movies and Jet Li movies, but seems out of place in this flick.<br /><br />I would have liked this film 10 years ago. I was 11 then.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c292a3fd4d956d9cfb95d0e63ee283812445d9df17962e3d0df7af25d8e0353
+size 687

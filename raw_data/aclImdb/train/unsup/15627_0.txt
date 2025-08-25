@@ -1,1 +1,3 @@
-I spent what seemed like hours (really only 60 minutes) waiting for something to happen in this movie. Although I liked seeing the excellent photos of interesting places that I'd like to visit someday, it seemed this was more a travelogue than a drama. I also thought it was nice to witness a healthy, positive relationship between the mother and daughter. But John Malkowitz seemed a bit affected in both his manner and his role. And what was the reason for the three famous/rich women sitting at the table with him? I kept thinking something was going to happen that involved the three of them but it never did. Then comes the ending -- oh my gosh! Where did that come from? It was totally shocking and not in a good way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3edaf8fd34d3933bb712ffe480dcd541cfd2a6701d8895fa70a2933087da317
+size 723

@@ -1,1 +1,3 @@
-Except for the Brady Variety Hour, this was some of the hokiest television I've seen in a while. The video production qualities weren't too bad, but the overall look and feel were unmistakeably early 80's. And Marie Osmond looks like she did battle with the Avon Lady.. and lost big time. WAY too much eyeliner.<br /><br />It was kind of embarrassing to watch veterans Danny Kaye and Eric Severeid take part in this. Even more interesting was watching Alex Haley talk about the African Pavillion in World Showcase that would be opening 'in about a year.'<br /><br />As of this writing it is 17 years later and it hasn't opened yet (Unless you count Disney's Animal Kingdom.) All in all though, for all the shortcomings, this still an interesting visual piece of Disney history.
+version https://git-lfs.github.com/spec/v1
+oid sha256:396ed4f97da5356fb9ec0bf87852d84e3d815c3e35ee9f8e0ba106a6e5c71cad
+size 777

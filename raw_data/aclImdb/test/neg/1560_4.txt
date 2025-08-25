@@ -1,1 +1,3 @@
-OK, so it's a silly movie, but I think they knew that when they made it. And there are some neat little twists on the otherwise tired, overdone "Godzilla"-type genre. Borrowed a tape just because I knew someone in it, but I did loan it out to a couple pals, who also kinda liked it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c81803ed204dbc8b9bb6dd33baf7031c758fb2e856972335383b9d91ca0ef65
+size 282

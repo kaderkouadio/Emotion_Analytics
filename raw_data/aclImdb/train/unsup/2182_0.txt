@@ -1,1 +1,3 @@
-Now this is one of the worst films i've ever seen. The best way to explain why, it's as simples as this: The director is an amateur, the actors are amateurs, the script is amateur...the entire team has no clue of what a movie is. So, you can notice that the director wanted to create a horror movie, but turned out to be a comedy. I really laughed at some scenes, not because of comedy content, but because of the stupidity of some scenes that should be frightening. I would have vote 1 out of 10 but i voted 2 because of this involuntary comedy factor that is present. Don't waste time of your precious lives watching this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80af393c0502fc699814ff33352b17c553576f3cc8c47f381102b8a8b9836cdb
+size 630

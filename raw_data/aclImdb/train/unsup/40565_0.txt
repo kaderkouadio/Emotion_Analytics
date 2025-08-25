@@ -1,1 +1,3 @@
-The first one is Jack Palance in CHE!, playing the part of Fidel Castro.<br /><br />The other one is in THE LAST DAYS OF PATTON, when George C. Scott (as General Patton) makes his SINGING DEBUT by performing the the suggestively dirty little soldier's ditty "Lily From Piccadilly, The Blackout Queen".<br /><br />Either of these performances is more than adequate induce hysterical laughter, projectile vomiting, or the blank, glazed eyed, frozen stare that only the total and utter disbelief in what your eyes and ears are telling you can produce.<br /><br />Trust me on this one.<br /><br />George must have done this turkey strictly for the money. Except for the singing, he could have mailed in his performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36b3b4ca0643792f1633ea9b493dac5d86021e944eec7d2c7f1753d8fff3731f
+size 715

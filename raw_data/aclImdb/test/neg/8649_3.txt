@@ -1,1 +1,3 @@
-If this is film noir, then noir must be French for glacially slow. Take a cast of completely unlikeable characters, give them nothing to say, punctuate the whole thing with gratuitous ultra-violence, and you've got the formula for an aggravated Dash. Could be subtitled "Sleazy Hollywood types attempt to make money from Chinatown rip-off". Bruce Dern's one minute part is orders of magnitude better than anything else in this flick. By the way, I didn't like the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80b31b229f2935511a4896367964befb4a7cdceef2c1506887bd6983a8d93668
+size 469

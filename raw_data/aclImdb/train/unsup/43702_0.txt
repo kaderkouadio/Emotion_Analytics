@@ -1,1 +1,3 @@
-Oh how bad! My friend found this on video and he has a knack for finding the worst movies of all time. This may not be the worst he has found (see "Toxic Advenger" or "Night Patrol") but this one is real close. Poor Andrew McCarthy - I think he was better off lugging around dead bodies or those plastic things in department stores. Acting was bad but the storyline was worse. Enough said.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae469f317ba4a07fae652139d19687223453d9648b96d5bb797d06e60a40ceb0
+size 389

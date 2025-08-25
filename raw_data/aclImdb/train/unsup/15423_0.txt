@@ -1,1 +1,3 @@
-I LOVE Jennifer Jason Leigh, but I thought this was the worst movie she's ever done. It probably won awards in some universe, but not mine. She was the reason I bothered watching it to the end. The whole thing was disconcerting. Maybe I was in a bad mood when I saw this or something. The two redeeming qualities in this movie were Jennifer Jason Leigh and Steve Buscemi. I gave this film 2 stars, one for each of them. If I see it again and change my mind, I'll be sure to change my vote, but not before then.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1adefd956122ae967893f589b7d1a71247061c7b551a253b8896ed39e49c4719
+size 510

@@ -1,1 +1,3 @@
-I was disappointed in the movie, based on the expectations set by some of the reviews. The pace was sloooowwww, the performance by the lead kid was poor, and the story was not engaging. Peter O'toole was awesome, most of the other adult performances were solid (the dwarf was great), and Lassie's performance looked too staged (director's fault). Cinematography was beautiful. I'm a bit surprised by the number of very positive comments for this film, especially from American kids. Today's kids generally want a much faster pace and more drama or comedy. Other than offering a story about a famous dog and beautiful cinematography, it seems to lack the elements which attract kids. There is a large and underserved market for wholesome kids' films, though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cc6c3b7866b1712fddf69e358582eb1790a73bae77b4db30fb652dab762a8a0
+size 757

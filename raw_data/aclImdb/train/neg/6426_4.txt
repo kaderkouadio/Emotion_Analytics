@@ -1,1 +1,3 @@
-I found the documentary entitled Fast, Cheap, and Out of Control to be a fairly interesting documentary. The documentary contained four "mini" documentaries about four interesting men. Each one of these men was extremely involved with his job, showing sheer love and enjoyment for one's job.<br /><br />The sad part, I must say, would have to be the subjects in which these individuals worked/studied. They were interesting for about five minutes, afterwards becoming boring and lasting entirely too long.<br /><br />The video was filmed in a very creative way though. I very much enjoyed the film of one thing with a voice dub over another. It played out excellent and also coincided nicely with the music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4efd9d31f17fb1db692818b6db1df7d8adc75e426d007d526992804e4e18c60
+size 707

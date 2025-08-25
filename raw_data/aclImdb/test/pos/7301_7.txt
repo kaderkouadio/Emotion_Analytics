@@ -1,1 +1,3 @@
-A Jane Smiley novel, loosely based on Shakespeare's KING LEAR about the Cook family and its dark secrets. Director Moorhouse seems tamed in her approach, allowing the characters to step forward and take a bow. And how could you go wrong with the talents of Pfeiffer, Lange, Leigh, Firth, Carradine and Robards?
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf8aaf923c3b749cd6e2944c62eb8ce3e3521db5a0241665137b4450ce7a7dd1
+size 310

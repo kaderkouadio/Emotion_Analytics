@@ -1,1 +1,3 @@
-In ten words or less to describe this film, Barbara Stanwyck is too appealing and it is great! The film is wonderful, except for the perhaps tacked-on ending, but I love happy endings anyway. Barbara Stanwyck, however, as the platinum-blonde gold-digger is amazing. She knows what she wants and goes after it! This film is sexy and excellent!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1031c383b6bad4318f517170c8b17d4115c33cda691523eee036cd09c84c4e8c
+size 342

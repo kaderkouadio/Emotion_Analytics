@@ -1,1 +1,3 @@
-This film is just fun to sit through. Goldie Hawn and Chevy Chase turn in a couple of great performances and Charles Grodin is very good as well. The screenplay by Neil Simon is very good, I also liked the score from Marvin Hamlisch. Fun film to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:755d794de30dfa83ed96233e8c90b6e29d111058626c80b9cc0eaebac1470687
+size 252

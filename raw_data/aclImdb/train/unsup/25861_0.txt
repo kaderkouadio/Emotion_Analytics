@@ -1,1 +1,3 @@
-I have enjoyed watching this film several times over the three decades since it was released. <br /><br />Yes, it certainly is a tragic and gruesome story of how brutal mankind can be, but more importantly, it is an inspiring story of resilience and the triumph of the human spirit in the face of overwhelming adversity. I often think of the closing scene where Papillon floats away from the prison island on his raft of coconuts. This was truly my favorite of all of Steve McQueen's films. Dustin Hoffman's performance foretold the depth and richness of his acting abilities. <br /><br />I highly recommend this film. It is a timeless classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cdca3ffc7730a867a9201b2c0aeb2802ab61e2ced26c2991eff774fb8ef4b2c
+size 644

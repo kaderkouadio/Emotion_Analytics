@@ -1,1 +1,3 @@
-Why it is worth watching this movie, is to compare it to the movie from whence it took inspiration and derivation, the British masterpiece "Scum." This is a tale of a hard young man (Penn) sent to a youth offenders institution. But that is all that there is to say by comparison to the original story. In Bad Boys the scared aggression of imprisoned young men is faux-macho, always expressed as verbal and physical rage. No emotional subtlety nor human tangibility, no invitation of discomfort to the viewer as to why a society would allow the gross mistreatment of so many young people. Bad Boys is lock stock yank jock, typically missing the point of emotional shading and realism in movies of this fare. Comparing Penn's O'Brien to Winston's Carlin... Yer 'aving a laugh intcha?
+version https://git-lfs.github.com/spec/v1
+oid sha256:14aa0eb63efb97089a847172b67888d05c282708255e12ffd54ec0c57a5b9c15
+size 781

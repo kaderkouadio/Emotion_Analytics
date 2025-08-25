@@ -1,1 +1,3 @@
-There's a proverb in Tamil <br /><br />"Kannal kanbadhum poi. Kaadhal ketpadhum poi" <br /><br />It means, "Things u see with your eyes are illusions. Things you listen with your ears are all lies" <br /><br />This movie is like tat... Impossibly the worst movie...<br /><br />I saw this movie... The tile of the movie is "Godfather"... But, the story has no connection to the title at all... Guess, the director doesn't know the meaning for Godfather...<br /><br />TO ALL TAMIL DIRECTORS... BEFORE TITLING A MOVIE LOOK FOR THE MEANING IN THE DICTIONARY BEFORE DOING SO...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cc105ef8416b7bb2b2a091a843c33eb00009e09cbb7f8b1bd789a04e71a3857
+size 572

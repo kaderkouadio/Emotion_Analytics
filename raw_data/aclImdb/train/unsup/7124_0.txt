@@ -1,1 +1,3 @@
-I think Daniel Benzali is an interesting actor, but here he is totally wasted uttering nonsense. The film is extremely predictable and extremely dull. I mean two guys talking to each other across toilet stalls for minutes on end is not entertainment. The script seems padded to try and expand such weak material. Numerous lines appear to be repeated almost verbatim. This was a big disappointment. Even the ending seemed like it was tacked on for some kind of message, that somehow would justify the brainwashed cult. If you are looking for entertainment, I suggest you steer clear of "Believers". Not recommended. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:414dab6c06c19df82e98a277b764940b879b77ed1c3c6d5056a9d00b4358169b
+size 621

@@ -1,1 +1,3 @@
-This movie had some andrenaline kickers, but it's an old story that simply could never happen. Navy protocols could never break down that much that a crew much less an XO could ever go that far against the Captain. I'll take Dr. Strangelove any day if I wish to see this plot. Sidenote--the US Navy did not support this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2d1f531b7845cc2826961a64845779904515ccfb0007176de9dde295d7babc
+size 325

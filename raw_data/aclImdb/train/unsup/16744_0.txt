@@ -1,1 +1,3 @@
-Futurama is one of a kind of a show, its one of the best animated shows on television and ever. Its very funny and the characters are great, its a nice show to watch and every episode it has its laughs and moments. Its cool how they predict thing that might happen in the future and for generations. Id say this show is right behind Family Guy and Simpsons for best teen/adult animated shows on TV..its sweet. My favorite character in the show is Bender cuz he's jokes and hella funny. All he characters are unique.<br /><br />This is one great show, if you don't already watch it, id suggested start watching it, there still making new episodes and there classic!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b59f2413e0427712018d647bc30ec86e14dcab83a4624b461f145a95c97a1666
+size 664

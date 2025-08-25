@@ -1,1 +1,3 @@
-This is a fantastic movie, driven primarily by Lancaster's embodiment of the character of Valdez - a town constable who kills an innocent man in self-defense, only to then become the subject of constant abuse by the slain's pursuer. Valdez's vengeful reactions to this abuse, the episodic pacing, and the great supporting actors make this a real cinematic treat. Lancaster's treatment of voice and body language show he is an actor of extreme talent. Of further interest is the landscape of Spain, which makes up the film's authentic exteriors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ef433da1e984a1ed68fe2041dcf0fac7ad8f8ca0e0f047e80eb9d7b982b29b
+size 544

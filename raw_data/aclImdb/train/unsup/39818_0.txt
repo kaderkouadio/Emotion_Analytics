@@ -1,1 +1,3 @@
-A very low budget movie with really poor acting.<br /><br /> The comedy attempts failed miserably and the Playboyish scenes with half naked latinas are just pathetic since they have nothing to do with the plot. I'm not even gonna go into the action bits...<br /><br /> Skip this one and go rent "American Me" or "Blood In Blood Out" instead.>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a31c36c4f5f6cec1f84d30350ab8686f0abcb9105cc60633e676139370288ba6
+size 342

@@ -1,1 +1,3 @@
-I know the book by heart, and this mini-series is incredibly close, it's practically word-for-word; they've omitted several small non-essential scenes, made a couple beautiful, logical additions, and otherwise changed perhaps a dozen words or so.<br /><br />Almost all the scenes are exactly as I had always imagined them; casting is incredible (except for the awful, miserable Pilate - regret of a small, cowardly man is never as tragic as that of a strong man). Joshua is beyond words - seeing... Him gives you shivers, never before has there been such a portrayal of Jesus in cinema. Woland is breathtaking, down to the voice. The final scene of Woland contemplating the city from above is like a Goya painting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec14cd2de6cfb02563f99d37a85fecf787d5aee6b2277d97992d041ff1db2a70
+size 714

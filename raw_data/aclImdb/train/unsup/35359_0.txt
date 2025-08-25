@@ -1,1 +1,3 @@
-It's just not funny.<br /><br />Even viewed as a film of its time, it's still not very amusing. Neither of the two main characters has any charm or comic timing - the only mildly amusing character is Blakey the inspector. How this was ever a success is a mystery.<br /><br />However, there is one amusing part: The theme tune. It has this wonderfully dated lyric:<br /><br />"It's such a gay life on the buses. Make sure you leave your bird at home." That's a classic.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b58f1b869f3e4d33fb609410e2b6eaef4df68e2400094d561f2f27852726f069
+size 480

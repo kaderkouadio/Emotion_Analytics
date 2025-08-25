@@ -1,1 +1,3 @@
-<br /><br />12 Grand is the cost of a new car. A new car that Jake West now needs to escape the hordes of angry villagers desperate for his blood. Some may say this film could attract "So bad it's good" status. In my Opinion it is the proud owner of the "So bad it's Bad" label.
+version https://git-lfs.github.com/spec/v1
+oid sha256:effa7dc004498687719d5b61d4460357e8ba3efd75aa574d04713b52db2a7e36
+size 278

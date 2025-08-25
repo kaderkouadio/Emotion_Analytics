@@ -1,1 +1,3 @@
-Ok. This movie is so bad, that much is obvious. But what struck me most about it is that it has to be the worst script ever written. Every other line is hilariously cringe-worthy. Just Rose McGowan by herself probably says about the hundred worst lines ever said in the history of cinema. This movie is so bad that it is funny at times, but on the other hand, its really just painfully AWFUL and utterly sad.<br /><br />A 1/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36abc3e10f4bc6e58a840e3c85b7eb496d5aeac0485c6d25a489678cb01e9de8
+size 427

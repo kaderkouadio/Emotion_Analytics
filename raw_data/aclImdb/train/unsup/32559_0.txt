@@ -1,1 +1,3 @@
-...but awfully close to it. you know what other "dark" and "controversial" movies have that this one didn't? <br /><br />a point.<br /><br />...oh! and good acting. though i guess i wouldn't have minded the teleprompter-ish quality to the dialogue if what was on the teleprompters weren't so retarded.<br /><br />also it might have helped if the sound were actually synchronized to the image, but maybe that's just me being picky.<br /><br />wow, this movie was bad.<br /><br />-f
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dc9b9439c284015c0f7ae0104961a75ffbd0453692433e090ba308d4d7a8d17
+size 480

@@ -1,1 +1,3 @@
-I think One True Thing is one of Meryl Streeps finest movies to date. Her depiction of a dying woman is perfect. I have recently lived this movie, and it touched me on more levels than I could have imagined. Meryl is truely the greatest actress to have ever walked the earth!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f0c8cdd646765442c539f73764c79ccc6e16a4ffb0bd0dd7b5921c3c31eb921
+size 279

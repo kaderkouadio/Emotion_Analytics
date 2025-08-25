@@ -1,1 +1,3 @@
-Tired. Retread. Pained. Another smug, self-congratulatory and masturbatory film from Christoper Guest. Really, haven't we already seen this film several times over? Levy, always slightly creepy and disconcerting to watch, is excruciating in this one. The same could be said for Catherine O' Hara, who with Harry Shearer should stick to animated films. Parker Posey appears to be either painfully constipated or passing a kidney stone the size of Jupiter's Great Red Spot throughout most of the movie. And isn't everyone just tired of seeing Jennifer Coolidge in any role other than that of Stifler's mother? All in all, a wretched follow-up to A Mighty Wind.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0175f4c7f71d87f015214ae48b7bd6c877029a5fd424cb587818b738b6f62978
+size 658

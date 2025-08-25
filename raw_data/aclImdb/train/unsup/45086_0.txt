@@ -1,1 +1,3 @@
-I really don't know why Eddie Murphy signed on to do this movie. The script was terrible, and he didn't seem to be trying in the least. When I'm watching a movie that tries to be funny and fails, I can usually at least see where they were trying to make me laugh. He, however, I couldn't see one instance where Murphy was trying to be funny. I did laugh a few times, but it was at the surprisingly funny Randy Quaid as his robot Bruno, and the brief apperence of John Cleese.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d49d17a0a374c6631fe0b0f5bc7d2a6acaefbedc5ce980ddca13b77b8e124dd
+size 475

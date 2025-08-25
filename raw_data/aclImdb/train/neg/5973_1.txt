@@ -1,1 +1,3 @@
-This movie is another fine example of what Jerry Bruckheimer, since about 1997, seems to be best at--hyping up a movie a year before its release and not coming through with a quality movie. I'm no film critic, but this movie was as predictable as they come. Every attempt at a joke, every attempt at a touching moment, and the pitiful attempt at a love story, was exactly what I was predicting in my mind. Do yourself a favor and save your money on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e9146cba75db34f13abff0f35b6a878f407b583ac82d9196a54623a9c0c82e
+size 458

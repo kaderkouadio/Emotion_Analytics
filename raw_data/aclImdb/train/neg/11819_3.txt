@@ -1,1 +1,3 @@
-Despite unfortunately thinking itself to be (a) intelligent, (b) important and (c) interesting, fortunately this movie is over mercifully quickly. The script makes little sense, the whole idea of the sado-masochistic relationship between the two main characters is strangely trite, and John Lydon shows us all, in the space of one movie, why he should never have let himself out of music. His performance is one-note and irritating.<br /><br />The only positive thing to be said is that Harvey Keitel manages to deliver a good turn. His later Bad Lieutenant would show just how badly good actors can act, but mercifully his performance here is restrained.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f15204b7c7b0d58c2d03213281ae379ed225d0e2656eec84546043dcab6770f2
+size 655

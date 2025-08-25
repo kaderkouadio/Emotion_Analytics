@@ -1,1 +1,3 @@
-Characters evolve and Goren's character is just going through a change. It's unnatural for a person to remain the same throughout their life so Goren's character changing is great! Makes the whole thing more realistic. You make a good point but without change the character that is Robert Goren would become stale and boring.<br /><br />I wish people would stop judging and get on with watching the show as they would have done in the beginning. Yes, Goren has changed quite considerably but change is good and in his case it's especially so! Looking forward to the season to come. And looking forward to seeing how things develop further with all the LOCI characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f8969db15de2ac38e4198f2b748d227e7ff2de9936261acfb79d4a1f55533b9
+size 668

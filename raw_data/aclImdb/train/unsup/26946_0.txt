@@ -1,1 +1,3 @@
-Jet Li really packs a punch in this action farce. I believe it's his best so far...followed by the decent Romeo Must Die and the laughable disaster The One. Bridget Fonda is astounding in this movie. She is a knockout. The villain and his henchmen are magnificent. Exciting and thrilling action at it's finest. 9 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0b92b19c2ca325506967c5d1660d8b04959fe814162ca7c644a7171adca2af8
+size 323

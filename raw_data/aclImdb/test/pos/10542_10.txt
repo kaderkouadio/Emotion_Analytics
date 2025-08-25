@@ -1,1 +1,3 @@
-this movie is the best horror movie i have ever seen. the acting is terrible and the plot leaves a lot to be desired but the puppet gave me nightmares for weeks. seriously, if you have little kids don't let them see this. of course i am a little biased because of an irrational fear of puppets and midgets. also a body double cameo by the guy who does mini me verne troyer. and some gratuitous nudity, a must in any low budget horror movie. all other horror movies will forever be judged against this in my book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae3b4ebca45d5496492c36dc0f35e69baacd459c6fbcf57ee03f24aa6e01e54
+size 512

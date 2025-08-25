@@ -1,1 +1,3 @@
-Imagine you have the opportunity to see yourself again as a kid. Now think what would happen if you had the chance to speak with your younger self, or even change him/you. Would you try to influence or try to change your younger self's beliefs in light of your future experience? Or perhaps the encounter would change your older self's perception of life and reality? <br /><br />Walt Disney's The Kid tries to engage this complex thought by putting "older self" Bruce Willis in a collision course with "younger self" Spenser Breslin (from The Santa Clause 2 and The Cat in the Hat "fame"). The result is a sometimes funny sometimes touching encounter, which makes you ponder about your own past, present and future  and truly believe it is never too late to change your course.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4be93cc70a712176f232d8a3d13fbcd5736e10e8fa2f9785f39b59da9a033a1
+size 780

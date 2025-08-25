@@ -1,1 +1,3 @@
-I actually am a student at the school of rock, the movie should be released in theaters sometime in march. Paul can be a dick sometimes, but he isn't as bad as the film portrays him to be, i think he kind of over reacted when the camera was around just for show. but otherwise this movie is great and shows through everything the students go through. it's all worth it to play in front of crowds with thousands of people to. it's gonna be really cool to see how people react to the film, or if it even gets out of select theaters, students got to record a soundtrack with actual artist like the last living ramone, and Ozzy Osbourne. And napoleon from project object, Frak Zappa's band.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae9ddd93391927a76f20ca2d23ef7dee45df04d646b9e93ac874a76ef22fca9
+size 686

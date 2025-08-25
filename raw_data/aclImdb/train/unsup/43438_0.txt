@@ -1,1 +1,3 @@
-This is an awfully slow movie and it's Ingmar Bergman so of course be prepared to bored rigid with endless celluloid lectures about the strain and awkwardness of (an already uninteresting ) middle class life for 2 hours. Most of Bergman's films always seem to go on and on seeming longer than they actually are.<br /><br />Absolutely nothing happens throughout this film up until like the last 15 minutes when it FINALLY becomes watchable. Watching a man and his wife walk around in a depressive mood for half a movie is not my idea of a good film,. If anything, just fast forward to the final parts of the film as it's the only time something interesting occurs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:920f4534d9207a1d8f78ab3e49c27e38579d6430c8913ddbb85e593265088900
+size 663

@@ -1,1 +1,3 @@
-OK,I've seen over 100 Troma films, and some of them are pretty bad. "Sizzle Beach U.S.A." was horrible, and "I Was A Teenage TV Terrorist" was unwatchable, but this is THE WORST FILM IN THE TROMA LIBRARY!<br /><br />A bunch of women are kept in a prison and tortured as they try to escape.<br /><br />This is really terrible. Even as exploitation films go. Doris Wishman and Hershall Gordon Lewis would probably kill the director if they saw this poor excuse for an cult film. Avoid this movie at all costs.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9abcb887d5ade5c965b0eaced92fd4f73317ad5ec9d634f653e8101b00c080e
+size 519

@@ -1,1 +1,3 @@
-I went in expecting not much from Human Traffic and came out really pleased! The film is well made and acted and very stylishly shot. It has so much going for it - it's a film I really recommend, especially to those who liked Trainspotting (or for those who like to argue the debate in the drugs and the media sector). Tremendous fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5582f0dc0a17516d841e4f060205857ce88ab6fad37eaf1a6ced2b9f3ccbd482
+size 334

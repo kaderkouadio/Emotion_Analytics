@@ -1,1 +1,3 @@
-Unimpressive and extremely low budget sci-fi without any charm and appeal. Even the scenes related with the fall of the asteroids are stolen from other movies with the same plot. It's just a bad rip-off of "Asteroid" (with Annabela Sciora) and "Deep Impact" (with Morgan Freeman). Mr. Hopper seems to be anxious to slip away from this pointless and dull sci-fi entry.<br /><br />I give this a 2 (two). And don't say I'm not a good guy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7aba490c60fdd34cb987737d901c75bff5d95ee8019c4afc1c4636a7fcb369e
+size 435

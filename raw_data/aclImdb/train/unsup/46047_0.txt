@@ -1,1 +1,3 @@
-This is a cheap, lackluster Spaghetti western that never manages to develop any suspense. The director has no style, the acting is stiff, and the action scenes are poorly shot. In fact, the photography is bad overall. Some say this is an influence on "High Plains Drifter", but in fact it is yet another rip off of Leone's films and "Django".<br /><br />I say skip this film and go rent "The Great Silence". That's a much more interesting Spaghetti Western from about the same time. Better yet, rent "Keoma". "Django the Bastard" has some of the right elements, but it is just too derivative.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b72de387272d5fc5f7e689c675b9a8f7b2abaaf1fd26d0e0f16437845f35927d
+size 592

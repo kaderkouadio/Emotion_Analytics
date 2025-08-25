@@ -1,1 +1,3 @@
-What can I say, it's a damn good movie. See it if you still haven't. Great camera works and lighting techniques. Awesome, just awesome. Orson Welles is incredible 'The Lady From Shanghai' can certainly take the place of 'Citizen Kane'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:472bc448f35c5a211ac7505015c83ce78e7d768762c8a544549ee9d6077c6f0f
+size 235

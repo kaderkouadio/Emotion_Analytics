@@ -1,1 +1,3 @@
-What were they thinking? This movie is geared to the typical Seasame Street set of 2 to 8 year olds. Although the story line deals with lessons in sharing, we see Elmo lose his blanket to an evil fellow in Grouchland. If your kids have a favorite blanket this will hit too close to home. The producers added commentary by Bert and Ernie after the movie proved too frightening. The Bert and Ernie bits do lighten things up a bit but it is too scary. The movie has the usual great sets, puppets etc. but it is not for the 2 to 8 year old set. Go figure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5324a42fa9e419cb2868ceac6c10d2bea58afbf16dde13e47fbc5bc554cc1acc
+size 551

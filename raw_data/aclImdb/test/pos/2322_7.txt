@@ -1,1 +1,3 @@
-It starts a little slow but give it a chance. In the spirit of the "Wackiest Ship in the Arm" and the "Pink Sub" this movie is about a not so orthodox group engaged in not so orthodox methods to outwit everyone. Rob Schneider is priceless as a LT that takes himself way too seriously which results in a failed mutiny attempt and "pirate" crew makes him walk the plank. In contrast Kelsey Grammar(similar to Cary Grant)does not take anything to serious except the job. This movie is more about lines than plot. From the "beered up" fisherman in Charleston harbor to the "whale" decoy, their antics took me by surprise and I laughed out loud.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2273b859f874ff3fd1fb3f1e0d6dbae9e8c0f7b9abb921dda39d2ef024e38c2a
+size 640

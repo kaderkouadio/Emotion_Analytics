@@ -1,1 +1,3 @@
-This is by far the worst movie i ever seen. I would have given it a score of 2 if it was a parody because it actually made me laugh at some points.<br /><br />How can a movie of such low quality be released in the year of 2003?<br /><br />Avoid at all costs!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b11da7795af3ca3f1c28c64ccad15a3b41f9185563ce2e87312af77c17043c2
+size 270

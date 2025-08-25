@@ -1,1 +1,3 @@
-The film is an odd- well at least odd for the mainstream- mix of drama, stock footage and evangelism. Several scenes consist of the main characters watching the televised pontifications of the producers. . .not exactly very gripping. The packaging claims that the film was 'Shot on location on six continents' and I guess that is technically correct- of course the stock footage was shot by _someone else_-- seems a little misleading for a film destined for the Christian market. The soundtrack is perhaps the one thing that saves the film, and features popular songs from top names in Christian music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8222d57da60936e4f1a7400ac898170a6b3ec9f965105efb640194f6b6de21a6
+size 602

@@ -1,1 +1,3 @@
-yeah it's horrible but considering who made it and the time it was made, it was the funniest animated film that I ever saw(the frigging orcs singing!!hahahaha!,the dream sequence of the hobbits where the orcs waved at them!hahahaha!) and I don't even think that was it's main purpose. For the story I gave it a zero rating but from a comedic standpoint it gets 10 out of 10!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cef14db431be84f3ce039eae0754a7b8290b31f01c137c963edc184b2681b45f
+size 374

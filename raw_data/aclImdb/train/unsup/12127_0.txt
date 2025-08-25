@@ -1,1 +1,3 @@
-I just watched the video of BLACK MAGIC again tonight and was once again impressed with it. Orson Welles turns in one of his finest performances. I was also impressed by the quality of the production considering it wasn't a Hollywood studio production (although it was released by United Artists). Elaborate costumes and sets and tons of extras. Interesting plot and photography. It has a nice film noir look to it. But the best part of BLACK MAGIC is Welles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75dab56392afa8bfe1516a7efebe46579f8e118a20e3c3b7359b9e3049e27a55
+size 459

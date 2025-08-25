@@ -1,1 +1,3 @@
-With all of the "R" movies out today, it's hard to find something you can take the whole family to see. My kids loved it. It was good clean fun. I would highly recommend it to anyone who wants to take the whole family out for a nice evening at the movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b035623976a7f50d1badd3d86692d687072cd8f68b8ff47629249322d07511b3
+size 255

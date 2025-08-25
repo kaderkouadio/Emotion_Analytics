@@ -1,1 +1,3 @@
-Awww, I love this! The Tale of the Cat and the Moon doesn't really need an synopsis, as that's what it is... the cat chasing the moon, to a Spanish poem. It's the artistry that's interesting. In fact, there was this animated short called the Fan and the Flower that was an Academy Award winner last year (2005)... yeah, almost same thing, which leads me to believe it might just be a rip off.<br /><br />But this is a really good short, with stark black & white shapes shifting and transitioning into beautiful motion and poetic seduction... If you believe cats are poetry in motion, see this and you'll believe it more.<br /><br />Also, it has such a touching end.<br /><br />--PolarisDiB
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e52ad4e65e0d8bb74028b3a6567a8eb7dcaa349c861d34a263abbdcee346b7
+size 689

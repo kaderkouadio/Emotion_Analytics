@@ -1,1 +1,3 @@
-......this film is pretty awful, the only thing stopping me from giving it a rating of 1 was the fact that I unfortunately have seen worse.<br /><br />The jungle music, juttering demons, and fluorescent UV style blood/teeth/eyes give it that "awful" look, and the script is dire.....this film is more like a test to see how long you can last before giving up on it. It's also predictable but not in a good way. Nothing this film does is in a good way. I watched it 10 minutes ago and thought I would rant a bit so there you are. (oh and the acting doesn't let the film down, it's also terrible)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5cfb6537884d2054dc8290564ebc61ad21eb2f3427d4800093589b30e6b251b
+size 594

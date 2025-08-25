@@ -1,1 +1,3 @@
-What a dreadful film this is. The only reason you would want to sit through this mess is the pleasurable sight of Miss Eleniak. The painful overacting of Mr McNamara, which became embarrassing at times, ruined what might have been a reasonable film if the correct actors had been cast. Mr McNamara is no Tom Cruise, the actor he obviously wants to be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3654888185565b77822fd8736d2cdd3b36b872a4a847aeb72e29ff9f5ceffa3d
+size 351

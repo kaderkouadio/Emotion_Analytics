@@ -1,1 +1,3 @@
-This movie is great. Simply. It is rare that you find a comedy with levels, and this is a bloody good example of such. When I saw this movie first, as the credit rolled, a friend and I looked to one another and asked... 'did you just catch that?' For those doubters, look at the levels. See the comparisons between Vick and the people in the club, the DNA! See the diverse characters, each jostling for position, and if you see nothing else, see the connection between the cure of Vick and the path through the film. IT'S ALL IN VICK'S HEAD! The opening line about Vick's world. The closing scene with the camera going into Vick's head, and inside, a whole universe! Thoroughly quotable, wonderful cartoon gangsters, beautiful, beautiful, beautiful!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b626080dfece0c2fd47c5533bdc3b9107e80bd8364146885fcedcc9e09428168
+size 749

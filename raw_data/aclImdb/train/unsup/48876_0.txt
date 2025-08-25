@@ -1,1 +1,3 @@
-This uneasy, uncertain mix of brutal murder sequences (though the effects don't stand up to scrutiny) and a spoofy tone is a complete waste of time. It's the kind of film that has you constantly counting how many people are still alive in order to guess approximately how much running time it has left. The fact that it got a DVD release (and one full of extras, I hear) is more amazing than anything you'll see in the picture itself. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d084ca2f415e73455a42536ab9fc7b618ede9f013e92a182738aa121fd4721d4
+size 441

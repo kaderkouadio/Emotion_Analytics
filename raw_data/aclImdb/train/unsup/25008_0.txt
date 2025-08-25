@@ -1,1 +1,3 @@
-"The Well" is a terrific little movie, and a bold one for 1951. It takes one of the very earliest looks at racism and how it can ... and did in real life in the next decade ... tear apart a community and ultimately a nation. Obviously made on a shoestring budget by mostly unknowns. Some of those involved in the making of this film, I believe, later were blacklisted in Hollywood during the Red-baiting McCarthy era that soon followed. The suspense is relentless and some scenes are heartbreaking. An obscure, near-masterpiece. It deserves to be seen on any level and judged, for the most part, by the standards of its day. Using that yardstick, perhaps it actually deserves a 10. Unfortunately, I doubt many people have seen or heard of this film. HEY, I WOULD LOVE TO HAVE A COPY OF THIS MOVIE!
+version https://git-lfs.github.com/spec/v1
+oid sha256:be036d0ccd32e1c541fab54bb1e4b455c15c391e8fb6aa7d50d31d0c4c1778ba
+size 797

@@ -1,1 +1,3 @@
-The plot is very basic, but acceptable: A young US soldier, having studied Asian martial arts, puts this to good use in defence of the general's daughter and falls in love with her. Unfortunately, the three main acting parties' (soldier, girl, rebels) combined IQ amounts to 3: One point for the soldier, one for the girl, a large number of Ninja fighters have to share the third point among them to be able to lose against the former two.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df57d160c816becb8cc4452cf9ef57c7f25ef25d7ea7ebc66b49c3bffdc16785
+size 439

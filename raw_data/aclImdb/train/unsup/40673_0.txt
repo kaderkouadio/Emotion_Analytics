@@ -1,1 +1,3 @@
-Yes, this movie is lame. There were only a few members of the cast with any real acting experience. The rest were extras with lines, which were mostly forgettable.<br /><br />However, I have family members who were involved in filming it and I would like to be able to torture them with it...<br /><br />So where can I get my hands on a copy???
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f65f34a66a4b6d7a08d923698e2bf2c9d7ace048f4dc44ab89850cdfd84248
+size 344

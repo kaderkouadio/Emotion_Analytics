@@ -1,1 +1,3 @@
-Rain or shine outside, you enter a movie house. It makes you happy. (If not, come right out.) Lights go off. You settle down with a bar of ice cream. Moving pictures begin to flicker on the screen. You feel content. In the dark, you are back in the beginning of time. Sitting around the campfire...looking at the modern version of the flickering flames 24 times per second and sharing the joy of discovering the unknown turns and twists of the scenario with rest of your clan/spectators.<br /><br />Those who are not happy with themselves, should not write comments. (Long live romantic comedies...)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ee9e4a1f8914077a65ed663b0302693794aed9a75364fa1a8bfe14221066e0
+size 599

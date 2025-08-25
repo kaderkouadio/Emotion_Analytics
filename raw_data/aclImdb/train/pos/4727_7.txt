@@ -1,1 +1,3 @@
-I was pleasantly surprised I quite liked this movie. Witty writing (some "inside" jokes I got, others I didn't - maybe due to actors speaking on top of one another), great acting (notably John Cassini), great cameos, interesting and unique directing. I rented it to see Jeffrey Meek (very disappointed he was in it such a short time, blink and you'll miss him!) but found the movie remarkably entertaining. I'll actually watch it again before I send back to Netflix. I think actors and wanna-be actors will thoroughly enjoy this movie. The ending is somewhat expected but wish they'd done something different (and more positive). Too bad the movie wasn't better received except for in the "festival" market. I suggest it to anyone who loves the acting biz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0cb49b70efae3d4cede529c943fd9adda38ccf39690e5e4f67d4df48a54c91b
+size 756

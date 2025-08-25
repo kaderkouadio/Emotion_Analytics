@@ -1,1 +1,3 @@
-If you have any sort of appreciation for character and dialogue, and any sense of American cultural history, you will find a lot of very absorbing material in this film. It probably was originally a play, and that's why it's dialogue heavy, but I can't stress enough how these icons that we only have a shallow understand of are made into truly complex and wonderful characters.<br /><br />This film is better than any college course for telling you how to create a character-driven story.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b52c8d0bcc7a7fa1b869383f0c981ed24448d1055971e18fdd3e1b092b4895
+size 501

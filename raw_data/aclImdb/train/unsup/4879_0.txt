@@ -1,1 +1,3 @@
-Thank God for Great Performances on PBS. They have brought us another gem in the form of Miss Julie Harris. She not only brings Emily Dickenson to life, she invites us in to live it with her. The joy and pain and all that, and it's REAL and moving and absolutely wonderful. Seek out this hard to find video, you will treasure it forever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9656ec822034d831dbba3668df98c1d5121d84ac63ba29b691fbc69878ba72e4
+size 337

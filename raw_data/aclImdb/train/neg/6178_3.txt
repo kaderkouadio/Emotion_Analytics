@@ -1,1 +1,3 @@
-Frank Tashlin's 'The Home Front' is one of the more lifeless Private Snafu shorts, a series of cartoons made as instructional films for the military. Rather than have Snafu take some inadvisable actions leading to disaster, 'The Home Front' instead focuses on his loved ones back home and how much they have to offer to the war effort too. Snafu realises he was wrong when he thought they had it easy. It's a concept with few possibilities for good gags and instead Tashlin plays the risqué card more heavily, extended jokes involving strippers and scantily clad dancing girls in place of much effective comic relief. The result is a well-meaning short which has little relevance or entertainment value today other than as an historical artefact.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b4e0a4bcb260089a1f1959aad3cb9e5dc8abe24f4f61480c0862c8f8d0d2d5
+size 747

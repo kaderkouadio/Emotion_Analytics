@@ -1,1 +1,3 @@
-I haven't read the other user comments but whoever did the summary for this film possibly hasn't seen it! It has absolutely nothing to do with a serial killer of women (the killer in question kills butchers because they kill animals) and Soper accuses his cousin Molyneux of having poisoned his (Molyneux's) wife. The whole thing is an absurdist's delight -- a French film set in a London that never was.
+version https://git-lfs.github.com/spec/v1
+oid sha256:526b1dbd32d754ad3a531e54f9e633734147036584d553591066530933d89470
+size 404

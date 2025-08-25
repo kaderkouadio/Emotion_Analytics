@@ -1,1 +1,3 @@
-If you love early sentimental Tom Waits, this is his peak. If you love the artificial look of Hollywood musicals of the fifties, you'll love the never-to-be-seen-again soundstage creations of the then newly formed Zoetrope Studios. If you love Teri Garr, this is the starring role of her career. If you want to see one of the last great visionary creations of the American 'new wave' that came out of the seventies, this is it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fedec86bf323478554699cff9527246b8eac4d908a8b3187b2f4d873d231460
+size 427

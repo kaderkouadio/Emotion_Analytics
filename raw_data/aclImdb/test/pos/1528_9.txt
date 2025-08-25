@@ -1,1 +1,3 @@
-Ms. Stowe is sensational in this power drama about a secret policeman who interrogates a children's author because he believes she is trying to plant ideas in her writings that are contrary to the state's. This is an incredibly powerful film. Both performances are worthy of more recognition as is the message of this movie. Put this on your must see list if you can locate it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfcf67034fbcc7baddd7519fb8ca8b3225afc0e3aee5bde8d3172636fe6b389c
+size 377

@@ -1,1 +1,3 @@
-Still Crazy has been compared to the Spinal Tap since both are comedies about wash-up R&R groups. Actually, here the similarity ends because Still Crazy is much better written and acted out, whereas Spinal Tap script deteriorates from the mildly amusing first 10 min into a drivel that makes Beavis and Butthead to appear sophisticated in comparison. Still Crazy is formulaic but the likability of the characters and the unexpectedly high quality of some musical numbers for me managed to offset the a priori predictability of the movie. People who expect Spinal Tap-like attempt on satire would be disappointed by the light-hearted nature of the movie, but I'd take a successful self-ironic romp of Still Crazy over a pompous but failed shot at satire which is Spinal Tap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e1c8462499754d4699b7f8c5d1a286384e3a089ae1aeb593191d2181771c952
+size 773

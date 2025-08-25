@@ -1,1 +1,3 @@
-As you can see, I loved the book so much I use the title for my internet alias and have for over 15 years. (Okay, so it had to be spelled phonetically to fit the name character limit for the BBS at the time but what could I do?) If anyone every finds this movie, I would absolutely love to see it! Janet McTeer is great in everything else I've seen of hers. I think she would have made a great Prue. And it even features early Clive Owen - from before Chancer (a great series itself). What's not to love? I hope the powers that be wise up and make this available on DVD soon! With some of the true dredge they pout out, it's about time well executed productions make it on the market too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc89f4c3495d435783b8c482d8ca8ab728a28d9bb095738cbfb7da43ae081ac4
+size 688

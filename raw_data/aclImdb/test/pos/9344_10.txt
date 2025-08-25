@@ -1,1 +1,3 @@
-Michael Jackson is amazing. This short film displays the absolute highest standard in music video and no-one will ever be able to out-beat this 'King Of Pop' masterpiece! It shows Michael turning into a zombie and dancing in the street with some spectacular choreography. The story is great, the scenes are marvelous, the music is fantastic and overall the clip is fun, eye-popping, spooky and is a real spectacle. Today everybody is still doing the same thing in music video with dancing and film-based story-lines which he innovated. This ground-breaking video is the toast of MTV and will forever be remembered for what is the greatest music video of all time!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f81da9b0bdaa37d0fe59852971a44686f04a0a06be7e51da5f4c43d6b875edd
+size 664

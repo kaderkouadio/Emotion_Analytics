@@ -1,1 +1,3 @@
-A small-town coroner, who has a young son obsessed with death, helps three women get away with drowning their husbands in this dreadful, pretentious film. While it cannot be denied that director Peter Greenaway has unique vision, the question remains whether his vision is worthy seeing. I appreciate his films in theory, but not in practice. There are a few interesting moments scattered about, but what's the point? What is this film about? And why should we care about the characters and the story? Those are questions Greenaway left me unmotivated to answer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efab226ec14abb37f89365f43aed3d284d3fb54ba54a8c4cb28f20728fc278b6
+size 562

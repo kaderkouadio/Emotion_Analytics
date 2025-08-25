@@ -1,1 +1,3 @@
-This HAS to be one of the most boring movies in the last few years. The story was vague at best, the acting was horrible, and I don't know where they found the music they used - but it was unbearable.<br /><br />Definitely not recommended. If you want to see a good movie, go see Shrek for the fifth time or something. <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b43b30987363c8f24c08e5e4aa2d57de7f6d77897a49c821746ed52de36ab25e
+size 331

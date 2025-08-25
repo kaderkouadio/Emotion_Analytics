@@ -1,1 +1,3 @@
-I am a huge fan of Grease. I've seen the play and I've watched the movie at least 500 times. It captures everything high school is about. Even though it is set in the 50's, it seems to resonate even for today's generation. John Travolta and Olivia Newton-John are great in the movie as well as the rest of the cast. I met the girl of my dreams when I took her on a date to see the play, so this film has a special place in my heart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4985e752846520c3ccd7feeb0a4a8f574bff4b7c7065a1b553b811166bfb47e6
+size 432

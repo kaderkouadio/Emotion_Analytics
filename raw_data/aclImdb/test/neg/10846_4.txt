@@ -1,1 +1,3 @@
-This film is striking only in its banality and use of cliches. Sadly it was obvious throughout up until the ending. But don't be mistaken into thinking that it ended strongly. Only a little unexpectedly, though nothing worth watching the thing through for.<br /><br />From the taciturn and wronged hero, to the Germanic baddy, to the expendable team, the characters were entirely wooden and obvious. The two FBI agents Smith and Wesson (geddit?) gave some hope of humour, but that came to nothing.<br /><br />I am a big science fiction fan but it is hard to find any redeeming quality in this film. A turkey!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded43e90990a4e60e43e5d23fec5a8e02443b84fefb19959bc7aaafe0f30adb8
+size 620

@@ -1,1 +1,3 @@
-I can't believe anyone spent money to make this movie. It was really boring. The fight scenes were incredibly long as well as most of the other scenes. Camera work was practically none existent. There was a fifteen minute scene where Gary Daniels and another actor chatted while sitting on bench. Most of the time the camera was on a single shot. I can't believe I finished the movie; I was really bored :-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:17ff954245b7f1e1c3812e021c30ee09926cc796af146e08312fb24b0d02d3aa
+size 407

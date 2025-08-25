@@ -1,1 +1,3 @@
-Neat premise, some nifty acting by Dorff and especially Reece Whitherspoon, but unfortunately, this film takes itself WAY too seriously to be taken seriously. This would have made an excellent comedy, and the talent was there in the two leads. Instead, it takes an interesting, original premise and turns it into a preachy borefest. With a lead character like Dorff's, one would assume there would be a little old fashioned, punk rock humor to the proceedings. If I wanted to hear a sermon, I'd start going to church or reading Noam Chomsky (the obvious inspiration for some of this film) books again. Truly a pity, because this could have been a great film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bb2287347d7bfad47d8b452e6d9d913704614030f3a88af0d1ce9cb467c3403
+size 658

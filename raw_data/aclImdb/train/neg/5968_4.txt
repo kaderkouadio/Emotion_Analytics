@@ -1,1 +1,3 @@
-If this movie were more about Piper Perabo's character and less about the bar, this might have been halfway decent. Piper's Violet Stanford and Karen Friendly (Adventures of Rocky and Bullwinkle) both have a virgin kindegarden teacher quality to them that's endearing. Here's hoping she'll find a better movie to be in.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df15a386a7879a5ffe1caaf703351f6366adc50f7852ea581844d50b21c8b36
+size 319

@@ -1,1 +1,3 @@
-This is a excellent series. You will laugh, you will cry, these wonderful people will be a part of your family. The way this family cares for one another and helps each other through their crisis sets a great example of the way we should live our lives. There are many good things they do, and a number of bad choices, but they never turn their backs on family, they work through problems. Michelle, the youngest daughter, is the cutest thing I've seen. Stephanie, the middle daughter, suffers with Middle Child Syndrome and with the help of EVERYONE in the family it's better. DJ, the oldest daughter, is growing up whether her dad wants it to happen or not. One thing they all share is they miss their mom. Danny (Dad), Joey, and Uncle Jesse love these kids so much, and it's apparent in every episode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2a82cb85969c9f7b02974ee1fbcc082af588c37ccc9814c5d503e420803f5c0
+size 804

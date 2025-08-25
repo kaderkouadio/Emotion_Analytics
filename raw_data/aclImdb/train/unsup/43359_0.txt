@@ -1,1 +1,3 @@
-Out of the several hundred Westerns in my DVD collection, this one has to be the very worst. Totally incompetent. Hittleman must have been a better salesman than a movie maker to have even managed to raise what little money would have been needed to make this awful mess. It's devoid of even the campy charm that Ed Wood might have put into it. Wills, Downs, Holloway, & Cagney must have been hurting for money to have agreed to appear in something this bad. Released in 1956, the same year as George Stevens' Giant, Chill Wills must have been been rather amazed to find himself in two such different movie productions in the same year. I only wish that I could get back the time I wasted watching this trash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e994674c8701ef98da02b9e5316902b5baf518e92c8714c11125022490a527d
+size 709

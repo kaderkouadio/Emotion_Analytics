@@ -1,1 +1,3 @@
-This was one of the worst movies I've ever seen, for poor acting and unbelievable plot. A lot of the acting is like watching a bad TV show, and gets extremely hokey at times. The film starts out OK and gets progressively worse, with the climax being the last scene in the movie. It might be a good movie to watch if you were extremely intoxicated for sheer comedy value (although the movie isn't supposed to be comedy).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f65a2cbdedbfb4b3b86de13f35809fedda826a1005777f4c65c05efd3a60035d
+size 419

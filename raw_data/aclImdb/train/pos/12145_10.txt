@@ -1,1 +1,3 @@
-I saw this movie once on late night t.v. and knew it was the best movie ever. This is one of the few Kung-Fu movies with a decent plot. The progression of the main character is seamless. The whole movie is great!
+version https://git-lfs.github.com/spec/v1
+oid sha256:44771741432902f7a996260df6f7f79ef9389c86a81d74680ddc3e37e5e6d6b4
+size 212

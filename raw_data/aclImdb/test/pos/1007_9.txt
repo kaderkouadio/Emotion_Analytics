@@ -1,1 +1,3 @@
-I am a huge fan of Harald Zwart, and I just knew that I had to see this movie, even though I can't say I'm a soccer fan. But watching this just filled my heart with joy, and I had a great time in the movies watching it.<br /><br />Bjørn Fast Nagell does a tremendous job directing this movie, and even though you notice the main characters are new at acting, they grow with the movie and makes it what it is. Even though it is supposed to be a soccer movie, there is surprisingly little soccer in it. The whole idea is to show the six guys making up the word N O R W A Y on their trip to the World Cup in soccer playing in Germany this year. <br /><br />If you're only gonna see one Norwegian movie this year, this is the one..
+version https://git-lfs.github.com/spec/v1
+oid sha256:33d9f25dbf780d5a7eaba3a0eb57ea6a85fbc39f0fb36b8168ee8c00a8557821
+size 728

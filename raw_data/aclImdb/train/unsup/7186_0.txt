@@ -1,1 +1,3 @@
-This movie was a great story between a boy named J.T. and his cat. Their loving relationship made it one of the best movies I have EVER seen. I suggest this for people who are animal lovers. You will love it! A great story line for ALL ages! They should show it more often, also you can read the book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:491700388396c1e7dadad8389a94a94fa836e1b5e29914eeca679a68bfaa11dc
+size 301

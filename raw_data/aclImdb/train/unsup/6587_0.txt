@@ -1,1 +1,3 @@
-Small Town Girl is cute, fluffy and moderately entertaining. It tells the story of a handsome rich young man (Farley Granger) and the titular daughter of the small town judge who sentences him to 30 days in jail for speeding. Antics ensue.<br /><br />There is much singing and dancing and Bobby Van has a long scene where he hops through town -- even with two or three cuts, it's still a whole lot of hopping!<br /><br />What made me sit up and take notice, though, was Nat "King" Cole's number, set in a New York nightclub. It makes the film definitely worth watching, even worth buying.
+version https://git-lfs.github.com/spec/v1
+oid sha256:017229b321e7a1a1e0b7aa4c5bcec4eb587ce17b0f1bd8e0bb85c66083109e8b
+size 588

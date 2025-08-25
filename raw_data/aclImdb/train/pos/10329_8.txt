@@ -1,1 +1,3 @@
-Trio's vignettes were insightful and quite enjoyable. It was curious seeing so many soon to be famous actors when they were very young. The performances and attention to detail were wonderful to watch.<br /><br />Observation. In film it isn't necessary that source material be in alignment with the contemporary era to be interesting or worthwhile. "Small morality" storytelling is quaint (or coy) only in the eye of the beholder--thankfully. Story content--well told--can overcome it's time, subject or place.<br /><br />Ironically, there are quite a few contemporary films today that have not overcome the conventions or cutting edge mores of the present era. Inserting "small morality" content--occasionally--might provide a dimension lacking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2447b40eda633566bd7c472492e66d4a883d529d2e6ddf634eb30c14b98c425
+size 746

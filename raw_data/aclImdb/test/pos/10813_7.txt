@@ -1,1 +1,3 @@
-The movie takes place during the year 1940 and the French are about to loose the war.<br /><br />The movie includes all genres: comedy, romantic, murder and history. It is probable the historical part may be not as probable as the rest.<br /><br />It is not, however, a big laugh movie but the occasional large smile!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cad4ccf9ec19752531c79e410bafe199ef8f701e7538f092876bcb00e982ec43
+size 317

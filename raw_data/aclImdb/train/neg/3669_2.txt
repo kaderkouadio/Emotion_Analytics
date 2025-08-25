@@ -1,1 +1,3 @@
-I really cant think of anything good to say about this film...not a single thing. The script is a nightmare.. the writer blurs the line between chemical and biological traits and doesnt seem to understand the difference. You'd think they would at least get a technical advisor. The performances were bad by most of the cast... although I dont really blame them.. the material really stinks. The editing was equally bad.. I'll just stop now.. its all bad 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d33072b5aab3fed659eca885e2f180d247b1c78d24f1a2dbfb89bf1d806d51fb
+size 458

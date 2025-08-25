@@ -1,1 +1,3 @@
-This film is pretty good, it actually is like a good wine, it gets better the more you watch it. The pace is pretty slow for such a high octane topic, but the cinematography is beautiful and surreal. There is a cool blue tint that "rides" the whole film. There is also one great performance in Gabriel Casseus' performance of the character "Midget". He is terrific. Why doesn't this guy work more. If the film got better support, he probably would have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9000ed86bb49d515420eb5e457bd529cee701a62e6b9af2377fe736505fc0aec
+size 453

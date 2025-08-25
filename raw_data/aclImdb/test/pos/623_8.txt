@@ -1,1 +1,3 @@
-Superbly crafted low-budget thriller with more twists and turns than you can shake a stick at, and plenty of ghoulish humour along the way as well.<br /><br />The cast play it very well, although Richards' self-centered movie director is a bit hard to take at times. The tiny two-scene cameo by Sir Alec Guinness, oozing menace as the crime czar of Moscow, is simply the icing on the cake.<br /><br />Well worth repeated viewing, but not on dark nights when you're all alone!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ce8b8f8eb4984b6dd3d2f5e99751e918ad07c1bb3d0a7e54a99635dc326bd8b
+size 475

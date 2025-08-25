@@ -1,1 +1,3 @@
-Shady land developer, played by Joan Collins, lures prospective buyers to swamp land, unaware that the worthless real estate has already been "bought" by giant ants. The first half of the film is trite but tolerable. The second half makes absolutely no sense and is full of plot holes. Somehow, I just can't imagine the great H.G. Wells writing a novel that is so inane. Maybe the screenwriters made significant "changes" to the original story.<br /><br />There are worse b-grade science fiction movies out there. In addition to "Plan 9 From Outer Space", my personal favorite is "The Giant Claw". These two films are more enjoyable to watch than "Empire of the Ants" because they are so awful they at least provide some laughs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af885f877aed9ec1042f72d54b83b49243edebfb609cf9f3eee1a1d335d12520
+size 728

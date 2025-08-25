@@ -1,1 +1,3 @@
-For a low budget movie, it's way above average...in part to a well written (albeit campy) script, that has a a very good premise. The script itself has it's high and low points, with many of the lines going to Maturin, who uses them well. The script is mysterious and keeps you hanging on to see what will happen next. Who cares if it's a knock-off of PuppetMaster...it has it's own strange charm, in a John Waters directed type way. Jack Maturin does an excellent acting job as the insufferable billionaire Virgil Travis...as does Bill Burns as the stoic Mr. Mascara.<br /><br />A must have in any horror collection. Throughly entertaining, and way under-rated IMHO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6be98c072219143ead6bb76a9088e47c9a1d933f6e73ae604db6903a6286439d
+size 667

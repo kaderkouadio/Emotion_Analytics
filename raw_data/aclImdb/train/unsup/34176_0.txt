@@ -1,1 +1,3 @@
-Sun Kissed looks like a film produced by Andy Warhol and his entourage - during the late 1960's or early 1970's. The story, the actors, the look of the film and the nervous edit of it. Most movies are 90mins or a little longer for a reason. Why do so many inexperienced filmmakers edit or allow such quick & uneven edits of their films? Movies are not commercials.<br /><br />I won't go into what I think this film is really about and I won't spoil it for you by explaining it all. See it if you love films like I do. That's one of the reasons I watched it, though hesitant, I still viewed it anyway.<br /><br />Again, this looks like one of those films that Andy Warhol would have produced over 30 years ago because it looks like it was filmed many years ago.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43ad1b6959f9159fb76baa6118b446f77606b3ad37cb1d069a8da3d5c58b8919
+size 760

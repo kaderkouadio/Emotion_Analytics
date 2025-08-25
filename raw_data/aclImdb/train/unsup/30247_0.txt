@@ -1,1 +1,3 @@
-A beautifully acted and produced film about Women's sufferage during the Woodrow Wilson presidency. A great history lesson to all who would take the right to vote for granted.<br /><br />The period was wonderfully portrayed and the cast was excellent. The only flaw I found in the production was the overexuberance of the "sound mixer" regarding the music volume levels during much of the dialogue.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a5b7cf7b1d42aa598bf880d08f7bf54160175d344d2733c0cc0fad9a9820b1
+size 410

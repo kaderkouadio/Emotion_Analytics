@@ -1,1 +1,3 @@
-Worst movie, (with the best reviews given it) I've ever seen. Over the top dialog, acting, and direction. more slasher flick than thriller.With all the great reviews this movie got I'm appalled that it turned out so silly. shame on you martin scorsese
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0bc4475ab0b0d5f55fac9d8cf62122f2ede162c0e455a87b34727eb7824dc4
+size 251

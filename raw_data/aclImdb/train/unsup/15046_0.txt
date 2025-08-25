@@ -1,1 +1,3 @@
-The Love Bug is one of my favorite Disney movies. A movie about a car with a mind of it's own, a vw beetle with a heart, how could you not love a movie like that. Among all the great characters are the evil Peter Thorndyke, the beautiful Carole, the down on his luck driver Jim Douglas and the best one of the bunch Buddy Hackett as the wonderfully eccentric Tennessee Steinmetz, Tennessee has a Buddhist soul and does not discount the car as being alive. Love Bug is funny, sad and has scenes that will leave you to tears, you will laugh and shake your head. RIP Buddy wahhhhhhhhhhhhhhhhhhh
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e71cad1ab46cedf29a8e5d281adeb2385d644f996fb33f064feea445ffa52d1
+size 591

@@ -1,1 +1,3 @@
-Appalling because a student film had won the Academy Award for best live-action short. My fellow film students and I were hopeful when we watched it.<br /><br />Appalling because it is so bad. As cornball as it gets. It's competently made (you don't question the technical aspects of the film), but it's utterly charmless, bland, and unfunny. It's like watching bad television. It thinks it's a lot better than it is. So, apparently, does the AMPAS.<br /><br />Maybe I shouldn't be at all surprised that it won an Oscar. Winning one these days seems to be more of an insult than a compliment.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8312dc64b3f77d9ed9cd4a91058d1179afed36c1e94e0fdcc20d8a50c84be3f
+size 604

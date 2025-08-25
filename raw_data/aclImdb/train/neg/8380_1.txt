@@ -1,1 +1,3 @@
-It's here. finally a movie comes out that I can honestly say is worse than Larry the cable guy: health inspector. Yet I'm willing to bet the the wayan's brothers(hilarious) will make more money than I ever make in my whole life on what is sure to be one of the top five worst films of all time, outside of my fifth grade outside the class re-enactment of romeo and Juliet. I mean really WHY would anyone ever ever see this movie unless they were paid to. The comedy is weak and all even remotely funny jokes from the flimsy plot were surely revealed in commercials. Final word is this movie was a terrible letdown for me. And the commercials looked so promising...
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f2f3521cb907e874e74339df92cdba70ce9cc4cf5af2bb2350e6172ce34f12d
+size 664

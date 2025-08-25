@@ -1,1 +1,3 @@
-This is easily a 9. Michel Serrault, known more for comic roles in the earlier part of his acting career, does a stunning, even worryingly stunning job of impersonating Dr Petiot, a legendary French serial killer.<br /><br />He is just so believable at every and any moment in the film, that the actor completely disappears behind the character - only the very best ever achieve this feat, and when they do it is only in a handful of parts at best.<br /><br />The whole story (a real story which happened in 20th century France) is so powerful, so sinister - it makes for a very strong film that one remembers for a long, long time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:401c5db4b94beebc641919e0f9a2d40e151cbb48cf29a7ab39d0acaf4610a896
+size 632

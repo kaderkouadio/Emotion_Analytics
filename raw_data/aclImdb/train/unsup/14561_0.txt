@@ -1,1 +1,3 @@
-It sounds like a soppy idea: That we meet the people we love time and again through the ages. But it works - for over three hours. 'La belle histoire' switches between Judea 2000 years back (yep, the time and place of Christ) and the present day. We meet the same group of people then and now, with grand passion, bullfighting and Gipsy Kings thrown into the mix.<br /><br />Being a French movie, there's a lot of pretty people here. And religious/Christian metaphors. This could have become a messy stew - instead, it's a very entertaining epic for the romanticists among us. Too bad it's so hard to get hold of.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44f518cee99e5141215fbfec5804669162b700d6b94c2bfb883971efc049fa87
+size 613

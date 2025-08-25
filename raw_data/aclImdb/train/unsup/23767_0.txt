@@ -1,1 +1,3 @@
-There have been many movies about jails - or escaping therefrom - but none like "Big House Bunny", in which Bugs Bunny tries to flee some hunters but accidentally tunnels into Sing Sing, where guard Yosemite Sam Schultz locks him up. Of course, Bugs proves not so easy to imprison. Specifically, he always knows how to get the warden angry at Sam.<br /><br />In any Looney Tunes cartoons, it's great to see Bugs turn the power structure on its head; as far as I'm concerned, Sing Sing really represents the power structure, as Julius and Ethel Rosenberg were executed there for a crime that they didn't commit. But anyway, this is a classic cartoon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d2b92bb11fa8340f654a8e609290ce1c090a2e3fa7b68ff575045763a37549
+size 649

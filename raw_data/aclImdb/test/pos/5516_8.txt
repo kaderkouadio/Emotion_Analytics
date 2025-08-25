@@ -1,1 +1,3 @@
-Andrew McCarthy played the role of an atheist very well. I liked the plot of the movie. It gave something to think about other than a comedy. It had a very twisted mind and a good cop versus God. A very well used plot line.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9900f09123419af0bdeaa795264fdc51cedccdbe2bcd69d226d5ffcb70aa86
+size 223

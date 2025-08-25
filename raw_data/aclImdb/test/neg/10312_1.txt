@@ -1,1 +1,3 @@
-Found this film in a DVD discount rack for $10. It wasn't worth it. Some of the camera work and dialog look and sound as if it were done by a film student. Sandra's performance was somewhat credible, but the film was predictable and the action was spotty and dragged.<br /><br />One thing that I will give them, however. Unlike most action films, people in this film actually ran out of ammo and scavanged dead bodies for new weapons and ammunition.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a20999a8fb181758f33d70bfb112d325829c7c91e4f8c8692049cc579874ec01
+size 449

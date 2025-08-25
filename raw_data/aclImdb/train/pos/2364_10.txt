@@ -1,1 +1,3 @@
-I must confess to not having read the original M R James story although I have read many of his other supernatural tales. I've also seen most of the previous BBC Christmas Ghost Stories and this one, in my opinion, surpasses most of them, only equalling The Signalman.<br /><br />I can't really fault A View From a Hill - the direction and 'mood' is perfect, as is the acting, lighting and, of course, the story and writing. I thoroughly enjoyed this and can only hope for more of this quality from the same director and production team. I understand that the BBC plan to make some more (not necessarily based on M R James stories) so that's promising.<br /><br />10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:849cadf58d1ff749908a097a5a79e7b63d51fd5cc47fabb8abe8c0acc3b961c6
+size 669

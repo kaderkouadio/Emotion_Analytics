@@ -1,1 +1,3 @@
-Decent enough cast squandered by stupid plot, inept script, direction, editing.<br /><br />Dont expect any martial arts action either, the only fights are so badly cut and lit that anyone could have done them.<br /><br />Best moment: realising that Dennis Hopper's character is actually supposed to be Irish.<br /><br />Worst moment: realising that it isn't going to get any better than the opening scene.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb07a19c9588f27fe27096e2358789ce7a2b9e7fe33fa6d1cc8a78847f1edb3
+size 405

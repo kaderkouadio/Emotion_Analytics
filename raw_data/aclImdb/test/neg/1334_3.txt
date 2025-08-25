@@ -1,1 +1,3 @@
-It's about time for a female boxing flick, but this one ain't it. Though the acting isn't too bad, the predictable storyline and silly dialogue pretty much ruin this one from the get go. To top it off, the boxing scenes display zero tension. Come on! How hard is it to make a boxing match seem exciting??!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:70414e8f49f100035285bf15bc52ebf2154a5e7daf8b1d9954a19a8127d705c1
+size 306

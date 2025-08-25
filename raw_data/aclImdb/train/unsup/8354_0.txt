@@ -1,1 +1,3 @@
-I gave this film a 2 only because it did have potential with Tim Conway and Don Knotts in it. The effort shown by these two was admirable, considering the lousy script(written partly by Mr. Conway) and pacing of scenes. It just doesn't move as a movie like this should. While I consider Conway a good tv comedian, only Knotts ever showed potential for the big screen after leaving the Andy Griffith show. It is sad that this film didn't work out better. Oh well, both performers have earned a place in entertainment history-let them not be judged by this turkey.<br /><br />MM
+version https://git-lfs.github.com/spec/v1
+oid sha256:d14d10dc95c1ca683b72014c93d80e2a17ddbe2bb891985c21f65bd43e6767d8
+size 576

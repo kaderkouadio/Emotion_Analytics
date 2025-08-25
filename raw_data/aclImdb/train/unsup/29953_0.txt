@@ -1,1 +1,3 @@
-A powerful and disturbing film of what life was like under the oppressive Taliban rule. Maybe because the cast are not actors and it starts with a boy talking to the camera as if it's a documentary being made it feels like what unfolds is actually happening and this makes it a very real and chilling experience. A film that should be seen.(8/10)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e66be870d6ef4b5a1dc7f8dd9440e94b06e5fb4794b6a9378cfdf0635e77f027
+size 346

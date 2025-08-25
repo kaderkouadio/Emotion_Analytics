@@ -1,1 +1,3 @@
-Overall this movie had bad writing and cheap sets. Christian Bale was adorable, though. That was the only plus in this movie. It seems to drag on with it's dry, dull writing. As much as I adore Christian Bale, it was still hard to watch because it was pretty much, a boring movie. Very small children may like this movie, but those over age 8 will most likely be bored.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f2cc4a5bb36a02bd62a8198087fa54bc6dbec6e71a1271f881578c60a0220d8
+size 369

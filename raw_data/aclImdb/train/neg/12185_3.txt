@@ -1,1 +1,3 @@
-What ever possessed Martin Scorcese to remake this film? And not only did he remake it, completely ruin it? The nonsensical decision to make the character played by Robert DeNiro (in his most overdone performance, and that's saying a lot) into a religious fanatic is ridiculous, and exemplary of attitudes harbored by Hollywood (and Mr. Scorcese especially)- attitudes that compel writers to think that the best way to make a character insane is to tattoo a crucifix on his back. In any case, this movie is awful. <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4ed6663abb5bb293e92374d6e738435608c7f781e1a6180593be1b4faad1e6
+size 526

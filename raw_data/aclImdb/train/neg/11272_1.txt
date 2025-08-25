@@ -1,1 +1,3 @@
-...the first film I had to walk out on. And it was the cast and crew pre-screening (Not that I was involved, I hasten to add). I made it through the first hour, so I reckon I'm just qualified to comment, but that was my limit.<br /><br />Like other comments here, how did this get through any kind of QA. An accumulation of the very worst in dialogue, the epitome of wooden acting, awful casting, all wrapped together without a plot.<br /><br />Tara Fitzgerald's casting was bizarre, almost comic. She possesses the worst Russian accent in movie history.<br /><br />As I left the screening, the director and producers were drinking in a bar outside the cinema. They obviously couldn't sit through it again either.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:35ae62584b7c5ec672c0311e3987b228d81d66b48ca8725438e69168aeb28132
+size 725

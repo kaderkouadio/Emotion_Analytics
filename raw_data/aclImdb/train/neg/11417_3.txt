@@ -1,1 +1,3 @@
-The youthful group in "St. Elmo's Fire" who just graduated from college barely seem able to make it through high school much less four years at any prominent university. For the most part, these kids are irresponsible, selfish, greedy and stupid, yet co-writer and director Joel Schumacher appears to hold them up as touchstones for a generation. With a now-outdated cast of "up and comers", a background score that sounds awfully similar to that of "Terms Of Endearment", and writing which lords the smugness of this circle over us, "Fire" is a paltry blaze, one that gets even more embarrassing as the years pass on. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c32668758c3194dbfae4557e2ca6068e0dc86e032e640cf21a5976f66bafc84
+size 633

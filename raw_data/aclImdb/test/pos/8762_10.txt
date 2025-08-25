@@ -1,1 +1,3 @@
-beautifully constructed, "Traffik" tells the story of narcotics usage and commerce from multiple points of view. From a policeman view, from a politician view, from an addict view, from a smuggler's view, and from a farmer's view. In a carefully contructed storyline, one gets the impression on how everything is inter-related. From beautiful on-location shots in the poppy fields in Pakistan, to downtown Karachi, to the entry points airports of Frankfurt and London, to the delapidated buildings where the smuggling takes place, one sees the massive dimension of narcotics consumption.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89372425a5baf5f52f2ae8bd0ac15018c91bada9f2fe8e78c420f834af94d8eb
+size 587

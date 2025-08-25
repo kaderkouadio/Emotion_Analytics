@@ -1,1 +1,3 @@
-This movie is so bad, I knew how it ends right after this little girl killed the first person. Very bad acting very bad plot very bad movie<br /><br />do yourself a favour and DON'T watch it 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:9456df241f0648a15cf3a52852ec7d13faa70b9392e38bfd5d9bd84370b6250d
+size 195

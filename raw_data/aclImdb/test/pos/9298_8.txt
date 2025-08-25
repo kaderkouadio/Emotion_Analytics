@@ -1,1 +1,3 @@
-Lets face it, Australian TV is for the most part terrible, but this is a real diamond in the rough that not enough people are watching. The Chaser crew who do the satirical newspaper and CNNN try something new by mixing live comedy, pre-recorded skits and political satire into one show filmed in front of a live audience, sorta like Rove, but funny. They love causing controversy and this causes some of the shows funniest moments, especially Chris telling his wife to "f-- off" live on breakfast television and Julian handing a novelty cheque signed by Saddam Heusein to the head of the AWB. It has to be one of the funniest Aussie shows since the Micallef Program.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7e1a34250600bdef1e5629b0a139f83bda1fea709d890284c1996b35c381502
+size 667

@@ -1,1 +1,3 @@
-I was very impressed with this small, independently made picture. The story, about a pair of social outcasts who meet, become friends, and provide each other with a support system both seemed to lack as children, is at times hilarious, at times sad, but always provocative. Music, mostly by underground bands, was used to great effect, as was the experimentation with camera angles, filters, and slow or fast motion techniques. The performances (the leads are played by the writers and directors of the film) are some of the best I've seen in the last couple of years. If you ever felt like a square peg being forced into a round slot, I really believe you'll appreciate "By Hook or By Crook".
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f78192b6a0f0d64bb7c0130a9716f9baf11cee7014edfb890f0be1cdabadfb
+size 693

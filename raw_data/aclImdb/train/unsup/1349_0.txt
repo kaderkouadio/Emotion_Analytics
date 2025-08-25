@@ -1,1 +1,3 @@
-This is no Bonnie & Clyde. It's not some huge feat in movie-making. It's not supposed to be; it's just a cute little comedy. But it's cool. It has some very clever dialogue & fine acting. Benicio del Toro looks better than he's ever looked in any movie here. Walken is delightful. Alicia Silverstone plays the pouty brat well - she's supposed to be a little annoying. It's a fun romp.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97879c101fe8be3ca1a8be04e89abc801d34f77c99604e4dec8aca155b772786
+size 384

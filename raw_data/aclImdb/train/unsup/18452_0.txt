@@ -1,1 +1,3 @@
-Got to be the funniest and fastest Avery cartoon there is, the best "modern" slant on the red riding hood story, with the wolf lusting after Red Hot at every opportunity. Note the reference to the wartime car tyre shortage with the line...."I can even get you a set of white wall tyres!" I,ve seen the 'toon loads of times and it always never fails to make me laugh long and loud. Working as a projectionist in the cinema I have also shown the toon, and on examining the print it is really noticeable that many frames have been cut out when "Red" makes an appearance. Enjoy the toon!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c37068f10c7600c174d9f362e5456d735f51ff07261234fd6baea70e80f1f16
+size 583

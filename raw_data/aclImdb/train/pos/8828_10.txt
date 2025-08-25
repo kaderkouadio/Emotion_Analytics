@@ -1,1 +1,3 @@
-I was so glad I came across this short film. I'm always so disappointed that short films are hard to come across, so when I saw this and saw that it was nominated for the Live Action Short Film at the Academy Awards, I was so pleased that I actually had a film that I was rooting for.<br /><br />The plot is pretty simple, the director, writer, and star Nacho Vigalondo tried coming up with a reason people would suddenly break out into a song and dance number like they do in movie musicals. The result is extremely entertaining and the song is actually really catchy.<br /><br />It's a well made short film, well edited and the actors all do a great job. And the last shot of the film is perfect.<br /><br />I highly recommend this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:843eb1054f6b70972ef6a1ac070368e8fe11abe259d66bf4a3aab059a3b9d85a
+size 739

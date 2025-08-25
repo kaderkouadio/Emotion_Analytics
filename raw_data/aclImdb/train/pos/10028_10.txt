@@ -1,1 +1,3 @@
-When I saw this movie I was stunned by what a great movie it was. This is the only movie I think I would ever give a 10 star rating. I am sure this movie will always be in my top 5.<br /><br />The acting is superb. Leonardo DiCaprio and Kate Winslett are at their best. I don't think anyone could have a better job than Kate. <br /><br />If it is a rainy day and you can't decide what to rent, well, this is the one. You will love all the acting, special effects, and much much more.<br /><br />If you have not seen this movie go rent or buy it now!!! You won't regret it.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0835246a59cc4ec131bd2a58233a357b12c7014d5da59765e563c760e6c633
+size 584

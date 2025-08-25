@@ -1,1 +1,3 @@
-In my opinion, the ending is what completely ruined the whole thing. The initial idea of having someone suddenly realize they were the son of god and the second coming was somewhat clever. People started to believe him and his friends became the new disciples. People went nutty, demons were possessing people, all kinds of fun. Of course then it all went wrong. It was bad enough that they had to take on the impossible task of looking through a vast amount of writings to find the "third testament" in five days, but then at the end it became this ridiculous humanist fantasy. I won't spoil it, but I'll just say it comes off as if it were written by a teenager with a very limited knowledge of theology. I hear they are making an American feature version of this story, I just hope they change the eye rolling ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec1bb15991116530dba7f805f221ac3ddafbdc4c641fe3e50350273b3038ebe5
+size 820

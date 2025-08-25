@@ -1,1 +1,3 @@
-This movie is a real waste of time and effort. The film lacks plot and depth. The visuals are decent but nothing to write home about. There are far better films out there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93bfbc52a232a7bcff6a11dbe3795654055f0d44c92f5aa44af4dd3e4efdeef3
+size 171

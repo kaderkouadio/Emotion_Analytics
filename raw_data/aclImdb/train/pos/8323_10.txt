@@ -1,1 +1,3 @@
-"A little nonsense now and then, is cherished by the wisest men."<br /><br />If you are too smart to watch this movie, then you are too smart to be alive. <br /><br />Wonderful romp, wonderful premise, period piece done with acute eye for detail.<br /><br />Walter Matthau, Meg Ryan, Tim Robbins - et al - just wonderful!<br /><br />Rent it, sit down, relax, take it in, smile a little. Enjoy yourself. <br /><br />Then, thank me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a878809388c81a472e2485df0c95ba146982adda3b115b8b1f5796eb218ce8
+size 430

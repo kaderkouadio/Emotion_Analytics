@@ -1,1 +1,3 @@
-I like the Phantasm movies and wish 2 & 3 were available on dvd as well! I am also ready for the next movie if there will ever be one! I hope the next one will be good as the rest! The Phantasms have been closer to the plot than most films even years afterwards!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd481e1825d33fb4151ff945af50f6cca73146cc3b879ca15feb22ed625ea478
+size 262

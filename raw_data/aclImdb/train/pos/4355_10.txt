@@ -1,1 +1,3 @@
-I also viewed this film at the Santa Barbara Film Festival. It was an excellent film about adult family relationships. Paul Reiser wrote the film and included some similarities to his family. It was funny, warm, poignant, and moving, as well as entertaining. A film like this would do very well with the word of mouth reviews. I would definitely tell my friends and family to see this film. Let's only hope they'll have the chance. I would rate this film as one of the best movies I've seen in a year. It contains no violence, action scenes, murders, sex, so evidently distributors question whether or not to pick it up. Believe me, there are people out there who would love to go see a movie like this that has redeeming value, instead of the many typical big box office blockbusters we are usually given.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe072964c46fe11deb9920b864679ee296221129a406c283d177e306da9bde5e
+size 806

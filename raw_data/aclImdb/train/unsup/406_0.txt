@@ -1,1 +1,3 @@
-Beyond the tremendous and true romantic love Johnny Lingo proves for his dear Mahana, he gives a tremendous object lesson in how to properly treat others, and bring out the very best in them. If all husbands would treat their wives the way Johnny treated Mahana, there could be no evil in the world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9518ca22be75862de804ec23a6b353fcabb4e39e83368edb28b993f8befcff8f
+size 299

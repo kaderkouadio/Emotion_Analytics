@@ -1,1 +1,3 @@
-Jason Connery is not an actor; he is the son of an actor. His Macbeth is the worst I have ever seen. Oh yes, he murders king Duncan, but he also kills William Shakespeare. His wife is even worse. Please, give me Polanski's version on DVD, so I can forget this monster. Jon Finch, Orson Welles, Laurence Olivier, there you have ACTORS!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbad3acacdf3e94839907b42ef31bee65db6eb6fb0b55161d58a3aae8d079dbe
+size 334

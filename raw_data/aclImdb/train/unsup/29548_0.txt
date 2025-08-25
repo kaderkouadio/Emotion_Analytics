@@ -1,1 +1,3 @@
-Deed I Do worst part of great movie! I enjoyed the movie. Those guys were like a caricature of Martin & Lewis.<br /><br />But don't blame the song as poorly-written, as one person did. The 1926 song 'Deed I Do was mugged and hammed up and butchered by Duke, the only disappointment of the film.<br /><br />I'm familiar with this old song because I found it at the archive dismuke.org last year, recorded by Al Lentz's Dance Orchestra. I found this info about it elsewhere online: 'Deed I Do. Words & Music by Walter Hirsch & Fred Rose, 1926.<br /><br />The best part is, I bought the DVD for a buck at Wal-Mart. For a buck, you can't go wrong!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee17b6e1c7b24e2081e038302d4472469bbad9bf5e0f56d689f1dc54d076b40a
+size 643

@@ -1,1 +1,3 @@
-We were flipping channels on tv and came across this movie.. It drew us in with its complete lack of purpose and continuity. I have watched hardcore pornography with better acting and plots. If I ever happen to meet the person who wrote and directed this crap I would demand the two hours of my life back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3de4d55bb52b02d928fc3324b53bd2381e6205ca832f5a80b83465eef7b265af
+size 305

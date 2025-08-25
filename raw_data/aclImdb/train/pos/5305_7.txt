@@ -1,1 +1,3 @@
-This is John Waters best film to date. The characters are obvious and symbolic, just as in his other films. So there are no surprises or character changes. I enjoyed the film because of the wittiness and pace of the story. It was good story-telling with honest people.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a004e50c83e9ac3beb27a5bb1129a1a7e15e4e905ff881eeab6b90364c8de340
+size 268

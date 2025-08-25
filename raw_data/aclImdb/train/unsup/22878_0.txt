@@ -1,1 +1,3 @@
-"Sunshine" is a rare piece of art. Based on a true story, it contains a ton of emotion. Produced in 1973, I caught it one night on TV and left it in the back of my mind. In 1988 I began to live this story right down to Christina Raines similarity to my wife and the taffy colored cat. The only difference was that our love held us together ...she, and the cat, passed on in 1994. Recently I saw an old battered copy of "Sunshine" and how close this "movie" is to the truth. I highly recommend this film as one of the greatest attempts at understanding the love and sadness in life, what it is like to die, and the legacy it leaves in the heart. It is unfortunate that it is not available on VHS (Hello, Amazon.com) or shown more on TV. This is the compassionate type of media our society and civilization needs so badly to survive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eda844ec635ffe07fa34d12ceafb82007cac6bb27dfd1d126c155d4f028cf38
+size 831

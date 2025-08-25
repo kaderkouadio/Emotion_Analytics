@@ -1,1 +1,3 @@
-I think this movie is absolutely beautiful. And I'm not referring only to the breathtaking scenery. It's about two unhappy English housewives who decide to rent an Italian castle to take a break from their not so happy home lives. In the end four women total rent the place together, all with different personalities and different reasons for being there. In this magically beautiful place they all find the peace they're longing for and interestingly that peace comes from inward reflections and resolutions, more so than without. I also find it wonderful because of the relationships that are developed out kindness and understanding. The acting is a joy to watch in itself. I especially love the characters of Lottie (Josie Lawrence) and Lady Caroline (Polly Walker).
+version https://git-lfs.github.com/spec/v1
+oid sha256:733fad782af9ab53e7775bfd8bc0e4522a20275449068685f96e2c74a2ca2292
+size 770

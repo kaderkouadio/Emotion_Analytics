@@ -1,1 +1,3 @@
-I saw this film before two weeks. It's kitsch, boring and totally unintelligible for people, that haven't read the original book. There are many fact mistakes too... actors plays rather poor, you must laugh even in the sad moments. It was a totally waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f68e5dc3ca420d670d0a349011ea92e4090eae8e31e747f714e6f7fc03eb9b
+size 263

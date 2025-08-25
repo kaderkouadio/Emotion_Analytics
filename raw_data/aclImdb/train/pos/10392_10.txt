@@ -1,1 +1,3 @@
-This is a beautiful movie filled with adventure. The Genii in the bottle is a classic scene. Romantic in it's finish, all things turn out as they should be. I saw this first as a child and have remembered it as a fantasy I wished was true.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47fecb8d3afda8269c8cf787f2d589484985b386dd186726a3e61b5d8be026ef
+size 239

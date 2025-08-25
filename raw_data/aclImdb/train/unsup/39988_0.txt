@@ -1,1 +1,3 @@
-I don't see how I could possibly spoil this movie, as I'm pretty sure most people know Valentino is dead. The manner of his death spoiled the movie for me, fact-based viewer that I am. This movie is a five-car pileup -- you can't look away. Nureyev is no actor, but it hardly matters. This must be the noisiest movie ever made about the silent era. Even Seymour Cassel, known for his work with John Cassavetes, soon joins in the general shouting and gesticulating. The two-whatevers rating is for the costume one of the women wears to the funeral, which makes her look like a Klimt painting. It made me laugh.<br /><br />Please, Ken, leave Garbo alone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd151ef32954c638b3d7ad6c101a3dbdee5a551e727cf9f8207b2f035d5548c4
+size 652

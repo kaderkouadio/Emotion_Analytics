@@ -1,1 +1,3 @@
-amateurish space trash.<br /><br />politically retarded; scientifically inaccurate; religiously barbaric.<br /><br />and of course, there's the bad story; bad photography; bad editing; laughably inept dialog.<br /><br />no point talking about the acting here; these 'professional' actors are reciting lines on cue without any sense that the lines might accumulate into meaningful speech - for the simple reason that it is impossible for them to accumulate into some kind of meaningful speech - it is the usual TV-space-trash babble that people in LSD-flashback really admire.<br /><br />crap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f6a0d1db72bbadc82de703327265007a37df597de4c473c3fbcfd0645dd7af0
+size 592

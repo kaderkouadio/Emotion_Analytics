@@ -1,1 +1,3 @@
-Certainly any others I have seen pale in comparison. The series gives balanced coverage to all theatres of operation. No one country is given undue credit for the Allied victory. Laurence Olivier brings great weight and dignity to his role as narrator.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9079274ea3ff8d29cf8050ed4106eb586a9111062af6c5799ff053d28cf01ccc
+size 252

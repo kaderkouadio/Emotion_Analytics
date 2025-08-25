@@ -1,1 +1,3 @@
-I beg to differ. This production was by far the best of the films made of this story. I did not laugh at all. In fact I would like to own a VHS or a DVD of this film, if possible!<br /><br />I loved all the movies featuring Stewart Granger, he was a captivating star! I also liked the actor Ian Ireland, who played Sir Henry. The photography was very good and the film created an ambiance/mood befitting this mystery. <br /><br />Despite the fact that it has been many years since I have seen it and I am not really able to point out specific details, I can safely say that this was an entertaining movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1036d8c47ad485224fc8f9b296221a7e7711919d566c8e2ccab6b386f2ec01fe
+size 605

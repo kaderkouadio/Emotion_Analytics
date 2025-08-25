@@ -1,1 +1,3 @@
-Mind-bogglingly bad Disney comedy pits middle-aged sweethearts Chevy Chase and Farrah Fawcett against Fawcett's prankish pre-teen son Jonathan Taylor Thomas (that smug Keebler elf from the TV sitcom "Home Improvement"). After single mom Farrah brings new love-interest Chevy home to meet her kid, Taylor resorts to juvenile tomfoolery to scare the suitor away...sound familiar? Taking its cue from "The Parent Trap", but blessedly giving us only one child at the helm, this lame-duck script has nowhere to go after the initial set-up. Nice to see Chase and Fawcett together (the original choices for "Foul Play"), but the comic chaos which erupts here is only for undiscriminating viewers. * from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c73b10f1063a58d466bfe131791efffd362e11ea55b7674373fa7205a7408f
+size 701

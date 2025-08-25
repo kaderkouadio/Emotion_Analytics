@@ -1,1 +1,3 @@
-Great book, great movie, great soundtrack. Frank Sinatra shows in this movie that when he wanted to put the effort in, he could act. The ending is a bit schmaltzy, but for the time it's understandable the studio wanted a happy ending. The graphic nature of the heroin addiction (groundbreaking for the period) is a plus. Add the terrific soundtrack and you've got one of the great American movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57a6f0a4a349c9b136ca4fda3713deba01257d3942dc4dc30b7f7f51df51c4ee
+size 397

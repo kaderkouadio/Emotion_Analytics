@@ -1,1 +1,3 @@
-There is only one word that describes this film: BAD!! I have no idea why this movie was even made, or how they got Dennis Hopper to star in this film. Stuart Gordon is a better director than this and Hopper is a much better actor. The film is plain stupid. I did like the "square pigs" idea and there was an interesting love scene involving a cyborg, other than that, avoid this film at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bf99e12df23ccb3ffc9d387d0614fc8e607c4ed74fd85a402170760abade106
+size 398

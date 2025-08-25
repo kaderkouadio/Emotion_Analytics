@@ -1,1 +1,3 @@
-Other than good performances from Juliette Binoche, Sara Forestier and the likable newcomer Tom Riley, this movie doesn't have much to recommend it. Aiming to be a "metaphoric" spy movie about the evils of secrecy and the wounds of childhood, the film fails for having plot devices instead of characters and a sloppy, unconvincing direction, resulting in an overall bore. We are also treated with highly annoying anti-American propaganda. Nick Nolte pops up in the last ten minutes like a poor man's Colonel Kurtz but his appearance comes too late to wake up the movie. For works playing successfully playing with the thriller genre, try some of Paul Austers'books or Wim Wenders'earlier films instead. Skip this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17fc5aec58c9fa4455ba645c84f643111974c4aaf242315e7bccfc79e5c91244
+size 717

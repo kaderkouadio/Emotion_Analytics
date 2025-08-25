@@ -1,1 +1,3 @@
-In my opinion this is the best Oliver Stone flick -- probably more because of Bogosian's influence than anything else. Riviting stuff -- full of dread from the first moment to its dark ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2909cdd777ae3aac1ebd6ee7b928b417c8a0d19033315e2ffa1adbb2cc428d
+size 192

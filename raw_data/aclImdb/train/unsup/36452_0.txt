@@ -1,1 +1,3 @@
-I started watching this series with keen anticipation. By the end of the second episode I was hugely disappointed.<br /><br />Have you ever watched something and felt that it could have been so so much better? There's no doubt that Niel Gaimans story is very imaginative, but this series makes it seem unforgivably cheesy.<br /><br />I'm all for a low budget, so long as some creativity has gone into the use of it. Unfortunately, the combination of disgraceful acting, and boring, DIY, cinematography make this a challenge to sit through.<br /><br />Maybe one day a director with some talent 'll have another crack. Until that day comes, do yourselves a favour and read the book instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:139a96115135ece03de435bf80c7ce450b85f0c16b60dead575f2eb1e4c95f56
+size 688

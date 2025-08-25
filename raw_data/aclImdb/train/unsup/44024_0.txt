@@ -1,1 +1,3 @@
-First, I love Bette Davis. This movie is among the worst she ever made. Bette Davis wonderful at playing modern women, especially outspoken, bitchy or evil women. She showed little talent for playing mealy-mouthed, self-sacrificing women. I think most of her fans will be appalled by this film, especially by the ending, which will leave most modern audiences speechless. Thank God that the following year, Bette co-starred with Henry Fonda in a classic, "Jezebel," and got her career back on track.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03b3278d8f4dcc1f496aaae2ad41b27cc859894ad7303f9c854fa1fbb450ed94
+size 499

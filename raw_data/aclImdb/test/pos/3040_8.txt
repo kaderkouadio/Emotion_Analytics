@@ -1,1 +1,3 @@
-Just watched Conrack for the first time. Although the last third of the movie leaves something to be desired, it is a very touching and heartwarming study of a man's evolution to overcome his youth and upbringing in a prejudiced south and a teacher's creativity in connecting with students despite different backgrounds and difficult circumstances. As an educator, seeing a teacher adapt to his students and prepare them for all of the challenges life has to offer, not just the lessons found in textbooks, is a valuable concept of which we all need to be reminded. The thread concerning the Vietnam war rings true even today. Well worth a look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:420b2c37fb5a264304085a155ba54d44adca05f1c55a940c7ab98d5040eb901d
+size 645

@@ -1,1 +1,3 @@
-Judging by the hype, and other reviews on this site, I was ready for an awesome horror movie focusing on junkies. What i got was complete crap focusing on junkies. I wonder if there's another movie called "Cookers" that these people reviewed? There are only 3 main characters, and none of them struck me as well-written or well-acted. Basically the whole movie I just spent shaking my head and marveling at the stupidity of these drug addicts.<br /><br />Do yourself a favor. Don't rent this movie. Rent "Cabin Fever" or some other decent horror movie. Hell, rent "Mary Poppins"! The animated penguins are scarier and more convincing than anything you'll find in "Cookers."
+version https://git-lfs.github.com/spec/v1
+oid sha256:139c947a685f32783f5b808f1c9a78624486dd72c4042b83e28dabbdf0c4ed9e
+size 673

@@ -1,1 +1,3 @@
-This movie is not only boring, it is also really badly done. The graphics are so bad, they are not even second rate - they are dreadful. The characters do not show any facial expresssions, the voice acting is empty and without any soul, and the plot absolutely lacks .... well... anything and everything. My 5 year old likes it - but thinks it's a bit boring. I agree with him.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb4337fd2255453b9500fff5d812f187874f45e326bb6c840450545cee8182a
+size 377

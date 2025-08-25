@@ -1,1 +1,3 @@
-"Demonic Toys" is a curious mixture of gore and cheesiness - in about equal measures. In fact, this film epitomizes cheesiness: stupid plot, uneven effects, mostly terrible acting (save for leading lady Tracy Scoggins, who is too awesome-looking for her acting to matter anyway), and dialogue laced with lame puns ("You messed up my make-up"!). But the gore is pretty extreme and over-the-top (the dolls rip off huge chunks of flesh from the faces of their victims). It's a bad film, but tolerable IF you're in the right mood.....(*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d427d178f5675c60573345e90e08ffee12b961db58bf9cab3e539af6ac0228
+size 536

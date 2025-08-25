@@ -1,1 +1,3 @@
-This fourth installment had many to think the series was over with the death of Jason, but just wait until the sixth Friday. It sure was fun watching this one and seeing a young Corey Feldman put a temporary end to Jason with good gore, action, and suspense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1ff3ecfdb61fa29cdb4c3d3eb15de3b554a54edddbbcc188cecc99843b869c8
+size 258

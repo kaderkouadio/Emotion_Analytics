@@ -1,1 +1,3 @@
-because they are all dead on. This movie was absolute crap from start to finish. Sometimes when you see a movie you haven't heard of on the video store shelf you find a gem, but not this one. Do not rent this, unless you are curious to see just how bad it is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:018cfea3834a2b6529326a4cd2917b1d53d9241ca2d784589526206dd2d1de2a
+size 259

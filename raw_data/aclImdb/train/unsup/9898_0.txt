@@ -1,1 +1,3 @@
-Unbelievable that a movie like this has been produced in 1999; if it had been from the sixties I wouldn't have been surprised at all. It is full of cliches, it is terrible predictable (I watched it together with a friend and told him exactly who would be killed and in which order by the time they arrived at the lighthouse!) and awful music - completely identical to the kind they used to use in the earliest horror movies I can remember. I really can't think of any reason why someone might want to see this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd2bb12ccf6cc245e4409e607ec16bd8c28311f621cf4e0acb2b9826f942d921
+size 516

@@ -1,1 +1,3 @@
-It's so depressing when film makers try to be cool and it's so obvious here. This has below average acting, laughable dialogue, split screens that are difficult to watch, and many goofs in it's attempt to be a period film and autobiographical. This film should be avoided at all costs. I was told not to go and see this film. I wish I had listened.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f632956c34602f0ee935768e34c4cb4d973a654f03051367ea8c55417a9fd825
+size 348

@@ -1,1 +1,3 @@
-It's a waste of talents for all the three leading actor/actresses involved. Yes, I know it is a Sci-Fi film, but there are still too many holes in the plot. The special effects are rip-off from Hollywood too. I saw the Chinese-dubbed version, and the dialog doesn't turn out too well either. Overall, a movie you can do without.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd1e6438f5e50b3fd33a55179cf54c78cdf74037ccd2add94e8ce1da94c1005
+size 328

@@ -1,1 +1,3 @@
-This movie is one of my all time favorites. im going to go buy the dvd of this. i wont give a summary of this movie, just to tell you to go out and see it. its worth it, and i dont know what that last person was on that commented, but their wrong. THIS MOVING IS AMAZING!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e80a6d752f569d19c8a17a4c1eb280c4c2062e0077a8fdaa850330fef8b647
+size 271

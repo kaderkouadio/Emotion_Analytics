@@ -1,1 +1,3 @@
-Matrix meets Kafka meets Eyes Wide Shut. On a budget. Without the cool. This is a painful film to watch, which unfortunately, I think was the intent. Take away the fact that the film has a very interesting Philip Dick type of premise and some very clever directing (the sound practically carries the movie!) and you are left with cryptic dialogue, shallow (but spooky) characters, kinky sex and an occasional beheading. Good enough for Sundance. But who wants to see this, really?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f8c16330b0b9a4ec533cfc274234daf01f91359202bb6d622849f516a096933
+size 480

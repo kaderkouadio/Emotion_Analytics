@@ -1,1 +1,3 @@
-SPOILERS This is a gripping movie about grifters. But who is conning who here? When does the hunter turn into the prey? This gritty, dark movie is slow moving and seductive. It pulls you in and drags you down the proverbial garden path, only to waylay you just as you think you are safe.<br /><br />It has a riveting script, with good acting (at least from the leads). I didn't notice the background music, but it was never jarring, so it must have been done right.<br /><br />I was very surprised that I liked this movie, because I don't usually go for this genre but this one sucked me in and kept he hooked until the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8ca47ea023f85c27a4a40713cc615b197340527f4c662df55de3a6c271e9511
+size 624

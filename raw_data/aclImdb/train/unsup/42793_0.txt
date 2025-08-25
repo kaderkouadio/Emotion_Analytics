@@ -1,1 +1,3 @@
-Sorry, I dozed off for a minute just *thinking* about this one. Which is hardly surprising, since my girlfriend and I literally dozed off watching the video last night-- and have no desire to try revivifying "Arn" again this evening.<br /><br />There are some commendable production values on display here from time to time, and perhaps these are significantly augmented during in-theatre presentations. But no venue is capable of injecting nuance, breadth or development generally into the opaque characters who march through this thing, most especially the hero.<br /><br />In short, the endless, sententious and overblown "Arn" comes across like an epic dreadfully in need of an attack by the Monty Python company. Otherwise, bring a pillow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b4d30fc8737173e8a1c1040137551f9ee6c1823a9facf091483021c323d4d1
+size 744

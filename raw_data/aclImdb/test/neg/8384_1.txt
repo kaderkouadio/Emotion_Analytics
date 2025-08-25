@@ -1,1 +1,3 @@
-I can't seem to find anything that is good about this miniseries. Why the hell would you ban chocolate when u could ban something far more practical like smoking or alcohol? Also the fact that its an Australian program and its all set in england and everyone is faking british accents is stupid. Overall i think that this show is Unrealistic and cheap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf731ca2ea6180f27509fd61c1ca3b2623cea4674cd3bc592c6ed4774b581782
+size 352

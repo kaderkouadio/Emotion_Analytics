@@ -1,1 +1,3 @@
-I loved the Highlander series. I loved the first Highlander movie. But holy crap, this movie was terrible.<br /><br />It has the acting, effects and plot of a made-for-TV Sci Fi channel movie (oh wait...). Everything about the film stunk of terrible quality. It was actually kind of sad to see Paul and the Highlander franchise in general in so bad of a continuation. Nearly every character mailed it in and sleepwalked through their characters. The rest played so over-the-top that you want to hold your head in your hands and groan. And, once again, the Highlander writers find another half-assed reason to make another movie (the prize in the last movie? no no no, that wasn't the REAL prize, THIS is the real prize.).<br /><br />If you're a Highlander fan, don't even watch this. It butchers that which you love.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35ec3e0754d5ac11e66a02140f89ce1e11e4d48f7239ec5fbb8e10ec0554c7e0
+size 816

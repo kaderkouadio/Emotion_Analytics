@@ -1,1 +1,3 @@
-A better, richer film than when I first viewed it close to 20 years ago. One of Hitchcock's greatest accomplishments (with a terrific Macguffin -- the compass!). And the perfect showcase for Miss Tallulah Bankhead, bitch-goddess of Broadway, who never conquered Hollywood but is forever enshrined in this performance, where's she basically playing the image she herself created -- "Dahhlings" and all -- if not, in fact, playing Herself! An intense delight, Dahhling...
+version https://git-lfs.github.com/spec/v1
+oid sha256:915e48fb07b958b8688289daf363cb32b24190b1505b55ea9c3fe0d49d1ae450
+size 469

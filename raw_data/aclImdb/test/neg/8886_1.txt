@@ -1,1 +1,3 @@
-We rented the movie and it maybe the worst movie ever. The box they had in the video store had a cool looking monster on the cover but in reality the monster was a creature from the black lagoon mask. Awful, awful, awful...you actually might have to rent it it's so bad. It feels like you are watching a bizzare-o home movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fdb35af195ac6fbc47302249f8f9f172218ef3f1efe4c5f9bb881f6c4cf9845
+size 325

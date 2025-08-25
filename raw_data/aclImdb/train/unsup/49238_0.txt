@@ -1,1 +1,3 @@
-This is definitely one of the worst movies I've seen so far this year.<br /><br />Lori Petty = bad movie. I think Lori ruined the movie for me most of all with her whiny voice and annoying mannerisms. Every scene with her made me want to turn the movie off. I think what annoys me most is that she acts the same way in every movie she's in. <br /><br />As a female musician myself, I was disappointed with the music. I didn't feel that it "rocked" at all. So the bad music + Lori Petty = super bad movie.<br /><br />Gina's great, but not even she could save this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76659dd59c298a07e812bfaac5add26e7845c0aa5c39b0cad767bd6466b71dcb
+size 567

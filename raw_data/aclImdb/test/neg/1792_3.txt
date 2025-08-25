@@ -1,1 +1,3 @@
-Aside from the horrendous acting and the ridiculous and ludicrous plot, this movie wasn't too bad. Unfortunately, that doesn't leave much movie not to suck. Do not waste your time on this film, even if you find yourself suffering from insomnia, as I did. Watch an infomercial instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b3bc49e6c977e7c22e44c878a4ed18f8823dd4dd6409c13d75818684b24f6d4
+size 284

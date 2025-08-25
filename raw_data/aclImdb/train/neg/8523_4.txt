@@ -1,1 +1,3 @@
-This was a big disappointment for me. I think this is the worst Mastroianni-movie ever made. Cosmatos tries too hard to make this movie a masterpiece and that makes this movie a typical "art"-movie. I give 4/10 for this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d9612b3b3206e48199ef01218f11a1058c281068974bb57a7528f1bd4ab61e
+size 226

@@ -1,1 +1,3 @@
-I love this movie. I watch this over and over, and every time I watch it, I find a different scene that I missed before. It makes me laugh so hard that I miss some lines. Even now, just thinking of the scenes in Central Park are making me laugh. Every line is funny. This is a very under-rated movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:468c5b80439e6dc313ee341876202e4b71aaa7cd7282c5017c8ae57e538f84bf
+size 300

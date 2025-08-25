@@ -1,1 +1,3 @@
-I missed almost all of the first season, but when the other shows went to reruns, I started watching. I ended up buying the entire first season off iTunes. This is now one of my favorite comedy shows. Patrick Warburton is the key. His dry sense of humor has me rolling all the time. David Spade is funny, but sometimes a little Russell goes a long way. I enjoy the other cast members more (but not saying he doesn't add to the show).<br /><br />Do yourself a favor. If you haven't checked this one out, give it a try. If you can catch the episode where "Jeff" goes to the sperm bank, you will see how good this show is.<br /><br />I hope this series has a long run.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad7b798b8aeb84e3259bbe0370d1a9d3e5265dd7e55cd00c78e3090a2fc71f58
+size 665

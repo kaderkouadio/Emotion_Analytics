@@ -1,1 +1,3 @@
-This was probably one of the better "Ernest" movies in that it moves fast which means it's pretty entertaining without being too stupid, as some of Jim Varney movies were. However, even this you can except a lot of "stupid" but some of that is part of Varney's charm as the lovable "Ernest P. Worrell," a man he made famous first with TV commercials and then with a handful of inane-but- Innocent comedies.<br /><br />This 100-minute film would have much better chopped to 80 or 85 because there are some legitimate laugh-out-loud scenes. Varney does a lot of impressions, some of which are very good. The two nerdy salesmen in here are also funny. As with all the "Ernest" films, there is nothing really offensive in here. Today, this could almost be rated "G."
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7b1818325f6e2fa33fd0bf88e801b2ffbc69acc8fb1c46a0e2d048518c53e31
+size 762

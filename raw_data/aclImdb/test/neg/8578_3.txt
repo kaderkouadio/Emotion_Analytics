@@ -1,1 +1,3 @@
-This movie is very disappointing for one who has read the book. As written by Rafael Sabatini, this was a clean cut tale of piracy in the Caribbean, and it would have made a grand motion . Also, it would have been very simple to make. All the action takes place aboard ship and on a deserted island. Unfortunately, the screen writers took the title from Sabatini then threw the rest of the book away. Even the name of the main character was changed, and his screen personality was completely different from that of the individual described in the novel. It's a sad loss for one who loves a good sea story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1955df4e03066da7712166286bc3e7ee884a08e20c38b3de6e34d8792b2f5d9d
+size 605

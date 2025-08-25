@@ -1,1 +1,3 @@
-The Film must have been shot in a day,there are scenes where you can see the camera reflections and its red pointer,even the scenery's green light that blends with the actors!!!The plot and the lines are really awful without even the slightest inspiration(At least as a thriller genre movie).Everything that got to do with Poe in the movie,has a shallow and childish approach.The film is full of clise and no thrilling.If you want to watch a funny b-movie for a relaxing evening with friends then go for it you will enjoy it (As I Did) but there's no way to take this film seriously!
+version https://git-lfs.github.com/spec/v1
+oid sha256:944bb6c9b4b01d5f7e38a13f1573231e1f7a0e2d524d020730ec10b5dd353f4d
+size 583

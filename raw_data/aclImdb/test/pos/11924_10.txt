@@ -1,1 +1,3 @@
-I have loved this movie since I saw it in the theater in 1991. I was 12 then and Wil Wheaton was my favorite actor and adolescent crush. I am now 23 and I still love this movie. The best part about it is whoever I am dating loves it too because it is a total macho-guy movie! It is wrought with enough action and mayhem to keep men with the shortest attention spans glued to the screen. I only wish that it was available on DVD!
+version https://git-lfs.github.com/spec/v1
+oid sha256:744d3ac2062d49c9590c9cf499bea75a459e1325838c99cccf0bc87bef369abc
+size 428

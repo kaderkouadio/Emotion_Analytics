@@ -1,1 +1,3 @@
-Yet another movie aimed at the 'not for everyone' crowd, This simply fantastic movie about a clown who tries to survive as a tenant in a cannibalistic butcher shop has 'Jeunet et Caro' written all over it. The visuals are awe-inspiring, and the film is contains with numerous scenes where sound and visuals combine to give the viewer a gritty feeling of rhythm within the movie. Beautifully choreographed and staged, well-written, and exciting. Pardon the irrationality of this review, but I get excited even when writing of it. Go see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df98b214f1dde3c141f49663b3cc7537885b8072341fc10b17340d80553d53b4
+size 536

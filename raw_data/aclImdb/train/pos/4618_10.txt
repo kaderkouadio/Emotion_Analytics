@@ -1,1 +1,3 @@
-I really enjoyed this movie.I was fifteen when this movie came out and I could relate. This will be a movie I would show my kids to let them know, the feelings they are having are normal. It is funny to see how we could be so devestated by things at such a young age..who knew that we would bounce back....again and again....Great movie!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d60ff83f7eee34c078cdf5dfb659c15691da274c41c78e900e4b7820a478359e
+size 340

@@ -1,1 +1,3 @@
-Very, very funny film. Steve Martin is probably funnier here than in any of his other roles as small time thief Vinnie Antonelli who gets placed under Witness protection program to testify against some bigger crooks. Rick Moranis also has never been more appealing as the unfortunate agent who handles Vinnie's affairs.<br /><br />Of course, My Blue Heaven is not credible for one moment but it never stops with the jokes which come fast and furiously and work for the most part. The script is superbly written in terms of hilarious dialogue and one quotable line after another. Everyone involved aims at giving it their best, even Joan Cusack is likable here.<br /><br />If you want to switch off your brain for 90 minutes and have a few laughs, I recommend My Blue Heaven. Works for me every time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f332143cac0cb46c98b0a4790bb97e323fb9ba1f4d9e3efd63259eecfa457f61
+size 799

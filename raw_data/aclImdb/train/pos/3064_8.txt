@@ -1,1 +1,3 @@
-The extended nuclear family, united in business as well as in personal life, is examined in this serious study of a grown son's conflict with his father's desire that he remain in the family business. This triggers a midlife crisis which may or may not be ameliorated by an affair and retreat to a shrink's couch. Very fine acting by all. A sleeper that deserves wide attention.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dbfbf4c2d9f5cc22db001350118708695564106995ab678f2900c2b595115e6
+size 378

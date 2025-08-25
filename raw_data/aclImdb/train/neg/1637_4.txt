@@ -1,1 +1,3 @@
-Bad acting. Bad writing. This was a poorly written film. It's too bad because it had some potential. It's not even close to American Pie or Something about Mary as previous comments might have you believe. Rent it at dollar night from you local video store if you're kind of bored.
+version https://git-lfs.github.com/spec/v1
+oid sha256:155fd1107ae38a101a8e9bfe0bc81adc4c4d9d4ea53594549d450fc1b8d8579f
+size 281

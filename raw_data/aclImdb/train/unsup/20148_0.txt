@@ -1,1 +1,3 @@
-I saw this as a special showing in Memphis, TN. I know the owner of the publishing company and therefore have read this book many times and have recommended it to countless people. This movie was exceptional.<br /><br />Abigail Breslin was just as charming and entertaining as "Little Miss Sunshine" and Drew Fuller did an an amazing job making you believe he truly went through this inspiring story. I left the theatre choked up and feeling warm and relishing in the emotions the movie took me through.<br /><br />I plan on taking everyone I know to see this when it comes out in March.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2669260424297592febb7a87db48b5465ffd2a8e596a762d3ef2c8005c58ce78
+size 587

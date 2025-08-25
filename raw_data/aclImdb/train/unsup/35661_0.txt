@@ -1,1 +1,3 @@
-This movie was unbelievably boring! Talk, talk, talk, and the most action involved vomiting into other people's mouths. The only redeeming factor was Alice Cooper as a street schizo. Unfortunately, his screen time added up to about 3 minutes. The rest of this film should get used to collecting dust on video store shelves across the country. John Carpenter must have been going through some kind of bad patch to have done a film this insipid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:829b4a82ae980d23cdb621d4eab0a0304706cc1b4639892508c091453a740e81
+size 443

@@ -1,1 +1,3 @@
-This movie is excellent if you want to see a Stealth Fighter take off from different angles, and if you get a kick out of watching F-16's rear. Otherwise, stay away. The script is bad, the acting is bad, the directing is bad, and the improbability level is soaring. Only plus in the margin is to Bok Yun Chon for being beautiful and to Marcus Aurelius (i think...) for being partially funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:deeaa513e1983763466d87bc315e95337ea50fb8bd69d98a39760ea5bb365214
+size 391

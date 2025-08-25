@@ -1,1 +1,3 @@
-The european video version of this film sucks. It boosts pathetic dubbing, and claims to be an "uncensored version" featuring "scenes never showed before", but I doubt this is true. For the film: it's incredibly dumb, has a very ugly production value, bad acting and has such an intense pace that you feel it could end any moment. And if it did, you couldn't give a **** about it. If you must watch it, fast-forward it to the cool scene in which a woman is transformed from an elevator into a motorcycle...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0944aaa223e30ddfb1cbb360bfa20c88f8fc0c9e8875364b3ac62a85fb4ace0
+size 506

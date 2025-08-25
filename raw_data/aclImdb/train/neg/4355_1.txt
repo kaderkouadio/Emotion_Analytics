@@ -1,1 +1,3 @@
-Horrible. I see many user comments on how great this show is. It truly is a Wanna-Be-Friends - Made in Taiwan knockoff. The jokes are lame as...and the plot is ridiculous. The actors are obviously struggling to be funny and are probably cringing when they hit those awful punchlines (if you can call them that). The bulk of the other users who have commented are obviously from another planet (or at least another continent). There are obviously reasons that TV companies cancel shows...and none of then are when shows are doing well. Make sense? Anyway, steer clear - even if it is raining and there is absolutely nothing else on this planet to do...go stand in the rain instead - more fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e7f3763c53edb7501f96e44ac78a82ecc1b884cee1b911ed4fad26698b3595
+size 691

@@ -1,1 +1,3 @@
-Wow, this movie is bad. Think "Flashdance" with ninjas. The worst part is when a sword is supposed to be floating in midair, but you can see the strings. Or maybe the worst part is the gigantic eye patch (that looks like a coaster) that the good ninja wears. Actually, there are so many bad parts, I can't make up my mind which is the worst. I can't believe anyone actually put up the money to have this thing made. The only redeeming value is that it is good to laugh at.
+version https://git-lfs.github.com/spec/v1
+oid sha256:851f65744f5947dd72dcd81d51cffcb7c598c96b5e250452c22f49cf699b60dd
+size 472

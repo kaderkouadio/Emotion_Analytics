@@ -1,1 +1,3 @@
-"French Cancan" is one of my favorite all time movies. It's an excellent film. There's color, there's humor, there's music. It's a very good portrait of the so called Belle Époque, though Jean Renoir's priorities were always to show a creation, a fantasie. So the film isn't a historical movie. The final sequences in which the girls dance cancan are unforgettable images. It's a film you shouldn't miss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f42abedce7639a777edcada94e471dc23a4ded7ea0f71f74f65264eeb17e4c9
+size 405

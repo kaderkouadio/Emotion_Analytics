@@ -1,1 +1,3 @@
-I went to see this film based on the review by Siskel and Ebert; not only did I get duped, but I took some friends along, and had to spend the rest of the day profusely apologizing for making them sit through this pointless crap. After this, I never went to see a movie based solely on Siskel & Ebert's advice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dde7ef7b950b3b2a7e89740ed2a57a1f83890e7a82475f8dd2b2b3bab2fc199
+size 310

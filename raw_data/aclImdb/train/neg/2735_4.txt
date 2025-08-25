@@ -1,1 +1,3 @@
-I thought it was not the best re-cap episode I've every seen (though my viewing partner handed me a tissue in anticipation of the Brendan Fraser moment...*sigh*). It was nice to see Cox outside of the incessantly brittle "Coxism State" he is in these days, if only for brief moments. I also enjoyed trying to place the episodes included by the length of the character's hair (or height, in case of JD) and the youthfulness of the earliest episodes. I can also see how Zach might be well on the way to a very Chevy Chase/or is that Matthew Perry? prat-fall induced chemical slide (already acknowledged on Conan). A little side note, the song (now stuck in my head) from the janitor-induced dance montage was "Diner" by Martin Sexton.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0a64ad05a36662af36b053b1d88fda12abf81c1060165b074dfb670e83ff070
+size 732

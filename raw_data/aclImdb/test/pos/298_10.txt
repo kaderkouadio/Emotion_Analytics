@@ -1,1 +1,3 @@
-This movie is a must see for any war movie buff. One of the greatest movies of all time and loaded with great quotes such as:<br /><br />Kilgore: If I say its safe to surf this beach Captain, then its safe to surf this beach!<br /><br />Kilgore: Smell that? You smell that? Lance: What? Kilgore: Napalm, son. Nothing in the world smells like that. Kilgore: I love the smell of napalm in the morning. You know, one time we had a hill bombed, for 12 hours. When it was all over, I walked up. We didn't find one of 'em, not one stinkin' dink body. The smell, you know that gasoline smell, the whole hill. Smelled like... victory. Someday this war's gonna end...
+version https://git-lfs.github.com/spec/v1
+oid sha256:e10c9611b45f286f65eeab23245c66a523a23b572c634ef3c5bd509d0be8ad30
+size 658

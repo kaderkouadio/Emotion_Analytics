@@ -1,1 +1,3 @@
-i bought this in the budget department last week. i had halloween and halloween II already, and since i aim to collect every horror film ever, i chose this. after all, the 1st two were good.<br /><br />this film is pretty intelligent to tell the truth. it seems to create the correct atmosphere, and has a nice "history of michael myers". it uses the old locations from the original, and the main character is the kid whom laurie strode babysat that fateful halloween in 1978...<br /><br />the climax also is fairly satisfying. anyways, it is A LOT better than H20, which frankly, is absolute crap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce598cffbcbddde567d4eff9b98632eb5ce1ce896f3abe27c63e0f823b632c88
+size 598

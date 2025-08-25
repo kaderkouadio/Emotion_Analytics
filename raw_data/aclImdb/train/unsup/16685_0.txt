@@ -1,1 +1,3 @@
-This is one if my favorite movies of all time. It is best seen right after Casablanca; I like to watch the two back-to-back to get the full effect. I laugh out loud throughout the movie, as I see myself portrayed so well in Allen's character. The movie is a must for any slightly-geeky single man or anyone who enjoyed Casablanca. I think of this as the story of a lovelorn geek on a quest for love, guided by his faith in Bogart. The cast is astounding; along with Allen's performance, Diane Keaton added a good amount of reality, sensitivity, and humor. Her character is quite believable. Tony Roberts is hilarious; his deadpan delivery of all the phone number lines prevents the joke from getting old even on multiple viewings.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cdaae2d1619a17a3d75dc963ac2045fa50c564377c7c91a0e8dae5125af8b3c
+size 730

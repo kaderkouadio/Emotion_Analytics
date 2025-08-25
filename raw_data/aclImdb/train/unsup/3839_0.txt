@@ -1,1 +1,3 @@
-I gave this movie 7 out of ten stars, only because of the performance of Lawless. The script wasn't the best to work with, but she is a professional, and managed to pull it off quite well.<br /><br />Still, if your not a fan of Lawless, you'll probably not appreciate this movie. (Like I say, not the best script. But does anyone have any business expecting much from a made-for-TV movie?) <br /><br />The first reviewer actually said that Hollywood needs to adopt a Xenaphobic(!) policy. As an adult, I know the difference between an actress and the character she portrays. It is unfortunate that some of the others who claim to be adults while reviewing work on this site do not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:009ef52ec51cedb58dec87666431f639cfd0815f99f5cef18d042e9379516d4f
+size 681

@@ -1,1 +1,3 @@
-This is a lo-budge movie that works, with some great action moments, quite good casting and some comedy, too. The DVD director's commentary explained why the opening sequence doesn't quite "match" the rest of the piece, but by then you're into it and don't care. A very entertaining watch... the only annoying thing is that Mirjana Jokic is way more woman than Natasha Henstridge could ever hope to be. The on-location shooting gives the picture its look and much of its tone and style. Would have been interesting to see it in a cinema on a big screen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:134488a6ebb8ba4c17c1aece940db1bb710c4393ff2f6a0277ccb90d8adc5c98
+size 553

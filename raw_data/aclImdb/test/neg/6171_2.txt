@@ -1,1 +1,3 @@
-I am so disappointed in this movie I can't express it. I was so excited when I started watching this film to see Mickey Rourke all leather faced and that kid from Third Rock From The Sun acting like I psycho. I thought, wow, this is going to be a winner, freakin' Natural Born Killers style. And it got better. The production value was great, the directing was great, the acting was great, the cinematography was great, and the plot was, well, the plot, well, what WHAT PLOT? About half way through this film I was pulling my hair out yelling "What the hell is going on?" and I mean that quite literally? Nothing makes any sense whatsoever. Nothing. Nothing. Nothing. Aaaaaaahhhhhhggg!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a9be2c5d6bbb9553c24b508b3604cbb5d4252f23baab1b1f8e13d26c448c9c
+size 688

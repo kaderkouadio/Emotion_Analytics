@@ -1,1 +1,3 @@
-Ignoring Rocky 3, this is easily Hulk Hogan's best film, and it still rates as one of the worst films ever. Hulk Hogan essentially plays Hulk Hogan, bringing his wrestling buddies in for a film, with all the cliches to go along with it - the crooked promoter, the unstoppable monster, the injured kid, the sexy woman and... "dookie".
+version https://git-lfs.github.com/spec/v1
+oid sha256:806e35102b048f29ee8bbd710547c35f86be8e9c48be310521f538d65a44b0f6
+size 333

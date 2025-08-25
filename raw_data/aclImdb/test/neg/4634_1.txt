@@ -1,1 +1,3 @@
-I saw this movie and was bored out of my mind! I am a fan of Peanuts, but I can't understand why Charles Schultz let this disaster be made! Spoilers ahead.<br /><br />I can't believe Snoopy would let his friends sleep on the ground outside in a dangerous situation and go out to a bar and swig a few cold ones without standing watch! The story was complete nonsense, even for comic strip characters. It takes them toooo long to get to France, plus once they get to France I had a feeling that the writer (I still can't believe it was Schultz) didn't know what to do once they got there.<br /><br />Peanuts is best made in 30 minute episodes, not 80 minute movies.<br /><br />Go home Charlie Brown, you are at your best there.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:0293138dcfb3a40bf2ebdb9c750cf40c9a97b47b7d64f1da0b10cfd0b913045c
+size 737

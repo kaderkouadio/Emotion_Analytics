@@ -1,1 +1,3 @@
-its not scary, but a movie with no head and tail. It has weird stories in it. imagine people eating apples and becoming apples after that. how funny. i couldn't stop laughing at the whole idea. its not even a comedy. is scary at times, specially towards the end, but the end is meaningless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c22f1a7dd106519609cdab070d33be525ace8dde914be35003bf96bd08a0432
+size 290

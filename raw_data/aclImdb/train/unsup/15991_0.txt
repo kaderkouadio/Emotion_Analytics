@@ -1,1 +1,3 @@
-This is one of the great Indian movie I've ever seen .The director of this stands up to the international level with his screenplay, visualizations dialogues etc .it can be called as one of the greatest romantic movies of all time . iam sure that this director will go places and reach heights in his future . <br /><br />Director of this movie has a great music knowledge to select such beautiful songs and background score . the screenplay in this movie is so interestingly played and written by the director himself like a rollercoster ride which made me sit in the tip of the chair as the movie progress. that is because of the sheer knowledge of the director.. looking forward for the next creation of this great director
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec3e4d893075ef4757c3cb40466fd911dc66a2fbfc65c0f43df77a81178ebeb5
+size 726

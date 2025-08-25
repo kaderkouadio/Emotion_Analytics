@@ -1,1 +1,3 @@
-Trance, a vague, though good movie. It isn't so that the more you see it the less vague it becomes. I really recommend watching the movie at least 2 times. Too bad Christopher Walken didn't get a role spreading out on a bigger part of the movie. If they should have had more budget? I think not for two reasons: 1) From time to time we just NEED a vague movie, and 2) If they wanted it to become better, then try to find alternatives. Take Terminator(1) for example, a low budget production, big hit, nice effects. For details concerning this, watch the extras with the T1 DVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87d46ce55be58209c4e2cca31db5f809f87bf883d13bf657015742a1d04e48c1
+size 577

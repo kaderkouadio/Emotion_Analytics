@@ -1,1 +1,3 @@
-This movie was way too slow and predictable.I wish i could say more but i can't.If you enjoy action/adventure films,this is not one to see.I'd suggest you go see movies like;Behind Enemy Lines with Owen Wilson and Iron Eagle with Louis Gossett Jr.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d0ea78ad29a976614afcfca3145c3d459dfe922398cd874eda57bdb7963dc52
+size 247

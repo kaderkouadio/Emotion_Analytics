@@ -1,1 +1,3 @@
-Maybe I've seen one too many crime flick, or maybe I don't take the right drugs.<br /><br />This was the most cliché ridden, plot deficient, plot-absurd, just plain stupid movie I have seen in a long time.<br /><br />As for the direction, it looks like it took less time to show this than it did to put it together.<br /><br />In fact it looks like to made it straight to video before it was completed.<br /><br />It's a bad rip off of "M" the classic Fritz Lang film starring Peter Lorre. You'd be SO much better off renting that instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50bf45cbd6c8b7596138b7af57e622b0cbe2f20cef016aeedd559735c7015356
+size 540

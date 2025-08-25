@@ -1,1 +1,3 @@
-The Sea Is Watching has been made from an original Akira Kurosawa script, and it is indeed a lush and warm film. Watching it will be a pleasure !<br /><br />Kei Kumai as director is certainly no equal to the old but everlasting master (particularly the mass scenes in the beginning of the film has some terrible acting), but the overall mood and scenery is very enjoyable. Another thing that is missed here: Kurosawa always managed to let the characters be so much more then what they are actually showing and doing.<br /><br />Probably that was his magic on set while shooting; and just maybe this script was not fully up to par yet.<br /><br />Maybe we just miss the eye of the master.<br /><br />This is one lovely and sweet film, but it is no Kurosawa. To expect that might well be very silly...
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7ea3bb3c08b4e810c34960d8f95545f132fb8064a5d05c55fc262e544496ef4
+size 799

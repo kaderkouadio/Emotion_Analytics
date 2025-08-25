@@ -1,1 +1,3 @@
-Having spent some time in Russia from 1973 to 1995, I was relieved to find that the details of the everyday life in the Soviet Union presented in the film mostly counteracted the stereotypic quality of the harsh interrogator. I found the scenes of the interaction among the inhabitants living in the communal apartment to ring the truest. The ability of the Russians to suffer and celebrate at the kitchen table also seemed humanly authentic and prepared me to accept the Dr. Zhivago story line. I found myself questioning if I or my wife would give up the comfortable life the family had found at the end for the freedom of one of us separating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c05903b4daf6649f535e5cd92e41feeedbba9622e88caa999307051de1404dac
+size 646

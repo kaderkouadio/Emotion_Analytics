@@ -1,1 +1,3 @@
-This movie walks you straight into the heart of India with its high family values and wonderful way of creating something functional out of anything available. It wraps its arms around the culture and lets you enter risk free as you experience the comedic elements of being immersed in the unfamiliar and the genius of creativity. If this does not receive wider distribution especially in the US then someone is seriously asleep at the wheel. Beyond application to corporate, what the world needs now is people who can shift perspective in a nanosecond and change world views so that the assumptions are smoked out. This movie helps develop the capacity to see the world through a different lens. Buy it-watch it-laugh and learn. Congrats to the whole production team for using Indian talent making this even more respectfully done!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e068c41bdcda9d561e905c1da2b8b5078951fb12483f21f3ebcce80aebc28aad
+size 832

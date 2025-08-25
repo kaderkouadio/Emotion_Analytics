@@ -1,1 +1,3 @@
-It would be nice to see once a Hindi movie that is not taken off from American Movies. I found Kangana's character very similar to Gia. In Gia, Gia is an international famous model whose life spirals downwards due to heroine addiction and dies due to AIDS. With Kangana her character Sana has a mental problem that it costs her her life and her boyfriend played by Shiny to take care of (Gia had her mother for those who don't know). Throw in a twist of the imaginary person and her perception that the world is trying to get her and you add in Gia with Beautiful Mind. If you tried to fool us thinking this was an original idea....you didn't. Comeon, come up with a movie that is original....can Bollywood do that on a consistent basis..?? So far, I think not! I give it 3/10 for lack of creativity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f76f540c5498cad6509ae7a0636fa7d8c88868baf3b0f942a7dda872826f6f80
+size 800

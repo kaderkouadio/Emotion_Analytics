@@ -1,1 +1,3 @@
-Great movie! oh yeah! Full of energy, full of fun, presenting our generation, our alienation: a hymn to positive thinking despite this world we live in, a tale of a great party, a tale of a bunch of friends who desperately must do something in a week end and the only thing to do is The Club. But fun and extasy keep boredom away! Very funny, nicely grotesque in a few points, nicely shot... and great soundtrack!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed69ef61aae55a0cda22ce1567ce0703d7f6da0b8941eb1b6a52e65f2ed0144
+size 413

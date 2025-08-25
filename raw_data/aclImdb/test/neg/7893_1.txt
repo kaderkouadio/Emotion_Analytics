@@ -1,1 +1,3 @@
-I'll be honest-- the pimped out purple plane with Snoop Dogg at the helm is an amusing visual gag. It would have been a decent concept for a 30 second commercial, or maybe a 3 minute music video. But the producers have committed the age-old concept comedy sin of stretching 30 seconds of material into an hour and a half of film, and the results are predictably lame. The remainder of the 89 minutes are filled with the typical gamut of racist and sexist humor and fart jokes, offensive and-- worst of all-- painfully unfunny. The threadbare plot screams under the weight of its contrivances. Best to be avoided unless you are drunk or stoned.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57a785c7f511ff65cab23a9266583c119cacf992f260a6b59ffbb3f938b953f
+size 643

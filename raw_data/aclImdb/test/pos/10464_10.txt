@@ -1,1 +1,3 @@
-This movie embodies the soul of modern "elite" foodculture, even though the movie is 17 years old. The standing principle in the movie is: Food is more than just nourishing matter. It is also a powerful symbol and a medium for culture itself. The main characters literally get drunk on the finest wine and food, become inspired by idealistic thoughts and culture, as they let go of their puritanism and passion-denying table manners. Karen Blixens shortstory makes use of the difference between North Europe and South Europe, to point out their inherently different approaches to food. As the strict and and rather dull scandinavians get infused with "Eros" from south, the party gets going. So what are you waiting for? Go watch it.....again!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e278567f4e845f6cacf63aa457db0e606f9271c14e116c976b17222d6c664f84
+size 743

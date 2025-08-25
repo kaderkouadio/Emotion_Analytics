@@ -1,1 +1,3 @@
-I still find it hard to believe that a fine - if overlong - novel by Dean Koontz was transformed into this utter excrement.<br /><br />This movie is so bad it's disgusting. Boos to all who participated. Shame on you!<br /><br />P.S. The fact that sequels have appeared just goes to show how little taste and discretion remains in Silver Screen Land.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f896dd8acfe0ff35d639a7a2dd7210d15094ced450f9110394b228043d7a4722
+size 349

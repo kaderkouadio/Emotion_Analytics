@@ -1,1 +1,3 @@
-Don't have much to say. Most movies I like I tend to not to try and break down. If you like dragons, darker themes and that isolation feel (like in Waterworld) and you like to think to yourself "that is the most fuel efficient helicopter" (you'll know what I mean when you see it) go then, see it. ;)<br /><br />I gave it an 8 for the original story. Things could have been better handled, but being the genre that it was, I think it got the entire plot off pretty well. I'm buying this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fde854906f39a193ffecce88e540d6c99e4d8357b627cb9877b3d24fad99740
+size 491

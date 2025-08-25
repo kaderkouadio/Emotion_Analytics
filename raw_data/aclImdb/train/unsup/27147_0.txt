@@ -1,1 +1,3 @@
-This film is the first sound picture filmed entirely on location, with good plot, and great action by the dogs that actually DO their stuff the way they were bred to do. I saw this film over five years ago, and can't seem to find it anywhere, either playing or on tape. I Highly recommend it to all families with any breed of dog in their homes. It's "breed specific" but that is just what it's about. Hope you can find a copy and enjoy it as much as I did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6f8ac3dabde274b06b0068c84def1c24263a459fdb3b7fdc58abf7defb416de
+size 457

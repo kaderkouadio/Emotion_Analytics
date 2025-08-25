@@ -1,1 +1,3 @@
-This very forced attempt to fuse Robert Altman and Quentin Tarantino (who is wildly overrated himself) is neither informative nor entertaining. The character development is arbitrary and unbelievable -- especially in the final scene of the thugs and the little boy, as other reviewers have noted. Also, a couple of humorous moments aside, the film is not as funny (black humor or otherwise) as the director seems to think it is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59bb1856c94ef6428efbce713ab408cb23534545b8f7f7e4c52232d1c5dbc8df
+size 428

@@ -1,1 +1,3 @@
-Why is this movie ranked so poorly on IMDB? I just saw it at the Hawaii Film Festival, where it was sold out, and it is such a good film. If you're going to post a negative, please explain why. There has to be a reason this film has been not only invited to show at festivals across the country, but that it has also been winning awards at several of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88a5dfa668c172ca658ff769ce0f4ca540b9321a0debc6d118cc58085e50ef62
+size 356

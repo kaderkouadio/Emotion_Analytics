@@ -1,1 +1,3 @@
-<br /><br />Get your brewskies out and enjoy this flawed action flick. Speakman's considerable kempo skill (nice spin kicks, decent with the sticks - poor couch!) is the only redeeming quality of a movie that just cries bad acting. The plot isn't half bad; just executed pretty poorly. But if you're seeing this movie for anything other than martial arts, you're missing the boat entirely. And for a movie that is supposed to take place in Koreatown, way way too few Korean actors (even extras).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4eeb1eb3542631515ad08305715eb1e6420ad1b6242aed1726906c6f9e13f5f
+size 495

@@ -1,1 +1,3 @@
-Bored Londoners Henry Kendall and Joan Barry (as Fred and Emily Hill) receive an advance on an inheritance. They use the money go traveling. Their lives become more exciting as they begin relationships with exotic Betty Amann (for Mr. Kendall) and lonely Percy Marmont (for Ms. Barry). But, they remain as boring as they were before. Arguably bored director Alfred Hitchcock tries to liven up the well-titled (as quoted in the film, from Shakespeare's "The Tempest") "Rich and Strange" by ordering up some camera trickery. An opening homage to King Vidor's "The Crowd" is the highlight. The low point may be the couple dining on Chinese prepared cat.<br /><br />*** Rich and Strange (12/10/31) Alfred Hitchcock ~ Henry Kendall, Joan Barry, Percy Marmont, Elsie Randolph
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f8a9cfc5734fb165f58e05a2c2f0ab258c48176e7e9a25454fa915c16fc1e7d
+size 769

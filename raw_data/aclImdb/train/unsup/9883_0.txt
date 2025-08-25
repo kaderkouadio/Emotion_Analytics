@@ -1,1 +1,3 @@
-This film is quite disappointing, especially considering the big names in its cast. Paltrow is good as always, and Lange is convincing too. But the weakest part is the plot. It lacks any coherence and cannot really convince, even if you watch the film without too much attention (like I did). **Warning: major SPOILERS ahead!** The end is the worst: Jackson got very close to his mother - then one morning Helen tells him she tried to kill her, and he immediately believes her, changes his mind and decides to leave. Even worse: having found out that the woman is a deranged murderer who already killed her husband, they just leave her there without doing anything about it (what about calling the police!?), and go on to leave happily ever after. I give it 4 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9622efedbf196dfdfbbb654a1d04d2cc7af26aeb8afb8810fe93a098b49d5161
+size 770

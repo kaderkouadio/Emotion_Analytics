@@ -1,1 +1,3 @@
-I'm shocked! The American film-goer loves a good romantic comedy and this one's perfect. George Segal and Barbara Streisand shine together in this "Odd Couple" meets "Bringing Up Baby" production. Belly-laugh funny throughout, this film succeeds in convincing the viewer to root for this couple to find love, instead of the fame and fortune they think they want. I give it a ten in spite of the lame soundtrack provided by Blood, Sweat and Tears. Fortunately, the music plays a completely insignificant role. If you like romantic comedy, you'll love this sleeper. Enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2365c8066c73e27bf03a62dd060d13880f7e551bba09ae1627a37d1c6ee4291c
+size 570

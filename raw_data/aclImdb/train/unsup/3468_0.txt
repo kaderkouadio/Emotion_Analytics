@@ -1,1 +1,3 @@
-What a great collection of a great band, but you have to FF through anything Gary Cherone is on, it's just a terrible era that so many of us true fans wish would have never happened. If you can get your hands on a used copy, I'd recommend it, certainly not worth the retail price they ask for in stores.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f4f6646d72060b748aa86f8038bbe1d00a66c4ac5551569e328f9b90ee1d64d
+size 303

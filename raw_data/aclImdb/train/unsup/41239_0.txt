@@ -1,1 +1,3 @@
-Usually any reality show or documentary that shows you an inside view of some part of the culture is at least interesting. Mix in a little of the entertainment business and you have a sure winner, right? <br /><br />Wrong. This show is just garbage. Although some of the kids are genuinely talented, that is really beside the point. This show fails to provide any insights into why these people act like this, and what effect it has on the children. <br /><br />It also looks very cheap, more like home movies than a TV show. I would give this a lower rating, but it is a good subject. I don't know how they managed to mangle it up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f7e05df446a934b6f9cf36029d9cb26355d5b996c6e5c4b179970965ce13c05
+size 632

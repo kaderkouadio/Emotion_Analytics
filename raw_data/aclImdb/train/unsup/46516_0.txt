@@ -1,1 +1,3 @@
-Let me start by saying I have never had the urge to make a comment on IMDb yet - not for a great movie, and certainly not for a bad one. But this movie was so horrible I HAD to warn people.<br /><br />I thought Pauly Shore was reasonably funny until this. Half of this movie isn't even trying to be humorous. It's Pauly Shore's desperate attempt at saving his career.<br /><br />Yes there are tons of celebrity "cameos", but they are all so short, and I'd say maybe two of them are slightly funny. This movie plays as if it was written and directed by a no-talent former MTV "VJ". And it is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf7a1db36534012d7a8ee77827832e0bc29bdc17f0e20ff2cd2d1d6a16ea4c86
+size 591

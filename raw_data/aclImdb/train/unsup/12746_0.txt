@@ -1,1 +1,3 @@
-I am a Language Arts Teacher and I use this movie to go along with my folktale unit. In the literature book that I use there is a story called Sealskin, Soulskin, which is an Eskimo story about the selkies and so after we read that story we watch "The Secret of Roan Inish". It shows the Irish side of the selkie story. It is a great closing activity for this unit.<br /><br />I would recommend this movie to any seventh grade Language Arts teacher who uses the Holt, Reinhart Elements of Literature book. It really goes along with the folktale unit. I hope you can get as much enjoyment from this movie as I and my classes have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09391464b4fd8e9afc343b4ebc69f216df3e5336ddb43cc8ffab93df14812f07
+size 629

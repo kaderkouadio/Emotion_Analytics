@@ -1,1 +1,3 @@
-Damn, I thought I'd seen some bad westerns. Can't top this one though. Hell I think I'd rather have my eyes stapled open for a Trinity Triple Feature for cryin out loud. I dont think I'll be able to watch Ben Hur again without laughing my ass off. Just really bad.<br /><br />But hey, if you like stupid westerns with acknowledged stars in the thing take a peek at Shoot Out with Gregory Peck. It's just as bad, but much funnier. 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bca47121ac47ef12ead2a8353733a46e6ab3bf6fa03d6c5437055465cbfe88a
+size 434

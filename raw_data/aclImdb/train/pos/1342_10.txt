@@ -1,1 +1,3 @@
-An enthralling, wonderful look at the films that inspired the excellent Martin Scorsese. Many of the films he speaks of are easy to relate to his works, particularly the earlier ones, the silent era. Very enjoyable despite being a bit long, I found this to be one of the best documentaries on film yet. Required viewing if you admire Martin Scorsese and his work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5176857bf215715997f8b45c7a6e4f656a628b2c2137a78dd34f6d6137f5dc9c
+size 363

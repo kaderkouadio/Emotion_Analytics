@@ -1,1 +1,3 @@
-This movie is based on brazilian best-seller by Drauzio Varella and was directed by Babenco, both excellent. Probably will be indicated for the Oscar, correcting the mistake made with CITY OF GOD, the best brazilian movie until now. It is impossible not to compare both movies. The violence is more real in this one, the corruption of police, the dirty facilities. The prison no longer exists but the murders that happened there will never be forgotten. In spite of 2 1/2 hours, you don't feel the time passing, because the cast and the directing are perfect.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6afc2a6cbb3309c099395160983e5f3d6831a08f3a7ac6a4b56b0bf198d52e
+size 559

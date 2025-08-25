@@ -1,1 +1,3 @@
-The movie was watchable while Nicolson was on the screen. However, I had to fight against passing out from boredom when the film depended on Meryl Streep to carry scenes without Jack; she was as bland as could be. The relationship between the characters was nothing special; these characters have been portrayed before -- and much better. It felt like a based-on-real-life scenario in the absolute worst sense: 90% of daily life is boring, and not worth writing about or watching. Why Ephron felt her life and relationship with Carl Bernstein was interesting enough to write about escapes me. Perhaps she wrote it as therapy -- for many writers, putting an episode from their life on paper is cathartic. Fine: but then why anyone in Hollywood felt this story was worth filming remains a mystery to me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccee5fb9a57399fa2489bbcf2b17e4321a352191556693d0d7c3de576d1f3256
+size 801

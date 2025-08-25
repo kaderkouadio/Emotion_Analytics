@@ -1,1 +1,3 @@
-One woman, by herself in a house for 45-minutes of screen time, doesn't sound like a formula to hold you on the edge-of-your-seat... but FUTURE SHOCK is truly as thrilling as they come! Writer / star Vivian Schilling takes on those little fears we all suppress, and enlarges them to terrifying proportions, so don't watch this film alone!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84ac6eb2861cc93ca8d1c2a13fadbdccb58cb337f9d7ce1bb8ffd318c3d61b1
+size 338

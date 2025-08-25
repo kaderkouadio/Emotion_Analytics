@@ -1,1 +1,3 @@
-More TV movies ought to be made like this one. I saw it way back in '93 when it was first on TV. Helen Hunt and Steven Weber were both terrific, giving very gritty and realistic performances. Weber was especially good, turning in an exceptionally creepy and understated performance as the child molester/killer. This film really increased my respect for Hunt as an actress. The director also directed "Hoosiers," which was somehow both formulaic and exciting. But the direction in both of these works has the same stark, simple realism that is so appealing. If you like TV movies that aren't predictable and filled with overacting, see it if you can. The side story about Hunt and Fahey's affair is also appealing without detracting from the main story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d140b3483992cf2535d5f0c8540bbd0525ec33144c0e9acefc84a0eae337823a
+size 753

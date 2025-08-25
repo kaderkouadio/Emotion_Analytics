@@ -1,1 +1,3 @@
-I was astonished to learn that this mess of a movie was the 11th film Gillian Armstrong directed. Everything about it is clumsy and hackneyed; it feels like a just-graduated-from-film-school offering from a bright (but ADHD afflicted) young woman. Actress Jo Kennedy is asked to carry the audience through 95 minutes of utter nonsense and, bless her heart, she does. The only other memorable performance is by Pat Evison as the psychic grandma (of course, these psychic abilities are mentioned early on and then just dropped). Of course, this is a musical and I must admit that the pop tunes sprinkled throughout are enjoyable--and instantly forgettable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea3fc68b1fa0741a6c5ee327414debcf5826f4acf8d0b4caa01a3f53f7c9093
+size 654

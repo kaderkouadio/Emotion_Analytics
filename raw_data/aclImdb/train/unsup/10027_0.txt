@@ -1,1 +1,3 @@
-A great great biopic of Ruth Etting and Martin, the "Gimp" Snyder. Day is in great singing form and also holds her own as an actress. Her rendition of the title song is tremendous. Was there ever a better actor than Cagney? Did he ever make a bad film? His style will live forever. When you think of the films he made- White Heat, Yankee Doodle Dandy, Man of a Thousand Faces, and Love Me or Leave Me - I mean, who can compare? Joe Pesci is in some respects a good successor- as a little tough guy. But Cagney is great in all kinds of films- not just gangster films. And he could dance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7660762eccee9e2999a346eba9f859b20a3f951167e8281961925fbe26d8a30b
+size 586

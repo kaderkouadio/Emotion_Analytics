@@ -1,1 +1,3 @@
-Obviously, someone at the writer's den couldn't think of any more ideas so they decided to steal Executive Decision. It's the same story and same EXACT plot. Plane gets hijacked, there's a bomb, a team goes in by via plane hook-up, some made it, gotta disarm bomb, and whee!! All the heroes make it. They even copied the salute in the end when the hero and soldiers saluted. Whoo, boy. Someone ought to smack the writers around for copying.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9147714d7ffe472fe42eaae2896ac77e4844fb03099dbfe2f65b21ce7cb9b59
+size 440

@@ -1,1 +1,3 @@
-This isn't as good of a film as Boys Town, but then most sequels don't live up to the original. Mickey Rooney gives a refreshingly toned-down portrayal of an older, more mature Whitey Marsh, and of course Spencer Tracy fits right back into the role of Father Flanagan. A bit idealistic and old-fashioned, but perhaps that is exactly what draws me to films like these? Any fan of classic movies, Spencer Tracy, Mickey Rooney, or all of the above will have a nice time watching this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:835758c98ed6929bd150886a6ad05c8d8426ae822fdcdcb19921104c30d10b18
+size 487

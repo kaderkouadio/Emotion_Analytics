@@ -1,1 +1,3 @@
-This dramatic tale of what was arguably the most significant and one sided battle in history should be seen by all. A trivial army of 167 conquistadors lead by Pisarro killed 7000 of the Inca's god king Atahualpa's army of 80,000 in a single battle. The battle was symbolic of Spain's rape of America, but more generally of Europe's domination of the world. The "victory" of the west can be seen as no more than the "good luck" of the bloody thirsty warriors of Western Europe who learned so much from fighting with each other that collectively they could achieve world hegemony. In this battle horsemen, steel, and an ideology of duplicity won the day over a naive other world whose innocence is now virtually unimaginable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81baa119c09bb69f52b05ae5436b09f66a3db0b7f288ba6de51d95f01f7420b3
+size 724

@@ -1,1 +1,3 @@
-I liked this movie a lot, in many ways much more that than the original Mimic. In particular, Alix Koromzay is great playing the slightly flaky, completely adorable bug-nut scientist/teacher. She is much more interesting than Mira Sorvino, who wasn't bad in the first movie. The story here is simpler, not a bad thing in a horror flick, as the plot stays on a straight course with good effect. For those looking for big-time special effects, Mimic 2 might not satisfy. But for some good campy fun and scares, check this one out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3878c42a96b2d1de5dfcfad0895865c2727786146c9e3eec66f520e12d93773d
+size 528

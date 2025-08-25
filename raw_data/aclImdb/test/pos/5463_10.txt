@@ -1,1 +1,3 @@
-as a former TV editor, I can say this is as authentic as it gets. It even led to Letterman's producer (thought to be a source) resigning (eventually) in real life. Letterman was outraged (OK, so one goofy thing is it has him throwing softballs at a tire swing on his estate; total fabrication) but the main information is hilariously true, from the silly bidding war for Letterman once he decided to leave NBC to Leno's problems with an agent who was not ready for big time, but who he let run the show (almost to a disastrous exit) out of his famed loyalty. If any of you kids don't grasp the idea of why Letterman is jealous to this day, see this tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdf76aad5812967dab455eae1fabb83cefe8e677e47a80aadda42132b40e29ff
+size 654

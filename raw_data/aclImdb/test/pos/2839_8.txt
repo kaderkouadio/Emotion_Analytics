@@ -1,1 +1,3 @@
-Nurse Betty was definitely one of the most creative movies that's been released lately. It was funny, but it also had many touching moments. Zellwegger, Freeman, Rock, Kinnear, & the rest of the cast made their incredibly weird characters seem real. The story took such twist & turns that made it incredibly enjoyable to watch. If you're sick of the recent formula movies, see Nurse Betty for something completely different. Go see this movie in the theater or at least rent it when it comes out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:db497374d38b4dc59e8f407375e4d864dd21231c9ddfda8151e266ac99fcc4f1
+size 496

@@ -1,1 +1,3 @@
-Irwin Allen was great. All of his TV shows had a great pilot, or first episode. the rest were basically rip offs of his other shows. A few episodes of Swiss Family Robinson were rip offs of his older TV shows. One episode of Swiss Family is identical to an episode of Land Of The Giants when a member of the party needs an appendix operation. The show was high budget and too expensive to continue. Irwin lost his touch with TV shows after the 60s. The acting is strong with Martin Milner. Child stars got there starts with this show like Willie Ames and Helen Hunt. one bright spot is when Irwin Allen incorporates his disaster scenes like a typhoon and a volcanic eruption dubbing him the " Master of Disaster "
+version https://git-lfs.github.com/spec/v1
+oid sha256:436ac3fc33d8f55d7ffe9e71093218126e3a2f5503f7da2d87cc9a7fcb59951b
+size 713

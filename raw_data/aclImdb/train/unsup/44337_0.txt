@@ -1,1 +1,3 @@
-Mad scientist Boris Karloff (as Dr. John Garth) is sentenced to hang, as an admitted "mercy killer". But, since his research in medicine is so important, Mr. Karloff is permitted to continue experimenting, in a laboratory behind bars. Karloff thinks human cells could be prompted to reproduce forever, curing both disease and old age. Believing he is going to be executed, Karloff uses his experimental serum on himself, and is transfused with the blood of a convicted murderer. Then, suddenly, Karloff is paroled. He becomes twenty years younger, but must fight the urge to kill, Kill, KILL! A cheap, ludicrous, but bearable star vehicle.<br /><br />**** Before I Hang (1940) Nick Grinde ~ Boris Karloff, Evelyn Keyes, Pedro de Cordoba
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11851394bfc3d87b7dfc5c8b0044144df1047d8dc89474e1d1b56925fa715e6
+size 736

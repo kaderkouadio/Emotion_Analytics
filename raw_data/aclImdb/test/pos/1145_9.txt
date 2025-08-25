@@ -1,1 +1,3 @@
-The wind and the lion is a marvelous sweeping motion picture. It is a monument to what filmmaking once was but is no more.<br /><br />Connery, despite the thick scottish brogue, plays the Raisulu very well. He inspires the viewer in a way many lead characters cannot.<br /><br /> Candice Bergen, in one of her early roles, is marvelous as the kidnapped socialite Mrs. Pedacaris, showing courage in the face of adversity (and plenty of humour as well). A marvelous film, rent or buy it and you won't be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e6f11add691d1da3ad02f2331268fdeb70b3bbcb89d4f0bb050b5ab5a279787
+size 515

@@ -1,1 +1,3 @@
-How do you write a poignant coming of age film that includes laughter, tears, and sub sandwiches? Well, I suggest copying off Betsy Morris's paper because she managed to do just that. Ten Inch Hero may be one of the strangest titles to grace the screen since Eat, Drink, Man, Woman but at its heart is a tale of the meaning of love and individuality. I was able to catch a viewing of TIH at the Phoenix Film Festival and it may just have been added to the list of greatest nights of my life. Though I am well aware that the majority of patrons attending this film were most likely drawn in by the prospect of witness Jensen Ackles (of Supernatural fame) in an outrageous Mohawk I can promise that you will leave that theater proclaiming the glory of Ten Inch Hero to anyone and everyone!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f60cc561c84b7eafd50b954c15c0565c2e9f0575ac1024dec14ed643be0e86e4
+size 787

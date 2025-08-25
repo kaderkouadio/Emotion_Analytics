@@ -1,1 +1,3 @@
-Fine courtroom drama which appears to be about a small change murder involving a pair of street people. But is it? An attorney takes on the case and begins digging deep into the case when evidence turns up that suggests the culprit may have connections other than with simple street bums. Interesting and exciting, though improbable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad2c524d32b4fcaa00a8d200038942a95297660f7ca4120a7b1a40ded19a060e
+size 333

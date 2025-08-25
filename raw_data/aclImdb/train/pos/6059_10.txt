@@ -1,1 +1,3 @@
-This is an excellent documentary, packed with racing action beautiful pictures and a great story. The IMAX Cameras give you a very wide perspective, as a DVD movie it is perfect. Your hear every speaker working almost all the time, The film is not speeded up and just gives you the natural feel of 230mph. Of course there are some sound effects added but i think they are good, they give a depth to the driving scenes...
+version https://git-lfs.github.com/spec/v1
+oid sha256:003205a3c38b149764a52134524ff4cd413f19d7de16b41908ac526ac56b89cb
+size 420

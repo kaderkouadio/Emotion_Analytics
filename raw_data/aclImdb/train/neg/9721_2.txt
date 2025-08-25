@@ -1,1 +1,3 @@
-Who could possibly sympathize with these two obnoxious protagonists? What's intended to be a light, frothy comedy about neighbor children who can't give up their childhood game of dare even as they age well into adulhood, comes off more as an exercise in cruelty and petulant self-indulgence. As children, the pair are unbearably precocious; as adults they're intolerably immature. It's a bad combination.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b13cc5949a2e1a4f0dac3403d7eea3f1cf3bba36116b4e36d81e200a459251a0
+size 405

@@ -1,1 +1,3 @@
-This film does have a good message. Racism sucks. Overall, I did not like this movie. The only character (of the main 3) that didn't act like a total jerk at some point is Trevor, played by Mark Webber. I feel he is too good for this movie. Go see his other movies, you won't regret it. I also feel that Trevor was the only character of the main 3 that showed a shred of morality.
+version https://git-lfs.github.com/spec/v1
+oid sha256:255e664316d8e8d51c44a49009dc132673e36d5b066e9cbbd9287fdad202fd8b
+size 380

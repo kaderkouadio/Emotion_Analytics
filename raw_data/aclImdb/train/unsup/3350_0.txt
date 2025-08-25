@@ -1,1 +1,3 @@
-The movie was a typical TV movie of the week. The actors did well with the script they had to work with but they really didn't have much to work with. I wouldn't rate the movie as high as I do if Chad Allen didn't look so cute in it. All in all I'd say it was a pretty average to slightly above average made for TV movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a122d11e5667ae895d6251a92cac326a1f814e7905af30d1db4336043fa5aa4
+size 321

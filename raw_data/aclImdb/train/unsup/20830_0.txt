@@ -1,1 +1,3 @@
-Definitely worth seeing. There is a lot of rubbish out there generally. A big budget and big hype certainly do not make a good movie but they make the general public and, even I am ashamed to say, me, more likely to see them. Which is unfortunate not least because movies like Gamerz can easily be overlooked.<br /><br />The story does not involve complex characters, what it does have is believable and honest characters that are easy to relate to. Its a feel good story which doesn't try or pretend to be more. It's easy to watch with some genuinely funny moments. While obviously not produced with a big budget, It's well crafted.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3041ae39e530ac8e80577acc60633ca4b2a250100833fd138150190901bc62f0
+size 633

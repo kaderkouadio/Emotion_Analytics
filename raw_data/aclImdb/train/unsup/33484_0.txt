@@ -1,1 +1,3 @@
-This awful flick offers little scope for screenwriter Ed Wood's unique, uh, "talents," being mostly made up of boring stock footage. There's hardly even a plot, which may be a mercy considering what Ed Wood's plots tend to be like.<br /><br />The whole "queen of the gorillas" thing is introduced early in the film, and then just dropped until about seven minutes from the end, as our protagonists head off to Africa to capture some giraffes and rhinos (Howard Hawks so ripped this off for HATARI!) and hunt panthers and tigers.<br /><br />Yes, tigers. Much of the stock footage they had featured a pair of tigers, so either Adrian Weiss or Ed Wood came up with the notion that a ship carrying a pair of tigers had wrecked on the African coast.<br /><br />Uh, yeah.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a88d9f3aaa06859fd31ce296679dbce74c497d10858d5ce40954b61277e674c
+size 765

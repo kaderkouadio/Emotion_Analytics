@@ -1,1 +1,3 @@
-Mike Hawthorne(Gordon Currie)is witness to the brutal murder of his mother and suicide of his father Morty(Jon Fedele). Twenty years later, Mike gathers a group of his friends to his family's cabin in the woods for a Halloween party. While playing a game where the guests confess and confront their worst fears...Mike tries to summon the spirit of his late father. It is soon discovered that Morty's spirit inhabits a wooden Indian in the cabin. The statue comes to life and the blood bath begins.<br /><br />Most of the F/X are not very convincing and the movie takes on a cheap teen slasher theme. Stale story pitifully acted. Cast members of note are: Kelly Benson, Phillip Rhys, Emmanuelle Vaugier, Byron Chief-Moon and veteran actress Betsy Palmer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7895241d3980be1e47592d28209fd951c0ee358e41837a52132d0921457aedf3
+size 753

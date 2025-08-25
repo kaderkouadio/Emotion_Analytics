@@ -1,1 +1,3 @@
-I was lying, this film is pretty awful even though a scene in a doctors waiting room is quite freaky. What it with your girl/boy friend and you will end up cuddling all night otherwise leave well alone!<br /><br />(This is where I would normally put some manic laughing, but with 'Dr Giggles' I won`t bother)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2730062172f9527af6b100c69413ac1fe0f9ed1fde7bd644314f2f8a220edcf
+size 308

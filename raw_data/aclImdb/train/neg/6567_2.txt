@@ -1,1 +1,3 @@
-I went into this movie hoping for the best. I like wartime musicals in general. Dick Powell and Lucille Ball did good jobs with their roles; however, the writers gave them boring dialog. The love-interest between the two of them was not given any real growth; just suddenly it was there. I did not think much of the music; the best number was the snippet we heard of Spike Jones with "Der Fuhrer's Face." The one complete number that Spike Jones did had little of his great musical comedy; pretty tame stuff,even with the monkey. Bert Lahr's comedy skits were interminable.<br /><br />There were parts to enjoy: Lucille Ball was quite a looker, and there was a good selection of bit players who really deserved more time on screen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ca88d03c4cef1989c7f1062c6611038e0775bd509e4f8b3ccef7a1c21594b62
+size 731

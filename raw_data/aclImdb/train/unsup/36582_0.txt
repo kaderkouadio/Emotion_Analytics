@@ -1,1 +1,3 @@
-Fun to see the Thai version of a slasher movie. It is very much a "teen" movie and a mix between The ring and Scream The acting rates from decent to awful, but it's fun to watch, OK entertainment.<br /><br />There are better Thai movies, but it's fun to see them doing things in this genre
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec7e2f8ce8dcdd90ab393e7f36614e43322893be983891f2aa2b759771f4d0f
+size 289

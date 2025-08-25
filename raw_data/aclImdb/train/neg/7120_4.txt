@@ -1,1 +1,3 @@
-I first saw this movie on MST3K. And although I laughed my posterior off at the jokes, I don't particularly think this movie was all that bad. Sure it was a little hard to understand it is quite obviously low budget, But it had a very Hitchcock-like plot and I can honestly say that when I viewed the non-MST3K version, I was genuinely entertained. This movie is crying out for a Hollywood remake.
+version https://git-lfs.github.com/spec/v1
+oid sha256:477d6adbe79d58593fadf8ebe8d76ec2a83e9d00018a9b2cddf74241bb87ab69
+size 397

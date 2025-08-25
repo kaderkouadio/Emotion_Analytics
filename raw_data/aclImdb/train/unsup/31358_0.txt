@@ -1,1 +1,3 @@
-Depressing and meaningless pap. It is like one of those French movies where you are supposed to just know that life is meaningless, hopeless and futile without having to say why. I mean, we all just know that it is all hopeless, right?<br /><br />The whole concept of an architect of some buildings being responsible for how the people there act later was also very weak. <br /><br />All of the characters are unlikeable except the daughter, who is also a very depressing character as well. As we join them, all is lost emotionally for everyone, and we are never really told why. The characters just do not come across as being real, no one is that totally depressed and without some joy or some positivity in life whatsoever.<br /><br />Stupid movie, Crash was ten times better than this useless movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc7da90e3f13f80c4dad15258d93a6dffb1964b6c259825a20df8b0ea9552f06
+size 803

@@ -1,1 +1,3 @@
-As Good as it Gets was really a funny romantic comedy just like I expected. The movie focuses around the character of Melvin (Jack Nicholson) a superstitous, bigot, and writer. He then meets a waitress (Helen Hunt) and his gay neighbor (Greg Kinnear) and they all form a friendship with each other. As Good as it Gets got me hooked from the start. I like Jack Nicholson and Greg Kinnear. The two are paired with Helen Hunt and what comes out is a great, romantic comedy. There are some parts that are draggy but everything else is just great.<br /><br />9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b19d0e26a2ba9056866bcd2d87de1e86c62830d36d1367f3a4e0eb898600671
+size 558

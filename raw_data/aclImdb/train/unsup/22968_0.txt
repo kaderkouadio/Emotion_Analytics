@@ -1,1 +1,3 @@
-Some have justly criticized this film for moralizing too much. However I still enjoyed it for the acting (Bogart of course and John Derek as well) and for the intelligent exploration of how much responsibility rests on the individual and how much on society. A note of interest is that Dewey Martin (Nicky's friend Butch) would later play Bogart's brother in The Desperate Hours. I also appreciated character actor Vince Barnett's (The Killers) portrayal as the less than reliable bartender. All in all, a flawed but nevertheless worthwhile film, 7/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:940b15e9e7ec55b6ddb7688c853c6b77f52e2e4980a25f6e626abe7a56b4074c
+size 552

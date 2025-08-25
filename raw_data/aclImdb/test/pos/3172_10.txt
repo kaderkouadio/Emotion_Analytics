@@ -1,1 +1,3 @@
-The stuff dreams are made of. A complete retelling of the play as a dream of vengeance: will baffle purists, but will delight the open-minded. A superb effort: great cinematography, acting, and script. 11-stars...***********
+version https://git-lfs.github.com/spec/v1
+oid sha256:013f893e3594f5943061dd9f127108fcc10296ccdd2cc59c997d78b6828066ac
+size 224

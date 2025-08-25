@@ -1,1 +1,3 @@
-This film tries very hard to be an "action" film, but it fails miserably.<br /><br />Steve Guttenberg plays the head of an elite counter-terrorist team that fails (?) in attempt to keep a mysterious group from stealing a deadly nerve agent.<br /><br />The story...the acting...the special effects...ALL FALL FLAT!!!<br /><br />Definitely A MUST AVOID!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfe57cebcdfff2b8ce58de6f2a64a31acdce25cb8e080901d10af3a45ba47f7a
+size 354

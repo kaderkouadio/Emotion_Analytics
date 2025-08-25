@@ -1,1 +1,3 @@
-I feel compelled to write. This is the in my humble opinion a terrible film. When the script and plot thins it disappears into an MTV collage of images. If you suspend your ideas of reality for a while it could cause the odd smile but this is its only redeeming feature. Tired cameos by quality actors added to the misery. Characters were never introduced, had no depth and ultimately left you cold. Interesting point to watch for me was the investigating detective whose speech impediment vanishes when he reappears in the film. Maybe the effort was too much I certainly felt exhausted by it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2229026344bcbf11d66ae7eefecd4c24f1a88f8fb26139495dc2ded1122ce2fc
+size 593

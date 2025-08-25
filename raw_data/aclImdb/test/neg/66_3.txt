@@ -1,1 +1,3 @@
-This film features two of my favorite guilty pleasures. Sure, the effects are laughable, the story confused, but just watching Hasselhoff in his Knight Rider days is always fun. I especially like the old hotel they used to shoot this in, it added to what little suspense was mustered. Give it a 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd638f147e390439d403e28e1c1c7571745c86a49e02b5934cd0ccc1c37a4fb
+size 297

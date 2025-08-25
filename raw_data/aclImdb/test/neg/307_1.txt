@@ -1,1 +1,3 @@
-I checked this out at the Vancouver International Film Festival and was not impressed.<br /><br />The only area of the film I enjoyed was the commentary on film-making. For the most part, this film seemed random and somewhat fantastical (I don't say that in a complimentary way, however) and just silly. It was as if he was mixing fantasy with everyday life, which may sounds intriguing in some films, but the fantasy merely seemed needlessly perverse.<br /><br />My criticism of this film is not upon the actors, rather the story itself. I found it boring and narcissistic. I wanted my money back, but considering it was a Film Festival, that wasn't about to happen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1859f1175c3b3de0817bc875e5d55f1a088ba757dcfe455040df4038fb29528a
+size 667

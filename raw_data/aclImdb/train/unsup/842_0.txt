@@ -1,1 +1,3 @@
-I remember this movie from tv when I was a kid. Terrific music, "My Ship Has Sails". I believe written by Kurt Weill. Would love to see this again and definitely own on VHS or DVD. Would put it right next to my copy of "One Touch of Venus". They don't make movies like this anymore unfortunately.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9037412d0ba365712c2fdb2fe79f8feff2484ccc51b1311463963e77f3e8ff11
+size 296

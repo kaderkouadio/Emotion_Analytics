@@ -1,1 +1,3 @@
-An evil atrocity forced upon mankind. Need more details perhaps? The original was a great movie and is one of my all time favorites. Highlander 2 butchered the story, had pathetic villains and so many plot holes and continuity errors it's pathetic. Some movies are fun to watch despite their overall poor quality.. but not this one. Don't watch it. Not even as a joke.
+version https://git-lfs.github.com/spec/v1
+oid sha256:763ac91099c520d48f1e22521414f42d5a8599ead1956e90314fae0ee4992181
+size 368

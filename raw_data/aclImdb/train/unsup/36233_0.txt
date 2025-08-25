@@ -1,1 +1,3 @@
-This film seems to have more takes in the title than it did during filming. Give and Take and Take has obviously been a labour of love to make. It's just a shame that it's more of a labour to watch. Performances, Plot and characterisation are laughable. It's just a shame the jokes aren't. Avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:528ea58ad54f56182f8c369a33c9890125f2069749525f5378dc94b690108c48
+size 296

@@ -1,1 +1,3 @@
-This one man show may be the most fantastic show I've ever seen. To call this simply a stand up act is to do it a great injustice, there is a definate reason that this was a Broadway show. John Leguizamo is a master of making people of every culture feel at home listening to his story of growing up and dealing with his family and life in general. I would reccomend this show to anyone, as long as they can handle the language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df197bfd1647ff97a402a6bb1e79c6e6cc24334ee4c182885b08cdae6b942d8b
+size 428

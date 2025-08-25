@@ -1,1 +1,3 @@
-I watched this movie one night on cable. I am happy to say that this movie was much better than I thought and as usual, Demi Moore is just awesome. Bruce Willis is also in this film but he playes her best friends abusive, drunk husband. The plot thickens when he is found dead. There is even a crazier twist at the end. Harvey Keitel was great as the detective investigating the murder. Overall I give this 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e762da1176c64bd622ab0218d2b0e2999eca6cef91b00c0f8907f026a810a08c
+size 412

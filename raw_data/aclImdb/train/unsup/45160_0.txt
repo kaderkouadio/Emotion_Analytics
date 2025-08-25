@@ -1,1 +1,3 @@
-Sure THIS one is fact-based, but who cares when the facts are quite boring? The Exorcist was much better. I rather see something interesting yet loosely based on fact than something closer to the truth yet of the quality of a dramatization in a documentary. Not at any point during the course of the movie did I believe that that kid was possessed. However, he did remind me of that one kid from Problem Child. Now HE was possessed. John Ritter was funny in that though. I still watch reruns of Three's Company whenever I can...<br /><br />-Al
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ef1fb9950df818c490697ce108d0457ce94847a8559ffd5ee708011c10209cb
+size 543

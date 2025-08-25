@@ -1,1 +1,3 @@
-This pathetic movie about a talking detective dog shows nothing but contempt of people in general and children in particular. The so-called special effects are mind-blowingly awful as is the whole tone of the film. Along with Forest Warrior with Chuck Norris and Il Professore with Bud Spencer this is the worst film I've ever had the misfortune to see. I give it a dead certain 1 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7da8d780a26ec4bbe8e368cf8e3d453dd168a91e993bba21e57ecee92ce9342
+size 391

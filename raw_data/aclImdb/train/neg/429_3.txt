@@ -1,1 +1,3 @@
-I was lured to see this movie by its starpower, but ultimately that's all it delivers. It plays much more like a Greek tragedy than a modern thriller about big city corruption. It's greatest flaw is its predictibability and utter lack of suspense. We know who the bad guys are from the beginning, and just follow along as they fall like dominoes. The film to its credit does abstain from gratuitous violence and sex, but has forgotten to substitute good, clean romance or excitement in any other way. All the flavor of a good, flat decaffeinated diet cola. "Q&A", which also takes place in New York, is a far better alternative, as is "LA Confidential".
+version https://git-lfs.github.com/spec/v1
+oid sha256:5997f6ae0c8efa04e4adb4d902e4222f753ddc8b38eb9913d58bb3bd8fcfeebb
+size 653

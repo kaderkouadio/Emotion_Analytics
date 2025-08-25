@@ -1,1 +1,3 @@
-Bad plot, bad acting, bad direction.<br /><br />It had possibilities but just didn't achieve anything.<br /><br />This film looks like someone started with an idea, googled a bit of info and then tried to flesh an hour and a half with lots of night shots and bad suspense music.<br /><br />Others had to stop watching because they were scared 2/3 of the way through - I had to take a break purely because I just didn't care anymore.<br /><br />Reminded me of an episode of Days of our Lives with marginally more suspense.<br /><br />Just bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07b592bd1fe411d148897959d4af863fadfb579f4a88f14c1d39a8a09126b7f
+size 542

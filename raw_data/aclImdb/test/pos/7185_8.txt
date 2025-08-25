@@ -1,1 +1,3 @@
-This movie is just great... It starts out real slow and boring but as the movie progresses.....well the fun keeps on coming. The power of the movie is perhaps in it's subtle references to a lot (and I mean a lot) of other movies. For me the best part was perhaps the Bruce Lee/Crouching Tiger, Hidden Dragon scene. How the two actors switches from French to Chinese or whatever Asian language it was, it was awesome. Then the jokes with the names, they are hilarious but perhaps you won't understand all of them when your an American (no offense). Overall a great movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c899ea56942abb4da2cc7e6df7e7829c8cfb74517ddd668c0bd6e68e59f74ff
+size 569

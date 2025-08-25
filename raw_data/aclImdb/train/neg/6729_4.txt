@@ -1,1 +1,3 @@
-Evidently lots of people really like this, but I found it infantilising and reasonably offensive codswallop, saved from oblivion by Jane Russell and a couple of memorable musical numbers, especially the opener (but there's a marked dip in invention later on). I don't get on with Monroe - she's supposed to be playing a dumb blonde who ain't that dumb, but she just comes over as dumb. Russell can't quite convince when she claims never to have been in a gymnasium, but is otherwise rather wonderful. The men are staggeringly uninteresting, as is the plot. By no means atrocious, but so patchy that, if this is a classic, God help us all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1ac260a47d6db19dcbeb1a6a775d8f607a6188f1cfe830293d4edf203fb0a48
+size 638

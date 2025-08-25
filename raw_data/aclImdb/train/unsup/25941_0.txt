@@ -1,1 +1,3 @@
-Wouldn't suit all tastes, but if you like it you'll love it. A very gentle, very English humour with many wonderful throwaway lines. Strongly recommend. Sara Crowe is outstanding in the part of a girl totally hung-up on a theatrical agent, and Annette Badland and Nadia Sawalha are equally good supporting her as the long-suffering friends. Leslie Phillips plays an excellent music teacher/musician and there are some excellent scenes where he is trying to help the girls write their song. However, the piece de resistance for me was the song at the end - the acting, as well as the song, together with the reactions of the audience, make excellent viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3bbd19b4bbcc58d02c6ec3fea295bf10199bacaea611ee780a90f18267bd4d7
+size 657

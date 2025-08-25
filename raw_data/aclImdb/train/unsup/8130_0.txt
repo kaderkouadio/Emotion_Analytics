@@ -1,1 +1,3 @@
-the only possible reason for watching this tripe is to see Mr Moore playing the completely improbable lead character. When this went out recently on tv I actually thought the scene with Moore addressing his troops was a clip from a Python movie that I had missed out on... if you think movies have not improved since the eighties have a good look at this turkey....
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9cb24b6cee5552afb51ddbc0b37685a50e3350ca396833c7b70afcd6ef1735b
+size 365

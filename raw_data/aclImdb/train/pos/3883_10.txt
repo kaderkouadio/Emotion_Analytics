@@ -1,1 +1,3 @@
-Until I saw this special on HBO, I had never heard of Eddie Izzard. I sure am glad that I have now! He is one of the funniest comedians I have ever seen! Rarely has a comedian immersed himself so completely in his craft then Eddie. I could not stop laughing for the entire show. If you like to laugh you HAVE to see this special!
+version https://git-lfs.github.com/spec/v1
+oid sha256:54b80e0bbff10c0c5fe60a4437692a38faac6b21dd45fc0ea25c403e727da4f9
+size 329

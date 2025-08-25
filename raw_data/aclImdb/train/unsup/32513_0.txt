@@ -1,1 +1,3 @@
-Yes, I gave this film a 1. I would have given it a zero, but it was not possible.<br /><br />I read all your overwhelming comments about this movie and bought the DVD. Started to watch it looking forward to an unforgettable film experience. Well, the film did not disappoint me. Really. It is unforgettable! The worst film since "Plan B from outer space"!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d70bf125ae16b1e1de8db41fab118809e71868d2b0449f33f9c776f4c4acb31
+size 367

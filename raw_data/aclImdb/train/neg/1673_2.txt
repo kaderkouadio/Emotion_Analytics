@@ -1,1 +1,3 @@
-Bad Movie - saw it at the TIFF and the movie gives me a sense of 'been there done that' - it reminds me alot of the movie Blow - expect the Blow was actually interesting.<br /><br />This one story told two ways and both times it is not told that well.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:2736cc3f2c9cb6409978a0563979fdc50a2dea8192b5b6d06bc7392e00e929de
+size 263

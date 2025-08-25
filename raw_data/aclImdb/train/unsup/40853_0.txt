@@ -1,1 +1,3 @@
-This is another film my husband promised me was going to be fun. He's got this perverse idea that badly made movies = fun. I can tell you from experience, it's agony.<br /><br />This time, he didn't have a leg to stand on. This film was bad from start to finish. It appeared to have been made for preteen boys by preteen boys. Strip a few girls down to a bikini and have them parade around. Throw in some vomit jokes. Add some fart jokes. I can't believe a major studio thought this was a great idea. <br /><br />I can honestly say that I didn't laugh once during the whole movie, but neither did my husband. That was funny enough for one star.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5a9a8d398c709f4766c3fc9fd3b38f8d26ab15d1e8c9aea539df6a0ddf02ad1
+size 644

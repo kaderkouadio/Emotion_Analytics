@@ -1,1 +1,3 @@
-David Tennant and Sarah Parish's brilliant acting had me in tears as many of the scenes were so familiar to me. My husband suffered a sub-arachnoid haemorrhage in 1977 and required a major operation which involved lifting his brain and plugging the leak. Like Tricia I was naive enough to expect that he would return to being his former self. After over 25 years of loving and caring for him he abandoned me without warning to go and live with a woman he hardly knew. He then petitioned for and I am now going through a divorce. I do hope the programme helped people to understand what it is like to cope with brain injury.
+version https://git-lfs.github.com/spec/v1
+oid sha256:917f5485c590c53418c54fa36ff416515f603a7200bec33ef2fcb7e39f2ffd66
+size 623

@@ -1,1 +1,3 @@
-PROBLEM CHILD is one of the worst movies I have seen in the last decade! This is a bad movie about a savage boy adopted by two parents, but he gets into trouble later. That Junior can drive Grandpa's car. He can scare people with a bear. He can put a room on fire! It is a bad movie as much as BATTLEFIELD EARTH. A sequel is an even worse fate. Rent CHICKEN RUN instead.<br /><br />*1/2 out of **** I give it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f21d01ce7696475d6ddeb0ad950bf56c82f026b89cb0bb1239cf5e9c5b84635e
+size 409

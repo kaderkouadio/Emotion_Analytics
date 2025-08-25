@@ -1,1 +1,3 @@
-S. Epatha Merkerson shines as Nanny in this touching and vibrant look at the life of Ruben Santiago, Jr. (Marcus Franklin) while growing up under the guardianship of Nanny. The film gives a good character study of both Nanny and Ruben and manages to capture life's ups and downs in a realistic fashion unlike so many memoirs that are made into film. The supporting cast adds much spark and many recognizable faces appear in smaller roles including Mos Def, Macy Gray, Terrence Dashon Howard, Rosie Perez, Louis Gossett, Jr., Liev Schreiber, Jimmy Smits, Ernie Hudson, Delroy Lindo, and Patricia Wettig. Loses some steam and vibrancy towards the end, and the ending sequence leaves a bittersweet feeling. But, overall a great film with a truly outstanding performance by Merkerson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9007a2f93451e17511b2067784d9b68d25652424b1d077fc9de32fe49a4c624
+size 780

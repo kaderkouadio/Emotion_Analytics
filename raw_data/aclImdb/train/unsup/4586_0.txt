@@ -1,1 +1,3 @@
-David Cronenberg's Camera is a great short.There's is only 2 people in the film witch's makes it more interesting to watch.The film is pretty rare so I hope that anybody that is a fan of Cronenberg will try to find.this .I was lucky enought to find a copy on the internet.On a scale of 1 to 10 Camera gets a 9, Highly recamended to a Cronenberg fan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b285b864ee4cc79f0de80eff1eb97c5b110b61428e700292f1e71d370122b1cc
+size 349

@@ -1,1 +1,3 @@
-The Kid is a really good family movie about a stuffy image consultant, Russ Duritz, who has lots of money, a good job, nice house, etc. The only problem is he doesn't have much of a social life as nobody seems to like him as he isn't always very nice. One day though things are about to change when an eight year old version of himself magically appears. This gives Russ a second chance to make things right. Bruce Willis plays the lead role here and he gives a really good performance. The Kid is a nice, heart-warming movie for everyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b55118a741ae297ff06fcd71b477f736b2c9f00951a605ab9db6f6f35e53ad
+size 539

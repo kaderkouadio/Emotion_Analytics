@@ -1,1 +1,3 @@
-If you ever, God forbid, think of renting this movie, DON'T. It is the worst, most boring piece of trash I have ever seen. I was ready to shoot myself ten minutes into this so called 'movie'. Do not watch this movie, EVER!!! If you are with friends and they all agree to watch this movie, do EVERYTHING you can to escape!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1538b68f5630cfdb4f42bfefdebda7e5cf1e050efd99ecef64d7112b3f48f542
+size 322

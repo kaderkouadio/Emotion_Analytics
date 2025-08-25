@@ -1,1 +1,3 @@
-"If we maintain this velocity we'll catch up to them quite soon." "Have you notified the base?" "No, I haven't yet. Because I have a sort of strange presentment." "Is there something worrying you?" "Hmmm. I don't know, but I feel that my hands are tied." "In what way? How do you mean?" "As long as Lois is in their power, there's nothing I can do about it." "Obviously these damned aliens will take advantage of holding hostages to dictate terms." "If I were you, I wouldn't worry about that." "Let's just catch the spaceship and stop them."<br /><br />Repeat these lines slowly for about 90mins with a sci-fi throbbing sound effect in the background and you'll have saved yourself time, 36p and a bit of bother...
+version https://git-lfs.github.com/spec/v1
+oid sha256:77820a5ec6be72455c906d6b0623cbfa280ba3ccffb804c55d968008495e3ee8
+size 715

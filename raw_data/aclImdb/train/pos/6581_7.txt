@@ -1,1 +1,3 @@
-Looking for Quo Vadis at my local video store, I found this 1985 version that looked interesting. Wow! It was amazing! Very much a Ken Russell kind of film -quirky, stylized, very artistic, and of course "different." Nero was presented not so much as evil incarnate, but as a wacky, unfulfilled emperor who would rather have had a circus career. He probably wondered why on earth he was put in the position of "leading" an empire -it wasn't much fun, and fun is what he longed for. Klause Maria Bandaur had a tremendous time with this role and played it for all it was worth. Yes, Nero persecuted the Christians with a vengeance; one of many who did so. At one point one of his henchmen murmurs: "No one will ever understand we were simply protecting ourselves." He got that right.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cfa461ce23272292d4a9b2b4608bb50e1572c341e0a1d2c3e98853d1e3cdaa4
+size 781

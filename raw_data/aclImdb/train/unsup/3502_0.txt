@@ -1,1 +1,3 @@
-I have always thought that Cindy Williams was a fine comedic actress I have all 178 episodes of Laverne & shirley on tape. she was just marvellous as Touly in this movie. Good work Cindy! Also liked the scenery. It was a very Nice movie from a visual standpoint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:877961542e06e00bc691da7679bd8d7a25e1afa1e430b5bcb71749da9c3f057f
+size 262

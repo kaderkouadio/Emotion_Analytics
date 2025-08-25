@@ -1,1 +1,3 @@
-I am usually disappointed by network movies. Even flix that attract big name actors are usually ruined by the TV people. However, this one is the worst of the worst. The screenplay is weak and the acting, especially that of Tracey Pollan is abominable. I've trudged off to see my kids'high school plays and been treated to better acting. Pollan acts as if she is reading the script as she speaks. When she tries to express fear, anger or grief, it's extremely hollow. Because of the overall quality of the production I found it difficult to take it seriously. If you decide to brave this one just be prepared for a big disappointment. Scary things won't scare you, sad things won't make you sad, romance won't make you feel warm and fuzzy and you will likely be as anxious as I was to see the end arrive. "First to die" says a lot about this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31cf4deb0e452b4516ea558022d06dc679adef8c0aa4759a092dacf4f371b54
+size 848

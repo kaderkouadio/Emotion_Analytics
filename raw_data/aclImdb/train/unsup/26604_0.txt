@@ -1,1 +1,3 @@
-I love this movie!! Has a very concise plot and the most awesome soundtrack and artwork I've ever seen!! Definitely one of my top animes. I've seen hundreds but this one tops them all. Go buy/rent it!! I vote 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9b0982dfc31c420ecb30173c99ded4390c2ded6ec7d3437c8bd63174a502e77
+size 212

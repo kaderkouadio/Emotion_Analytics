@@ -1,1 +1,3 @@
-Like a previous reviewer, I saw this movie in theaters more than 30 years ago and not once since, and yet much of it I remember with amazing clarity. Eric Braeden is terrific--an understated and overlooked performance that should have made him a movie star. <br /><br />It's a Frankenstein movie, of course, but the idea of technology getting away from us---well, anyone who thinks we're out of the woods in that area is fooling herself.<br /><br />I wonder if a remake would be worthwhile. As is so often true of movies featuring computers, they are quickly outdated in terms of technology, and this can distract from the message of the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46f4d66c934e8767b19125ed5c51dada584643c5975d9d2014210583c0cd67ed
+size 643

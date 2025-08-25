@@ -1,1 +1,3 @@
-Oh dear. While Chevy Chase and the gang at SNL set new highs with the sketch show format this fails miserably at every level. Fortunately Chevy is barely in this at all and can't be blamed for this utter tripe. It seriously is very, very bad. While meant to be a political comment on USA at the time of it's release (1974) it still remains neither funny or acutely observed. The sketches are all way too long and any satirical impact they may have had is lost as they're all drawn out to the point of complete boredom. This is credited as Chevy's movie debut and I'm pleased to say that everything he did after this bettered it. Avoid even if curious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3841d41830d81b51bc1e89dea9a433f9b3569713eb9a03b88df535e2af6f5831
+size 651

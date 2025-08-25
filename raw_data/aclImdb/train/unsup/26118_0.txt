@@ -1,1 +1,3 @@
-The Cinematography by Peter Biziou is excellent and the acting by Gene hackman and Willem Dafoe is great.Not perfect but very entertaining and the film has a good story that is inspired by real-life events.4/5
+version https://git-lfs.github.com/spec/v1
+oid sha256:803f3a227996a58fb366161c5380e6f7171e3dc3cee61f3c000e7f67ed8422ab
+size 209

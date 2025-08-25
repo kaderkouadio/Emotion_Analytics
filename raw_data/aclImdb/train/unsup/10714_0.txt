@@ -1,1 +1,3 @@
-I understand that some viewers expected this movie would be a comedy. I didn't expect anything and I liked it very much. Acting isn't great, the script is ok, but certainly not great, but I really liked the characters. But what I liked most about the movie is the soundtrack, the actors are all great singers!<br /><br />Despite the not so good end scene, this movie leaves you with a feeling of great joy when you leave the theater. 7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d44fcad2347834f8b0705bdb1d3c9a5a53d6ec91a8e0faccca4e2d813068cd7
+size 438

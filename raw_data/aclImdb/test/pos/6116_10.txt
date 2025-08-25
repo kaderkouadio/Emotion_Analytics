@@ -1,1 +1,3 @@
-For all viewers out there who have slammed John Waters for creating a film like Pink Flamingos, just stop. It's getting you nowhere. Has anyone ever cared to stop and think about the ambition and dedication Mr.Waters possesses. To gather your best friends up and to create a movie just to gross out thousands of viewers all over shows this man has a great deal of ambition inside himself. Just read his biography Shock Value. It discusses the lengths he went through to get this film finished. Maybe it wasn't just the fact that John made this film to gross people out, it was to prove that there can be something such as good bad taste>
+version https://git-lfs.github.com/spec/v1
+oid sha256:82877ac483423adfa5648198498e78e3031a0bba489d80124a1de6dc10f8df46
+size 637

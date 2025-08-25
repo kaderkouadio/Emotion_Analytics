@@ -1,1 +1,3 @@
-There are many familiar Hitchcock elements (of previous and later films) and this time they mix to a jolly, but hardly suspenseful piece of entertainment. You can tell that Dorothy Parker had a hand in the script, the most memorable scenes are the dialogues of hero Cummings with the blind man and his encounter with a rather bizarre group of circus people. The famous climax on the Statue of Liberty seems a bit heavy-handed - judged by today´s standards, but also compared to other Hitch monument finals (e.g. Blackmail, North by Northwest).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b48b52d1259a2391178af7ed3d8a3b8c5278d2d218c38af810713d2379ec274e
+size 544

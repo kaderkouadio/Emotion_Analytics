@@ -1,1 +1,3 @@
-The acting may be okay, the more u watch this movie, the more u wish you weren't, this movie is so horrible, that if I could get a hold of every copy, I would burn them all and not look back, this movie is terrible!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab5d68009c719a3de6559f0aa3c76bac1f4def30537a4ff66e8486a48629066e
+size 216

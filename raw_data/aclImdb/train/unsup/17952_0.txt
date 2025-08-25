@@ -1,1 +1,3 @@
-This copycat film was not nearly as compelling as the late '40's film Lifeboat, the best post WWII lifeboat film. Both shared similar story lines, but Lifeboat had better actors and more interesting story twists.<br /><br />See Lifeboat instead. Much better cast and more subtle and effective acting than with the over-the-top, chew-the-scenery overacting from Tyrone Power. Lifeboat also had a good and sympathetic-til-the-end, rescued German sailer subplot that was effective in pulling our heartstrings until we saw that often things are not what they appear to be. They are often worse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e545e1fd18c05f41fb920dc6998f3e412eec39ee46bec4c059bee4573bb3b1e8
+size 590

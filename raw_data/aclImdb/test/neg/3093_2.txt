@@ -1,1 +1,3 @@
-I was suckered in by the big names. Rob Lowe, Mario Van Peebles, Burt Reynolds, and the fact that it was an independent film. Unbelievably slow beginning: 35 minutes, two dreary songs and a botched rip off. I didn't care about the characters, and the plot never tempted me to even pretend it could be realistic. I can't believe this is what makes it to the screen. I loved watching this film because it felt so good when it was over.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53757c89dd234e832c3df0a3115469de2b5151f4bcfb139ec36d4772948926a3
+size 433

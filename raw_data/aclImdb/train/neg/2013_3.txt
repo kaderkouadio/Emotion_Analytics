@@ -1,1 +1,3 @@
-This film is roughly what it sounds like: a futuristic version of the Cinderella legend but with songs and (fairly tame) sex scenes! The film is not sure what it wants to be and pretty much ends up a mess. It's more expensive looking than most of director Al Adamson's films but it's not at the same budget level that viewers have come to expect from sci-fi films. The actors are pretty bad and unlike most Adamson films, there are no former big namers or B actors. Some of the music is OK but it's easy to see why Cinderella 2000 has been forgotten for so many years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2cf1860eade1b573e6a6541227a2c566a207348068139bb970ae9f76fb91158
+size 568

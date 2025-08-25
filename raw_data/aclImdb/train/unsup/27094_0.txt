@@ -1,1 +1,3 @@
-A good, if not great, cult film starring Peter Weller as the jack-of-all-trades superhero. Great performances by John Lithgow and Jeff Goldblum in supporting roles. Lithgow in particular is good as a scientist driven mad by the eighth dimension. Many quotable lines make this movie a fun one to watch over again. A sequel advertised at the end of the movie evidently never made it into production.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d8e8b3536f1c6cd8ed0baebb4db843f4040d8ebbfc8b7b81df0b8d24137345b
+size 397

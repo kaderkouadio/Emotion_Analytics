@@ -1,1 +1,3 @@
-What a stupid idea. Ewoks should be enslaved and tortured. Utterly useless as a species... Fine you want ten lines of text regarding my unending hatred of Ewoks? Fine, here it is, fool. First of all, they are an inferior race that would be slaughtered en mass had Lucas not pussified the entire series with their foul presence. They're little bears with large asses, and they probably smell like donkey crotch. Yeah, I said it, donkey crotch. They have little to no technology whatsoever, resorting to using sticks as makeshift weapons. I'm surprised they even had access to fire. Their guttural language makes my skin crawl. Can't...suppress...anti-Ewok...RAGE! AHHH!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:85cbe928e959b983a5eb4cf91a1c3ff16e178fff74146c93a4ee01b930df0257
+size 670

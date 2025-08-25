@@ -1,1 +1,3 @@
-i thought it was going to be funny with the previews on TBS, but when I saw the real thing, it was pathetic. Somehow the film was serious than actually funny. Its about a depressed man for which his family doesn't give a damn about him. Bryan Cranston plays the long lost cousin of Judge Reinhold for which he is a putz on the nervous breakdown and wants a real relationship with his family. Bryan was the reason i watched this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24b17369d977009a9645618eb45603b2bd678e252e47e96c00a9500d62381480
+size 434

@@ -1,1 +1,3 @@
-This film is dreadful. It has absolutely zero laughs. Hebrew Hammer (Adam Goldberg) sets out to save Hannukah from Evil Santa (Andy Dick). Perhaps a promising enough basis for a plot, in actual fact the film does not progress beyond this premise. While there are some (far and few) nice touches and the plot is relatively coherent, it is laboured, hackneyed and ultimately, mindlessly boring. This despite the fact that Goldberg, Dick and Greer (Hammer's client/love interest) all have quite considerable screen presence. Despite being played for what might be described as whacky over-the-top gags, this film is consistently middle-class middle-of-the-road muck. DO NOT waste 85 minutes of your life on this. (note- the music was good..!)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ab3852ebb4436c8d0099ce7109058bb5eee0c5a449ab02304ff6acdb581d523
+size 739

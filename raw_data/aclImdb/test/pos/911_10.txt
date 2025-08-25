@@ -1,1 +1,3 @@
-A wonder. My favorite film. The most important film about relationships ever made. Brilliant writing. Magnificent directing. Image systems and symbolism that leave you thinking about it all days, weeks, years later. Wow. A truly great work of art.
+version https://git-lfs.github.com/spec/v1
+oid sha256:124afe45975d460847470652341946edcfbc99375ce98e648cd2a180a055e794
+size 247

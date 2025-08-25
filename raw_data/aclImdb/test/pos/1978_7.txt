@@ -1,1 +1,3 @@
-Now being a fan of sci fi, the trailer for this film looked a bit too, how do i put it, hollywood. But after watching it i can gladly say it has impressed me greatly. Jude is a class actor and miss Leigh pulls it off better than she did in Delores Clairborne. It brings films like The Matrix, 12 Monkeys and The Cell into mind, which might not sound that appealing, but it truly is one of the best films i have seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f423a1bf25c67fbcb23075d6ae6f69d372c1ea3dfdc54779aa057369080402e
+size 416

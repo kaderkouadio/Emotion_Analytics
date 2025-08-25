@@ -1,1 +1,3 @@
-I believe the song title you are seeking is entitled, 'Street Scene', written by Alfred Newman, from the 1931 movie of the same name.<br /><br />The aforementioned film has experienced a Renaissance precisely because everyone wants to know where the Mike Hammer theme originated.<br /><br />It is certainly very haunting, and I personally spent many years seeking out the sheet music, which was very difficult to find in the 1960s.<br /><br />It is a great composition, and I admire anyone's taste in music who has spent any effort to seek out this original classic.<br /><br />Houdini
+version https://git-lfs.github.com/spec/v1
+oid sha256:429fa46f679b11c6c8286ac98a1187c25964bf6052ba50b11ed403367040885f
+size 585

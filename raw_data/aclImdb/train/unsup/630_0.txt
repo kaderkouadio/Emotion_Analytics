@@ -1,1 +1,3 @@
-I was really looking forward to this show, and all in all it was OK. The plot was fine, the acting was good, etc. Monk's obsessive behavior, which was supposed to be quirky, got to be more annoying than quirky, but it's something that they can work on. But they'll work on it for someone other than me. Why? Because the damn commercial breaks went on FOREVER!!! They had to be 5 or 6 minutes long each. I saw more spots for "The Dead Zone", Bowflex and acid reflux than I can count. I was caught up in the plot, so I didn't want to change channels, but never again. I suppose I could record the show and skip the commercials, but that ain't the point.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62bf878a8f058719facb74568445bdcb6d449d314f92b77a4a7d0850d3082ec9
+size 651

@@ -1,1 +1,3 @@
-If you haven't seen this movie yet, you should make it your next rental. It's a gangster movie, and like all gangster movies it stands or falls on the strengths of the lead actor. In this case, we have Bob Hoskins, whose performance is so powerful that it will be the only thing you remember, except for a vague picture of Helen Mirren looking exquisite but uncharacteristically bland. Even as formidable a presence as Mirren's can't stand up to the lunatic intensity of Hoskins' performance. She actually seems to shrink from him, as who would not in this movie? Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:febd06cad595bfd73daaf48afde4f62b0c79868e22c1ca93d61820bae5a94d7e
+size 583

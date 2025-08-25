@@ -1,1 +1,3 @@
-The fighting scene is very cool! What's more, wife(or, fiancee) and kid are always best choices of adding humanity to the story. Yes, I always like this part. Though made before the WTC crashed, this is still a good reflection on highjacking and "sub-jacking". I wonder if these movies provided guides for terrorists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:156a497713841c2081ba11886a467679b7426fbad86441c4cdaccf06b380adcf
+size 317

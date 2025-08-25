@@ -1,1 +1,3 @@
-Saw this movie recently and had higher hopes. Not so much based upon the director, who hadn't made a cinematographic release before, but more based upon its cast. Harvey Keitel, Scott Glenn and Craig Wasson (lead role in Body double, a Brian De Palma masterpiece) have all starred in great movies. Not together though, and this fact hasn't exactly changed because of this one.<br /><br />The film is unbelievable, very predictable and cliché. The only thing that might make it slightly appealing is the selection of locations on which it's been shot. In my humble opinion: don't waste your time on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e459f031118c5bf664e32a161007ddbfbbe7990d972f7ccbc7a9acdd98cc35d
+size 608

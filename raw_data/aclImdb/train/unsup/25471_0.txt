@@ -1,1 +1,3 @@
-Check out this plot: experimental drug in a sanitarium ends up making all the people there go completely nuts, because of sanity juice sucking inter-dimensional parasites! I thought it was made in the early 80s due to the film quality and sound quality, but it turns out it was actually 2001! If you like bad horror movies, then this one is fantastic! There are so many things in this movie that make so little sense that you will be rolling around laughing hysterically. <br /><br />The lights dim and all the colors in the room go weird and stuff sort of blurs, then someone will go "they really ought to fix that!" this happens with increasing intensity and no one seems to notice that anything is wrong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fda895735aee454d5272fe88960a8c7454bf5f4e2a0515e191fa5d3d20e28097
+size 707

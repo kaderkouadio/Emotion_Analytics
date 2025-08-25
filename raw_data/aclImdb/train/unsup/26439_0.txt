@@ -1,1 +1,3 @@
-An excellent, contemporary, chilling look into the clash between art and Hollywood, soul and the devil, love and internet sex. A truly adult movie created with sharp writing and intelligent characters.<br /><br />This is exactly the kind of movie I want to see. These characters are struggling in today's world with today's challenges. Discussion of many serious themes: art, mainstream, selling out.<br /><br />Phenomenal acting from Patricia Clarkson and Campbell Scott. The cinematography is very interesting.<br /><br />Deeply, pleasurably, joyously disturbing.<br /><br />Don't miss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b6e0eab76c605336cf1cb64f0fea50a092bad37207a347f10c10da1483e5215
+size 588

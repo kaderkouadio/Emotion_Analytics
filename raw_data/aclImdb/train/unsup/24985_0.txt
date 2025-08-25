@@ -1,1 +1,3 @@
-My favorite B-movie. If you're a referential person you'll be quoting lines from this movie into your golden years. "Head! Pants now!" I also love the cameos of Allan Arkin, Steven Wright, Phil Hartman and especially Charles Grodin. I can't tell you how many people don't realize Mike Myers plays the role of the Father in addition.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa68b41a50550d002653ce4e2beb32a5332b7f50e515fc62e11db699b43b183
+size 332

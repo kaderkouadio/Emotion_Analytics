@@ -1,1 +1,3 @@
-To start, this is HILARIOUS. Although some of the jokes may be grotesque and stupid, you can't help but crack up. Jim Carrey's rubber-like face is funny on its own, but add great jokes and it's perfect. The acting is mediocre, and the story is...well...basically just put there to carry along the jokes.<br /><br />This is the ultimate highlight of Jim Carrey's career, and his funniest. This is the funniest movie of all-time, with "Planes, Trains and Automobiles" in a close second.<br /><br />9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a597af4a26afc5fc4a4d69ba12f3a1c3ae30bf390e6fcdec3dac19d73f37d98
+size 500

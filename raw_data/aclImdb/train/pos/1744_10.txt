@@ -1,1 +1,3 @@
-Years ago many big studios promoted serial films that were shown in movie theaters's in between the actual features along with a Newsreel of current events, plus cartoons, especially on a Saturday afternoon. (The parents loved it mostly) "The Return of Chandu" was a 12 episode serial where Chandu,(Bela Lugosi),"The Mysterious Mr. Wong",'34 is a magician with super natural powers and travels to the island of Lemuria to rescue the kidnapped princess of Egypt,(Nadji)Maria Alba,"Dr. Terror's House of Horrors",'43. Princess Nadji is held captive by the black magic cult of Ubasti, who believe that she is a reincarnation of their long-dead goddess Ossana. These 12-episode serials take you way back in time and are very well produced, considering we are talking about 1934 !
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b6931ce4f1bfc3d519978a2374489a994f2080ca64871fcaf5b9546d14a74a5
+size 775

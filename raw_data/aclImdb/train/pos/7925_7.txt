@@ -1,1 +1,3 @@
-Silly movie is really, really funny. Yes, it's got its dead moments, it can be a bit too obvious, it declines a bit in the second half and the story is an incoherent mess, but it's laugh out loud funny all the way. And it's worth seeing just for Ed McMahon as a right wing kook. This movie is in the same class as Elvira, Mistress of the Dark, another incredibly funny, underappreciated film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd361908ecb12952a8b55222aa5c5de1c9580e36c459cccf1b909c155f4a31c
+size 392

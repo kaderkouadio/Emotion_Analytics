@@ -1,1 +1,3 @@
-What an excellent movie. Saw it when I was a teenager and fell in love with Rex. One of my all time favorites! I thought all the acting was very good and such a beautiful voice Rex has, and what a hunk!! He certainly takes my breath away.
+version https://git-lfs.github.com/spec/v1
+oid sha256:282163bc372ef6585c60258f497b5faf118e788c617113e63411881b166dac80
+size 238

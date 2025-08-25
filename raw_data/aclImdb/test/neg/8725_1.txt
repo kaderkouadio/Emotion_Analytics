@@ -1,1 +1,3 @@
-That's a weird, weird movie and doesn't deserve a better mark than David Lynch's one! The special effects are badly made, the actors are majorly bad actors and in this movie it's not about a race which is the minority of a planet and tries to fight against the dominators, but it seems to be a crazy movie, which pays homage to sect kind of organisations. That's surely not the will of Frank Herbert, the author of the six part epic! Check out David Lynch's one, that's the perfect tribute to the novels!
+version https://git-lfs.github.com/spec/v1
+oid sha256:44be844fc606ab16e9208d6671364e70cc82d424ed9c427ade2b96d5b543cd19
+size 504

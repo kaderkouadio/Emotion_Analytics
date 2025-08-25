@@ -1,1 +1,3 @@
-Just from the box art, you know your in for a treat. This movie made me laugh so hard i almost choked! They follow the Exorcist from the start to the end. This baby must have been on a budget of $100. The FX are horrible, the acting is stale, and they play tubular bells 800 times in this movie! But it is so bad its hilarious and i highly recommend it. Pure cheese! One part during the exorcism, the room is all lit up, when the girl levitates, the room becomes dark [to hide the wires i guess] and when she comes back down, the room is dark again. Its in Turkish though, but if you want it dubbed, just dub the Exorcist audio over the whole movie, i am sure it will fit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a2ce3183b4b8b3ba3fde33ddb01aac91b6995d857fcf54caf1eaf229f65c70
+size 672

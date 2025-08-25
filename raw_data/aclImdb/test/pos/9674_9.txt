@@ -1,1 +1,3 @@
-This is one great show, that it makes me wonder why it got pulled off the air so many times. But I believe its now here to stay! This show cant compare to any other, Before Simpsons was pretty "on the edge" and than came Family Guy, and they are stretching it out to go off the "edge". The things this show gets away with is incredible. Totally work the watch! If you like the Simpsons you will LOVE Family guy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad3cae7a964a065041e7b1f3481d7deed338a4244dd416a56b1d4ee777bc3d0
+size 411

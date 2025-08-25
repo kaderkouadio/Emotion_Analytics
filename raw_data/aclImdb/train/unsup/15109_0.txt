@@ -1,1 +1,3 @@
-Bob Hoskins, Helen Mirren, 80's London !. What more do we want, along with Get Carter, this is one of the finest Gangster movies ever made. His gritty performance as his empire crumbles shows what a great actor Bob Hoskins is. With other great supporting acts this is a film to watch again and again. One scene among all shows his power in the movie : All his enemies hooked up like trussed chickens ! A masterpiece.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26166d1ec646978be125ecbb6b2a7702aa17cddccafee32a204d4f70376155f7
+size 416

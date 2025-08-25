@@ -1,1 +1,3 @@
-Why is it that Fulci fans are so die hard and fail to admit that the director didn't even make a decent horror film? After hearing so much about his films when i was a teen, and seeing all his gory make up on Fangoria magazines, i decided to finally rent some of his stuff. Was i ever disappointed, this film is ludricroious, mainly because it doesn't even resemble a horror film. Most of the time is wasted on back drop information that leads up to a banal climax.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12eb742f892d905171ab0189a6525ffa6b6d21c87ba00fd7340aa45064f5b79a
+size 465

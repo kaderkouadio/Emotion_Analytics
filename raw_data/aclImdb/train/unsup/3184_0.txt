@@ -1,1 +1,3 @@
-OK its not a oscar winner.its a Michael Winner.but this comedy has a great double act in Caine and Moore infact this is the first time i seen Moore do a comedy and he is quite excellent.a good supporting cast the script is more carry on than anything else and whats wrong with that.id sooner watch this than Trainspotting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab83eeff7d21fbc5fd1e32bc7190611606d5835ccf185e9f24c87c71723feb22
+size 322

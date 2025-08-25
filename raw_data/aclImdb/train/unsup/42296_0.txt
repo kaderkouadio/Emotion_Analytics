@@ -1,1 +1,3 @@
-This film is quite possibly the worst movie ever made. I still cannot believe how horrible this movie was. The acting was terrible. The sound was painful. The camera never moved. This film is the exact opposite of everything a good movie is. Nukie is painful enough to make small children cower in the corner for days and make grown men weep. I watched this film with my little brother and we had to stop 30 minutes in because he was literally getting sick to his stomach. By all means, if you watch this movie do NOT watch it alone or in the vicinity of sharp objects. This film is only for those who are brave of heart. Therapy may be needed after viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be8d8a11d9ed5442931122123bb113cb953cb35163c6b8add985e4ebfd447434
+size 658

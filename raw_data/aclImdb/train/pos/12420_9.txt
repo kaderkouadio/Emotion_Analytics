@@ -1,1 +1,3 @@
-A hit at the time but now better categorised as an Australian cult film. The humour is broad, unsubtle and, in the final scene where a BBC studio fire is extinguished by urinating on it, crude. Contains just about every cliche about the traditional Australian pilgrimage to 'the old country', and every cliche about those rapacious, stuck up, whinging, Tory Brits. Would be acceptable to the British because of its strong cast of well known actors, and to Australians of that generation, who can 'get' the humour. Americans -- forget it. The language and jokes are in the Australian dialect of English and as such will be unintelligible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2073a78c3857826aecd70fcc9b21ccda0a3edf90e22358da674b3e74dafb2387
+size 637

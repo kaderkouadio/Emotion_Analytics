@@ -1,1 +1,3 @@
-What can I say after I say the one line summary. Sandra does a credible job but what with the bad direction and story line it can't save it. Way too much pre occupation with guns. How can the Hollywood types rant about the need for gun control in our society and spend so much time and film footage focused on guns?? It's just worse than expected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d5c8d781c28ee94eeecf41c5486ddd890c76a1b87cedbdff3f1e0a78a3893db
+size 347

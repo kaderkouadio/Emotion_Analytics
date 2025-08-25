@@ -1,1 +1,3 @@
-This is a good film to watch on a long winter evening. Two primate behavior scientists arrive at a mountain top research station to find their predecessor frozen to death under strange circumstances. As they settle in, one of them dwells on the mystery of the frozen colleague, while the other goes right to work on the monkeys. Then they begin to slowly unravel somewhat like Jack Torrence in 'The Shining'. The whole film is held together nicely by Wallach and Culp, and the sense of austere isolation is pulled off beautifully.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea113c5db10037ecadac8e0f384d68296891928b6018179b26cc1ea79b2ae61
+size 530

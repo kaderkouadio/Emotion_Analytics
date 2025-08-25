@@ -1,1 +1,3 @@
-An 80s Aussie lassie goes for a drive in the country and suddenly finds herself in the 40s (cue: 40s car and music.) She pops out of her car to figure out what's going on, which is a bad idea because she witnesses a murder! Ooooh! She time-warps back to the 80s, and enlists her boyfriend to help her solve the mystery of the 40s murder. Eh. This really isn't that bad, it's just way too long. It almost feels like an episode of "The Twilight Zone" and really would have worked better as a half hour short. The villain is indeed creepy and it does have an eerie atmosphere going for it, but the bigger picture is just too bland. Admittedly, I was distracted throughout most of the film, but it was hard not to be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:027d725e707e15cdad57eea221e08930694072809ddce9516f4afcc5ce2b06eb
+size 713

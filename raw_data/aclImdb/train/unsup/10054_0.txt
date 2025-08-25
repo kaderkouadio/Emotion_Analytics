@@ -1,1 +1,3 @@
-This was way fun. One of my favorite guilty pleasures. All the actors are in top form here and I loved Bruce, Goldie, and Meryl. This is truly a classic in the black comedies. The score was terrific, set design fantastic, and all around excellent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1762c12debf7387b63501f82e63e6663be210358ad71fdf72e500cf570c0b216
+size 247

@@ -1,1 +1,3 @@
-This movie was an abomination. Possibly the worst I've seen. I waited and waited for some meaning to surface, but was disappointed. The movie, to be sure, was purely character driven. The problem was that these characters were not likeable. They were unbelievable and stupid. And just what was the point of the little girl drinking the beer? Travolta never should have gotten mixed up in a movie like this. His talents were wasted. The only saving grace for Travolta is that most people never heard of this movie because it was so awful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:956dc6f576eeca3a54d3b8857b4f357863032ebbb99c53e3cfbf5cc85dd57185
+size 537

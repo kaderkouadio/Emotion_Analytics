@@ -1,1 +1,3 @@
-It really is a shame that films like this never snag Best Picture nominations, because this one is simply a winner. This is by far the most consistently hilarious comedy I have ever seen. Its screenplay and design are impeccable, not to mention the incredible cast. I can quote this movie for hours on end. Watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74b7c5290621f46af97f52487d586d72dac9cb4a9783b9936351a594e0e8b3ed
+size 316

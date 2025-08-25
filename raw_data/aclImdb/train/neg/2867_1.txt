@@ -1,1 +1,3 @@
-I was lying on my bed, with a really bad cold or flu or whatever. I figure maybe I'd kill some time watching some horror movies my mom bought for me a little while ago. I wish I never picked this movie! After I watched it I felt even more sick and I wanted to throw up. Afterwords(when I got better of course) I did some research on Dennis L.Rader and I noticed that the Dennis in the movie was nothing like the real one. I hope that no one ever watches this movie but if they ever do don't eat or you'll feel the way I felt after I first watched it. I think you would have a better time watching The Santa Claus 3. At least that movie had better reviews on this site.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbde1ded394e3a704f49349b4c275c4123914e75dd91398aaf503928d2f8ffc3
+size 668

@@ -1,1 +1,3 @@
-This spirited little low-budget horror film deserves more than it's reputation. I had the fortune of picking this film up (believe it or not) on DVD and needless to say I wasn't expecting much from a film called Death by Dialogue, with a possessed script and an 80's alt-rock band starring Ken Sagoes, who was one of my favorite characters from NOES. <br /><br />The film does have some ultra cheesy moments but it's decently crazy and gory at times. Plus...nudity. I'd say if you find it on television or in the old releases at your local videostore, be a good-little slasherhound and pick it up and give it a view. As stupid as it is it's worth at least that much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3120a0993976bd04d17e66d17e2a0bcd493e48480db1bea08ed9e274bf277c74
+size 666

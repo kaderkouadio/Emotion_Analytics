@@ -1,1 +1,3 @@
-Those wishing to see film noir remakes, should not see this as as a remake, you will always be disappointed. Instead, enjoy a gripping performance from Dennis Quaid and visual imagery to commend. The colour drains from the film (literally, not metaphorically!)) as the plot gathers pace, and the dialogue is crisp and gritty. The opening dialogue is clever, and the viewer is carried along by a sharp screenplay and a real, original film noir feel,
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcee18daf15c271421168e2a68d50d68c8f3feef8aebeb082805307dcc604e4f
+size 448

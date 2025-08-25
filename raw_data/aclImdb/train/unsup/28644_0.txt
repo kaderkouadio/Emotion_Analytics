@@ -1,1 +1,3 @@
-Hinterholz 8 is one of the best austrian movies I've ever seen, even better than "Indien" or "Freispiel". Roland Düringer and all other actors, mostly comedists, acted at their best. A great screenplay and some really funny scenes ("Made in Japan, destroyed in Sulz im Wienerwald") made this movie adorable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2178609c0d0b41bed5399bef0de320194e1c12f84199decc3312fdf4f1e264ad
+size 308

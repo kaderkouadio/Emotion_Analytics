@@ -1,1 +1,3 @@
-Final Fantasy VIII is, by far, the best game I have ever played. The realness of the characters is astounding. I am in love with all the guys, especially Squall and Seifer.<br /><br />The storyline is phenomenal... Seifer and Squall are two rivals attending Balamb Garden, run by Headmaster Cid and NORG. Their teacher, Instructor Quistis Trepe, is later relieved of her teaching duties and becomes a SeeD, along with Selphie, Squall, and Zell.<br /><br />Laguna is the father of Squall, the SeeD.<br /><br />That is all
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b7b0c7595e2f0193a7bf0ebad158060e42c2565b72ae343c72cf2d0116e748e
+size 520

@@ -1,1 +1,3 @@
-This is a stupid movie. When I saw it in a movie theater more than half the audience left before it was half over. I stayed to the bitter end. To show fortitude? I caught it again on television and it was much funnier. Still by no means a classic, or even consistently hilarious but the family kinda grew on me. I love Jessica Lundy anyway. If you've nothing better to do and it's free on t.v. you could do worse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f49493da1a8f07309b61f660c63be621eb09fb3e2ff25825f7a417e481d0421
+size 413

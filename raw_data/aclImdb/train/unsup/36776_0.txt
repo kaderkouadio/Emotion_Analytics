@@ -1,1 +1,3 @@
-I rented this DVD with the risk that it might be "too wierd." Forget that! It wasn't wierd at all? It was just bad! What were all the reviews about ghosts about? I didn't see that at all? The big name talent all just had "ghost roles." Dont' be fooled by that.<br /><br />Waste of time
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1c35484bddc4f3fbc9e44c6572b00d181d0313347538bf5bceeff90fd08201
+size 285

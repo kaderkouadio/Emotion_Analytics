@@ -1,1 +1,3 @@
-it aint bad, but it aint good. it is just entertaining.<br /><br />as a comedy which it is supposed to be, it's dreadful. not many laughs at all as every joke in the movie has been done a million times before.<br /><br />it's a shame as all the actors in the film are great usually, but none of them really do much. and the ending sucks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef315ff99f9086a359501e20164dd448a9ee1341fdbc0d5f165829bac09b0f7
+size 337

@@ -1,1 +1,3 @@
-"Mifunes Sidste Sang" is brilliant!It's very humorous and funny and there's a good balance between irony and sadness.The acting is excellent and the direction is even better.Usually I'm not a fan of comedies but this film totally cracked me up!Gotta love especially the performance by Jesper Asholt(Rud).My highest recommendation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d54cc0cbf62d0d7003b8c437cbbb89cff858c792d0e36ec078cc6f3d9820fcf
+size 330

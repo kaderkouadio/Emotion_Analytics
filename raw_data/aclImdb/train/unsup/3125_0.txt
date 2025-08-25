@@ -1,1 +1,3 @@
-If you liked the show, you will love this. In fact, the only thing that p***ed me off about this is that it ended.<br /><br />I hope to see the show on DVD soon. Until then, I'll watch this live show.<br /><br />Buy it, rent it, watch it. I'm telling you for the last time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e4885239d74ca735402e0dfad7ec87d8c0da6d4aa7e66d9fff3a7b162f0fdd
+size 273

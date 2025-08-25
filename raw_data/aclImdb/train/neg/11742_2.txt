@@ -1,1 +1,3 @@
-This crew-versus-monsta has been done a hundred times, sometimes better. This one was pretty slow-moving ; only the monster's resurrection was really worthwhile. Attempts at character developments gets botched by routine. Yeah, "routine" is the word. Went straight to video in France. No wonder
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3cd77827c323256001bbc9607c742cdcb7c5d637f291eb293c9fe43371fddc
+size 294

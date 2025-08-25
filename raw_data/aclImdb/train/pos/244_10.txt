@@ -1,1 +1,3 @@
-I didn't know what to expect from 'Ned Kelly', but absolutely loved it. It was dark, dramatic and gripping. It also felt very authentic, I felt that I had been transported back to the 1800's. I've never been much of a Heath Ledger fan, having only seen him in teen type movies, however he is quite compelling in this role. Ledger plays Ned Kelly with dignity and intensity, showing us how an highly spirited boy became Australia's most notorious killer. Naomi Watts is great in a supporting role as Kelly's society lover. Highly recommended - and that's from an Aussie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbb5d960013fb6a3acc6dec40d0ccdbb19317c1f3e8dc0e3dee7d25cce29a778
+size 569

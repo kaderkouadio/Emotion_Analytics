@@ -1,1 +1,3 @@
-Phantasm puts the live action movies to shame. It depicts Batman as what he is supposed to be, the Darknight Detective. The live action movies leave out the detection and concentrate on the action. This is also one of the best animated movies I have ever seen. The quality of the artwork is amazing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26dbf293f2d687b2e2e9651651e6f26be42de244469e38253a76b9278279e637
+size 299

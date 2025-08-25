@@ -1,1 +1,3 @@
-Irene Jacob is mesmerizing in this final installment of Krzysztof Kieslowski's trilogy and the story is infinitely satisfying as it succeeds in tying all three films together. I am simply in awe of the amount of talent it took to do one of these stories, let alone all three. Everything seems to fit together so precisely, all the elements of filmmaking so eloquently executed, and the end result so much greater than the sum of the individual parts. Trois Couleurs is epic in nature and belongs on any list of great cinematic achievements. Simply brilliant!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb029a7873451a7af96f1bedc0f561d122bb65750ed5523c9edc69acaa1a93b9
+size 558

@@ -1,1 +1,3 @@
-Considering the film's title and cover I expected a type of Zalman King thriller when I rented this movie. Some nice nude scenes wrapped up in a shallow story. But I was wrong. A good script, good acting, great camera perspectives and a beautiful sphere setting made this a very compelling movie. All well directed by Michael Christofer. The chemistry between Banderas and Jolie is enthralling. It keeps the tension throughout the whole film. Banderas plays the romantic guy who falls in love with a mysterious beauty played by Jolie. The more he becomes aware of what is happening to him the more he finds himself lost in the love for her. Only the title is misleading. They should have stuck to the original "Waltz Into Darkness".
+version https://git-lfs.github.com/spec/v1
+oid sha256:a147e23cc6a108240fbb56d055d36a098be2a213e19285bd76959d9dd7edd858
+size 732

@@ -1,1 +1,3 @@
-This film must have done well in the box office, in order to give Gator the budget it deserves. This film had no budget, needed a script rewrite, and a better ending. There is flashes of brilliance in this movie. The boat ride scene, Burt driving the mean machine, and his chat with his parents. You can tell Burt is a Southerner, and not a actor. This movie shows what Gator would be like, Burt's best film. Too, bad this film did not have the same funding and was done on the Rush. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:144549b38ccce011618d0461400a52caef224c3040d1b10f8d523a2e25cd70b1
+size 488

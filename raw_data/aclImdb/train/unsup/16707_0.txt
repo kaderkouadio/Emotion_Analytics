@@ -1,1 +1,3 @@
-Alright, this film wasn't the best in the world. In fact, it probably ranks in the bottom half. Most of the film wasn't very good or inspiring but the bit that caught my eye was the sequence near the end were Wind and Fung were battling it out in the rain. That was probably the best bit. Some good Hong-Kong Wire works but no Crouching Tiger Hidden Dragon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a22948a2c75aadbf73c81ee3df08edeb986f15ba0a664a533ab602a688754472
+size 357

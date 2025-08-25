@@ -1,1 +1,3 @@
-I first saw this movie when I was 9 years old and it was the scariest movie I'd ever seen. I vividly recall the scenes of terrified people running from the monster and being melted by the radiation waves emitted by the beast!<br /><br />I watched the movie again last year and still found it compelling, albeit in a low budget way. I remember the sub-head, or perhaps the trailer to be "It came from the sea." Or, perhaps I was hiding under the sheets and didn't hear it correctly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d03c72e86b0335486431b23396aa6323562fdc8c46fd80cb0582ad829912e017
+size 481

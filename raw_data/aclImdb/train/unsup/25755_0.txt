@@ -1,1 +1,3 @@
-This documentary shows you Bruce Lee's life, how he went to be as good in Martial Arts as he was. There are also a great look at the original version of the "Game of Death" fighting in the Tower scenes. These scenes are just great, very different from the 78 version. And they are never been showed before. So take a look here, and see how Bruce Lee takes his one inch punch and much more....
+version https://git-lfs.github.com/spec/v1
+oid sha256:173fca8bb36a8f155b0c84415378d3b80f9c3f298b022a8b61fb05691a8e2183
+size 392

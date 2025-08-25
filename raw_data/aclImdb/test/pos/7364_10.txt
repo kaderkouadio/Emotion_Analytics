@@ -1,1 +1,3 @@
-This movie is definently a horror movie and if you do not get scared than you must not be watching this movie. It works on the old techniques but throws something new into the mix. This movie grips and runs and hides within your mind. The movie has a point to it unlike other horror movies. Watch it for a thrill and shock to your system.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcb1a1b476c7377e679a4948b54c46c98cb0668a1057b143fabb4921f43597c9
+size 338

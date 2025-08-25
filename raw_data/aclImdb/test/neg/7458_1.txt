@@ -1,1 +1,3 @@
-Everything about this movie is bad. everything. Ridiculous 80's haircuts. Ridiculous moustaches. Ridiculous action and fight scenes where you can actually see that the adversaries do not even hit each other. Bad, bad, bad 80's music. Repeated scenes of people running through woods. A bad guy with a silver plastic hand and silly hair. Stupid dialogue. The acting is nonexistant. Everything looks extremely cheap. This movie even surpasses "Plan 9 from outer space" in its utter badness.<br /><br />It's not "funny bad" it's just bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e90ad0d73798e5337665b6bfe3c904ffb1246aed42640bfeff59fef740a3a43
+size 534

@@ -1,1 +1,3 @@
-This is not a bad film. It is not wildly funny, but it is interesting and<br /><br />entertaining. It has a few funny moments. Cher gives a good<br /><br />performance in a role that is very opposite her real-life self. Her<br /><br />performance alone is worth the watch. If this movie had come out<br /><br />today it would not have been nominated, but by '80s standards it<br /><br />was excellent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4afb846d119d34c96d7ddf2392254222e64ac61dce26c8d5e00e8201661507c1
+size 401

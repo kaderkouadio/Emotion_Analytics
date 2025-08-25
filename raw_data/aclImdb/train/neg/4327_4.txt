@@ -1,1 +1,3 @@
-Some amusing humor, some that falls flat, some decent acting, some that is quite atrocious. This movie is simply hit and miss, guaranteed to amuse 12 year old boys more than any other niche.<br /><br />The child actors in the movie are just unfunny. When you are making a family comedy, that does tend to be a problem. Beverly D'Angelo rises above the material to give a funny, and dare I say it, human performance in the midst of this mediocrity.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be32d8a9fc084ff1762579ab10c667ad47655ef62cb7eb217b53ba1baaa59d2
+size 447

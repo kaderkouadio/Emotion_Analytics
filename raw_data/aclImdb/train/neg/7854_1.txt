@@ -1,1 +1,3 @@
-wow this is the worst movie ever. the only reason i signed up for IMDb was so i could complain about this movie. i have never walked out of a theater or stoped a DVD but i almost stopped this one (and i should have). but i watched it all the way to the end just to get let down again with an absolutely terrible ending. wow if this is all that wes craven can produce his time is long up. I've never seen the first one and will never after watching this. its terrible acting with a terrible plot. hey looks someone is shinning a mirror at us lets go check it out. and the sad part is that when this movie came to DVD it was completely checked out at blockbuster forever. so i feel bad for all the people that saw this junk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09ea3e4f3f9ca2af73b7dfcb0479d283c1d9019beaf88960fced30f2f48e1d52
+size 722

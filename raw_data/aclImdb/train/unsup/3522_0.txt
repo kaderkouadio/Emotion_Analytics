@@ -1,1 +1,3 @@
-After hearing what a great movie this was I was looking forward to watching it. Not only did the movie fall far short of what the critics promised I found most of it to be unwatchable. We ended up fast forwarding through the movie to find out what happened. Definitely a movie to be skipped.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29735e5901e89cafa6f7cebee315dd68a9ff34bd5237325f517d8dee94dd92f6
+size 291

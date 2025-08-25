@@ -1,1 +1,3 @@
-This had potential, but the script ran out of ideas after 10 minutes and became obvious and completely predictable. Billy Connolly is held back and allowed to show only a few glimpses of his great comedy and acting talent, while Sharon Stone goes way over the top as she tries to compensate.<br /><br />A poor film all-round, where deus-ex-machina rules.
+version https://git-lfs.github.com/spec/v1
+oid sha256:700a845199c2abbfa64b150013f3a7b36f42bf077e77b9ba0642cbe0bc228876
+size 354

@@ -1,1 +1,3 @@
-Black Rain is a superb film, but watch out for the DVDs currently being sold for as much as $300 apiece. I have the DVD, and it's terrible. Very tiny non-anamorphic image that has to be blown up to resolution-killing size. Acceptable sound. This is a primitive DVD that absolutely *has* to be rereleased.<br /><br />BTW, I also own the laserdisc and the VHS of Black Rain. The VHS is a huge step upward from the DVD! And the laserdisc has far and away the best picture of them allsubtitles in the black, sharp, big picture, simple but very good soundtrack. Buy the VHS and avoid the preposterous prices these scam artists are demanding!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3715e45f6603a92f6462b4f3dfddb8f67036ad1349406dc27cc85bf8a7cbb62e
+size 638

@@ -1,1 +1,3 @@
-"Delusion" is what you experience when you watch this flick and then believe you saw something worthwhile. This flick, which tells of a trio of semi-psycho travelers who are up to no good somewhere in the CA desert, is amateurish and just plain stupid. The film suffers from an awful story, a lousy screenplay, and some terrible direction just to mention a few of the deficits. If the flick has anything at all going for it, it's B-movie diva Rubin's even performance. Don't waste your time on this turkey. (D)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b9c6610322abd45f7b8dcaeb1bd8cb2dc7f50654079ccb2303bd7ff70fd94b
+size 510

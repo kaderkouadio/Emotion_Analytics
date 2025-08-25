@@ -1,1 +1,3 @@
-I love the first Jaws-film. That is probably the best film ever done and this is the second sequel and I like it, some of the effects it`s very bad but the film is pretty entertainment. The acting is pretty good and the sharks looks great. This time is the biggest shark ever, a real monster. I hope I will see this film with 3D-effects sometime.<br /><br />Rating: 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:b482f87a4f7615ff266b806797c54d10df7bdb6e6c7af7c32bbcf34cea233ca8
+size 367

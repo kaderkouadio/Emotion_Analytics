@@ -1,1 +1,3 @@
-Anything with the great Jack Lemmon is always worth checking out, but... Sorry, I have to agree with Leonard Maltin on this rather controversial movie. I found "The Out-of-Towners" to be an endless series of mishaps that before long became extremely tiresome to watch. The characters, especially the whiny wife, grated on my nerves and the only amusing part of the entire film was the ending.<br /><br />I'm not familiar with the Steve Martin-Goldie Hawn remake, but surely the main characters in that one can't be this irritating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13241a5747c39389ef474ccaa2a9b39537f15c6a87a7c6203cdab8593ac1d1c1
+size 531

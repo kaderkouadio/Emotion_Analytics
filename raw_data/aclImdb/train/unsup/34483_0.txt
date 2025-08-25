@@ -1,1 +1,3 @@
-Bloodeaters (a.k.a. Toxic Zombies) seemed to be a 1980's satire on propaganda such as Reefer Madness or Teenage Devil Dolls. The movie itself is toxic, but the entertainment factor delivered by such makes this movie more than what it is. I'm surprised that it is not more of a cult classic. It doesn't take itself seriously, but neither does much satire. This terrible movie is a gem simply to sit and laugh at. For this factor, we'll give it a three out of ten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49a787ef5d62b7fbb7011501d2e151ba267baebd277591916045f5f2bc60fefd
+size 462

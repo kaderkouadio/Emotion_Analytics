@@ -1,1 +1,3 @@
-The idea of splicing the cat's genetic material with Grieco is an interesting idea (similar to Cronenberg's Fly remake), but it just isn't carried off real well here. What could've been a nice little exploration into the psyche of a human who is picking up the traits of a cat, is instead just boring.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0309e3546f875a1a5f3717d15c336d8dba0e59af71c6945fe9ed05431bc2d318
+size 301

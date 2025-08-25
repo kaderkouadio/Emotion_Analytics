@@ -1,1 +1,3 @@
-I'm easily entertained. I enjoyed "Hot Shots" and "The Naked Gun" and their many sequels, even when most people found them unbearable. I've even managed to enjoy most Pauly Shore movies. There is only one movie that I've seen that I can honestly say was bad...and this was it. It's been a while since I've seen it, but I do remember sitting in the theater thinking, "This is a dumb movie. Why did I see this?" It's honestly the only movie that I cannot recommend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36bef181690a3ebba6e45e7d3fcd3dbee2429e059f8c129fd0eb495a61bde31
+size 463

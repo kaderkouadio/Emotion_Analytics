@@ -1,1 +1,3 @@
-Unusual? Yes!<br /><br />Unusual setting for an American wartime movie, New Zealand.<br /><br />Unusual subject matter, four sisters and their relationships with American soldiers, from one bearing the illegitimate child of the dead son of a Senator, to another living with seven Marines (one at a time) before being murdered by her returning POW New Zealander husband.<br /><br />Unusual to see Paul Newman deliver such a poor performance so soon after his unforgettable role as Rocky Graziano in the brilliant "Somebody Up There Loves Me".<br /><br />Unusual for two fine "Stars" Joan Fontaine and Jean Simmons, to leave so little of themselves on a movie.<br /><br />Unusual that I could be bothered to write a review of such a poor film, give it a miss!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9559b399edeffb83307649373dd1f73b4a755af07beec77827dec5dac695101d
+size 757

@@ -1,1 +1,3 @@
-Believe me, I have seen some crap in my years as an avid horror fan. Bad doesn't even begin to describe this movie. Like watching paint dry. The characters are offensive stereo-types, namely the drag-queens. A total waste of an hour and a half, not to mention the 3 bucks renting it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:799bb5c1902b8a079a85a7b1f0515b129519ea531b6d8ff6d347cb9abe4f842a
+size 283

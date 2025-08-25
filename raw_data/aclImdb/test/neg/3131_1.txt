@@ -1,1 +1,3 @@
-This might have been an excellent flick. However, as many other people think so do I. It is poorly done due to the languages transfer. If the entire movie must be read then it kind of takes away from the movie and becomes something else. It does have an excellent rating as far as I am concerned and I couldn't wait to rent it. But, once I did it was a real let down. Out here in Boardman, Ohio I could not find an English version to anything similar. This movie was also compared to Dark Hours and this we will not get to watch in Boardman, Ohio. It is not available. So I guess we will never know how good the movie actually was.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d83d67fe8a01dbd8bfdeacbc7db3ccc93d747f5e07c955c7f91727e50f13c03
+size 631

@@ -1,1 +1,3 @@
-I really wanted to love this movie, but I didn't even like it.<br /><br />The twins are great characters, and the Polish brothers do a fine job with their portrayal of them. But the rest of the film is nothing but a mishmash of obvious symbolism, bad acting and maudlin happy cripple-ism.<br /><br />Boo!<br /><br />For a real piece of art about freaks, check out "Geek Love" by Kathleen Dunn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da59b6f812e7d22060d507c8c00fe5955008c70f0f63633eff772d5a0cec1fc
+size 393

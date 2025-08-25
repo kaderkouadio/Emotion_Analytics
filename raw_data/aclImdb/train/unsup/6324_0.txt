@@ -1,1 +1,3 @@
-Career Oppertunities is not one of John Hughes best films, but it's not one of his worst either. I like it because i can relate to the main characters, Jim and Josie. Jim is lost in his own world and makes up stories, I used to do that a lot when I was younger. I like how he is admired by the little kids of the town, while everyone else knows he is full of crap. The cast is full of notable names. Frank Whaley is known for some of the smaller films, but he is probably best remembered as Brett from Pulp Fiction. Jennifer Connelly has been in several films I've seen. The movies top veterans are Barry Corbin and Noble Winningham. I like the exchange of lines they make throughout the film. Even though this one is so-so, it still has some character.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32c797417ca881c790ecc6c9188e1518d14f316adb4ad27746a2c9f654212168
+size 753

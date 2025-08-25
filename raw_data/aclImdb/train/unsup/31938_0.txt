@@ -1,1 +1,3 @@
-It was an excellent way to start of the She-Ra series and end the Masters of the Universe. He-Man (Prince Adam) discovers he has a sister She-Ra (Princess Adora)and that Hordak, Skeletor's former mentor kidnapped her as a baby, and raised almost as his own daughter. He-Man's task is to travel to Etheria (the world that Hordak took her to) and give her her own magic sword (called the Sword of Protection) and reveal to her her true identity, the Princess of Eternia, and She-Ra. If you liked either series, it is a must see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:981c85a292395ab6d62d5cad94894bbceceecbf1ecd718c8aeacc76f5825224b
+size 526

@@ -1,1 +1,3 @@
-This delicious, light, romantic comedy is full of surprises and subtleties.<br /><br />Witfully written and superbly acted, it shows why Juliette Binoche is such a great asset to modern cinema. Outstanding chemistry with Reno makes this theatrical play made into a movie a rewarding experience to be treasured. Juliette Binoche shows her talent in a totally different role to most of the ones she has played before, she is a common girl with many problems and yet her nobility and class shine through. If you like Binoche you will love Jet lag. Don't miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70523bf8fac48b76a4a6203b8f777722d973af786d84d96db534c00bf1f672b3
+size 559

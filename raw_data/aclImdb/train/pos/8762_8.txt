@@ -1,1 +1,3 @@
-"What would you do?" is a question that will stick in your mind for weeks after watching the emotional Brokedown Palace. You will also be left wondering if Alice (Danes) was telling the truth or not - a issue that is left unresolved, and rightly so. This is a particularly well acted and beautifully shot film. Although it is slow at times, its pace is reflective of the story line - but a lot of the film will have you on the edge of your seat; wanting to know what happens next. The ending will also leave you imagining yourself in the shoes of the lead characters, which are brilliantly played by Kate Beckinsale and Claire Danes. Bill Pullman's performance is commendable, too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9c7eba04fd74bbc6aaa8d1e67bc5cdf8bba6be40fe86ec8a5cf3bfd8b6c7a12
+size 681

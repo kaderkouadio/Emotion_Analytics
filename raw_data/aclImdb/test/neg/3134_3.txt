@@ -1,1 +1,3 @@
-Bardem is great. Actresses are great. But Amenabar did not have to do it like this. It is OK that he defends his position on the euthanasia, an extremely delicate issue. But doing it like this makes him lose his point: the movie is a false, offensive to the intelligence, full of tricks and even sometimes extremely boring. Some scenes are advertising material, more than a movie. Women are incredibly attracted to this mind-sick man who wants to make someone to kill him, not understanding the implications of that. He seems not to care about no one and thank them for their caring, love and attention. I think that Amenabar might have make people think about this issue in a different way but the way he chose to do it I believe is not correct. He could have make his point more powerful exposing the other side of the coin without mocking it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9921d79b05ffad8a403437e58b5050bdb917bf197d8fedc36f60443c1bf1a8b7
+size 845

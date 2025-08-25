@@ -1,1 +1,3 @@
-It would be hard to make a film as witless as King Ralph without really trying. It's a shame, because the set-up (gauche, unclassy American takes over the stuffy British aristocracy) has good comic possibilities and Goodman is generally a fun actor to watch.<br /><br />Most of the problems are directly due to the feeble script and weak direction. There are no surprises and none of the comedy set-pieces are handled with any wit or skill.<br /><br />Avoid this film like the plague.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d1627176de38e42192403b122ca9e7bd86047882985af0ec212c15de3cca3bb
+size 484

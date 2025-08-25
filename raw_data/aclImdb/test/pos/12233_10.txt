@@ -1,1 +1,3 @@
-Challen Cates does a wonderful job depicting a conflicted bride, torn between the challenges that await her professionally, the memories of the freedom she thought she would have when in college (inspired by a famous author) and the safety of her pending marriage to a man she really doesn't love. This movie is definitely worth seeing--- as predictable as it may be, the acting is inspiring and real chemistry exists between Challen Cates and Malcolm Jamaal Warner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:429610f3599ab0e98ec2d344ff3e3479543643fde6799a6c0fd804f98ad33baa
+size 466

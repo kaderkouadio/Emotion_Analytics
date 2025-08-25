@@ -1,1 +1,3 @@
-I have to say although this movie was formulaic throughout with a plot stolen from films like Friday the 13th/I Know What You Did Last Summer, this movie wasn't that bad. In fact it wasn't as bad as most of the Horror films Hollywood has released recently. The killings although at times a little too imaginative were in most instances just that, original. The cast was mediocre which is to be expected from low-budget features but much better than what that much bigger studio Artisan/Lions Gate has been offering. My only real complaint that wasn't due to the film's budget, which must have been small, was the contrived "twist" ending. I'm sorry but this is what put this film in the bad category for me. The ending was just stupid and tacked on. Before that I was a little bored, but actually enjoying it. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:610e0b13c7c97cf323a1eb44d3a09d47dcf15097dbada6acc37b53ab749b9ef4
+size 814

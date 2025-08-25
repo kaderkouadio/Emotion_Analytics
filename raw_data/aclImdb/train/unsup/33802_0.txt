@@ -1,1 +1,3 @@
-This film atrocity must be seen to be believed. By comparison Plan 9 looks like Citizen Kane. Any movie that can combine vampires, space travel, lobster-men, bat-pygmies, snake-men, & cavemen into one utterly illogical, incomprehensible "plot" gets a special place in my bad movie lovin' heart to begin with. When compounded by adding tinted black & white stock footage as a plot device, a 50-cent plastic toy spaceship with a bic lighter for propulsion(I swear I'm not making this up), and a "Spectum Analyzer" that is clearly a caulk gun, it transcends the normally accepted standard of "so-bad-it's-good". The WORST of the worst.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac22571eb4d00a5734d45e04be80b2d70ce503cd9c26a1cb4777e9589f9c520d
+size 632

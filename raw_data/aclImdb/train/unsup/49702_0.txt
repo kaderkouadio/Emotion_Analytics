@@ -1,1 +1,3 @@
-This is an incredibly dull, boring and dumb film, an amalgam of IT HAPPENED ONE NIGHT and THE MORE THE MERRIER. Heiress on the lam takes a job in her grandfather's emporium, shadowed by reporter who's wise to her identity, looking for a story. Neither Fredric March nor Virginia Bruce can raise this turkey above a mediocre level. What is wonderful is Patsy Kelly's inspired comic supporting performance (which should have netted an Oscar nom). She's hilarious, especially in her Vibrato scene, demonstrating a vibrating machine. Oddly, the film earned an Oscar nom for Scoring- there was about ten minutes of music in the entire film, underscoring the Main Title and four scenes and none of it was above the mundane. More studio politics, I guess. See this for Patsy Kelly, but for naught else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:176fdb1d7a0716d6d6b65ea439bc72272031cc5326459ff5eb9e6d4c93d60b86
+size 795

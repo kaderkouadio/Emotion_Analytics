@@ -1,1 +1,3 @@
-The whole thing seemed to be constantly on one median level, with very few shocks. It never really yanks you into the story, and the music is extremely loud and dirge-like, making you feel like you're watching a very tepid documentary made without much thought. An extremely peculiar, rather uninteresting film, a considerable step down from the first film (which wasn't terrific, but was at least exciting!)<br /><br />I think they should have got Tobe Hooper in again - perhaps he was busy. It's very similar in feel to Halloween 4, which was a complete waste of time - there's a feeling that nobody knew what they were doing during the whole creation process, particularly the music composers, who were obviously filling time until they were discovered by Philip Glass.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b429e971f252d4c8e24949ee73b56d2f8446495d1f272ca2f13596f4d92effe9
+size 772

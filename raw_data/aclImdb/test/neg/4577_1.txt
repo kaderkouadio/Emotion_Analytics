@@ -1,1 +1,3 @@
-I had the misfortune to catch this on a flight recently. I had the bigger misfortune of having it played on my RETURN flight as well. Obviously Demi's attempt to get some "arty" cred, the movie is a shambles because of her lousy acting ability. A better actress might have made this work, but a simple look at the face of Moore shows the emptiness within. At least she's not ruining American literature this time out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:127f34a9c4df39ad2ac8bd4f2219ad438a40872729da1561e43906b913d8491a
+size 417

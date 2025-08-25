@@ -1,1 +1,3 @@
-they (dueringer, dorfer) are good stand-up comedians, young, not ugly, have money, the girls love them, the audience is appreciating everything there doing<br /><br />and then they made this film ...<br /><br />no story at all, some jokes were old in the fifties, the acting is awful. save your money for something useful, like a gift for your girlfriend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c20e54eb545ff28598936df5be56e80d8f3762b9b24ce128c9e39c9b10c6d8f
+size 355

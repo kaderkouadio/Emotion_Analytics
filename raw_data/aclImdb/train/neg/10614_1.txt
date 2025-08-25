@@ -1,1 +1,3 @@
-This is the worst movie I have ever seen, and I have seen quite a few movies. It is passed off as an art film, but it is really a piece of trash. It's one redeeming quality is the beautiful tango dancing, but that cannot make up for Sally Potter's disgustingly obvious tribute to herself. The plot of this movie is nonexistent, and I guarantee you will start laughing by the end. Especially where she starts singing. It's absolutely unreal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:091ffb707e1f29f56fbf160eb82cfe0e9699dd1d71aff31ffa5316518c0ed307
+size 440

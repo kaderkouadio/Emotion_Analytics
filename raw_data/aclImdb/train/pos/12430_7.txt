@@ -1,1 +1,3 @@
-Normally, I don't watch action movies because of the fact that they are usually all pretty similar. This movie did have many stereotypical action movie scenes, but the characters and the originality of the film's premise made it much easier to watch. David Duchovny bended his normal acting approach, which was great to see. Angelina Jolie, of course, was beautiful and did great acting. Great cast all together. A must see for people bored with the same old action movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:738470c87c9014a9916d21233215b256b660b41b7048ddfe417c8782139bfb11
+size 472

@@ -1,1 +1,3 @@
-Good action show, but nothing new. This one took place high in the mountains, which showed some nice scenery and such. One man takes on a group of mercenaries, the lead flies, and he kicks butt. It could have been called "Rambo Goes to the Rockies", it was that pat. It did have one very effective scene right at the first of the film which had me cringing in horror. Not a bad picture, but just same ol', same ol'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc33649d040decb166b00d12df936c697916de392f658bf48c205fa61be827dd
+size 415

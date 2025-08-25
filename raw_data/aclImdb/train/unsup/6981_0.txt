@@ -1,1 +1,3 @@
-I love this film! Far better than "City of Lost Children"...which I liked, but not as much. The way the movie jumps into its setting, the quirky characters and its sense of calm at the core. I've always viewed it as a triumph of youth, creativity, and love over greed and treachery. Absolutely a must film. Especially if you liked "Brazil" Now if I could just find an affordable VHS copy!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:55bc257058f45e1e0e94a2c35a97ddbcac84b544745e0086ff55b47533169f4b
+size 390

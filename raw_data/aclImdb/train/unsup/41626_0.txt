@@ -1,1 +1,3 @@
-Ten years ago I loved this type of movies; Action, SciFi, Van Damme. It should have everything an 18 year old would love in a movie.<br /><br />But even back then this particular movie stroke me as not being a very good one.<br /><br />Yesterday I watched Cyborg again, and oh my god...... this is by far the worst movie I have ever seen, and I have seen quite a few.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39eaea665ff9e5da222b6492a583d496c208bf1b069e4993c1fa2ec10844d0ce
+size 367

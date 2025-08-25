@@ -1,1 +1,3 @@
-Simon Pegg plays a rude crude and often out of control celebrity journalist who is brought from England to work for a big American magazine. Of course his winning ways create all sorts of complications. Amusing fact based comedy that co stars Kristen Dunst (looking rather grown up), Danny Huston, and Jeff Bridges. It works primarily because we like Simon Pegg despite his bad behavior. We completely understand why Kristen Dunst continues to talk to him despite his frequent screw ups. I liked the film. Its not the be all and end all but it was a nice way to cap off an evening of sitting on the couch watching movies.<br /><br />7 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e111c7cf12246aaa7cd39ab05f0b580d018396a4fe50a74661eaf14917025015
+size 644

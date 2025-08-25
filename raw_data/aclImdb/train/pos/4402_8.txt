@@ -1,1 +1,3 @@
-After seeing all the Jesse James, Quantrill, jayhawkers,etc films in the fifties, it is quite a thrill to see this film with a new perspective by director Ang Lee. The scene of the attack of Lawrence, Kansas is awesome. The romantic relationship between Jewel and Toby Mcguire turns out to be one of the best parts and Jonathan Rhys-Meyers is outstanding as the bad guy. All the time this film makes you feel the horror of war, and the desperate situation of the main characters who do not know if they are going to survive the next hours. Definitely worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46012fb7100a2da2adce2b40eb8df58d4264e06b79700f1f2eb337fc22a6b505
+size 564

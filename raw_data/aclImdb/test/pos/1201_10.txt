@@ -1,1 +1,3 @@
-I'm not a big musical fan, but this is one of the few I really love. Unlike many other musicals, such as "The Sound of Music," none of the songs are about gratuitous stuff. Each song is social commentary, acumen on war, sexuality, recalcitrance, spirituality, and freedom. Especially amazing songs are "Easy To Be Hard," "Age of Aquarius," "Hair," "Flesh Failures/3-5-0-0," "Walking In Space," and "Hare Krishna." Totally revolutionary and wonderful. I can't wait to someday see it live!
+version https://git-lfs.github.com/spec/v1
+oid sha256:62799dd042b3043fc8150c4675d2cd016303cfe0d74334d98162a1b2b5c2313d
+size 487

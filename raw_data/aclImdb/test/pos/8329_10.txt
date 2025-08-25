@@ -1,1 +1,3 @@
-Walking With Dinoasaurs is a new and exciting programme that uses amazing visual graphics to display the living dinosaurs. The information presented here is stunning. The moods in the series alter to get your attention, things such as dramatic music when fights break out. There is clear evidence here for one cracking documentary! My greatest thanx to the writers, directors and producers, and not forgetting the other people involved. If you stumble accross this video in shops I suggest you buy it not just for the graphics, but for the extreme efforts and productive work the series has to offer. 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:933697b0df40b5b010c171e685140bc79708fb476a2970839145ac3424fa8b6b
+size 606

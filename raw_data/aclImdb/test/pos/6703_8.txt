@@ -1,1 +1,3 @@
-i am surprised so few have good words for this movie. For its time (the 80's) it was a very entertaining and engaging story. Casting was good. Story was good. Special effects were remarkable for the time period. Deserving of an 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:412ae859e38f43547b4e78da78e1b2247c0f6ac17c1656a549435d1419c79235
+size 233

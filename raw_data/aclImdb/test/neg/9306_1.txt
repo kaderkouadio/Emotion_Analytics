@@ -1,1 +1,3 @@
-It pains me to say this about an Australian film but Mr. Accident ranks with the worst of the worst films I have ever seen. What's even more tragic is that it doesn't fit into the 'it's so bad it's good' category. What annoys me the most about this film is the fairly large amount of money that has been frittered away on a pointless, unfunny, underdeveloped, inept screenplay. Dumb performances (What are Garry McDonald and Elisabeth Gore aka Elle McFeast doing in this trash?), inadequate direction, no plot and a general sense of meanness totally take away from the interesting production design and leave you with a truly horrible taste in your mouth. Comedy! Ha! Do yourself a favour and stay away!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f568290799f13e004ae677922d004d172a68213ed4168dd5d98ef36e0e8651
+size 703

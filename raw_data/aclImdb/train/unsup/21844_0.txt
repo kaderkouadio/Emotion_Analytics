@@ -1,1 +1,3 @@
-This is one of those movies that tries really hard to be quirky and off the wall but misses the point that off the wall is hard to construct. That is the feeling of this movie a construction that tries to pile in as many bizarre narrative threads as possible, lsd, tornados and the FBI. The narrative is feather light and at times scenes are so tenuously linked that it is almost laughable.<br /><br />The camera work and editing style try and fit the "off the wall" strategy but just end up becoming distracting. Th acting is poor all round with the better actors in the cast looking as if they are going through the motions. This has t.v. movie written all over it !
+version https://git-lfs.github.com/spec/v1
+oid sha256:6721b4133d414c7b8910b843f4912925cd04a6123a9a2a252b4346b24ce7d1af
+size 668

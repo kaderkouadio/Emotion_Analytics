@@ -1,1 +1,3 @@
-The third and final chapter in Araki's "Teen Apoloclyspe Trilogy" consists of sexual discovery, graphic violence through religion and alien abduction. The style is truly innovative and moving with an ending so bizarre it lives up to the tag-line: 90210 on acid. Some people may say that it has no plot yet I disagree. The film consists of a day in life of teenagers facing everyday problems yet with a quirky depiction. I highly recommend this film, but be warned it is filled with plots and structures that people may find either downright weird or disturbing. Gregg Araki brings us yet another fairy tale of doom in this epic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b4c9ecb56f5b24ba69b8e9f27aee2ed1e5ba326b2b740cf6554c690b54eb7c
+size 628

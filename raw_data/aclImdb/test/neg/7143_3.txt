@@ -1,1 +1,3 @@
-What a tedious turgid boring mess. This is a classic example of all that is wrong with contemporary English theater & film. About as exciting as a closet full of dirty socks. The very opposite of living film. Only the presence of Joanne Whalley gives it any spark.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93902f1319d43fc141be34635ffd493842a1729cb187763a2ea5ecdc9b9b554
+size 264

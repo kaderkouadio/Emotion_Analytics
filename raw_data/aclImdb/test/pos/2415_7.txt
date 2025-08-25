@@ -1,1 +1,3 @@
-Another 'good overcoming evil' story, but with a difference. This includes learning self-discipline. When Julie goes with her teacher to a Zen monastery, she learns about herself. She also hones her karate skills.<br /><br />When the Zen monks visit the city, some awkward and comical moments ensue. Not uproarious, but entertaining nonetheless.<br /><br />Next Karate Kid has much to say about looking within, and improving what is there -- as well as using what you have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a3e7455f98bdd9f6278347ee84a9e720a4de6e31b5f030c55f0e080937eff75
+size 473

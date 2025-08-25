@@ -1,1 +1,3 @@
-i was hoping this was going to be good as a fan of timothy dalton's james bond and although it wasn't his deserved '3rd bond outing' it was a laugh. Belushi brought some good humour to his part and dalton hammed it up nicely, but was probably underused. his part was liked a camped up version of jack nicholson in a few good men. the other brit in it was a bit shocking, but overal it was a laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc8df4c6d4b3ab5f62d65d308a3ca3ce2a7696c36ab414f6c259cb9b01e3fe9
+size 397

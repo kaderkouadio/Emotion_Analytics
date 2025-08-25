@@ -1,1 +1,3 @@
-This movie is very cool. If you're a fan of Tsui Hark and Chinese fantasy films, you should love this. This film is the Asian Lord of the rings: A high fantasy story, based in actual Chinese mythology. (I realize many critics have called this film plot-less, I think they probably have zero knowledge of Chinese mythology.) If you liked Stormriders or Warriors of Heaven & Earth, this one should be right up your alley. This film is still very difficult to find in the U.S., even though it was purchased for U.S. distribution along with Crouching Tiger, Hidden Dragon and Iron Monkey. Well worth the search!!! This DVD is also worthy of owning.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2746b6ca704f534dac83c152a12550628715ce9297847a705e18e3a21910d1
+size 644

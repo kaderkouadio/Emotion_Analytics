@@ -1,1 +1,3 @@
-The Film is a bit of a jumbled mess. The plot involving a wife seeking revenge for her murdered husband and Two cops who just seem to drive around is pretty uninvolving. The reason I would like to find it is I acted in it and would just like a copy. Vanity I guess
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c76199bdf8681a751dfb080d1b5b0e087fa8c4645e6a9e627853f033a10d237
+size 264

@@ -1,1 +1,3 @@
-Never see this movie.<br /><br />It tries to be a spoof on scifi/thriller films of the 1950s and 1960s but all it succedes at is making you wish really badly that you were watching one of them and not it.<br /><br />It is very lame. A spoof has to have some aspect which has some above par quality to it. This movie does not have any such aspect.<br /><br />Save yourself. It's too late for me but... just don't watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b445a1bbdf636087e2b76313daf0485525a45bf615c117e7ecf8ff19e5bef87
+size 421

@@ -1,1 +1,3 @@
-What a genius! Fellini went and broke the cardinal rule of screenwriting. In the end, the character woke from a dream. The whole stinking movie was a dream. The first time around, it's one of the most confusing, annoying things ever, but it makes perfect sense the second time around.<br /><br />Beautiful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df82bb7c9bd388e7a638f7123c697c518b95cf3d17a69d71ee985565282c7c1f
+size 306

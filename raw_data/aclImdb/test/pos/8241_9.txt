@@ -1,1 +1,3 @@
-A really good Australian film .Beautifully recreates the look and feel of Sydney as it was in the 1950s. This movie greatly impressed me when I first saw it during it's initial cinema release and it still stands up very well. Fine directing job by Phil Noyce, wonderful camera work , thoughtful lighting and some fine performances across the board. An absolute "Must See" for any students of 70's Australian cinema.One out of the box !
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4b54359e0a0612ec1d41d919fb549ed0cd0ed880aec5d282fb308dc6aad29e1
+size 435

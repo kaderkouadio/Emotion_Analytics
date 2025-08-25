@@ -1,1 +1,3 @@
-This is a delightful film. Elizabeth Taylor does a wonderful job, as does Mickey Rooney. The film just makes you feel happy. It's inspirational, and even though some parts are a bit overly sentimental, that is easily forgiven. I could watch this movie again and again. The race at the end is exciting every time I see it. Highly recommend this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:862a5081ea103f34477c6847149bfb5c11080daee36775918684988af4cafe9a
+size 349

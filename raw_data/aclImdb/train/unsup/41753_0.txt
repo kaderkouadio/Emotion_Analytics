@@ -1,1 +1,3 @@
-Went to this movie with my dad when we were in Minnesota. I loved it years ago, but seeing it again changed my mind. Maybe it was being a kid or styles change with time. (ie 80's action) This movie is too over the top for me. I will watch a bit of it, but not rent it. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc70c7ed0e2e73545ea4c4941273ec5f0f7e05caf610329ceb914abf9b8ca3a2
+size 273

@@ -1,1 +1,3 @@
-Warning: This could spoil your movie. Watch it, see if you agree.<br /><br /> To think that we as humans can not learn from the past. The futuristic society portrayed glamorized what Hitler believed, obliterate a race of people (in this case men) for the benefit of society. It made me sick to my stomach. Also the plausibility of a Y bomb is insane. Even in war our instinct for self-preservation will prevent the extinction of humanity. We made mistakes in the past ie: Japan, Hiroshima and Nagasaki in '45 but because of that we avoided a bigger mistake in '63 during the Cuban Missile Crisis
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8eb1fd9916eb9897eb96d957d6e16b652c3e6983931e51aac2505e04bc4cb44
+size 595

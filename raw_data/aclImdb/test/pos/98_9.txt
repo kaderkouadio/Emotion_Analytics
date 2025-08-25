@@ -1,1 +1,3 @@
-This short deals with a severely critical writing teacher whose undiplomatic criticism extends into his everyday life. When he learns why that's not a good idea, we learn a bit about the beautiful craft of writing that he's been lecturing on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8788cc624e577454bca9cd7b51b970dee9aaf59b32e33b3f4f9a7944d135770
+size 242

@@ -1,1 +1,3 @@
-this "docuDRAMA" was sorely lacking in drama. you knew the story ahead of time even if you weren't aware of the story from the news. there's no suspense, no thrills, and no drama. it's drier then a 10th grade history lecture. the plot, such as it is, can be summarized in 3 lines, yet they drag it out to 2 hrs (with commercials). it reflects badly on me that i even watched it, but at least i was multi-tasking.<br /><br />save yourself the time, and don't bother.
+version https://git-lfs.github.com/spec/v1
+oid sha256:080cf98749890c1544fc7c0af256a0ca6e3840a95a770e916e3a0064480cf891
+size 465

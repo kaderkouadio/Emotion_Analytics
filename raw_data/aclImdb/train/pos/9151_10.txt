@@ -1,1 +1,3 @@
-Savage Island's raw savagery will scare the hell out of you! Trust me.<br /><br />When the boy of the estranged Savage Family is run over by some city slicker tourists, Pa Savage wants revenge, and he'll stop at nothing until he gets it.<br /><br />This is a real horror film with some truly wonderful horror moments.<br /><br />Also, the negative review clearly comes from someone who lacks proper knowledge of film. The filmmakers chose the lighting and camera-work in order to reflect the dark, murky, and egdy mood of the story; in other words, to obtain a certain aesthetic. <br /><br />In fact, the film has won SEVERAL horror film festival awards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47bfb9f668c0e2569769a8b02a65a8c23b31bb3578f43613188829431bb08801
+size 654

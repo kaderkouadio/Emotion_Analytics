@@ -1,1 +1,3 @@
-This avant garde piece miraculously comes off without being cliché or dismissible (as is so common with artsy avant garde film). Peggy Lynch (I'm assuming is his daughter) goes through a sequence of harrowing events that had some connection with the alphabet. I particularly liked the bed-wetting and the dirt. The person I watched this with said the dirt looked very "inviting." I strangely agreed. Only Lynch could make dirt inviting. Very interesting work. 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:b15275210cbb3a724837d517f92bb0a7956412589e6f3b2b3a580aabd29f6f47
+size 465

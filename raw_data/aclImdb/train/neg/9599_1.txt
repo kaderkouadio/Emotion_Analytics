@@ -1,1 +1,3 @@
-Boring, badly written Italian exploitation flick.Lots of nudity, gore and awful acting.The werewolf makeup was the only thing that would raise a laugh.Complete rubbish-even for fans of cheesy Italian horror.Please avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a55aca49fdaac0a153b7dee85947858645fb697b078222eace9f44ec4bb16f48
+size 220

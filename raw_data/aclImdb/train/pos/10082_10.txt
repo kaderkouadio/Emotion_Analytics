@@ -1,1 +1,3 @@
-The movie is truly poignant, unique and uplifting. The story is universal in that it's a battle between good, evil and the world between. THE MOST IMPORTANT thing is that its rating is wrong, misleading, and a travesty. Blockbuster has it rated as though it were an X rated movie. The truth is is that it is closer to G than PG and should be seen by children who can read the clear and simple sub-titles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fca34d3ed92e554b1cab5f10fba2c0d41d0e1ea5b7f37b953fdbc33d876c9e7a
+size 404

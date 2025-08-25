@@ -1,1 +1,3 @@
-Face it, you may have a sentiment towards this series, but ... A Polish tank team being friends with Russians, four years after Russians invaded Poland, that's weird... Something isn't right, and it's only one example. Another one: Janek trying to overcome the age limit to join the army, that's supposed to be a good example for young viewers? The crew seems to be little dependent on their commander, they seem to go wherever they want, how realistic is that? <br /><br />On top of that, the series is filled with shameful pro-soviet propaganda, which always made me feel like I was watching just another "wonderful" Mosfilm production. <br /><br />As for me, the sentiment won't help - this film is simply BAD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7bee81d9f6d2d76628a7d5fbfdb129ad5d49d3b05e19cbca7f30929386a4ac7
+size 713

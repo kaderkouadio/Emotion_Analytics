@@ -1,1 +1,3 @@
-Looking all of 29 years old, Rob Lowe is a detective in charge of a murder investigation.<br /><br />When the husband of a society woman (Leslie Hope) is found dead, police suspect the rich chick might have something to do with it. Enter Rob who immediately falls for the pretty widow even though he claims that he's just trying to be 'helpful'. Rob is such a good cop, he is able to sneak some of her incriminating love letters into his coat pocket before he accidentally throws them into the fireplace. Monotonous murky drama with an endless drone of background music.<br /><br />This is a good substitute sleeping remedy if you've run out of Sominex.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d525b13b1b8bbb8c9fbf177d575f75b15875b7ea07d1bd8dabb65e141e140d7
+size 653

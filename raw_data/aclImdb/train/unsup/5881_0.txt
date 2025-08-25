@@ -1,1 +1,3 @@
-For a movie that seemed to have quite a bit of potential, I honestly just couldn't get into this one. The acting was second-, if not third-rate at best, and there were too many odd plot holes and things done for absolutely no reason. For instance, the scene in which Joel McCrea is carrying a pig... or the one which features him riding a turtle's back. The "humorous elements" in this film have nothing to do with humor at all, and the wasted love story between McCrea and del Rio is just boring to the extreme.<br /><br />This film could only be better if given a Mystery Science Theater 3000 treatment. As it is, it's rotten, rotten, rotten. It receives a generous rating of 2 because I have seen worse. But please: avoid this at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7b84f3de86f3559400975750391c29b2de2a1e6cccbc328f16c8377aef0ce2a
+size 743

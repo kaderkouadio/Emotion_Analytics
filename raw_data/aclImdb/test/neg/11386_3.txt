@@ -1,1 +1,3 @@
-Somehow, this documentary about Miles manages to include very little music and no complete tunes. Though Miles appears in the film, 95% of the interviews are other folks, not Miles. There are huge chronological gaps, many aspects of his life (his childhood prodigy, his drug addiction) are skipped or glossed over, and you'll learn little about what made the man and his contribution to music so groundbreaking. Skip it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a9837f973e1081bc5b508ebc063358b3fb82c159f71bc169e62b3800fc2199
+size 420

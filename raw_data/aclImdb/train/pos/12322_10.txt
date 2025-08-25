@@ -1,1 +1,3 @@
-This movie is one of my favourites. It is a genre-mixture with ingredients of the Action-/Horror-/Romantic-/Comedygenre. Some of the special effects may seem outdated compared to modern standards. This minor flaw is easily ignored. There is so much to discover in this story. The romantic relation between the two main characters is so beautiful that it hurts. The visuals are beautiful too. The action is great which is no surprise, it is originating from Honkong, birthplace of the world's best action movies. The humour sometimes seems a little bit silly but in a good way. Somehow this movie is being able to balance the different moods and keeps being good. Absolutely recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:513a22eea9c3d12eb4afec8e966483ef28b1916379efe41933a81d12a6b54f87
+size 686

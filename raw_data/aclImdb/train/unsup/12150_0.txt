@@ -1,1 +1,3 @@
-Only one redeeming feature in this, the slowest moving film I have ever suffered through: Served as comic material for the later "Waiting for Guffman" as the credits rolled, the film memorabilia shop owner showed off his "My Dinner with Andre action figures."
+version https://git-lfs.github.com/spec/v1
+oid sha256:f94758eed1a222591b631826a8ce588cb49d184c486a0899f48531abd6ede1a6
+size 259

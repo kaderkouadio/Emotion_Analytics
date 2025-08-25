@@ -1,1 +1,3 @@
-This is a great movie fit for adults and kids. It is space exploration with a twist. Kids band together and make a space ship of their own, and you'll enjoy their trip through space and the comedy involved in meeting a new, alien culture. It's a must see for anyone who likes comedy or sci-fi. Enjoy!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:69a7156e07b52533dac5e85f83c8d6c245328420256427aaf29561f586754794
+size 301

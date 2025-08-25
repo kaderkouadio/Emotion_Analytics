@@ -1,1 +1,3 @@
-After having watched Koyaanisqatsi two or three dozen times and loving every second of it, I finally had a chance to see it's sequel Life In Transformation. I was truly dissappointed as it did not nearly stand up to the high standards of the first. 90 minutes of people with baskets on their head is not my idea of a good movie. The Philip Glass score for this one had neither the beauty nor the correlating strength of the first. Compared with Koyaanisqatsi this movie seemed slow and pointless. A watered down version of Baraka, which is the same idea but done better. I truly hope the third movie in this series will not follow the example of this waste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3594138e7bf07a843c6789d8acb978f895242b1c8d4b356ae3d15f0f13ed970c
+size 657

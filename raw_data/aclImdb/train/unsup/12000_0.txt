@@ -1,1 +1,3 @@
-Film starts with an intriguing premise: a group of teens is terrorized after a party by a pack of masked Satanic cult members known as the Shadows. Their nerves are frazzled throughout the night as the cult members close in on them.<br /><br />But then morning comes, and what could've been an interesting horror film degenerates into a talky, predictable, seen-it-all-before cliche.<br /><br />*1/2 out of ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1054464f548a1facfbd5ec8d36952991a5b60e1e081469792e3a9b6f2386799
+size 411

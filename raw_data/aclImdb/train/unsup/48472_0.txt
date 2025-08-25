@@ -1,1 +1,3 @@
-It might very well be a rare find - and the video copy I tracked down was of pretty poor quality - it is first and foremost dreadfully boring. Since apparently there was no money for a set sound recordist the whole film is 'explained' in voice-over...and still it doesn't make any sense whatsoever. Literally everything about it is bad, and not even funny-bad or entertaining-bad, just plain boring bad. A complete waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27826f2eebab5117f5766ca3774b70250fd13d2c6d171d7719d86d652034771c
+size 429

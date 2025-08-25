@@ -1,1 +1,3 @@
-Hello people,<br /><br />I cannot believe that "Shades" from That Thing You Do took this role. I don't think Cory Feldman would have taken this role. This movie was a fuming pile of dung. Save your money and time, and see every one of the top 250. I swear I wanted to slap the lady at Blockbuster silly for permitting me to rent this. Stay away!!!!!!<br /><br />Mr. Hipp
+version https://git-lfs.github.com/spec/v1
+oid sha256:31cfa602ea486d6d07b048d422a4a8cac1953902bc9b854b658b3a2b4e2d7d2c
+size 370

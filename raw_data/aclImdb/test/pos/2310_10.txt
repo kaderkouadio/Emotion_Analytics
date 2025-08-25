@@ -1,1 +1,3 @@
-I found this movie to be a simple yet wonderful comedy. This movie is purely entertaining. I can watch it time and time again and still enjoy the dialog and chemistry between the characters. I truly hope for a DVD release!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f653bdb1fd0c34a517d512df40e621a8c6adfcf98a10bad4eb7624a0cc0fd974
+size 222

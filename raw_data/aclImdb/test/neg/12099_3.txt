@@ -1,1 +1,3 @@
-Cheesy 80's horror co-starring genre favs Ken Foree and Rosalind Cash along with Brenda Bakke are some of the featured players in this tale about a haunted health club. Goofy dialogue and some nasty gore effects make this movie watchable. Not bad but no great shakes either.<br /><br />Recommended for the bad dialogue and acting. B-movie fans only.<br /><br />B
+version https://git-lfs.github.com/spec/v1
+oid sha256:d98a1b98e54db58570fc27d1d7390ce4df90e276afe0cc937b7d08b29826b10c
+size 362

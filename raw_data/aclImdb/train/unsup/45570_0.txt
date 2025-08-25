@@ -1,1 +1,3 @@
-If you have noticed, until now (July 2003), this movie doesn't have a "Goofs" category. The only reason I can find for this is that it has so many that it is pointless to list them. The movie alone, along with its ridiculous story and characters, is a goof.<br /><br />Everything in this cheap movie is so "goofy" that it is possible that the larger part of its "budget" was spent on the cruise ticket and rented filming equipment. Obviously, a lot of effort was invested into making a movie this bad.<br /><br />1.5/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e7e9e798bc9222cf7046c260b46926d3881068f027072aa907770b9f8e76b31
+size 519

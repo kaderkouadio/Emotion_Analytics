@@ -1,1 +1,3 @@
-At the Sundance screening of this film, the director told us that the "evergreen" of the title referred to the green envy the main character feels toward those who have so much while she does not. This was a realistic story of a young girl who moves into her grandmother's ramshakle house with her grandmother. They are quite poor, and when the girl (Henri) meets a rich boy at school, she wants to be part of his family. The movie is about Henri's discovery that money doesn't really take away problems. This was good effort for all involved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45bbba6a47d40864f86a335afe56678efd250645cfd831a5d86323fa1c2f45ed
+size 543

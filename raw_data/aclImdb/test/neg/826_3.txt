@@ -1,1 +1,3 @@
-Ali G was funny at first. His interviews were fresh and original. The idea of a mock gangster wearing OTT clothes and using street wise lingo was appealing at first.<br /><br />But this film is just a rehash of old jokes, the humour was mainly childish and revolved around the male sex organ for the most part. The film claimed good actors like Charles Dance, but their talents were wasted as they played silly 2-d characters. It is not 'terrible' but isn't really funny at all a second time. It could be said that the movie was Ali G's last bastion of comedy. After that he ran out of steam.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1289d694ff8cafe9427720e3ffede1b09ed0f4cd62360355153c02f1f0fa6545
+size 592

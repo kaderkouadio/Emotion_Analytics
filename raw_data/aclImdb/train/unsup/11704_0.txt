@@ -1,1 +1,3 @@
-This is a favorite film, starring Cary Grant and Irene Dunne at their absolute goofy best as a divorced couple who can't admit they still love one another. The comedy is flawless, the dialogue witty, the chemistry great between the two stars.<br /><br />Cary Grant is handsome, sophisticated, but not above the occasional pratfall. And Dunne is fantastic as his wife. Her ultimate comedy scene comes in the home of Grant's high-class fiancée. Dunne enters, pretending to be his sister. She's total trash. She performs "Gone With the Wind" a tawdry nightclub act shown earlier in the film, where the gimmick is that the "wind" blows up the woman's dress Then she screams, "DON'T ANYBODY LEAVE THE ROOM. I CAN'T FIND MY PURSE." She's hilarious.<br /><br />One of the top films of the '30s. I think it's a riot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb34c2fd9483705c368d56a9ff8fc82115c2d35525cf7e1a32f436ecbb8d929
+size 809

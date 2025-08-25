@@ -1,1 +1,3 @@
-I personally found this movie to be terrible, first it was hardly objective, and provided one side of the debate. The only people who were presented as the side saying he did exist being a bunch of people coming from a Billy Grahm Revival. Secondly it deviated heavily from its supposed topic did Jesus (Yeshua) exist, to talking about how violent Christianity is, and showing scenes from Mel Gibsons "The Passion". In the end it has the director con his former Principal of a Conservative Private School into being interviewed, and attempts to trap him about teaching the kids there faith. Oh and also the Techno Music just made the film harder to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c18424b77894c6941c337cb2ddf9564dcf0c82f14743d2f456bd0a2cf922e91
+size 655

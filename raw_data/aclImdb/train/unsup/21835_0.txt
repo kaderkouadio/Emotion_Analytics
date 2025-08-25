@@ -1,1 +1,3 @@
-After reading some negative reviews on imdb.com I want to comment on this movie as well. I really enjoyed this picture. It is so recognizable, identifiable, to follow the story of this Harvard student who struggles with his puberty and, like any normal kid, experiments with drugs and sex. Scary to see him get involved with the mafia. The movie is full with philosophical quotes and this is done in such a way that it gives the movie a bit of a creepy atmosphere. The voice of Joey L. Adams fits perfect in this overwhelming impression. The happy ending (the good guys win from the bad guys) is also what I like in typical American movies like this one. It was a great movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9811318511a36b4452f54217d1f1b5fc6a5fca1ce768a16698bfea48f5e2006
+size 676

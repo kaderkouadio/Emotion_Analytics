@@ -1,1 +1,3 @@
-This movie had me smiling from beginning to end, partly at the humor, partly at Meg Ryan (this is the perfect character for her), and always because it's just one of the best feel-good movies I've seen. Hopefully the DVD will be out soon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ec41399c7355e8a7874931ba97cb0f56a97cb6c761ca972684dde091a569f6
+size 238

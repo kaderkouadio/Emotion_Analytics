@@ -1,1 +1,3 @@
-This one gets better with each new look. Certainly one of Paul Sorvino's best roles. Outstanding music score which was also outstanding on sound track LP (so why no CD?). One the very early dolby stereo sound film releases. By the way, the original 35mm theatrical trailer for this is really GREAT!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f846fcf403646a45500c11171d77eafd4e2a6912e23263d4d1e1651423f76aa1
+size 298

@@ -1,1 +1,3 @@
-I'm not surprised that this film did well at the Hamptons Film Festival. It is a shallow film that would appeal well to shallow people. Two actors pretending to be actors in a relationship who fight and look for a lost dog. The film is allegedly exploring the dynamics of the relationship, however, the relationship is far too petty to merit any such exploration. This couple has one dimension: they fight, they tease, then they make love and fight some more. There brief moment of tenderness does not reveal any possible reason that these two would be involved with each other given their venomous and volatile relationship. Beautifully shot, excellent score, but without anything of merit in the script or characters, this short is just that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d597667bd7c03c4b840f367a5fee3df3b26d7923fa2e0edcb3c7f4518ee0d5a
+size 744

@@ -1,1 +1,3 @@
-Everyone plays their part pretty well in this "little nice movie". Belushi gets the chance to live part of his life differently, but ends up realizing that what he had was going to be just as good or maybe even better. The movie shows us that we ought to take advantage of the opportunities we have, not the ones we do not or cannot have. If U can get this movie on video for around $10, it´d be an investment!
+version https://git-lfs.github.com/spec/v1
+oid sha256:429ac4e961b604a999b9abeefb637ff07042a5683397d7e56f47cd0a6dfec91f
+size 411

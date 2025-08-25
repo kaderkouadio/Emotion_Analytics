@@ -1,1 +1,3 @@
-Really, I mean that this is a self-contained movie; it sets up a premise, a backdrop, characters... and manages to deliver. The grainy/gritty look of this film is really commendable, and instead of just saying "Killer robots!" and putting it on autopilot the filmmakers kept throwing little bits and pieces of creativity out there. Peter Weller is perfect for his role and develops great repartee with the greenie who tags along with him to... some pretty nice matte paintings. Budgetary constraints aside the movie looks good, the spaceships look good, the robots look good, and this is simply the kind of unified enterprise that doesn't get made with $100,000,000 and Bruckheimer producing (what is it with the Germans? I mean, Devlin and Emmerich and Bruckheimer?). So watch it, it's enjoyable and competent until the last 15 minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3da1a9d6818667ae2e88df0f5e7e11ec0058b72bd70ec524b7056f5c094465ec
+size 837

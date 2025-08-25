@@ -1,1 +1,3 @@
-If you like plot turns, this is your movie. It is impossible at any moment to predict what will happen next. Nothing is as it appears or ends as you think it will. The characters are all gritty and engaging. Cage is at his best. Dennis Hopper again shows his delightfully sinister side. JT Walsh is perfect in his last performance. Laura Boyle sizzles. Dwight Yoakum makes a film debut superbly in a cameo. I categorize this movie as "I am having a really, really, really bad day" film. Not a slow minute in this film. A real sleeper. This movie is underrated and, sadly, overlooked.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b3f3935eb57e38191958ee0cb9a9cd738dca956041bf020a9e0974995d83e0f
+size 583

@@ -1,1 +1,3 @@
-If someone offers you the choice between seeing this movie and chewing your own foot off, do yourself a favor...ask for ketchup. The acting is atrocious and the special effects rank right up there with the old Buck Rogers TV show, especially the 'stunt man in a tin can' robots. It's a shame...the plot could've been intriguing. Unfortunately, the film's budget of approximately $2.98 killed a good idea.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a6b989908f099b50499379652c98e14025c116602229b02e5fdaba3ad9fb68
+size 404

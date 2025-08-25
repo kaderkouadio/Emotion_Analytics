@@ -1,1 +1,3 @@
-No plot. No dialogue. One decent actor (Peter Weller, who's probably trying to forget his involvement). Zero redeeming qualities. Lots and lots of pointless walking through wastelands. Special effects that make the Dr. Who folks envious. Do yourself a favor, don't watch this film. Please.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d343f9d60d5d74e593049309f5ce8d538e9ca36d276299bd48d6d54dc28ac5d3
+size 289

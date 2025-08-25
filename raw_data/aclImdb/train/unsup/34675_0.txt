@@ -1,1 +1,3 @@
-With people like Rodney Dangerfield as "the Rodfather" and Dom DeLuise as "The Oddfather" I had hopes for this one...dashed immediately the actors started flapping their gums. Who wrote this script? It stinks! And the director couldn't direct traffic. Some good set-ups that fall apart, horrible gags -- it's a spoof that doesn't work at all. Why was this movie made? Compared to this, "Mafia" is actually a fine film (and I hated it when it came out!) I would suspect that the sole "positive comments" from two reviewers were probably the director's wife and his best friend as no one I've met who has seen this film enjoyed it at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19409467292adb50809b46ab58c1ba8c1482accb541d75789ff31611c8ed4d2
+size 636

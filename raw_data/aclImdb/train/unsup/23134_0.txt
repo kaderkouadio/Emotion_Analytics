@@ -1,1 +1,3 @@
-<br /><br />I had a coupon for a free movie rental and the movie looked like it might be interesting. I wish I could get my free rental coupon back. I would rather have watched "Battlefield Earth" again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a258761a28bdebe825eaa99c73cd7d4ce2d414c08bbec457ea286dde4d8e36a
+size 203

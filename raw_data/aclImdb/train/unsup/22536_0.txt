@@ -1,1 +1,3 @@
-One is never too old to learn. I am discovering Kurosawa's pre-Rashomon films on TCM while I am approaching old age. This film has shown me that Kurosawa has tried and excelled in positively every genre imaginable while preceding others in each field. "One Wonderful Sunday" has probably taught a few things to Fellini while totally preempting the French New Wave. Compared to this opus, all of Godard's and Truffaut's pretentious, meaningless essays fall short in both the story-telling department and the ability to convey a useful message. They didn't bring anything new and made our world a little poorer in the process. Kurosawa, on the other hand, was a courageous inventor who was capable of improvising as he went along - without losing track of his goal, a brilliant technician and director of actors as well as a poet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c00abe2ef62b2fa8324f32c6f0bf93c8ce1cc4a27c515f06a3d635964751eb1
+size 828

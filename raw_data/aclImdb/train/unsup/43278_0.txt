@@ -1,1 +1,3 @@
-Ronald Reagan (he's John) loves Patricia Neal (she's Mary), but he's married to his best friend's girl. There is a very good reason: best friend Jack Carson saved Mr. Reagan's life during World War II and Reagan married Lily to help his buddy out - you see, Lily needs an American husband to obtain passage to the USA. Meanwhile, Mr. Carson has married another woman <br /><br />Even for the time, the comedy dialog in "John Loves Mary" must have sounded remarkably unsophisticated; listen, for example, to the scene when Reagan explains how he dealt with "loneliness" during his four years of service. The performances match the low average nature of the proceedings. Most notable as Patricia Neal's (inauspicious) movie debut. <br /><br />*** John Loves Mary (2/4/49) David Butler ~ Ronald Reagan, Patricia Neal, Jack Carson
+version https://git-lfs.github.com/spec/v1
+oid sha256:db4977f826f23da60e0945ea312c536f4476493682297d835bd6a9fb171c4a63
+size 828

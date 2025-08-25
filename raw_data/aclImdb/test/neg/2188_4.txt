@@ -1,1 +1,3 @@
-The Movie is okay. Meaning that I don't regret watching it! I found the acting purely and the most of the dialog stupid ("oh no, this was my grandmothers bible!"). It's sort of bad remake of U-turn. A man arrives to a desert town out in nowhere, meets the wrong people and falls in love with the wrong woman. And off cause get's involved in something, he thought he could leave behind him. The movie is quite predictable and there is really nothing new in it. When it's finish, you didn't really care. Most of the characters are stereotypes, specially Brian Austin Green!! All in all just another movie from the states, but okay entertaining on boring Wednesday night. IMDb vote: 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d015dde363cfe9003bbe9329e669fb8188fe3db4680fa9de9a147b496d44d15
+size 684

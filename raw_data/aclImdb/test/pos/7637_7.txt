@@ -1,1 +1,3 @@
-"Cherry" tells of a naive, unmarried virgin who decides to have a baby but isn't quite sure how to go about it. This easy going little sleeper is full of quirky characters and tongue-in-cheek situational humor. Fresh, fun, mold breaking stuff, I happened to really enjoy this flick...for whatever that's worth. Recommended for lovers of romantic comedy who want something different.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6080f84c6a9e0a14c597299de085a04c6bf16a5ec9169fe7046918fdf59aa9b
+size 382

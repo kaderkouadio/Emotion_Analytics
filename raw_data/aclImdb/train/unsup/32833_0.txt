@@ -1,1 +1,3 @@
-If you are a big fan of Rutger Hauer you might even *enjoy* this movie, otherwise, don't spend your time on this one. The music is awful and so are the action scenes, if you want to see Rutger's action film i recommend seeing rather split second or arctic blue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:878256a899539eb3b7c65d4553aa24fc115e1129a9b4d8e13e460d84d4492e18
+size 261

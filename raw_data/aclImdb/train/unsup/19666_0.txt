@@ -1,1 +1,3 @@
-"Children of The Revolution" is one of those well-executed dark comedies, that the Australian Film Industry excels at. If one enjoys dark comedy with a heady twinge of surrealism, you're really going to enjoy this movie. Our best scene (without spoiling it) is when the three start dancing and handing out flowers, with Louis Armstrong crooning Cole Porter's "You're The Top" in the background. My friends almost fell off the couch with laughter. It's a gem!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5567ffaa3c6447beafe45274a259b9e6a5cb5f671995113a7859e34814496e44
+size 458

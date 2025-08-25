@@ -1,1 +1,3 @@
-This is a great low budget flick, has an atractive cast, lots of male and female nudity, decent special effects, funny one-liners, stereotypical characters that are fun to watch: the tough guy, the dumb blond, the foreign chick, the guy who's seen every horror movie out there, the nerd, the guy that worries too much and the not-so bright heroine. This flick is about 7 college students who go to a house in the middle of the woods where they are attacked by a funny looking creature.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4d4444d85a9957eed39e2d792da08ac1aa4b4888ca84ddf4415ab588afa01f9
+size 485

@@ -1,1 +1,3 @@
-This is a wonderful film with great characters, classic set, and snappy dialogue. Jimmy Cagney turns in a great performance on this little known film.<br /><br />A fun time if you like interesting characters playing people we all know.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa5d5fc2896935374038889176ff12c9fa90e645763ee275c9c66b20a28ee9aa
+size 235

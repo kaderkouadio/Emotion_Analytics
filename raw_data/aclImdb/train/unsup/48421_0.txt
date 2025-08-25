@@ -1,1 +1,3 @@
-I was sadly disappointed in this adaptation of a delightful Austen classic. Although the storyline loosely follows the book, many of the most important scenes were left out of the movie. What's worse, the heart and soul of the book (Fanny Price's shining character) is not portrayed well in the movie. At times, Fanny is fickle, indecisive, brash, and disrespectful, the complete opposite of the literary Fanny's character. Still, any movie based on an Austen novel cannot be all bad. If you haven't read Mansfield Park, or if you are not an Austen purist or accustomed to her superior style, you may enjoy it. Otherwise, expect to be dissatisfied with this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:899524fc649e61f13a4b3cc08fc3b22e654ac213e11e027b22e22417fa596a69
+size 663

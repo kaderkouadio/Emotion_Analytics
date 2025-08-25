@@ -1,1 +1,3 @@
-A box with a button provides a couple with the opportunity to be financially free, but the cost is the life of someone they've never met. This is a very tedious film to watch. Richard Kelly, who wrote and directed it, decided to make a film without any payoff. You are taken on a ride of slow build ups, one after the other with minor revelations at best. At certain moments, I thought to myself, this will have major significance at the end, but nothing does. The film just leaves one thinking, "This story could have been told in 30 minutes, without all the stretched out nonsense." I will hope you avoid this god-awful film and maintain your sanity by doing so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da11704e326ae1cf98869944a5d87c5df0c698f8dd2ecae6d1328875e3b065a4
+size 664

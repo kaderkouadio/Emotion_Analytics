@@ -1,1 +1,3 @@
-On paper, a comic fable about a randy, drunken, fading poet sounds like a recipe for disaster, but to the enormous credit of all involved, this film works very well indeed. Obviously a strong central performance is essential in films like this, and Tom Conti provides just that as the bedraggled Scottish writer charming his way into the beds of frustrated New England wives. Although the screenplay is consistently witty from start to finish, it is mainly in the second half of the film that it is also extremely moving. The romance between Conti and Kelly McGillis's young student is as obviously doomed as that of Romeo and Juliet, but just as heartbreaking too. The denouement is as sad and shocking as any in cinematic history, yet this film with its warmth and beauty and insight will surely light a fire in even the coldest of hearts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de4c586731ff476d278e2f2cc3fb5d75bffd3b316e216aa471ee0acb00053ea6
+size 841

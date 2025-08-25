@@ -1,1 +1,3 @@
-<br /><br />Bocelli's attempts at opera are painful. His voice is too small for arias like Nessun Dorma, which results in strain high notes, which in turn results in loss of pitch. Opera fans should avoid him like the plague. However, he does have a fine, pretty voice suited to kitschy, lush pop, if you like that kind of stuff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd4fb7695839919480601b5cfefb0553f24ca0950199d9cf343786f2a7ef0a6a
+size 329

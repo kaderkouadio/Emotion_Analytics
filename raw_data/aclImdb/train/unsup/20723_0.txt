@@ -1,1 +1,3 @@
-For a subject which has been discussed and filmed many times, this movie is well constructed and kept interesting by the two lead players. The dialogue is realistic and the question of whether two people can survive living together is thoroughly explored.<br /><br />The ending is pure Hollywood, at least three versions available I'm sure, and by opting for a happy ending it leaves the audience believing it's seen an entertainment, more palatable for those anxious to avoid confronting issues.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f947ae1b910e2dfb967cb1ee02acd1b27fd0a5ceb9ac48b2f90af94974289310
+size 496

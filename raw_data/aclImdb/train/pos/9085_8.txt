@@ -1,1 +1,3 @@
-I see a lot of really negative posts by people who wrote in August, though the movie was not released in the US, at least, until the middle of September. Maybe these are unhappy expats living in S. Korea who saw it early. I am in the US and just saw it today. I thought the special effects were excellent, better than the trailer. The story was non-Western, but I think we are all used to this from many other movies. It wasn't at all hard to follow. The acting by the leads was weak, but other people were quite good. There was humor throughout, too. I rated it at 8 because I had a good time watching it, which is what I went for.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00133e3752c132bb20a2ff09a6881ef52b6415646916b4c08da2ab17e131d0fd
+size 632

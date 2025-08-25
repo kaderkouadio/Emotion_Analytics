@@ -1,1 +1,3 @@
-A wonderful Christmas story on the moving theme of "Susie Homemaker finds her Inner Amazon." No, I'm serious! Geena Davis's amnesia starts to improve when she is knocked on the head. From this familiar beginning, we move in an unexpected direction. Good pace, good action, fun story, lots of explosions and mayhem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0426fe016e6490dd29b832eb6230dd9cdea472ddd38e18faca0558fa328b1e4
+size 314

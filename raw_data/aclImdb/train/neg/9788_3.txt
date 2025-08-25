@@ -1,1 +1,3 @@
-Not that I dislike childrens movies, but this was a tearjerker with few redeeming qualities. M.J. Fox was the perfect voice for Stuart and the rest of the talent was wasted. Hugh Laurie can be amazingly funny, but is not given the chance in this movie. It´s sugar-coated sugar and would hardly appeal to anyone over 7 years of age. See Toy Story, Monsters Inc. or Shrek instead. 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e388edb538badbe54268607735fcaf74eae388cb8fc0856119edde914c07dfa
+size 384

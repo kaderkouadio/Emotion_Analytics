@@ -1,1 +1,3 @@
-Consider "I Know All" Action hero is lighting a cigarette in the darkness. While tries to hide/seek the Bad guys. (Probably to give a signal light to say here I am coming)<br /><br />That's one of the 100 scenes you can laugh at. (I think the movie should in the Comedy category.)<br /><br />Awful directing, awful script, Bad Acting, Cheap special effects. (They used a tunnel so they can hide there acting in darkness)<br /><br />3 out of 10 (that also for making me laugh looking at those pathetic mistakes)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e0fb296e277a643ea7586971c473b6b7acf512e6a8546c80e9db0e7e2e7843b
+size 510

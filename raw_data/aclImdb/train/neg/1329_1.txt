@@ -1,1 +1,3 @@
-This movie is AWFUL. I haven't laughed so hard at a movie that was unintentionally funny in a long time. Leno should've stuck to stand up and late night tv. The cars in the movie were cool, but the movie by itself is the dumbest movie I've ever seen. it's pathetic, the acting is horrible, and the plot could've been written by a 4 year old. don't get me wrong, jay leno is hilarious, but not in this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f63f476d0e13e11f95298ba1c713c0055d267d0b7bd695be503533013f14ea08
+size 407

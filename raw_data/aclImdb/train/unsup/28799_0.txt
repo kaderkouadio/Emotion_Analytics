@@ -1,1 +1,3 @@
-its almost ironic to call charlie chaplin unknown, but you truely learn how much you don't know about him with this series. It is getting you inside the mind of genius. The rare footage and personal interviews show you how secretive and personal chaplin was in life. If you are a silent film lover, this is a program you won't want to miss!
+version https://git-lfs.github.com/spec/v1
+oid sha256:389afee505d1576130294f7b09502ed4dd4906fbef3891a32619cb11a1a1461f
+size 340

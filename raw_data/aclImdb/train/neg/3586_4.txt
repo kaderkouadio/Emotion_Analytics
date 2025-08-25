@@ -1,1 +1,3 @@
-Autobiography of founder of zoo in NYC starts out by being very cute and would be great family movie if it stayed there. however we get more and more involved with reality as gorilla grows up to be a wild thing not easily amenable to his "mother's" wishes - this might scare younger children, esp. scenes where Buddy tries to injure Gertrude. rather quick resolution at the end. below average.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04c4a2611a1b5eb9b02975187b2ea5cafcbe347b4d4d5042166b053261b29474
+size 393

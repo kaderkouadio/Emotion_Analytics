@@ -1,1 +1,3 @@
-Why isn't Gary Daniels a big star yet? This movie should have been released in theaters. It sure beats anything Van Damme or Seagal have done lately. It has car chases, shootouts, and fighting galore! The car stunts were amazing! Gary Daniels fighting skills are fantastic. If Hollywood producers were smart, they would stop wasting their time on has beens like Seagal and try to make Gary Daniels the next big thing in action movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99e2784fc086fbd86e27e3e4f48793f2db52394bbee80b8201800eed49cd30fd
+size 434

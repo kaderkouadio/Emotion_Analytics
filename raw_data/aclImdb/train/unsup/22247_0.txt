@@ -1,1 +1,3 @@
-they make this film seem as in its just an art-house good college try for martin scorsese, who'd become one of the best directors (who has never yet gotten an oscar) of our time - but i think this film is fantastic on its own. i really can't explain it much except that watching this movie is like reading kerouac, you'll either love it (get it) or hate it (not understand it)...
+version https://git-lfs.github.com/spec/v1
+oid sha256:324307a3e601a5181b0104c2b66ca2dcba0a37ffd40e6fb2718bb6ae9d4fe781
+size 379

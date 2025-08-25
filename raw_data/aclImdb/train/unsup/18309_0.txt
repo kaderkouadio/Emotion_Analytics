@@ -1,1 +1,3 @@
-At the time this game came out, it was pretty cutting-edge. It combined a filmed storyline with a space simulator. It was leaps above Wing Commander 1 and 2, old VGA games. Plus it was one of the first games to take advantage of the real life video technology offered by the CD-ROM's arrival. Now-a-days it wouldn't seem so great, but back then it was phenomenal, especially for die-hard Wing Commander (WC) fans. WC 4 and Prophecy both use the basic game play setup developed in WC 3, largely due to its success. Another popular feature is the ability to choose different paths through the game, along with different difficulty levels. All around a great game.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c00604a7d5dde2d06d82e7350714dc1e0acf910413451a640d8dbdaa2ff18776
+size 661

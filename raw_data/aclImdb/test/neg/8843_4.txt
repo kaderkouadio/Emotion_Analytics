@@ -1,1 +1,3 @@
-Although this starts out promisingly, a woman in a car is weaving around dark roads in the middle of the night in the middle of the forest until she almost hits a man holding a lizard! This gave me the impression that we were going to see something special, something almost David Lynchian (if there is such a term), but unfortunately, the film starts to go everyplace, not having a core center, just sort of meandering story about a woman trying to solve a mystery of a small town. The character study goes all over the place, and I couldn't really care for any of the characters it seems, especially when some of the story all of a sudden goes into flashback mode. I had some hopes for this movie, but all in all, it was a bit of a letdown.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2015e4a9de1a1366b3931af9ec3ac25967c0530f907caa779a285c6daf93fce1
+size 742

@@ -1,1 +1,3 @@
-This is one of the better serials. There's a castle with secret doors & passageways everywhere, lots of fist fights, lots of bow & arrow work, bombs, shooting, poison gas, an underground hideaway for automobiles, & spirited acting in an action packed plot. On the down side is redundancy (a trademark of all serials), absurdity (by himself, the hero defeats 6-8 baddies at once in fist fights, even when the baddies have guns!). But overall, a neat serial with a good & satisfying ending. It's also weird watching Victor Jory play the hero, after seeing him play the bad guy in many Hopalong Cassidy movies; he's somewhat more convincing as a bad guy than as a good guy. Iris Meredith is beautiful, if nothing else, as the female lead. I rate it 8/10 for a serial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83ab8dfc41809482a772c4ea97a8920e65bef32a27a8edd45af374caf0db79f
+size 764

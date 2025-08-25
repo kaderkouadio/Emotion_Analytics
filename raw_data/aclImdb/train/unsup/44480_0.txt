@@ -1,1 +1,3 @@
-This movie is a character study, and the correlation between the Newtonian laws of physics (bodies at rest tend to remain at rest; bodies in motion tend to remain in motion) and the characters in the movie are left to the viewer to "get." Thus, the movie starts out expecting its viewers to have stayed awake through Physics 101. Good luck staying awake through the movie.<br /><br />I like Tim Roth. I like Bridget Fonda. I like Eric Stoltz. Just not in this movie. Bridget's character was believable, and felt very real, but there wasn't enough plot to keep me interested or any character that I truly liked enough for this movie to make any significant impression. * out of *****.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa439df24c633f55101b256fab0503a12c862f5e29c71fca2cb4d9ceaf1b48ea
+size 683

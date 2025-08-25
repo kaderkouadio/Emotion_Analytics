@@ -1,1 +1,3 @@
-While my kids enjoyed the movie (and announced afterward that they want to buy it later) I think I got more out of it that they did. The scene in the airport shop at the beginning is real life (I did not use the cutting comment aloud, but I thought it). It is a feel good mid-life movie, a bit sappy and some scenes work less well than others (why does the kid stay with Bruce Willis after he knows his Mom is dying?), but all in all and good time. It also gave our family something to talk about - did my kids think my life was boring? What do they expect at 40? How can you not like a movie that gets a good conversation going with your kids?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5bd6bd3931ae85900c08e8da4b57f18bcb2e413c4f9b7f66f0d804f7fc90750
+size 644

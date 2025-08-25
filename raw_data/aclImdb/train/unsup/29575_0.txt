@@ -1,1 +1,3 @@
-I am studying sound design and this movie blew me away. Watched it late night only because of the excellent James C. The most striking thing is when ever there is a violent scene, the director choose to fade out and loose all natural sound and simply play a simple but striking piece of piano. It distances you from the horror of the violence, it seemed to me to be as if I was being sheltered from the full effect. Powerful and poetic this was a revisionist western way ahead of its peers and only to be matched by Clint Eastwood's High plains drifter and Beguiled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1e0513fb8e21274b215191b3b23235e78895255bfdec6d3f13f1f4315671994
+size 566

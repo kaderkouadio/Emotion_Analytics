@@ -1,1 +1,3 @@
-Horrifically awful. One of the worst films ever made. <br /><br />Don't watch it alone, and don't watch it sober. One of those films that you just HAVE to see, even if it's only for the overt propaganda and the deliciously maniacal acting!
+version https://git-lfs.github.com/spec/v1
+oid sha256:68400bb092638981451ba800e9f19897c89b0674ed2ebe3dbbd42953c51cfbfe
+size 239

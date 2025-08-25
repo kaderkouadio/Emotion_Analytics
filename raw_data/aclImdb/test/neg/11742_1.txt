@@ -1,1 +1,3 @@
-Van Sant copies Hitchcock's masterpiece shot for shot including some modern facets: a walkman, and nudity from Anne Heche. Unless you have a strong desire to see Ms. Heche naked there is absolutely NO reason to see this film instead of the original. Hitchcock's masterpiece is much better and Van Sant fails to realize that in hiding the nudity and the gore, the original shower scene is all the more terrifying. Ask Janet Leigh about that one. The acting is also much flatter and the technical aspects much less impressive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6081a53924109661382d0f1730acde6671a57a1d73dff078484cf77c9ec88576
+size 524

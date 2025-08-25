@@ -1,1 +1,3 @@
-Although some of the acting is bland, the movie honestly tells of the struggle of a great musician to be "heard". Postcard cinematography and a good stereo sound add to the ambiance, and the music is so GOOD that one can forgive the lyrics writers for giving words to it, but these are the same people that gave words to the music of Borodin in "Kismet" and we MUST admit that "Stranger in Paradise" HAS become a staple!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd0fb38613ef3b74bab7d0b8adb85d5fbb3b9aedf0bccd4b16f6126a1c863a5b
+size 420

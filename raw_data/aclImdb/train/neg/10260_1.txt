@@ -1,1 +1,3 @@
-This movie was terrible!I rented it not knowing what to expect.I watched the 1st 5 minutes and the movie and knew it was a bomb.The acting was bad and there was no plot.The monster is soooooo fake.It growls and its mouth doesnt move.Also why would they have a doctor playing a xylophone to kill the monster.Just plain bad don't even waste your time.(1 out of 10)
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd7149ee20601437873fe314c590d9db1f818322d97c8803da324351ec2293d
+size 362

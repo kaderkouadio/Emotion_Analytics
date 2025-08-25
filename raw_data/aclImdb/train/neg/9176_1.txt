@@ -1,1 +1,3 @@
-You know you're in trouble when the opening narration basically tells you who survives. It all goes downhill from there. Unnecessary, "Matrix"-influenced bullet-time camera work. Pointless cuts to video game footage. Crusty old sea captains and wacky seamen. Ravers who become skilled combatants in the blink of an eye. Even the zombies are boring.<br /><br />I was hoping for at least a "so bad it's good" zombie movie, but this one is "so bad those involved with its creation should be barred from ever making a movie again".<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d52fe28d6d4b54ed380c410cd585fbbe506b4c5dbcd7afedf40bdd4802aa98f
+size 539

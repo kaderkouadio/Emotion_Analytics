@@ -1,1 +1,3 @@
-Wow, what a waste of acting talent. My husband and I sat there, both thinking, this has to get better, these actresses are too good to have wasted their time on this crap. Unattractive characters, hackneyed script, and listless pacing make for a long two hours. I actually couldn't hack it and left to do the grocery shopping (cat litter being more appealing than this film). The husband stayed and confirmed that it didn't get better--by the time Buddy is killed, you were wishing they all would get hit by a car and end their miserable lives. It would be infinitely more entertaining. Beautiful scenery and costumes can't keep this one alive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45ce98891e099a9c34f88b2b62db10e4ab4ef0e25878c6a991c120fde57de4b9
+size 644

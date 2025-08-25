@@ -1,1 +1,3 @@
-The Clowns are a rock band whose on stage antics include mutilation and murder but then groupies start dying for real and the band members are the prime suspects. I correctly guessed the identity of the fiend halfway through this lame murder mystery which perks up towards the end during the final bloody rampage.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b4028a2dab03225729715d018c36348168e935276f191db0ff6b99ea80f695a
+size 313

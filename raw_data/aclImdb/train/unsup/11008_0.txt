@@ -1,1 +1,3 @@
-I cannot say enough about the power of this movie. With my own struggle with my sexuality, as well as the hiding that so many like me are forced into, this movie brought me to tears. There are so many things I wish could be different, both in my life and in how the movie played out, but both are surprisingly pleasant even as they are. I cannot say that this is the greatest piece of cinema ever created, from dialog to production values, many parts of the movie are askew (not to mention the often indecipherable British mumbling!), but it has given me hope that as a gay teenager I will someday find the type of love I am looking for.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7875c62748783f91a64fec4c41e76eaf2df48237de751a0b7c178ba4e6624606
+size 637

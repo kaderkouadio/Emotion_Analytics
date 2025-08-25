@@ -1,1 +1,3 @@
-This movie is one of my alltime favorites, Woody Allen at his best. Radio Days is wonderful, and so full of life that you almost can touch it. And the music is as always in Allen´s movies magnificent. A true classic!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f134c6f1e9c722d2534d1409eea890072cab14232ba28d9981b600a1081f159
+size 217

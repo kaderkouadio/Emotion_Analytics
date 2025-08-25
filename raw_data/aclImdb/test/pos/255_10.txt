@@ -1,1 +1,3 @@
-The 08th MS team features two hopeful romantics from different sides of the conflict. Aina, the Zeon officer, and Shiro, the Federal Forces' new pilot, meet in a battle in space, throughout the 12 episode series (and one "movie") the two debate their love for each other while trying to come to grips with the war that surrounds them. It features a Romeo and Juliet romance and unbeatable animation. By far one of the best to hit American Shores. Suit Up!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d793df29bbf45bdfd8d6ebd68e41c948736914bec9b7f24bebfdd270ac5f3a5
+size 455

@@ -1,1 +1,3 @@
-Chuck Norris returns as Maj Scott McCoy the delta force commando who this time takes on a sadistic drug dealer named Ramon Cota(Billy Drago)who is holding a group of DEA agents hostage in this cold blooded and pointless sequel which is a total bomb until it's final 20 minutes of cool sky diving stunts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac90f902f6f7fad0142fcaca3ca5314af75c49eed9342d142e6c3be1f1c3fef1
+size 303

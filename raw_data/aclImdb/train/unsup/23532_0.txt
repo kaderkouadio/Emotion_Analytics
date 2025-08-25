@@ -1,1 +1,3 @@
-This movie was very historically accurate, I was impressed. I'm not often impressed by movies...but this got me. The cast was marvelous, the acting was wonderful, and the scenery so beautiful. Maybe because it was shot in historically authentic locations of Romania.(the place where Dracula was born, died, etc. ) The acting was so dramatic and believable that I almost found myself in tears near the end... It also contained(or should I say didn't..) something that I wasn't very used to seeing in movies these days---it had no profanity, no suggestive actions....it was all real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cec3a7fddfebc8d29a9670f85e675fa07092152926fdb00d6c5dfd04a73721db
+size 581

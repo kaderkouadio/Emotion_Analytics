@@ -1,1 +1,3 @@
-This is an excellent film with an equally good soundtrack. You may never get the chance to see this film...i understand that it is deleted now...but if you ever get the chance, watch it! <br /><br />I have the soundtrack and it's difficult to say which is better, the film or the album.<br /><br />Anyway, Pamela and Nicky are the main characters and they are as different as it is possible to be. <br /><br />The story takes you through their meeting in a psychiatric ward, to their escape and through to their road to rock stardom. <br /><br />Try and think back to the times when you had that hint of rebellion in you...and if you can get a copy of this film, do so!
+version https://git-lfs.github.com/spec/v1
+oid sha256:29a79eed4b1886184ae3b11cd255824a4aed9ca45c8dc18fa2e66fc39ef73699
+size 669

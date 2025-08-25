@@ -1,1 +1,3 @@
-A dull stroll through the banalities of Mormon prosthelatizing. Utterly un-funny. A testament to the widely held theory, that in order for bathroom humor to be funny, it must necessarily be vulgar; it also bolsters the claim that a close relationship with Jesus makes you not funny. More propaganda than film, don't worry about any touchy social issues coming up at the dinner table after this one. The saving grace of this movie is its accurate portrayal of young Mormon females as particularly attractive. Oh well, its your $7.50.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ecb5eb50dfaa11950012cdc17a336488f81b10a754f9c7d4f35d7367f5991d4
+size 532

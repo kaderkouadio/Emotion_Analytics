@@ -1,1 +1,3 @@
-i can't believe how bad this movie is. it's about as bad as Sleepaway Camp. it just stinks. i would never recommend this movie. Matt LeBlanc, stick to Friends! Please! the best actor in this film was definitely the chimp. don't rent it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb34cd141a1d5395998769b6dd0f2184973e04584ebd450ba6604df50dd2a7f9
+size 236

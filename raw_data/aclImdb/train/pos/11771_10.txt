@@ -1,1 +1,3 @@
-Great entertainment from start to the end. Wonderful performances by Belushi, Beach, Dalton & Railsback. Some twists and many action scenes. The movie was made for me! Funny lines in the screenplay, good music. Dalton as the tough sheriff and Railsback as "redneck-villain". I must recommend this film to every action-adventure fan! 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb082d928514771fa28204a70085bc1219bc24e234737444d5a5eec8641b84b8
+size 338

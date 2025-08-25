@@ -1,1 +1,3 @@
-This film could have been interesting, but it wasn't. The thing that seemed most odd about this film was that a few times during the movie, the group started fighting with the guy who was trying to figure out the puzzles and save the ship. I suppose they figured that if he was beat senseless he could solve the problems more efficiently. Anyway, I try to find some reason to see a movie in most of my reviews, so you might consider this movie if you're interested in weird uses of Shakespeare.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17982f2b555301d8b6bbe856bbe0ce3fc7235cc5e59248cd1e2f2be809ac8455
+size 494

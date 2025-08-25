@@ -1,1 +1,3 @@
-The Elegant Universe brings to light many ideas of the universe and existence. After watching this documentary, one can't help but take a step back and rethink their view on the existence of everything. There is a large cast of scientists, mathematicians and others on both sides of String Theory. It is continually brought into question as untested, untestable, and possibly dead wrong. The closest to proselytizing that anyone does is to explain that Quantum Physics, the set of mathematical ideas that give extremely good approximations of what happens to sub-atomic particles, has never made an incorrect prediction. Not so with String Theory; no one is willing to say, on-camera, that String Theory is the truth, and in so doing, the piece retains a certain respectful distance from the subject.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18ba97cdd14a1c5d8529d34373021f72e13d2a6c22bf0009a9b897bf9286564c
+size 800

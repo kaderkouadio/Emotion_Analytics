@@ -1,1 +1,3 @@
-Visually rich, somewhat slow paced, and hung together by varied amounts and quality of connection between the characters and a slight plot, the film manages to hold audience attention and intrigues the viewer. Many fascinating new faces to watch, moderate amount of tension, excellent acting, and an interesting-enough story line make this Canadian film worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf7953c0a968d4dd1bfcff9a7a9c17eb19753a85ef023f6c05891ee51d5dadb6
+size 367

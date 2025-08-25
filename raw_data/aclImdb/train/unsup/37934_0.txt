@@ -1,1 +1,3 @@
-This movie is tiresome, not funny, and with Brando playing an Asian including fake eye makeup and a buck-toothed accent offensively racist. Ouch, what a waste of a rental. Stay away from this turkey. It seems to have been made on a shoestring, at one point during the introductory scene the boom mike dips into the picture as it follows a young Harry Morgan down to the floor. In another scene, a posturing wrestler chosen as a town leader inadvertently almost stumbles off the podium - they never stopped the camera, just kept filming as Glenn Ford seems to badly ad lib his lines. Save your money and your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba4f48af9db666317c51b137e8a97543a2a8f4d7bff450b96636959ec7609daf
+size 613

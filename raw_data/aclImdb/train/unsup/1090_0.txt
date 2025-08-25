@@ -1,1 +1,3 @@
-This is one of my favorite Jackie Chan movies, even though it's so light and fluffy it seems ready to just float off into thin air at any moment. Jackie is just a delight to watch playing the two separated-at-birth twins, and the final brawl at the auto-testing plant is a terrific example of Chan's amazing physical comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55b4136409ca7804b9a0a7d93f58919cbc5bf13be18feef0f6596f4a91edb5b3
+size 324

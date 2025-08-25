@@ -1,1 +1,3 @@
-Only one reviewer "got it": ppmaker from Russian Federation<br /><br />----------------SPOILER ALERT---------------------- <br /><br />It's worth watching the directors comments on his alternative endings to see what the ending he used means, and what the other endings he considered could have meant.<br /><br />As PPMAKER said - did anything actually happen? The ending that was used leaves that rather wide open. The alternate endings leave you with other possibilities. Once you understand what the ending is telling you - those little nagging plot doubts you had during the movie are all resolved.<br /><br />Great movie - enjoyed it greatly and enjoyed the soundtrack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9f1f179bf5b6a67e130f53aa8076da5843a5d743250dcb6c2aa88c4212319b5
+size 674

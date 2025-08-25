@@ -1,1 +1,3 @@
-This movie leaves bitter taste in my mouth and soul, like nothing else I've ever seen. This is the story of one whole generation, a kids just few years younger then me (1972), who have grown up in time and place where most of values ware lost. This is a story of one entire nation (my people) falling down to the very bottom and staying there until they lost all their hopes. This is the story about the little people behind the war and politics, as never spoken so far, since it never happened to You. And finally, this is the story about the fifteen year old boys who's biggest chance in the life was to become a criminals... and they took that chance, never regarding for it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e479d2ad7e06ca373308a04ddcb02c2effac99cdb8cc0016e595dcfef9059da4
+size 678

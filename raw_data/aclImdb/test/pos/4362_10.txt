@@ -1,1 +1,3 @@
-Little Dieter Needs to Fly was my first film during the 1999 edition of the Göteborg Filmfestival. As I was extremely tired that evening, I was hesitant to see it, but the raving overall score of 9 here at IMDB made me go there.<br /><br />It was 80 minutes of pure life-force! Experiencing Dieter Denglers life through his own telling was enchanting.<br /><br />SEE IT! And if possible... see it at a cinema!
+version https://git-lfs.github.com/spec/v1
+oid sha256:091e3fa657b96b88a50c9fe5358ccc035a0449280ddb076078602050de2ba2ef
+size 410

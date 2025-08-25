@@ -1,1 +1,3 @@
-Poor film, poor story. Listening to Steve Coogan do an American accent was cringe-worthy. About 1 minute into the film I knew it was going to be a stinker, but I persisted to the end...and was not rewarded for my persistence. The twists were obvious, the humour was poor and very much un-coogan. <br /><br />I agree that most reviews of this film seem to be written to boost its popularity. <br /><br />I picked this film up for £2, and it proved you get what you pay for. I'd never heard of it before buying it, and I wish I'd not bothered!<br /><br />If you like Steve Coogan, you'll dislike The Alibi! Don't bother. Pick up some old Alan Partridge instead, much funnier.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8eaa8c57e9eceafe40bf6870a47f18d285649cc793d0cc86b377fdb1a388cfe
+size 674

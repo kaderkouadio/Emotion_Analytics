@@ -1,1 +1,3 @@
-pretty disappointing. i was expecting more of a horror/thriller -- but this seemed to be more of an episode of dawson's creek but with out the acting. there were some very impressive shots, though -- almost worth seeing. maybe future efforts will improve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:471769850cc09c453d9f6f2d769840fe3a8e28aa478a2fee882c7ae2b60d9789
+size 255

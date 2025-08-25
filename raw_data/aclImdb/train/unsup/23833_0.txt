@@ -1,1 +1,3 @@
-Madame Satã (2002) is more or less a biography of a Brazilian criminal, pimp, and abuser of both men and women. I think we are to understand that his actions are driven by his ambition to be a transvestite star in the Rio de Janeiro slums.<br /><br />I don't know if the performances we see are meant to be evidence of talent--I can't judge what a Brazilian audience would enjoy in 1932. I do know that the protagonist's behavior was consistently cruel and explosively violent.<br /><br />Nothing I saw in this film impressed me. It was shown at the Rochester Gay and Lesbian Film Festival. Is this the best film the committee could find about cross-dressing?<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:02f4a26b9caae5847414e604f7c3bac22b6783b9a8801fbcbb3c0f1678956a66
+size 672

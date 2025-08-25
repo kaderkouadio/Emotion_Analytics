@@ -1,1 +1,3 @@
-I heaven't read the book, but BICENTENNIAL MAN is a very touching and heartwarming movie about a house-robot (Robert Williams) that begins a 200-year journey to become and to be legally recognized as a human. During his journey, he has to face the fact and live with it that all loved ones around him grow older and eventually die while he is immortal.<br /><br />I think that this was one of Robin Williams' best performances ever, if not the best. He proves that he can either play a 'funny wacky' character but also a serious character that will touch the hearts of the viewers. And this movie does just that.<br /><br />I like the purity and the innocence of the story and I wonder why this movie has such a low rating. It's a must see for all open minded people.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd600fd7888ac237ba1be2a02f327e0481b3dfcb0aab9b5b4eafdc94d53e46ea
+size 767

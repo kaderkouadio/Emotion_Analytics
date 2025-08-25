@@ -1,1 +1,3 @@
-Why does the poster & artwork say "Clubbed is one of the best UK indie films I have seen in a very long time. SCREEN INTERNATIONAL" when it was a quote of the French distributor REPORTED by Screen International (an influential film trade publication). See www.screendaily.com/ScreenDailyArticle.aspx?intStoryID=39811 which reads:<br /><br />"Pretty Pictures has acquired all French-speaking rights to Neil Thompson's Clubbed ....James Velaise, president of Pretty Pictures, said: "Clubbed is one of the best UK indie films I have seen in a very long time.""<br /><br />Isn't this rather misleading? The distributor is bound to say it's good. Are the other quotes real?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad2a0b2b8b65fecb3feb4d3d10da8a841fda9bb8e543face996a01ded638ab49
+size 668

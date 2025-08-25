@@ -1,1 +1,3 @@
-Junk Drawer was an excellent portrayal of modern life in a special education classroom. The trials and tribulations of the students and the teacher seemed so real to me. What might have ended on a terribly low note was elevated to personal success when the teacher was allowed to see some positive results o all her hard work. It reminded me somewhat of It's a Wonderful Life with the ending. The entire production was well done and the story weel written. Hope it gets made into a full length movie. Keep up the good work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b721c0becca5add24376a43c67caa985e5e2abab9bd95e4b64c0b16eec3a1aff
+size 523

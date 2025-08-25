@@ -1,1 +1,3 @@
-WINCHESTER 73 is the story of a man (Jimmy Stewart) obsessed with getting back his prized possession, a repeating rifle made by Winchester. The rifle keeps changing hands, and Stewart doggedly keeps after it. This 1950 B&W effort by Anthony Mann is more a crime film than a traditional western, and the cowboys often seem more like modern-day gangsters than old-fashioned cowboys. Shelley Winters plays a woman of questionable virtue who is headed for a ranch with a man (Charles Drake) she may marry. She ends up falling for Stewart, but not before she is passed around a bit. Winters is the most complex character in a film filled with unusual characters. Watch for a young Dan Dureyea as a nutty killer and Tony Curtis in a very small role. A woefully miscast Will Geer plays Wyatt Earp.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f26232a58d60e89613cf4f04dbcc9b02d34e27543d56261f749798073c5ed9d
+size 790

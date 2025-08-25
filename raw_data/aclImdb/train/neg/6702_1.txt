@@ -1,1 +1,3 @@
-i can't figure out who greenlighted this thing! it has no redeeming qualities, none, nada, zip, zilch.<br /><br />the acting was bad. the directing was bad. the writing was bad. the plot was bad. the music was bad. the editing was bad. ....well, at least the filmmakers were consistent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d07325982607527ef1573900ea7c8abcef14f75a463beddd9b759beeef127d0
+size 286

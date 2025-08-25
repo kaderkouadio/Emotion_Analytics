@@ -1,1 +1,3 @@
-Trying to catch a serial killer, did they ever think of tracking the license plate number of the black van or fingerprint the video tapes he sent? Oh brother the plot of this movie was so full of holes it was pathetic. Now I know why there are bad movies in the world. This one however was one of the worst.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bc6104df23127ddd418a4f842e4c0cdcb688af08aa12c10c4efd087d12e801b
+size 307

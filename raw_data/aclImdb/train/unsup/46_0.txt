@@ -1,1 +1,3 @@
-This film has got merit not least the photography. It is beautifully shot and the location has much to admire. There is a touch of John Ford in parts. Its main strength is the performance by Jack Palance. Anthony Perkins is ok but he has not a lot to do. Small parts by familiar actors adds to the attractions of the film which is well worth a viewing. One of my childhood best loved films which I was not disappointed with when I watched it recently.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f5525f125065f769c236f89a1ba81abad426e17e220733038af8c741d0ab84
+size 451

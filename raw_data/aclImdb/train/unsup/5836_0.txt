@@ -1,1 +1,3 @@
-I can't begin to explain how chilling it is to believe that there are people walking around on our streets who are actually like this. Duval shines in this story of a freakish preacher on a one way trip to the place of fire and brimstone. The acting is great. The inclusion of some of the trance inducing 'sermons' of the obviously real life charlatans is great. Thankfully, it's only a film and it ends before the collection plate comes your way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1743e1e7d5c98676c8f8061cab29d05f91dc1e0e3c8b655c1d6a8efb9b87399
+size 447

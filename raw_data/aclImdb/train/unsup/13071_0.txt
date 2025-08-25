@@ -1,1 +1,3 @@
-I hated the stage play. So static and talky. But being an immense fan of Margulies' other work, I decided to give the movie a shot. WOW! Maybe it was the chemistry, direction and the ability to have multiple locations, but for some reason, everything fell together and I truly appreciated Margulies' dialogue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b50dbd6937fe24891a5c89c09147c5f94c30eb5d24d949d9865ecad25f874d4
+size 309

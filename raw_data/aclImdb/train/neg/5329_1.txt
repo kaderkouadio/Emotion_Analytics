@@ -1,1 +1,3 @@
-As a true Elvis fan, this movie is a total embarrasment and the script is a disaster. The movie opens with the beautiful son "Stay Away" and the scenery of the Grand Canyon gives the viewer hope of something special. Elvis gets in the picture and his talent is wasted big time, especially on the rest of the featured songs. I sat through this movie twice, just to make sure it is a piece of junk!!! 1 out of 10!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:436eb685269c9a74b4a3b8c8c92378dff206b1e3a37db24fd8b54d0c0acfcf9c
+size 413

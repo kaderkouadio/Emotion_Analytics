@@ -1,1 +1,3 @@
-I thought this film was very well made given what was probably a very small budget. The acting was very fine, and the story was painfully realistic in many ways. I got it from the local library because it was about a young teacher. My wife teaches so I thought she might like it. Fortunately I watched it on my own first, and decided that she would probably find it very disturbing because of the realities depicted, but frustrating because of the inability of the young teacher to do what was necessary to help herself.<br /><br />I found myself very moved by the young teacher, and had the feeling that I'd like to help her through her difficulties...difficulties revealed to the viewer, but ones she was unwilling to admit or express to those who might have helped her in the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:460a7cd0d38eb30e94fdfb7562eb8269758242ed51bd3548948f529c73cd0573
+size 784

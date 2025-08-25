@@ -1,1 +1,3 @@
-i saw this movie on cable, it was really funny, from the stereotype police chief to the stereotype big bad guys, jay leno and mr mayagi from karate kid star in this good comedy about a prototype car part. I compare this movie to "RUSH HOUR" in which a local cop has to partner up with an asian police officer to solve a case. The chase through farmers market in downtown detroit brings back memories. Enjoyable soundtrack, good script, i give it 10/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b32f4b346499d12ac993c4887f3a8c1daa76b7cae72ece5f82dc36405c4eec0
+size 452

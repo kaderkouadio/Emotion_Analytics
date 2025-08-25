@@ -1,1 +1,3 @@
-Hey senor! The 80's were and will be one of the best decades,if not the BEST century in the history of this pathetic planet. The movies were good, the music was good, the environment was good,life was less fast paced and more relaxed and definitely they don't make greats like Buddy and Terry anymore!! Nowadays movies are filled with gory and mindless violence and inane predictable computer graphics. Why even a 2 yr old kid can make a movie these days. There does not appear to be any creativity in todays movies. I grew up in the 80's and I must say i thoroughly enjoyed a lot. There were many good themes to choose from unlike todays vapid fare!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:72c5d257cec284405d6841d2b2c656de5890fd5a9349cb70142343ad2c96dc7a
+size 651

@@ -1,1 +1,3 @@
-This movie was incredible. I would recommend it to anyone, much better than what I had already anticipated. It was definitely a heart-wrenching spectacular movie. It is an amazing story, with amazing actors and creators. Definitely another great movie with Denzel Washington. (shouldn't surprise anyone) Derek Luke did a wonderful job as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82077f1b7aff48b4c9b8e831a0cf5d97135d0f8afac8c1ee477c6001b0789bab
+size 343

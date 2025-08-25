@@ -1,1 +1,3 @@
-It kept my attention to the end, however, without spoiling the film for anyone....... when she fixed the fridge by getting a book from the library, you knew how the film would end when she went back to library for a book on self defence against and assassin. The film, for me, said nothing of worth.... is becoming an assassin really a remedy for mental illness or just another symptom.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e06087391fd168f02f782351dfc1631e3f7fc69465f70d8eae03507115fb99
+size 386

@@ -1,1 +1,3 @@
-This film takes you to another time when there was a different pace to everyday life. We get an idea how families had to deal with the war and how quickly we sent young men off to fight. A very touching look at the past and a reminder that casualties of war don't just happen on the front.<br /><br />Luckily many of us have never had to go through what our great-grandparents, grandparents or parents went through during a war. This film, I think, is a small thank you. Peter Outerbridge looks amazingly like a young Peter O'Toole and Russell Crowe is absolutely charming and as Australian as he can be. It's definitely worth listening to him recite "High Flight" and makes me wonder what he might accomplish with Shakespeare.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84964e04b75fe3458569a75570300fd400d8f8a5e786cd0fdaf3b9d5007b486b
+size 727

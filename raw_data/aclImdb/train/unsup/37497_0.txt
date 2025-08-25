@@ -1,1 +1,3 @@
-Painful to watch such great acting talented wasted. Who comes up with such plots? There are so many good sources... While I understand the commercialism involved in making such a TV series, I never understand why producers and directors believe that audiences will tolerate such poor quality as fare... Those interested in Merlin would be advised to read Mary Stewart's trilogy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43457f9d91b5d2662fa34f049b1ecfe5968840ee506e089e6a82e2ee2245d4d6
+size 378

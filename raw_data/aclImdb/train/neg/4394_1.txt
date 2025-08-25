@@ -1,1 +1,3 @@
-The John Goodman program was pretty awful, but this thing just plain stinks. The one and only thing in this mess that made me smile was recognizing the voice of Patrick Starfish as Frosty. The story is hopeless, written by somebody who has garbled memories of childhood rebelliousness but has never gained any adult sense of perspective in the intervening years. Paranoia rules the dark world that these characters inhabit. Everybody is unpleasant, and for no reason. The plot is predictable but the show lurches from one inexplicable, unconnected scene to another in such a pointless way there is no fun in watching it. The worst thing is nobody in the production crew seems to have ever seen snow!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4129e227354418aa92b050211da7955efee5041df816df5fe303a886a938f9dc
+size 699

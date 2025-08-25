@@ -1,1 +1,3 @@
-Bette was magnificent in "The Rose", in my opinion the best movie she's made. In a totally different personna she plays Dixie equally wonderfully. "For The Boys" is, for a reason I cannot discern, one of my all time favorite movies. I love the movie and Bette is as always, the best. If you adore Bette, and if you've never "For The Boys", rent it or buy it and you'll see what I'm talking about.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f87f1efaa310daa9fa0b5e17c57030d8c4b874a3623c8ca69ec04f43cb3d362
+size 408

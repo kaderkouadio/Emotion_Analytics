@@ -1,1 +1,3 @@
-Phantasm Oblivion is undoubtedly the best sequel in the Phantasm series!! It took the humor out of Phantasm III, and got back to the dead serious tone of the first film. Phantasm fans Must see this movie. Great movie, great sequel. Long live the Tall Man!!!!'
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf7f60b5c7549001e332ea9bdd78fee3474088167237cc39b99c36c055d1b7f
+size 259

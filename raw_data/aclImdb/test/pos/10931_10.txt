@@ -1,1 +1,3 @@
-I have just read what I believe to be an analysis of this film by a lyrical Irishman. Lovely to read.<br /><br />However, a concise analysis of this film is that it is a interweaving of the seven deadly sins with the four types of justice.<br /><br />Envy, greed, pride, sloth, anger, etc. and justice in the forms of retributive, distributive, blind, and divine.<br /><br />I could demonstrate three examples of each, one for each of the three protagonists; however, it is much more fun to note them for oneself.<br /><br />This is an excellent film.<br /><br />Don't miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60af5e877e6924447619431ed8773f62b6598856a46b71ba52accb810c011fae
+size 577

@@ -1,1 +1,3 @@
-I don't know if this movie could have been any worse if it tried. My two roommates and I were totally pumped up to see this film, we set a timer on the TV and all ran into the living room when the timer went off and sat attentively on the couch like dogs about to be fed. <br /><br />When it was over, we slowly got up and walked out of the room without saying a word to each other. The movie was so bad it left us speechless. This farce of a film was nothing more than a way for John Leguizamo to live out his boxing fantasies. I recommend avoiding it at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e7cbe7b63050bb890b46409a1354c98d8fa207231533cc4da535deb1da1ffe4
+size 566

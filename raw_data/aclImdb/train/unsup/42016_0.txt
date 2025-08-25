@@ -1,1 +1,3 @@
-I was sadly disappointed with this movie. It wasn't a comedy, or even a drama really. It was "April" trying to make Thanksgiving dinner and the problems she encounters. This movie was basically the LONGEST hour and 20 minutes of my entire life. <br /><br />Beware this movie unless you really want to waste your money on it. Even with all the big name actors/actress it was done rather poorly. Shaky camera, BAD acting and a lot more things I'd rather not get into made this the worst experience in my life. If it had lasted any longer than that hour 20 minutes, I'd have stopped it right then and returned it never to pick it up again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b3895e8d797fbf254152b7522b7e427375f12bad618d1a629a2293bf30651f
+size 636

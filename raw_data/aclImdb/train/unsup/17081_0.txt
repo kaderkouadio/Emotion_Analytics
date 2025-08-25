@@ -1,1 +1,3 @@
-*** This review may contain spoilers *** His Girl Friday starts out strong with witty banter exchanged by Cary Grant as Walter Burns and Rosalind Russell as Hildy Johnson. Cary and Rosalind had a lot of chemistry in this film. Walter Burns is a blunt, impatient, controlling, man. I started out with a bit of sympathy for Hildy, who plays a woman who just wants a normal life away from journalism. Both characters turn out to be manipulative,unsympathetic, and very similar. The plot loses steam and is not very interesting, and is full of annoying characters. Everyone seems really corrupt. The movie started off really interesting, but couldn't sustain itself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e2e4ba753fc5e60be027c2f4d8af50321776893affdfbf3251e239d9af56806
+size 662

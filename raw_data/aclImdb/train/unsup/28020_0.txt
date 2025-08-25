@@ -1,1 +1,3 @@
-This film played in a small art-house theater in Los Angeles for several weeks with little or no promotion. I'd never heard of it and wondered why it continued playing for so long. I did not go to see it then but remembered the odd title. I subsequently came across the DVD and purchased it out of curiosity. I was amply rewarded for my adventure. The film, a Danish-Scottish co-production, is a small treasure. It is funny and poignant. The acting is uniformly fine and the characters are well defined and developed. The score is excellent and is performed by the Philharmonic of London. I share the DVD with friends and family and recommend the film highly. It's a wonderful little film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d59dab34b72b22b07e28968e4ba6946f4012aa4b712817346a6c04b0468085
+size 689

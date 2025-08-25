@@ -1,1 +1,3 @@
-I viewed The Reader at Sugar, which is not an optimal venue for viewing anything, and the movie was by far the highlight of the evening. The technical elements were well meshed and it was obvious that Duncan Rogers had chosen his designers and crew well. But it was the story and it's delivery that truly made this short shine. Duncan Rogers' tight script was just what this evening of "shorts" needed. It neither meandered, as several offerings did, or preached to us. The Reader was simple story telling in it's best form, well cast by Rogers and beautifully acted. Duncan Rogers is obviously a director with the ability to put all the pieces together, I'm looking forward to his next finished project. K.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec06392020709a42108ebec7ccce924d151410913732453eaadb8494cf2d12bb
+size 707

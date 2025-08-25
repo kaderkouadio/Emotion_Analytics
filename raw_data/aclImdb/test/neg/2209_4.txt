@@ -1,1 +1,3 @@
-MELTDOWN is pretty interesting SCI-FI. No major budget, very few special effects; but decent acting and a storyline of global doom is enough to sustain viewing. An asteroid grazes the atmosphere and thrust the Earth into an orbit closer to the sun. Global warming rapidly becomes unbearable. A determined LAPD cop(Casper Van Dien)goes all out to save the world from certain annihilation as the rising temps are devastating. The pressure is on to save mankind from this solar catastrophe; as well as protect his daughter, nurse ex-wife and TV reporter girlfriend. The cast includes: Stefanie Von Pfetten, Venus Terzo, Amanda Crew and Vincent Gale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5575a8934b8a57fe463824dd3b03b5983b42c883c607d4b29fe6d019fffc73f5
+size 646

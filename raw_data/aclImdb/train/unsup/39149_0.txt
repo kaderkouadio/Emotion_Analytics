@@ -1,1 +1,3 @@
-As a film school graduate, I've seen my share of terrible films. Being a fan of James Franco's, I felt that The Ape would at least be interesting. Instead, I was tricked into watching a pretentious James Franco ego-trip. The only good part of the film was its music, which wasn't featured enough. Otherwise, this film was slowly paced, overly perverse, wordy, misdirected, miscast and wildly unclever. I hate bashing somebody's hard work, but if I were to sugar-coat my feelings, somebody might make the same mistake that I made by watching The Ape.<br /><br />The next time James Franco has this much time on his hands, I suggest he take up treasure hunting, or anything else that doesn't involve writing or directing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0278d7175015461d4ee7c1187bd0000172c40fe4873e83da23b652dcb9b0e0
+size 719

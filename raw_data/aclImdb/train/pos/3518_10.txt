@@ -1,1 +1,3 @@
-Drum scene is wild! Cook, Jr. is unsung hero of this and many movies. Fantastic actor, great flick. A few twists that keep you moving. A must-see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea4046f412c1ef277e86dc18036ed24444d4a435f270fd8aac0aff3882405f98
+size 146

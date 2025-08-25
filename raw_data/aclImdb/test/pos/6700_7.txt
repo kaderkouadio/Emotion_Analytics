@@ -1,1 +1,3 @@
-Lifeforce is certainly one of Tobe Hooper's best films. It has some great special effects and a lot of nudity, so it seems like a typical horror fan's dream. The film is quit creative though and I think that's because of the script from Dan O'Bannon and Don Jakoby. Nice cinematography and a good creepy atmosphere make it a solid film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:820f4dfdfce7d39f1780184b99d248be260d1dd36e0ddf41cf57eb8f1b906361
+size 336

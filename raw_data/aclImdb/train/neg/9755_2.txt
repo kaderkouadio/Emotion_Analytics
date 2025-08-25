@@ -1,1 +1,3 @@
-This 1974 Naschy outing is directed by Leon Klimovsky, and a cursory glance at the publicity photos and packaging might lead you to believe that this medieval romp lies somewhere between "Inquisition" and "Sadomania". Sadly not.<br /><br />This is a strictly PG affair with tame torture sequences, no nudity and little edge at all. Naschy (of whom I am a fan) struts his stuff as Gilles de Lancre, "antiguo Mariscal de la nacion". Sadly he is more pantomime villain than anything else. One gets the feeling with this film that we have seen him (and it) done all before. Strictly therefore for Naschy completest only.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc6eb254a06b31b2111e7b102b8b9963e3ad6612bfcada6bcb046678aec40212
+size 616

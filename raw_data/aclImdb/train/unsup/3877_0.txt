@@ -1,1 +1,3 @@
-This film is a great comedy, and full of not only entertaining humor, but also insight into the true nature of human... we're all horny beasts. Not only that, but it is a great date movie, especially if you and your mate are "pollymorphously perverse."
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff26bffd64a6ec25df17135ab421f99ec0db7ec86e8cc2ae53d051cf30f73de3
+size 252

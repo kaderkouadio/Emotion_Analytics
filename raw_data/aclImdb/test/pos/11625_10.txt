@@ -1,1 +1,3 @@
-As an adventure mini-series, this is about as good as it gets. I viewed it when it was originally shown on HBO. Sigrid is totally believable in her role as Philadelphia, and the whole production was first rate! See all 400 minutes of it if you can. I highly recommend this mini-series. Amazing that I can't rate it officially, but for you readers/users I will let you know it's a solid 10!
+version https://git-lfs.github.com/spec/v1
+oid sha256:806c744c716d0635ad737c2985665dee743ec1408309d82564f5dad93493916e
+size 389

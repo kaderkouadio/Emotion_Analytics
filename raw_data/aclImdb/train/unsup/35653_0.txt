@@ -1,1 +1,3 @@
-This one is a typical "doesn´t hurt" comedy, like the other movies actor J.T.Thomas has done up to 1998. ("Speedway Junkie" in 1999 was the first change of direction for JTT) This movie is a must for JTT-Maniacs (like me), but not for normal people.There are many ways of wasting your time more enjoyable!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd7dcfc0b5caa1f50f4e8cf9e45339b71cfa56e5d02e9582a3446d1b58d5042
+size 306

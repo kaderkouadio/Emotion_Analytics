@@ -1,1 +1,3 @@
-This movie made me very happy. It's impossible not to love the smart and sweet orphan girl who changes the heart of a selfish lawyer only interested in pursuing success in her career. This is a very optimistic movie and I sincerely believe that we need more films like Curly Sue. It touched my heart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a30718691680d15a014e8afcd584ced99c1e213307fa95def86fde8bdc6d2c5c
+size 300

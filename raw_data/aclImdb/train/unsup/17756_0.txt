@@ -1,1 +1,3 @@
-This is a feel good movie. Full of action, comedy and suspense. We need to have Part 2 to watch. I have already worn out my first vhs tape and bought another one. Whenever I feel like a pick me up, I put in this tape and it always brings a smile to my face. I have some very good idea for the sequel. If I feel this way, then you know , other's must feel this way also.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e60f6f56e28309bed65f993b7d2a8c3b60c7278be2600bb154e8fa59b501a184
+size 369

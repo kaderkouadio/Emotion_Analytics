@@ -1,1 +1,3 @@
-I'm usually a big fan of Jackie Chan's movies. They're not horribly deep or meaningful, but they are usually very entertaining with Jackie's nice blend of impressive martial arts and humor. Unfortunately this movie was very lacking in both departments. Instead Jackie mostly uses a gun instead of his normal creative kung fu to deal with the bad guys. It's made worse by the fact that this was a poorly dubbed version of the movie. There are a lot of his movies I still haven't seen, but currently this one ranks lowest on the list. With his highly prolific career, do yourself a favor and choose another one of his movies. <br /><br />*1/2 (Out of 4)
+version https://git-lfs.github.com/spec/v1
+oid sha256:620ebf2da6a1b7146d1c4878c460a2bc7926c6cfd4aea7daf10c310a3c736ac6
+size 651

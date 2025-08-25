@@ -1,1 +1,3 @@
-(spoiler warning) I seem to keep giving this guy his last chance. Strange how an action hero who once was keeps attracting an audience. Anyway, this movie is about a character (Seagal) being kind of a mysterious rough-neck hero. That's it.<br /><br />Next.
+version https://git-lfs.github.com/spec/v1
+oid sha256:114fad22f6e2e07b51b19310f12b92199adb7230e1b5e568a5991134fa25d215
+size 256

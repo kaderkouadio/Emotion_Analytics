@@ -1,1 +1,3 @@
-This outing of Knotts includes one of his best sidekicks ever, Frank Welker. Welker makes the film. Knotts and Welker compete for the laughs and both receive plenty. Knotts works for a small "no where" town where the city is being run by some of the most ignorant officials. When things go wrong the city fathers, allow Knotts to take the fall. Frank Welker's character befriends Knotts and together they stumble together to clear up the mess and Knott's good name. This film shows the usual Knott's scared to death character that made him famous for years on television and film. This may have been Knotts' last good outing. When you have an extra 90 minutes, get a good old fashioned laugh a great icon, Don Knotts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:363c9c0b59f85996a4427429ebdbe3ec946fa29ebbbf966ca635db55917f960f
+size 717

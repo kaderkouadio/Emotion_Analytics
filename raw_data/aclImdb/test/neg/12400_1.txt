@@ -1,1 +1,3 @@
-Dire beyond belief. Obviously set on the Isle of Man masquerading as the US - very badly - and full of cut-rate British actors who can't do American accents. A monster that looks like an unarticulated promotional cut-out for Alien from a movie store, with the most inflexible feet ever seen. Girls in the shower, undressing, catfighting, blah, blah, blah. You get the idea. Don't watch it, run away, hide, AVOID.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73fe1a4251ab954fd3ef42cba7545082fe92eaf702b131e74624d30e24f7c1ac
+size 412

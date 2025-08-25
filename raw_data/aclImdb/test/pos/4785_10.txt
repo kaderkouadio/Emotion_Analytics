@@ -1,1 +1,3 @@
-Steamboat Willy was not the first cartoon to feature Mickey Mouse. The first film to star America's friend was "Plane Crazy". "Plane Crazy" was released May 15th 1928 in Hollywood California,in the silent movie format. "Steamboat Willy" was released November 18th 1928 as a SOUND movie (it was also released July 29th 1928 as a silent film). Thus making "Steamboat.."the first SOUND film of Mickey but NOT the first film for the little American Mouse. While many game shows have used the question: "What was the first appearance of Mickey Mouse?" The true answer is "Plane Crazy" not "Steamboat Willy". These dates can be checkout on IMDb under "release dates".
+version https://git-lfs.github.com/spec/v1
+oid sha256:181063b066b8300b0504df0e00f19f30f84a927bfb0d49937b24c3664267544e
+size 661

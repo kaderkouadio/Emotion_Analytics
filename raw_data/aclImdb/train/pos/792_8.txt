@@ -1,1 +1,3 @@
-This is a refreshing, enjoyable movie. If you enjoyed, "Four Weddings and A Funeral", "Peter's Friends", etc., you will see a number of familiar and talented actors. Made me laugh, made me sad. I view movies for entertainment, and English-set movies generally fit that bill for me. Enjoy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:355a7f92bec62b991d8363c6a8a0b7d0ff6b61349e9281077fef10046839fe91
+size 288

@@ -1,1 +1,3 @@
-The acting is lousy and (at least in the version I saw) the dubbing is abysmal. This supposed 50s-style teen angst comedy is best viewed really late at night so that the rotten acting and putrid storyline can fight with the pathetic 50s music soundtrack in sending you to sleep.<br /><br />Against this, "Porky's" deserved an Oscar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b05bc29334a5e898318abc5dee1e396adca22f3928315e62616f73bcdb971a
+size 332

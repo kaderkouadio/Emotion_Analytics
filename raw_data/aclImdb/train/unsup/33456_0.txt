@@ -1,1 +1,3 @@
-This is the kind of movie Hollywood excels at and when they make a good one, it can be fabulous. I expected this movie to be a lot better. It was too cliched and the tender moments were just corny. The acting was fine, it was the directing and script that weren't just weren't good enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e323f6a1008b68ff7e170134c66047ce3d2437fdf77e1dd4fd95f80e1fa28142
+size 289

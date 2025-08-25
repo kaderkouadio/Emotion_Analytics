@@ -1,1 +1,3 @@
-After I saw this movie, I had to see it again. Most likely it was because it was on HBO and I missed the first thirty minutes. I'm glad I rented it though. It is a great movie and I would have wanted to see it again anyway.<br /><br />It was sad though. I spoke with many of my friends after seeing it the second time and told them about it. They just looked at me and said, "Red Corner? What's that?" I was sad that most of my friends have never seen such a great movie! Gere and Bai's performances were wonderful! It is one of the best movies I have ever seen. I hope my friends eventually see it and if you haven't, you should.<br /><br />********** - 10 Stars
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fbbd9790e4eab87043a0ad01a57d37054d86cb09a6926a9afea5036e843a9cc
+size 663

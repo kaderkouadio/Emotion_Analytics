@@ -1,1 +1,3 @@
-This Martin Sheen film went almost completely unnoticed on its release, probably because the film company knew it wouldn't be worth promoting it. The film is a bit pretentious; it's characters speak lines in a manner that no one would really say in our real world. The actors do the best they can with the script they were given (including Blythe Danner, Craig T. Nelson, and Sebastian Dungan as Martin Sheen's 10-year old French son). It's not their fault, but the fault of the screenwriter Erich Segal (who also wrote the novel). Towards the end the movie goes to extremes to jerk the tears out of the two or three people sitting in the theatre. Really, not very good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1345f59ed7cddcd74cd99f9b1f3a466ecc3f1ae3abd8a1272edec995e95f2048
+size 670

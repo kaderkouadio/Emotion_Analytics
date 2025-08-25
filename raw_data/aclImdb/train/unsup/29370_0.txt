@@ -1,1 +1,3 @@
-This movie is one of the best of all time.First off the script is very good.Whitney houston is excellent with her Beautiful voice That i admire so much.i believe that This movie's Soundtrack is one of the best of all time. And of course it worthed the Oscar.Last but not least the end is not a typical movie happy end but a very good one.Thats why i think this movie has been so successful
+version https://git-lfs.github.com/spec/v1
+oid sha256:89eea82f3cb91a02babe2e91a774eea13f5031fc4eac0e517cfdde3deca73b88
+size 389

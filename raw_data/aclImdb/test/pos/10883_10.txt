@@ -1,1 +1,3 @@
-This game requires stealth, smart, and a steady hand. The gameplay is simply the best; on top of that though are the interesting extras - bullet holes stay in the walls, enemies react to specific points where they have been hit by bullets, there are tons of motion captured animations that make the enemies seem very real (for instance when looking through a window at a guard he will stand there swatting flies away, sneezing, or scratching himself), the list goes on. This is the best licensed/movie conversion ever and it puts you in the shoes of the suavest super spy. This game is the best reason for owning an N64.
+version https://git-lfs.github.com/spec/v1
+oid sha256:717dfbffd70776707a7c2f34e23731b042c123975f9457985a52f32c21069af4
+size 620

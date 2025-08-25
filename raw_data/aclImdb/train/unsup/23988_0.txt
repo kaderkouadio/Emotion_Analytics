@@ -1,1 +1,3 @@
-I thought that this movie was excellent, I watched it after a recommendation from a friend.<br /><br />After a slow first ten minutes when we get introduced to the main characters Toby Wong (an excellent Mark Dacascos)and Malik Brody (equally as good Kadeem Hardison) the action gets under way and doesn't stop until the closing credits.<br /><br />The jokes come quick and fast throughout and the film only gets better with the introduction of the fantastic but pretty unstable motel worker Deliverance Bodine (Brittany Murphy).<br /><br />Overall I give it 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb28103dd72a30766ad06af6a0b2a8358e794273b72063bcc520e9645983d722
+size 563

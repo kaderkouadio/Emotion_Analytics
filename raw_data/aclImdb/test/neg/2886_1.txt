@@ -1,1 +1,3 @@
-A man is builing a hotel with a partner. He finds out the hotel is over-insured. Things just get worse. This film has a huge mumber of scenes. They must have been put together in someones' sleep. It jumps around from place to place. It does not stay focused on anything for very long. The ending starts on christmas morning with a hotel fire. It then cuts to a night scene of that fire and then cuts back to day time. The DVD sound track is horrible. It takes a fair plot and turns into the worst film I have scene in a long time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9dfb3608f756d27b4165ee32a9a93915c0ac1f112166fbb3225554e1920ffc4
+size 530

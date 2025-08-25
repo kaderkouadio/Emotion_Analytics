@@ -1,1 +1,3 @@
-"The Hearse" is a low-budget, bottom-of-the-barrel little shocker. It's uninvolving throughout, and never terrifying. The hopelessly cliched story, with all the familiar "haunted house" tricks, would be enough to sink this movie, but the job is completed by the poor direction and the murky look of the film, which often makes it hard for us to understand what's happening onscreen. The ending leaves almost everything unexplained and is just as arbitrary and nonsensical as the rest of this film. The good performances can't save it by any means.
+version https://git-lfs.github.com/spec/v1
+oid sha256:101d3ae57ab6d36c86b19e0e15d228a7025b5eaf616b9c2f9fef2b9037f3c8ad
+size 547

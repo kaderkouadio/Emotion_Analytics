@@ -1,1 +1,3 @@
-In case the point hasn't been hammered home hard enough, this movie sucks. A lot. I'm the kind of guy who, by default, tends to see the good things in movies. This film was so hideously bad that I felt ashamed for even watching it. Urgh!
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b0db88940d34fa602c57c3e90c170e2629d8de39b93514ae7ee243690aca6b
+size 237

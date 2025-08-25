@@ -1,1 +1,3 @@
-Barbara Streisand directs and stars in this very Jewish story.<br /><br />To have a chance at obtaining an education, Babs enthusiastically disguises herself as a boy which isn't the most difficult thing to do since she already looks like a boy, anyway. At her new school she meets many male classmates who have no trouble at all in believing she's a guy.<br /><br />Don't miss the best of many moments of unintentional humor when Babs' male friend thinks she's a man, but pins 'him' to the ground, sits on top of 'him', and looks affectionately into 'his' eyes.... *snicker*.<br /><br />Mediocre film; splashy story about nothing particularly interesting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89544077c79ea0058a649b532857c36e21de3e153a2b57616e7a43badfceb2b8
+size 656

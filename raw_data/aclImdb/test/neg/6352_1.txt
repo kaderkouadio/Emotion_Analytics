@@ -1,1 +1,3 @@
-Purchased this film for one dollar and figured I could never go wrong, my big mistake was watching it. Enjoyed the acting of Ice-T and the rapping which gave lots of class to this film about Los Angeles and the world of pimps. There is a boxer who kills one of his opponents in a practice ring and who has a career, but because of mental problems from childhood and the killing of this other boxer he retires. He gets hired by a pimp who is looking for a bodyguard to protect the girls that work for him at their trade and make sure they are not beaten up. This boxer falls in love with the boss's girlfriend and all kinds of trouble starts. This is entertaining and it then becomes a big laughing comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9480a9f1bb562a1294c39623fbdf6a2c03762a354039609689ebb8123e3b33b
+size 705

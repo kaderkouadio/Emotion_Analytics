@@ -1,1 +1,3 @@
-No likeable characters (the lead is a combination of the WORST of Woody Allen/Paul Provensa/Reiser) and the contrived scenes (did anyone REALLY think thiat kid on the rollerblades was NOT going to knock the guy down?) were just sickeningly bad.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:7870938080fb4d6901849b177db92eefabb555fcb0e882b366efe8356bc7907d
+size 256

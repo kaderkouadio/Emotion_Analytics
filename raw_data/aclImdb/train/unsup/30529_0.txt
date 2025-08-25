@@ -1,1 +1,3 @@
-Alfred Hitchcock directs a superb cast in this murder drama set in England. Drama student Eve Gill(Jane Wyman)pretends to be an aid to London theater star Charlotte Inwood(Marlene Dietrich) to prove that she murdered her husband. The proper Alastair Sim plays Eve's father. Inspector Wilfred Smith(Michael Wilding)is in shrewed pursuit of Jonathan Cooper(Richard Todd)to charge him for murder. The high society singer may find herself the victim of a double cross exposing her ill deed. Featured is the sultry Dietrich's version of Cole Porter's "The Laziest Gal In Town". Suspenseful and close to being predictable...but not. Other players: Kay Walsh, Miles Malleson, Ballard Berkeley and the debut of the director's daughter Patricia Hitchcock.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99833f8b52fc84e9a8075785f1ed4faad6cfab33fbaa9254a14774689cc4e162
+size 746

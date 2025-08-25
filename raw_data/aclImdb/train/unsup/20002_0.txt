@@ -1,1 +1,3 @@
-THANK YOU,Tarzan for ruining my 13 year streak of never seeing a bad movie in the theatre. Wow..this one just SUCKED. With the exception of a few well done action sequences this one had no hope of being good at all. Awful acting and just a generally dumb plot really ruined the name of Tarzan for me..
+version https://git-lfs.github.com/spec/v1
+oid sha256:69ac157783fe258c139d59454fc14b669f6476532ec15d0936b2e8210057c709
+size 301

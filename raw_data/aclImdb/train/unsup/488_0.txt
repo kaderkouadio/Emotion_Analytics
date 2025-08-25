@@ -1,1 +1,3 @@
-If Blues Brothers is in my "top ten", this sequel in in my "last ten"!!! I found the screenplay terrible, trying to remind the scenes of the original movie... resulting in a complete defeat!!! Demential humor must be intelligent too. This seems to be a commercial operation only (like highlander 2!)... just one thing: I cannot comment the last 30 min... because I fell asleep!<br /><br />my rate: 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:c285790cafe9917ef570b986dd8c713936c5daf617f3b6335bb9f8154acaf7c6
+size 402

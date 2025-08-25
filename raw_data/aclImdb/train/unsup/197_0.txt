@@ -1,1 +1,3 @@
-Underrated, gripping thriller was a big box-office failure but it deserves a second chance on home video. Tightly plotted (there's always something happening, but the complications never get too confusing) and smoothly directed, it's a movie that knows how to keep you absorbed, even though its nihilistic ending is slightly cliched. Give it a try. (***)
+version https://git-lfs.github.com/spec/v1
+oid sha256:5404b2c696000fee0cf285b5a5dd5f1d24a1f50307d7b6a5b879878130a92706
+size 354

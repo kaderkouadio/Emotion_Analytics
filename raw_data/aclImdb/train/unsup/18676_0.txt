@@ -1,1 +1,3 @@
-"The Restoration" theatre vividly brought to life by a first-rate "Company of Players". In an age when women were forbidden to perform on the stage Ned Kynaston was arguably the "prettiest man in London" & the toast of the London's theatrical world. But when Charles II declares women may indeed trod the theatre's (& London's) stage(s), he finds himself haunted by the persona he has become. And, in so doing, he provides a triumphant view of a turning point in his career ~~ and in the history of the theatre. A visually stunning movie with a superb cast headed by Claire Danes (Maria), Billy Crudup (Ned Kynaston) & Rupert Everett (King Charles II) that enchants as well as creates the Restoration Age in England.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7ca311b2a77d37a3df11270d7f9bbf0f84e2a5158d588e19ed63f45b502b38
+size 716

@@ -1,1 +1,3 @@
-Fairly good romantic comedy in which I don't think I've ever seen Meg looking any cuter. All the players did a good job at keeping this a lively romp. Of course, in the real world no genius mathematician would even glance at some grease monkey, but that is why I love romantic comedies....one can just totally forget reality and have a good time. Nice film. Damn, Meg is a babe, eh?
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d7efd1d6f92be98ac0bf1cd21fb9ca3e555208ecfd76d2ee626b55815156583
+size 382

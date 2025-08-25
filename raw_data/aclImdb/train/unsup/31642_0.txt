@@ -1,1 +1,3 @@
-Really well done adaptation of the play to the screen. Rather wordy as was most early 1930's films, but quite charming nevertheless. And, indeed, rather risque for its day since there is a supposition at one point that Ann Harding's character, Joan, in trying to trap William Powell into marriage, is giving pre-marital favors and is actually caught in the process. The chemistry between Harding and Powell is quite good and it is unfortunate that the two were never paired again in another film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e058b11368474db876c11025a274ba4a78b5fc33dab462002128e16c81ee72
+size 496

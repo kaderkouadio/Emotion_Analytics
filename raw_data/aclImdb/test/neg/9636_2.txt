@@ -1,1 +1,3 @@
-This is the kind of movie which is loved by 50-year old schoolteachers and people who consider themselves aware in social issues - but really haven´t got a clue. The actors - I think all of them are amateurs - do their best, but the script is so full of cliches and stupidities that they can´t save it.<br /><br />Worst of all though is the scool cabaret that the kids are working on - brings back all your worst memories from acting classes in school. The lyric to one of the songs goes something like this in a fast-translation 2.30 in the morning: "I´m the dwarf of society, an emotionally crippled individual."<br /><br />Please!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e313150a889cbde9bb743965cabfab9059d3c13126e65c12fed7bb720315c3f1
+size 636

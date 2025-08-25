@@ -1,1 +1,3 @@
-Great movie. I was laughing all time through. Why? Well, I am from Austria, I can get along with the German (Bavarian) kind of humor. So I guess this movie makes only sense watching when you are German native speaker. Stefan and Erkan both are talking in a new kind of turkish-german accent, which became really popular in our Countries (GER & AUT). But of course they are very stupid. As in every comedy your personal humor will decide, whether thumb up or down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9e13f83f658c07d96b074a88e716aad77ccb7658e990174d66da235ceebedd
+size 463

@@ -1,1 +1,3 @@
-Cates is insipid and unconvincing, Kline over-acts as always, as does Lithgow while butchering an English accent (at least, I assume that's what he's attempting), and the tone staggers uneasily between farcical and maudlin. As with most pet projects showcasing a celebrity couple, it's a relief when this shoddy piece grinds to it's forced and jarring conclusion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc987e08e74b889d29f532f29ea870df5ff99b7926db80e2a4e0221cdbedbf4
+size 363

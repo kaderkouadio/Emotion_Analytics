@@ -1,1 +1,3 @@
-A horror picture set ultimately to parody but still in it's play out could scare a few of those that are frailed nerved or easily disgusted when they see whats under their skin. I laughed at it though. It was easy to decipher the true killer and his acting didn't help. This only led to Potente looking even better. Anatomie is not much of a horror picture for those foreign of the genre but those contained should get a few unintentional laughs and an interesting peak at German horror cinema. 6/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:db171dab7ec04ebb62a96764151e1a8d20de9abb09ea70f95a7608ca185f9676
+size 499

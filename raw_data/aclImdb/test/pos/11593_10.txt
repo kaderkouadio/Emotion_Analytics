@@ -1,1 +1,3 @@
-This small, quiet, harmonious movie grows into a masterpiece on human dignity. It is intelligently structured, filled with meaningful little details and important side-plots. It tells a story of one man with great humanity without positioning itself politically, but fostering life as a precious right (not an obligation) and underlining individual's right to choose. It enjoys the richness of different landscapes (mental and physical) and languages (important detail). Outstanding acting by each of the actors, especially unbelievable Javier Bardem. His screen-presence has such a force that you forget that this is fiction. The movie has a wonderful rhythm, it is beautifully shot and outstandingly directed. It takes real talent to make a movie on such a difficult theme with understanding, humour and heart. Six stars out of five.
+version https://git-lfs.github.com/spec/v1
+oid sha256:356a616ab1d35eee1c1c215032272181fe4c8224472aa26d0b6a4954cb131361
+size 835

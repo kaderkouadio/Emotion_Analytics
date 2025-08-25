@@ -1,1 +1,3 @@
-I am not pleased to say this, but so far, this is the first movie ever that I was completely unable to finish. I could not finish this film. I rented it, sat down and watched it, and then, three quarters through, I just turned it off, ejected it, and returned it. It was just insulting that a character this great should be abused in such a crazy film. Perhaps in Japan it was more popular, I dont know.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f241b1aa2e5ede8a4b7f9460ce2703f4beb69915c9b4572756d46238879d292d
+size 403

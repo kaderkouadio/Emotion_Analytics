@@ -1,1 +1,3 @@
-Just an awesome movie with awesome special effects for 1977. When watching remember it was 1977, not 1997 when it was made. The effects were years ahead of its day. Worth every second to watch. Now if they'd only release it on DVD!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8df801bf8b08edb0d7751961a6bb12123f45e3aaf24647d5d9751c22a9f1b55f
+size 231

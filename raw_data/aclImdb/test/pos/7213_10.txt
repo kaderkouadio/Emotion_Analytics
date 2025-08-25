@@ -1,1 +1,3 @@
-Superb! Even the Author was laughing at the end. And what a "balcony" scene! This film has it all. Wickedly funny and yet strangely faithful to the Bard of Avon. (But NOT for the Faint of Heart!) AND... the Best Credits since Monty Python and The Holy Grail! I am "Troma"Tized!
+version https://git-lfs.github.com/spec/v1
+oid sha256:249a138ab3c2016c30541455ed27c6c146b710ced81885b10b8c769301be170a
+size 277

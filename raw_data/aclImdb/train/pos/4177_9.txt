@@ -1,1 +1,3 @@
-A delightful piece of cinema storytelling in a simple but effective way. Cinema after all is a visual media and Igor used its full potential. A young restless man boards a train with no destination in mind. In one of the compartments he meets with a girl. Words are not exchanged but their laundry washing are and from there we are taken on a ride with other peculiar characters and situations. The two leads are perfectly cast as their unique features tell you a story that needs no words.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db51b481fda27127632d4855163af0a889cbce0b89fbf8336aed2f2226d1e540
+size 490

@@ -1,1 +1,3 @@
-Self indulgent and occasionally sexy... and those are the good points. Asia Argento is trying to make La Dolce Vita and winds up making Syd and Nancy from Nancy's point of view... if Nancy were Scary Spice. Okay... okay... that's unfair. But not by much. Flashes of a good movie are few and far between, but they're there. Not recommended except for fans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:060043bb1d635fd9e42d50513d106caa23d8f95eb2a0ef9ea9c3b927622d49c6
+size 355

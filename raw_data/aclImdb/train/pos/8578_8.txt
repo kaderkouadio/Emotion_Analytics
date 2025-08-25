@@ -1,1 +1,3 @@
-This film is one of the finest American B-movies of the 90s. If you're looking for a serious film, look elsewhere. However, if you're looking for some action, a lot of laughs, and a tongue in cheek variation on cops fighting gangsters, this is well worth watching. Everyone chews the scenery a bit, but that's really what the film is all about, and everyone is quite funny. Donald Sutherland and John Lithgow have great chemistry and need to do another film together.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5397e494b8aada81ee5f12ede1420803c022dcbbab4d1943ed77a9d183317e
+size 467

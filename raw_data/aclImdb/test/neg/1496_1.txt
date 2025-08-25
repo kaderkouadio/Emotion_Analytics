@@ -1,1 +1,3 @@
-This film is truly execrable in all departments. Script, acting, plot, direction and editing are all uniformly awful. I give it 1 out of 10 simply because people turned up to make it. I would have given it 2 out of 10 if they had all stayed at home instead. Avoid at all costs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de91e32cdc8410a279a2c909133442b45ec5fb72e02171378abceadf4f4d0df
+size 277

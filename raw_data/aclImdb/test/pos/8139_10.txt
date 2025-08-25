@@ -1,1 +1,3 @@
-Found this movie in a rental store. Never heard about it before, but it was a good movie. Great acting, and thrilling story line. Great kudos to Vincent Ventresca. He made Thomas character very attractive, and brought a special atmosphere to this movie.<br /><br />NJ<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:96caffec2868c6ed3e3781d52b1a4be164728e351913d549af67ad65b291cbde
+size 279

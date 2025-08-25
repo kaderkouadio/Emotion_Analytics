@@ -1,1 +1,3 @@
-I just watched this fine piece of entertainment and I must say that it's one of the best films that I have seen in a very long time. The premise is truly original. It features some great performances by veteran actors and even C. Thomas Howell! The special effects were truly mind-blowing and unique. It's so refreshing to see a movie without the use of CGI these days. I can't praise this film enough. Do yourself a favor and go see it. Earlier in the day I was contemplating suicide, but when I flipped to the Sci-Fi channel and started watching Glass Trap I remembered how great life really is. Glass Trap saved my life, it could save yours too. rofl
+version https://git-lfs.github.com/spec/v1
+oid sha256:84dcbc7c4103a99b5c52a94613cfe8e0f92533dfef350c5f1a14e903c8cf74e7
+size 653

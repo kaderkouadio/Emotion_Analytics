@@ -1,1 +1,3 @@
-Whenever someone tries to tell me that they think a movie is the worst ever (and it's usually some movie that's "cool" to hate, like "Manos, the Hands of Fate" or "The Avengers") I ask them, "is that movie a comedy about an orphan who is constantly trying to murder adults? Does anyone utter the line 'I'd rather eat a turd' in that movie?"<br /><br />This movie is WAY too infantile and moronic for adults, and WAY too violent and irresponsible for children. Is there that much money in the Beavis and Butt-head demographic to make a series of movies like this? There is a Problem Child 3, but I haven't seen it. I'd rather eat a turd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37df094cdbd7dd8c75b76f2b4c0d3e221d9d225140421e87c47b4608859fefba
+size 636

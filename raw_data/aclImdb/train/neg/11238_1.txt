@@ -1,1 +1,3 @@
-By reading the box at the video store this movie looks rather amusingly disturbing. You know the type....funny but supposed to frighten you.... this was not funny or horrific. the writing was lame...the jokes failed to make me laugh even at their extreme mundaneness....they were so expected. the actors didn't even do much with such a not so good script...at least I hope that wasn't their best..watch this movie at your own risk......I give it negative 3 stars outta 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:973d0fd25e2ebfb993f9740eca200070b26c14cff29065f6ee21fc4e660e6f7b
+size 471

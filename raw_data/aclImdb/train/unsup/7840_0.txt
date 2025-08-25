@@ -1,1 +1,3 @@
-I liked the script, but some of the actors are not so good. The battle scienes weren't good at all. And one more thing: in the book Athos was very quiet, but in this movie he is very talkative. Anyway I recomand you to see this movie for fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f4bf83f977c37577e6d90cca0fb8fb3a9394134411322f5756e2379b7c9528
+size 242

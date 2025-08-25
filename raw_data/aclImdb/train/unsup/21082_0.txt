@@ -1,1 +1,3 @@
-I remember this as being one of my all time favorite movies as a child. Haven't seen it since the late 40's. I would really like to find a source to purchase this wonderful musical, but haven't been successful. The music, dancing, romance, it was from a great time in our country.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b63f902e4affc9b8294d8d62ecdc53ca22a513f12c0f67d72964f0c5475f692a
+size 280

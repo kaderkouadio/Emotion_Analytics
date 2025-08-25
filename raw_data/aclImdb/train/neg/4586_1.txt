@@ -1,1 +1,3 @@
-If you're a layman interested in quantum theory and string theory, read "The Elegant Universe" by Brian Greene of Columbia University, and "The Universe in a Nutshell" by Stephen Hawking of Cambridge.<br /><br />Recipe for #$*!:<br /><br />3 parts bombastic New Age pontificator, 2 parts pseudoscientist, 2 parts real scientist<br /><br />Mix together until ingredients are indistinguishable from each other and spread on celluloid thin enough that there is no discernible substance.<br /><br />Serving suggestion: barf bags.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4568e1efc2819c4b90c72a822210eeacc37b757f20c17964613b6d963e998b1f
+size 525

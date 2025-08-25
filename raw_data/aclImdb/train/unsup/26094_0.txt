@@ -1,1 +1,3 @@
-First of all, I don't understand why any movie made in Mexico gets this "bad, cheesy, laughable" comments. I have watched this movie several times and it's better than the killer shark movies produced now-a-days by the Sci-Fi channel.<br /><br />The plot is simple yet effective, the acting is what you would expect from a 70's movie. The shark attacks (specially the one at night next to the boat with a REAL shark) are really believable, it achieves it's goal of scaring the crowd in my personal point of view.<br /><br />The only thing I didn't like was the excessive nudity, although it keeps it groovy to say the least. A good Saturday night pop corn flick if you have no plans to go out or if you just want to have a good time while cuddling in the couch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2064f9331220ba7630dc28821468fbe1f6b7a643514a02c320a5ec061261f1f8
+size 761

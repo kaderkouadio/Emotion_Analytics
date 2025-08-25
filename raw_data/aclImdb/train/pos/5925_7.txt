@@ -1,1 +1,3 @@
-Because of all the negative reviews of this film I almost didn't watch it. However, I was pleasantly surprised that it was a fairly enjoyable horror movie. The acting wasn't great - apart from the wonderful Alice Krige - but some of the dialogue ("Just consider yourself lunch.") was quite amusing.<br /><br />On the whole an above average Stephen King effort - 7/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e58d2859a85e004e54347e44d0af81a8d3893c666e84cdd82f5c3e36d52750d8
+size 367

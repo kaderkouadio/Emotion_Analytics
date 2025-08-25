@@ -1,1 +1,3 @@
-Alright, it wasn't that bad, but it was close. Sure the Scary Movie series as well as Date Movie were stupid and juvenile, but this is dumber than all the rest. There were a few chuckles, but overall it was mostly me groaning. Nearly every joke was tired and lame. They gave away all the "good" jokes in the trailer. Why Fred Willard and Jennifer Coolidge would be in this I have no idea. But Crispin Glover? The oddball actor who was so great in films like Back to the Future, River's Edge What's Eating Gilbert Grape and more? Yeah that's him all right, as Willy Wonka dancing around to crappy songs. So maybe my title was accurate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30dcdc80be33e21c2c3aa1e2b31ac2fb1c8af52ab209075f7753f892b13f0678
+size 634

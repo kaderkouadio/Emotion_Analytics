@@ -1,1 +1,3 @@
-If it had not been for Christopher Guest's hilarious role, I would have stopped watching this movie after 20 minutes. The jokes were flat, the movie choppy and slow paced, certain characters were obnoxious and painful to watch, but Guest's character kept me laughing so I stuck with it.<br /><br />I do feel there are much better choices out there!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ddb7a341962254f11f1187be028b718a0486fe1b61cd0970322b4cbd4526503
+size 348

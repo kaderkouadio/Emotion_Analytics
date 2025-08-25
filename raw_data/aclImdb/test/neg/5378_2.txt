@@ -1,1 +1,3 @@
-Okay, sure, this film will never win an oscar. Citizen cane this film is not... BUT why does every film have to be scrutinized? when was the last time you saw a film that was funny not becuase it was good, but because it was goofy? doesn't anyone remember roger corman, king of exploitation?<br /><br />well, I had fun. I liked the cheese. just go in not expecting to think, and prepare to throw popcorn at the screen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1116231c3ca4bbc13ffb58b1dab6e292aaafea2df64316fdf37da82a7703468
+size 418

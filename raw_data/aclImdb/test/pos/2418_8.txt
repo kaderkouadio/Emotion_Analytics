@@ -1,1 +1,3 @@
-I thought this movie was great, if you didn't take it too seriously. Just sit back and enjoy Hilary Swank in all her greatness and laugh when the monks go to Boston, MA. I also think this movie has a great message about self control and inner strength. Plus Mr. Myagi was so sweet, I wish he'd teach me karate!
+version https://git-lfs.github.com/spec/v1
+oid sha256:42fb5c1038c57a73875741d601c4e01aea09a56136383e50fce9a83974ff3157
+size 310

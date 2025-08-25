@@ -1,1 +1,3 @@
-But unfortunately only somewhat. In trying to be horrific and funny, the movie stays squarely in the middle of both without really succeeding in either. A few scenes stand out, especially in the beginning when the priest begins trying to turn evil, and at the end with the appearance of Satan, but the middle section of the movie simply does not go far enough to really be satisfying. Well worth watching, mostly since I doubt we'll see anything like this again, but don't go into it with high expectations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eee5f0dae0ca791a8792a5c94ee22f8226ab62c0597f34b4d3623dc4b59acacc
+size 507

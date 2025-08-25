@@ -1,1 +1,3 @@
-The Omega Code was a model of cinematographical inconsistency. There was a bit (but precious little) of good acting, primarily by the two prophets and Rostenberg, who only appeared once and had no lines. Otherwise the acting was decidedly bad. The plot line was rather weak, and only partially based on already questionable Biblical interpretation. Certainly not one of the year's best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ba9e7700e6c2b989ff0608fa167ac475a33e2f06185b9aaa455146658063e48
+size 386

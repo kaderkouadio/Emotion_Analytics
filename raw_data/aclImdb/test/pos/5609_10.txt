@@ -1,1 +1,3 @@
-This is my favorite Hal Hartley movie. All his movies are small gems. I love independent movies and I hope Hal Hartley never goes mainstream or sells out. What if the Lord Jesus did come back and loved his people so much that he could not open the final book and destroy the unbelievers? It was nice to see P. J. Harvey in a movie since I am a fan of her music. Don't watch this if you are a fan of cookie cutter Hollywood movies, you will be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8675d65bc357065a795854bf604ed98abeb7967f64a8bd7433c93ec4d641313f
+size 456

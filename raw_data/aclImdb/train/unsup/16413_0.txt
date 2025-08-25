@@ -1,1 +1,3 @@
-I say with great certainty that this was the greatest musical event of my lifetime. Yet there seem to be no video or audio copy that is available. This Live Aid album would have brought in Millions of Dollars in relief aid. Think about the cassette, album, CD, & DVD money we would have all paid? I am lucky enough to have a scratchy cassette recording off of the radio from that day. Long live Freddy!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0dd69c24cbf1b9fb2c1177e4bd8b9f68978ef9f0e97a1e0ec130ef3672f5a84
+size 405

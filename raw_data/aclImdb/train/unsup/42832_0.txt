@@ -1,1 +1,3 @@
-Containing none of the chills and thrills of the first this lame movie goes nowhere slowly.The final act is poor too.The cast look as bored as i was.im suprised this ever got to a third movie.a very bad sequal.avoid.1 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1795a966d2f7ee5f05cc64ac0436857018cf9b797c39844286a8a06fccd6af
+size 227

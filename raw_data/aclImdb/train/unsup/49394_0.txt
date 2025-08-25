@@ -1,1 +1,3 @@
-An American trying to make an alternative comedy with more sophisticated humor. ... and that's where it went wrong. A fine idea to do something different with comedy ended up in a nightmare. Can't blame him for trying something fresh though.<br /><br />Looks like the director hit the ball totally wrong here so I think he'd better stick to brainless Hollywood comedy. It's even better to have some lame old jokes than. <br /><br />Watched the movie with six people who love love all kinds of comedy from Hollywood to British comedy, from satire to black comedy. This film <br /><br />But after 50 min we just stopped watching in order not to lose our good mood.<br /><br />.... too bad
+version https://git-lfs.github.com/spec/v1
+oid sha256:cea88023c9a3128f5417304079fef780eaf311b000cb955395bc128c1f522bf4
+size 686

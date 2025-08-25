@@ -1,1 +1,3 @@
-Holes is a wonderful film to see. It has good messages in in, such as: be a good friend, never give up, etc. I highly recommend it to anyone. I still say the book is better than the movie, but the movie gives the book a run for its money. Also, Khleo Thomas plays Zero. That really adds to it!!!! Lol!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2afb438d6a9ec7e3c30988731e09df80ece595c5bff2f157adb967e688dd4fcb
+size 303

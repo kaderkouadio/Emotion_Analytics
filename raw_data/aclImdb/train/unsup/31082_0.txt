@@ -1,1 +1,3 @@
-I payed my money and saw this movie expecting a laugh and to leave with a smile on my face. I wasn't expecting Oscar acting, a great storyline or something that would leave a lasting impression on me.<br /><br />The performances were good, I especially enjoyed Michael Douglas's glam OTT character. The main actors also impressed and I was drawn into their romance as the film went on. So much so that I shed a little tear at the end.<br /><br />When I left the cinema I was smiling and during the movie I laughed out loud along<br /><br />with many other people. I got what I paid for and had a good night.
+version https://git-lfs.github.com/spec/v1
+oid sha256:879dce9f6b5e49243614fcd6972340113442f2bc36d5c4986d8796f73a2f14ba
+size 607

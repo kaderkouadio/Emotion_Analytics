@@ -1,1 +1,3 @@
-Dominance is the one word which summarizes this thoughtful exploration of the classic technological man v. natural man. Has society progressed to the point that we are fundamentally alienated from our natural environment? Yor, The Hunter From the Future, has an answer to that question which every thinking man needs to consider. A masterpiece.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a9c746448decc6faa9c706d522956193553fd136eb101f59bbd171438242c2
+size 344

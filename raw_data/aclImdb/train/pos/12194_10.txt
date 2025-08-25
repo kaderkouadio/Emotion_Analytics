@@ -1,1 +1,3 @@
-Surreal film noir released soon after the "real," genre-defining classics "The Maltese Falcon," "Double Indemnity" and "The Postman Always Rings Twice." Welles films shouldn't be evaluated against others. He was playing by different rules. In fact, he was playing. This starts where other femme fatale films leave off, so the vaguely logical (but interesting) whodunit is embellished with a display of Wellesian scenes (typical rapid-fire style), dialog (lots of "hard-boiled" philosophy), and unusual acting (good Hayworth presumably intentionally one-dimensional). To Welles "genre" may have meant "formula" but he seemed to like using "mysteries" as backgrounds for his "entertainments."
+version https://git-lfs.github.com/spec/v1
+oid sha256:d46fb4982d4c39f0e8747a634da07e2dc334ccde7a9b42a9eb32b6c91bca2814
+size 690

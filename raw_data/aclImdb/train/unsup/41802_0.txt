@@ -1,1 +1,3 @@
-Bibleman is truly a sorry/awful way for any Christian parent to teach their children any sort of values. Veggies Tales has stories with characters(cute veggies), and lots of other Christian animated videos. Got this for my son for Christmas(2006)this year, because I thought it would be more mature for his age(9). Boy was I wrong. He went back to the Veggie Tales, & The Pond, after only 15 minutes of watching BIBLEMAN. It was such a waste of money, and the time. I had to force my son into watching BIBLEMAN. I tried everything, to try to get him to watch it longer. He politely asked me to please put in the VEGGIE TALE video so he could watch that one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:580dab7fbe5533c8b6b17225bcd06595860e88f6325bb72634dd98daa8a9c12b
+size 657

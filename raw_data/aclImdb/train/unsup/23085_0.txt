@@ -1,1 +1,3 @@
-My first concern was "The children! My god, what about the children?!". But as Drew Carey says "F*ck the children!".<br /><br />And well we might by the time this documentary is done. From a liberal, secular humanist point-of-view, this movie keeps interest high by small amounts of conservative ranting interspersed with large amounts of liberal ranting (of course much more thoughtful, factual and balanced), animation and news clips too true yet too bizarre.<br /><br />If there's a star here, it's Ice-T, with a strong assist by Pat Boone.<br /><br />I'm not sure where you'll ever get to see it, but it's a must-see on this cultural journey most of us travel, willing or not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11b94cf2bbc2c8f68147dc480cb3d041bbdc8ce975842137809f27f7ac5f2af4
+size 680

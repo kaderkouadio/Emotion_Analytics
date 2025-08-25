@@ -1,1 +1,3 @@
-I saw this on a cheap DVD release with the title "The Entity Force". Since I enjoy cheesy 80's horror films I thought I was in for a real treat. Sadly the film is mostly boring and you're constantly waiting for something to happen. It does eventually get somewhat interesting, but this is in the last quarter of the film. It's a case of too little too late. When the action does happen it's not that great, what we get are dead corpses 'floating' along the ground and chasing after the girls in the mausoleum. It's not the absolute worst I've seen, but you can do a lot better. I would only recommend this to die-hard collectors of cheesy 80's horror.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f43c61611b88a48b5afa5eb804e362e0ecb8dffce08c8158634aa8ec409f3bc
+size 651

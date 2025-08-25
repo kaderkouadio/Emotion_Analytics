@@ -1,1 +1,3 @@
-Enjoyed 'Den brysomme mannen' http://ow.ly/PTTp (my wife didn't, so I watched it in bits over a few days.)<br /><br />Reviewers mainly confused - most agree it's allegorical, but not of what; 'Heaven', 'Hell', 'Socialism', 'Capitalism'? <br /><br />That most people don't wish to escape, and it's, essentially, forbidden goes with most of those options.<br /><br />So, presumably you're supposed to project your favourite preoccupation/prejudice/fear onto it. <br /><br />So I'd say it's about an a-epicurean life. A live desaturated of colour, literally in the film, figuratively in the interpretation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37cd26e36ee60b2454b416af99f9fddafcdeb1418b2439333feaea3c6d5db66d
+size 603

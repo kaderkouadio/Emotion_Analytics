@@ -1,1 +1,3 @@
-Worst Bob Hope comedy ever(and that includes some heavy competition). Hope, on an island with sailors, dreams aloud of being in a bathtub with a geisha girl "steering his ship". Somebody certainly steered this Hope-hackery over the cliff, as it features Phyllis Diller and Gina Lollobrigida and still can't work up any laughs or excitement. Where's Bing Crosby when you really need him?
+version https://git-lfs.github.com/spec/v1
+oid sha256:c570a4bd82c4e18b88b1b22b0870c80d92e0b469677432d53983a2c454da725d
+size 386

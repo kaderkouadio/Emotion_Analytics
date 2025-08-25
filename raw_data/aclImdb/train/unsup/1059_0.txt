@@ -1,1 +1,3 @@
-The Puppet Masters is a very good alien film.Donald Sutherland was good and it was unusual for male lead by Eric Thal.Julie Warner acted good and looked great!Will Patton's role was very different.Richard Belzer was the same as always and Marshal Bell was good but I was kinda disappointed by the role they gave to Yaphet Kotto as he didn't do much.The music is great!The Puppet Masters is a good alien film that is action packed and is never boring!I think all fans of alien films will like this!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fef127256dc577c0b61487a3f5d1b00e66343166834bfe390984362122081b51
+size 497

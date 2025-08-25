@@ -1,1 +1,3 @@
-Only due to the fact that I love slasher/serial kill movies, did I rate this as high as 3.<br /><br />I skipped past the opening credits. The next scene opens in a cop station. In the ensuing seconds, it shows the cop browsing data on various wanted suspects. I believe the intent was that we would assume he was continuously going forward through the database. If you slo-mo and pause, you'll note the details in several suspects' files, and you'll note one that describes a sex crime. These details are displayed several times, and although the details are the same, the suspect's picture is different LOL
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f2b348b70a10a45e8c97c7937a4790b9639d05014309e0bebe58300cf9a06df
+size 607

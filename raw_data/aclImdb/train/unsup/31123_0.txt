@@ -1,1 +1,3 @@
-Sure, it's not for everyone. It probably won't make an impact on anyone that never sat through hours of Banacek, Mannix, Cannon, Rockford Files, Magnum PI, or the 30 or so "Quinn-Martin" productions mentioned in the pilot.<br /><br />The deadpan delivery of Adam West as the likable, sad, washed-up actor is incredible. Why was he never given a chance after Batman? His portrayal of a man tempered by constant rejection, yet bravely holding on to dignity and hope that the next audition brings, is fascinating. Arthur Miller could not have done it better. Did I mention he's funny as hell, too? In today's terms, that character's name is Johnny Drama, instead of Lookwell.
+version https://git-lfs.github.com/spec/v1
+oid sha256:094d3e1e74bb0e64b4069d94f40790858723cc4af4d1bc18ee47c52419f20a22
+size 672

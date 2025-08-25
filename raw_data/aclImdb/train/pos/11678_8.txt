@@ -1,1 +1,3 @@
-Clara Bow (Hula Calhoun) is daughter of plantation owner Albert Gran (Bill Calhoun), who is mainly interested in playing cards and boozing with friends. She's interested in riding in the countryside until engineer Clive Brook (Anthony Haldane) shows up to build a dam. One of her father's friends Arlette Marchal (Mrs. Bane) then competes for his attentions. His wife Maude Truax (Margaret Haldane) shows up for the contrived finale.<br /><br />Lots of 'pre-code' elements like nude bathing.<br /><br />Wonderful location shooting in Hawaii.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c18a760231b5b3a31966bf2ea698a8efb0aab16f92a9447ecb76e1c0c8d1aa7
+size 541

@@ -1,1 +1,3 @@
-I always find it funny in these 80's post apocalyptic films that people can create makeshift bombs, build shelters, but can't fashion a spoon with which to eat! And the poster is completely misleading. Cool, sure. But neither the astronaut nor the ship resemble either of them actually used in the film... one could only hope.<br /><br />I saw this film when it first came out and the disappointment of my memory holds up today. Fortunately, I watched this for "free" as part of my Netflix membership with the Watch Now option. At least I could fast forward through the bad parts, which was once they got back to earth.<br /><br />If you like bad movies, you'll love this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c925d3b8971192b69572d60051879f032dc91d5c828a4330a0aec201a2c562
+size 676

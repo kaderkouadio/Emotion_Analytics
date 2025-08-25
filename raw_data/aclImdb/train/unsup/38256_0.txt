@@ -1,1 +1,3 @@
-If, as promised, this movie was restored then the results are simply horrible.<br /><br />A company called National Film Museum gave this film to another company called Hypercube IIc, in New York to digitally restore the film.<br /><br />But, instead of a intelligent restoration what this people did was to tint every scene to red, probably with Photoshop, with disastrous results.<br /><br />Douglas M. Protsik music is as unremarkable as the bad restoration. His accompaniment does not enhance the images at all.<br /><br />In all, the available print shown on TCM is unwatchable and I had to turn off the TV set.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bcd30eebe90629393245bd50f9cc9ee3e15bc9b8a559a26fc2a64ebdb6f6724
+size 616

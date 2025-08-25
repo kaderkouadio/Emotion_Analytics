@@ -1,1 +1,3 @@
-"A woman who was literally frightened to death narrates the story of how she arrived at her untimely demise. The woman is shown going through a series of circumstances that begin to wear down her psyche and drive her to madness. A lengthy line-up of suspects for the person responsible for her death has the police baffled," according to the DVD sleeve's synopsis. A film filled with baffling mystery; it's substandard is almost every respect, but was shot in color. Bela Lugosi appears, occasionally. <br /><br />** Scared to Death (1947) Christy Cabanne ~ Nat Pendleton, George Zucco, Bela Lugosi
+version https://git-lfs.github.com/spec/v1
+oid sha256:bab849611344e1caaa58903ebb5669e9fa82e8c6e91fe72c81211b28ce2516cc
+size 598

@@ -1,1 +1,3 @@
-A story about love and hate, tragedy and happiness, and most of all, friendship set in the very interesting time of the American Civil War.<br /><br />Gets you interested in history, gets you emotionally involved and makes you feverishly wait for the next episode.<br /><br />Moreover, the casting was splendid. Many superstars appear in short cameos, the leading roles are played by a big array of talented mimes - Kirstie Alley and Terri Garber should be mentioned here - this is simply a superb example for a TV production as it should be.<br /><br />Not to forget the sheer loveliness of Wendy Kilbourne portraying Constance :-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8497ae2c792047791c5f73a40469b09c9a31c4f615e9b50707664f69d6f38ddc
+size 632

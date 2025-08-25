@@ -1,1 +1,3 @@
-Uzumaki succeeds as at plunging you into a bizarre surreality where Uzumaki shapes haunt and curse a town. It fails at being a competent horror movie. While the film is sure to draw attention mainly to it's bizarre plot line and a few interesting visual treats, it's going to come off better as a dark comedy than a horror film. It's definitely a film you should see if your into the kind of stuff- but if your looking for a scare or even a small chill, you'll want to look elsewhere. Uzumaki doesn't really have much else up it's sleeve but a great chain of odd events.<br /><br />a
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e39307a112b93dc54fd50ca4227d3397ac8fd8f99e60ef4b3d991fe41439de9
+size 583

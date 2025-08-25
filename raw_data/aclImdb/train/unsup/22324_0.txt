@@ -1,1 +1,3 @@
-A great thriller, the film kept me guessing till the end. Robinson Stevenin was fantastic as Bo Ancellin. I saw the film when it came out in France and am glad somebody finally decided to bring it to the United States. Robinson Stevenin won a Cesar Award for his performance as a transvestite accused of a series of murders in Brussel's underground in this exciting, murder mystery film. It's rare to see a film which features a trans-gendered character as the lead actor, especially in a film theatrically released in the United States. The director, Francis Girod did an excellent job bringing the story to life. There was never a dull moment in Transfixed. Two thumbs way up, see this film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e73412e4e65ab743aa04fdbbf5565c2286804a5a2d9e0da818e0ebe09c7b2656
+size 693

@@ -1,1 +1,3 @@
-This movie was great. I admit that the plot leaves a little to be desired, but the music more than makes up for that. Evan Bonifant makes an excellent addition, better than John Goodman who did good. It combines humor, good music, and a family message. Definitely worth seeing several times.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d399a22e457130d2e86aa05014efff0da6f822996046770473da082a608aeec2
+size 291

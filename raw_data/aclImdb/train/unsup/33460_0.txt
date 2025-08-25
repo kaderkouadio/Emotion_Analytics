@@ -1,1 +1,3 @@
-This movie is neither funny nor even remotely interesting. I can sum it up in one word, BORING. This type of movie has been so overdone and for this movie not to bring anything new to the table is inexplicable. The cast is barely adequate and this movie demonstrates just how over rated Witherspoon really is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:794e22d0f1746b7d39c689442fda33a6da434f0df4c044749afe06658faff98a
+size 309

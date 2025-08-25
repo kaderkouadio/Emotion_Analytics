@@ -1,1 +1,3 @@
-Although everything I know about this era comes from reading about it, nonetheless One of the Hollywood Ten seems to accurately depict a darker side of our history during the Cold War years when Communism was a threat to our country. (If this was real or a perceived threat is controversial).<br /><br />However, One of the Hollywood Ten does accurately tell the story of Herber Bieberman and his trials and eventual conviction of being branded a communist by the US Government, and the ramifications this had to not only his life, but also that of his actress wife as well.<br /><br />Well written and excellently acted, One of the Hollywood Ten is certainly worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ace4377a2501892c2dc7333a1c994ea3d1217b551e41cbc91f0b211938053bb2
+size 675

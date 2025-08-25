@@ -1,1 +1,3 @@
-An hour into this movie, and I thought "okay, enough now; this is as much as I can take of this crap." I haven't seen the ending, and I really don't care.<br /><br />This inept piece of garbage would have even Ed Wood splitting heirs over its numerous flaws. Olmos, who is I assume either the son or nephew of that other Olmos - the one that played in "Blade Runner" - made this amateurish junk, proving for the umpteenth time that nepotism doesn't work. Not in movies, not anywhere. Movie-making is not DNA-based.<br /><br />Awful acting, phony-sounding "ghetto dialogue", muddled editing, an ugly look, and a dull plot. What more can one want?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f151b9b7968967bf1e23f9e15f2cf936e96fcb4fdffd172113cdee7be84bfc2d
+size 645

@@ -1,1 +1,3 @@
-Great fun for an evening on the sofa. Don't expect Academy Award stuff with this but it will leave you with a smile. The performance by Bruce Spence is truly good. The soundtrack shows off some great old Australian talent. Check out this and other true Aussie films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f899ba2ffa8f772417a955cfe3b62d0d725e7254a0aefcbfc5011f558d16706
+size 266

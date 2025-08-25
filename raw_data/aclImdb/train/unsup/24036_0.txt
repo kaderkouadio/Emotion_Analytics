@@ -1,1 +1,3 @@
-<br /><br />This movie was not a mediocre remake. Though I haven't seen the original I thought the acting was done well, and the characters all had some heart put into them. Sly did a heck of a job portraying a character who if brought back to any degree of real life would have been better. If you had been put into this movie, I doubt you would have done better! Good Work,Sly!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:944b7e8ff6a3b4fc17f9ea218a9819d4729348aec72ef1ec1fef9457ffbb1074
+size 391

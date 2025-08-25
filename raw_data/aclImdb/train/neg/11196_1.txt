@@ -1,1 +1,3 @@
-My friends and I walked out after 15 minutes, and we weren't the first. Afterwards, we tried to get our money back. Movie theater management wouldn't allow this, but they did agree to let us see another film. The only time that worked for us was to see Dickie Roberts: Former Child Star. As you can tell, this wasn't a memorable night. Probably one of my worst movie nights. Close second has to be when I saw a double header of Domestic Disturbance and Heist. In conclusion, for the sake of humanity, please don't see The Order.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df13cc285d1f37692b8cf899db408bffee074ada542d5b48a8081e22e838a2d1
+size 528

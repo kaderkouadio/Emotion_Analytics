@@ -1,1 +1,3 @@
-The two Fares does it again and even is better than ever!<br /><br />Director Josef Fares does an even better movie than "Jalla! Jalla!" (2000) and his brother Fares Fares is excellent in the lead role as a cop in a small Swedish Town.<br /><br />But my favorite is Torkel Petterson in the role as Benny. Benny is a sweat guy who makes headbands to his fellow police men, but dreams of becoming a hard neck American cop.<br /><br />If you want an easy and funny movie make sure to see this one!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ac94a4f1cf739c408dcc4ac5a29a7cc2892eeaf91b8ab75f714b89a97a2ee31
+size 494

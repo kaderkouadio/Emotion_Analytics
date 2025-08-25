@@ -1,1 +1,3 @@
-This movie had a few cheesy teen-like aspects to it and some of the acting was a little..... well lets just say off but The plot, The car, Sheryln Fenn, the special effects.... How can you not like this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d408546ea0e00b3624fbe653d0d2fdde7d8b3d3a03d082ac39ab34600ca739
+size 209

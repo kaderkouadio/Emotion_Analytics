@@ -1,1 +1,3 @@
-"Falling Like This" is a jiggle-cam no-budget indie loser not worth the time. The flick has no story, no point, no purpose, no moral, no message, and comes off like a bad class project. What is supposed to be a slice of life flick about a couple of rebellious teens goes something like..see the kids take a bath, see them drive a truck off a cliff, see them play darts and look at the sky and drink beer and get busted and hang out and pitch a fit and go to juvi and...yada, yada, yada. If you want to watch amateurish films, there are much better amateurish films than this on late night t.v.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01eac7f63a5819b67fc0658fdb4dfafa8ca769d7c19d2df89c09015073e4cd5e
+size 593

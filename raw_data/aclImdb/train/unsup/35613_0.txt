@@ -1,1 +1,3 @@
-I hope that Primo, the German Shepherd who played Thor, fired his agent after this role. It's amazing how they can take such a great novel and make such a bad movie out of it. Not only was the dog the best actor, he had the best lines and best stunt double. If you like dogs, people, or just plain good movies, do not waste your time on this stinker. Even the beautiful scenery and Primo's best efforts can't save this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd6e0834a434bfea88499a08aabecc23e219ce00ad6a54c81ba5051f6343b7e9
+size 423

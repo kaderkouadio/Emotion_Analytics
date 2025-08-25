@@ -1,1 +1,3 @@
-Though not completely awful, this film disappoints. Though independent directors bemoan the studio system and how it stifles creativity, there is at least one thing that the studios have done fairly consistently: they've been able to remind directors that good acting is highly desirable. Too many indie directors take a concept and some creative ideas and then simply relegate the acting to the lowest priority possible. That's one of the problems with "Splinter"...budget-level acting. I don't consider Sizemore to be an outstanding actor, but he truly embarrasses virtually every other actor in this film, especially Atis, who simply appears amateurish and uncertain in every scene.<br /><br />So, sorry...can't recommend this one at all. Crummy acting condemns a movie, regardless of the concept, story, and other production values.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f729f35c0a463ea01d164272b70e9c600dfc18e9847259a32fb3dec700e6b91
+size 836

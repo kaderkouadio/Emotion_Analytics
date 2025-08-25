@@ -1,1 +1,3 @@
-Ughh. I hate Monster on the Campus. Hate it hate it hate it. Hate the stupid plot. Hate how everybody always enters the scientist's office through the door marked "Use Other Door" (or maybe it was "Do Not Enter"...). Hate how the scientist KEEPS MANIFESTING THE MONSTER, despite having no reason to do so. This movie isn't entertaingly bad. It's just bad. Please, spare yourself the brain cells, and avoid it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8eba68b1e93d4fee527e400372a6e72d10952352b36f1bde3feed33b90616fc
+size 409

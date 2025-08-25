@@ -1,1 +1,3 @@
-Not-very-funny television show that introduces us to two brothers (Kieren "I Look Like Macaulay" Culkin and Will Friedle) whose lives are the prime focus of this show that only got a few episodes on NBC before it was booted.<br /><br />I looked forward to it and found myself disappointed. Last I heard, Kieran was doing a play in downtown London. Should be called "Go Figure."
+version https://git-lfs.github.com/spec/v1
+oid sha256:241fbd851a6cb88dd407bf58496015e31f22d2c67012dc7a880ef7230a362d29
+size 377

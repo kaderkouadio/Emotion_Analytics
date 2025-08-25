@@ -1,1 +1,3 @@
-when i was a child this was the movie i watched. i think it is a great movie for the kids to watch and parents don't have to be afraid of any violence or obscene images. rainbow brite is a cheerful young girl and she is trying to make the winter go away. she finds that something or someone is trying to steal the source of life and keep it for themselves. i love this movie and i think that even adults can enjoy this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ba2e1af99351d4700c29df2d9a859ac0063c219cf0783634ac5acc586e69b07
+size 425

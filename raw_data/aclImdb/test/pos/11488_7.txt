@@ -1,1 +1,3 @@
-"Committed" is all about Graham as an irrepressible optimist who goes in search of her self-estranged husband who has gone in search of himself which all leads to a sort of kookie, upbeat comedic odyssey involving a bunch of side characters and issues. A fresh, fun, and unpredictable little flick, what "Committed" lacks in story it makes up for in good naturedness and subtle morals and maxims. If you enjoy this little chick flick, which received slightly above average reviews by critics and public alike, you might want to check out Lisa Krueger's hit Indie "Manny & Lo" (1996). (B)
+version https://git-lfs.github.com/spec/v1
+oid sha256:447d07803f37f9e5073109245f36bcabe6be3ae308bd062d28c29d020cc5ff15
+size 587

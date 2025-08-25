@@ -1,1 +1,3 @@
-It was one of those DVDs I bought out of curiosity, being it on sale and being me interested in Korean films. However, I had no special expectations to it. Before I knew of it, I was completely absorbed by the story and the persons. Very few words, the few spoken in Korean so I do not even understand them, but this was compensated by the very intensive and expressive performance of the actors. I love the way the film has moments of total immobility, like the intervals of classical music, giving life and depth to the scenes, and allowing you to feel a connection to the individuals and what is happening inside them. Even when there is action, you never get a feeling of hurrying, there is always an element of space in time, giving place to both a story and the people part of it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3762e1293e87529c5f92bae5b17a0a5e27332a1c772ee74841f67bc8bf6187b9
+size 786

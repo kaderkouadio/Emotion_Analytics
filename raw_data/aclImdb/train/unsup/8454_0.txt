@@ -1,1 +1,3 @@
-There are some films, like Santa Claus the movie or indeed Hook that are continually panned by critics and cynics alike. Hook is a blissfully wonderful and funny story with a superb cast. Robin Williams never fails to impress and adapts excellently to this role and the changes the character goes through. It is a film that makes you want to be young again, to be carefree and full of "happy thoughts" and perhaps there is a message in this movie about not forgetting what it is that makes you happy.<br /><br />Brilliantly scripted and with great timing; especially between Dustin Hoffman's Hook and Bob Hoskins' Smee, this film never fails to brighten up my day.<br /><br />"Bring me the heads" of those who disagree I say!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a8ab3e2b5a7a2808fb15115a332b66090d090ee9abd202fb80031d387a435c3
+size 725

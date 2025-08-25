@@ -1,1 +1,3 @@
-The best movie about friendship! Especially between an AIDs infected person and a " normal " person. This is a great movie for everyone to see even though there is strong language used. I have seen it 25 times.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a65ee06360c3d5a060c0dee4b22baa52b9bf7a209fe3ee44e0a0aed8a9f8f9d
+size 210

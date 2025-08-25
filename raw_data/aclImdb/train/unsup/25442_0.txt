@@ -1,1 +1,3 @@
-I Loved the movie! I was hysterical laughing during the popcorn scene and bittersweet during the Snoop-Dog scene (wonderful!) because its contents were so funny but its context of the prison so sad. The Cabrini scene was a tour de force of direction and the final fantasy in the cornfields as well as other situations where Flip expresses or demonstrates his view of racism makes this movie so unique for its daring to voice the subject.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25dfb0248f02e05810d8c47894cf8cb8cc6a50fa23b2b5038a22632a2d281234
+size 437

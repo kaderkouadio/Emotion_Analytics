@@ -1,1 +1,3 @@
-This delightful movie tells the story of buds. And it's incredible. You'll laugh, and you'll smile, and you'll laugh. It's really all about the laughs. When Jon Bon Jovi is funny in a movie, it's a heck of a movie! 'nuff said. Now go watch it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ed3a474d06bf917c03b8750049c6994cf9b4ce5a61894a1892ccb29c4184c5
+size 243

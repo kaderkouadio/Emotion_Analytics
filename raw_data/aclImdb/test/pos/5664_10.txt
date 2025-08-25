@@ -1,1 +1,3 @@
-That's certainly not the best film ever. But that's certainly worth seeing for people with a special kind of mind. So the one who loves sadness and depression, and scary fairy-tales at night, and wolves and real madness - welcome! If you find a copy, of course:) As for me, I could stand it only once... But since that the Wolves, and Saint-Lucy, and children's drawings, and a headless Christ live in my nightmares.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac2f5f4837b71268ac40cfd3c8c89c70d48d8851cfea7c7318f7c70baf45841
+size 416

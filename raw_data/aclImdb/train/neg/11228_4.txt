@@ -1,1 +1,3 @@
-The major flaw with the film is its uninspired script. It plods back and forth between vignettes of Bettie's story and re-creations of the Klaw short films. While the Klaw re-creations are well done, it is unnecessary to recreate them in their near entirety. Page Richards, while not an amazing actress, does a decent job overall. And, at times, she does bear a remarkable resemblance to Bettie. Also of note is some faithful attention to detail. Costumes and clothing well done, as is some of the set direction. The sets are generally sparse and feel stage-y, but do feel of the era. It is sometimes surprisingly well lit, and the color palette was clearly thought-out to give the overall look a vibrant, retro feel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eee3b7705a3d2d2e45c72aa0798b3bbd32a8d31930c60a10bc0efbbd1967514
+size 717

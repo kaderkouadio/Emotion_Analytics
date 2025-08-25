@@ -1,1 +1,3 @@
-Verrrry nice. I think this is the first good black movie I have seen that didn't need to be but simply was. Well-known, medium-powered Black actors and actresses in a movie that didn't focus on the Black experience. The BEST part... the whole movie was done with thought-out class. The story wasn't about brothers from the 'hood trying to make it in the White Man's world or some racially-charged Spike Lee joint. Think of a great episode of the Cosby Show re-written for an adult audience, bearing a PG-13 rating and you know how you'll feel when you leave the theater. It's about time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:407e21bc18bd5325322f2b8ca1f99484586208f92a2b3007f78913b3fc11de50
+size 587

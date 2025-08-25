@@ -1,1 +1,3 @@
-This is my second favorite movie behind maximum overdrive! It just so happens that both movies are from 1986. The Wraith has great cars, great music, great racing action & decent actors. Too bad that most viewers of this movie will see it cut up on TV, but if you hurry, you can get it on VHS or DVD like I did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:464b1378369386b7e6972d54b2d53a31254c21911b619992f743b886f970b160
+size 311

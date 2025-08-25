@@ -1,1 +1,3 @@
-I'm trying to picture the pitch for Dark Angel. "I'm thinking Matrix, I'm thinking Bladerunner, I'm thinking that chick that plays Faith in Angel, wearing shiny black leather - or some chick just like her, leave that one with us. Only - get this! - we'll do it without any plot, dialogue, character, decent action or budget, just some loud bangs and a hot chick in shiny black leather straddling a big throbbing bike. Fanboys dig loud bangs and hot chicks in shiny black leather straddling big throbbing bikes, right?"<br /><br />Flashy, shallow, dreary, formulaic, passionless, tedious, dull, dumb, humourless, desultory, barely competent. Live action anime without any action, or indeed any life. SF just the way Joe Fanboy likes it, in fact. :(
+version https://git-lfs.github.com/spec/v1
+oid sha256:46b760160243bff4fa1edb5229150040941ac89975734154003c29f9f9bb8fb2
+size 747

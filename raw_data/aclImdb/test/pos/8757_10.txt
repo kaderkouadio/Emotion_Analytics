@@ -1,1 +1,3 @@
-I had been very curious to see the original six-hour miniseries that Steven Soderbergh's latest movie was based on, and now that I have, I am happy to say that one is not better than the other. They are both intelligent, involving and extremely entertaining. The only real advantage that the miniseries has over the movie is that it is three and a half hours longer, so we get to know the characters more in depth.<br /><br />There isn't a false note to be had in this production, one that you should definitely make time for when PBS re-broadcasts this miniseries sometime in 2001. You won't regret it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b94ad77facedd0c636b28546011dd158848321026a0d9cda391c2f01bf3898a0
+size 603

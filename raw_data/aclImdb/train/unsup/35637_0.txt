@@ -1,1 +1,3 @@
-Years later this film runs out of gas. The acting is choppy, and the film quality is grainy. The kung fu is excellent, but the budget and time constraints hurt this flick. This reminds me of other early 80's horror films like the Hallowing, that where good then, but lame now. I believe time does judge all things after the hype die down.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38b64f34fa4c74b33e7353f758f83eb252402184193ab5abdbd782451415ca5d
+size 338

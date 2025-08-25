@@ -1,1 +1,3 @@
-A reasonable effort is summary for this film. A good sixties film but lacking any sense of achievement. Maggie Smith gave a decent performance which was believable enough but not as good as she could have given, other actors were just dreadful! A terrible portrayal. It wasn't very funny and so it didn't really achieve its genres as it wasn't particularly funny and it wasn't dramatic. The only genre achieved to a satisfactory level was romance. Target Audiences were not hit and the movie sent out confusing messages. A very basic plot and a very basic storyline were not pulled off or performed at all well and people were left confused as to why the film wasn't as good and who the target audiences were etc. However Maggie was quite good and the storyline was alright with moments of capability.<br /><br />4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e29b5d57cbcc44f43d20db6f1c0673212f7c55b5066fe35b746c455b194e5ff
+size 815

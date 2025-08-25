@@ -1,1 +1,3 @@
-This is probably the first entry in the "Lance O'Leary/Nurse Keat" detective series; in subsequent O'Leary films, he was played by much younger actors than Guy Kibbee.<br /><br />A group of relatives (all played by well-known character actors) gathers in an old house (on a rainy nite, of course!) to speak to a wealthy relative, who goes into a coma.<br /><br />While they wait for him to recover, all sorts of mysterious goings-on happen, including a couple of murders.<br /><br />A creepy film; worth seeing!
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ab554fc410bf1da7e705cb839a7f10ee6fde8c5db7357befdfd7a1b2e801ab
+size 511

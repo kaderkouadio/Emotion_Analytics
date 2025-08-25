@@ -1,1 +1,3 @@
-This movie has exactly the right balance between horror and humor and, more importantly, between revealing too much and revealing too little. Some questions are answered at the end, but some are not, and I for one like that some are not. It is not a pat, boil-in-the-bag horror movie. It is intelligent and requires that you pay attention, but it's not as if that's terribly hard to do, because it succeeds in being entertaining throughout. Those expecting pornographic vivisections will be disappointed; compared to movies like "Hellraiser," this film is more rightly classified as "psychological thriller" than horror. It remains an excellent movie, however, and if you don't get it maybe you ought to watch again. Pay a bit more attention next time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c5d5a736998e184e39c5d43dfc0b5d2b604e8c1956bb38567476a1c57f357dc
+size 752

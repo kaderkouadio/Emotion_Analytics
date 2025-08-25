@@ -1,1 +1,3 @@
-This is an excruciatingly dull, slow movie. Amateur night all the way. Just another boring movie about boring people doing boring things. But here's the twist: it all happens during an eclipse! Still boring, though. Now it just looks poorly shot, as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00d0064fc43d717515c57b58d9c03f13260a7fa9d400e864d17348d07f6fef5a
+size 255

@@ -1,1 +1,3 @@
-I found this early talkie difficult to watch and I'm a Norma Shearer fan! It's not her fault, but the primitive production values of this film would cause any viewer to become bored. 90% of the movie is filmed with "medium shots," and it's very similar to watching a dull play.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a506bb0b5b09f5f0982a33b2f623a41f71a0bcf9922c33486824d0bf231c0dc
+size 277

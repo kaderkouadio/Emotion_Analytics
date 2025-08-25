@@ -1,1 +1,3 @@
-This movie is just as bad as it gets. If you like logic (or the lack of it) á la National Treasure and bad acting as well, then it could be a movie for you.<br /><br />Otherwise spend your time in the sun and your money on a beer.<br /><br />Actually it looks like a bad produced promo or demo picture to promote the people involved (ie. actors, special effects and so on). Accidentially they produce really bad exposing of their lack of talent.<br /><br />In a case like this the film company should be ordered to pay back money to the costumers that are not satisfied with the product.<br /><br />It is really lousy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e05778f0c03f3adf1b528ecfcd04b4a66708de7bffac6567b0cf02ddac0b66f
+size 619

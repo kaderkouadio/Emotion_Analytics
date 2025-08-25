@@ -1,1 +1,3 @@
-I can't believe that Isaiah Washington and Ice-T were in this mess! The plot (and I use that term very loosely) centers around an army of rats that terrorize an urban apartment complex--at least I think that's what it was about. The script made no sense at all, I couldn't have cared less about the characters and the camera-work consisted of repeatedly showing shadow images of rats standing on their hind legs or running. Running is what I should have done. As an African American male, I often read pleas from my brothers and sisters to "support African American films." I try to help out, but enough is enough. No one should watch garbage like this for any reason whatsoever. Please, brothers and sisters, don't produce any more direct to video rat turds like this. Please!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f382a8a5e43ce40f7b9650a4d721c261e3a78092247533d0835142a0234911c
+size 777

@@ -1,1 +1,3 @@
-The story of a little girl who was driven once by fear and now by pain, she becomes woman and a vengeful crime fighter. Her power is to manifest strong anime characters onto herself. This movie fuses animation with live action as she wields her animated sword through all that stands before her. She struggles to deal with life, her demons, and her fears.<br /><br />Young Emily watched her parents fight and argue. She watched her Dad leave her motherless. Emily soon discovered she had the power to do something about it. Emily grew through life traveling as a loner and at night she had the power to make a difference in the world.<br /><br />This movie is a great blend of animation and real action. There are many themes and metaphors that run deep through the movie. This movie is broke up as a 12 part series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d72171e6e944932ddc7224e5b6f4c060e5871dd35fa8aa2b905dab864e6e3b2
+size 816

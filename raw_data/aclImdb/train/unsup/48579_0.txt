@@ -1,1 +1,3 @@
-Clint Eastwood ruined this film. By adding a storyline (with his real-life daughter) he deluded the charm of the great book on which it was based. Gone was the fascination of the city of Savannah and its inhabitants. Jude Law, a fabulous actor, is totally wasted in a part that was so small, I didn't even realize it was him until the closing credits. Read the book and forget the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b194e6b5c5359d8971031828fd363a3780fd2dec424238db74ef90cd110b8581
+size 387

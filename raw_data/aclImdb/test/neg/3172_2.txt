@@ -1,1 +1,3 @@
-In efforts to make a somewhat comedic yet serious movie about the art of growing marijuana, Stephen Gyllenhaal (director) fell a few bong rips short of a good movie. While the cast is nothing short of amazing, this movie is extremely hard to sit through. The acting of Billy Bob Thornton, Ryan Phillipe, Jon Bon Jovi, Hank Azaria, and Kelly Lynch couldn't even save this movie from failure. It would be wiser to flush three single dollar bills down the toilet then to check this movie out at the local video store.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:adb90d90a6b10fc6974af3ae87679e21d976009c1982992d6cd5ccb8e4505cca
+size 526

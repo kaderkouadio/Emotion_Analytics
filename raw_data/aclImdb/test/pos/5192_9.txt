@@ -1,1 +1,3 @@
-I found the movie very real just as much as Saving Private Ryan and gave an upfront account from the German perspective. The graphic action and individual characters gave this movie much to keep me interested through the whole movie. Stalingrad was very brutal battle and the scenes gave this movie that stark reality of this battle. I recommend this for anyone who is interested in military history. This was my second viewing of this movie in a few years and was captivated by it's realism again. The weapons, uniforms, and hearing it German while reading the subtitles gave it much credit for a good military movie. In fact, this being a German perspective of the battle, I was rooting for the Germans, even though they were the agressor and ultimate loser of the war.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e38fd2e0939cf402fa91b25345bd3cad193faeec1019bb13b690918c37a6c30b
+size 771

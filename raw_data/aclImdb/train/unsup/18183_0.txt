@@ -1,1 +1,3 @@
-A sadistic woman killer throws suspicion on a well-meaning Priest, and the clergyman struggles to bring the truth to light. Hackneyed melodrama with religious overtones is made compelling and watchable by an extraordinary performance by Brad Dourif.<br /><br />MPAA: Rated R for nudity, sexuality, violence, and language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:123cbe31d3e5d70d2d3588c59b4b4cdea3898c06d45228f8099d8677fc510af0
+size 321

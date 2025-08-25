@@ -1,1 +1,3 @@
-I have noticed in a lot of my reviews I have mentioned how beer may make the movie better. There is not enough beer on Earth to make this movie watchable!!! This movie just...SUCKED!! Bad acting,story,plot,effects and so on. It's not even bad in a good way and I like bad movies. I have had more entertaining dumps than this flick!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f957a34feae0482f8ca57c3e20a6ecc5fdbfa10fd2be2081e4aebaa153178ea6
+size 332

@@ -1,1 +1,3 @@
-Good story about a backwoods community in the Ozarks around the turn of the century. Moonshine is the leading industry, fighting and funning the major form of entertainment. One day a stranger enters the community and causes a shake-up among the locals. Beautiful scenery adds much to the story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:064408866bf83a04ec5ad7dc51463f878ffe3d0e908ad6471267c920f7ef04b1
+size 295

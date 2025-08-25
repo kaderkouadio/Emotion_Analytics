@@ -1,1 +1,3 @@
-This episode introduced the Holodeck to the TNG world. The Jarada have to be contacted and a precise greeting must be delivered or it would greatly insult them. A tired Picard decides to take a trip into the Holodeck and a wonderful adventure begins. The settings are superb and almost movie like. Alas, the Jarada probe sent shortly thereafter damages the holodeck and all it's safety devices stop working. Picard and now guests must outwit the mobsters of gangland 40s America and return to the Jarada rendezvous. Picard greets the Jarada correctly and a new day dawns between Humanity and the Jarada. This gem of a first season episode set the holodeck for many interesting and unusual adventures to be had there
+version https://git-lfs.github.com/spec/v1
+oid sha256:303a5f1ae9018d11d78b7c9a1b204d9ca27e9ee745a6accfd072f0a42006a5ac
+size 715

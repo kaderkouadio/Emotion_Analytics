@@ -1,1 +1,3 @@
-This movie could have been so much better with a script rewrite. Not that I expect a great deal of plausibility in movies, but you'd think that even the homeless and urban-dwelling Jack Mason would question why a group of experienced hunters would want to hire him as a hunting guide. And upon reaching the hunting grounds, poor Ice-T plays his part as if he is actually going to lead these men through woods he's never seen before.<br /><br />And how does Jack Mason find Thomas Burns back in Seattle?<br /><br />I'm assuming this movie was based on Richard Connell's short story "The Most Dangerous Game." A few years ago I showed this movie to a class of 9th grade students after they read the story. I reedited the movie, cutting out all the pointless scenes and all the profanity. It ended up being 43 minutes long.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7de357bfeea38de00da218a8f9ed6a3b2d4f63034f7d63acfbe4e220846a76a1
+size 820

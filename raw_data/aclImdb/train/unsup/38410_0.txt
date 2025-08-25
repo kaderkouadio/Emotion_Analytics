@@ -1,1 +1,3 @@
-Almost awful, but it is pretty. The title should clue you in: this is no "Knife in the Water". The patronizing and sophomoric literary-cluttered conversations are not "cliched", as suggested, they are down right insulting. The director seems to think she is still on junior year abroad, her European, romantic literary tour. The poor Sean Penn character even has to "subscribe to the single ax theory" of the murder, to use this film's continuously dreary iconic phrasing. Well, not to be too harsh, I have to admit that the letters from home and the gift of a cute puppy do ring an even softer tone. Airlines offer barf bags, why not movie rental stores?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9eb57c1afafaa1c27b6333748fcceed65bef9a0be541ad3f4d93a4f04dd518c
+size 655

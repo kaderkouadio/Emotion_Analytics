@@ -1,1 +1,3 @@
-There might be a baseball movie out there that can rival how bad this one is, but I doubt it. For such great actors cast in some of the parts, I was sorely disappointed by the performances. The cinematography was poor, going from shots during a game that were obviously on a sound stage to crowd shots from any baseball broadcast. They would purposely do close up shots so you wouldn't see that nobody was actually there. Just not believable at all. I couldn't suspend my disbelief at all. Blech!
+version https://git-lfs.github.com/spec/v1
+oid sha256:350c76d66d9faf43dbfeae4a9be3f4f4c1e403122b5e19647d487c7dfcc86e4d
+size 496

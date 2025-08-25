@@ -1,1 +1,3 @@
-Boasting some pretty good Rick Baker-esque special effects and Deran Serafian in a small role, this pretty lame Italian movie deserves some recognition. Cerchi gets some credit for still making gore flicks while most of the other Italian directors (Ruggero Deodato, Sergio Martino, Lamberto Bava, and Enzo G. Castellari) have moved on to lower-key TV movies. As for plankton, it's half Piranha - half The Thing, with people turninging into monsters, raping women, and causing general mayhem. The ultra-grimy, sleazy, and over-sexed feel of the film makes it hard to enjoy. Only available in Italian language work-prints floating around.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e0f140e596c9df3fc11276e90763bc11c07a75b2aa277f39c010c55707033d5
+size 636

@@ -1,1 +1,3 @@
-Anyone who says this movie isn't terrifying is lying.<br /><br />The story is eerie, the segments are frightening and everything about it is truly unique. This is a surprisingly great horror film--but don't bother with its disastrous straight to video sequels.<br /><br />8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:626e4a84dd934026a5742a54d962fef513dca458b8ee155516d8e67ebe58a027
+size 276

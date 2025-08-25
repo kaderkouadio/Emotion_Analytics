@@ -1,1 +1,3 @@
-A boat builder in a sleepy town in Maine is going out of business, and the lives of all of the (soon to be ex-)workers and families are disrupted. The biggest disappointment is that the two stars--Bates and Bridges--have only bit parts.<br /><br />Interesting, but not something you would see twice.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:57389af62f0065365fcdfc13e406bfef1bd62adf1a78ed680851008c7f9bf4e3
+size 311

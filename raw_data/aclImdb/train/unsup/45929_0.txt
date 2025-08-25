@@ -1,1 +1,3 @@
-This movie is more confusing and boring than just plain bad. The badness just doesn't jump out and bite you like "Neptune Men" or *shudder* "Overdrawn At The Memory Bank". Some scenes, like the pee-throwing or the "I'm commminnnggg!" guy or "Prince Jumpjugs" are actually pretty funny without M&TB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a1fc9b661a7652cb1e1fc2590018d569415e7eee0155163a33d40edb3c0577
+size 298

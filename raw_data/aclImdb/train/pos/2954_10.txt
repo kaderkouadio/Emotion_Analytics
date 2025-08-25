@@ -1,1 +1,3 @@
-This film, though, critically acclaimed, has of course not yet been released in the U.S. on DVD, like another great - Christine Lahti's "Housekeeping", out the same year. But if you can support Region 4 (Australian) DVD's, this little masterpiece should be in your collection. There are still some VHS copies available on the internet as well.Davis is complemented by a great story, as well as memorable performances from her supporting cast, especially Claudia Carvan and the late, great Jan Adele. Amazingly, or maybe not, this film and its stars went unacknowledged at Academy Awards time, as did "Housekeeping", but treat yourself to both of them - you will be glad you did!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d467a4899930f4932c2183220905fcae109571f6606a44a6f8f0c9c562340c5c
+size 678

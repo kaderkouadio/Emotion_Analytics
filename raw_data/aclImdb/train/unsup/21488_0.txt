@@ -1,1 +1,3 @@
-This film would have made a great gangster saga but Ferrara and writer St. John are more interested about the characters then the story. What occurs on the surface may be minimal and very uncreative but deep within you enter the souls of each character who question their values as they mourn the death of a family member. Each one carrying a dilemma to the very surprising ending. This film could have been set in any era as it deals with intelligent issues such as the complex male macho image as questioned by Sciorra's character. Another interesting piece from Ferrara who goes for the mind and leaves you silent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d471337c23b240c674831de82dcb30b78be3b8d2df1e56d81a0b65802708ce0
+size 617

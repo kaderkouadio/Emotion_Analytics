@@ -1,1 +1,3 @@
-My kids took me to see this flick & it was an embarassment it was offensive,stereotypical crap Master P. should stick to music.One of the biggest gripes in Hollywood is that Black movies always get ignored around Oscar time.With garbage like this coming out it's no wonder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c38bffeff9fa54eece69d61ba49892f8a94113adc2393ae18acfbd8ede5d4c
+size 273

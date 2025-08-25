@@ -1,1 +1,3 @@
-Since I had loved the Inspector Gadget cartoon in the 80's, I went to see this movie. I wasted my money. The plot was very thin. Also, the movie could not keep me interested for long. I was glad it was over.<br /><br />If you want to see Inspector Gadget, watch the cartoon instead. It was much better than the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a260e753108a72905cd77fc70b993830cdeb0a3cda1d2f005215db8c8a8d923
+size 317

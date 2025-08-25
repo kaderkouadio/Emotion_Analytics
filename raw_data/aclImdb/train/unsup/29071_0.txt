@@ -1,1 +1,3 @@
-It's amazing what movies people will make these days. When I heard this was made in 1995, I was at first surprised and then understanding. This movie is a women in prison movie, and as such makes use for gratiutous nudity (thank you!) plenty of violence and a REALLY cheesy plot line. This movie is so cheesy I think more mice watch it than humans. A definite must for a bachelor party, a definite must not for anything else!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1486a5edb3850f2db7164440a1160786115552ba0476b82a7d8da8a5abb628d
+size 425

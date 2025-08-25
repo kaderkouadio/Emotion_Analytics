@@ -1,1 +1,3 @@
-I think the opening 20 minutes of this film is perhaps one of the most exciting filmed, with the brilliant music score working to build tension to a shattering climax. What cinema goers made of this in the 30s, I can only imagine. The 'Times' said at the time, 'A miracle has come to the screen.' Watch it and marvel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:681ce8e92c2262ad2db43375306406063d8752904a1bb9e6ed3f34e0c29507d9
+size 317

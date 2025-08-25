@@ -1,1 +1,3 @@
-A Cuban American returns to Cuba in search for his long-lost mother. But his bags, alas, do not contain a hearing aid for director Humberto Solas, who's tone deaf for dialogue. Nor a Dictionary of American Slang, so his protagonist can use the right cuss words in English. Otherwise, in Spanish, he sounds as corny as a blurb on a romance novel's cover.<br /><br />In exchange for a few politically incorrect venial sins, Mr. Solas delivers the neo-official party line, where only Cubans on the island know who they really are (despite "everything"), while Miami Cubans have to marry an American to get any respect. Are you sure? In Miami?!<br /><br />Before Miel para Oshun, Mr. Solas handn't made a movie in a decade. Who said it was better to let sleeping dogs lie? Well, lie he did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b14fb702be712ae314f2aa2e321b63bdd2d26743041c25b1a73a71e87abcc6f
+size 786

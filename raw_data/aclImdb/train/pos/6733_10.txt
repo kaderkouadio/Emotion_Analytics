@@ -1,1 +1,3 @@
-There's been a spate of recent surfing movies that I seem to haphazardly run across without advance warning. I caught this treasure on digital cable this week and what a pleasant surprise it was! The focus is on the pioneers of big wave surfing from the 60's Greg Noll to our current Laird Hamilton, from Waimea Bay to Mavericks to Jaws. Hell, I could watch a movie just about Laird Hamilton - one of this generation's great athletes - so the rest is just gravy. There's loads of good surfing mixed in with interviews of past and present surfing stars, in pleasant, relaxed and unpretentious fashion. Of all the surfing movies I've seen this tells the big-wave story the best, and I think it's my favorite. Enjoy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:515ee879939f1cc08b52c891ac242bcb92c8343e12497c5d6c2d64c7c0d14f13
+size 713

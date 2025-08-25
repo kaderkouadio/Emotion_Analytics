@@ -1,1 +1,3 @@
-This documentary was nominated for an Oscar and it's easy to see why. Even 45 years later, it is quite an impressive piece of work. Why it isn't in-print is a mystery that only Disney can explain. Good use of live footage and animation in tandem. This used to run as part of "Vault Disney" every few months or so, but I haven't seen it listed in quite a while. *sigh* Most recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7556557e69c9d8bb743e225c2d25747551663d9720eda755701b9f4c5a20cc11
+size 385

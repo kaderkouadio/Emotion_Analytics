@@ -1,1 +1,3 @@
-OhMyGAWD!!! THE MAGIC GARDEN is perhaps one of my most vivid '70s childhood memories. Two hippie chicks with ponytails, Carole and Paula would swing on swings, tell jokes they picked off the chuckle patch, dress up with costumes they found in a giant chest called The Storybox, and argue with a pesky pink squirrel named Sherlock that lived in one of their trees. They also could strum a mean acoustic guitar and sing a pretty melody. This was a great childhood show. Very 70s feeling. But that's the problem: They don't MAKE shows like this anymore. Pity that. You could tell these two girls really had hearts of gold and loved kids, they were really sweet. MAGIC GARDEN is one of those shows that if they came out with a box set people WOULD buy it, because its such a MELLOW walk down Memory Lane.
+version https://git-lfs.github.com/spec/v1
+oid sha256:993fad2d09a10b9475dd85ade9a790eac6cef9e9607cb54f903892edb3a5375d
+size 800

@@ -1,1 +1,3 @@
-The young Chabrol introduces the viewer into the daily life of the female school teacher that becomes us : so we gently search for affection and empathy, we discover the gentleness of a mute character and beyond the horror is waiting. Or is it the gentleness that lies beyond horror?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e768e6d7b9d77c23c1bb4bd652beef28f878c45b153d3a0d587b06d5ef875d1
+size 283

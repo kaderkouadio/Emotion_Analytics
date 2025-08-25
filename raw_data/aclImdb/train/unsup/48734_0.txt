@@ -1,1 +1,3 @@
-This is by far the worst movie I can ever recall seeing. It beats out grade Z movies because of its "deep arthouse movie" pretensions. I saw "Angels and Insects" for free, so I actually enjoyed laughing at it with my friends. Particularly the as-subtle-as-a-jackhammer "imagery" [Oh I get it! They're like bees because they dress in yellow and black stripped ballgowns!] and the hilarious poor acting ["when I touch myself...in the night..."]. If you want an intelligent movie, look elsewhere.
+version https://git-lfs.github.com/spec/v1
+oid sha256:778d126fe91f8e2b95134e6d9d39dcf301f1a055052ad7930b26dcaff5bba9bc
+size 493

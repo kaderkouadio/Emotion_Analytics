@@ -1,1 +1,3 @@
-This movie showed in the small cinemas in South Africa, around the time that "Love Story" was a big hit here, and I found it to be vastly superior. The more I saw it, the more I cried, until I had to stop seeing it! The music was a wonderful addition, and I was lucky enough to be able to buy a long-player with the soundtrack, which includes Cristina Raines reading from her diary. Brings it all back. Should be on video for purchase.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4842606edfd0767ab8b11e3f92be4d0898acbd6234dc6aa12d4d288caa0507d6
+size 435

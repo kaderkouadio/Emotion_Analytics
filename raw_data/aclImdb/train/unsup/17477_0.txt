@@ -1,1 +1,3 @@
-I quite loved this film when I first saw it as a 22 year old at the Fox theater in Fullerton, Calif. I grew up during the war years and had become weary of WWII movies, but this one stood out as one of the fastest paced and most authentic seeming war films. The fact that Audie Murphy actually portrayed his own experiences make it even more valuable a film.<br /><br />It did have the feeling of a propaganda film, but it doesn't really commit itself as being either pro-war or anti-war. It is of course "sanitized" as far as language and violence are concerned since the Hayes office was still around. This does give it a somewhat dated appearance although it was at least in color.<br /><br />It stands to this day as one of my favorite WWII films and I heartily recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47f9a34faa458c15d83dcb6ffca774c218a41259de5937fe0508a820da16e164
+size 779

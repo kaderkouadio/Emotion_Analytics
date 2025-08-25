@@ -1,1 +1,3 @@
-I'm sorry to say that, but i can hardly say it's a good film... The cinematography is dull, the photography is so cheapo that you could think you're in a "Derrick" episode. The scenario losses some parts during the timeline... Even the music (composed by the professional Edgar Froese) is - uhm... Outdated? No 80s revival will save this film from the brink of extinction. The only advantage for its producers is that you CAN'T forget it after a vision. Uhmm... Not for the good, i'm afraid..
+version https://git-lfs.github.com/spec/v1
+oid sha256:e05fbc5938621f15e82a0d74df03e1bbfccbbee76622e0b518d73d00f4a6e6aa
+size 492

@@ -1,1 +1,3 @@
-I thought that One Dark Night was great! It deserves a 10! As to a statement made by one user, the dead WERE actually zombies in this movie. A dead person brought back to life IS a zombie, regardless of the method or cause for/of being brought back to life. The "zombies" in this movie are used to frighten the girls, not to feed off of them, like traditional zombies. This movie is a definite star among horror flicks of the 80's. The score and atmosphere are quite eerie, and the audience is kept in suspense throughout the mausoleum scenes. The acting is actually convincing, with genuine expressions of horror at the sight of the undead. Although I enjoy all zombie flicks, this movie is a refreshing change from the typical "flesh-eating zombie" movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c052018bc7254b1531cbf7cdd705e5edd60cff0f078ba7927a2856ea72f009
+size 757

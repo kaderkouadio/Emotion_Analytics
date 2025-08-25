@@ -1,1 +1,3 @@
-I drove from Sacramento to San Francisco (and back) to see this movie premiere--and really glad I did. As a big movie fan and a life-long Northern Californian, I was surprised how many Oscar-winning films have been made in the Bay Area. As a fashion designer who really wants to stay in the Bay Area as opposed to going to LA, George Lucas' comments about persistence, community and having a vision really resonated with me. <br /><br />Hey, if he and all the other filmmakers can make it in SF, so can other artists. <br /><br />Would recommend this film
+version https://git-lfs.github.com/spec/v1
+oid sha256:91b90fde8654761755935163657165574d24d36c52179bac2258af36b8898ff9
+size 555

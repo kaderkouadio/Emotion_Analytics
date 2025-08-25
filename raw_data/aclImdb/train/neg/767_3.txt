@@ -1,1 +1,3 @@
-This should not have been listed as a Colombo because in my opinion it does not resemble any of the other Colombo ever made. This should have been listed as a movie starring Peter Falk and not playing the caracter of Colombo because it does not do justice at all to our great lieutenant Colombo.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93e4ad495519de1aa31b61f163bae8ac3434da9c4a70cfd2db8bf14b1ba8e3e
+size 295

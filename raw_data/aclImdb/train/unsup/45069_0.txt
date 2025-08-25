@@ -1,1 +1,3 @@
-Albert Brooks should have let life imitate art and hired himself a muse before deciding to torture us with this crap. A great cast (including the usually much, much funnier Mr. Brooks)and a solid concept are wasted here. All of those directors (Reiner, Scorsese, Cameron) must have owed Brooks huge favors ... there is no other way that they would have agreed to cameos here. The reviewer who called on us to take a vomit bag was very right indeed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63a9687bad2c652f7b536b458628eb6f9610f0170dd6ec251948af4df8dceaeb
+size 448

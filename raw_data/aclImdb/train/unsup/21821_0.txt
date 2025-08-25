@@ -1,1 +1,3 @@
-I can't stand movies that have no realism. The main character would never make it into Harvard, he's not smart enough... not to mention he never went to class or studied. And if you want to talk about the basketball quality, I've seen horrible high school team that are way better than the losers they had in this movie. Is it really that hard to grab some guys who can actually play to shoot these scenes?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e15f5f706add7ed13eb16ffe682fa6b389dd7aaf5f6dd52849bf1f6af9a5eba
+size 406

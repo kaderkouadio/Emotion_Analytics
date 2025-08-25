@@ -1,1 +1,3 @@
-I lose concentration many times while watching this movie. It's very boring, I almost can't watch till it ends. On my first thought was film like this should be on TV instead. Ha ha, I just knew it is TV movie. (I saw it on VCR in my country) The plot is so dull, I can't find anything fun in it (this is the main reason why I can't keep an eye on it) and filmography not help this movie more interesting. (it's so so, nothing fascinating)
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ea9493b4ccaaff8a006eb7c350ae1ea26574fc416ea6c784b64ddc0d00ca83
+size 439

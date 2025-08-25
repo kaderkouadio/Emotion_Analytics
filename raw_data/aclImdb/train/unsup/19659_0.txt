@@ -1,1 +1,3 @@
-Quirky what-if flick about young Australian communist Joan Fraser Welch (Judy Davis), who gets impregnated by Joseph Stalin (F. Murray Abraham, who seriously does manage to look like the dictator) on the day that he dies, and has to raise the son without letting the boy know the whole story. "Children of the Revolution" gives one a sense of the sometimes tense situation down under in the '50s, which prompts Joan to go to the Soviet Union in the first place. But more than anything - in my opinion - it shows how, even though the USSR clearly betrayed its ideals, Joan maintains hers. She and her family never give up hope of a better future. Definitely worth seeing. Also starring Geoffrey Rush, Richard Roxburgh and Sam Neill.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9cc88cfb8c0634978d4e08bd5144a5957fe6c797b1a7a4be787176a29a71d08
+size 731

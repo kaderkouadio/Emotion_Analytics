@@ -1,1 +1,3 @@
-I kept waiting for this bad movie to move beyond its stock characters and hackneyed plot, but it never made it. We have floozies with hearts of gold, grizzled old-timers, cowardly townspeople, and an over-the-top Aldo Ray playing evil incarnate. Elisha Cook is given the opportunity to reprise his Shane role, the spunky, fearless, impulsive, and doomed fool: Jack Palance, with one of cinema's great sneers, shot him dead in Shane and Aldo Ray does him the same courtesy in Welcome to Hard Times. One plot gimmick after another is thrown in, evidently just to fill up some screen time, when more time might have been spent developing the characters of the townspeople.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8dcc631b4f8863464696aa904c46e9fb467945a2c3bfdf5e1b5ef4f0412a30e
+size 669

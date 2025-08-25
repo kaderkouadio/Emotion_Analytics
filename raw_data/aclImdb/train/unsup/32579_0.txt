@@ -1,1 +1,3 @@
-Do not watch this movie expecting to see any monsters or vampires because all you'll get are some bats. Actually this film is more of an identity crisis drama and murder mystery rather than a horror movie. The best parts are the dream sequences which are reminiscent of surrealist experimental films (has David Lynch seen this?) and also LSD sequences from 60s films like HALLUCINATION GENERATION or BLONDE ON A BUM TRIP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:847e6a94d64068e37634db812e69378eedbd36b53bedc929a85d0231a7ec8c81
+size 421

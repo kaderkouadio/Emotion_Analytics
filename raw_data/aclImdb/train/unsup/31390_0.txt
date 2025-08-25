@@ -1,1 +1,3 @@
-Very good film about Northern Ireland and the early troubles. Excellent acting by Nuala O'Neill and especially Julie Walter who not only carried the accent well but acted superbly also. Thankfully unlike so many other films based on the troubles in NI this one shows a realistic view of events. Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb0f58d1837c6a14e8619f5b997f1d305d660949c26d9aa15b417948f323fc50
+size 314

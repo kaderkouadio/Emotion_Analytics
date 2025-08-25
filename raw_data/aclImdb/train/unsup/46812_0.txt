@@ -1,1 +1,3 @@
-just a terrible excuse for a movie. this project greatly tarnished the already damaged knight rider franchise. this was dismal filmmaking. complete trash, not worth the 8 or so million they spent making it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:33cd02156db22d06e09621bac23c004e3223229e41ac7320e47e273bb4e7c285
+size 206

@@ -1,1 +1,3 @@
-I've seen this 4-part film at once (230 min.) and surprisingly it wasn't tiring or boring at all. On the contrary, the movie caught my attention readily, as it tells this story very well. Alex Kingston is great in the part of this young woman who struggles to be a wealthy gentlelady, even if it requires surrendering her virtue in any way. It's a wonderful movie and I strongly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0de7bdd1764f6305629d89f8d036cca7d05e0cf484dafebfff10629cbed23c
+size 392

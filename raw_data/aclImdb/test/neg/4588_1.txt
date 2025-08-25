@@ -1,1 +1,3 @@
-The game of hockey I play and watch has something called "speed" which the actual hockey scenes in this limp movie never even come close to capturing. Add to that a storyline that is cliché, predictable and stupider than stupid with some of the lamest '80s music numbing your senses in every scene and you have "Youngblood". Oh, Keanu as a French Canadian, yeah, whatever. Gimme Dunlop, Braden and the Hansons anytime... ONE out of TEN.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6d61ce0f90b1744faaf7fa3ba09d045abf6a49b397f6882cab9e2af712d6118
+size 437

@@ -1,1 +1,3 @@
-I havent seen that movie in 20 or more years but I remember the attack scene with the horses wearing gas-masks vividly, this scene ranks way up there with the best of them including the beach scene on Saving private Ryan, I recommend it strongly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f1cda9387420c61cf477ad6fa853a8dc283b6f53a3b2032ae53f8509ed84952
+size 246

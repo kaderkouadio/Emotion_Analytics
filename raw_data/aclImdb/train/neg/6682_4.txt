@@ -1,1 +1,3 @@
-This comedy is really not funny. It' a romance that plays so much on stereotypes it makes no impact. It's a caper film so derivative -- yes, even back then -- it has no snap.<br /><br />The cast is adequate. More than that it's hard to say. However, what's nice is that the players are unfamiliar. At MGM, this would have starred Robert Montgomery. The wife of a businessman with no time for anything but work could have been any number of actresses.<br /><br />We can be grateful that this little known film is peopled by performers mostly unknown today. And the production values aren't awful. Yet it makes no real impression.<br /><br />It's a generic knockoff. And who wants that?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba038842538c55840cd01a1398d3769373e2f2fb8e053ee1d0a9f2448ee3d69b
+size 684

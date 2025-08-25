@@ -1,1 +1,3 @@
-I watched THE ALPHABET KILLER on Showtime last night. It is based on a true-life serial killer case in Rochester, New York. However, I'm not sure if the true events that inspired this thriller included a dogged homicide investigator who pursues a child murderer, despite suffering from schizophrenia. It's an interesting take, though.<br /><br />Eliza Dushku, does an incredible job playing Megan Paige, the detective, whose condition makes her believe she can see the spirits of the victims. I found her character very sympathetic; and, quite believable.<br /><br />Unfortunately, the movie was a bit predictable (even the "twist" seemed obvious to me).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bde5a61febd80cddf6d94d30c398d2ab980c2b6e2b514b8b3eb5ad5d73776c5
+size 654

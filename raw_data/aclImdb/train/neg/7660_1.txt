@@ -1,1 +1,3 @@
-0*'s Christian Slater, Tara Reid, Stephen Dorff, Frank C. Turner, Mathew Walker, Will Sanderson. Directed by Uwe Boll.<br /><br />Based on the video game director Uwe Boll attempts to recreate the game into an action-packed nail biter sadly he doesn't succeed. Instead he makes one of the worst movies ever MADE! Even though he gets minor celebrity such as Christian Slater, Tara Reid and Stephen Dorff his movie lacks the necessary fundamentals that a movie needs to be good such as a story line, and some basic relativity of what's going on in the dark and the light. The movie bounces all around and Uwe Boll has no creative control. And not to mention the bad CGI used on making the monsters. Even though they did look cool and the feedings were well, a little lame. Honestly this is one of the worst movies ever made. My final rating 0/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:517584bcd48dab00a2024764603177cbe9c494ad034f0044bfdf92930036ff51
+size 844

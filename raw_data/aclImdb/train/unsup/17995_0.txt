@@ -1,1 +1,3 @@
-In the early 1930's, the marvelous character actress Edna May Oliver starred in a three-film series as spinster school teacher/murder detective Hildegarde Withers. To say she fit the role perfectly, with her sniff of suspicion & acerbic way with dialogue, is a great understatement. The films are fun, but the main reason to spend the time is Miss Edna May.<br /><br />In this, the first of the series, Miss Oliver discovers a very dead body floating in the penguin pool in the New York City Aquarium. Even with her class in tow, she wastes not a moment in starting to gather clues.<br /><br />James Gleason is great as the police detective trying to solve the crime HIS way; others in the cast include Robert Armstrong, Edgar Kennedy & the lovely Mae Clarke. Look fast for Rochelle Hudson
+version https://git-lfs.github.com/spec/v1
+oid sha256:09bbb71eee91b2d95097aa2b5194ac6fffea6af2c62be9c8561b080a5b40632c
+size 789

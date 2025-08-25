@@ -1,1 +1,3 @@
-This is a movie which I saw two years ago (I am a man) with a woman who suggested we'd watch it while in intimate circumstances. As I do not intend nor feel the need to give details, I will only say I did not see that French girl again. I hardly watched it; just remembered Isabelle Huppert was in the cast.<br /><br />My curiosity -or boredom- was strong last night, and I rented it to see what I'd missed. As I don't understand French I could not even have a gist of what the plot was, but I could last night: a very poor attempt to glamorise perversion and diss catholicism. I am a little bit of a pervert and a feeble religious observant, so I may not be accused of being biased or discriminating European art films.<br /><br />Now I know why I did not feel the need to call her again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd8a91c5b66c0fac5871d044fe4c4d5f1835cb9aa5a88248693ec5852172099f
+size 789

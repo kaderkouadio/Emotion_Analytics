@@ -1,1 +1,3 @@
-Relative to other Columbo movies, this can only be rated a 1 (awful). I seriously do not understand what the other reviewers have seen in this appalling train-crash of a film. It was only through morbid fascination that I continued to watch it - to see what bizarre or inept decision the director would make next.<br /><br />Another reviewer suggested that it was Falk's only directorial outing because it interfered with his acting role. In fact, I think the real reason lies with the studio bosses, who must have been horrified when they saw what he had done with their money. It's a wonder they didn't murder HIM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8861c4f624d3303864f519ed62d93e569c769d2dd3f28b8d6cdc2865178af346
+size 616

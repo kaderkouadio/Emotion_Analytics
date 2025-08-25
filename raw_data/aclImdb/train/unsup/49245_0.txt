@@ -1,1 +1,3 @@
-I saw this movie when it first came out and was impressed by its slacker(the film)-like construction. I liked the interweaving of characters, the Jarmusch night & pavement atmosphere, I even got off on the relentless pounding brutality, big-time irony, I felt, cool. Than I saw it again on cable, in my own living room, not in a chic lincoln center cinema, no trendy audience to share my titillation. And I saw something relentlessly ugly, like watching someone trying to convince you he needs treatment by slowly and progressively chopping off every part of his body. You watch in wonder and disgust. But what's the message?
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2243f7446ed5389a18b877246a6c893f2d4ad01ee3a03905aa6de271f5cbb3
+size 625

@@ -1,1 +1,3 @@
-I am very glad that I have seen this great movie. I was touched by this film. It is fun and exciting. Maybe I am a woman, I feel like crying with the characters, sharing pain and happiness with them. It is the feeling I have never had while watching a movie. I also enjoy the music too. If you are a woman, go and watch it. If you have daughters, watch it with them. <br /><br />I want to thank all actresses, actors, director and other people who were involved in it. I am very grateful that they brought us a deep insight into these woman hero's' battle for the freedom. We owe so much to them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a478ce5575663bed84f98432ec9a8f6162cd7634be8340ea1f7a9ed6cf34fc
+size 596

@@ -1,1 +1,3 @@
-A lost and forgotten Santa Claus slasher film which predates SILENT NIGHT, DEADLY NIGHT. The victims are your typical college dummies who have sex, take showers at the wrong times, and don't believe anything strange is going on. Some good nude and gore scenes. The ending is simultaneously familiar and surprising.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7278457f39026fd5735a61faf63a7ab900cd1964f6ac25928bfbecbc8bdbae2
+size 314

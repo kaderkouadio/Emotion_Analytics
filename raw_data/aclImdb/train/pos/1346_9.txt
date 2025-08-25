@@ -1,1 +1,3 @@
-As a "rebuttle" of sorts to the AFI's top 100 films, the British Film Institute worked out a documentary with Martin Scorsese.<br /><br />Now. I am a huge film fan and pride myself on having seen many, many films. But, I am nowheres in comparrison with my idol. In this fantastic (though long) documentary, Scorsese walks the viewer through several stages of the American History on film. This is divided in to several sections including the Western, the Gangster film and the Noir. Full of bouncy enthusiasm, Martin Scorsese is a great tour guide as well as a fantastic professor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e899ff20ea71ae66da1fa96f483548bae0300eebeaf447b9ab8e5b95e74212e9
+size 581

@@ -1,1 +1,3 @@
-The above summary really isn't meant as a slam against this film, as the series followed a very similar format. As usual, Simon Templar ("The Saint") meets a lady in distress and comes to her aid. He also comes to the aid of a police detective who was framed of accepting a bribe. Along the way, he meets some interesting supporting characters (this time, Paul Guilfoyle as "Pearly" Gates) and during his unraveling of this not especially compelling mystery (none of them really are), Templar is extremely erudite and just plain cool! George Sanders is once again the consummate sophisticated British do-gooder and he succeeds once again in making an excellent B-detective series film. Nothing particularly special, but a familiar and breezy product sure to please fans of the genre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b3cb9da618b06cff54403b0a251407a42cf637b92220c2155d51a487c2f3dd
+size 783

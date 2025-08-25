@@ -1,1 +1,3 @@
-Poor Guy Ritchie wannabe tells the thin story of gambling addict Laura (Hjejle, in an annoying one-note performance) hooking up with hard-nosed debt collector Claus (Bodnia, a bit more softhearted than usual, but on autopilot most of the time - he should definitely resume working with better directors). Spang Olsen's direction is less incompetent than usual, but with the emphasis less on action this time, the film also suffers from many dull stretches. Nikolaj Peyk's supposedly "authentic" dialog is simply not funny. A bunch of good actors are wasted in bit parts (Erik Clausen in particular) and a highly inappropriate soundtrack, as another user mentioned, make for an unimpressive movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b921bfa00dde8c58734f12b5e2f6b69de08950d9acc4ba4ed315a742dc166b
+size 696

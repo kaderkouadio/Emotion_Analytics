@@ -1,1 +1,3 @@
-Ok...Ok....this movie don't be compared with the great series of 60's and 70's (one the best series based in super-heroes), but it was could better...the plot is confused, in 20 minutes the movie wins a new protagonist...the Daredevil, a Black Daredevil??? where's the red uniform??? Really...nothing in this don't make justice to the original series...nor the presence of Stan Lee in cast.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6703f7d6ebc5b55cbc1a421abc45d89d682a26103eed9d9f388e13b02a952adb
+size 390

@@ -1,1 +1,3 @@
-This is the movie I´ll never get tired of watching. I think it´s perfect! Incredible dialogues to match incredible characters/actors. The cast is just perfect! There´s no possible remake of this movie! No one can replace Jack Nicholson as Melvin Udall or Helen Hunt as "Carol, the waitress" or any of the others for that matter! Like I said it´s perfect!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40174efe184eb68697ea84b4fddee5e772b8aa114b06596fac6242f185ba1d8
+size 358

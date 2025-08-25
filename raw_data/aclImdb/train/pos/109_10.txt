@@ -1,1 +1,3 @@
-This is the movie for those who believe cinema is the seventh art, not an entertainment business. Lars von Trier creates a noir atmosphere of post-war Germany utterly captivating. You get absorbed into the dream and you're let go only at the end credits. The plot necessarily comes second, but it still is a thrilling story with tough issues being raised. Just wonderful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:017ead820aa2811331e188d36342d80f659f09990d0b1b65e041ebc027306ec6
+size 371

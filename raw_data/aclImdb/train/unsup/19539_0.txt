@@ -1,1 +1,3 @@
-Gene Wilder (Rudy Hickman) keeps having trouble with the jobs he's had due to his constant daydreaming or his so called "nervous behavior" dealing with sticking his tongue out at people and temporary voice loss. He decides to go to LA with his wife Carol Kane (Annie Hickman) and change his name to Rudy Valentine to try out to become 'The World's Greatest Lover'. He soon questions if it's really worth ending his marriage to become something he really isn't. Dom Deluise also stars as the head of Rainbow Studios who came up with the idea of searching for 'The World's Greatest Lover'. After seeing Rudy's screen test (Dom) picks him to be one of the top 3 finalists to win a movie contract with Rainbow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daee2fd18486d5d159407ce767dd9af75ef6b2272b8ee01a57c4443b9f267cd7
+size 706

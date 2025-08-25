@@ -1,1 +1,3 @@
-This movie is good old-fashioned silly fun. I will gladly admit that this isn't one of the deeper or more sophisticated films Cary Grant ever made, but boy is it cute and enjoyable. In other words, if you're looking for a film with a message or something that will change your life, this isn't it.<br /><br />Cary plays his part very broadly--and is, at times, very immature and goofy. And, it is in these moments that the film is at it's best. Well, anyways, Cary is forced into helping Myrna Loy with her younger sister (Shirley Temple--who is way too young to be Loy's sister). And, although it's pretty easy to anticipate where the movie will end, the journey there is so funny and difficult to predict that it is clearly one of Grant's better comedies. Not as good as ARSENIC AND OLD LACE, but what is?
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9281dbe9b80490718e33661f37675afd1f24132ec61d9f76c4bd4b9bb4e40b6
+size 807

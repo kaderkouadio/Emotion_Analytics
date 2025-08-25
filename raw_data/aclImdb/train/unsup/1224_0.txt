@@ -1,1 +1,3 @@
-Since this black and white B flick is only under an hour I doubt that it will ever see the light of day on video. It's too bad since it is an unusual and tidy little mystery of the late 1940's. A Seer (fortune-teller) brilliantly played by Fritz Leiber predicts that a young girl (Mary Beth Hughes) will encounter tragedy on a train. It all comes together when a man (Charles Russell) fleeing from the law for a murder hides out in a boarding house. Other than the gorgeous Miss Hughes and handsome Mr Russell the boarders include the delightful Nana Bryant, feisty Lee Patrick, freckled faced kid Dale Belding and Billy House. Above-par B film fare especially for Noir fans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:750182757405a9b9d046fcfad7edb54b052aa54fef1161c48d24f63c99744eb7
+size 675

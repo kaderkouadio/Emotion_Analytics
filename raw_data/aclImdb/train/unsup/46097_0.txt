@@ -1,1 +1,3 @@
-Ahhhhhh...Quest for the Lost City! Good times!<br /><br />This film features an alcoholic hick hero named "Zap Rowsdower"; an effeminate teenage boy named "Troy"; a black-clad, mullet-sporting group of Canadian wrestlers; a bad guy who talks like Darth Vader; and Canada's answer to Yosemite Sam!!<br /><br />Go see it!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:656b02e232c2681b3d9d5b291d3da15e6bd707f630d33a09dc95f20ed3a78c4a
+size 320

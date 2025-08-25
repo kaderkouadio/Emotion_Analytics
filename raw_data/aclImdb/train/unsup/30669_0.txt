@@ -1,1 +1,3 @@
-This movie, unlike its counterpart, Tombstone, is actually a good piece of storytelling. The character development of the Costner role is one you rarely see anymore in any genre, let alone an action western. Based on historical accounts that I've read, this movie is very faithful to details and does not necessarily portray the Earps in the most sympathetic light, though they are definitely the protagonists here. Though this is a long movie, it is beautifully photographed and scored and well worth the time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eea6d150ebd2e217ca03bcd24efaf142f465258120be7db8a01cff3a8d8e5e7
+size 511

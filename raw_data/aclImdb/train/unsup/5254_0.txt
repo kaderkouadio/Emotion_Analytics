@@ -1,1 +1,3 @@
-This movie had an excellent story line. The actors were great and the choice of Matthew Lillard as Manic was genius. Lillard built upon his earlier "Scream" success playing a crazy. Saffron Burrows' portrayal of Angel was genuine and she sizzled as the Wing Commander! Special effects were very good. In my opinion, the movie was much better than I expected it to be. I recommend this movie to everyone, but especially Wing Commander fans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a557d7384e0d43a45aca4f0a9da164eaef63b9b7b428fafe53ad4748d3ab98
+size 439

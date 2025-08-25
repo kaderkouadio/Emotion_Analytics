@@ -1,1 +1,3 @@
-Inspector Cool Head (not my translation), an honest cop who suspects a frame on someone accused of murder. It's the kind of movie you keep telling yourself, I'm just going to watch it for another 5 minutes.....next thing you know the movie is over. At times the DVD picture was clean, but more often than not it seemed I was watching a tape in extended play. I would recommend a rental instead of a purchase.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff000457a3b2038fb80c31ee1a3d94ffc5b69708634e04a52c4fe78ea23387f6
+size 408

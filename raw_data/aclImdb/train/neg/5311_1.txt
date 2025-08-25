@@ -1,1 +1,3 @@
-This is almost the worst film you will ever see! 2012 Doomsday currently pulls the rug from under this one, for me. The props are a perfect example of what Frank Zappa once referred to as 'cheepnis.' It looks as if the space scenes were made in a 1950s power station, just prior to demolition. The music really sucks. The acting is wooden and ham. The characters they portray are shallow and unconvincing. The plot is predictable. It is immediately and brazenly obvious when they copy techniques and ideas from other films. The quality of direction beggars belief.<br /><br />But you have to see it, if only to experience what has to be one of the biggest wastes of a tiny budget ever. This is a priceless example of a stupid movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:405b00c4e0f6e6b0cb60daeac2adf35775607afbd90cd878a2ce79bce594b15f
+size 732

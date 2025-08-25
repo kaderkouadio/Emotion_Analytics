@@ -1,1 +1,3 @@
-Loved the movie. Old fashion love story despite the perhaps arguable marriage angle distraction. The scenery is BEAUTIFUL, especially good for a cold winter night's viewing by a fireplace. I thought the subtle differences in what was acceptable in the 30s and today was quite remarkable too. Especially when Cooper sat on the end of the bed during his conversation (which was by itself quite the fuss back than)with the girl. Overall the story also gives an interesting review of immigration and the nation's feelings about it. Hard work was certainly central to the movie's theme and of course the end is tragic as the guy doesn't get the girl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a48f1e952637b7ccff432933f59ea0d0b807838a24ea361d83f0bb4ed11c152
+size 645

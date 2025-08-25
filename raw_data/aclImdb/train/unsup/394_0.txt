@@ -1,1 +1,3 @@
-This ride sucks. I love Star Wars and there is no Star Wars character in this one. It is mediocre when compared to other simulators like Back to the future and Spiderman.<br /><br />Star Wars deserved a better ride. I still can't believe they have created a Star Wars ride without a single Jedi Knight, Sith Lord or light saber fight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a225f8dc0449581e150b01059e39a0c8ff97a289660220a151c565b94a789e2
+size 334

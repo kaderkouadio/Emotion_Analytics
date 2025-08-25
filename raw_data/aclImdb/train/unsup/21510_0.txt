@@ -1,1 +1,3 @@
-This movie was one the first movies i watched and I loved it then and I love it 10 years later. Innerspace is another of those movies of the eighties that was charming and lovable to watch, they don`t make this great movies today.<br /><br />The movie is an adventure comedy starring Martin Short who gives the performance of a lifetime, he`s great and enjoyable to watch. Dennis Quaid and a young beautiful and charming Meg Ryan stars as well. When i first saw the movie i fell in love with Meg, she was great.<br /><br />The movie has a very good and entertaining story and you can`t stop watching and enjoying the dialogue and great performances. Director Joe Dante deliver a great show for both youngster and adults.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e55308cf6a3839aa7f30f5c0280d2c25d28e3b95cd789331764b79782e9978af
+size 720

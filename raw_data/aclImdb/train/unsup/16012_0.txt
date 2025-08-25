@@ -1,1 +1,3 @@
-What a wonderful little film.<br /><br />The first time I watched it, I'd never heard of the thing but was quite willing to gamble 10 minutes of my valuable time..an hour later I was hooked! 15 years pass and it was shown again on UK TV this weekend and again the same thing: "seen it before, go to bed.." No, watched it all. So funny, so deadpan, so poignant, such great lines. My English teacher used to describe stories like that as picaresque - the whole series of disconnected events - all so warm and real, ending, like waking up after a weird dream, back where you started.<br /><br />And, once again today, Scorcese gets no Oscar. Confirming what we all know - stupid people choose the winners.<br /><br />Hywel
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b971b1ac6effbb3888954729548b8b7c30ed76dbe091ac99b960d0d19ba4cb
+size 719

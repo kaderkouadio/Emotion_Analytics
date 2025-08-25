@@ -1,1 +1,3 @@
-Action, horror, sci-fi, exploitation director Fred Olen Ray shows he has some talent as a director. Character actor William Smith is one of the best tough/bad guys in the industry. He treats the viewer with the best acting performance of his career. As for Randy Travis he gives his best Lee Van Cleef impression. He's not bad in the film. Smith and Travis make the movie. As for the rest of the cast none of them really stand out. Ray did a great job directing this flick, Smith and Travis were good, I'd give this B western on a scale of one to ten(ten being the best) a seven.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f751d08ccb8dc8ebdc0e42ff2def3d09092a319010ae6a08336b7c45e8a24166
+size 579

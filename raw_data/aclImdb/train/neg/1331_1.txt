@@ -1,1 +1,3 @@
-Collusion Course is even worse than the typical "evil white male corporate capitalist" movie of the week. This movie is less pleasant than a toothache. Jay Leno can act. He's good in his underrated debut movie, The Silverbears, in which he gives a performance consist with the demands of his character. This movie is so bad Leno's character, a sanctimonious buffoon, is less annoying than Morita's character, a sanctimonious fool.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c8df63a400b8093879f3ca93c8ebfcaab9ca28e0e35a93e24ec8f2b59f0c144
+size 430

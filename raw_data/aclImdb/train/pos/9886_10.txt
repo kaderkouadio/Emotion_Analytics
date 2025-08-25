@@ -1,1 +1,3 @@
-This is a gorgeous movie visually. The images of the Mexican desert, the old mansion, the characters in their picturesque costumes...all amount to a real work of art.<br /><br />The story seems a bit loose, but that's because it's not meant to be realistic. It is taken from a book called One Hundred Years of Solitude, and it is supposed to be an evocation of the isolated, otherworldly atmosphere of Latin America "so far from God, and so close to the United States". The tremendous debt that Erendira owes to her grandmother is symbolic of Latin America's international debt burden, although there many layers of meaning.<br /><br />If you can appreciate a slow-moving, richly-textured movie, this one is for you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28d90a1e890792e426ed6b8d164f85d112774ea58d41be033be2a488aa0e3650
+size 716

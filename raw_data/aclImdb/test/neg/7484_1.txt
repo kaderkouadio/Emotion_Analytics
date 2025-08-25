@@ -1,1 +1,3 @@
-It's not often I feel strongly enough to post something about a film. This was, however, simply the worst movie I have ever seen. The performances were laughable at best, at worst they were, well, there's no other word for it, awful. Especially the lead female who's random sexual come-ons have to be seen and heard to be believed. Honestly, the plot is nonsensical,the dialogue appalling and the characterisation...there is none. I'm surprised it's not an Alan Smithee film. I can't stress this strongly enough... avoid at all costs.How do movies like this ever get made? This is no budget film-making at its very, very worst.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2320d900985f5a97538deebfdf788c51ed8dbee5ea9b78c9f290d38e4c52a70c
+size 627

@@ -1,1 +1,3 @@
-Argh! OK, I am french Canadian. I have seen a lot a french movies, most of them I find are boring... but not all. In my book, Caro and Jeunet are the most able to provide a movie better than the "let's converse over a diner" we see so often. But maybe those two should leave sci-fi alone.<br /><br />In Dante 01 (from Caro), you will find the prisoners from Alien3 in the Alien:Resurrection set, with people all around that speak but never say anything but hollow babble. And boy that Chinese girl is bad. Really awful. Please stop acting, if ever you call that acting. Get a job at Burger King, whatever. <br /><br />That's it. Oh, yes, that is a movie that features SFX that are OK in Dr Who or The outer Limits, but these are TV shows, right?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9584b39634d289c60d5bde446ba6fa187b5106898509bbf42741b8c4cfd427
+size 745

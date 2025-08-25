@@ -1,1 +1,3 @@
-<br /><br />One of the best films I've ever seen. Robert Duvall's performance was excellent and outstanding. He did a wonderful job of making a character really come to life. His character was so convincing, it made me almost think I were in the theater watching it live, I give it 5 stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba5572b34079ce939ca4e2e959d17287249f1ba260c45fa36304fda35e32e933
+size 290

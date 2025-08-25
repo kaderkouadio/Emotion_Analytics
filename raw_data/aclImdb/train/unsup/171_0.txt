@@ -1,1 +1,3 @@
-This movie is a testament to the power of love. Orson Welles portrays a WWII vet who will not allow himself to ruin his wife's new life. As I watched the scene where he denies his true identity, I was awestruck by the sacrifice he made. The scene in which he met and spoke with his son was so touching!! This is an awesome must-see for Orson Welles fans. Also the casting of a young Richard Long and a very young Natalie Wood was a stroke of genius!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0080471fbf56ab6f65193e1c8b4d303fcb696af7ced2f181240efc52ce10941
+size 450

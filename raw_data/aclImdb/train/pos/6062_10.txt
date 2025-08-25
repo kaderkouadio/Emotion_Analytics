@@ -1,1 +1,3 @@
-Only the chosen ones will appreciate the quality of the story and character design of this movie. Superior ancients that dwell in the lands of lore far beyond any average human creature's understanding. This movie pulls the adventure genre into a unique centrifugal magical force of fantasy unto thee mystical crystals of chalice. Stories come and go, but the idea for a good story is to think positive, not negative thoughts. To create a good versus evil battle like never before. Embracing an impounding shimmering process that keeps imagination glowing in one dimension and out the other. Striking a quick flash of energy that transports a human to another world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a725258f19adc3a49252eecf211b17126f532c1fbb3ca071cd1c09c46e10563c
+size 666

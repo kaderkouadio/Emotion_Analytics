@@ -1,1 +1,3 @@
-The wonderful William Powell one year before playing Nick Charles! Just found out via Robert Osborn on TCM why this film hasn't been seen in 50 years. This picture was not available when Ted Turner bought the RKO Pictures catalog. It was tied up in litigation which was finally resolved. At that point it became available to TCM for showing. Also, TCM found a print in France that had 2 1/2 minutes which had been cut from the version available here. So TCM restored the missing footage to the film.<br /><br />My mother was growing up when this film came out. She tells me that Ann Harding was a big star at the time. William Powell, according to Osborn was having difficulties in his personal life. His marriage to Carol Lombard was on the rocks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f101e7c075df1f6b12b73db0b58d1874b414b83f8f1e9c90a902854e8c08fae1
+size 748

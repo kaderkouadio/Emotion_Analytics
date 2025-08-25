@@ -1,1 +1,3 @@
-I hate this movie so much with love.I love French Stewart,but I hate him in this.This film makes no sense what so ever.How did claw get old when this film takes place 4 years later.Why didn't penny get older.Why does the town look different.Why is Gadget still stupid when his glitches are fix.Why ask why.This is stupid.Too many question,none of the answers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea29c2fb81eb7dd2e1371cc9512f7787ee572f3e70dbcff2d98f0e072a3fc867
+size 359

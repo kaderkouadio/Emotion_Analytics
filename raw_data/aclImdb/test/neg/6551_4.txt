@@ -1,1 +1,3 @@
-Another of those flimsy stories coupled with most forgettable musical numbers. Powell and O'Keefe as battling publicists are quite forgettable. However, there are two shining moments. Hubert Castle is the most incredible tightrope walker you will ever see - his "drunken walk" on the wire has to be the most spectacular piece of balancing ever recorded on film. He has to be seen to be believed. The other is Sophie Tucker doing a turn near the end of the film. Her magnetism, her professionalism, her sheer talent at being herself - well, charisma is not learned - you have it or you don't. A great lesson for all would-be cabaret artists. A sad note: W.C. Fields in his last film cameo is completely forgettable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c0b9b10e2047b588649308010d06ced7650f34e89a450e607937990481b3e4b
+size 714

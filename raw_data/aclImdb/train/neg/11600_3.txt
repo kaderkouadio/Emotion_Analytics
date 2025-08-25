@@ -1,1 +1,3 @@
-After the success of Part 4, another sequel was a natural move. However they should have stopped it before it began. Alice, having survived Part 4 finds herself pregnant and it seems Freddy is using her unborn child to get at his victims, which of course are Alice's friends. Strange Nightmare movie, very heavy on religious imagery and bad acting. The special effects are good, but the movie itself is not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b875bb1f75d90ac4f72baeb68589153db355051f8f9601dd10d074452be88d12
+size 407

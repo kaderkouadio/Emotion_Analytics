@@ -1,1 +1,3 @@
-Blier is not my favorite French director. Too much irony and too much Godard-a-like in his films. But this one is very different. It's written with great intelligence and, like in most of the French Cinema, it had a wonderful sense of reality. The subject is touchy : a man falls in love with a young teenager (14 years old). But here, we have not the classic Lolita. The young girl looks realistic, and so is her feelings. Superb acting and a great musical score.
+version https://git-lfs.github.com/spec/v1
+oid sha256:267d2dd9d74b6aa06d371de0e13b5e8796672a5b1ad49d8ad23daaa68c6d4a25
+size 464

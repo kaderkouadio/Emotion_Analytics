@@ -1,1 +1,3 @@
-This film is still haunting me, even long after watching it for the first time. It depicts a rare insight into the exclusivity of sibling relationships and utilises a neutral tone that ironically intensifies every second of the story. Although the movie skims slightly upon cliches, that only helps to familiarise the audience with the plot so that they don't feel too alienated by the mystery of the twins. This most certainly is a treasured oddity in the video store.
+version https://git-lfs.github.com/spec/v1
+oid sha256:234a3aa0c1551a27dd70baf1135f3b4b854cfc4bd65df3286290d207d7a0245d
+size 469

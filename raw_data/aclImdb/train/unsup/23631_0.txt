@@ -1,1 +1,3 @@
-I love this film and I can't understand why it hasn't been more popular. Try and get hold of a copy if you can. <br /><br />The cast is amazing - Joe Mantegna, John Malkovic, Linda Fiorentino, Jamie Lee Curtis ( in her best ever role), and Kevin Bacon all giving restrained but emotional performances. <br /><br />The soundtrack is wonderful too. An eclectic mix of songs that work perfectly. It took me a long time to track down the song from the closing credits but it was worth it.<br /><br />It's one of those films that you can watch if you're feeling a bit down and it will lift your mood. Especially recommended if you've had a pointless argument with a loved one!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c2cf4ebf6b2e4507daab6bd961dcb719ff4db9fef6078672961a6024f9e08a7
+size 671

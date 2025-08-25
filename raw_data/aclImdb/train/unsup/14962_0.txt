@@ -1,1 +1,3 @@
-Ford and Oldman have strong performances, and the script is incredible. Unlike most action movies this film is fresh, and the Russian villains act as believable terrorists. Too bad Ford is not the US President, I would vote for him any day. The director, who did Das Boat, directs this film mechanically, and it is a pleasure to watch the mechanics of this film unravel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef9cb9a1e504f5b68b5cdf01070724b1b8744f8cc3bfd9b22d610370ec09f3c8
+size 370

@@ -1,1 +1,3 @@
-This Sci-Fi flick is a mystery. Some well known stars, acting as if in a High School play. The B grade F/X are tolerable; but the story line is where this film falls apart. Trying to use too much symbolism makes it very hard to understand. It is good enough to watch as a late, late show. Cast members of note: David Keith, Shannon Lee, Ryan O'Neal, James Avery and Craig Wasson. This may leave you stranded.
+version https://git-lfs.github.com/spec/v1
+oid sha256:881e1e44ae922f40a228500e8a810076bfe7a20bd1441b0ce094cc8dfc41f48b
+size 408

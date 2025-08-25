@@ -1,1 +1,3 @@
-Rated E.<br /><br />I have played Pokemon Snap a couple of times on a Nintendo 64.There isn't much to say about this game but IMDb says I have to make the review 10 lines so I must.The only thing good about this game is the graphics.The graphics of the pokemon and the environment graphics are simply amazing.Great for Nintendo 64.The gameplay however is boring.You are a photographer and Proffesor Oak asks you to go to this island and take pictures of the different pokemon on the island.You must distract the pokemon by throwing fruit and other things at them.Pokemon Snap is a very boring game that's pretty to look at but not so fun to play.If you want a good N64 Pokemon game play Pokemon Stadium.<br /><br />4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:b07d0829e8dfd1611fe0e078719ebe04fdcd2b8ddb665cc113682b62a631b012
+size 719

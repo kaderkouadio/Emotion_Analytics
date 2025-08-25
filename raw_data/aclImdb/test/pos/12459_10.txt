@@ -1,1 +1,3 @@
-The greatest Tarzan ever made! This movie is done in a way that no other Tarzan ever has come close in doing. It has every thing in it that you would want in a Tarzan movie. No other Tarzan movie ever has or ever will portray the character this well. I would say that if you have seen a Tarzan movie and liked it you should see this one you will love it, and if you have never seen Tarzan you should see this one and forget the rest of them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69fbba035e608c4df79fd3431d77f14d52f0dc3f0c0bf65876733f389ff7e6a
+size 441

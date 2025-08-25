@@ -1,1 +1,3 @@
-There are probably more Sherlock Holmes stories not written by Conan Doyle than were written by him. Some are quite bad but every now and then a good one comes along. "Young Sherlock Holmes"is one of the better ones and works on the premise that Holmes and Watson did not meet as adults in "A Study In Scarlett" but in boarding school. Of course they are in London where the young Holmes detects a link between a series of bizarre murders (depicted in some lively and imaginative special effects). The game is afoot and along the way (with a slight tongue in cheek) we learn where Holmes picked up some of his more famous trademarks and most infamous nemesis. A well written script, fine cast of actors and a physical production that recreates late 19th century London in grand fashion. A film to sit back and enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:607aad7a84e7eeee2e091255ce91c25c791112e9563bda3841f6f5a51651ade0
+size 816

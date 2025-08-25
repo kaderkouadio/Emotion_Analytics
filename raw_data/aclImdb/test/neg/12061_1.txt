@@ -1,1 +1,3 @@
-I must first mention that as a group of mates, we often find entertainment in wacthing films which are known to be terrible for comedy value, hence our rental of Camp Blood.<br /><br />Camp Blood was the first film which we'd rented that had been shot on what looks to be a camcorder, and was so rubbish it wans't even funny.<br /><br />The DVD was returned and a refund was demanded, with the added suggestion some sort of quality control is implemented to prevent such utter rubbish being stocked.<br /><br />Don't do what I did, and let the curiosity get the better of you, it's so bad it's not even funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:493bbf8ff204cd9073ea44aaa834006ec026640231483291a2fb284319b08d9d
+size 609

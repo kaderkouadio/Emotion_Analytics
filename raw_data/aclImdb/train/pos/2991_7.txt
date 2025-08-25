@@ -1,1 +1,3 @@
-I bought this while I was playing chess in Hastings. I am from Denmark though. It is very good. Definitely with an understanding of the horror genre. The monster towards the end is very scary. People who criticise this on IMDB should recall that it was a huge succes among serious horror critics.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:71687f18dca49799b2ec6a2a428eb547633cf2793677058c5ac1d41ffb6a70f5
+size 308

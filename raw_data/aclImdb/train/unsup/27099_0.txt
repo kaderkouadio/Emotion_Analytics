@@ -1,1 +1,3 @@
-A super sci-fi movie that doesn't take itself too seriously, but also doesn't get out of hand with being too ridiculous. The characters are extremely well played and the idea of the movie is unlike anything I had seen before. Men in Black and Matrix probably borrowed some of their ideas from this movie - it is fairly obvious. The credits are some of the most memorable and enjoyable I have seen. It also mentions a sequel, but apparently Buckaroo had better things to do, like become Robocop!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4da66171d1033f65b433694bb38fec980f3ad78fc14f2072a88c11091286b71
+size 494

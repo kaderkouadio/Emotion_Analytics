@@ -1,1 +1,3 @@
-This movie was a monument to inept filmmaking on a colossal scale. I'm a huge Burt Reynolds fan, but even he was horrible in this film. The only redeeming quality of this film was the chick that smoked all the time. She was kind of attractive to look at. Otherwise, what a waste of time and energy...
+version https://git-lfs.github.com/spec/v1
+oid sha256:72a9860df87288207f9476926fc6b403069d7cc30ee9d1fdffd8fa80fd199bcf
+size 300

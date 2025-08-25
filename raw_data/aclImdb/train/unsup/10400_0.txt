@@ -1,1 +1,3 @@
-Shocking! Every American needs to see this movie. A previous comment titled "Duh", at first glance, makes us all seem as though we are somehow keenly aware that civil rights are being denied...in America. But until I saw this movie, I couldn't parallel being arrested, tortured, and denied access to any outside help in China, to the same thing happening here. Somehow, the idea of these things taking place here didn't seem so terribly awful, and fearful, until I put myself in both of the actors roles as victim.<br /><br />Strip Search is one of the best, thought provoking movies I have ever seen. The acting was absolutely superb; making it easy to be drawn into every scene, and Maggie Gyllenhaal's performance was no less than stellar to that end. For short, I was IMPRESSED!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cc720d027d49d298308bb832fb2211149c8bcb5fc74fad3c397cd528c6dc522
+size 782

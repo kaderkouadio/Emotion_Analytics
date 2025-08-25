@@ -1,1 +1,3 @@
-I actually didn't expect this film to very funny, as the cover mostly made it look like more of an action movie - but as it turns out it was very very funny. Great actors, great story and plot twists everywhere! It reminded a bit of "Two Days In L.A." but this one was far better. Most comedies nowadays have enough good jokes in them to last about ten minutes, but John Landis proves that movies like this still can be made.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd3f9545911e4f7a5c6f077ba059817dec392f8913232e8f93150f119e15254a
+size 425

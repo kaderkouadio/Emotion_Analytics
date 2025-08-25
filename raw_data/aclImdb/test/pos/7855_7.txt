@@ -1,1 +1,3 @@
-One of eastwood's best movies after he had separated himself from the westerns. which in themselves were good whenever I had a chance to see any of clint's earlier work I would sit in front of the set and watch whatever was on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9dcecf1dd968898e6494001a225a3dc47f0362aba886ce8d77026b8bbd0f7af
+size 227

@@ -1,1 +1,3 @@
-I hated this movie. Yes, Ian Holm is a treasure generally but he overacts in this one. The slice of bohemia aspect never comes to the fore. Nor does the erstwhile theme of artistic exploration. Tucci accomplished all he hoped to accomplish here in The Big Night. In that film we had a visceral appreciation for the joy of "creating," in that case great meals. And there were aspects of the interaction of art and commerce there were explored. Here, Tucci returns to some of those themes, but the return is a mess. Why does Gould not write? Why does Tucci's character ultimately stop writing? What does this tell us about the creative process? Beats me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee310939bc4595da3fc66c186071e3906197652d7a64bdf88d575ad01029b34
+size 652

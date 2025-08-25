@@ -1,1 +1,3 @@
-"Solas" spends its 100 minute run digging deep into the character of Maria (Fernández), an attractive 35 year old brittle pessimist who bears the scars of childhood abuse at the hands of her father, drinks too much, and works as a janitor. A somber, plodding, plaintive character study, "Solas" fleshes out its small ensemble of characters well, illuminating the dark corners of Maria's hopelessness with an unlikely combination of her visiting mother's quiet courage and the friendship of an old man in a neighboring apartment. An award winning film hailed by the critics and an exemplar for American Indie makers, "Solas" will appeal most to more mature audiences into Europix. Those who enjoy this film may want to check out "El Abuelo" (1998). (B)
+version https://git-lfs.github.com/spec/v1
+oid sha256:35387b23004119464fda58024ed0faafe81e5e92e63ddc0c9d638436fe22599a
+size 752

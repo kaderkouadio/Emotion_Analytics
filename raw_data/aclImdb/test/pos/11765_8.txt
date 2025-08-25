@@ -1,1 +1,3 @@
-Anyone who gives this movie less than 8 needs to step outside & puff a couple. Great story.<br /><br />Reality is for people who can't handle drugs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6acb1a01baf8014072f1963ed8ca3cdaa0844c28ddae72a3fb388193c164b0
+size 148

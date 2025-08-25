@@ -1,1 +1,3 @@
-This film is a very good satire of life in the 90's for gay men. The acting is a bit tireless, yet when taken into context of the genre of the satire, then it places well. John-Michael Lander is very convincing as the 'gay-god' that has decided to fall in love and yet can't give up his other life. This film should be on the list of the "Gay Must-See"
+version https://git-lfs.github.com/spec/v1
+oid sha256:db18385693c288cc1a9f72c500c8e4210c4c96880944a6eaf543412976ff2e2a
+size 352

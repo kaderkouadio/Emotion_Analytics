@@ -1,1 +1,3 @@
-CD in LA is not a classic, but doesn't aspire to be, and if you're simply looking for a fun, light-hearted comedy, then this is the movie for you.<br /><br />The plot is relatively simplistic and predictable, but there are more than enough funny scenes and enjoyable characters to counter that. If you enjoyed the first 2 CD movies, than you'll probably enjoy this.<br /><br />Note: I actually wanted to give this move 6.5, but there is no way to do that, so I gave it the benefit of the doubt and gave it a 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2da307d80d95a6cf17476877763c8f094d23c10451db1704b1718daa3436e23
+size 510

@@ -1,1 +1,3 @@
-This movie is a lot of fun. Lots and lots of laughs. Edgy but funny and Mike Binder is great. If you liked his TV show you'll like this which I'm sure was the inspiration. Mariel Hemingway is awesome too. A lot of people will think it's light but I didn't. A lot the sex stuff was left to the imagination.<br /><br />There are several cameos that are clever too. Kevin Pollack is funny as a doctor. This is a good movie to rent if you're just looking to have some laughs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe31b1836504352fb9fbacb0ee10865a6e924ac6e23decc64c93692e981eb13
+size 471

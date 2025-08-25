@@ -1,1 +1,3 @@
-One of the dumbest animes I've seen, ever. And one of the worst movies overall to boot. Not as bad as "Dude, where's my car?" but that's probably only because this one is quite short (the only redeeming quality of the movie).<br /><br />Stupid "plot", boring animation, horrible voice overs and bland action. Not the best recipe for a successful anime in my book.<br /><br />Avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6952220424de13f3a20a9243a00607c75882a8742222d56489915270ddd3690
+size 381

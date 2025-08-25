@@ -1,1 +1,3 @@
-The plot was muddled and unlogical, the acting was terrible, and the editing was poor. I won't even insult low budget movies by calling Legion of the Dead one (it's more like a NO budget movie). This movie was a waste of time. Thank goodness I didn't pay to see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf2ed3a74c80e705170317035e0d6af54520e60869b00114088387fe14e43496
+size 265

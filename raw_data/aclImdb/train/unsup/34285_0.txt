@@ -1,1 +1,3 @@
-i thought this movie was kind of funny because david keith had sex with pamela anderson after a high speed chase. does anyone know why this is? the movie had D- action and a plot that only John Woo could do something with. It was a stupid movie but the sex scenes were good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:058c792f381068f6e7a11a188d011b78e89fa41a39df425c16cae051e82aa31c
+size 274

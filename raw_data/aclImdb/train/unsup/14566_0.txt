@@ -1,1 +1,3 @@
-This is a Playstation game with 40 hard levels. I played it for 2 years finally completing it. You start off playing as a small dinosaur then you play as a raptor then a human then a T-rex and finally a human again. It hardest levels were Into the fire, edge of chaos and there were two. 10 out of 10. Chaos Island was a PC game.
+version https://git-lfs.github.com/spec/v1
+oid sha256:842607009b1732a0901906f6ab6fc8aa1880b1a18d87fd5e78932f40b6ce4a53
+size 329

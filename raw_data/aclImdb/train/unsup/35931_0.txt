@@ -1,1 +1,3 @@
-Groovy cartoon to trip out to in beginning and not much else. In this future 70s space sod, big forehead man goes throughout the movie doing various things which aren't important. Plus, he really hates drinking rocket fuel. High point includes fighting in zero gravity and when everyone is killed when the airlock opens (just kidding, though wish it happened). Cringe in horror and feel tension during the moon transport scene. Will the man and the girl make it? I hope not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a09c256c1f9e8541584dc97cd1e51ccdad01a56cf3d15f22007f9d2afc83a7f
+size 474

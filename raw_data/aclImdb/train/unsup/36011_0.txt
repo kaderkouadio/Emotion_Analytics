@@ -1,1 +1,3 @@
-"Capricorn One" has a promising beginning: that story about the NASA faking the images of the arrival to Mars makes you think that's gonna be a nice politic film full of suspense. Anyway as the movie gets on the script turns completely tricky and so absurd, the plot splits into several parallel plots and there's a huge loss of intensity. Besides, nor OJ Simpson neither James Brolin are the best actors ever.<br /><br />A nice air chase with airplanes and helicopters and some entertaining sequences. That's all that you'll find in "Capricorn One"...<br /><br />*My rate: 4/10<br /><br />------------ ------------ ------------
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc36fc098846cda1febdc474479140af728e39616956582b903702c0d0be0bf2
+size 628

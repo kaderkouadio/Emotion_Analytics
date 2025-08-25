@@ -1,1 +1,3 @@
-Moonwalker is absolutely incredible !!!!!!! What else can I say !? Michael Jackson is the true King of pop, rock and soul !!! Moonwalker has everything ! Great story line, fantastic music, great visual effects, and of course it has Michael Jackson !!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db23d43fa8a08a48b618a231f39077e1a346e97c7dd106c7c8e25f91c87f9ac
+size 254

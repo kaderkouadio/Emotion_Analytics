@@ -1,1 +1,3 @@
-This film is an excellent Aussie comedy, loosely hung on the frame of an outback romance. I hadn't seen it for years, but it was (finally) released on DVD in June of 2009 so I raced out and got a copy. I'm pleased to say that viewing it again it is as good as I remember it. If you have a friend with a big screen, watch it on that, the scenery is to die for .<br /><br />I am so glad that this film is finally available on DVD: http://www.umbrellaent.com.au/products/show/3/1188 Harold Hopkins and Colin Freils are great in this, a real showcase of Australia, anyone is bound to enjoy it. There are 3 clips available in the national archives here: http://aso.gov.au/titles/features/buddies/
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4eda6ac19bfb6d4005824aa72b7ebb2d9d6d473560a7952fd9ac08bc4a8287e
+size 691

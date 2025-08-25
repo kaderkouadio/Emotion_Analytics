@@ -1,1 +1,3 @@
-This version of "Hamlet" uses the exact idea of Bazz Luhrmann's "Romeo + Juliet". A William Shakespeare play, presented in our decade, with all modern things interfering or completely changing scenes. All but the dialog, who remained as close as possible to the original. Ethan Hawke and Kyle MacLachlan are both very good, but unfortunately Julia Stiles destroys her scenes, with her flat and inexpressive appearence.<br /><br />Still it's an interesting watch, but only if you're a big fan of someone involved in this picture. Vote: 4 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03fbc69048ab68e05072009755b5e25714c3a86f435ee14eaf3ec0f6d7131fde
+size 547

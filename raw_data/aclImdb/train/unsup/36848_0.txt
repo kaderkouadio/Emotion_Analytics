@@ -1,1 +1,3 @@
-It is no secret that I like time-travel movies. However this one did not meet my liking, which is seeing people cope in a time not their ow. This was sci-fi, and I guess those who like that sort of thing might find it interesting. To me it was a major snooze fest and I keep looking for something else while I watched it. Too bad there was nothing else on.<br /><br />Kris Kristofferson has never impressed me with his acting abilities. He always looks as if he is sleepwalking through a movie. He just doesn't show any real emotion. Cheryle Ladd was a major disappointment also. She just didn't do a thing for me.<br /><br />Read a book instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ecb4f032512b31ad3df9a666c79bad2cc7ec317efb4ad20b885806e008dc87e
+size 646

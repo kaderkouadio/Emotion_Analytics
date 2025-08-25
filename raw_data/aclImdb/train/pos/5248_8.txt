@@ -1,1 +1,3 @@
-Okay, like many other such films, spawned out of a SNL skit. But Tim Meadows does a fairly fantastic job of making a 3 minute one-dimensional character into a moderately viable comedic movie character. He drops amusingly consistently-threated one-liners with fair frequency, Billy Dee Williams is in it though his Lando days are long gone, and the entire thing is shot pretty well. True, it's not great art, but if you went into Wayne's World looking for the Gone With The Wind, you did something wrong. Enjoyable for what it is.......
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc73d34ca00ba2cd8bb5fd021e71c0ac24b6dbb1aca0cd4feadb0803f1e5f63
+size 535

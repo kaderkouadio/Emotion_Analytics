@@ -1,1 +1,3 @@
-Screwed does not take itself seriously, and as a result is able to work around a script that, while witty and clever, is not exceedingly original. Norm MacDonald, plays the standard role, Dave Chappelle compliments him well, and Danny Devito plays his character as if he is the star of the show, and in many ways he is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2fe3942d7d9a89e32a577aa619bcf1326bd8c99710fbea3354e662c36559386
+size 319

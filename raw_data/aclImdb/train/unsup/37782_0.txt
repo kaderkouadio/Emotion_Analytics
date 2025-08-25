@@ -1,1 +1,3 @@
-Heartstopper wasn't to bad for a low budget B slasher movie. Took a large number of queues from Halloween with events taking place in a hospital. The film is about a killer who is hit by lightening while getting sitting in the electric chair and becomes an unstoppable killer after he's taken to the morgue in the hospital. The acting was pretty good and the effects were a little on the silly side, but it held together. Some religious connotations as the killer seemed to be living a life of eternal torture and was taking souls. Lots of gore and blood as plenty of people get their hearts ripped out as food for the killer. About an average B slasher movie. Nothing terrific, but nothing really bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:198e821582415b43767a2cc45fdbb5665997767550a3a387dcc330717f1a717a
+size 702

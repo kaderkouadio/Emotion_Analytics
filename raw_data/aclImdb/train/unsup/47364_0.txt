@@ -1,1 +1,3 @@
-<br /><br />This movie stinks. Now, I'm a huge fan of the TV series but the movie shares little of the series' great music, quirky humor, bizarro characters or other fun stuff. Instead, the movie trades all that in for a cliched and boring story about terrorists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a921b1810bbf86d6a35d2126e4e3562a860a81845c22721f2121422eb678bbfa
+size 263

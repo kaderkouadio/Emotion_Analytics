@@ -1,1 +1,3 @@
-This film was released soon after the Conan films, a sort of female Conan, Red Sonja played by Sylvester Stallones ex-wife Brigitte Nielsen. She's not a very good actress unfortunately as proved in Rocky IV and Cobra. The whole film feels cheap, but strangely Arnold Swarzenegger appears in this film but not as Conan, although he looks, acts and fights like Conan from the two Conan films, I don't know what thats about. Anyway he only appears about every twenty minutes and doesn't hang around for long. Maybe Arnold filmed this in his time off from filming Conan the Destroyer or something? Anyway the film is way to slow and boring for an action film, skip this and watch Conan the Barbarian instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a283522e11e5f600f8bd9576ad0b16e72f3b9cd16b5dccd38f785a0ba072b2
+size 704

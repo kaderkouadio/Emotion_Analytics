@@ -1,1 +1,3 @@
-I know there are a wide range of tastes in entertainment out there, but this show is PAINFULLY bad. It is the writing, acting, and direction that make this so awful. In any given year there has to be one show that is the worst of the lot, but this show may well hold that distinction for the entire decade. I stumbled onto this while trying to find something that was similar to other shows that I do like, such as Carnivale, which is also an apocalyptic tale with overt religious content. I also LOVE David Selter's "The Omen" and one or two of its sequels. Plus I have enjoyed Bill Pullman's work in other programs and movies. Sadly, neither Seltzer or Pullman seemed to have exerted any special effort on this throw-away. "The end is Here," to which I add "and not soon enough!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6153e80e7b6f68ae911c1f4a78bbe44b8a86aafdf15b2743706409e1e2d1e96
+size 781

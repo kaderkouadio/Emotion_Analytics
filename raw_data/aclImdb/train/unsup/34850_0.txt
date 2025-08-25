@@ -1,1 +1,3 @@
-This, unlike many a bad movie, started out with an interesting plot. A girl sells her soul to the devil to keep her witch sister alive. It makes the mistake by starting up years after this event, where the witch lady is still as youthful as ever and has tricked a nice (if a tad bit dumb) guy to assist her. There's no more plot after that, the rest of the movie consists of various murder attempts by the severly aged sister and the witch lady tried to get the guy to help her. Add that with a couple of odd pieces of dialogue ("This is where the fish lives." "Zah!") and this movie never rises above camp, and fairly uninteresting camp at that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf0f4efdcba9cddfa4483971356a8ebfbdbfe5b56691cdf4c2ff2eca786de091
+size 646

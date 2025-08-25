@@ -1,1 +1,3 @@
-Although it can be VERY tedious at times, this movie is really not all that bad. The acting is fairly well done, if stereotypical, and the production values are pretty high considering some of the Sci-Fi movies that were to come later in the decade.<br /><br />My biggest problem with this film are some of the very outdated characterizations in it. There's the guy from Texas, the "professional" scientist, and worst of all the woman scientist who finally realizes her womanhood. For a film seeking to make a statement about mankind, it loses some of it's impact by reducing its characters through sexist stereotypes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a737dda9206fc30dc1307cb5b5f799995a415cf4ce4f3753cb2be642983dd669
+size 618

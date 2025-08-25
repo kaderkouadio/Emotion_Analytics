@@ -1,1 +1,3 @@
-Despite the all-star cast, this attempt at epic fails. It comes across as a set of flat cartoon stereotypes strung together by an all too, too clever social commentary. <br /><br />It's as if with every bit of dialogue and introduction to a new character the writer peeks out and says "Isn't that clever? Am I not smart? Isn't that biting social commentary?" And,sadly, the answer is always "Ummmm...no." Wearying self-absorbing stuff that is more like soap opera (in the worst sense of the term) than a movie...and an obvious attempt at television immortality. Thankfully, it died young. Empire Falls falls flat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06116acf92e7ad01254a35c4e804d8fe5f94b5fdea46f77062bf3f5c51d014f
+size 613

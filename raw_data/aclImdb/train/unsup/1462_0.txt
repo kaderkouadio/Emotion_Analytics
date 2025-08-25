@@ -1,1 +1,3 @@
-If you're into creepy horror flicks, then this film is certainly for you. I was very impressed with the production value; really top notch. The suspense and the acting are noteworthy. Ashley Laurence ("Hellraiser"), Thomas Calabro ("Melrose Place") and James Russo ("Donnie Brasco", "The Ninth Gate") all turn in stellar performances. It's really wonderful to see these actors in a fresh new vehicle as I have always been a big fan of their work. It was really awesome to see the original approach that was taken on an H.P. Lovecraft story, and to watch his brilliant characters such as Dr. Munoz and Mrs. Herrero come to life on screen -- with a few new twists and turns thrown in for good measure. Director Serge Rodnunsky is multi talented and cutting edge in his execution of this project.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc56d862b85f53632805d62027b2f8d3837fa125f2f13247276afcdc670a9b5f
+size 793

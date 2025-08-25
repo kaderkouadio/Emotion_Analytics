@@ -1,1 +1,3 @@
-I highly recommend this film to anyone who is not out of the closet yet or is already out. I have been out for 10 years and it still hit heart strings that I didn't think existed anymore. The characters and their tribulations are very well depicted and are very realistic to what a lot of us have gone through or will go through during the struggle to come out to family, friends and loved ones. If you have not yet seen this movie, find it and watch it. You will not be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b7053f3fe5094b4d34b8fb7da4e0c18114bd27a9ddc0f32596fd412d22ad40
+size 484

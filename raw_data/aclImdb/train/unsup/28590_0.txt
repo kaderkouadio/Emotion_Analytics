@@ -1,1 +1,3 @@
-It looks more like a series of moments thrown in without any sense of storytelling. What is the killer's relationship with cockroaches ? Who cares, it looks good ! What it this "article" everybody suddenly mentions ? No idea. Even the title is unappropriated, since there is no peculiar paranoid in this movie.<br /><br />When revealed in a lame sequence, the "killer" barely has the built of the murderer we saw before. And the incoherent ending scores ten on the "Huh ?" meter. This is not just bad, it's also a cheat.<br /><br />Rent something else unless you are in the mood for a real bad movie !
+version https://git-lfs.github.com/spec/v1
+oid sha256:39bdd19340229e83e227b26dfe753dd75d9375e819bb90c42d07f5cabd655f00
+size 601

@@ -1,1 +1,3 @@
-...said a couple exiting the movie theater just as I was entering to watch this. Hmm, not a good sign, but who knows? Different strokes for different folks, after all. Well, nope. They were being kind. Godard has released work that is passionate (Contempt), entertaining (Band of Outsiders), sometimes both (My Life to Live). This is just dull intellectualism, that grates on the nerves pretty quickly. During my showing, literally half of the audience had walked out by the end of the film. If only I had been so wise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd088471949849549f1d5422cb9dc7a2177de22ffb057fe513881458a6d30504
+size 519

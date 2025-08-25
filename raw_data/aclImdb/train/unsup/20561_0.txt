@@ -1,1 +1,3 @@
-How many movies have you seen that allows you to think about it for days? The first time you'll See this, I can guarantee that you will want to watch it again, because you won't have figured it all out. It's brilliantly directed and acted, with a magnificent set design. The holes are insignificant, and will get you thinking about it days and days afterwards. There is nothing negative about this masterpiece, and is really the reason why we go to the movies these days.For something inventive and amazing- see minority report, as it is a rare film. It gets you thinking, as most movies today fail to do, and yet becomes a modern day classic with its ideas
+version https://git-lfs.github.com/spec/v1
+oid sha256:818e568e869b740ce79e9b79fa1a8e9e5aa09f5a6c8a9abdb12a9a169ced9fb8
+size 657

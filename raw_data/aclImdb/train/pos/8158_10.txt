@@ -1,1 +1,3 @@
-"Fear Of A Black Hat" is everything the (much weaker) "CB-4" SHOULD have been. Rusty Cundieff's satirical eye is ruthless, as he folds, spindles, and mutilates every aspect of hip-hop trends and culture. Does "FoaBH" resemble Spinal Tap? Yes, a bit. Is it derivative of Spinal Tap? No, not really. The aim is more focused, the satire is better focused, and to be honest, it's funnier.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06f47d4569d73f928b0ffca8d8e432ea077eb31f245f28c44d69721dd0b4a01
+size 384

@@ -1,1 +1,3 @@
-I, like many die-hard Trekkers (or Trekkies, i don't care!) suffered through seven seasons of "Star Trek Voyager", dreaming of a better show when it was over, lamenting the end of "Deep Space Nine" in 1999. prayers, answered. "Enterprise" is fantastic. Fresh perspective, radically different characters, stunning new visuals, a pop-song for the intro. (I was shocked!) I can't think of anything I didn't like. sign me up for 10 seasons of this show. "Star Trek" is back - "Voyager," nobody misses you! Keep on Trekkin'!<br /><br />>
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dabada93716865412879d59191746d321a00c063500cf1f8737d1f089f2e238
+size 532

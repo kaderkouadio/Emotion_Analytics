@@ -1,1 +1,3 @@
-I first saw this movie back in 1989 with some friends of mine, we were in the habit of going to the video store and TRYING to find a movie none of us had seen. One trip brought us this rare gem. We watched it and were thoroughly amused by this story of Mike Jittlov vs. Hollywood. The stop-motion effects were simply amazing, executed with skill that would make ILM green with envy. The story was funny in a poking-fun-at-Hollywood-and-ourselves kind of way. NOTE: Our rental copy included the movies own hilarious trailer, this trailer does not seem to be included in copies available today (5 YEARS in the making! 5 DAYS in the theaters! ect). Watch it, love it, share it with your friends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20df728f96e5f54e3c448223ccf006ee7881e9a850a82e6194d5cb46b70f8881
+size 692

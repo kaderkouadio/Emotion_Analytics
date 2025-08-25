@@ -1,1 +1,3 @@
-By far this is the worst Halloween movie ever made. The acting is bad, except for Paul Rudd, and Donald Pleasence. The girl who played Kara (forgot her name) was ok, but overall this movie was basically a big letdown. Nothing moved the story forward, it lacked substance, and the scares that made Halloween and H20 so good. All and all, skip this movie, it's not worth the price of rental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a892f464be575d9e009f4022b1a697228369454d39bce222d7ff91719bed25
+size 389

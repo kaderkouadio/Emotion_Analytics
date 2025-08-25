@@ -1,1 +1,3 @@
-Uzumaki is a visually astounding film however I felt as if some of the story line may have been sacrificed. There is hardly any character development which left me feeling personally detached from the film, which is ironic because all puns aside, this film really does draw you in with its many slight spiral effects and stunning scene transitions. At first the overall cinematography threw me off but as you get used to the overall appearance you start to see the beauty in this twisted film. This is a great movie if you are looking for a looker with out too much substance or deeper meaning.It is a great horror film that is not actually scary or suspenseful but somehow...eerie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f4699b2fa392fc408b9e5e3c50029b34a0c9dc1163e1b294733ae1c86b25138
+size 682

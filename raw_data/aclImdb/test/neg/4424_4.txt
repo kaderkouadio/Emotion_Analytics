@@ -1,1 +1,3 @@
-I found this film to be a bit too depressing. I don't mind dramas, but this was a bit too much for me. Luckily, there does seem to be somewhat a decent outcome. I suppose it was well done. I'd watch it again, but it's nothing to rave about.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c77ff1ebc7c6c12fb4157968150dd0ec3e8805af1c77be063097b50e274abbee
+size 240

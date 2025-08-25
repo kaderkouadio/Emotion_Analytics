@@ -1,1 +1,3 @@
-This movie show the true of millions of humans in the world. It is a large movie but it is very interesting. You will not be tired of watching. The hard life of the poor people from Latin America is showed like it is.<br /><br />This a different and good movie. If you live comfortably and you do not know the bad side of the poverty, you must see this selection, do it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ac176ab51c8c6e1d00c5c49c34d54857ab7643e6488d857960387872d6cd881
+size 370

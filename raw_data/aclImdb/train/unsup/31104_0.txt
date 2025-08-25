@@ -1,1 +1,3 @@
-The whole plot for this movie is flawed. Drugs are being imported in to the UK via America which is clearly ridiculous. One of the pivotal scenes in the film shows total ignorance of the subject matter .In explanation the "hero" buys drugs from a "friend" it's a set up the friend doesn't want any money . the "hero" repeats "take the money" forcing the cash in to his hand. Anyone with any knowledge of the UK police and/or drug culture will know it is irrelevant if money changes hands all they need to know is that drugs were supplied. The director is obviously enthralled with the U.S.A . Which is why he's there making C.S.I. I hate this film .
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08b943a6ac61942d0619a48e63ac7935ca730974645cd5ae3e7552838b94375
+size 649

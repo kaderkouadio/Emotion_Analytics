@@ -1,1 +1,3 @@
-This movie is heartwarming and a real tearjerker. I have a copy of it on tape, and I watch it all the time. I never get tired of watching the Taylor's get what they deserved. I really enjoyed watching it over and over again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee55bc378c1eb5ef1a23cde83fce3c10b87eed70d7ed2c84a1bafff59bfdfac8
+size 224

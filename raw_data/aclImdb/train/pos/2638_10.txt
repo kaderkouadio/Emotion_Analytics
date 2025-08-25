@@ -1,1 +1,3 @@
-One of the best movies for all ages. You will never be able to look at LION KING again without thinking of the extra history this movie adds. Nearly 40 years old, I watched this with my wife and two sons after work tonight & I have not laughed & enjoyed a movie so much in a long time.<br /><br />Take time out and watch this with the kids. It will remind you of how Disney used to be when you were a young one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40d730a5b789e5453ad05ebd72634cdf52ea658c049ee37cb1db3431f577df7
+size 411

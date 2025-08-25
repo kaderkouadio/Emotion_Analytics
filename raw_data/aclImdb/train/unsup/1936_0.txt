@@ -1,1 +1,3 @@
-I don't know why this movie got so much criticism. I thought it was pretty good. Sure, the effects might not have been the best, but it was still a great movie. The original Jaws was one of, if not THE, greatest movies of all time. That's a tough act to follow any way you look at it. Jaws 3 also had some great actors, including Dennis Quaid and Bess Armstrong. You can say what you want, but I'll always love Jaws 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bfe017b1f0f6c93e28ddf6f06c7e779132409c8d7020dae69c88165337774aa
+size 418

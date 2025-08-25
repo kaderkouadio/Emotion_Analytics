@@ -1,1 +1,3 @@
-This movie gives all it has to give in the first 10 minutes. Hackneyed, predictable script exacerbated by unimaginative direction and repetitive camera work. plot stalled between dull fantasy of female hysteria and a condescending out-of-touch vigilanteism. a major psychological turning point for the protagonist involves an iron and her hair style. anything good in it seemed ripped off from pretty in pink, amelie, run lola run, just to name a few. sound track uninspired (even "the wedding singer" was better in this regard).
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cf8e2e2211b9f12b16e163f3a337ed718093e257af2cd90d3188b35cfa2631
+size 529

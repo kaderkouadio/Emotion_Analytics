@@ -1,1 +1,3 @@
-Seeing this movie always reminds me of what I remember summer being like, God! such a long time ago. The entire scene involving the "overnight", from the canoe procession to the end of the trip, is precious, and Tripper's story about the homicidal maniac is urban legend right out of my youth. A highly entertaining movie, made many times better by the awful sequels that followed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96d763d9296d0a29e085a8267430b764dba98ee9b89061885046ec91f82810d2
+size 381

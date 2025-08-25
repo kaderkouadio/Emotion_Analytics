@@ -1,1 +1,3 @@
-This action film concerning the transport of a laser gun talks itself to death. Crew and cast both show signs that they were caught in the Indonesian heat: the stunts and special effects are bad; whether a good guy or a bad guy, everybody's acting is bad ; there is no decent story; Ashley's directing is hopeless. The film is beaming something conceited like "what you can do in Hollywood, we can do at least as good", but of course the makers were wrong, they simply lacked the talent. They should have used the laser beam to obliterate this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7563ab6533d2689d04823fc4e8571820311a4897fbc45e99a07d29b735943486
+size 549

@@ -1,1 +1,3 @@
-I caught this on Spanish-language HBO the other night and was captured by its style, tension, and brilliantly executed character development. The pacing is deliberate and, at times, frenetic. The tragedy of the "fog of war" in which these Spanish peacekeepers are lost is palatible. If you liked "Saving Private Ryan", "The Big Red One" and "Enemy at the Gates", you'll love "Guerreros".
+version https://git-lfs.github.com/spec/v1
+oid sha256:275562cc6869f7b347bee96aa9c215f6b038d10219bc65f17a9503a684454667
+size 387

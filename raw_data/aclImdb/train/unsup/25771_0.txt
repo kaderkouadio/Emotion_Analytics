@@ -1,1 +1,3 @@
-The storyline is gripping and the performances are so superb, that you do not miss the dialogue or the music in this story that most people identify with the musical version. As Kathi, the girl the prince leaves behind, Norma Shearer gives a heartbreaking performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8154cbcffdc74f3fc95a5db32a8269fda75cb3913b56d60560229c3b188b8926
+size 268

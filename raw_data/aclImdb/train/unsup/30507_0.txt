@@ -1,1 +1,3 @@
-This is one of the movies I'd recommend to anyone in want of a good movie. It was very enjoyable and although there weren't unpredictable twists, it didn't fail to keep me attentive.<br /><br />Story-line: Lon (Daniel Wu) was born with an injured face. Him an his brother are hired killers until something happened, which prompts a turn in the story.<br /><br />Stephen Fung and Daniel Wu both gave awesome performances. Although, I haven't seen many HK films, it seems that they are taking a turn and for the better. Very enjoyable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b5396d5c0737870d19c86ab6145643321494b9b29e9549eb52aa61d759fc6a8
+size 533

@@ -1,1 +1,3 @@
-This is not Jeanette Mcdonald's best work even if the film is in color. Even though Mcdonald's husband starred in the movie, I felt that he just didn't fit the character. I like the Norma Shearer 1932 version much better. Norma Shearer and Fredric March make a much better onscreen couple.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09e15fca517bc42987f0db3247c2f4ce6336d61a18dace48b7900e8e181f27b5
+size 289

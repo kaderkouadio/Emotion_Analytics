@@ -1,1 +1,3 @@
-I have a copy of this movie and have watched it several times. Most of my family has as well. My father has a speaking part in the movie. His name is Isadore J. Blanco and is the 17 year old that is featured while working out in the field. My father passed away On Veterans Day November 12, 1996. He was a wonderful human being and it's a joy to be able to see and hear him speak as a teenager.<br /><br />Many of the younger generation do not know of the lives of these poor field working families. Many of the older children did not complete elementary school because working to put food on the table was much more important. Survival was what drove these families. Many young men later enlisted in the military to better their lives.
+version https://git-lfs.github.com/spec/v1
+oid sha256:983cf81a4c5ee2b960e6cc80c10efc3c36ae71f602b3ec872c73d8ef4ab3dfdb
+size 736

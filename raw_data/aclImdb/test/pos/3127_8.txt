@@ -1,1 +1,3 @@
-A couple of cowpokes help a group of Mormons cross some rough country on their way to a new settlement. This low-key Western is unusual for Ford in that it lacks any big stars. Johnson gets top-billing but his is basically a supporting role, although he and Carey work well together. Dru is given little to do other than provide the love interest. The best performance is given by Ford favorite Bond, playing the leader of the Mormons. In fact, this role helped him land a starring role in the long-running TV Western "Wagon Train" before his untimely death at age 57. Featuring beautiful cinematography, Ford regarded this as one of his favorite films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa98a428fbf7c08199ddfdef0cdc7d39c7e5156156c560ab80d4e99e45a978b
+size 653

@@ -1,1 +1,3 @@
-Mere thoughts of "Going Overboard" (aka "Babes Ahoy") make me want to weep. Throwing yourself out a window would be better than watching this movie. It's not even a supposed "so bad it's good" movie. I would spend money to buy copies of this movie and burn them so that people can't see it. Oh the pain, the pain...
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb3e8757c37bc69505e29fda50f39331dd600919bc2d8069b3902fbc6ab6588e
+size 315

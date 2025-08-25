@@ -1,1 +1,3 @@
-Return to Me is a charming gem of a movie. With an absolutely star studded cast, who can go wrong with this modern day fairy tale? It also includes many, many jokes written by the funny girl herself Bonnie Hunt, who wrote and directed this film. David Duchovny is also very good, showing a different approach then from his everday alter-ego mulder on my favourite show the x-files. a great date movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5484bb141e9a9e5d2fd2bfabae655aaabbfb96169d75089c0818f4282e94e277
+size 401

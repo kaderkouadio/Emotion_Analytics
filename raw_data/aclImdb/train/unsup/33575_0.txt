@@ -1,1 +1,3 @@
-The director is very young... and it shows. There is a lack of maturity in handling of emotions in the movie. The two leads are either smiling all the time to convey happiness or screaming to convey anger and frustration. Human emotions and reactions are much more complex, Sidharth Babu. Great technical values in the film, and both Saif and Preity look very fit. But that don't make a movie watchable. Preity's pregnancy dance, by the way, is the height of stupidity. She looks ready to deliver and is running around and jumping as if to try and induce labor. Sad to say that Javed Jaffri's mocking Crocodile Dundee rip-off is the most entertaining part of this movie, but acting kudos go to the Indian Aussie's dim-witted blonde wife. "Sorry?" Can anyone explain why they made this movie?
+version https://git-lfs.github.com/spec/v1
+oid sha256:468e371e9e50c0da208359859b1f8711f3d8640513de9568fc88ee7fda6cd444
+size 791

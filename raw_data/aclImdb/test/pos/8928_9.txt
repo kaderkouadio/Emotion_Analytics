@@ -1,1 +1,3 @@
-This film was incredible! Looked high budget but felt heartfelt and original like an Indie. The most amazing part of this film were the astonishing performances by David Beazely, Mark Hildreth and Paul Anthony who plays the main role. He carried this film with ease, humor and charisma balanced with a huge depth. <br /><br />The cinematography was really beautiful even though some of the subject was quite ugly. It wasn't very realistic in that way but it didn't have to be to make a larger point. It was really great seeing Alan Cumming in this too. The script was tight and propelled very nicely with some of the best acting I've seen in a while.<br /><br />Go see this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7150671a5e2ec06f78004083eb25c7cb1ff0d2ed2bcd315c1c4b3fea44c6d2dd
+size 674

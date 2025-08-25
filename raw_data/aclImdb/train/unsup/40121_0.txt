@@ -1,1 +1,3 @@
-Awful movie. Simply, is not related with the Hellraiser saga. The movie takes elements from the "Hellraiser culture" but is really another kind of movie, about a man that takes revenge against his dead son friends.<br /><br />The real "Hellraiser" parts are in the beginning and the end of the plot. The rest is another movie.<br /><br />BTW : about the plot description : "Pinhead returns to terrorize computer hackers that have opened a virtual Lament Configuration on the website Hellworld.com." (Description taken from IMDb)<br /><br />1)Pinhead does not return to terrorize anyone. (in fact, Pinhead appears only in the imagination of the characters) 2)There's no computer hackers involved 3)There's no such "virtual Lament Configuration"
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf41f7e978a057385fa7a90057d1b06f83b5f5eecb865aa59e2d66895cc368c2
+size 743

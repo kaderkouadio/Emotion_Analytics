@@ -1,1 +1,3 @@
-This movie is about as underrated as Police Acadmey Mission to Moscow. This movie is never funny. It's maybe the worst comedy spoof ever made. Very boring,and dumb beyond belief. For those people that think this movie is underrated god help you. I give this movie * out of ****<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:e53300ad3a1f6e1ec6588c556cddd428adb68b6a3ba5bbb197810eeef6f3e0dd
+size 289

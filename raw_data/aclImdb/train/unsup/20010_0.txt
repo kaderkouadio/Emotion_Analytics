@@ -1,1 +1,3 @@
-Yes!! In the age of so many films that slap you in the face with so many f/x, it was refreshing to watch a movie with real people and real actors. The new TARZAN and the LOST CITY brought the character to a new level for a whole new generation.<br /><br />Casper Van Dien was an excellent Tarzan and most important, Mr. Van Dien's performance was on target. I enjoyed the film and I am sure that you will too!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38bf59760c40d93a939b6277a3cbc25362b441196dd3177eaa2441e43aadf1b
+size 409

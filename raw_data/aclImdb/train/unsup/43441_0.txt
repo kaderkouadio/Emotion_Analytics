@@ -1,1 +1,3 @@
-i don't mind the movies not being the real world, i don't mind magical, unlikely or challenging, even illogical but half-baked, over-flagged nonsense is simply disappointing. There seems to have been a good idea for a film here as others wrote but its impossible not see what's coming. In fact I thought well perhaps there'll be some twist I'm not expecting.... no, not really. Oh well, I do like Cuba though. I just wish he didn't have to look so uncomfortable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48639bd1a6cc1b747bb8d5e2cee92277e7f7ee0508b7a7684f350964ba35f9c3
+size 462

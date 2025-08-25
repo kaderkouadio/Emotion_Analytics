@@ -1,1 +1,3 @@
-A very attractive and capable cast is lost in this deadly boring rehash of the slasher sub-genre. The plot a simply a collection of cliches and set-pieces that we've all seen a hundred times before. Has great potential as an insomnia treatment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1a061a75e3cfa2b818ee6ee0cfee28e751c80f4e180bfc892c886618455acc
+size 244

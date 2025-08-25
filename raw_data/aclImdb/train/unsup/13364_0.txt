@@ -1,1 +1,3 @@
-I thought this movie was one of the best I have seen in a long time. Everything about it was great hope to see more of these kind of movies, very moving. Hope to be able to take my three children to see it. GREAT MOVIE!!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:668cd5da1f2c047af505d00bd928e0f12a56d34bc1dc988f1871e0281638ebb6
+size 224

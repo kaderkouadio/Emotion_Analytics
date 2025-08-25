@@ -1,1 +1,3 @@
-I am a huge fan of Simon Pegg and have watched plenty of his movies until now and none of them have ceased to make me laugh. Neither did How to lose friends and Alienate People.<br /><br />This movie is essentially about a man good as pissing people off. However, he has an innate set of ethics that prevents him from doing things that might just make him famous. But in the end he ends up doing them, the culture of life.<br /><br />The movie is well toned with humor, romance, good acting and also a bit of a lap dance. Its one of those movies where you could just be happy when it ends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d65947699cad15c59ee2975a69e06d54d5ea1f6a9fba8b608afd174ab888b9b
+size 589

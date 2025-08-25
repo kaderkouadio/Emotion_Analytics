@@ -1,1 +1,3 @@
-I have tried several times to watch this movie because I am assured it's wonderful. I just don't get it. I think it's overrated and silly! I love foreign films, so it's not the subtitles that bothered me. Just an overwrought piece of nonsense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a1a096870ce53fc975b839ca1303acc6d82e92fe7ea921efc7fd2670697602
+size 243

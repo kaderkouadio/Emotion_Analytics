@@ -1,1 +1,3 @@
-I have walked out of about 6 movies my entire life. This was one of the worst movies I have ever seen. I don't know how I sat through an hour of it. I must have been in a coma that night. I saw it in the theatre when it came out 8 years ago. I couldn't even remember the name, but I knew that Penelope Ann Miller starred in it. It must have really affected me to be wasting my time commenting on it today. Yech! Vomit! Barf!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa96a9e1e2f2a79cdc926dcb58582acc6fcfb5ab8ef31a2a376424e560daa02e
+size 424

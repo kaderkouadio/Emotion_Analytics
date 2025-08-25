@@ -1,1 +1,3 @@
-Very entertaining, with an actual story line that made sense and even a surprise happy ending. Loved the dialogue too. Tom Bastounes is too cute!! Sorta a Bill Pullman type but with a great voice. Hope he does more.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb6396cf9d9c997841cda5233150eba0cb460ba6ad1cf4642b1d5cb8f96a3bde
+size 215

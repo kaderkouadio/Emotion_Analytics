@@ -1,1 +1,3 @@
-Well, it is a Steve Martin movie so of course you will laugh!! There are some very funny parts to this movie. It does, however, have a tendency to stop on a dime and go the other way - From humor to serious relationship discussions. But, ultimately, a Steve Martin/Goldie Hawn combination...with a touch of John Cleese...add to a fun movie that will make you laugh out loud!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6cac3b209e6e4e54aa7f447cec468cee9e7ec2869997548ad54f6461167862
+size 374

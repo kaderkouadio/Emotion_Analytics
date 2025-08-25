@@ -1,1 +1,3 @@
-I have absolutely no idea why I watched Ali G Indahouse except for the fact that Salon seemed to think a crime was committed by not nominating Sacha Baron Cohen for a Emmy for his work on Da Ali G Show. It is a sure bet that I will never watch that show as there was absolutely nothing funny about the movie. Comedy? Torture was more like it. It was just about the stupidest thing I every watched. I will admit that I was captivated by Rhona Mitra. I had not seen her in anything. She wasn't on The Practice during the time I was watching, so I guess I will have to check out Boston Legal one of these evenings to see how she does in something that may be worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e412eab3133fa28f9c7e3362668c1b4b87e670df84258437fa721568f984f94a
+size 671

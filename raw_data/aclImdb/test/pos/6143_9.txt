@@ -1,1 +1,3 @@
-I was surprised to read the comments of the person who so disliked this film. It really is quite funny. There are definitely a few laugh out lines that my boyfriend and I quote to each other. Some of the situations might be unsettling (bisexuality, drugs, a particularly strange child's view of sexuality) but believable at the same time. It's about communication and miscommunication between men and women.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09112556756423043814f6bc2cf7b0ab63f19536d6a71e438f9ad371d04b47c
+size 407

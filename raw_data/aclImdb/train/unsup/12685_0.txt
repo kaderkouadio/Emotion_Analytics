@@ -1,1 +1,3 @@
-This is a superb storyline and has excellent music. Set in the background of Rajasthan, this picture gives a beautiful insight into the Rajasthani culture and way of life. One wonders why more such enjoyable pictures are not made. More such pictures will enhance the stock of Bollywood films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed77c3ae8fd73423fe07f1da34fdb1ceddac378cec18fd4cbfcb44b754a45fa
+size 292

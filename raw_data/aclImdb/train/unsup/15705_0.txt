@@ -1,1 +1,3 @@
-A great cast <br /><br />Beautiful setting <br /><br />Lively script (based on a fab novel (i've had so many recommendations to read it) <br /><br />It's a touching film, possibly even a tear jerker that most women are likely to fall in love with. The lead part of Cassandra is played with commitment and I believed 100% in her character because she did. Other characters, her father, played by Bill Nighy added a sense of humour to the film.<br /><br />Basically its a great film. Watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a062ef289422ab84d19a740ca9b316bbd7cda0082f468c4f71f4fa73f93aaf0
+size 491

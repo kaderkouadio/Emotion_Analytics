@@ -1,1 +1,3 @@
-It was such a wonderful show.It was absolutely brilliant and positively divine.I loved every second I watched an episode of this show, and there wasn't any I thought were horrible.This show is underrated and it is definitely under appreciated.All the characters are lovable and different in their own way, which is a good ingredient for any show.Each episode was so interesting and entertaining, and not to mention some were actually unbearably funny!!!You can't beat shows like these, and anybody who tries to run away, always find themselves crawling back to them.I would watch The Wild Thornberry's show all day if I had to, because it is just a show that you can love forever, and never get bored with it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c8a803c314433f25d3f462c9b360d1cdb1aaec34a3188aac0019702169ebae4
+size 709

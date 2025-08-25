@@ -1,1 +1,3 @@
-I work in an office on weekends, and there is a TV that only gets ONE channel. So, I don't have the option of turning to something better. I keep it on, though, because it provides a little background noise. Sometimes, I get a decent movie/show. Not today. Today, I got "Breaker Breaker." The city looks like a third rate set (which, of course, it is). All the actors and bad guys look like they just graduated from stuntman school. I have seen better dramatic enactments at a carnival. The special effects (flames at end of movie are more fake then Michael Jacksons masculinity). Even the horse at the end of the movie was a terrible actor... A badly acted, badly shot, badly written movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87bc6f920207a8c0870acd6c6c79cc71175baf88a7e0d2c145c853cfe13c9215
+size 691

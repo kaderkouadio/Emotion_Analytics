@@ -1,1 +1,3 @@
-At first, I thought this was going to be another killer ape picture, instead it was an very cool knock-off of David Cronenberg's "Rabid", with awesome effects by Carlo Rambaldi. I thoroughly enjoyed watching these characters go berzerk to the music of Claudio Simonetti. The gore was plentiful and the ruckus at the Halloween dance was very exciting. It was also fun to watch one of Rob Lowe's brothers in yet another B horror picture. My only problem was the dated pop tunes that plagued the movie's soundtrack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7572fed97d113c33c669af57a71dfac664d37c0f3b5305b6297980cdad32ddb4
+size 512

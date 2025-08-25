@@ -1,1 +1,3 @@
-W. Somerset Maugham's torrid tale in grainy black and white and evocative of the early 30's. Joan Crawford is Miss Sadie Thompson, a "fallen woman" temporally stranded in the rain on the island of Pango Pango with a group of Marines and a fire and brimstone missionary(Walter Huston)and his wife(Beulah Bondi). The puritanical preacher's wife is very irritated with the trashy Sadie, but the staid Reverend Davidson(Huston)finally gives up on the religious babel and a heart-to-heart almost reforms sexy Sadie. Provocatively the missionary is found face down in the sea. This oft-told tale is worth watching.<br /><br />Directed by Lewis Milestone and also starring: Guy Kirbee, Ben Hendirk's Jr and William Gargan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c1b728b18d63e80f39d1e74515fa1f6b808bf9758071c8482d63b27898b1f75
+size 715

@@ -1,1 +1,3 @@
-I came across this movie on TV. I hadn't heard of it before and almost changed the channel, but it quickly hooked me.<br /><br />The story of the struggle of the Burmese people against a military dictatorship was provoking. The level of brutality that some are willing to use to hold onto power is hard to believe. It makes me thankful to live in a country where the Government isn't likely to shoot people in the streets.<br /><br />The story of Laura Bowman was a good thread to hold the story of political struggle together.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d54e4ddb49193dbab3efed563a8db1752e7c3694c894e9677b5c1ccf6c71967
+size 527

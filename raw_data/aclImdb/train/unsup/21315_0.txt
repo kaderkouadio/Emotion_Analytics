@@ -1,1 +1,3 @@
-Clear and Present Danger is an exciting addition to the world of Jack Ryan, delving deep into the world of international politics. Nail-biting suspense and explosive action sequences add to the movie, with some truly awesome military special operations added to the mix as well. The inner conflict between acting CIA Deputy Director Jack Ryan and Robert Ritter is extremely entertaining, Harrison Ford and Henry Czerny play their parts impeccably, as do Willem Dafoe as John Clark, James Earl Jones as Admiral James Greer and Raymond Cruz as cool soldier Domingo Chavez. Do not miss this top-notch political thriller!
+version https://git-lfs.github.com/spec/v1
+oid sha256:51022136e725964be5c8e615cb5f18fb0adf460a61010c4c423cfcb7eace7f1f
+size 617

@@ -1,1 +1,3 @@
-I don't care how many nominations this junk got for best this and that, this movie stunk. I didn't know whether to turn off the set, or file a lawsuit with O.J.'s attorney for wrongful damage to my mental health. I have seldom been this bored; to call this dung entertainment is a slap in the face of every movie-goer across the planet. The whole story was stupid, the acting was uninspired, the 'drama' was emotionless. I am thankful I didn't have to pay for this unfulfilling experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d18c169967a6fdd62e594a726e3d0f1de6f09009fa4a8657a74eff0bf341a5ee
+size 489

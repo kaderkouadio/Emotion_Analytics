@@ -1,1 +1,3 @@
-Who in the world told Harrison Ford that this was a good role for him???<br /><br />And Josh Hartnett...how does a 19 year old who can't fire a gun become a cop? Over used cliches plus zero character development and about 15 pointless music industry cameos equal a surprisingly bad film!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:49df0876dd2da54045f8a521da2899c8d9343559777fe6293ca70667d1549072
+size 289

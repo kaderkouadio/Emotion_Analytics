@@ -1,1 +1,3 @@
-I have to admit, I agree with most of the complaints about "Butt Ugly Martians;" however, I feel it did have one redeeming quality about it and that item was Robert Stack as the voice of Stoat Muldoon, Alien Hunter. In my opinion, the only reason to watch the show is to listen to Robert Stack as he does a take off of his old TV "Untouchables"character. In most of the episodes the over-the-top Stoat has his mind blanked after discovering the Martians. The mind wipe ends with Stoat folding onto the ground and saying something along the lines of, "I don't like the darkness, Mommie." I only tuned into the show because I learned Stack was to be on the show and continued to watch because of him, but I was not supervised to see it canceled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06143c51fa47004455c582d6cdd24023ad28a3d58deb0eb80c89e3b091ba59f5
+size 743

@@ -1,1 +1,3 @@
-As part of the BMWFilms series, Powder Keg is one of several great short films commissioned by the car company. Inarritu is a fantastic director, and his genius shows through this gripping, action-packed car chase. What sets Inarritu's film apart from some of the other BMWfilms is the gritty detail, the harsh realism of what is being portrayed. The violence is not glamorized, nor the main character's plight as a photojournalist romanticized.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd04f11c5f998146bb695d11550eb09eb298027f974f4699c66c15ee3394fe8e
+size 445

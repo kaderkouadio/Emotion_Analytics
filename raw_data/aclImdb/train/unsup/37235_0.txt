@@ -1,1 +1,3 @@
-This movie wasn't very good. It brings nothing new to previous giant killer creature films. The plot is nothing great. A few news reporters are sent to a poverty stricken, war torn African country to track down a killer crocodile called Gustave. So of course not only do they have to fight the croc, they are also in trouble with the local war lord.<br /><br />The croc resembles something from a sci-fi channel TV movie. It just looked very fake. And the few scenes that showed the croc were very fast and blurry, it was hard to tell what was even going on. There is little blood and gore and it certainly isn't scary.<br /><br />FINAL VERDICT: Poor special effects. Not even good enough to be one of those B movies that are fun to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2533c6a69ec734bee9ee177aecbd8a9863521ae18d183674115feb163f34895
+size 739

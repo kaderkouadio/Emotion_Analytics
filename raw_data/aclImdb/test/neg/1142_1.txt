@@ -1,1 +1,3 @@
-I knew this would be one of the worst movies I could have imagined...but in just 20 short minutes it actually exceeded my low expections by being possibly THE worst movie I have ever seen.<br /><br />I have already wasted too much time typing about it...trust me, it sucks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f80251d3977ede3cb9f8440b1a3745c26ee81032b3fe070759d433770f136dc1
+size 273

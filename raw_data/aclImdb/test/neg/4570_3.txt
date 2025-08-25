@@ -1,1 +1,3 @@
-Andrew Gurland's "Cheats" is his fictionalized "true story" about four high school friends who maneuver to cheat on tests. The quartet are: supercilious school-hating Trevor Fehrman (as Handsome Davis), his likewise good-looking pal Matthew Lawrence (as Victor), their chubby school-hating chum Elden Henson (as Sammy), and crooked geekster Martin Starr (as Applebee). The adults include high-strung North Point principal Mary Tyler Moore (as Mrs. Stark) and pornography-loving father Griffin Dunne (as Mr. Davis). The high jinks begin with Mr. Fehrman and Mr. Lawrence supposedly urinating on a teacher's grade book. Put this one at the bottom of the pile; and, be thankful it doesn't go on anyone's permanent record.<br /><br />*** Cheats (2002) Andrew Gurland ~ Trevor Fehrman, Matthew Lawrence, Elden Henson
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d5d2715c9210e7ba6dae8236a45537691b3c56dbdcad8292e106e978d645fc4
+size 811

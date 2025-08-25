@@ -1,1 +1,3 @@
-This is definitely the best movie I have ever seen! It was great to see all the celebrities in the late 80's! Especially Courteney Cox! Barry Bostwick was also one of the best actors in the movie! All the romance and passion is definitely there! If you ever get the chance to see it, don't let the experience slip away from you!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f1b330d541441b7fb3e27bc8fba003a8026dfb7d07bcab6adf8cf5f4e9d3024
+size 328

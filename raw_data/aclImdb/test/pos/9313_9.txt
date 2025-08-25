@@ -1,1 +1,3 @@
-How is bear´s paw, elephant´s trunk or monkey´s brain for dinner? Let Tsui Hark tell you in this wonderful and lighthearted comedy about the art of cooking the traditional(?) Chinese way.<br /><br />This movie shares the common structure of an American sports movie, but instead of focusing on baseball it centers around cooking which makes it all the more interesting. I even think Leslie Cheung´s character look a lot like Charlie Sheen in Major League...<br /><br />This movie also contains a bit of Zhao Wen Zhao vs Xiong Xin Xin fighting (love seeing more of that after The Blade) and a quite funny in-joke concerning a Leon Lai pop song...<br /><br />Perhaps not the ideal movie for the strict vegetarian though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea7faad73e3ca87838835cc9ea1105ebc6de739a952864bc063fac6e8df00f4
+size 722

@@ -1,1 +1,3 @@
-Ok, how about this idea? Maybe Dr. Haber saw the PBS version of "Lathe of Heaven" from 1980 and didn't like it, SO he used his brainscan device to force George to dream and alter history. As a result we got the A&E version of "Lathe of Heaven." Curse that Dr. Haber! When will he learn that you cannot remake history? No matter your intentions, if you try to make a politically correct, dumbed-down, Hallmark channel version there can be unintended consequences.. like it may suck. Just a theory. Two stars - one for James Caan and one for Ursula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ec7a65628b2b1a80ad361235fa1b27c132bc561048a493de3dd617f035db15
+size 547

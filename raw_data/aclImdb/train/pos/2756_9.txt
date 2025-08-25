@@ -1,1 +1,3 @@
-I picked this film up based on the plot summary and critics' quotes on the back of the box. I'm not big into foreign films, and didn't know what to expect. I don't really care for subtitles either. But I absolutely loved it! It has a simple, lovable quality that leaves you feeling good about life. I found myself laughing out loud repeatedly. I'd recommend this picture to anyone, even those who abhor foreign films with subtitles. This one makes it worth the effort.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ebe2c9a23e45549e1f9963466e6fafc3e1bd200512e3953580d54eac0a72da
+size 468

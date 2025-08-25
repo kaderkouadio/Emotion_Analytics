@@ -1,1 +1,3 @@
-This film entered production before WW2 began, but was not released until it was well under way. With significant fascist-sympathy in the US, and Chaplin himself being suspected as a communist sympathiser, The Great Dictator was a very courageous endeavour. Such risks in film-making - thinly veiled political statements - would be almost inconceivable today. Imagine the fallout if someone were to make an equally satirical film today which criticised the USA's foreign policy?<br /><br />This film is hilarious, poignant and tragic. The tragedy is that Chaplin makes a plea for the madness to end, but it is already to late - for him and for us. A must see if you have any interest whatsoever in history, film-making, politics or sattire as an art-form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b929d80258553c99ffa8f165bdee08ed60b580eea31d0faa919ab59dc282f145
+size 755

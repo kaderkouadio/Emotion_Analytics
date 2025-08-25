@@ -1,1 +1,3 @@
-No, this isn't THE next big swedish movie. If you are looking for something like Lasse Hallström's "My life as a dog", you better keep looking. The script is poor, the characters are heavily undeveloped and the cinematography is full of clichés. This movie gets a 3/10 only because of Esa Vuorinen's photo (superb) and Nadine Kirschon's debut as the young sister.
+version https://git-lfs.github.com/spec/v1
+oid sha256:353b5ceca13b86297c3802572f6686eb1c1ba5f7caae10b2947c5711ca3a4939
+size 365

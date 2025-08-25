@@ -1,1 +1,3 @@
-This movie is worthless. You can tell it is a unfinished movie. So they added lots of nudity and flashbacks from American Streetfighter 1 to make it a full length movie. But even with all the added on stuff, it still only runs 72 minutes long. It has nothing to do with the original American Streetfighter, which was a good movie. Not even hardcore Gary Daniels fans should waste their time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c89ba750bdecb4ff6b5446e23faed4d931ae32aeb5160ff0d9254895af5f7e6
+size 391

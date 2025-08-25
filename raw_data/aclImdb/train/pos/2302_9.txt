@@ -1,1 +1,3 @@
-Reese Witherspoon first outing on the big screen was a memorable one. She appears like a fresh scrubbed face "tween" slight and stringy, but undeniably Reese.<br /><br />I have always liked her as an actor, and had no idea she started this young with her career, go figure. I actually gained some respect for Reese to know who she was so early on. I say that because whenever I have watched her perform, the characters thus far, in each portrayal she also seemed to have her own persona that lived with that character, quite nicely in fact.<br /><br />Anyway, my first film experience with Reese was the Little Red Riding Hood parody Reese did with Kiefer Sutherland, somehow I assumed that was her first time up "at bat" Not so, well done Reese
+version https://git-lfs.github.com/spec/v1
+oid sha256:648367e4dd81e01a206dffe4fd863b4cba90b819362e64e9314946cdc51297cb
+size 745

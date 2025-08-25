@@ -1,1 +1,3 @@
-Not too good a movie. Sure, it contains action, but the effects aren't all that good for a '08 movie. Gunshot effects are downright horrible. Acting is "meh" <br /><br />It is nothing like Far Cry, other than names and the very basics of the story (genetically enhanced super soldiers going amok). The super soldiers are very different, the mercenaries are different, the setting are completely different (tropical island in the pacific in the game, island in northern-ish America in the movie).<br /><br />I loved playing Far Cry. I loved the story and setting. I hated the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9c9ee281ef56d04e731037714c70cce6cda4380e12888a26f3a77bc8e11f58
+size 581

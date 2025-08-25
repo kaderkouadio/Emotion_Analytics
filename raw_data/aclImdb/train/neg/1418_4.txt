@@ -1,1 +1,3 @@
-I don't know why this conduct was ever tolerated in the movie business! This movie (short) is gross (to say the least)! It is a bunch of 5-7 year old children wearing diapers with big bobby pins, acting like adults (and too much so!). However, it is interesting because it is a good example of how "the good old days" may not have been so good after all! (Thank GOD we have laws against this kind of material now!)<br /><br />{This is one short from the "Shirley Temple Festival"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:815b8447619a929ab48b6e9108a2d63bee1e7046c30d87814794837b27c49f9a
+size 480

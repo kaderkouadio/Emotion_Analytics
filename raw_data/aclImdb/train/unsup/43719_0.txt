@@ -1,1 +1,3 @@
-Perhaps the worst Bette Davis movie ever. So cheaply shot it looks like a college production. Davis acts with the high-pitched little girl voice that she patented in the final reels of "What Ever Happened to Baby Jane?" and, boy, is it annoying. Worse, Jack Cassidy is woefully unfunny as a conservative cop who sexually harasses and finally seduces his beautiful young assistant. Davis keeps those famed eyes covered with dark glasses for about 90 percent of the time. Skip this one: no entertainment or camp value.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8529e533f69882555a91266576ff3bdf5d93775459bd5d739a2a1cb48c28fa9c
+size 516

@@ -1,1 +1,3 @@
-"Beyond the Clouds" is an over-the-top artsy group of four vignettes each a offering a glimpse into a man-woman relationship from the tenuous to the turbulent. Although the film offers superb cinematography, some exquisite visual beauty, and a cast of fine performers, there's little meat on the bones of this fragmented work. A taste of a relationship cannot impart the fullness of it and synergism suggests that much more can be accomplished with one story in 2 hours than with four. Nonetheless, "Beyond the Clouds" will be fodder for dilettantes and a visual feast for the all albeit superficial, stilted, and lacking in substance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5c1cc800638c057be8724a4a2d4229a6dce9d50a83195b1017bd465a049054
+size 635

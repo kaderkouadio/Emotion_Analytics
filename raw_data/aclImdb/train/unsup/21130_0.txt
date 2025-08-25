@@ -1,1 +1,3 @@
-I was fortunate enough to see this movie last spring at a screening at Northern Arizona University. I was a film student at the time, and Doug Raines played it for a few of the students in a small auditorium in Flagstaff, Arizona, where he is an alum.<br /><br />I had a good time watching this film. I can't comment on the score or soundtrack, because it was still incomplete when I saw it, but Mr. Savage does a superb job, and the story and writing are both well thought out and interesting.<br /><br />This is the first film from Douglas Raines' production company, 110 In The Shade, based out of Tuscon, Arizona. I sincerely hope that his business does well and he continues to write and direct fresh material.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e962289f0bf45c2ad2ce2a22186a80dc7ac7802062b04a3bc540390c347e4686
+size 715

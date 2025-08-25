@@ -1,1 +1,3 @@
-This movie was excellent. It's about a middle-aged, middle class single mother with two kids who unknowingly breaks the law. She is then arrested, convicted and sentenced to 20 years in prison.<br /><br />She finds out about these stupid laws that can send you to prison even for just answering a phone call or driving someone somewhere. She appeals her case to courts for seven long years. She never gives up. She released from prison and has her sentence commuted.<br /><br />This law The War on Drugs, was made in the '80s. Although, it makes no sense it was passed. Currently they are trying to get these laws abolished.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9ec5b2ad00eff2f5fa50a497340569b28b8faa2a743dcb32472d357926a86bb
+size 624

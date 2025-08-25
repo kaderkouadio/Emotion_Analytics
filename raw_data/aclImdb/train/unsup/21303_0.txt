@@ -1,1 +1,3 @@
-Jack Ryan III confirms why he can't be a James Bond for the nineties - he's just too boring, although Ford does try his hardest.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c18e150dbd86ccceab8c1b0c59c9e64834c8950a8e713633d90c2ff36be7348f
+size 128

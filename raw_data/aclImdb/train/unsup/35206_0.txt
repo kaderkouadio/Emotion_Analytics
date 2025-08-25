@@ -1,1 +1,3 @@
-I don't usually have a problem with surreal films but this one was deadly. There are some nice visual touches that justifiably lend this movie historical importance but watching it is a misery. The dialogue: "Gonna die, huh?" "Yep." The naked fat woman running around in her house for arcane reasons. The MOST boring characters I have ever encountered outside of a Slasher film. Admittedly all these things have their artistic rhyme and reason, but they're still about as fun to watch as an elderly relative cutting their toenails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73731344b75f59b20952608285624432cae8b3cb64b370f5ec04ddc03d04e0c8
+size 531

@@ -1,1 +1,3 @@
-I loved this movie! Not only was it entertaining, it was educational and inspiring. The soundtrack to the movie was awesome and the several montages set to music moved the movie along nicely. Those who say the movie was boring clearly neglect the fact that the process was slow, painful, and even dangerous. As for cabbleaddict's comments, I think it is sad to even say maybe it had a good ending. HELLO! Women get to vote! Is there a better ending?
+version https://git-lfs.github.com/spec/v1
+oid sha256:42b602b60bdc6e33cae7974f5a931d6ea0025957a4158cbff7cf15e91230b2ca
+size 449

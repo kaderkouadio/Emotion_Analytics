@@ -1,1 +1,3 @@
-A group of creepy monsters terrorize San Francisco.Now it's up to a group of kids to stop them."Neon Maniacs" is a fun and pretty fast-paced flick that I dug quite a bit.It has plenty of violence including decapitations,an axe to the face,a guy cut in half etc.The film ends rather abruptly and it leaves the door open for a sequel,which will never happen I suppose.All in all "Neon Maniacs" is an underrated little flick that surely needs more recognition.One of the best horror movies of the 80's-a must-see for true horror buffs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:024ec6d8f6c0ee6da2654576dda78c270533a8aee72201e9518cb590513adcda
+size 532

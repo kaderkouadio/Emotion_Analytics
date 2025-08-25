@@ -1,1 +1,3 @@
-I saw this in Pittsburgh PA in a small theater there. This movie was a lot of fun with tons of B movie stars and references. A total blast from start to finish with everything you'd expect from a low budget movie. Brinke Stevens, Robert Z'Dar, Edwin Neal, and Tom Savini are especially good. This is by far the most fun I've had at the movies in years!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa011a5f197c8a24a640cb8c97e908b64c505b8a61d7d47e02800cc20c2f880b
+size 352

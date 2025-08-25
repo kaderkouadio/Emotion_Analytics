@@ -1,1 +1,3 @@
-This is one you can watch over and over and laugh just as much each time. We have been on a Keaton fest around here after purchasing some of his films. In this one Buster is mistaken for an escaped murderer and there are lots of chase scenes and crazy scenes but also what is best about Buster - his creativity. The opening scene is really funny and it just keeps going from there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1455b5f3d0bf576282226a91bedac8cea0487cc5eab8a10007c53279a93551d
+size 381

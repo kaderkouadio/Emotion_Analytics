@@ -1,1 +1,3 @@
-Terrible film, terribly overacted, terrible over-used plot. Although this movie sports some well known thespians, they cannot hide how utterly terrible this film actually is. Even accounting for a low budget you cannot but flinch from the attempted suspense which soon becomes repetitive, after 30 minutes I was wishing the unseen alien would just wipe out the motley bunch in one swoop. How an actor from 'the Godfather ' could associate himself with such rubbish beats me. Do not pay to see this film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a103ce4d4d38093280229c397e8e2f20b9d788e25ef2c698ead2d7a6ba24e254
+size 503

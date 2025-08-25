@@ -1,1 +1,3 @@
-The perfect complement to the current news stories about pedophile priests -Brian Cox as the sympathetic pederast!! Apparently, writer/director Michael Cuesta checked his moral compass at the bath house door. This story of a sexually confused youth, a cartoonishly awful father and assorted teenage dregs neither entertains or enlightens. Of course the cosmopolitan critics loved it! It's not provocative or challenging, just nauseating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e467393f4fb750dc6505428dbb18898f0432610cc608aeae61bed817db602961
+size 437

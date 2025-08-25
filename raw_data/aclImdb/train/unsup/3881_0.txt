@@ -1,1 +1,3 @@
-The only thing that saves this horrendous flick is Vincent Price! Otherwise, it's a festival of half-clad dancing girls wearing triple "D" costumes and one of the lamest, most stupid plot lines I've watched in decades! Although I'm an avid Belly Dancer and enjoy watching such "z" grade "fluff" films just to get ideas for dancing, these Terpsichorean attempts hover just this side of burlesque; one of the "daughters of the 40 thieves" even performs a pole dance for Sinbad! I read somewhere that the famed Lilly St. Cyr (yes! the one mentioned so worshipfully in Rocky Horror) designed the costumes. If that's true, then it's no surprise that these women look like stripper rejects.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd391f9abf99cc0a87ca4e98b7b3296d0af88508772448819695f3f77d2c4731
+size 684

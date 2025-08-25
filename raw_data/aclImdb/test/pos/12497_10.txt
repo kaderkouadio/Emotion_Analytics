@@ -1,1 +1,3 @@
-Seeing this show gives me respect for MTV, though i imagine that MTV sees this random, edgy material as its main selling point and is much less concerned with the pertinent truths it expresses. <br /><br />I write and play music for a living and this show gets me really emotionally riled up. For me, Wondsershowzen serves a completely distinct function from most TV. Instead of dulling or distracting the senses, (which can be often really nice at times), it awakens my spirit of right and wrong. It makes me very uncomfortable, but in a very comforting way. <br /><br />I don't think a lot of viewers absorb most of this show's content, but if they do, kudos to television viewers everywhere.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d15394226d9b03fb5a62890fee0fb67a61e0eeb15074a7e85a2537383e8531bd
+size 694

@@ -1,1 +1,3 @@
-It's all there: Two classic anti-hero buddies, a headlong chase through beautiful swedish scenery, guns, violence, sex, and a Butch Cassidy / sundance Kid - style finale.<br /><br />Add a touch of surrealism and some distinctly danish humour, and you've got this excellent road-movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec97ef73e1865cd2ba7dea89bff475014b6aac37f9a9ec980ad0e3bede9c7c81
+size 284

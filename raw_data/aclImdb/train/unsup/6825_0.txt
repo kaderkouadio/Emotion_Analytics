@@ -1,1 +1,3 @@
-"Carnival in Flanders" <br /><br />This a clever, charming film that depicts the womenfolk of a Flemish village winning over Spanish invaders. The mayor's wife rallies the women to use all their power and resources to seduce the Spaniards--and it works! <br /><br />There are some very funny moments involving the vigil for the "deceased" mayor (especially when the court midget blackmails him). Most films about the 17th Century are pretty stodgy, but "Carnival" is delight.<br /><br />I recommend this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb525b629cf73d1c37a497ec16bab37f75be75e18b13370aaad378045b4dbbee
+size 509

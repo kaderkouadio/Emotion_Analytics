@@ -1,1 +1,3 @@
-Don Juan really was Flynn's last big budget extravaganza, and it really is a sumptous production. If ever any one was born to play Don Juan then it was Flynn. Solid support from Viveca Lindfors, Robert Douglas and Alan Hale. The film is up there with Robin Hood and its a shame that it is not more widely seen today. Enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:419114ee46f82bc49d0f6468409b26fc2d12374767b84fdf48ad2a701088c5c5
+size 323

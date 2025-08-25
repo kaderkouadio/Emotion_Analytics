@@ -1,1 +1,3 @@
-I'll not add to the bad comments about this movie, the movie speaks badly for itself quite enough. But, I was surprised to see some people comment on how realistic the newscast was. I think they should switch back and forth between this movie and CNN. The difference is astounding. Even the stupid commercial break gimmick is wrong; how many commercials did we see on the first day of the Iraq war? All of the news people look and sound like bad actors, not journalists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fdcfd5955030a7329208182cdd509270c30197e60f2c464ec2a8ab168bc5401
+size 470

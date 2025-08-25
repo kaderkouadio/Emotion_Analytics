@@ -1,1 +1,3 @@
-Bela Lugosi plays Dr. Lorenz who loves his wife so much that he will do anything to keep her young. This film starts off with a wedding as the bride is about to take her vows she suddenly collapses. She is pronounced dead and taken away by undertakers. Trouble is that these are not real undertakers but body snatchers. A wave of bride deaths at the altar and their body disappearing confounds the police. Enter reporter Patricia Hunter to solve the case. She does track down Dr. Lorenz but he also decides to use her youth to keep his wife young also.
+version https://git-lfs.github.com/spec/v1
+oid sha256:239030adc9787e5ff601624be0a5c0798f9cdd7b5a2be3a09dc39a5bae8eb28d
+size 552

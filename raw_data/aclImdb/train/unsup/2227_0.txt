@@ -1,1 +1,3 @@
-"Suddenly" takes it's name from the small western town where the action takes place. It's a taut drama about an assassination attempt on the President of the United States. This movie's plot does hold your interest, partly because there is an organized, well financed conspiracy involved in the attempt, compared to the "lone nut" from history.<br /><br />Reportedly this movie was viewed by Lee Harvey Oswald shortly before he assassinated President Kennedy. For this reason, Frank Sinatra withdrew this movie from circulation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdc6e7e2c09aaa4c3768fc2ce13631df50be33b6cc5a82face1f9c73832473b9
+size 528

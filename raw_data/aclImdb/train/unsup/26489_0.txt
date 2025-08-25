@@ -1,1 +1,3 @@
-There already is a TV series called "Buried Alive" directed by Patrick Cowap:<br /><br />http://www.imdb.com/title/tt0421302/<br /><br />Based on the DVD cover, my girlfriend bought the Lions Gate DVD thinking it was an interesting science fiction movie.<br /><br />This movie is really just about a man made "Landslide" hitting a condominium complex.<br /><br />There is no science fiction, terrible special effects and a predictable plot.<br /><br />Save your money and watch something else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ff8f8f90aeb5322dd99f95e37bfa50a3f899e7998dd3805508d883c84a9a3a2
+size 493

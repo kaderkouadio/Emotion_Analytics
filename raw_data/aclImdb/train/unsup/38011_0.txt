@@ -1,1 +1,3 @@
-I'm a big fan of Jack Lemmon's dramatic roles but not this one. The movie is about Lemmon and his estranged son played by Robby Benson, who has a deep hatred for his father. After learning Lemmon is dying, Benson tries to make thing right with his father. 125 minutes of Benson talking about how bad of a father Lemmon was, combined with Lemmon's corny jokes, does not not equal a good movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c50e27a52154597e12b08b843a0522f55d64d0a589aea4e6c49fd4b9666962f
+size 391

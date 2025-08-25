@@ -1,1 +1,3 @@
-Not the best of the Val Lewton horror series, but it has its moments. When I think about it, the plot seems very good. A small group of people quarantine themselves on a small Greek island when they discover that one of them has the plague. Boris Karloff stars as a Greek general who becomes cruel when trying to keep order. After the army doctor dies, he becomes superstitious along the lines of an old woman who is also on the island. Somehow, the characters and the situation never come off especially well. It's never bad, but it's never great, either. The finale is quite effective, however. 7/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:954b2b7777c65579973fca371ccd7bfbdf5d1c7cf2c388acf45b014e814f1e58
+size 602

@@ -1,1 +1,3 @@
-Warning: contains a spoiler. Corny plot and in many cases terrible acting. Fontaine is great, but some others, particularly Richard Ney, Ivy's husband, are exceedingly wooden. Ney lies in bed, dying of arsenical poisoning, with every hair in place. Yet the movie is so juicy and so suspenseful. More faithful to the book than most movies of its era. Casting Joan Fontaine as a poisoner (and an adulteress, which was just as shocking then - I'm not kidding, kids) was a masterful stroke. She's just her usual Joan Fontainey self. As murderers were supposed to, she dies by falling "feet foremost through the floor into an empty space."
+version https://git-lfs.github.com/spec/v1
+oid sha256:43234934cda13602625009d56666eabfb34e80af644f71407d5753b30c8c9434
+size 634

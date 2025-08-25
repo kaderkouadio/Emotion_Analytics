@@ -1,1 +1,3 @@
-"Iron Jawed Angels" follows the true life stories of Alice Paul, Lucy Burns, and the other brave suffragettes who fought for a woman's right to be heard in the government. What a fabulous movie!! A topic that could have been boring was brought to life by director Katja von Garnier, as well as wonderful performances by Julia Ormond, Molly Parker, Vera Farmiga, and the amazing Hillary Swank, who brings chills with her powerful monologues. The soundtrack, despite not being from the 1910s or 1920s, is also a great listen.<br /><br />An important piece of history brought to life that all women should see and appreciate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae5d3018bedf22db7cbbf0bf3eea418f1bf823d84b4333e34ae80bb97188b2d5
+size 622

@@ -1,1 +1,3 @@
-I started watching this film, thinking that Richard Gere wouldn't do bad ones. And I was absolutely right. The film had enough intensity that I had to see it all. The manuscript was good enough and the scenes were quite interesting. There were romantic scenes as well and they worked.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6ac6f63390f4e781ba4a7eba1d038a7d9ab5a593548b7acff8b3f11e93fce40
+size 284

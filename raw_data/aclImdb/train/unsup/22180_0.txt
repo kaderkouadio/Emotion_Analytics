@@ -1,1 +1,3 @@
-I love this movie. This is heaven for an action movie fan. From start to finish, bullets flying everywhere, bodies dropping everywhere, nobody ever reloads, and there is almost no plot.<br /><br />Of course this wouldn't work except the action scenes that chew up the majority of the screen time are so brilliantly choreographed and filmed that you forget all about silly things like plot and realism. John Woo is a genius, and this film shows the true extent of that. Hollywood action directors think that someone walking into a room and shooting someone else is a throwaway scene that's barely worth the time to capture on film. They only give their attention to the big special effects scenes. John Woo sees the potential in EVERY scene and films to bring the maximum amount of excitement from everything.
+version https://git-lfs.github.com/spec/v1
+oid sha256:990c171f1b49ac8f4b5cf00f20430a8d4f4b876087fd992875e26b2ffc548195
+size 808

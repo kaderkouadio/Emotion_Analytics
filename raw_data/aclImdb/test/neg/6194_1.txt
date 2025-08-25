@@ -1,1 +1,3 @@
-Director / lead actor Dutcher revels in this look-at-me film, wherein he attempts to gain worldly acceptance for tarnishing the otherwise very upbeat world of Mormon missionaries. Some of the acting is fair. But some roles are unrealistic, i.e. the ominous (rather than fatherly) Mission President, etc. The film does give a fair look at how some missionaries may struggle with their faith, but the actual missionary program he claims to represent is far from his concept of it, in terms of being upbeat, cohesive, and inspired. The only inspiration I see in this film is Dutcher's self-inspiration. The film is slow and boring, and the shooting and screenplay look like a college student project.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c36831105143df1f0840f1a365292d14631f173b8bf88c824497f4b93f81f2
+size 697

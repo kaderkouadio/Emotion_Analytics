@@ -1,1 +1,3 @@
-Well written, well acted, well photographed, well directed but absolutely hideously edited horror film. Good editing should be invisible. It should never call attention to itself. The editing in THE FRIGHTENING makes the film unwatchable. There are these absolutely ridiculous and unnecessary flashes of white every two seconds. This makes watching THE FRIGHTENING about the same as experiencing Chinese water torture. What were they thinking? Brinke Stevens makes a nice cameo appearance, and the lead actor who plays her son is very good. I can't believe a director as accomplished as David DeCoteau would give his movie to an editor who made the film an unwatchable experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d93a4bd8fb93fe4f4acdff3aa60cf02ad38a163b9428e3fb6326f69d71b3c5
+size 680

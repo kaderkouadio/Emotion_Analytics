@@ -1,1 +1,3 @@
-After waiting so long for this title to be released I have to say I was rather let down. It did not have the feel of the other films (aside for the chronic overacting)and thus left me feeling as though I was watching any old "camp in woods, people dying flick". Nothing felt right about it. The mean kids were not mean enough by a long shot, the lazy camp staff just plan pointless and useless and the horror, well Maybe I watched the sanitised version but it was all but non existent.<br /><br />The one saving grace of this film, the Cancer Inflicted Cop. I am not sure if his character was meant to be so intentionally funny but I found it hard not to laugh each time he had screen time. <br /><br />Oh and no prizes for guessing who Angela is after the fist 10 minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91240cbc210a1232b96ec3b4e4e212b24fb43167e8047daafa932472ca05f96d
+size 773

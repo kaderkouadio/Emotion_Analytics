@@ -1,1 +1,3 @@
-Should you wish to see the worst film ever made, look no further. Some wretched movies are watchable because they are unintentionally funny. Alas, American Movie has no wit at all, no unintentional humor, just obscenities thought by its director to be laughable.<br /><br />For those who liked this film, I suggest you watch Kevin Smith's "Clerks," similar in tone. In Clerks you will find creativity, wit, and enjoyment -- all on a shoestring budget. It should make you forget this hideous effort.
+version https://git-lfs.github.com/spec/v1
+oid sha256:495c63710a5cd5f44f69b5ed4c4b3d66866502d6f35d1896d0a4495cbdf38980
+size 498

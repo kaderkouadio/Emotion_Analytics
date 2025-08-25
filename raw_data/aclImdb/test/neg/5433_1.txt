@@ -1,1 +1,3 @@
-If you can make it through this flick without laughing out loud at the screen, you are a better filmgoer than I.<br /><br />Count the logic lapses, common-sense leaps, and credibility stretches... betcha need more than two hands!<br /><br />P.S.: If one more film uses a location that is clearly UCLA, and claims that it is a different university (in this movie's case: Berkeley), I'm going to lose it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f38a108c4804899de3ae1622a0382e98a0b32832b5442eabdcd74a78b58ecba
+size 402

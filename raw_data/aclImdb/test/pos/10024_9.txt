@@ -1,1 +1,3 @@
-While I can't say whether or not Larry Hama ever saw any of the old cartoons, I would think that writing said cartoons, file cards, and some of the comics would count for something.<br /><br />For fans of the old cartoon, this is pretty much a continuation of the same, except with a few new characters - and a more insane Cobra Commander.<br /><br />We still have all the old favorites too, but on a personal note, one thing that always irritated me was this "Duke in charge" stuff, when there are tons of other *officers* around instead.<br /><br />The battle sequences are similar to the old series as well; the main trick here seems to be the CGI. It's overall pretty good, if not a little over-the-top.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31038452cbb4a1b90acf6f084eeb50a9e5410faa73a809bc59bdcb92ea657c3a
+size 707

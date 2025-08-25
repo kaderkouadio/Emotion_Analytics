@@ -1,1 +1,3 @@
-I saw this film as a student, when it first came out. As someone who was involved with important issues like the Vietnam War and civil rights and free speech, I was totally offended by the film's nihilism, the ideas that students demonstrate just because that's what today's students do, and that there are no substantive issues involved. The film is all about the main character's life style and sex life, and (as I recall) his meaningful, altruistic, innovative, and condescending attempt to teach literature to ghetto kids by getting them to read comic books.<br /><br />In addition, (as I recall) we are clearly supposed to sympathize with the main character for being in trouble because he was caught cheating at an exam. At the schools I went to at the time, we took our politics and social issues seriously, but our academics no less so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c2a13ad04e0468f1500da2706a58af9f7dfbe50f1ada5b01bf8c79d082a87c7
+size 844

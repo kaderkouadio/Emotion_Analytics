@@ -1,1 +1,3 @@
-For fans of Chris Farley, this is probably his best film. David Spade plays the perfect cynical, sarcastic yin to Farley's "Baby Huey" yang. Farley achieves strokes of comic genius in his monologues, like the "Let's say you're driving along the road with your family..." bit, the "Jo-Jo the Idiot Circus Boy with a pretty new pet, (his possible sale)" speech, or the "Glue-sniffing Guarantee fairy" brake pad sale. The sappy moments in the film contrast sharply with Farley and Spade's shenanigans. Even after many viewings, it's still fun to see Farley pour everything he had into the role. "Richard, what's HAPPENING to me?!?!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eddefd49e4cc4a8e5bc007c47a3f82310f186ec3169a7a996d2dab03d948897
+size 629

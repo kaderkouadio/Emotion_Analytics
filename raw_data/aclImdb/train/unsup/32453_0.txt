@@ -1,1 +1,3 @@
-With a script by the infamous Edward Wood Jr. and the sleaziest of juvenile delinquent plots - Voila! Instant camp classic!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb09c7c223e8df9957a0f0324a702eb90f3efeb66aeeb69163109be44ac21420
+size 123

@@ -1,1 +1,3 @@
-This is the most brilliant idea for a reality show ever to come about. Basically, eleven or twelve teams of two people with a pre-existing relationship (married, dating, siblings, friends, etc.) participate in a race around the world for one million dollars. During each leg of the race, contestants must complete a certain number of tasks such as bungee jumping, sky diving, rock climbing, or hang-gliding. At the end of each leg of the race, teams have to check in to a pit stop, at which the last team to arrive is eliminated from the race.<br /><br />I love this show because it creates a lot of drama when people can get eliminated and because it's cool to see all these different places they get to go to.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a6ddb537fce0b9d5a2e16288c7da4047811abbaca2da3d262dab3c7e6b0300
+size 711

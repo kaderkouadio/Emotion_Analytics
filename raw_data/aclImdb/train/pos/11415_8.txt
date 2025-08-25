@@ -1,1 +1,3 @@
-This is a great movie to see with your girlfriend. My friend and I both love dance and ran into this movie at the video store. We had to get it. With no violence and such a warming story its a great movie to relax to and just enjoy your night. I would recommend this movie to any family or just a bunch of girls looking for a cute movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dd68e116d8e83cd35e401278e5a8237b5921e62d546a778974afb28bc3ac105
+size 337

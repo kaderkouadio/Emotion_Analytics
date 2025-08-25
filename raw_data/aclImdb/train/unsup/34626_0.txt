@@ -1,1 +1,3 @@
-A movie that is truly a blemish on Bollywood. I saw it on the next day I saw "Gulaam" on TV. I kept wondering as to what prompted Vikram Bhatt to make a movie that made no sense at all. The opening sequence are straight rip-off from "Matrix" and "Crouching Tiger....". Once that is over, the picture takes turn for worse. The story line makes no sense, none of the actors seems to committed to the movie, comedy is crude and vulgar, music is torture to ears, and one can't help shutting of the VCR. I wonder what trash is imposed these days in name of entertainment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14a532a033c3984907ec5607c93d30ca7365c9a816447e9b2d1f55607b681f94
+size 566

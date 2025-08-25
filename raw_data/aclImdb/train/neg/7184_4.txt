@@ -1,1 +1,3 @@
-This wasn't really a very good movie. There were lots of implausible and predictable things that happened during the course of the film...but I think that most of the reviewers are missing the point of why this movie should be enjoyed by a wide audience. THIS MOVIE WAS PRODUCED BY MAGIC JOHNSON! Isn't that enough to inspire us all to check out this film? A film produced by a former NBA star doesn't come along every day, you know. Beautifully stupid kids in a big house getting slashed by an axe wielding psycho. Every cliché trotted out for us to groan over. Teen sex. And it was all produced by MAGIC JOHNSON! I can't say enough about this movie! Teen drug use! College hijinx! And it was all produced by MAGIC JOHNSON! Yippeeee!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a29f11909310547786fe452734a3986947babddbdb48d0da676f7a616a6950
+size 735

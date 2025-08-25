@@ -1,1 +1,3 @@
-This movie is bad in every respect. The direction is bush-league, after-school-special quality. The acting is bad. Mare Winningham sleeps through this dog, as I did. Anthony Edwards did an OK job of acting, but he seems to be as disinterested as I was in this movie.<br /><br />The special effects are third rate. The plot idea isn't as developed as it could be.<br /><br />Anthony Edwards needs to rush to the "ER" and have this movie surgically removed from his resume.
+version https://git-lfs.github.com/spec/v1
+oid sha256:223fd949edd823fdeaf5db0dd338d1960a3687909b7449e0ddd7e5eb15c07f56
+size 471

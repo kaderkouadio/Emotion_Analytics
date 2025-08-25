@@ -1,1 +1,3 @@
-This is an excellent thriller. It's balancing finely between a modest genre psycho thriller and a drama about shrinks, traumas, suicide, guilt and the like. The acting of Vincent Kartheiser steals the show, as his character comes out as real and believable. Don't expect it to ge a 'great movie' though, you will have to endure formulaic elements and shallow psychological insights. Best watched without former knowledge of plot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7da7cf3fd946f9755cb1ac07fb4bbe90e7e0f4c70d8ea2b0122a436eff3a942
+size 429

@@ -1,1 +1,3 @@
-Strange yet emotionally disturbing chiller about fed up middle-aged man (William H. Macy) who finally decides to leave the family business (murder for hire) run by his quietly over-demanding father (Donald Sutherland) while seeing a shrink (John Ritter) and flirting with another patient (Neve Campbell).<br /><br />Talk about a major dilemma, but "Panic" is a top-notch thriller that looks like "American Beauty" meets "The Professional". Macy and Sutherland are the stand-outs here. Remarkable debut for first-time writer/director Henry Bromell. I'm surprised that this movie didn't get a chance to stay in theaters for more than a couple of weeks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b29013e432ddbe6cca304ec2140f08528cad8cf4e77298d1e0698eecb9d58ee
+size 650

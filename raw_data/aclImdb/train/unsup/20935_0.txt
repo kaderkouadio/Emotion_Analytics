@@ -1,1 +1,3 @@
-This movie is a laugh riot. Very funny. Jim Carrey is just hilarious. His zany antics made me laugh so much. This is one of the funniest movies ever made and Jim Carrey's funniest although Dumb and Dumber and Liar, Liar are close. I recommend this movie to everyone. GRADE: A
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c3dd3244d0434435f82a574a1598c2e547ffd18267c51959c984e7198f287a
+size 275

@@ -1,1 +1,3 @@
-I know most of Sergiu Nicolaesu's work and somehow in my early childhood back in Romania I enjoyed it. There were mainly war movies going all the way from The Romans and Dacians till The Second World War battles. But this one is a caricature of a flick... No substance, bad acting, no camera movement just to name a few... The actors are incredible dull and shallow and the plot... but what the hack... there is no plot, just a narcissistic character with some gushy women orbiting around him. It seems as it was intended to be a C movie from the start and hopefully it does. So save your ticket and popcorn money for something more interesting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f3deac2e0c9772de233c2d5968bdbb28f38c13e74eaf22c6b7163aaccd05904
+size 645

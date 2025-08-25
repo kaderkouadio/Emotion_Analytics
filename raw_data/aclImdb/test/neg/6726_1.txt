@@ -1,1 +1,3 @@
-One of the worst movies I have ever seen. Seagal has been acting in several entertaining action movies, but this time this movie really sucks. Just stupid killing and really stupid storyline. In addition, Seagul looks fat and old.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d66c3eba18d761e5c3b4d5fd7c1dde8a0e97909a8a97ac95de3917c9b51e41c
+size 230

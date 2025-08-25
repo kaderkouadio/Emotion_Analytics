@@ -1,1 +1,3 @@
-"Crush" examines female friendship, for the most part avoiding the saccharine quality which spoils so many films with the same theme (e. g., "Steel Magnolias"). At the same time, it reveals the power of a sudden passion to overwhelm and surprise. The events depicted were highly improbable, but the underlying emotional truth seemed very genuine to me. Not a film for the speeding-vehicle-and-explosion crowd, but grown-up women are certain to respond with both laughter and tears.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f462adf0faf7aa62e3b7d7ebadb2d53c84949b72166d7be2dbd7acd1da878d0c
+size 481

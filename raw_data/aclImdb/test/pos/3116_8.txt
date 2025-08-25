@@ -1,1 +1,3 @@
-The performances by the male leads make this long-hard-journey west interesting throughout. The soundtrack by the Sons of The Pioneers is one of the most beautiful I have every heard. The journey itself is somewhat episodic, and Joanne Dru is badly miscast. Overall, this is a very heartwarming and heartfelt western.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2e9733bd2f7498b9c1f376f202e1a4d34301c36155fdfa3cd290448b5ec6c9
+size 317

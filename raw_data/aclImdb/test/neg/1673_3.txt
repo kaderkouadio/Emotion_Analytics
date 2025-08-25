@@ -1,1 +1,3 @@
-Like another reviewer, my wife bought this movie as part of a 20 movie family pack. I guess you could say that this was a decent made-for-TV movie for 1980, but it is super-predictable and the acting, except for Robert Conrad, is generally sub-par. The football scenes are nothing special and seem to mainly act as filler for the movie. The movie is very dated now, but a decent remake could probably make this into a good movie. However, is that really necessary? I mean, how many "underdog sports team works together for the big game with the undefeated guys" movies do we really need? This is probably a good movie for your younger kids if you find it in the bargain bin, but a sports movie buff will find it lacking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a4d660d4271e3782acd9866cf1b0aa68eb6699238e80f48b44a85108d1a62e6
+size 720

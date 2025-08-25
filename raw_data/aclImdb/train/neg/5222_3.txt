@@ -1,1 +1,3 @@
-This is really a very bad movie. Why? First of all, the story is bad. It is an artificial story, combining all sorts of things together that make no sense. It just seems a wrong experiment. Secondly, the actors cannot play in a realistic manner. They cannot even talk as an actor should. Why did I buy this movie? And what must I do with it now?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a837ccff9db5562bdc61529e11b90360cb4764c0c51a2be7fdd3d0dfa77c8c8f
+size 345

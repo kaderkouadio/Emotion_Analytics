@@ -1,1 +1,3 @@
-The story can be good but the animation is so bad that makes watch anything but this show. Every character it's very ugly, there no beauty in a single episode. I hope some day Lucas think to make a real animation show with an art good as the greatest scifi animations like Galaxy Rangers (this a real piece of art, no this "Ugly Wars").
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea947e2d84edd28ced81b689aa9dd9e631815a71ab99f56b64183e4d6b77624f
+size 336

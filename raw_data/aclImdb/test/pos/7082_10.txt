@@ -1,1 +1,3 @@
-If you are among the IMDB audience that put High Fidelity in the all-time top 200, then this movie probably is NOT for you. This film is as unhip as Steve Frears is self-consciously hip. Renee Zellweger is excellent as a hip urbane magazine writer who returns to her suburban Bucks County nest in order to care for mother Streep (who delivers yet another hall-of-fame performance). William Hurt is ideally cast and the feckless, faithless, and egotistical husband. If this movie doesn't move you to cry and laugh, then you are much too hip to enjoy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8317403e2d4410c705c58a5327f7cd9ef2cfffdc28ee5e48cd0909447e88ad6
+size 552

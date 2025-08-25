@@ -1,1 +1,3 @@
-The plot is about the death of little children. Hopper is the one who has to investigate the killings. During the movie it appears that he has some troubles with his daughter. In the end the serial killer get caught. That's it. But before you find out who dunnit, you have to see some terrible acting by all of the actors. It is unbelievable how bad these actors are, including Hopper. I could go on like this but that to much of a waste of my time. Just don't watch the movie. I've warned you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:147c3672d2ef450bd956a2c1191a4d358ea7fdcd314286f98119385d7dcfead5
+size 494

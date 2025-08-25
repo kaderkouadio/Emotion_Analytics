@@ -1,1 +1,3 @@
-Set in the 1930's, the movie is about the head of a delivery guard service who faces the challenges of survival in more "modern" times in Canton, China. Man Bill (Man Biao?), a master at Monkeyfist kung fu, confronts Man Pao, a relative about his lifestyle and different vision for the company.<br /><br />A young heir and his great uncle, a family betrayal, a government agent, drugs and foreign influence are all interwoven into the plot filled with old fashioned kung fu action and humor.<br /><br />I wanted to watch this movie because of the director, Lar Kar Leung a.k.a. Liu Chia Liang, whose film credits include: "The 36th Chamber of Shaolin", Chen Kuan Tai's "Executioners from Shaolin" Jet Li's "Martial Arts of Shaolin" and Jackie Chan's "Legend of the Drunken Master". I enjoyed the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef571e82a4407a84fd6d97eb6b50a3d258d5e7bb932f41f26b8bf709b07997ad
+size 802

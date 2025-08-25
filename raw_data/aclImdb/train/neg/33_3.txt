@@ -1,1 +1,3 @@
-This is the worst thing the TMNT franchise has ever spawned. I was a kid when this came out and I still thought it was deuce, even though I liked the original cartoon.<br /><br />There's this one scene I remember when the mafia ape guy explains to his minions what rhetorical questions are. It's atrocious. Many fans hate on the series for including a female turtle, but that didn't bother me. So much so that I didn't even remember her until I read about the show recently. All in all, it's miserably forgettable.<br /><br />The only okay thing was the theme song. Guilty pleasure, they call it... Nananana ninja...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9269c22b9d5ba6063a5dd3fd1670d2e237a691f1d8a756a960f4a222af7d5baf
+size 616

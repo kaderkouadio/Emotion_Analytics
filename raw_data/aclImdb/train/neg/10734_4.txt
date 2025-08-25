@@ -1,1 +1,3 @@
-I have yet to read a negative professional review of this movie. I guess I must have missed something. The beginning is intriguing, the three main characters meet late at night in an otherwise empty bar and entertain each other with invented stories. That's the best part. After the three go their separate ways, the film splits into three threads. That's when boredom sets in. Certainly, the thread with the Felliniesque babushkas who make dolls out of chewed bread is at first an eye opening curiosity. Unfortunately, the director beat this one to death, even injecting a wild plot line that leads nowhere in particular. Bottom line: a two-hour plot-thin listlessness. If you suffer from insomnia, view it in bed and you will have a good night sleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88908d73c005d44ba778a5eb9a4738f48e3c7ed94c2c33dd2d0a541437737162
+size 752

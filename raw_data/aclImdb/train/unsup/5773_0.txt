@@ -1,1 +1,3 @@
-It's doubtful this will turn up anytime soon as an in flight movie. It is a very sensitive telling of events after the crash of Swissair Flight 111 off Peggy's Cove Nova Scotia.It's a terrific tear jerker but not in any shallow sense. Kate Nelligan demonstrates once more what an incredibly powerful actress she is. Not too often does an actress bring moisture to the corner of my eyes. Nelligan captured the horrible loss, sorrow, doubts, anguish, frustration and regrets of a bereaved parent so perfectly and without resorting to being maudlin or melodramatic. The lady is a national treasure! Not that the rest of the cast wasn't terrific too. This is a delightfully compassionate and richly human film, very sad but very beautiful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b441017860e91c58ae7d43d9a7c56e267a996d723865ce860845b04d6dcef33
+size 735

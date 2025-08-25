@@ -1,1 +1,3 @@
-I saw this film in 1996 when I was in an English lesson at school. It as since remained one of my favourite films that I have seen again.<br /><br />Its a romantic comedy that is not bittersweet. Managing to do something no other film as done. Completely captured the atmosphere of high school and the small problems that being a teenager throws at you.<br /><br />The dialogue and characters are fantastic and the penguin sub plot is genius...<br /><br />Buy it now. It may look like a film about football, but thats a very small part of the film. So keep an eye out for it. Its on British TV a lot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5974ebdc2ec3bf8bf4cb43ffb0fb2b5fc7d1bf5eab89e5d55ba044f092c068df
+size 600

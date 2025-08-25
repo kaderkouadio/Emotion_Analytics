@@ -1,1 +1,3 @@
-The first atrocity made by director Prince, whom should know better, was casting Elizabeth Taylor in the part originated by Glynnis Johns. E. T. is a total fish out of water in this film. Filming the stage play would have been infinitely superior to this garbage. Only Hermoine Gingold offers some bright moments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a629e9680cded634eb6b3332fdf5424d50f2523d7ed54a83b9c6dfbe765a1de
+size 313

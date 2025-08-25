@@ -1,1 +1,3 @@
-In a performance both volatile and graceful, Al Pacino re-teams with Sea of Love director, Harold Becker.<br /><br />As New York Mayor John Pappas in City Hall.<br /><br />A savvy thriller thats the first film ever shot inside the lower Manhattan structure that's ground zero for the City's government.<br /><br />That the other NYC locations provide the vivid settings as an idealistic mayoral aide (John Cusack) follows a trail of subversion and cover-up that may loop back to the man he serves and reveres.<br /><br />Bridget Fonda, Danny Aiello, Martin Landau, Tony Franciosa and David Paymer add more starry brilliance to this gripping tale of power.<br /><br />And the power behind power.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc776d6409f0b56cfa9c3d308cc4f27be6a2e9a4fe09f4969db0fb3170e9152
+size 694

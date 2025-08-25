@@ -1,1 +1,3 @@
-WARNING!! This review may contain spoilers. The back of the box is misleading. It says all this crap about kids telling ghost stories, which they do, but then it implies that they will all be killed by some killer in the woods. This doesn't happen. The stories they tell are a little interesting, specifically the one with the dog and all that licking, but most are rather boring, monsters in the woods, some mute girl, and the main one, the whole movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e4556680fc8cd19bf4c03b39a33a81dc547334780cc21676c77b517746d58b
+size 454

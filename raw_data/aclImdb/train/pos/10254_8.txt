@@ -1,1 +1,3 @@
-I have seen the short movie a few years ago. After that I watch all sequels. The first one is really not the best - but it's the most popular one. I've already watch the making of Guinea Pig 1. It's really great what these guys did. Also the sequels are excellent in the special effects. Take your chance to watch it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:13e2d965ce9a34f5303637f918a19dd4598dd87b4d41f1a2f7f12637b25555a1
+size 317

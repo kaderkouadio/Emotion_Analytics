@@ -1,1 +1,3 @@
-This short from The Hire-series looks totally different than the other ones. It is more real, like news footage. The Driver, of course again played by Clive Owen, has to save a war photographer (Stellan Skarsgard) who is shot. No funny moments this time, but action and suspense. Very well done.
+version https://git-lfs.github.com/spec/v1
+oid sha256:961defc1197b5d21ad47559a1ba1b6c7f1163e0167d67e9f8a113bf9ea9a1857
+size 295

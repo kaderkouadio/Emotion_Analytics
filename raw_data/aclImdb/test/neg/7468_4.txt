@@ -1,1 +1,3 @@
-I saw Grande Ecole at its world premiere on the Rotterdam Film Festival. I had no idea what I was entering and if I'd had any idea I wouldn't have entered. This is the most pretentious film I've seen for a long time. It tries to be provocative, yet deep, with its full frontal homosexual sex scenes - it doesn't succeed! It's nothing but another bad excuse of showing naked persons on the big screen. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a3ce311d2d14163bd81683d351e9f18ec1946f2bf19335a50b48e57400e54f
+size 405

@@ -1,1 +1,3 @@
-I have an affection for these twists on British social norms and it is rare that one loses me. But Our Betters did lose me a bit. It's a tale of social climbers and their joy at breaking the rules but personally I found it a little dull. <br /><br />I liked the duchess though she whines a little too much and Constance Bennett amiably fills the role of Lady Greyston, a role that Bette Davis could have played backwards.<br /><br />But the movie comes the life in the third act when Ernest joins the party. He is so lively and fun (and in truth probably wears more makeup then Lady Greyston). He gets the last line of the film and it's a gas!
+version https://git-lfs.github.com/spec/v1
+oid sha256:adbb11f753d643133d8c4e4b0ccf922d084505e2aea95ce0b7a3b53ceba9344a
+size 643

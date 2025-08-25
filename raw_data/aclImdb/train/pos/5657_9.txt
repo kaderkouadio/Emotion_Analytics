@@ -1,1 +1,3 @@
-I remember watching American Gothic when it first aired, it came into my mind recently, all I could remember was the same guy appeared in Midnight Caller, which is Gary Cole, I don't watch much TV, but I watched American Gothic, I purchased the Complete Series on DVD this week,& it's still as good as ever, This is one of the best TV series ever, the reason I don't watch much TV is because it's just rubbish that's on, except for Derren Brown, it's all Reality TV or Soaps, such as Grease, Big Brother etc, i'm fed up with it, I got the Complete Series of American Gothic for £16.97 form the Asda website, that's the cheapest I can find it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af49ebb1309f92d3e0ad563f4fc13c78d5d9af513b2398c6a2a7fa9d44d7248c
+size 643

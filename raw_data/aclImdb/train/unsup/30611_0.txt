@@ -1,1 +1,3 @@
-Well, what can I say. This movie is a slow, typical swedish crime story on the silver screen. As such, it's nothing spectacular. But since I'm a journalist, I can appreciate the many scenes taking place at the newspaper. They are good, if only a little too tame. If people only knew how cynical journalists really are, they'd be chocked. Sometimes reality's more extreme than fiction...
+version https://git-lfs.github.com/spec/v1
+oid sha256:339236d23a2b2bbc6253281be098d0e6092a1ed6f70827672ffde30d27285fb0
+size 386

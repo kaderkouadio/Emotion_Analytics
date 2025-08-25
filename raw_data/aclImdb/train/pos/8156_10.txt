@@ -1,1 +1,3 @@
-After a big tip of the hat to Spinal Tap, this movie is hilarious. Anyone who grew up watching MTV will love it and if you didn't, rent it anyway,the "My Peanuts" and "A Gangster's life" videos are worth the three bucks alone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd8a4f44dcdfc2ed503860fe2ed1da238f92deaa12bf00e1dd7782f96ba99dda
+size 226

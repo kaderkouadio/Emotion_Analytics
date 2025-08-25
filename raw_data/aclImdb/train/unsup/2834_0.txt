@@ -1,1 +1,3 @@
-After the Alien-debacle Fincher proved all the critics wrong. This film is one of the best in a genre that hasn't been very innovative for a long time.<br /><br />Everyone know's the story by now, so I won't waste time telling it. This film was trend setting with it's dark, gritty look and opening sequence. We still see it copied in movies and TV-series today. Everything is great about this film. I guess if anything, the weakest link in the film is Pitt, who is grossly overshadowed by Freeman. But let's not look for flaws when there really aren't any. The script is intelligent and uncompromising. The direction is innovative en daring. The production-design and cinematography are top-notch.<br /><br />Fincher is one of the big boys in Tinseltown these days. Seven is the reason why.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a401384581d4b362bb2a2a2ad6cd0c3e45c0834801e8155c73b8dcc991ae3aa3
+size 791

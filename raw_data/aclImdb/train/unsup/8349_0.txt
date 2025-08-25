@@ -1,1 +1,3 @@
-this is the greatest movie ever made. i have seen other movies but none are as authentic to the times as boulevard nights. no stereotypes or exaggerated characters. no movie ever made on any budget with any great actors pulled off such a believable urban setting. no m-16 toting ninjas, no nortenos and surenos kicking it together. a common mistake, back in the day, vatos didn'thave gang signs it must take a low budget chicano movie made in the time to be more authentic then hollywood can buy
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa870dfaca194adcc66fa56922f3ebed92078770898d825dfdd8ec2a645b1d43
+size 495

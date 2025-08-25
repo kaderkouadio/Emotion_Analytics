@@ -1,1 +1,3 @@
-I did not hate this movie! It was actually pretty good. The effects were fine, the story was different, and Saxon was pretty good. The Vietnam sequences could have been filmed in my backyard...but this offered enough chills and violence to redeem my rental price of 99 cents. Space Maggot is feeling a little woozy, and cannibalistic, and sucks this a 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ad968705b7d076efd48aac988ebc9c2918d9de97f34361c5331d9af63966c4
+size 354

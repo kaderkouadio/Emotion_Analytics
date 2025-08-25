@@ -1,1 +1,3 @@
-I found the film to be pleasingly acted and very well crafted. It seems to set out as an old fashioned "who dunnit, mystery plot, blackmail plot,etc" but with very modern twists. The director really hit the mark. The ending was excellent, in its own right, understated, but still able to put its point across towards its audience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bfca54442c887dd6d7d91185459d8bbfeb790a302391d48388dc3dfa706ee80
+size 330

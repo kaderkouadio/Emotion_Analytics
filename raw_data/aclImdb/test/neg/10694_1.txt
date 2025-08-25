@@ -1,1 +1,3 @@
-This film is bad. Not so bad it is good. Just bad. It is however hilariously bad. I watched it out of some morbid curiosity and never intend to watch it nor any other Chuck Norris film ever again. If you have to choose between this film and death, you should happily choose this film, however, as it is is a masterclass in terrible film making (hence the hilarity).<br /><br />It is a constant depression to me, as I grind away at my desk job, that some people get to be involved in movie-making and decided to produce things such as this.<br /><br />1 out of 10. Still better than "Starship Troopers" however.
+version https://git-lfs.github.com/spec/v1
+oid sha256:68932904ca330fb2107119acf710110141b0aff85d9795f8eb56f15dcf0c6e26
+size 610

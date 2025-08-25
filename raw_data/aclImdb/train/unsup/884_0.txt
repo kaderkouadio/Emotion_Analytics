@@ -1,1 +1,3 @@
-This is not the most intellectually stimulating film ever made. Nor is it the most believable plot - but it is funny, whimsical and charming, and occasionally surreal. If you want a film to brighten up your life, this fits the bill just nicely. The supporting cast are also very engaging, being far more than just a backdrop to Moore and Hannah. I like it a lot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d14e3c228007a85d9b3789d9599c64b9677c7f1610782400fae4aac524e4660
+size 362

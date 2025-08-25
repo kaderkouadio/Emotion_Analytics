@@ -1,1 +1,3 @@
-Being a D.B. Sweeney fan, I've been on the lookout for this movie for quite some time. I recently rented the video and found it very enjoyable. It had some really hilarious scenes. The dysfunctional lives of some of the characters was unsettling, but I think the movie also showed that it's possible to keep your life on track or get it back on track if it's been derailed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f676589c69897af2964b56f6a5cfac9e09638e7b002c50def59675ff4b63b690
+size 373

@@ -1,1 +1,3 @@
-This film is wacky and zany but just isn't funny. I yawned and cringed my way through it. It truly is the worst film that I have ever seen.<br /><br />I went to see it at the cinema on the strength of the trailer and persuaded my cousin that it looked better than "Dead Poets Society" which was also showing. That was my crime, it was also my punishment. My cousin still complains about it today.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f7c00c28611fd4e6559be814a7e97fd5b1136a45fb35dafff5e6c6440b510c
+size 396

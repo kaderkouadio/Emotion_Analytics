@@ -1,1 +1,3 @@
-In contrast to the user comments posted above, I liked the film. Sure, it was a little talky at times, some characters were just plain unlikable and you truly had to suspend disbelief to follow the film's faux-documentary interviews, which aims to move the story along. But the tangled web of the characters' lives was pretty compelling, especially against the backdrop of New York City. Certainly, it's no Annie Hall or Manhattan--two pictures that this film seems to aspire to--but it's still worth seeing, especially if you like movies with an improvisational feel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56f6a718015a0b1f13bb0aa956ac10d39ba4c62c2dce74e06c3c9bafe959fb13
+size 568

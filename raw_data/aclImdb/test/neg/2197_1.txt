@@ -1,1 +1,3 @@
-We can conclude that there are 10 types of people in this world.<br /><br />Those who understand binary and those who do not. Those who understand binary put this movie to its grave along with hackers, while those who do enjoy this movie for the sake that none of this crap could happen. Ever.<br /><br /> For a movie to attempt to be a modern movie with fiction applied to it. It has failed. Horribly. Only a 11yr old and below can enjoy and only 30yr and up could be scared to have their identity taken. It losses out on the main market for a resale value(i watch it now it is more boring than when it was first released).
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbf740bf9590f2dd06a6301f64fc21b767ec43e595092bfddfffa16e55fdb9b1
+size 624

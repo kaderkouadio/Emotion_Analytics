@@ -1,1 +1,3 @@
-At times this documentary was disturbing, talking about pogroms and mass slaughter; then, in the next scene, the topic will switch to Monty Python. And Terry Jones (a former Python) actually makes it work! Watch it (provided you have 4 hours on your hands). You'll learn lots and won't get bored--I promise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e26f3be9c35e564ee3d9954c8c8ddd14c56da768321432fe4cac5617c510bda8
+size 307

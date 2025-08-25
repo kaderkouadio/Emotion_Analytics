@@ -1,1 +1,3 @@
-My God, this is funny stuff. Yes, it's puerile in the extreme, but also rather witty ("Here's the page with all the wines on it." "It's a little early for us, I'm afraid." "Well, what are you doing up then?") and the fight sequences are second to none. Despite what you may have heard, the laughs *do* keep coming, and at a surprisingly generous rate. The sheer comic abilities of Rik Mayall and Adrian Edmondson help keep it riotously funny. wringing every drop of comedy from the script. I can only compare it to "Fear and Loathing in Las Vegas" - you either find that film hysterical throughout or not at all; the same applies here. It's probably the funniest British film since "Withnail and I", but to say it's an acquired taste is something of a gross (sic) understatement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef74627edbe9e1e2d8f1db027d80cb3c9b60b2f7d7337419c2c8eb10c8916c8f
+size 779

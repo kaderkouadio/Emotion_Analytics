@@ -1,1 +1,3 @@
-About 4 years ago, I liked this movie. I would watch it over and over and over. But now... I don't. Actually, I think this movie would have been great for Mystery Science Theater 3000. It has a bunch of comment-heavy actors (Macaulay Culkin, Christopher Lloyd, Patrick Stewart, Whoopi Goldberg), and a pretty cheesy plot. My favorite part is when Culkin is riding his bike and he comes across a gang and a gang member says, "Hey, Tyler! Where ya goin'? The MOON??" Also look out for the classic line, "Do you have feeling in your toes?"<br /><br />On the other hand, it's better than "The Good Son".
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9cd77da1e5904082384e5ccea9fcda9851c277575f62f24a1b22bb0f7e9ad7b
+size 599

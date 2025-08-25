@@ -1,1 +1,3 @@
-Fulltime Killer was very stylish. It has a good story and some good twists. Although they had to flesh out each character as much as they could, and keep the story going smoothly, some of the characters were not fleshed out as much as they should have been. I didn't read the book, but I am sure things such as Tok and his Brother's illness were more in depth in it. Good performances all around and some great action scenes. There was a good blend of language in it too, which kept it kind of interesting, and yet could throw some people off of what is going on. Though the assassin characters seem almost invincible, unlike most John Woo films they also have unique personalities and are likable. I suggest anyone who is a fan of shoot em' up type crime films should see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75df4e6507d12fd10e7a7b669cf22bd81753e0751a440e9dc426afb22f6c57cc
+size 776

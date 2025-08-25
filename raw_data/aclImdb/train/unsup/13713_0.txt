@@ -1,1 +1,3 @@
-This is a startling, disturbing and generally unpleasant tale of the darker side of the psyche. The cruelty and manipulation exhibited degraded both the giver and the receivers. Nevertheless, it was thoroughly convincing as a depiction of the few central characters and absorbing in its unremitting sadism. Although previous movies have begun with a similar premise, they have always ended with some form of justice or redemption. Not this movie, which somehow manages to become even more loathsome. The story is intriguing, the acting is convincing, the dialogue is intelligent, and the direction basic but apt. In all, although this was a thoroughly nasty movie, it was still quality. My vote 7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:b038a397bd6ad7f1fd24a1a72d56bd33e224bf0c2bad67c6c0470f8cdcc4ed0b
+size 699

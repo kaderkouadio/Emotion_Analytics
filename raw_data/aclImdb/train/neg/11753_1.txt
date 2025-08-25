@@ -1,1 +1,3 @@
-tries to be funny and fails miserably. The animation is just terrible, looks like a 2 year old threw it together in his sleep. Plot is dull and cliched. IF you have a young child, maybe rent it. but don't waste hard earned money to pay to see it.<br /><br />1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ad2ab292fd98db04137e67c9646b7e4b2361a54e0802f3417030932b3c7ae2
+size 262

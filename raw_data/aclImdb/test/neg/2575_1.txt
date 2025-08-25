@@ -1,1 +1,3 @@
-Forget the fact that most people expect an action movie form Seagal. This movie simply had no substance. Very long, drawn out, and boring. Scenes were much longer than they had to be - the camera would often focus on something for long periods of time when absolutely nothing was happening. Cure for insomnia. Worst Seagal movie by far (I do like some of his other movies). 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:f611f1524ded044000c0b0d0afb70b3fcf4a9a991fb985cb1587b68dbc3b7168
+size 378

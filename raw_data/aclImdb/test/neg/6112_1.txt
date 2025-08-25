@@ -1,1 +1,3 @@
-A good friend of mine one said: "A monkey is funny, anytime, anywhere." There is one exception to this: GOING BANANAS. It is quite simply the WORST MOVIE I have ever seen. It's worse than PLAN 9, worse than THE BEAST OF YUCCA FLATS. It is TERRIBLE. The talking monkey gag gets old after about three minutes, and believe me that's all there is. Make sure you have a bunch of people around to revive you after you go into TOXIC SHOCK from GOING BANANAS, the worst movie ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56f6f8800b7d67726d6bb1c9e7aa2045f9f232fe73bea27d180bc2ec2f9c8e6a
+size 473

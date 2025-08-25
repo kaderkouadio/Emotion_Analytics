@@ -1,1 +1,3 @@
-Went with some friends and one of my friends mom, thinking it would be a good way to start off the spring break, but the movie turned out awful. We all agree it shouldn't have been PG-13. More like R material. Lots of sexual dialog, cussing and referring to boy and girl parts (below the waist). Not worth the time or money. Strongly urge you not to go, or rent it when it comes out. If you do end up going, don't take smaller children. Not the type of movie to see with the family! If curious about the content, check out the content advisory section on the Superhero Movie page on IMDb. Most of the content that was meant to be funny was extremely crude. Especially when they make fun of Steven Hawking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8f736074a96ca1f5404a4866bab8ed7892a478e05af545b81ebba523abc869b
+size 705

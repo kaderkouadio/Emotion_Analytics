@@ -1,1 +1,3 @@
-I worked on this atrocity ten years ago. Luckily for me, no one knows it because I didn't make the final cut. And when I saw the movie in the theaters, I was glad! My agents were driven nuts by the (apparently first-time) filmmakers, rewriting the script daily and changing their arrangements with the agencies just as often. They later told me that, once back in California (we shot in Atlanta), these "professionals" had 4 1/2 hours worth of footage! Even edited down to 90 minutes, it's at least twice as long as it needs to be. I found Hulk Hogan surprisingly charming, but otherwise -- what a waste of film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:783184ea6436732e9626b8050298e64b7415bb0fab3c4f54081a251ec265b1b0
+size 612

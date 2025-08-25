@@ -1,1 +1,3 @@
-I love Menzel movies and this one is my favorite of all of them. Even it's into my ten favorite movies of all time, like The Godfather, Blade Runner, The man who shot Liberty Valance, Amarcord or La vida en un hilo. It's poetical, romantic, erotic and funny. A kind of humor that moves from intelligent talk to the purely slapstick, but always in a universal way, that everybody can appreciate and enjoy.It's a movie that tries to make you feel how pretty are love and life, and if you let your senses and soul go into the story, when the movie finishes you can feel yourself better than at the beginning. Enjoy this movie so you'll enjoy life...and beer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb77b548daee8ac98fa100bc255c2d2b5c7d1ff51bcd06b11d7db95863e95cb3
+size 655

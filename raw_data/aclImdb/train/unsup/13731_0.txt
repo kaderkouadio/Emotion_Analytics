@@ -1,1 +1,3 @@
-When I rented this film I had heard a lot of good things about it. I also heard that it was a comedy. It was in the comedy section. It was promoted as a comedy. IT WAS NOT A COMEDY! This is a very serious film that is sometimes very difficult to watch. Moreover, the ending is very depressing. Eckhart plays the biggest jerk in the history of film. A good movie that you will probably not enjoy watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6e83ee6c756b1f7dca7bb5848947b2c1d56ca82cd934d2828bdd5edc91cc42c
+size 404

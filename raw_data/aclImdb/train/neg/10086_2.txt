@@ -1,1 +1,3 @@
-I remember watching this film in the eighties as a teenager. But i wanted to see it again, because Traci Lords is now earning a living as a "serious actor". What the hell was going on in the eighties? This is a really bad film with bad taste and bad actors. Definitely a waste of money.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17fb6d3f82684ffadade6572d83c6dbce7aa7e570ddf614911ecbd1d7c61f40b
+size 286

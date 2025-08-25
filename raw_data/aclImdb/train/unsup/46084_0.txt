@@ -1,1 +1,3 @@
-This must be one of the worst movies ever made in recent history. Try to see it on Mystery Science Theatre 3000, otherwise it's just intolerable. The acting is awful, the story so...I can't even find the words. The only redeeming factor is the name of the hero: Zap Rowsdower, which makes me laugh every time I hear it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1be2fe99dfc7a02c8487731cea98c9cd6310d9d7cea5563c6ce8fab163264372
+size 319

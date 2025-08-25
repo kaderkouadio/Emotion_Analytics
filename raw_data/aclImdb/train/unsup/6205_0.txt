@@ -1,1 +1,3 @@
-"Calendar Girls" is a mildly amusing film based upon actual events about a group of mature women in England who, in order to raise money, spice up the annual fund-raising calendar by appearing nude. Except for the script, a lot of effort went into this production. I would have swapped the two leads because Helen Mirren's strong suit is not comedy. There are funny scenes, but instead of being light, a soap opera sub-plot is tossed in mid-way. What should have been a gem, becomes a rock.<br /><br />GRADE = "C-"
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c6268428300f58a0e01e8851de29d4ed109745924a9988c7b1ae964f73871e4
+size 514

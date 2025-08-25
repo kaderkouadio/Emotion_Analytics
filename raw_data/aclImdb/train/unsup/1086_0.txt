@@ -1,1 +1,3 @@
-This is an old film cashing in (in best Hollywood style) on Jackie Chans recent success in the west. The Hong Kong film makers are still the masters of this type of silly action comedy. It's badly dubbed, poorly edited, the plot is silly... but the martial arts, stunts and jokes are excellent and so it's as much fun as all those really old Jackie Chan and Bruce Lee movies. I hope this success will get more of the Hong Kong movies onto the European film circuit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52f72317566fcdf37bdca94dd3ff514866e278ca669e220369d767279e3c6a2f
+size 465

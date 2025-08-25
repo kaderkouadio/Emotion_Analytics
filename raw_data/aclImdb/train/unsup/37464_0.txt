@@ -1,1 +1,3 @@
-You're not likely to see this playing at the cinema. I don't think it'll be showing on TV. The only place you're likely to find this laughable "film" is at the video store. If you do happen across it there, whatever you do, don't rent it. Doing so would put a few cents in Mark Cross' pocket and encourage him to make more "films".<br /><br />I've seen some pathetically amateur films in recent times; up till now, 'San FranPsycho' took the cake as the worst. I now consider it dethroned by this piece of crap. <br /><br />Film School Project is actually being rather kind. If I were teaching the class this was submitted to, I would give it a D-.
+version https://git-lfs.github.com/spec/v1
+oid sha256:315f1bbdff6fdd835685331b6949be506e0bbbf59e499131a6d81ab80b5e46f5
+size 647

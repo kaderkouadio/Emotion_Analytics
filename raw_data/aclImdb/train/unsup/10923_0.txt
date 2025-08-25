@@ -1,1 +1,3 @@
-Although I laughed very much during some of the most gymnastic dance-scenes, I still loved the film. We who grew up in the late 70this and early 80this remember a modern time, but without PCs and play stations.<br /><br />It was a time of music, video-arcades and fun. The soundtrack from Footloose sucks up memories from the past long forgotten.<br /><br />Footloose is really about breaking free from conservatism. Dance, and celebrate life. The youth sensed the time. Cold war. The economic developments. Ecological issues. The increasing pressure to succeed. Being allowed to kick loose and just have fun was a way to express ourselves.<br /><br />For me its a quick trip back to my youth. The only difference is that the actors are much better looking than I was. And I had only my parents to lure,not a reverend to.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bccd32388fcbb8adcce24fe0800ffad598e617afaa9603d2a1524717ce8c1c7
+size 821

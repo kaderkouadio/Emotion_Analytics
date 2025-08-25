@@ -1,1 +1,3 @@
-Too bad, I really like Kristen Cloke and Gary Busey. But the director failed to put this together. There's a lot of action, a lot of promise, but it all comes off hokey. The director didn't do his job. Promising action comes off lame. So much seems contrived in a desperate attempt to save the film. This version of "The Rage" (DirecTV credits it as 1996) simply isn't worth the time to watch it. Another director would have done a better job.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75470db38b3caceef9df8a99d8cec4ba24120ad293afe907f9f7ff5c5a7abc4
+size 443

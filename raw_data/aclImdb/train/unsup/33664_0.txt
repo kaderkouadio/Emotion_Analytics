@@ -1,1 +1,3 @@
-I watched this mini-series because I had seen Paul Gross in Due South and Slings and Arrows. I don't have to be a "spoiler" to say that this was a truly inane mini-series. The issue of Canada withholding water from the USA was an interesting one that was quickly and completely drowned. There was good acting but only in scenes meant to show off good acting rather than to move the plot in any understandable direction (watch the interminable "mother of the prime minister" scenes). Dissecting this misconceived film is hardly worthwhile. Canada has a fine talent in Mr. Gross, but that talent doesn't extent to script writing. H20 does not hold water.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b26aaddcb76a816dc509b6ddbbe7596a8c76b3a7833d724e8d7aa52eb1a2ae27
+size 652

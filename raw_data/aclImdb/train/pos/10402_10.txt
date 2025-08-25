@@ -1,1 +1,3 @@
-I first saw Thief as a child which makes me almost as old as the Jinn I guess. As any kid would be, I was delighted with the imagination, inventiveness and energy of the film. Several years later, I realized how much of the satire and wit of the script I had missed on that first viewing. I have never passed up an opportunity to watch it throughout the intervening years. In addition to the script, the production transcends the fantasy genre. This is Korda, the storyteller at his very best. When you see Thief as a child you know that you`ve had a great time. When you see Thief as an adult you know that you`ve seen a masterpiece. It`s as timeless as the story it treats. An amazing work.<br /><br />Thomas McCarthy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a77bda19bb30c526c54aca1ca7e075f14d0f698b5117802c7380e73cf32d450b
+size 719

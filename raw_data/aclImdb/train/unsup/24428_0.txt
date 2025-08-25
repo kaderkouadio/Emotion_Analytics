@@ -1,1 +1,3 @@
-I just saw this movie debut this evening on HBO. While I felt that all the actors were superb in their performance I also felt that there should be more of a story-line. I also thought too much time was spent on trivial dialogue between Thurman and Lewis about hairspray, what to drink , where to sit in the bar and what not, but maybe that was the intention of the director....<br /><br />I think the desperation that Thurman's character came across very well in her acting ... I did like the interaction between her and her mother and Gazarra but didn't quite buy the close relationship/best friend bond that was supposed to exist between Thurman and Lewis...<br /><br />Overall it was pretty good and I give it a 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:514a04f85b934ba6fcf8028dc36cd7e65b5a7355c22cd76e3fafc5a96818be7f
+size 718

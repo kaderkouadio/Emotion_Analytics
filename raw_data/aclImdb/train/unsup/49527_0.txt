@@ -1,1 +1,3 @@
-Watch this movie only if you have absolutely nothing else to do and need a laugh. It's a typical harlequin movie,the plot is thin, the story's utterly romantic and ridiculous, and the actors don't have much to do but look beautiful, handsome and glamorous. Andrea Roth is playing twin sisters Kim and Dominique. Dominique is an immensely successful model but has taken to the bottle. Her sister, Kim, is an arts professor and aiming for her Ph.D in the same field. They change places when Kim decides to put Dominique into rehab and take her place as a model for a couple of weeks. There, she meets her dream man, helps Dominique overcome an embarrassing secret and ultimately all ends well. Typical movie...not too bad for people with nothing to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44045befd4caac6da6ce741f05c1ab27ca3727e20b127a471a83dac624b8ebc3
+size 750

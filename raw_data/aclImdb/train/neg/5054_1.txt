@@ -1,1 +1,3 @@
-We know that firefighters and rescue workers are heroes: an idée reçue few would challenge. Friends and family of these and others who perished in the attacks on the World Trade Center might well be moved by this vapid play turned film. A sweet, earnest, though tongue-tied fireman recalls what he can of lost colleagues to a benumbed journalist who converts his fragments into a eulogy. They ponder the results. He mumbles some more, she composes another eulogy, etc., etc.<br /><br />The dreadful events that provoked the need for several thousand eulogies is overwhelmingly sad, but this plodding insipid dramatization is distressingly boring.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8a48dd02dc85975cad7c98f17c522a4baaff21c17c10e4f532d2aacf60c1125
+size 648

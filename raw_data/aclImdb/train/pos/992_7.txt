@@ -1,1 +1,3 @@
-I had no expectations; I'd never heard of Jamie Foxx; all I knew was that the film has some strong character actors in it. I thought it was highly entertaining; it was fun. The plot was different and unpredictable enough to hold my interest. To me, Foxx is an original. David Morse is terrific (true, this is not his finest role). I thought the chases and pyrotechnics contributed to the film and were well done. I didn't expect a lot and I was happily surprised.
+version https://git-lfs.github.com/spec/v1
+oid sha256:698e19cd8fc031a78b8bac1fa4c6454c1bfa44a77aea44610275a9b44420c7f4
+size 463

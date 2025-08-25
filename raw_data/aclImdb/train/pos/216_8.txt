@@ -1,1 +1,3 @@
-question: how do you steal a scene from the expert of expert scene stealers Walther Mathau in full, furious and brilliant Grumpy Old Man mode? answer: quietly, deadpan, and with perfect timing as George Burns does here.<br /><br />I know nothing of Vaudeville but this remains a favourite film, the two leads are hilarious, the script funny, the direction and pacing very fine. Richard Benjamin is very funny as straight man - trying to get at Burns through the window etc. Even the small parts are great.<br /><br />There are so many funny scenes, Mathau messing up the commercial, Burns repeating his answers as if senile...<br /><br />A delight.<br /><br />Enterrrrrr!
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a115dc7a085268942e4b4ea14b5547aa4d9b03cd96799c2b22e8ebab3245c3
+size 671

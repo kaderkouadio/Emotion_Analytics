@@ -1,1 +1,3 @@
-SPOILER ALERT You, reading this site, know that this film is a MOCKumentary. I liked this film a lot, and really enjoyed seeing it with someone who assumed it was all true... or at least he didn't begin to question until well into the film.<br /><br />Tell them after if you must, but I think I would have liked it even more if I hadn't known!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d052f43dd957408c99b00c9d67254920bec78810a344b82e2c7ce5f81b037da5
+size 343

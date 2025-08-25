@@ -1,1 +1,3 @@
-I loved this movie! So worth the long running time. I need help with the ending though....<br /><br />*SPOILER*<br /><br />The final shot of Marie at the end - Is this to suggest that she is still searching for Renaud? or possibly that she was the one who wanted to reinvigorate the 13? (she seemed to be the one who delivered the initial letter to Colin in the first place) I don't quite understand it, but I know I really liked it. So if anyone has seen this and remembers it or has just seen it, please elaborate on the ending.<br /><br />Thanks
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9bf6cfa7bbf3f9a6c7f9e7ed08cdabb39015b256f9d568c16d72a954895828b
+size 548

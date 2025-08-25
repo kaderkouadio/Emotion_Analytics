@@ -1,1 +1,3 @@
-A chilling and gory tale of a couple inheriting a 150 room Italian castle while still grieving the loss of their young son. The couples marriage seems to be on the rocks due to the car accident that took the life of their son and left their daughter blind. Upon taking inventory of the castle for a future sale a hideous, tortured and misshapen creature breaks lose from the bowels of the 12th century castle. Pretty gory with great horror atmosphere and some sexual overtones. Starring Jeffrey Combs, Barbara Crampton, Jessica Dollarhide and Elisabeth Kaza .
+version https://git-lfs.github.com/spec/v1
+oid sha256:33ca7094558c82527f5c905a32c45f542c6fb371d5a71bdb6149a0bf3ce7af66
+size 559

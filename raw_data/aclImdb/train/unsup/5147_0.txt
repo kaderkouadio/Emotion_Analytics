@@ -1,1 +1,3 @@
-This film is the famous "Candid Camera" television show in a feature format, and much more Risqu'e that could have been broadcast. But beyond the amusing laughs of Alan Funt's situations lies a surprising glimpse into the uncensored attitudes of American culture in the midst of social upheaval. <br /><br />Prevailing sexual and racial attitudes are both surprising and tantalizing. Taboo subjects are tackled in an unflinching way, without comment by the filmmakers - leaving you an unobstructed view on our past culture.<br /><br />- Andy Somers
+version https://git-lfs.github.com/spec/v1
+oid sha256:98a42a19d9549fa96ccb4eeee741428323d4f2a3d63326de2203ac89da762b21
+size 548

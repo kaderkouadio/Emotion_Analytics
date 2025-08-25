@@ -1,1 +1,3 @@
-I was blown away by Straw Weisman's Man of the Year!! This is truly an ingenious film with strong characters and great acting performances. It is very interesting and holds your attention throughout the film with a unique and creative style. The film has a very impressive editing technique that really helps to define the feel of the picture. I would definitely recommend this movie to anyone!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c593531c59bce9373970174c0063686167733237c3e87eba0457f25f3928a20
+size 394

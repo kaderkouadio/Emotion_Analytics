@@ -1,1 +1,3 @@
-I was really excited when I read "The Canterville Ghost" would be shown on TV. However, I was deeply disappointed. I loved the original story written by Oscar Wilde and sadly nothing of that was transferred by the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f67ce64ec01e9c123a9705046198961e2ba398ad56a70122ee495f556131136
+size 220

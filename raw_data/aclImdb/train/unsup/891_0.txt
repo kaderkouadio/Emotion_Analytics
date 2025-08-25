@@ -1,1 +1,3 @@
-Immediately became one of my must-see's. <br /><br />A blend of comedic timing, good acting and writing together with enough truism's of real life-and the hint of reality-thrown in. <br /><br />Ms. Spelling is not afraid to surround herself with talented actors and share the spotlight.<br /><br />She pokes fun at every aspect of herself, her life and past experience, but the genius is that at the same times she's broken out of the typecast...<br /><br />She has proved, thus far, that she can be a strong part of the creative process that yields great television.<br /><br />Surprised? Yes. Now an admirer? Yes. Keep the laughs coming, Greg
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7bd13981ed8c4d6d84aec691a65c538f085c6d958c149eddada648068dfa0ef
+size 644

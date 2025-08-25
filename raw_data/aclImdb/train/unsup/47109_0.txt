@@ -1,1 +1,3 @@
-Anita Ekberg's the highlight here in a comedy that needed a real villain for Hope and French clown Fernandel to play off. Instead we get a bunch of black-suited Keystone cops types who chase Hope around for the last half-hour of the picture. Lots of weak slapstick stuff in zis veddy zilly French movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:007a28ef6465c22a92f555cc7d95210df784a81f1e591514862a412c2173774b
+size 303

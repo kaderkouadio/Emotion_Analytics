@@ -1,1 +1,3 @@
-Average romance comedy that had bad screenplay and script.Hepburn and Tracy gave great performances though and carried the whole movie on their shoulders.The directing was almost below average as well.The best part of the movie was only the last 10 minutes.Very slow start which will really test how much you love Golf or these lead stars.Only for big fans of the famous Spencer Tracy/Katherine Hepburn love team.......
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c32d275896dffe56e548a654b0d9b743261a822cd4a6c26f06b204df577c453
+size 419

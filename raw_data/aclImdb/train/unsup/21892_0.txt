@@ -1,1 +1,3 @@
-One of the rare times director David Lynch was a hired hand was for this beautiful true tale of John Merrick. With its stunning black and white photography, great attention to detail, bleak but beautiful look at Victorian squalor, amazing make-up work, and wonderful performances from John Hurt as the titular victim of society and Hopkins as the doctor who eventually helps him, this is Lynch at the top of his game. All the pieces come together here for one of the most bittersweet true stories ever put to film. Anybody who thinks Lynch can't make a coherent and meaningful film need only look at this. Horror and beauty are beautifully contrasted here and Lynch gets to the roots of our humanity. One of the view films that made me cry. A masterpiece.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2cde3265a4a3eec88f29c2ece871bdd7d8eb53e3873d472ab06bb705d726a6d
+size 755

@@ -1,1 +1,3 @@
-Alan Ayckbourn's only major stage to screenplay (to date) is mucked-up with a lot of tricky camera work and opened up like a cancer patient, straying far off the path set by an excellent stager re: newcomer disrupting a provincial troupe staging John Gay opera on proverbial shoestring. Fine effort by Tony Hopkins as transplanted Welshman director but to no avail. Films centering on staging plays (NOISES OFF, of note) rarely hit the mark and this is no exception. I'll keep my memories of the Royal National Theatre production and try to forget this plodding mess. Bury it with flick BEYOND THERAPY, another stager gone wrong for a wonderful stage scribe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d404a2e2c5d4a2998e159d09119f503d681e1968df72940a961a8cb9f1819c7d
+size 658

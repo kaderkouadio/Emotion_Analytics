@@ -1,1 +1,3 @@
-This show was incredible!!! I've seen all three and this is the best. This movie has suspense,a bit of romance,stunts that will blow your mind (GO BOBBIE), great characters and amazing locations. Where was this filmed? Will there be more? I really liked the story line with her brother. Looking forward to Chameleon 4 and to see how the world is saved yet again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29b27d49823c3b09ce52a1fd1ddcc3967a894ddfc44535bc9f7924caf894c7de
+size 362

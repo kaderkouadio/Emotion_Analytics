@@ -1,1 +1,3 @@
-I liked this movie and it gave me the "heebie-jeebies" when I first saw it. (I spook easily)It has the classic elements of a good old fashioned Southern ghost story. Throw in a little voo-doo and a New Orleans cemetery and it doesn't get much better. However, having recently seen "Hush, Hush Sweet Charlotte" with Olivia DeHavilland and Bette Davis, there are certain elements that are brazen ripoffs from the DeHaviland/Davis work. Makes me think less of the more recent of these two films. Odd and eerie seeing Ms. DeHavilland playing such an ugly, selfish and mean character...she will always be Melanie Wilkes in my mind. It took me a minute to recognize Agnes Moorehead as Velma....she looked completely different from her role as Endora on "Bewitched."
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f1efc64df43d3a9ddac9df39957f132c1d4f9c6a34b3716f5145b83a908e495
+size 759

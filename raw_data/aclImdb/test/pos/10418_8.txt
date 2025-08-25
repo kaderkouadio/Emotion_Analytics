@@ -1,1 +1,3 @@
-This film did a wonderful job of capturing NYC stereotypes at there best. If you want a simple, cute story however, you won't find it here. The related tales are woven together in a manner that does an excellent job of capturing the close-knit yet contrastingly anonymous lifestyle that is Manhattan. A perfect watch for those who enjoy and can laugh at New York life in its most natural state.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c277f5358a79c8da58325b2163a24d7e413cbf16fb2f74588b7c2adf3ad52744
+size 394

@@ -1,1 +1,3 @@
-While this movie is slow in some scenes, I highly recommend this movie for anyone who loves romance, light humor, and music. If you remember hearing the lyrics "You light up my life," then you should also enjoy the soaring lyrics "If ever I see you again" by the same composer. Of course there are other pretty songs to hear. The story line of this movie is clear, a widower with two children who is tired of his work as a "jingles" writer. Meeting a former very beautiful lover is a romantic way toward change. It's certainly nice to watch a movie that people can calmly talk without yelling at each other. The movie also encourages you to fly coast to coast without fear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65300d375b3eb0364bc8b67ab7bfddaface707cb35869c51f1c55eac1597539a
+size 673

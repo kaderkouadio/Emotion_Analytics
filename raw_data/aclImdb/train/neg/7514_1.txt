@@ -1,1 +1,3 @@
-A low budget effort from Texas that's at least filmed well, but that is little consolation. Bad acting, or, should I say, bad over-acting, a pretty limp story line that's nothing new, bad special effects, bad, bad, bad. Seems like a bunch of young folks are putting together a haunted house for Halloween, which is done every year, but this year things are different. Has a long extended lesbian theme that is not only annoying but definitely fills out the empty spots, of which there are a lot. Putrid, puerile, definitely avoidable, at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93a2f22b371923a8edb80801d85b59776b8fe94c7a0f42114dd4c99fb95746c2
+size 548

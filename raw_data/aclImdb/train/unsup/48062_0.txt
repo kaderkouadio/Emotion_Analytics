@@ -1,1 +1,3 @@
-Mainly because of the technical issues of the DVD = the captions last for 3 microseconds so it is almost impossible to know (unless you understand one of 2 versions of Chinese)what are they saying. And they are forunatelly not talking too much. I rented this DVD because of the comments here on IMDB. Damn, pleople! What the hell did you see inthis movie. Every half-drunk drama/film student can shoot 88 minutes of this thing in 44 minutes. With lunch break included!!!<br /><br />Scenes are slow so without any loss you can watch it on fast-forward. I'm not kidding.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffba1dc842006fd0234d388b3c77c666ba6807360e98fa9433387fecbb7259ab
+size 568

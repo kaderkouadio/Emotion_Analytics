@@ -1,1 +1,3 @@
-This was a decent sci-fi flick. Good performances by Julie Warner and Eric Thal, and of course there's no role that Donald Sutherland can't pull off. Alien effects were revoltingly good. OK, it's not completely true to Heinlein's magnificent novel. Hollywood has a formula, (the happy ending, the obligatory love interest of one or more of the stars, etc.) and any deviation from it is exceedingly rare. That's why foreign films are good, because they are not bound by the formula. I've noticed that great sci-fi movies are almost always originally written for the screen, rather than adapted from books. Books are always better than movies, but science fiction seems to be particularly so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9388f5bca5722b56f496a5f9544b8315b81356565a44d32ef310f67df21b507
+size 690

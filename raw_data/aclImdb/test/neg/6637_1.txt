@@ -1,1 +1,3 @@
-Masterpiece. Carrot Top blows the screen away. Never has one movie captured the essence of the human spirit quite like "Chairman of the Board." 10/10... don't miss this instant classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56eb38d2085e8d7a8615182541f1adf06156cf8fad0853aafe0cde2a2608461b
+size 185

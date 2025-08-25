@@ -1,1 +1,3 @@
-A colossal mess. Badly acted, poorly written, sorely misdirected. The "3 Ninjas" series never needed a sequel, much less the uncountable number it has spawned.<br /><br />The infamous 3 Ninjas go to a theme park in this sequel and use Hulk Hogan to fight off a bunch of terrorists (?). Miserable, putrid stuff. The acting is in league with "Pod People" (1983).<br /><br />Do NOT watch this movie! I feel stupiderererer already.<br /><br />0/5 stars.<br /><br />- John Ulmer
+version https://git-lfs.github.com/spec/v1
+oid sha256:baba50a8b2b19db49b8710b2af5de402040c4a463f5e6192efe1a02e22d0fa43
+size 473

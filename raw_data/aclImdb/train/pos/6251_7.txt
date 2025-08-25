@@ -1,1 +1,3 @@
-It's nothing brilliant, groundbreaking or innovative, but 'Dog Days' is for some reason an extremely fascinating character study. It's like CRASH tripping on a bad dose of heroin, but not really. It's an Austrian film following the lives of several depressed, deranged and annoying people and their abusive relationships with each other. It's disturbing, yet very well-acted and it's interesting to watch the crazy little things these characters do. Certainly not for the weak-hearted, this highly pessimistic film offers no conclusion or revelation at the end, we just see the lives of these sordid individuals over the course of two days. Grade: B
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda6fad594035bf6080b6a82e7da18772ad14834b5155f631fe69f3d960a3f3b
+size 649

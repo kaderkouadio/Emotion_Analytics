@@ -1,1 +1,3 @@
-Natural City is plain awful. Possibly one of the worst cinema experiences I've had so far. Not only are many story ideas badly stolen from scifi-classics such as Blade Runner or 5th Element, but the whole scenario is so pathetic and kitschy that the viewer is constantly fighting slumbering away. Mr Min Byung-chun, if you don't have any good ideas for a movie then leave it be but don't torture audiences with a horrible rip-off of good movies!<br /><br />The CGI sucks, the dialogue is repetitive and boring, the actors are terrible throughout and the action finale is an endless joke. Stay away from this garbage! <br /><br />1/10 points.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e341faf6baaf54705373b8cd24add45037481b6493d4b3c7f8b0104fd0c941
+size 641

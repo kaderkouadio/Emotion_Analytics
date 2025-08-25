@@ -1,1 +1,3 @@
-Do not look at the cover, do not read the back, avoid this movie like the plague! The story is horrendous, everytime the kid mentions his dad lightning flickers in the backround, which is extremely fake. It is a pointless, stupid, absurd movie which should of never of been made. Watch this movie solely if you're in the mood for a comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2a74f95e16c17393ef127f3fcf7d67dc9e4c9876b3fd6e3d5c0966e4397aede
+size 339

@@ -1,1 +1,3 @@
-I liked "Blast". You don't take an action film seriously with Eddie Griffin and Vinnie Jones. The plot is about Lamont Dixon (Griffin) who is an ex-fireman\tugboat captain. He is working on an oil rig at Christmas time when terrorists led by Michael Kittredge (Jones)hijack the crew. Kittredge has a electronic device that can destroy California. Now it's up to Dixon to save the day. Eddie Griffin was a pretty good action hero. Vivica A.Fox goes through the motions as the head FBI agent. Vinnie Jones plays the evil villain role well. No one should care that "Blast" is going direct-to-video. If you want an exciting and funny action\comedy, this is it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c8e1d809b2dfbfc43b5c5b6df471de3556fd8fbf07e1a3f3ef973b4c969050a
+size 656

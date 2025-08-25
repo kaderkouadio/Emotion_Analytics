@@ -1,1 +1,3 @@
-Propably the best movie of Troma inc. Some guy gets nightmares and bad traumas from Vietnam. This movie tell us about that guy, as a matter of fact one (and last) day of his life. Contains lots of gore and nightmare-sessions, what are truly incredible. Truly classic!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b9ee420ed1ecfb6295d0866b4b9d9d833702931453b538085304dff9e164f1c
+size 267

@@ -1,1 +1,3 @@
-Kathryn Bigelow and Mark Boal are already preparing a sequel about a young US corporal in Afghanistan. He also happens to be a highly-qualified surgeon and is roaming freely around Kabul, operating on wounded NATO soldiers. On a particularly difficult mission, he casually picks up a sniper rifle and shoots Osama Bin Laden from a distance of about 3000 yards. He is then finally promoted to sergeant, but is unable to decide between a sniper and surgeon career, so he quits from the Army altogether. One year later, frustrated with civilian life, he joins the Navy and the last scene shows him proudly wearing a white uniform.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d777f35edb8e6221dd325318d3694369d97164bc1b6df7984d79b8da6a7954cb
+size 627

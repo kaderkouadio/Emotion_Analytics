@@ -1,1 +1,3 @@
-this film was almost a great imaginative film. A mixture of shakespeare, pop, jazz, and faerie tales. This movie was an imaginative twist on the Cinderella theme. Featuring a strong cast, headed by the perfectly cast Kathleen Turner, this movie had everything going for it. Everything but production values. I almost never think that a movie needs special effects or big budgets, but with an over the top production like this, it came off with the same seedy quality as every other made for tv movie. Besides better cinematography, this film was almost perfect.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ded5c8e1ba6dd34ada0fd443cf0f5b29cae48bbeff034665ae6128caff2b44
+size 573

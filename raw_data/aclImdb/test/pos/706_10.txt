@@ -1,1 +1,3 @@
-This is a great movie. The best role Peter Strauss ever did. The music is good, the message harsh, the actors great and the story is both emotional and raw. Only in the seventies did they make them like this one!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf29b328974e5a3c4bda18fde25997ce48bc0eb3b679b47423a15e27327b5c7c
+size 212

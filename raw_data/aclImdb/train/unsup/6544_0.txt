@@ -1,1 +1,3 @@
-What an awesome year the German movie scene has been having! And "23" was part of it... definitely one of the coolest (yet most serious) German movies in the last couple of years. While it still sacrifices some realism for the sake of suspense, it's probably one of the most realistic "hacker movies" ever made. I grew up with the same computing stuff Karl Koch uses in the movie, so I loved it. Yay!
+version https://git-lfs.github.com/spec/v1
+oid sha256:99d4a918db225bf242b08d2d389ac231e11bfa8521d53d3d4d0c6623d007ac8d
+size 400

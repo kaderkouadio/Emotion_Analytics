@@ -1,1 +1,3 @@
-This is a great horror movie. Great Plot. And a person with a fear of midgets will definately love the evil midget! This is a must see for any horror fan. Finally a lower budget movie with decent effects and a great cast! Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ae8277f47ff1c5c8a5b667e85cbe74160dc041b6983b9d06994a4fc7b0cb2fe
+size 241

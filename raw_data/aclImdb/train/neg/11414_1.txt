@@ -1,1 +1,3 @@
-This film makes "American Pie" a sophisticated movie! No further comment needed. Humor is cheap, dialogues are stupid and the cast is awkward. Every cliché is used several times without any original twist. And far the worst, the movie turns out to be more catholic than the Pope. It's so sad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3657016207decbbcc836437683d0cadd049b7169e228257d127db7dc395221f0
+size 293

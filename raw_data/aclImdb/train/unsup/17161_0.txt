@@ -1,1 +1,3 @@
-This a series of many different arcs all taking place in Hinamizawa of 1983. With the first episode it kinda make you think this is gonna be your typical cute funny anime. But it's not. It is truly a horror and a thriller anime. Even if you don't like violence I believe most people would still appreciate this anime. In a way it could also fit into the mystery genre.<br /><br />Surprisingly, the arcs do not get old nor repetitive. Which before watching this anime I was afraid of. After each episode you want to watch more. Overall this is an amazing anime and I would recommend it to anyone. (not children though of course since it is quite violent}.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5b5b20bfabe6ca768e6e48ca053116fddc5e47822d34a5dd8ff668f82a4ff81
+size 654

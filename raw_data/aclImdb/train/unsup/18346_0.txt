@@ -1,1 +1,3 @@
-Hodiak is a WWII Marine vet, suffering amnesia and searching for his true identity. He returns to Los Angeles and becomes involved in two million dollars of missing Nazi loot. Look for many familiar faces in small supporting roles. While watching this one, I kept thinking what a great vehicle it would have been for John Ireland...then I checked the IMDB and found that Ireland did the voice-over narration.......Freudian???
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bcc67763e6259fe412c0047e5f779f4b2378a5bb2ada5ed6512891ca9c14d81
+size 425

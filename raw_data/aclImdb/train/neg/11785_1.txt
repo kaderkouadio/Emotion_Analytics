@@ -1,1 +1,3 @@
-Slim Slam Slum is a sad and disappointing picture. There is absolutely no reason to this sorry excuse for a picture. Don`t go there, what ever you do, don`t. Watch TV-Shop for 10 hours straight instead. That way you will be slightly amused.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d5d0ec8882e2b91e1ae37e3d7aa12ee64247d644b849de3c84ca4cc4adb8eee
+size 240

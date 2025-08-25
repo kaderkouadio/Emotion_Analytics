@@ -1,1 +1,3 @@
-Very entertaining, and a great cast as noted. I'd like to add that Bruce Dern did a fine job also, as is usually the case. Worth renting if you can find it, which has proved difficult for me. Also note that the Amazon link from this page currently goes to a different movie of the same name.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a8c84ae1f49f48c213fcaf8fbd622c0d2b2e785d263530bc443ae4c7f85d33
+size 291

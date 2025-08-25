@@ -1,1 +1,3 @@
-I have watched Love Jones over thirty times. It is one of the rare films that depict a love story about people who happen to be African-Americans. The dialogue was realistically written, and delivered with honesty. It was so nice to see a film where the story line centered on young professional African-Americans. This is virtually an untapped market. Love Jones was visually captivating as well. The chemistry between Lorenz Tate and Nia Long will bring memories of past and present love. The feeling of the film is jazz and blues, and brings to mine the sensuality of a warm creamy hot chocolate with a splash of Kahlua and Butterscotch. If you hadn't guessed, I loved it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:856e4d97b7c813d19a6536aab71756b66daeae2e30c055e1ad05eed72a7b5399
+size 675

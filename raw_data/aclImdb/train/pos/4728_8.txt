@@ -1,1 +1,3 @@
-After seeing 'Break a Leg' in Vancouver at the release party I thought it was a very enjoyable film.<br /><br />I had a few outright belly laughs and some of the cameos (Eric Roberts in particular) were a scream. I haven't heard word about actual release date although I've heard it's close.<br /><br />The story is simple but is mainly a vehicle for the characters and situations. The script is smooth and seamless, the plot develops effortlessly and the acting is comfortable yet fresh. This film has won at least one award from EACH of the film festivals it's been in, which is around 10 - 15 or so.<br /><br />I highly recommend 'Break a Leg'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:470c0412ff78fb84fb0c5d806262be64b195b23e7ec254c8ef5e802e29f85c7c
+size 647

@@ -1,1 +1,3 @@
-This movie is pathetic in every way possible. Bad acting, horrible script (was there one?), terrible editing, lousy cinematography, cheap humor. Just plain horrible.<br /><br />I had seen 'The Wishmaster' a couple weeks before this movie and I thought it was a dead-ringer for worst movie of the year. Then, I saw 'The Pest' and suddenly 'The Wishmaster' didn't seem so bad at all.<br /><br />Bad Bad Bad. Excruciatingly bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f908572faabad56d83374399a8784f58cd8874211599f197029c047ac0401bd2
+size 425

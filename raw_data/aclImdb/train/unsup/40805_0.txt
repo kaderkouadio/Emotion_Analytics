@@ -1,1 +1,3 @@
-Cynthia Rothrock, whose first film this is, appears on the video cover and has a couple of fight scenes in the opening 5 minutes. Then her character is dressed up as a ninja for the rest of the running time, except that the woman inside the ninja suit is NOT Cynthia. It's easy to see that from the close-ups of her eyes, and the ending credits confirm it. But even if you ignore this fraud, "24 Hours to Midnight" is not a good movie. The script, full of irrelevant and recycled scenes, is strictly amateur hour, the direction is inept and the "action" scenes are uninspired. The criminal organization that "Cynthia" goes after is supposedly making billion dollar deals, yet its headquarters seem to be a small cheap room. The only bright spot in this movie is a sexy female cop (Myra) - without her I would have given it a "Zero" rating for sure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d201bc35c6bca33ecf6ee30634ea8713e7f6a39c805b79cac68366ae9b82fda0
+size 848

@@ -1,1 +1,3 @@
-The movie, The Right Stuff, like the book is more about male behavior among other men such as constant competitiveness, earning respect among peers, showing who's more competent, who "maintains an even strain" in the face of adversity, who has "The Right Stuff". It also shows that among these male traits there is also a bond, a willingness and need to work together for the common goal, to push your competition to achieve more than he may realize he is capable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95616447bae59082d030a2be86650219ec9ddb497a3c4061f5e5506db726a152
+size 464

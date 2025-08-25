@@ -1,1 +1,3 @@
-Why? Why did they make this movie? If Timothy Olyphant wasn't shirtless in it several times, there would be ABSOLUTELY no reason to watch this movie, ever. Um...Plot? Nope. Well-defined characters? nope. The only time I laughed was when my boyfriend made fun of the whole she-bang. P.S. Andy Dick? Nope.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d52c5ab14da401e4b9a38c239e1cf7b401e6d4e4b1899e6d0baaaf5ee0ffffd
+size 303

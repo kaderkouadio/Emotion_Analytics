@@ -1,1 +1,3 @@
-I'm a patient man, but this bored me. The characters -- and especially our protagonist -- just wasn't compelling enough to capture my attention for all the long, long scenes that inched out the plot. Still, an interesting look inside the lives of a strip club owner and his girls. Has similar feel to Boogie Nights, but without the energy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c8dd9f5420db4ce44de4de2a048ed93096db1cb22718c34058c2051f6c5a306
+size 339

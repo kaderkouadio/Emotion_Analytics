@@ -1,1 +1,3 @@
-After one large movie and this made-for-TV version, why can't someone stop messing around with the true story of the "Great Escape" and present it as it actually happened. The ending also fails to make clear that there were 2 UK-mounted war crimes trials of the murderers of the 50 escapees. Also Burchardt in real life was sentenced to death by hanging at the 2nd trial, but was reprieved. There are loads of other changes from the real events, but then Hollywood and the film industry has rarely cared about accuracy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:663d5d5ee43895155884d1e8f4e0acc9ae0659b9603e67d0ffb03b08383e70c6
+size 519

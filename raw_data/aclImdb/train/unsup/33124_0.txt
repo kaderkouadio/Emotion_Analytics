@@ -1,1 +1,3 @@
-After brilliant documentaries from BBC, like The Planets or The Life of Birds, I'm surprised they bother to sell this c*** on DVD.<br /><br />In stead of checking out "Space" try Armageddon. The effect are better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:649607f34b6a5f5e59ad6d9d3cbd43fe7bf5856132f2827e988c250dd6ab903e
+size 213

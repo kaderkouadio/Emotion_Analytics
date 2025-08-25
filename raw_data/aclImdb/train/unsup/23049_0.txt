@@ -1,1 +1,3 @@
-One Great movie, I've watched it several times. The music in the background is moving---it might not win any awards but if the spirit of Christmas is in your heart, you'll like this movie. I wish I could find the soundtrack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4173e8642ff6f25a4fd646522a0357b4c89f613715620d809520ad06c6549efd
+size 224

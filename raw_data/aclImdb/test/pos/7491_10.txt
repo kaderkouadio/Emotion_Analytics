@@ -1,1 +1,3 @@
-The movie is a riot - hilariously funny yet graphically violent. Just when you think you can't take any more it gives you more. Great thiller. The cast is excellent and the plot is very convincing. The past does indeed catch up with our hero, but right(?) prevails.
+version https://git-lfs.github.com/spec/v1
+oid sha256:736f87702277a46e81dc5643183ce58a8a1a48527efeba8df508adc400b0e8ec
+size 265

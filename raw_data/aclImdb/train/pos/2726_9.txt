@@ -1,1 +1,3 @@
-This movie is up there with the all-time classics. The music, camera shots, and acting are excellent. Showing the movie in black and white gave it a much better appearance and complemented the music perfectly, like Psycho. Its surprising how so few people have commented on this movie. My guess is that its a hard movie to find. I gave the film a 9. See the movie and you'll know what I'm talking about.
+version https://git-lfs.github.com/spec/v1
+oid sha256:834615c41cfa6b7c71fdda87d8b88d1bf67e06fca9a5f3cd1c2c81ad6026a65c
+size 403

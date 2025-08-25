@@ -1,1 +1,3 @@
-There is nothing like an Oscar Wilde comedy, and this movie is nothing like a comedy. The melodrama labors from scene to scene and the comedy is completely absent. In the original story, the humor comes from the Americans who are oblivious to the ghostly traditions of Canterville Chase. The American father even offers some oil to the ghost to quiet the creaking chains. Read the book!
+version https://git-lfs.github.com/spec/v1
+oid sha256:705e94c68195e16b3db87575e8cbbea16c33d4f67dbbac1d83aab27e13b32918
+size 386

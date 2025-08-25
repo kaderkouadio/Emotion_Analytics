@@ -1,1 +1,3 @@
-includes SPOILERS<br /><br />Well we finally we get to learn who Sadako really is. I felt sorry for Sadako after watching this film, it was really amazing to find out what really happened to her and what led her to become what she became. This is definitely the best film in the series. <br /><br />You couldn't help but sympathize for Sadako after seeing how much hatred she had recieved for being different. Her tragic and horrible death at the theatre and her second death when her father throws her in the well made Ringu 0: Baadusei an incredible sad story. To only think that that young and beautiful girl was inside the well for 30 years and couldn't get out (almost) justifies everything she did afterwards.<br /><br />Sadako just wanted her story to be told. A must for all the Ringu fanatics.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb9c164c8e2b5d5c717b2d70e2797256629439d65a1142035181ee497c28a4d3
+size 802

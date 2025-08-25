@@ -1,1 +1,3 @@
-First saw this made for TV film back in the 1970s when I was about the same age as the little girl in the movie.I wasn't able to understand it properly at the time,but the ghost theme captured my imagination.I found it very appealing and intriguing when I saw it again much later on as an adult.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb2563b3e9ea4c0e762c8176bd99167b8dcacedd70349cdbb4aa44199035fd18
+size 295

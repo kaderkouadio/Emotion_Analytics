@@ -1,1 +1,3 @@
-Tycus is one of the worst films direct to video films that I see ever.<br /><br />I am not amazing that this product does not appearing at the cinema.Bad Visual effects (The start is dreadful)Bad actors (I don´t understand Why appear in this film the great Dennis Hopper)and Bad screen Without sense.My alternative:Armaggedon or Twister. SENTENCE FOR TYCUS:Do not watch this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93baca0a9130004c5b6988b736197c476a44de0cf287a32f7ed9814f53c033cb
+size 381

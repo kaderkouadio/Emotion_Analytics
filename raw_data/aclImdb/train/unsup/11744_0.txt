@@ -1,1 +1,3 @@
-Kopps (eng. "Cops") is a Swedish comedy, which tells about a small town with no crime. The police forces are satisfied with that, spending most of their time in a snack bar.<br /><br />But the cops' life stops smiling, when they hear that the police forces are possibly going out of order, due to the low amount of crime. They have no choice, but do something about the too low amount of crime, but how are polices supposed to do that?<br /><br />My favorite character was Benny, the guy who had watched too many Hollywood films. He was often caught daydreaming as a super cop. There is an animated gif-file on the Internet, where Benny beats three criminals without even firing his gun with his hands. Might be worth finding that clip.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e16a46e8be0fc7e90828b4a97420bd50050a12818eb431744376ecfe26122fab
+size 736

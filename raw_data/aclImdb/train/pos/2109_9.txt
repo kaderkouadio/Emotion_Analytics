@@ -1,1 +1,3 @@
-I have passed several times on watching this since I figured it was some dumb, sappy, dated romantic comedy. Well, it is a romantic comedy, and maybe a little dated. However, it is not overly sentimental, touching as it does on themes of office politics, adultery, and loneliness. You think you know exactly where things are headed, but there is an element of unpredictability that keeps your interest, and not everything turns out quite as you had expected. But, there is enough wit and charm to touch the most inveterate cynic. If you meet someone who doesn't like this movie, seriously consider how well you want to know them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7498ce0d8b9bff4378cee9f7802de7616d532d438155bb56006e232c514402a
+size 629

@@ -1,1 +1,3 @@
-The first murder scene is one of the best murders in film history(almost as good as the shower scene in Psycho) and the acting by Robert Walker is fantastic.A psychopath involved with tennis star in exchange murders.That´s the story and overall this film is very good but theres one problem:why dosen´t Guy Haines go to<br /><br />the cop in the first place.4/5
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0a3328fed840f0b580f4eac3c7e51c725ee506ed83117f753c04655316ce99
+size 363

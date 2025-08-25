@@ -1,1 +1,3 @@
-This drama documentary was included as a DVD extra on Pompeii: The Last Day (2003) TV. I started watching it with little expectations and actually ended up liking it better than the main movie on the DVD.<br /><br />One of the main reasons I enjoyed Coloseum: A Gladiator's Story is that the spoken dialog was in Latin. I studied Latin in High School, but have never heard it spoken on screen before. I think the movie would be understandable to someone who did not study Latin, as the narration is in English.<br /><br />I liked the references to Martial (who I have not read) and Seutoneus (who I am just starting to read).<br /><br />This story was not just about Gladiators, but about the political climate of the time and the reasons for building the Flavian Amphitheatre (known today as the Colosseum).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1af8feeea4262f8e96c652256b74e5fa5c93e76379d7364e72f433bd5dc6cdc2
+size 808

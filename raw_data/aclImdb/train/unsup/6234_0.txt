@@ -1,1 +1,3 @@
-A great movie about the prophetic conversion of the Archbishop of El Salvador. The movie details the life of Oscar Romero after being appointed Archbishop. Believed to be the quiet bookworm, a man that wouldn't stir up anything, Romero makes a conversion in order to save his people from the oppressive government. As a result, he is martyred for his beliefs. A great picture to watch and take in.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9a1624c8adf5bb4ff4c36fd344b9ea759ae272117ba2bd6fe07b919507981e
+size 397

@@ -1,1 +1,3 @@
-I let myself get talked into seeing this instead of The Last of The Mohicans.....I should have stood my ground. With free movies passes all the way around, we *way* overpaid.<br /><br />I'm surprised to see this listed under "Horror", but not "Comedy" - although it's neither funny, nor scary. It tries to be a spoof....but doesn't succeed. I didn't connect with any of the characters, and left bored.<br /><br />Don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9faf43b8befc78fbd3aec9017c0d260ae0e861e2320f1fb114ed3a17947e6df5
+size 435

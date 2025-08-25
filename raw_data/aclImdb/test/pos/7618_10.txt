@@ -1,1 +1,3 @@
-This is a truly hilarious film and one that I have seen many times. Drew Barrymore is brilliant as Josie Geller, as is David Arquette as her brother. You cringe with embarrassment at the thought of her returning to high school as the film is a reminder of what high school was really like! Her outfits are wacky and weird, and it brings back memories of those who dressed a bit differently! The gorgeous Michael Vartan was adorable as the teacher (wish there had been teachers like that when I was at high school!) and Josie's boss is fantastic. This is a film you could watch again and again, with a fabulous sound track! One for all those at school in the 90's to watch!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2bee24ecde110edb8b49b733fd8989f4eceed8ac9e3664e1185695455917d5b
+size 672

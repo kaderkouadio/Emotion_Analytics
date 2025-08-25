@@ -1,1 +1,3 @@
-UNCONDITIONAL LOVE is surprisingly entertaining. While the plot goes off in perhaps too many directions, making for an overlong movie, it never fails to charm and ingratiate itself. The several plotlines, one warmly reminiscent of SHIRLEY VALENTINE, provide ample smiles, laughs, wisdom and tenderness. It all shouldn't work, and at times it certainly bumps along, but forgive its inconsistencies, sit back and have a good time. It's a charmer!
+version https://git-lfs.github.com/spec/v1
+oid sha256:edaa038a6f004f8d3d9ba17c84c10129947cbc6451619cf7ebb06aa023c84363
+size 444

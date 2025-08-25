@@ -1,1 +1,3 @@
-The greatest sin in life is being dull, and this movie is crashingly boring. its funny, its left out of his "a life in film" documentary. He goes from a long piece on "Stardust Memories" and then fast forwards to "Zelig". This little piece of cubic zirconia just isn't worth the effort.
+version https://git-lfs.github.com/spec/v1
+oid sha256:089d98bada11d75afae6edf9c8726e3c1902761b23a7914c1ba0135078b49421
+size 286

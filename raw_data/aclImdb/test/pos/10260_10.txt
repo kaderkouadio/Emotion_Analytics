@@ -1,1 +1,3 @@
-This film set the standard for African-American film excellence when it was made. I heard on various stories on the film through time, that there was a push for an Academy Award nomination when it was released. This film plays on various emotions, and you definitely feel for all of the characters. Sure, some of the acting is a little wooden, but fortunately, those parts aren't pivotal. The music is sensational, and if you don't think the ending is a tear-jerker, you have no heart in your chest. If you watch "Cooley High", you will see that many, many films have copied various elements from it in order to strengthen their own films. The biggest example of this is "Boyz N The Hood".
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b581106f52eaccfd00c1212e1f62db1a2451924332bd82dc8a082c7137a95f7
+size 689

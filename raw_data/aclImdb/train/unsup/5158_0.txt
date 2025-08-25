@@ -1,1 +1,3 @@
-Hard to believe that this is from the team that brought us 'The Full Monty', it is embarrassing to think that this may be seen outside of England. Monotonously paced, it never gets out of first gear and there is scarcely a funny line during the entire film, let alone an original one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daa01b26eff8a4cd636759f48bb3349e2052d814fd5faf45167356aa8de2525d
+size 284

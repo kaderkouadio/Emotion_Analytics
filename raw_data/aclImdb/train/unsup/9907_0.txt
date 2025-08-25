@@ -1,1 +1,3 @@
-First there was Michael Myers. Then came Jason. Followed by Freddy Krueger.<br /><br />And now we meet Leo Rook, a psychotic killer who likes white shoes and to collect heads. On his way to prison he escapes from a boat which later crushes into a rock and sinks. A few survivors swim ashore on an island with a Lighthouse, unknowing that someone is already waiting for them.<br /><br />Though an unknown cast and director, this is a very scary and most of all good movie.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8c7e6c27f374d97876979b993dda12fb629d29b2227ab18a9f891bb77b5e21
+size 483

@@ -1,1 +1,3 @@
-This is a very interesting film. I honestly felt I was bored through a large portion of this movie but I could not stop watching. I was wrong I was not bored I was fascinated and intrigued a feeling very rare in the world of modern film watching. So rare I did not recognize the feeling until well into he film. This is truly gripping and ultimately tragic horror film. HIGHLY recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63c37c7b1223aa32ddbdee89a76db8e63af7a2c5d839c1484c48a19f066871f7
+size 389

@@ -1,1 +1,3 @@
-Few movies are made that are so flawless. Perfect in: casting, directing, editing, content, costumes, and background music. All performances are believable and the diction is as clear as if it were an American made movie. The main character "Victoria" is played by Victoria Hamilton whose ability to express feelings without speaking is Oscar winning quality plus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adaf43530b320d6d5b0439d6e083be46349271688accf51d386e0aa97ba92044
+size 364

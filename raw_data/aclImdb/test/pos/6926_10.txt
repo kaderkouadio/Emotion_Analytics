@@ -1,1 +1,3 @@
-I know this film has had a fairly rough ride from the critics, but I have to say that I thoroughly enjoyed it. The real star here is the fantastic Dylan Moran. He never fails to be both hilarious and convincing in all of his varied disguises. He also manages to radiate a sweet charm that belies his outrageous pratfalls. Special mention must also go to Michael Gambon who plays for laughs with a brilliantly accurate and yet comedic inner city Dublin accent. The only weak link is Caine who, while obviously having a great laugh hamming it up, plays the least interesting and most unsympathetic character. It probably won't play that well overseas but it's well worth a watch all the same.
+version https://git-lfs.github.com/spec/v1
+oid sha256:818727876bed2f36955e44180e8f5c839c47d89defd72f4bc133746914ddbecd
+size 690

@@ -1,1 +1,3 @@
-I still think of this, one of his first movies, as his best. Here Cantinflas' explodes with comic genius. He fully develops the under-educated but always noble, kind-hearted delinquent he is that speaks his mind, only to the confusion of even the most highly educated. The courtroom ending scene also establishes the formula for a bunch of "mistaken identity" plot movies that follow.<br /><br />The "Bobby" scene at the beginning makes you howl with laughter. The portrayal of the absurdities and paranoia of the upper class let every working-class bloke bellow out loud as well.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ee4cf3bfc59d5ec9f9bd0a955084ca5d9670083a9c2dbe9c25a2f825d256a1
+size 592

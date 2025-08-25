@@ -1,1 +1,3 @@
-Mifune is a surprisingly easy film to watch, delightful in many respects and certainly original. The comedy is in many ways unique; nothing hits you in the cinema, but you still leave with a smile on your face. The acting is, in my view, superb, the locations fitting, and the plot; well, original and refreshing. If you need cheering up or it's a rainy day then I recommend this film. Very refreshing indeed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1b1fcb015f164e7326da47b5618de2981cc485eb40fb2458cff73588a0ce03e
+size 409

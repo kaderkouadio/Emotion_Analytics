@@ -1,1 +1,3 @@
-I should have walked out. It started bad and it never improved. The actors completely overplay their roles and the added smart alec isn't this fun cuts doesn't seem convincing. While the movie have a few good ideas they are consistently badly implemented and the timing and acting doesn't do it any favours. <br /><br />I think you will have to be American or the long time owner of a mustache to laugh of this one... It is that special kind of no fun humor that only really appeals to yanks. You know where everything is so obvious and overstated that any fun that could have been is thoroughly eliminated by overstating every point of the joke.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2574b04d88c2f9f0867bea675dfa3618623a22f365b99b8e0cc21970383a3ba1
+size 646

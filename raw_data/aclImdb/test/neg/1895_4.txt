@@ -1,1 +1,3 @@
-Whereas the movie was beautifully shot and reasonably well acted, the script was dull. plodding and nothing we have not seen before. Not once in this film did I ever get the feeling that these people were really in danger. No noticeable climax and a very standard resolution. I believe these type of movies have been overdone and should be given a rest. After all, didn't EVERYONE on the planet see "Schindler's List"?
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa0c77c77c847cd10f88abb47be8104cdadba94f3bbc46359fde448a972d9f7d
+size 418

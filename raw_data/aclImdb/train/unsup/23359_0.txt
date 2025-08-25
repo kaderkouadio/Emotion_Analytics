@@ -1,1 +1,3 @@
-This movie wins the 8th edition of the "Udine FarEastFilm Festival". I saw it in this occasion. The music by Joe Hisaishi has made me dream. The director says he was inspired by two Italian movies:<br /><br />"Mediterraneo" directed by Gabriele Salvatores because both of them talks about war and soldiers who lives in peace; <br /><br />"La vita è bella" (Life is Beautiful) directed by Roberto Benigni in fact both of them introduce some people's sacrifice to save the innocent ones.<br /><br />I think it's beautiful, and I recommend to whoever to see it. Life would be more beautiful if the war didn't exist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf735be4c1205583648331d9e12451c90f5ba155187b246270446f0b9f4a1975
+size 613

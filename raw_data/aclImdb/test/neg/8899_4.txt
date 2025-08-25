@@ -1,1 +1,3 @@
-Another movie from Swedish hillbilly country, which is always the Northern part. If black people were shown this way, there would be shouts about racism and for good reasons.<br /><br />This is a farce and you are supposed to laugh at the "clever" farce clichés. But it's mostly tiresome. A gangster comedy, with the bad Russians (as always) and the bad (and stupid) Finns. And most stupid of all is of course the Norwegian, according to Stockholm prejudice.<br /><br />Andreas Wilson is the only one who tries to make a performance reminding us of reality. This is not funny. This is not even exciting. A burlesque too raw to make you interested in any way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a25a311cd5e55e349de6f1b832e5e35d848fb25aead0346eb9046ec47a63de
+size 659

@@ -1,1 +1,3 @@
-I'd have to say that this is easily my favorite movie of all time. it's a terrific parody of the inner workings of Hollywood, and it's backed up my absolutely amazing animation and special effects by Mr. Jittlov, who also does a wonderful job as the main character (himself), and the police dog. The producer does a good job acting as the producer (as he should!).<br /><br />Summary: See it! you'll like it! i promise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62c5f0dae90b867dcbd1fe8878f78ba3e8568662d52a97a6479fdf750b5b59f5
+size 419

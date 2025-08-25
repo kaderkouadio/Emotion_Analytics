@@ -1,1 +1,3 @@
-This film doesn't know what it wants to be: is it making fun of action movies in general? Is it satirical? Is it supposed to be a black comedy? This is truly one of the worst films ever made.<br /><br />Lori Petty is annoying. There, I said what everyone else is thinking. It's bad enough that she's such a terrible actress (Route 666, Bates Motel), but she doesn't even qualify as a mediocre b-movie actress. Her screechy voice, strange mannerisms, and poor comic timing dot this film from start to finish, until you just want to put your head in a vise and end the pain.<br /><br />Do yourself a favor and avoid this movie at all costs. You'll be glad you did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1bf4a328140dc8d895525f6098bbfc1cad85731044a1639fea4bbab84bcd3d0
+size 662

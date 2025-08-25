@@ -1,1 +1,3 @@
-This was like finishing one of those paint by number kits and calling it "art". Every character completely contrived and unrealized. Plus the obvious inconsistencies were so annoying. Case in point - one moment the twins can knock off nine mobsters hanging from a rope upside down and the next they can't hit the broadside of a barn in the shootout with Il Duce. Then Il Duce turns out to be daddy! And the way the director condescends to his audience is a joke. Wanna see how all of the dead bodies got to be that way? Wait a minute and I will will show you. Can't come up with any original dialog? No problem. Use the F-word 200+ times. Dreadful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a12d635268fac0548fbe2de05359d7ed09dc9034a0e18b0f3e7f767e9b78e9
+size 648

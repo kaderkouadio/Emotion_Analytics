@@ -1,1 +1,3 @@
-Night of The Scarecrow is a cool horror movie. The scarecrow may look cheesy but he is cool. There are some great killing scenes throughout the movie which make this a worth while watch. Not many people have heard of this, but still give it a go because it is much better then some of the other horror movies out there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f9ffafcbb787c54efeeeaa74b83923621937deb830f038644bc1de84df9f476
+size 319

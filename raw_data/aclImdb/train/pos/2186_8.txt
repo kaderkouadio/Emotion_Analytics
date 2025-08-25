@@ -1,1 +1,3 @@
-and what a combo. Two of the century's great singers star together in this underrated musical. He writes music, she writes lyrics, and they both work for Basil Rathbone who can't write either because his wife died (actually she just got fat!). Best scene is the pawn shop number where Bing sings an impromptu number while the swing band gets their instruments out of hock. Just wonderful. And this is a rare starring role for Broadway legend, Mary Martin, and she's quite good. Charley Grapewin, John Scott Trotter, William Frawley, Oscar Levant (once again the manic pianist), Charles Lane, and Helen Bertram co-star. And who knew Rathbone could be funny?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e72bd9bc2817c07015fb060f8bb9aa417123b8da132b0f5707827ac80cb646a6
+size 656

@@ -1,1 +1,3 @@
-Jack Webb's portrayal of the Marine drill instructor shaping new recruits in basic training requires no interpretation. Straight forward, direct, up front, are all applicable to this classic. In a time when parsing the statements of our leaders is a necessity in order to understand what they are saying, this movie that plays no games with our language or our moral fiber. Right and wrong are clear and easily defined. If you like clear, well understood dialog in a disciplined military setting, this movie should suit you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a78a6feb1ad63c322dd066962bfd9f496698291c4a947d6f377302c78d59cfd7
+size 524

@@ -1,1 +1,3 @@
-I don't know what scares me most, the fact that someone could put the time, money and effort into producing what is undoubtedly the worse movie I've ever seen (and that's up against some pretty stiff competition) or that numerous people here seem to actually have enjoyed it.<br /><br />They say that everyone is entitled to their opinion. Patently not true, if you were someone who saw any merit whatsoever in this 'movie', trust me, your opinion would be best kept to yourself.<br /><br />Horribly shot, with characters so wooden you need a joiner not a producer and dialogue that tour average four year old could better, this clichéd pile of turds should be avoided like the plague.<br /><br />Apparently the director has served time himself and I'd have to say he ought to be sent straight back to the slammer for inflicting this upon us.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e4a2e6c191f37b0c93a7b4f64858f8441b49fe5b9de31d6ba762fc077ce1d9
+size 843

@@ -1,1 +1,3 @@
-This was an excellent black comedy on the harshness of the American corporation and some of the villains that work for it. I appreciate any film where it is difficult to predict what will happen next, and "In The Company Of Men" was definitely one of those films. A great acting job by Aaron Eckhart as the man you love to hate. This one is not for the weak-hearted or sensitive types. 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a3442ba89d117028ff22cf792bce49d98cfbeea26b2540c91659634b9745f0
+size 391

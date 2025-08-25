@@ -1,1 +1,3 @@
-I was debating between this movie and 2012 but chose Inglourious Basterds due to it's amazingly high IMDb rating. I must say now, what a disappointment. I expected a certain amount of gratuitous violence, but I also expected a lot of witty dialog. I got a huge dosage of the former, but not nearly enough of the latter. I felt shortchanged. The ratio between violence to plot is very important and I think this movie gets it totally wrong. And the plot? It's that believable or really all that entertaining either. Save your time and money. I can't believe what this rating says for the gory and violent tastes of the modern masses.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3b9098c980477933228d6847c96fb5c921fcec9132b29870c2618116b1f80d1
+size 632

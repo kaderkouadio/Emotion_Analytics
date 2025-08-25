@@ -1,1 +1,3 @@
-I heard a promo for this movie on the howard stern show and figured I'd give it a try. I hated it. Watching movies like this make me value the Guest movies (Waiting for Guffman, A Mighty Wind, and Best and Show) and the grand master of them all, Spinal Tap, but this movie is a poser, and unwatchable. Not one character is believable. In these documentary style films the characters have to be believable, and none of the characters are close to feeling real. If you want to watch a movie you may not have seen in this genre but want to see a funny one with good characters, check out Fubar. That's a good one, funny, memorable, and believable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f46d9035cd289b6a87108189f30556a96a18567139bb0aaa827f475b40cbe08
+size 644

@@ -1,1 +1,3 @@
-I thought it was an original story, very nicely told. I think all you people are expecting too much. I mean...it's just a made for television movie! What are you expecting? Some Great wonderful dramtic piece? I thought it was a really great story for a made for television movie....and that's my opinion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6f6752de427f45534993976bc2c227e33f161e10969b6242ca11d43fee6794
+size 304

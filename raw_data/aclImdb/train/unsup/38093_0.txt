@@ -1,1 +1,3 @@
-<br /><br />As a young lad at school in Southern London in the 1950s I found myself inculcated with the idea of the supremacy of being English, and that the Irish were so silly they only knew how to plant potatoes............<br /><br />Years later, from my friendly enclave retreat, hidden in the depths of peaceful Spain, I have noted how over the last twenty years the Emerald Isle has been doing some wonderful things in all spheres of life, especially with its valuable contribution as a member of the European Union.<br /><br />So I would prefer to do without trivial stupidities which are supposed to be some kind of comedy but which are no more than comical in bad taste, such as this pointless film `I Went Down', which, for some reason beyond me, seems bent on reaffirming those indoctrinations with which I was fed half a century ago.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97809115917eb5c0f699aa6e185f53d88a3a47e1696461f9a7d1321605fd9f96
+size 845

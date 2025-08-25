@@ -1,1 +1,3 @@
-I saw this film back in 1989 and bought it at a video store for $1.00. I feel the same way about this film as I did back then: it's craptacular!<br /><br />The SFX is crappy (ESPECIALLY the make-up)and a lot of the plot is garbage (If Vanessa was so much in love with her husband, how could she not know that he was dead?)and the acting is just HORRIBLE!!! (Sylvia Kristel is just BAD!!!).<br /><br />Still...<br /><br />It makes for a fun evening! Just great for a horrible horror movie fest!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5baa7a7a4733212178df12b3fd72d5767947fc491225320de5000bb3c213303
+size 493

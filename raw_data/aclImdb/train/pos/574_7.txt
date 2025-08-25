@@ -1,1 +1,3 @@
-Academy Award winner Robert Redford (Best Director. Ordinary People 1980) captures the majesty of the Montana wilderness and the strength of the American family in this acclaimed adaptation of Norman Macleans classic memoir.<br /><br />Craig Sheffer stars as the young Norman, and Brad Pitt stars as his brother Paul, an irresistible daredevil driven to challenge the world.<br /><br />Growing up, both boys rebel against their stern Minister father (Tom Skerritt).<br /><br />While Norman channels his rebellion into writing, Paul descends a slippery path to self-destruction.<br /><br />Also starring Emily LLoyd as wild-hearted Jessie Burns.<br /><br />The film won an Academy Award for Best Cinematopghaphy in 1993.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed0e4a5b3ac504dd399331bd77e0cb2900ef1c58077c3dda8cbb9ceae69a55f
+size 719

@@ -1,1 +1,3 @@
-This film was really bad whether you take it as a sci-fi movie, as a horror one or even as a comedy. The whole thing is ridiculous.<br /><br />The film looks (and is) definitely cheap, the actors have no idea of what acting is and the script shows clearly that it was being made along with the shooting. It is obvious that the monster in the closet was added because the living head was not scary at all -she was even pretty- and they thought they needed something more impressive; they failed here too (the make up is awful even for the late 50's, rather funny).<br /><br />The film shows clearly why Director Joseph Green's career as such and also as a writer never materialized; he was really bad at both. Same goes to the actors, leading and supporting.<br /><br />"The Brain That Wouldn't Die"'s best achievement is its short running time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3966d949c9675ae5a943fa7459837c2778b901eb6ebd7da427a6da5c19e2a478
+size 844

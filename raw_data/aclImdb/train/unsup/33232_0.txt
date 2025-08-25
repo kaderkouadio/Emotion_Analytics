@@ -1,1 +1,3 @@
-I don't know if it was the script...or the directing...or the behind the scenes things that the Hollywood Producers did that we don't know about...but I didn't like this film...mainly because I didn't believe it...I didn't believe one minute of this film...everything seemed fake. Project Greenlight has now used 2 scripts that people don't want to see...There wasn't one scene in Shaker heights that rang true to me...
+version https://git-lfs.github.com/spec/v1
+oid sha256:a63233104ae024b392a153bfd07f61318521fb8f3111dbe624c4c66c6f75a161
+size 419

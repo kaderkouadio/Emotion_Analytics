@@ -1,1 +1,3 @@
-I don't know why we need this movie as a sequel for the excellent first Exorcist. There is nothing to do with the first Exorcist. This movie is all about "Locusts", so what? What is the matter with locusts? It's just too intentional to try to make connection with locusts. When you see the first one, you will realize there is nothing related to the first one in this movie. When I saw a flying locust in the Regan's room, I just smirked. Get the first one and just think there are no sequels for the Exorcist. Save your money for something else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5654a695dcc8d2d05346e4e56ff21fb788833c682b1c37439e6cd3b97d7ae00
+size 546

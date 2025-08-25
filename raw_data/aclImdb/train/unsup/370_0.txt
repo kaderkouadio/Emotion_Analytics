@@ -1,1 +1,3 @@
-Wow. What a great flick. I daresay it may even be better than the original. I say may, because the final scenes are a bit of an unnecessary letdown considering the buildup. While at first I thought I would miss Ginger, I realized her parts in this were pretty superfluous and could've been left out, since Bridgette was very capable of handling the film on her own. Of course then you couldn't have matching DVD covers. Atmosphere is way ramped up on this one (even the opening credits gave me the creeps, ugh) and the soundtrack definitely adds to the dread. A few nice scares and gore shots. This one was much more depressing than the first, which in my book is never a bad thing.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:d881c851580aef7f1ddedc5a22e5f693ea2c36b7508fc558e4b655d5902925a5
+size 694

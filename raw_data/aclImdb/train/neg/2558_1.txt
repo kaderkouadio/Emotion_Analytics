@@ -1,1 +1,3 @@
-I was supposed to review this for a website, and I watched this with optimism that perhaps it would at least be a cheesy yet entertaining rip off, and it didn't even do that well enough.<br /><br />"666: The Child" is probably one of the worst supernatural thrillers I've ever seen (Even worse than "Godsend") with scenes that rip from "The Omen" without shame. The ending is even very similar to the way "The Omen" ends. <br /><br />Not to mention that the acting, writing, and story are all just hackneyed. If these movies make money, I'm sad to see where Asylum is headed. It's embarrassing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0536cde6698c1d2441179cb4a1cbdbf285b1009cfe682b7abbe065f3f078a70a
+size 594

@@ -1,1 +1,3 @@
-This movie is incredibly realistic and I feel does a great justice to the crime that many people do not understand because of a lack of experience. The many people who think they could fathom what goes through a victim's mind are arrogant. As a victim, I feel that Dawson did a fantastic job in her role of Maya. I agree that this is an incredibly brave film. This looks at rape from a different, more realistic standpoint than any other movie I've ever seen on the subject. The end did drag on a bit long, but I know that many victims imagine this kind of justice, since the chances of an attacker being sent to jail for their crime is around 1%. It's good to see a movie that sticks closer to reality than most would dare to.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ba1c4ec99e527b56ea3d228cd68732b08c4268660d73787a936e9799de617f
+size 727

@@ -1,1 +1,3 @@
-I found the blend of action and humor in this film to be very entertaining. Michelle Yeoh does some incredible stunts, including imaginative use of rope in one sequence. Richard Ng does some pretty slick moves too. Also the actress who plays Chin-Chin does some impressive fighting. If you like Michelle Yeoh films, or even Jackie Chan films, this really should be right up your alley. Incredible stunts, and very funny dialog, this was a real treat to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:accd5b5acfcd1d6a4a4100373c51b71cfac1346a1850b829f96c898c398e407b
+size 459

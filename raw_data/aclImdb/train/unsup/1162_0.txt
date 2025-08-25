@@ -1,1 +1,3 @@
-Pic probably tops all Hongkong films in presenting triad warfare intrigue, and the horror and intricacy of a well-oiled set-up. The scripter and director weave a clever interlocking plot complete with tense and heart-stopping atmospherics. Tony Leung's bad cop performance is a class on its own, particularly when he finds out that he's been set up and is now in an untenable situation. But pic's originality is in the end let down by the final shoot out in a dilapidated warehouse, which is both shop-worn and pretentious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63d54c6f96e72bfe80ae7432171f36e31f358edd55a305ee5ab61d0e7d7d88d0
+size 523

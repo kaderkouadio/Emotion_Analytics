@@ -1,1 +1,3 @@
-Probably the worst film i have ever seen. On the other hand, it was quite funny because of it. I thought it was amazing that they could make all those bricks look so much like polystyrene. It's a shame because i really enjoyed the first Mortal Kombat film. Line that sums up the film, plot-wise at least. - Sub-Zero? But i killed you in first tournament - No, that was my brother, Sub-Zero. I am Sub-Zero! (Something like that anyway)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c9e2672da6ae5f79a15d324382dca9c1356575c73943be8d65d78f5540e1ba1
+size 434

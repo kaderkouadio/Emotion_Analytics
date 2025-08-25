@@ -1,1 +1,3 @@
-The movie was not that bad, but it also was not that good either. It had its funny moments, but then again, it also had some parts where the sense-of-humor had me wincing in pain. Only one thing remained consistant throughout the entire film... the size of Dean Camroon's eyebrows!!! WOW!! Did you see how big they were? He should definatly do something about that. I heard a small child was lost in those things for two days!! Anyway, this is only a mediocare movie... so see it at your own risk. If you chose to see it, remember, BEWARE OF THE EYEBROWS!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb2ef7b14a56fc97abc9c71d30343ea2953f50acf5eac1fe3e28b941a36ec927
+size 557

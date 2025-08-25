@@ -1,1 +1,3 @@
-OK, I haven't read all the comments yet but I was kinda disturbed of the low rating this movie got. I think it's one of the best Lovecraft Adaptations ever made. Yeah, "Re-Animator" was much more fun, but it didn't stick to the misanthropic atmosphere old HPL used to build. "The Dunwich Horror" is much more disturbing, although it bears all characteristics of a seventies movie like the soundtrack and the clothing, but it still works. Yeah, it's a B-Movie, but It's very well made, from the great title sequence to the vague depiction of the "Monster". I don't think any subsequent movie got closer to the insinuating style of that fascinating weirdo called H. P. Lovecraft.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c312d9bbede946f12b59226329ef737be2f40ea6c4c91d7de382d879e027f44
+size 677

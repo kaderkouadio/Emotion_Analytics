@@ -1,1 +1,3 @@
-A great production, that should be revived/rebroadcast. I doubt that it would be out of date! I'd love to hear from anyone who knows whether videos exist of this series, or any other information about where it could be found or viewed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71d90ad06351b86444f3523773afd4fdf1b9e3f8d974a527739476a44fd29526
+size 235

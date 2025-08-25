@@ -1,1 +1,3 @@
-Terrible direction from an awful script. Even the DVD looked muddy and out of focus. Laughable accents all over the map. Unlike most of the other commenters I had no idea this was about boys in love in the mud, but that fact became immediately obvious from the opening scene and all the lovingly drawn-out shots of nude or scantily-clad young men, usually wet or glistening with sweat, looking longingly at each other.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b317428c5b08c37c59ca3e3febf444531322a85b828b6ada7e9bab49ab5401a
+size 418

@@ -1,1 +1,3 @@
-I just hate this movie. Meryl Streep was awful, Kurt Russell did an unusually poor job, and Cher is not really cut out to be an actress. Bad script does not help any. As with most publicized news stories, anybody who read anything about the story knows how it is going to turn out. The three leads were smoking in basically every scene, generally bad quality.<br /><br />Rating: 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a7eeb0b71afba424cffc19c68e621507f01235840a51008751a990bbd1d7a6d
+size 383

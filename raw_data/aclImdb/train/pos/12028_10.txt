@@ -1,1 +1,3 @@
-This movie is totally wicked! It's really great to see MJH in a different role than her Sabrina character! The plot is totally cool, and the characters are excellently written. Definitely one of the best movies!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b197e4e7ac40de50753fdddf8dbc785c3e6b13aed4091cf307dfdf624a82a0fd
+size 212

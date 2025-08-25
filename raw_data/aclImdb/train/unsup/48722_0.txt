@@ -1,1 +1,3 @@
-Beach Balls concerns a young man who wants to become a rock star and his adventures in this poor comedy. typical late 80s fare with some poor rock video/band performances, bad acting, production values, script,..you get the idea..even the cute girls can't save this dog..on a scale of one to ten..1
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeb8f7b9e30bbd8206e7a75d95a7229e34056731b28a42fcf13ec9a27d657e46
+size 298

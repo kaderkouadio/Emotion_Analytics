@@ -1,1 +1,3 @@
-This is my second favorite Christmas Carol. My first being Mr. Magoo's Christmas Carol. I loved Alastair Sims as Scrooge. I know it's on alot at Christmas but I only got a chance to see it once this year so I just ordered it online. I was not able to find it in any of my local stores. My sister-in-law loves the George C. Scott version better so we always argue about which one is best. Her version doesn't hold a candle to this one as far as I'm concerned! I loved the ghosts and the whole thing and especially his housekeeper!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fc9f2db6a9c06eada8ce461f066b612de58c80a8a3eaf9ba1079780d5291de3
+size 530

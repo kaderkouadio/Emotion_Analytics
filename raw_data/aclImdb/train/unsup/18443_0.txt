@@ -1,1 +1,3 @@
-What a great acoustic performance! I thought the audio quality was excellent and the setlist was well chosen. The personal nature of all of these songs force you to hang on every lyric. Almost every song on this is from CSNY's Looking Forward or Silver and Gold. If you want to see classic Neil tunes , watch Unplugged or Live in Berlin. If you want to see a rock and roll veteran wonderfully perform new stuff, this is a must see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b53cc7a5de21f540ae50651456e29fcc6e38e7a47ae30d60c6c9cf0b9950f02
+size 431

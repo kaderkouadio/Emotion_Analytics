@@ -1,1 +1,3 @@
-William Wyler directs this first rate costume drama and Ms. Bette Davis picks up her second Academy Award playing an Antebellum Dixie vixen that goes a little too far to make her fiance(Henry Fonda)jealous. Fonda returns to New Orleans from New York with a lovely wife(Margret Lindsay)only to put Davis in a jealous rage and desperate for revenge. A superb cast that also features Donald Crisp, George Brent and Fay Bainter. Ms. Davis is vibrant in one of her best roles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b62e4efce3702ab25e9bef427d73621361c73e49b01cf9bcfe568b2f9e15cc7
+size 471

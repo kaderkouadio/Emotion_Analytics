@@ -1,1 +1,3 @@
-Ah yes, the VS series, MVC2 being the pinnacle. It's been said before, this is what you get when half of the crew fell asleep on the job, unfortunately the gameplay half did. Don't get me wrong, this is fun, but you get tired of mashing buttons. As for the plot summary, AHAHAHAHAHAAAAA... There is no plot. Beat that guy at the end and win! Eh, who plays this by their self anyway?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2086b579e332739e61ca8080533262effca1180498870e33ba85f53e3ee37c0b
+size 382

@@ -1,1 +1,3 @@
-How does David Lynch do it? Unlike the legions of thick-black-framed-glasses-wearing types and pretentious movie critics who praise his name, I just don't see how this guy keeps getting paid to make such tripe. How can Lynch sloppily cobble together leftover footage from a failed TV pilot into a nonsensical, poorly-acted mess & have critics rave about it & actually include it on Year's Best lists?<br /><br />I'm baffled. If you're looking for a good film noir, rent "Bound" instead. If you're looking for a good "puzzle" movie try "Memento." But beware of this over-hyped stinker unless your idea of a fun night is throwing away 2 1/2 hours of your life & $3.50 of your hard-earned cash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e13f169a7d0ecb34dc3fa8319dcda276c2bd78fda0d570d9cd64f9fb0167bbe
+size 691

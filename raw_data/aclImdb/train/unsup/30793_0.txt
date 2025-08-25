@@ -1,1 +1,3 @@
-This is one of the most touchingly accurate portrayal of lesbian life and loves I've seen yet. While it only scratches the surface of the many life experiences we face in our lives as lesbians, it is a real eye-opener for people who imagine us to be as outlandish and stereotypical as the media would sometimes portray us. Touching on three different age groups helps to broaden the range of people to whom this film speaks. Almost any woman who watches this film can see herself, either as she was, as she is, or as she might be in the future. An incredible picture! "I laughed, I cried."
+version https://git-lfs.github.com/spec/v1
+oid sha256:82ef32ecfa66453eff6ed3b73dfa680f781ce483243619edfe5f98ac9bc3506a
+size 589

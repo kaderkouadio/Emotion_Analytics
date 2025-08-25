@@ -1,1 +1,3 @@
-This movie comes on cable every once in a while, and I'm drawn to it like a moth to a flame. I know it's bad for me, and I still can't stop. The characters are one-dimensional and annoying, young people don't really talk like this ("Cab service on this island leaves something to be desired" -- aaugh!), and scenes obviously written to be hip and smart alecky come off as forced and trite. Stuff like this is enough to get me to swear off indies forever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4b199525012830cc73cf2cf5f4862fdd3447cc582cf93f1338c1ccbafb3feeb
+size 454

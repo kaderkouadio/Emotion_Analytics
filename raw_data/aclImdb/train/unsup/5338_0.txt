@@ -1,1 +1,3 @@
-The show started out promising but quickly deteriorated after Shannen Doherty left the show. After she left, it became soap-operish and melodramatic. I really liked watching it in the beginning because the characters seemed real but after Doherty left, everything fell apart. The characters became rampid wild sex machines who only cared about themselves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d7c556652eecd5f9cfa657e51122504d8ff95c7a36c5eb492e79a753e62a9e
+size 355

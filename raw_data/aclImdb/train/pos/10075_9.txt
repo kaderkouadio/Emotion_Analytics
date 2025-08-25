@@ -1,1 +1,3 @@
-"Masks" is a moving film that works on many levels. At its simplest, it is the haunting story of a street performer who bonds with a young child while trying to pass along his creative art (masks) to the next generation. Although, at times the story makes the old man into a Job, it is so well crafted (written, acted, directed, wonderful production values), it is easy to move beyond his plight. And, if you hang with it, the film is ultimately very sweet and uplifting. Kudos all around. This is a wonderful film for children as well as adults. The trick is how to get Americans who may not like foreign language films to see it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:651f361c0fa706b620e561917e0e311761ae9cbedf4dd0134af60ad655f23a4d
+size 631

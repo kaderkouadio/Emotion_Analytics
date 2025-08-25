@@ -1,1 +1,3 @@
-Dumb excuse for a thriller with absolutely zero chemistry or reason in relationship between Lewis and Hurt (why is she dating a man old enough to be her father anyway?? The suspense is laughable. Lewis is very good, but a script is needed, and there isn't one. My score for this trash: 2 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12267135e5199f810bb18b149253f071cb828d028d61935ee4b97ee72802cb05
+size 298

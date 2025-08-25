@@ -1,1 +1,3 @@
-This movie includes at least two exceptional actors in Ben Kingsley and Campbell Scott but together they cannot pull this period horror story beyond the doldrums of an unsurprising 18th century slash/horror flick. It's lame, slow, unsurprising and bland. It takes place in unjolly olde London of course, with Kingsley playing the nefarious Sweeney Todd and Campbell Scott, (son of George C. Scott) hot on his trail. Mr Todd is the famous barber that chops up people into hamburger after slitting their throats and selling said hamburg to a local meat pie shoppe.Some of the sets and street scenes seem solid and true to the period but the whole mess is overall (forgive me) ham-handed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d7114a8fe34257324cc4297fa86593d28ae4870b752ab96d8acadf42ac0fb6b
+size 685

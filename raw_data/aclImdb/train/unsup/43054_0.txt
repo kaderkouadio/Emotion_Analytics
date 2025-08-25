@@ -1,1 +1,3 @@
-Has the future ever looked so drab? The title pretty much speaks for itself and yet we aren't anywhere near turning on a stove or air conditioner with our phone!!!!! I watch this short a lot since MST3K watched on their "Space Children" episode. The kid's haircut is hard enough to figure out without bleeding from your ears and the girl looks like Nancy Reagan as a kid. The music is (as it was thought on MST3K) from an episode of "Ren and Stimpy" and the song near the end made me want to stick the barrel of a shotgun in my mouth.<br /><br />To anyone who even thinks about seeing this short without it being the MST3K version, you're probably stoned, stupid or both.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d46be325285d43f90e06b32c740de013ac72d347e0665bc61c1e77fba1183774
+size 671

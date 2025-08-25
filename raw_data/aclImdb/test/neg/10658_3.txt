@@ -1,1 +1,3 @@
-Two redeeming qualities of this film were the cinemaphotography and a storyline that was hard to resist. However, the script, the direction, and some scenes, were just awful. I kept asking myself why such a good cast would have produced such a bad movie. My only conclusion was that these actors must believe in the charity which underlies the plot of the movie, but knew the movie was filled with flaws.<br /><br />This film could have been so much better, and reached a larger audience accordingly. What makes me think this is that with all of the problems of the film, some scenes being painfully bad to watch, I still wanted to see how the obvious conclusion would resolve itself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eed2b6fb16fec19d26b7934085a88e8f94aa6cf34841ec37cf966c75aba2e01
+size 684

@@ -1,1 +1,3 @@
-While possibly the stupidest, most tasteless, and violent slapstick comedy ever made, Guest House is also a very funny one. Don't listen to the critics, they have no sense of humour. While the climax runs out of steam (but not vomit), it's still a funny party movie. Seven candles in the eye out of ten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f03fab670bc2a8d6e2a5d9428ffcebfb086a206a2e5dceecd03ea75c31fbbd0
+size 303

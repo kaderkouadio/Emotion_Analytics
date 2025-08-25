@@ -1,1 +1,3 @@
-This film is a stunning piece that will convince even the most skeptical viewer that Gerard Depardieu is one of the finest film actors of the last 50 years. His performance shocks, entertains, disgusts and charms you while leaving you breathless. This film was shot in the very early days of his film career and is very raw, but still is able to convey the mastery of Depardieu. A must-see for any Depardieu fan and by far his best early work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:927324c17add60b7a214a1f715c7c57c085bcaa4739225a79db3afc16a18e3ec
+size 443

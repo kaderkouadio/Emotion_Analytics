@@ -1,1 +1,3 @@
-What crack are you smoking? This movie, while gloriously entertaining, is awful! <br /><br />The action scenes are so obviously fake it's kind of sad. The colonel's daughter is painfully irritating. The ninja training camp is so hilarious it is almost not worth mentioning. And when Joe puts the bucket over his head and beat up the other army guy, I just about peed myself. I could go on...<br /><br />Entertaining, arguably so. Good, no. Well made, certainly not.<br /><br />As a commentary on America as empire, it's actually pretty good. Joe as a typical white conqueror isn't all that surprising, especially in the context of mid-1980s American cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0db226e179646069b65cb85cfdec2a6bc0b5e31563a7a822bb3ce93ce5e1793
+size 657

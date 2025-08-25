@@ -1,1 +1,3 @@
-Superior to the first two movies, anyway.<br /><br />The film maintains a good deal of tension for the first half. Then it all falls to pieces. I think the writers gave up & just decided to make it up as they went along. The thing between the two half brothers was pathetic & ruined an otherwise average movie. Oh yeah, by the way I'm the son of Satan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f35de440ac3a717e4ea2e2dc6a75f0e0a7903092665582c31676e82bc9859f1
+size 352

@@ -1,1 +1,3 @@
-"Sophie's Choice" is a luke warm flick with a whole lot of "toos". Too long, too obvious, too theatrical, too unbelievable, etc. Telling of a holocaust survivor in America, Sophie (Streep), and the pair of love interests she cultivates (Kline & MacNicol), this ensemble drama showcases an Oscar winning and memorable performance by Streep who gets to stretch and strut her consummate talents over a 2.5 hour run. Streep's wonderful workout is about the only reason to give this 20+ year old flick a dust off. Recommended only for Streep fans. (B)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b22cbd4cb785bf0b3c24e4787fbc1481fe39013febf11938ed72602ab97db830
+size 546

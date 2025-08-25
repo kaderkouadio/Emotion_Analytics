@@ -1,1 +1,3 @@
-An unsuccessful attempt is made to tie all these loose threads together into one coherent story. Even more irritating than the film's third act triumphs is its lack of faith in moviegoers' intelligence. The surface smoothness can't make up for the deeper flaws...it fails signally in establishing any solid emotional connection with most of the people it portrays. Trouble is, every character is having problems in a homo-hetero-Angeleno world but they lacks substance, each little more than a composite of quirks and one-liners. Happy Endings is the kind of self-conscious puzzle picture in which characters behave in ways that serve the plot but in no way resemble things that actual human beings would be likely to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad3dca3ca76410f7bfac5ca0a35a069d5f34f7eecfc070d634968ce6301724ec
+size 721

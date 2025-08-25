@@ -1,1 +1,3 @@
-It is incomprehensible how Leonard Maltin can badmouth this riotously funny movie. Jack Lemmon and Sandy Dennis play off beautifully against each other in this tale of two misbegotten and forlorn visitors to the Big Apple who suffer every indignity that can befall two out-of-towners, and then some. It's a comedy classic in my book. The 1999 Martin/Hawn remake pales by comparison.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63816dfb22a51c12e9ca714274081e0ea5bf4c8065a6a419d06381012132694d
+size 382

@@ -1,1 +1,3 @@
-Maybe this movie was actually intended to be satire like 'Airplane' but it failed at that as miserably as it failed at being a 'thriller'. I don't understand why they couldn't have paid an actual pilot a couple hundred bucks for a little technical advice. Hell, I would have done it for free! This magical aircraft managed to morph from a 757 to a 767 to a 747 in an hour and the power levers worked backward. And the dialog sounds like it came out the back end of a kid's game of 'telephone' where everyone spoke different languages. I actually rewound the TIVO and watched some of it a second time to see if it was really as bad as I thought at first. It was.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b4195b0e03d01c93d0cc8f90ff0a38e76dc8ed1c884f333d529149d5c401883
+size 661

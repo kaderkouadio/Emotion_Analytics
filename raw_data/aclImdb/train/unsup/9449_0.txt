@@ -1,1 +1,3 @@
-Double Teamed is the true story of two twins named Heather(Poppi Monroe) and Heidi Burge(Annie McElwain) who became basketball players. I think Poppi and Annie did an excellent job portraying the twin sisters. This is one of those disney movies that actually make you think that you can achieve your dreams and become anything you want to be, regardless of the people that stand in your way. I think Double Teamed is a great movie and i've seen it every time it was on televison. I would give Double Teamed 8.5/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e950563876a5af16273cfe96686c1251f8d1b74f1c0ba442511c03e1920f2a3f
+size 513

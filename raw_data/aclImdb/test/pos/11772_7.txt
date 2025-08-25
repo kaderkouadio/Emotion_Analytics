@@ -1,1 +1,3 @@
-This is the kind of film that might give you a nightmare, besides that it's a lot of fun.<br /><br />Hardware Wars is the only good spoof on Star Wars, other films like Spaceballs have failed. This is the only good spoof film I have ever seen, it doesn't rip-off Star Wars, it makes fun of it, and that's what spoofs are supposed to be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c77db02d6f5b494b048a38e0f7132525cc61c38e5f3f58ac739886ac897fd7
+size 336

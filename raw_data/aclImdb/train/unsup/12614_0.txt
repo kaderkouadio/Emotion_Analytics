@@ -1,1 +1,3 @@
-To get it right, that is. The best film in the Matt Helm series: best soundtrack, best villain, best female sidekick, best (by far) choreographed action and fight (thanks to Bruce Lee) sequences and best climax. Were these the same people who made Murders' Row and the Ambushers? Hardly seems likely.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdb14b90d2d0dca62cf3a313c8e951bd8fdb2686f9aea0971af4b15f96e19514
+size 300

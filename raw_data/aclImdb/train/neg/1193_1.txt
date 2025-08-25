@@ -1,1 +1,3 @@
-You know how sometimes you can watch a crappy movie with friends and laugh at all the shortcomings of the movie? Well this was beyond that. I bought the DVD at Tower Records because it was like $3.00 and I'd heard this was a movie you could laugh at. It is really nothing short of pathetic. About 30 minutes into the movie, my friends started asking me to turn it off. Around 45 minutes they begged me. After an hour, we compromised to fast forward to the end, so we could see how the conflict was resolved (and because we had been watching the whole time for Matt Walsh). Seriously, don't watch this movie. It is beyond painful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa4e53e5eacc3161d40bb2899dfa3a1ace9f273c3dc18d605910bc28af8c0c3e
+size 629

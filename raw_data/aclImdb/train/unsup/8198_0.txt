@@ -1,1 +1,3 @@
-Mallrats is by far the best of the whole series of Kevin Smith movies. Jason Lee is EXCELLENT as Brodie Bruce. The performances by everyone are excellent! It's also so very hilarious. Jay and Silent Bob only make it better. Buy it, buy it, buy it, buy it, buy it, buy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc946f54862bf3812251613af339020998a67e0d4c29a2741287e571c9df52fb
+size 271

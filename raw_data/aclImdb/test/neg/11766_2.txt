@@ -1,1 +1,3 @@
-There are interesting pieces here of and about Bruce Weber's likes and dislikes. Maybe if a professional editor had put it together for Biography, I would have felt more satisfied. Instead, I spent $8 at a film festival on it. For an autobiography, almost nothing is revealed about Bruce Weber, other than he likes to look at photographs, shoot interesting people, especially beautiful teenage boys, and listen to jazz. The director of "Crumb" would have made a much more interesting and cohesive film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ba811284924a05cf84762067cae6d648a129cb458866675083ef5b77f78da18
+size 502

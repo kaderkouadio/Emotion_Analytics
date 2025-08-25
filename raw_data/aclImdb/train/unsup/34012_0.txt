@@ -1,1 +1,3 @@
-The tale of "Heidi" is such a groaner that it manages to defeat any little, bright-eyed young actress who stars in it, yet they keep trying. Here, it's Shirley Temple's turn at the waterworks playing a spunky young orphan living with her kindly grandpa in a Swiss village, kidnapped by a scheming relative and taken off to live with a rich, unpleasant brood in Germany. Was there ever a more contemptible or manipulative kids' story than this? Treacly hokum is mixed with melodramatic hysteria, with enough story contrivances to fill up several pictures. Kids seem to get caught up in it; adults may go a little batty. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ef3ac5680941bd629f8a40dbb0434a2c84cee1800f20d8988a3007f85cb9785
+size 633

@@ -1,1 +1,3 @@
-What a fantastic movie. Even though it was a little slow, Stanley Tucci and Tony Shaloub are phenomenal (why there was no Oscar nominations I'll never know). It's too bad that everyone ignored this movie. Please see it. If nothing else see it for the final scene, simple yet touching, and masterfully directed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd60b4524241b6ae8bf567df0289adf3c5dd1508e2bf8a07ee61456ad6579ad
+size 310

@@ -1,1 +1,3 @@
-Good story, but the film is marred by "pretentious child actor" overload. Children really do not speak this way. ALL of the children in this film suffer from an overwritten script. The lead child actor, Joseph Cross, spends the entire film (with the exception of one scene) with a depressed scowl on his face. True, he is a sad little boy, but it becomes very annoying nonetheless. The film comes off very heavy handed and preachy at the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19bac77cff5be423aeed35baa95674350b69bf53d8ebac450dc3581de65ab24c
+size 442

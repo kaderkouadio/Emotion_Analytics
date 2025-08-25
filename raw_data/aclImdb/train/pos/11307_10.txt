@@ -1,1 +1,3 @@
-To get in touch with the beauty of this film pay close attention to the sound track, not only the music, but the way all sounds help to weave the imagery. How beautifully the opening scene leading to the expulsion of Gino establishes the theme of moral ambiguity! Note the way music introduces the characters as we are led inside Giovanna's marriage. Don't expect to find much here of the political life of Italy in 1943. That's not what this is about. On the other hand, if you are susceptible to the music of images and sounds, you will be led into a word that reaches beyond neo-realism. By the end of the film we there are moments Antonioni-like landscape that has more to do with the inner life of the characters than with real places. This is one of my favorite Visconti films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37e3f47bffdac5ce2f972303aa35ee506a8483d89e1ee7b4e1e228947ca809d
+size 783

@@ -1,1 +1,3 @@
-The fight scenes play like slow-motion Jackie Chan and the attempts at wit are pathetic (worst pun by far: "Guess what? This time I heard you coming"). The stars are a mismatched pair: Brandon Lee, despite the terrible lines he has to say, actually shows traces of charisma and screen charm - things that Dolph Lundgren is completely free of (at least in this movie). Note to the director: in the future, please stay away from any love scenes, especially when your main actress won't do any nudity and you have to rely extensively on a body double. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb98ed14bf0f3aadd8f41e58f70d003620f1a3c4fe70a0109b4f4652ef3bef8b
+size 555

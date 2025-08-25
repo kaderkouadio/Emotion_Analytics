@@ -1,1 +1,3 @@
-I'm not a huge fan of musicals, but I like this one. It isn't so much that I love the story but appreciate the quality of film as well as some of the songs. The acting, cinematography, and every other aspect of this film just screams "quality", as it's a gorgeous and well put together film. In particular, I love hearing OLD MAN RIVER. In this case it's sung by the legendary Paul Robson and he does a magnificent job. However, I think the original film made in the 1930s probably did a better job with this song. But what the original film lacked was color and high quality singing and production values. It was good, but this remake just jumped out of the screen! An exceptional, though a bit old fashioned film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75b31dbb22e6d3466f05b2474b9bfeb627a497f1d2d6d2f6c01e59b1746ea12f
+size 715

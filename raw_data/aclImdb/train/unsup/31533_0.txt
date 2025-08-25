@@ -1,1 +1,3 @@
-<br /><br />Beautiful acting and directing. Very well written script.<br /><br />One woman and three men.<br /><br />Human Relationship at its best.<br /><br />One woman can change everything wrong in life...<br /><br />Restaurant ( Food ) is the most important thing beside woman.<br /><br />It is better to feel than to think and be creative...<br /><br />Thanks and Regards.<br /><br />Sam Rupani<br /><br />Houston, Texas, U.S.A.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4f37857b6d021c3039db91512db7105b4c6f1f41c862a7caaa80b113bd543ad
+size 445

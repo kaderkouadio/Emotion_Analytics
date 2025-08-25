@@ -1,1 +1,3 @@
-This film has it all. The characters are entertaining, the story is entertaining, the music is great and everything in this movie seems to fall into place. This movie follows a rich family who are having a birthday party for Ray Crockett, a grumpy old man. During the party, frogs, snakes, insects, turtles and other creatures of the swamp decide to take revenge on the family for their extensive use of pesticides. Ray Milland, Sam Elliot, Joan Van Ark, Adam Roarke and Judy Pace are all realistic in their performances as the family, and overall, this is just a fun film that is worth watching over and over again. I liked everything about this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b599a92c1d5a8f9aa64aab910cddf3569e383bad20453a6c033796b1b61d659
+size 653

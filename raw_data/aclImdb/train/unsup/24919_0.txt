@@ -1,1 +1,3 @@
-This is quite simply the worst movie I've ever seen, barring low-budge horror flicks. For a big-budget film, this is the bottom of the barrel. The acting is atrocious; the music is lousy even though it is Grieg. The attempts to put lyrics to Grieg's music is ludicrous. As pretty as a postcard and just as interesting!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e08f335b421d2519f9684616898ef244b30bb4cf6f1fdbf56e3277cb1a6da29c
+size 318

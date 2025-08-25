@@ -1,1 +1,3 @@
-I owe a great deal of thanks to Neil Simon for this awful movie. After 15 minutes I walked out and went in to see the only other film at the duplex, an unknown called LOCAL HERO! WOW! One of my all-time TOP 5 FILMS! It was a stark contrast between this tired old c**p and the brilliance that can be achieved in movie making.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fbfe65413e880a6253a3ded63dda1a09252950b13e8805626dfbaf05eb71a8f
+size 324

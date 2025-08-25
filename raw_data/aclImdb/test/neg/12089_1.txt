@@ -1,1 +1,3 @@
-This movie had an excellent premise, and could have been a fascinating look at racism, attitudes to women at work and male female relations in England early last century. However, it simply turned into a soppy love story. But what was worse, is that the love story was totally unbelievable. The acting was for the most part poor, the direction confusing, but most of all the screenplay and the story were non-existent. The only thing I liked about the film was how dark it must have been before electric lighting. I really got a sense of just how little light one candle puts out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f89c69fe09b439282f910c00c491694f7d16ae2a6118090ee0c078d66a4be80b
+size 580

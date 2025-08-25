@@ -1,1 +1,3 @@
-A Nice Addition to One of the Best Series of Horror Films. The Problem is that it Takes Place off the Classic Island, but Just Deal with it. It is Most Certainly not the Best of the Series, As a Matter of Fact, Think it is the Worst one. But, It still is a Good Movie and Certainly worth seeing. 8 1/2 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ceef768c19e3f6be632573eb13540894c2687eafb9694f8d321dbeac876f5b
+size 312

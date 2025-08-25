@@ -1,1 +1,3 @@
-The best part in this movie is the first one, located in Sicily, I suppose. Crialese shows a good talent for photography and the movie start is delightfully surprising. The rest of the story is quite boring. Crialese uselessly insists on stereotypical situations and characters, trying to melt neorealistic suggestions and video-music technique, Fellinian surrealistic remembrances and a very annoying and completely off-topic soundtrack, leading the whole thing towards an end which gives you the sensation of an exaggeratedly long story cut abruptly short. Frankly, this is a real overrated movie and Crialese is a real overrated director.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61cabba66ba76f7c4512dafca6986dc7ad864ffc4b2efe5313d91461aa7d3ef8
+size 641

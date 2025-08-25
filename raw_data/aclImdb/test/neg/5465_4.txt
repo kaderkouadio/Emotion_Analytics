@@ -1,1 +1,3 @@
-Book of Revelations starts very well. Daniel, an egomaniac dancer is kidnapped, abused and sexually raped by three masked women.<br /><br />After that, nothing else really happens. There is some hint of rediscovery but the movie gives nor explanation nor a real ending. Daniel reactions after the abuse are very basic. He quits dancing, has sex with every women around and finally starting a relation with very simple and common woman.<br /><br />I have seen a good share of art-house movies but this has something missing in it.<br /><br />The main leads are fine; but some characters does not seems to be completely defined.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2492b8c233da2e3260825105b32522133e24f136acffee5525d0df229e35bb04
+size 626

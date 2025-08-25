@@ -1,1 +1,3 @@
-The silly, uninteresting story (a computer that has the mind of a mother with a fixation on her son?) and the annoying overacting of some of the players are the two most important - but not the only - problems with this very, very minor sci-fi flick. However, the effects are good for what they probably cost, and Catherine Mary Stewart shows indications of being a strong female lead - she deserves a better movie. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8780507ba2b7b4c29269c83e9cf335fcd6d3f69fe0c32878186e42974e13ca3d
+size 422

@@ -1,1 +1,3 @@
-The Others is way too slow and relies way to much on atmosphere to be involving. The story is thin and the ending is trite. Nicole Kidman is her usual limited self. The production design and cinematography are very nice but not good enough to save this film (or its audience) from the doldrums.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1209caad1dfe1792760b262c0687164749680ba3c1bab115b25ba3fd6544ac1f
+size 294

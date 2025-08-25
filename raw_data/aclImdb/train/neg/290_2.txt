@@ -1,1 +1,3 @@
-Killer Tomatoes movies have this special kind of humor - you either love it or hate it. I personally like it, but in this fourth movie the feeling is gone. The tomatoes aren't the same, jokes are lame, even the actors aren't as funny. Because that's the only thing this kind of movies are supposed to be - funny.<br /><br />So now following the plot made to laugh, is annoying. They really shouldn't have done the fourth part to the Killer Tomatoes trilogy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:674d0e5d7afd64a35bfe22e2d67d4e455e0469c71904efaaef7751b728e2cc65
+size 457

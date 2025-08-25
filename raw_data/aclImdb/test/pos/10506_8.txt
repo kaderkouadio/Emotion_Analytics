@@ -1,1 +1,3 @@
-This movie will undoubtably not go over well with some, because most of the horror is mental. But it does have a little something for almost everyone, including a couple of really cool abduction scenes with aliens. The film makes extensive use of alien abduction mythology, while also showing a bit more intelligence about some facets of abduction myths than you would expect out of a movie. Jillian McWhirter is excellent in what had to have been a grueling performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d3d5c5b396cf181b6926f7595e346fa57670e80feb1c5cb46ca9233c00ae283
+size 471

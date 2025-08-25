@@ -1,1 +1,3 @@
-Seeing this film for the first time twenty years after its release I don't quite get it. Why has this been such a huge hit in 1986? Its amateurishness drips from every scene. The jokes are lame and predictable. The sex scenes are exploitative and over the top (that is not to say that Miss Rudnik does not have nice boobs!). The singing is "schrecklich". The only genuinely funny scene is the big shoot out when the gangsters die break dancing, a trait that dates the movie firmly to the mid-eighties. It's really quite puzzling to me how incapable I am to grasp what evoked the enthusiasm of the cheering audiences in 1986 (and apparently still today, reading my fellow IMDBers comments).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3219a0eea3f49c88eb36be5394909930ef5296225dbcde5675af8da9f8af247f
+size 689

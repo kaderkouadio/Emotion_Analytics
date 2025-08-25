@@ -1,1 +1,3 @@
-Though the acting was ok...I'm tired of seeing big name actors on the cover of B-movie video boxes(was this made for video or was it released in Japan?)...did they just need a payday? Not as bad as LAPD with Dennis Hopper but I still gave it a 1. I apologize to everyone who believes that this style of movie-making is art!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f324de644d52aee2091173f9576f1cbd45fea439b155819e970555c884b5e49
+size 323

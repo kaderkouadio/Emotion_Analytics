@@ -1,1 +1,3 @@
-This is a horrible apolitical McCarthy Era remake of "The Male Animal" starring Henry Fonda and Olivia DeHavilland. The original had Fonda as a professor standing up to regent Eugene Palette to read a letter by Sacco of Sacco and Vanzetti while simultaneously battling Jack Carson as the faded college football star for the affections of DeHavilland. This is mindless fluff. Reagan is to Fonda as an actor what Reagan was to Roosevelt as a President, a cheap imitation. The only interesting thing is that Dan Defore ("Hazel") is in both films. He is the half-witted football player suitor for the affections of DeHavilland's sister in the original, and the half-witted former football player suitor for Thaxter's affections in this film, reprising Jack Carson's role.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d436d2c22c3ab7acc45fb08499551aa712cae1135d40c15beb2e3989e0a16389
+size 767

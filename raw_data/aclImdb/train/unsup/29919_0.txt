@@ -1,1 +1,3 @@
-This was an incredible film, that stands alone as being one of the most honest films I have ever seen. It's powerful and brave performances made this film the gripping, sensitive and dark masterpiece that it is. Beautifully shot in BC, the cinematography was as compelling as the story. Mike Riley's portrayal of Derek, the father whose love has no boundaries, is riveting and profound and uncanny in it's honesty. Andrew Currie has created a personal, magnificant film that is all that and a bag of potato chips.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6506db4fa450d7880c73854545a09b8977ce0ac9865dbf27edc2d5cecd15bc
+size 513

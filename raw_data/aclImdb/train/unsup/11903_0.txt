@@ -1,1 +1,3 @@
-Almost didn't see this, based on reviews here. Glad I did, it was a very entertaining film, with many genuine laughs. The only way I can explain the ton of bad reviews here is that I think the movie industry tries to hype every movie as if it was the absolute best ever made. It raises our expectations too high.<br /><br />This isn't a "great" movie, or a "blockbuster," but is was solidly entertaining throughout.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad4d94f0aab6757d3dc8a91e731c652fdf827cd6ddab8596243e648e223d0b9
+size 415

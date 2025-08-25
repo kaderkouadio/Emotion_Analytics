@@ -1,1 +1,3 @@
-Like another ticket buyer I saw a nice cute poster about this film, it's five star review, and awards won. Thought what the heck, let's by a ticket for myself and my two sons. BAD IDEA. The movie was not a family film, it was gratuitous, and it contained nothing worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78ed997ead0bf0289c982681ea9cd04178843bd0e392d6f782027df173c1b2fc
+size 278

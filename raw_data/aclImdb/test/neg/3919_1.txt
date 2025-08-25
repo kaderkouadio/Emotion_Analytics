@@ -1,1 +1,3 @@
-Square pigs as a way of efficiently utilizing cargo space is the one and only clever moment in "Space Truckers". Believe it or not, Dennis Hopper has done worse, see "The American Way", but this movie is way up there on the "cream of the crap" scale. I think the best way to describe the viewing experience is that "Space Truckers" will please no one. Too cartoon-like too be taken seriously, an almost total lack of humor, and poor character development, virtually assures disappointment. The beer and popcorn crowd might tolerate one viewing, but all others have been warned to avoid "Space Truckers" for all of the above reasons. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:0901ee9219b4da57a77d21cf06aeafaaf8ef1dcccfe232ffc24e13053968e1c6
+size 639

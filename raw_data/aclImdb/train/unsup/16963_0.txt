@@ -1,1 +1,3 @@
-This one is in a rare but important tradition of movies based on real storytelling. The characters are fleshed out and warm, and the story is satisfyingly complex. <br /><br />You don't have to be from Hoboken to love this flick, but if you are from Hoboken, you will. I recommend this one heartily.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95a723d3b213bfa913cb958107f2d2e5d533d3041cce1eb050436f74959b657c
+size 299

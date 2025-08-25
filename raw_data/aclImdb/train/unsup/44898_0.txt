@@ -1,1 +1,3 @@
-Anybody who hasn't guessed the surprise ending of this one by five minutes in deserves what he gets.<br /><br />Which is not much.<br /><br />Some goofy and abortive mooning over the meaning of life, a couple of boring chases on a snowmobile, some special effects that woudn't cut it on Halloween.<br /><br />And Vick's repetitive killing of Adam actually gets funny after a while. Like a Roadrunner cartoon without the Acme products.<br /><br />And can anybody explain why almost the only time Vick wears a hat is when he's indoors?
+version https://git-lfs.github.com/spec/v1
+oid sha256:d76d20bcb90bea4e7bc11251f0c42ced505275862b5372d50cd827a1405c5e06
+size 533

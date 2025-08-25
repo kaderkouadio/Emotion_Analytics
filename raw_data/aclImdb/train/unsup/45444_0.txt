@@ -1,1 +1,3 @@
-I hated this movie. It was reminiscent of films such as CLueless and Heathers. The cast was foolishly pointless, as was the script and the cameo by rocker Marilyn Manson. But what makes this film is Ms. McGowan as the evil diabolical protagonist. Other than that, don't waste your time on this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cabbc463bf68500893c7705898becf5db6e6fec9bb61861d7ca1cf3fac1becc0
+size 299

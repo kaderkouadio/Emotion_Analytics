@@ -1,1 +1,3 @@
-This movie tells the tender tale of a demented scientist who, after his fiance is decapitated, goes around ogling strippers so that he can find a suitable body to attach her noggin to. Everyone in this movie exudes more slime than a snail, particularly our protagonist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:509de8742b2b80f8b3332d9a0195df99d8e045893b56eb4e220b3d64974f8942
+size 269

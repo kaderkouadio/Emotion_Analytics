@@ -1,1 +1,3 @@
-I only just watched 'Son of the Sheik' on dvd last night and was amazed at the textures of cinematography and the natural un-histrionic flow of the performances. While it may not be very profound or innovative, it never set out to be, and it is a far better flick than I expected, very rounded and organic and effortless. Vilma Banky is lovely and appropriately lowkey, and Valentino is every bit as exciting to watch as his celebrity maintained. Ahmed is NOT a character performance, Oscar material or anything, but Valentino instills this cardboard figure with the warmth of life, a quickening of the pulse, all very controlled and tasteful and humanly affecting rather than superhumanly virile. Of course he looks gorgeous, but so does the film itself. Some of the slapstick may seem dated by now, but then what about 'American Pie'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e98352f5c253fe1b2dc4d592d72c901c6b1e7209e2b404e677df6c815e6640a
+size 836

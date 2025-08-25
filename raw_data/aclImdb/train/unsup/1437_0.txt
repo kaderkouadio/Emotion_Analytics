@@ -1,1 +1,3 @@
-I have a great deal of affection for this movie. It's flawed, but it's a hoot! Granger certainly makes a unique and entertaining Holmes. The decision to cast Bernard Fox as Watson was a fabulous move. The cast also includes the always entertaining Anthony Zerbe and William Shatner too! I agree with another reviewer who noted that Holmes living on a hill overlooking London is definitely a nice touch. It truly conjures up the idea of Holmes as a protector of the city. This version of the classic tale deserves it's reputation as a cheap and cheesy TV movie, but it also deserves to be remembered as being hell of a lot of fun! I've had a ball enjoying this one on many occasions. Fun stuff!
+version https://git-lfs.github.com/spec/v1
+oid sha256:49ce7b304b2f28e864c9e3f996c00b206fa015f851b53674ba403f75d2ed59dc
+size 693

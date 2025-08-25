@@ -1,1 +1,3 @@
-This film works as a nice little reality check for us "over-aged" surfers. We see Rick teased with getting a so called real job, and we see him doing what he loves to do....being at the beach. Nice direction for a 70's film and real nice character development. Ann Archer shows her acting skills and of course Sam Elliott steals the show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d2074d07b10a9c22d91069b755f578f61593107d43097da700f063671ff464
+size 338

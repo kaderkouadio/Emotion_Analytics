@@ -1,1 +1,3 @@
-I'm not a fan of scratching, but I really dug this movie. It gave me a real insight into a world I never had a clue existed; and what else is a documentary for? Funny, clever, hip - just like Pray's previous film, Hype! about the grunge music scene.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f5c246bcdd694ab7729b0437900151b1499d9f4f33b5edb7865718eb5ef3df0
+size 249

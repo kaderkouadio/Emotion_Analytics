@@ -1,1 +1,3 @@
-I looked over the other comments and was thoroughly amused to find that clearly only people who actually worked on the movie had commented. I mean, I hate to say bad things about an amateur production, but if you make a bad movie and want to comment on it, tone it down a little. "Groundbreaking" is a little over the top. This is a Boston based college production that doesn't even achieve the level of most amateur college film. It's what you would expect a bunch of kids to do. A silly action film without much creativity. It's pretty funny if you're willing to poke fun at it. Not something you will ever see unless you are a student at Emerson college.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e20ac173fcd83d3d5f122b8b3df4d69bb411a03f68bba5d3e243586f02f35bf
+size 657

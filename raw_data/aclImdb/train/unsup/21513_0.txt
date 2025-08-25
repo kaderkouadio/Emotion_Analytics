@@ -1,1 +1,3 @@
-The premise is ingenious: a man injected into the body of another man. Brilliant!<br /><br />The movie itself is crammed with wonderful twists and special effects. *Sigh* They just don't make them like this anymore. Great plot, great characters and a neat ending.<br /><br />I've seen this movie when it was quite young and I've just seen it again. It's still great! If you didn't see it yet, you really should!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dea5841ecfbf16805e5cfc96dc25b6b572895ed443db7db55d5f4b748f5ed7f
+size 411

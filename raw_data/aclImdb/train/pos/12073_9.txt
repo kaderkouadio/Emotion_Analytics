@@ -1,1 +1,3 @@
-A lovely little B picture with all the usual Joe Lewis touches.... people ripping up pillows and auras of lurking fear. Also, alas, an ending that comes out of nowhere, because, apparently, the auteur has lost interest in the movie, or perhaps because as a B picture it has to fit into a slot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:253776e7cae023751547e7858c7ac725ceb044eb88a771007159e135bc9f20b3
+size 293

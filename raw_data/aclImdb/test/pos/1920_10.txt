@@ -1,1 +1,3 @@
-Filmmakers made a rather boring everyman's story look interesting and complex by focusing on his wife back at home. At the same time, we're exposed to a truly original, existential French loner. <br /><br />The film is more than a documentary. Hardly ever do I feel that I've experienced something that's accidentally profound, which makes it all the more profound.<br /><br />Film has visually interesting interior moments. Absolutely loved the journey the filmmakers took me on. (Quite a lot of Europeans in the credits). Hopefully, PBS will screen this so that it reaches a wider audience in the USA.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98d64cb8e3058e50ade990a5258535c30de56d0f63c083bd492ed1d77d10c776
+size 603

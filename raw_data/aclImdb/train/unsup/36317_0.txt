@@ -1,1 +1,3 @@
-A couple of days ago, I watched 'Troll 2' on video and I was astonished with such a bad flick. This 'The Horrible Dr. Bones' has not had the competency to be worse than 'Troll 2', what seems to be impossible, but it is almost there. What a ridiculous trash 'movie'! Certainly it is one of the worst movies I have ever seen. The title is very appropriate: Horrible! The ham 'actors' and 'actresses' combined with amateurish direction; awful screenplay; poor effects and make-up, all blended together is a synonym of crap. Fortunately, the videotape does not smell. My vote is two.<br /><br />Title (Brazil): "O Terrível Dr. Bones" ("The Terrible Dr. Bones")
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b9358dc791bec1cb10c9196ee9844ab1f0195076675e0d99d52730eaec77f4
+size 657

@@ -1,1 +1,3 @@
-Latest attempt to revive the series actually based on a pretty good idea but without the required gore fx/violence for this type of thriller - and thus... BORING!! Good special fx, sets, costumes, etc. but the film comes of just plain silly and a near-waste of time... hopefully the next installment will correct this problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe148e9f0a7ef5db374e866edf6a2658248b460270931c59f361902c0b6bc22
+size 326

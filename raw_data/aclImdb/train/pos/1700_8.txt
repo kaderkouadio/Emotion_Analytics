@@ -1,1 +1,3 @@
-i loved this movie. you have to respect midgets that dressed up like tiny Martians. Sure the story may have been thin at times, but you can't take away from the way it was done. i used to watch this over and over again when i was 8. its a kids movie, and besides, it has some of the greatest quotes ever. Blanzee's "Home on the Range" rendition is awesome. <br /><br />very well done if you ask me, 8 of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d908543e7e9a75fee4979ffea28b15273592cb4f22a1627288701294f0f7df3
+size 407

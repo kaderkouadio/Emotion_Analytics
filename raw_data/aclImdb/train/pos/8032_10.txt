@@ -1,1 +1,3 @@
-Just as Tom Berenger put you into the soul of Sgt. Barnes, he has done it again with Thomas Beckett. If I thought his world was folding in on him in the first scenes, it was nothing compared to how much more I felt during the last scenes. Great movie, even for a girl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65b45a35b21d52a94757c0755347e87d8a199272619e1f357644a08481f359ef
+size 268

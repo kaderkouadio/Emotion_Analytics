@@ -1,1 +1,3 @@
-If you grew up in the 80's, you can see why this movie still is a great classic! Great acting from Tom Hanks and Daryl Hannah and a story line that can be taken funny as well as seriously. If you didn't see this movie in the 80's you probably won't appreciate it that much. I would rank it with other greats such as Teen Wolf, Heathers, etc. "Behold, the mermaid!"..lol..
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d75917d09875c9cbafbe64f391700078d8b9c93e3beec2f018529a300bc7ef3
+size 371

@@ -1,1 +1,3 @@
-The first time I saw this film it really scared Me!The alien is very realistic and the scene where the scientist is operating on the alien's mate is disturbing but yet realistic.I don't want to go any more but I'll tell you this that if you like alien,sci-fi and horror films then check it out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:25dc5ca50e71c904df50583b1bcd6bb6df993feb7de7b3bbf4dec6ef296008bd
+size 294

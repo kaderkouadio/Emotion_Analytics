@@ -1,1 +1,3 @@
-I can't believe there are so many people still willing to buy this junk. If you're serious about investigating this nonsense, then just go here: http://www.skepticalanalysis.com/ If you just like it as entertainment, sort of like professional wrestling, that's fine, I suppose. But don't be snookered into believing anything they portray here. There's growing evidence that it is just as phony as pro wrestling, and much of it is completely staged. They just don't have the honesty to admit it, because that would ruin their ratings. And, after all, remember that it is on the SciFi Channel, not the Discovery Channel or the Science Channel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0a757745cf9e5cba64507dd2286fa57cbd5c770b2cbcafeb6154ba0066b2d20
+size 641

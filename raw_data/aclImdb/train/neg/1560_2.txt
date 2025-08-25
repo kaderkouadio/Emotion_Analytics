@@ -1,1 +1,3 @@
-This film can not even be said to be bad for it is sadly, just painfully mediocre. Lacking any real wit or imagination, a thin plot is stretched to the absolute limit and the `jokes' (which are predictable and threadbare) are spun out to such inordinate length that boredom and yawns quickly overtake the viewer. Another notch to mark the sad decline of John Waters and a reminder that what `shocked' or amused us 30 years ago doesn't work quite the same way now. We've seen it all before, and it no longer breaks any taboos because they have long since evaporated. A major miss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc056e575ead52709de34c6d00bf821c3736622458cbddb22ff32a1bb17f900b
+size 579

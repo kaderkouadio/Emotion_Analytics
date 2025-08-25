@@ -1,1 +1,3 @@
-One of the many productions dealing with the offshoring of American jobs, but narrated with class and delicacy, with no clichés. There's plenty of culture shock, due to new food, busted infrastructures, and other cultural barriers but with a pace never seen before, in my opinion. It's funny but becomes a romance as well and has one of its best moments when the two leading actors imitate the stereotype of the other, with impressive results. Almost entirely shot in India, Outsourced is a truly tiny movie that ultimately says a lot about troubles crossing cultural divisions. Among many films handling the subject this is one of the best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82ad7a36053f350d7b98817ce5bad62c31bea1651089eec360ca695da999878
+size 642

@@ -1,1 +1,3 @@
-I also saw this movie when I was young on TV in Los Angeles. It has not shown up anywhere that I'm aware of for nearly 40 years.<br /><br />"China's Little Devils" is a Monogram Picture. Monogram became Allied Artists in the early 50's. They were bought by Lorimar in (I believe) the 80's. The Lorimar catalog was purchased by (again, I believe) Turner Entertainment which was itself acquired by Warners. I hope I've got the "line of authority" straight! But I'm certain that Warners now owns "China's Little Devils" and hopefully we may one day see a video release of this basically forgotten gem from WWII. Warners has released other Monogram titles, so hope is there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2a9754b95d59789504d3cca1c17166bad0706fcffb8bd5f3fc5fdf1b70bf97
+size 670

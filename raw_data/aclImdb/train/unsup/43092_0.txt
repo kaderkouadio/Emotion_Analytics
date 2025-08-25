@@ -1,1 +1,3 @@
-The first half of the movie was ok and pretty innocent, but then the rest freaked me out. I can't see anything animated that is worse for a child to see. This movie is pure evil and will cause nightmares of demons with glowing red eyes. If you want your child to watch this, you may as well have them also watch The Exorcist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:edf6797d172699ee56f7291c89002e2bc5773d61a395c5a4e0a489012a9a418c
+size 325

@@ -1,1 +1,3 @@
-It might be creatively written, it might have been done a nice small budget, but I still can't give the movie much praise. While it tried its hardest to make the audience laugh, I kept waiting for a punchline that never appeared. Parts became monotonous, dragging so far as to invoke the fast forward button on my remote control. Possible it wasn't the script at all, it felt that the actors and actresses had little or no chemistry or emotion throughout.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3298385a87fbfc9991be3834312f54d4392b397c7674c0a76ac23f409f5b654
+size 455

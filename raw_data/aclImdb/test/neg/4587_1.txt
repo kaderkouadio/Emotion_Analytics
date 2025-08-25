@@ -1,1 +1,3 @@
-This film goes into my "Worst Films Ever Made" file. I have a copy of this film which I watch when I want a good laugh, and this isn't even a comedy. I am disappointed that such great actors agreed to be in such a piece of garbage. This film is inaccurate (in its portrayal of hockey), offensive (to Canadians), and I wasn't even all that impressed with the acting. Even the story was a bit weak. If you have never seen this film, you're lucky. If you have, I'm sorry.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b317b302454e9dcc8f055bf82bbe4a2ebe213fa3f3f06d7a6d5752674f8f5bf
+size 468

@@ -1,1 +1,3 @@
-Like Millions of others I loved the original Babe. What a shock when my wife and I ventured out for the new Babe Goes To The City.<br /><br />The sight of Mr. Hoggett getting beat to a pulp in the opening scenes as he was trying to repair his well was nothing to seeing a dog drowning.<br /><br />Thinking back I questioned how anyone could 'do' a poor Babe sequel. All they had to do was follow the original format and collect the accolades but alas... Hollywood strikes again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b7e4cc55c26d14f8a84f4688127b01c67241b5f2c1ec6d006521393ad02ad8f
+size 478

@@ -1,1 +1,3 @@
-I've watched this movie in my country. It's uttermostly stupid movie. The story is bad, going on without reason. Some scene was copied from Ju-On. And the ghost capture by photo camera idea came from a game.<br /><br />There are some bad 3-D scenes but it's just a cheap and cannot-frighten-you 3-D.<br /><br />It's not worth watching. Try some movie else.<br /><br />I give this movie an F grade.<br /><br />PS. This is just my humble opinion. Thanks!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4450086a04e70697cb24b03992a34855c1717a8d62f9bec72c4e2dbb2a5bf470
+size 452

@@ -1,1 +1,3 @@
-I loved this Tarzan movie, as it goes right away from the normal Tarzan movie. I liked that it has the same type of features that Tarzan of the past has had, but with a new look to head into the next generation. Casper Van Dien really shines in this movie, he has an amazing amount of energy, which this film needed. This Tarzan movie has a new twist, with old ways of life meeting the new way of life. I think it is a great movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8752a396d9c5e9f3a6ac54bbaddae14102d2db0f80ba075df5eac4b754b044c5
+size 431

@@ -1,1 +1,3 @@
-This movie about a man on the run for killing a mobster is the kind of film you can watch entirely on fast forward, once you know who's who, and not lose a thing. It has an attractive cast but the plot is a virtual writer's guide to cinema cliche, and boy does the dialogue clunk!
+version https://git-lfs.github.com/spec/v1
+oid sha256:46d2d710b3776c08c1ff369edb21ac59403f055d2dbbcd4aa1d177d449f3c9c1
+size 280

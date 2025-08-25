@@ -1,1 +1,3 @@
-Panic delivers the goods ten fold with Oscar caliber performances from William H Macy, Neve Campbell, and Donald Sutherland. In a movie about the choices we make and the consequences we live with. Chillingly Honest and thought provoking, Panic is easily one of the best film to come out of Hollywood in years. The impact stays with you right after you leave the theater.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec649dd810ed5711a9bb03e018b29d70de368d9f9e0eaaaf6108bcf03771b22
+size 370

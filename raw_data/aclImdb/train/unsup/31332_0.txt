@@ -1,1 +1,3 @@
-I absolutely love this show. It is the only T.V. show that I will never miss because I love it so much. I love all the characters and I love all of the humor used in the show. Abby is my favorite character, she's not your ordinary person you would expect to work for NCIS and I love that. Gibbs is a great character too, he seems very cold on the outside but you can tell that deep inside he really cares about everyone on his team very deeply. The first time I watched this show I was flipping through the channels and it looked interesting so I watched it and I have been hooked on it ever since and have never missed an episode. I would recommend this anyone who enjoys any kind of crime shows.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe5da23705eb1ff656bc33216c0e24070f2b9463ff7e2b6048f803f0f3b7aa12
+size 697

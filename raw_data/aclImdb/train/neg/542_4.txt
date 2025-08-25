@@ -1,1 +1,3 @@
-First of all there is Gujarati Theatre then there is Bollywood. Both have their strengths and fan following. Director Vipul Shah should look elsewhere instead of Gujarati Theatre when making a Bollywood production. First he made Aankhen (adapted from a Gujarati play) - which had a unique plot, but could not hold as a Hindi film. Now he's adapted another Gujarati play and named it Waqt - a race against time. In sum, the emotions are alien. The plot development is not for Hindi films. For example, the role play between father and son is best left to Gujarati Theatre - don't bring it in a Hindi film. Even the comedy track is best left for the Gujarati stage. All performances are average - nothing to shout about - barring Shefali Chhaya Shah who is fantastic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abec04f42949f5d7c2b05f99e1cc281d9d643ec57f40e5662897114a29ccee70
+size 765

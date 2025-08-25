@@ -1,1 +1,3 @@
-The guy did a lot of title design for a bunch of movies and I guess one day he said; I should pick a cheap scenario, try to put as much title in it as a can ( cause after all i'm a title designer ) and try to persuade people that this is in fact a movie. One of the worst i've even seen that's for sure. If you fell the urge to see nice titles, go check out some posters don't waste your time watching this.<br /><br />It kinda ironic don't you think, did you saw the poster? the only part of his project that SHOULD had title work done have almost none !
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c2e3d61dfb2bcbcfa81643b0aca689416ed100751ba497e224d11307c90a54
+size 555

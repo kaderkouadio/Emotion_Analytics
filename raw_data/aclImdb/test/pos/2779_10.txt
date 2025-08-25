@@ -1,1 +1,3 @@
-I love this Disney Movie! Its a real cute movie, and when it comes on again, I will have to make a mental note to tape it. I really like how they break into the bank trying to find Susie's parents information. You should really see this movie. Its great for the whole family.
+version https://git-lfs.github.com/spec/v1
+oid sha256:291c6093818963f8aef0f0fce90d40d2fe9e1da337d8b114087fe82a6c5ac75f
+size 275

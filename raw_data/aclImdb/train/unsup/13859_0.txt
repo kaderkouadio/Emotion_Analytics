@@ -1,1 +1,3 @@
-I first saw this movie when it came out and thought it marvelous. The comic strip Li'l Abner was a satire of life and I thought the movie caught this spirit. The actors portraying the main characters (Little Abner, Daisy Mae, Mammy, Pappy and Marryin' Sam ) did a fine job I thought. The Dogpatch scenes were more stylized as in a play but for this movie looked ok. Thankfully the Jerry Lewis cameo was brief. Audiences of today may not appreciate this movie because of their lack of familiarity with the comic strip but I feel that `older' viewers (who enjoyed the comic strip) will like this movie a lot. Can't wait for a DVD version to appear!
+version https://git-lfs.github.com/spec/v1
+oid sha256:556b929d31ac2dd57fdb0f475317bd7e63befccc478df1b9301412f084b70d46
+size 646

@@ -1,1 +1,3 @@
-One of the best records of Israel's response to the murder of Rabin.Extremely true and natural, it captured the spirit of the nation.Especially important was the response of young people to the trauma of Israel's loss and the feeling that we shall overcome.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51bbba18ff9a67788990e8754265c75311cca60db08f0480cab3d11402cea2a3
+size 257

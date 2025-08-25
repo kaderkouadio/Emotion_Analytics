@@ -1,1 +1,3 @@
-A twist of fate puts a black man at the head of an old-school, white-bred advertising firm. And he intends to make a few changes...<br /><br />One very strange piece of cinema. You'll either love it or hate it. Either way, you've never seen anything like it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2bbd96f237a96cf2c7c0d9cfcb3056d2a9f805de6c0dad17395340c9a8d7c90
+size 258

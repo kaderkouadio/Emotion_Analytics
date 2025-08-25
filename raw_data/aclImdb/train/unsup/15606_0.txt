@@ -1,1 +1,3 @@
-<br /><br />This series, based on the life of Santa Teresa de Jesús (sometimes called Santa Teresa de Ávila) offers a historically validated account of the times when this mystic nun was setting up monasteries in the deepest depths of the interior of Spain. Excellently prepared settings, both indoors and outdoors, admirably carry forward Concha Velasco in the best performance of her life, ably supported by a magnificent cast.<br /><br />However, I would prefer you to read my notes on an abbreviated version of this series - Teresa de Jesús (TV) (2003) - with the same cast, recently re-shown on the Spanish State Television (TVE), which should appear on IMDb in a few days.
+version https://git-lfs.github.com/spec/v1
+oid sha256:beeb2bd7e47cf2e60c6bc49b08160f0a7d7a8887e906faa8c67cd9b455ab7d82
+size 681

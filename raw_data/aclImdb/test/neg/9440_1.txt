@@ -1,1 +1,3 @@
-...I can't believe there are actually people here who recommend this movie... This is such a slow POS going absolutely nowhere. Oh yeah OK it goes somewhere, but you see that coming from miles away. Acting: Really really bad, maybe the bartender was kind of OK. Editing: BAD! I suppose the editor was told "we need at least 90 minutes", cause half of all the scenes could have gone in the bin. Music: don't get me started on that, the lousiest score I've ever heard. Who is that singing in the last scene for crying out loud?? Directing: oh my, IMNSHO David Lynch sucks, but someone trying to copy him sucks even harder. Skip this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4e1753be165ccf3490a6fb4bd1878c4e4ec7a13444bee7e4a964f92f61e26e8
+size 635

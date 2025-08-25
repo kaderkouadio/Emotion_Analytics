@@ -1,1 +1,3 @@
-Talking bout this great game bring tears to my eyes. This game and its continuations are so cool, that it freeze to the bones. Great Jokes. Great playibility. Fun. fun. fun. fun... Please, i know its an old game, but play it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5969f0826c1c4af377cd3366fe70ec22068dca3214ff0777a3958141efcdfa50
+size 225

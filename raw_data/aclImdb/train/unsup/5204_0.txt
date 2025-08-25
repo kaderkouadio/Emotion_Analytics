@@ -1,1 +1,3 @@
-A handsomely-made thriller saddled with a silly script, cluttered up with incredible situations and plot-holes. Goldie Hawn, toning down her upbeat persona, is curiously thoughtful and tense playing a woman whose husband has just died in a mysterious car accident; little by little she discovers he wasn't who he seemed to be. Nothing exciting or substantial is done with this premise, the child actors in the movie are just awful, and the long finale (a foot chase) doesn't do anybody any favors. The film's classy look dwarfs the marginal plotting (it leads one to expect much more), and the tag at the end--a freeze on Hawn looking wistful--is humorously self-defeating. There's nothing so thoughtful about "Deceived". ** out of ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:e16e9121dc7ef586f858459252c1a4d8db9771064af3f9d8b1b20745fa057d74
+size 736

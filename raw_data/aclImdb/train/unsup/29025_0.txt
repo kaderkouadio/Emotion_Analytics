@@ -1,1 +1,3 @@
-This film must be the most boring film I've ever seen in my entire life. I'm actually embarrassed to say that I've seen it. It could be used as a substitute for the electrical chair for death sentences. Personally I would feed Liv Ullmann the mastertape together with ketchup and roasted tomatoes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f0240812c5e2c11bb074d7819f8425e6b5a02d6246bf7393eddc9212da4650c
+size 297

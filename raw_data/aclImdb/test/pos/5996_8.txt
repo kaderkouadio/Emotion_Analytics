@@ -1,1 +1,3 @@
-I guess I have to write something here, although I think my one summary says it all. I'm not a huge Ted Danson fan... nothing against the man, just hasn't "done it" for me. This covers the sides of Swift's novel that were never covered before. You can tell the cast was having a wonderful time filming this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94b168243819d9c6da66a4b995708b6900a8e197191f19f1c24befa1f65d6c40
+size 307

@@ -1,1 +1,3 @@
-AS far as I'm concerned this is Woody Allen at his best story telling about a NYC that we think we recollect from all those old movies. Woody has taken those old movies and with the help of an excellent cast and a twist and dash of Woody Allen's writing we are back in Brooklyn circa 1940. Always a mood lifter. This is on the comedy shelf of my film library.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a85d3d105f93bb715448c42acdb14671bdc126775b5bb98d38f29afc93167d5
+size 359

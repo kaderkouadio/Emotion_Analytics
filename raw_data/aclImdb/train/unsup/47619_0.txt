@@ -1,1 +1,3 @@
-Maybe a small child will find it funny, prompted by the music and cartoon sounds, but the things meant to be funny are just plain stupidity.<br /><br />I've read bad reviews before, where the reviewer totally bashes the movie they are reviewing. I am not one to do that. I like many things others dislike. But this is just HORRIBLE! I paid $20 to purchase it, along with parts 3 and 4 ($20 for each)) on a VCD, because I had been looking for them everywhere, then saw someone selling the VCD's on Amazon.com. That was the biggest waste of money I ever spent I think. Part 3 was decent, as was part 4, even though it had absolutely NOTHING to do with The Gods Must Be Crazy, except that it was crazy for them to associate it to the series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f7fc633f4800d125b922ac988ce3cc07a69d26c436e9566204fac913859ae42
+size 738

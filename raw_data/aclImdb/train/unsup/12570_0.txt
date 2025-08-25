@@ -1,1 +1,3 @@
-This movie foretold the downside of the "reality TV" craze twenty years before it happened. Wonderful brooding cinematography around greater Glasgow at its most depressed. This is definitely a film which deserves to be in greater circulation and better known than it currently is. Romy Schneider's last film, ironically enough, and an excellent very real performance in a fairly artsy 70s vein. I should note I saw this in Glasgow some years ago, and it was the European cut, not what sounds to be a bowdlerized American version which misses some of the point.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6547e06b27558b31ec72b515361c873d14def3ab6aab3dace60105c5560268f7
+size 560

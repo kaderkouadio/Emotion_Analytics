@@ -1,1 +1,3 @@
-Here's a little nugget made for cable that revolves around a psychiatrist played by Gina Gershon. Her ex husband is murdered the day he's granted custody of the children. The lead investigator on the case played by Michael Biehn is her boyfriend. One of the suspects is a former patient played by Sean Patrick Flanery. The movie leaves enough unsaid to conclude what you will & develops gradually in a matter fitting to aid the suspense. The acting is top notch with great directing as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:930bc03e70b5a90ea8af818d4a00c8666190be5294bbab486ce99f7e4ce30fa9
+size 491

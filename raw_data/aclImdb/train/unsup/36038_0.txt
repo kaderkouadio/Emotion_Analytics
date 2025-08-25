@@ -1,1 +1,3 @@
-Well, those are the words that come to my mind when I think of Solstice.<br /><br />How many times before a story following that same sort of plot has been told ? Zillions! Why ghost stories only know how to tell one type of story: Mysterious things happen. A particular person start to see and feel odd things. Is it a message from the "other side"? Nobody believes anything this particular person says. Then in the end of the movie the whole thing becomes clear after one or two plot twists. The body of the wandering ghost is found and then she/he can rest in peace, and justice is made finally. <br /><br />Solstice has a nice production, but that is it. The story sucks. It is weak, deja-vu all over again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20ec158d92ab4d930376ce5bd94e2756453b9cffaaf00fd88915064d99a9a0cf
+size 711

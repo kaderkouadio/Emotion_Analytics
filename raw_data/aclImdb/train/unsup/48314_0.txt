@@ -1,1 +1,3 @@
-The original Fletch was kinda silly but fresh and different. This is old, not original and - if possible in something this tired - offensive. Fletch goes South to family homestead only to get tangled in local shenanigans. Nothing special from the supporting cast, no memorable lines, no reason to watch, and no explanation for the horde of Imdb reviewers that actually praise this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee57c6d17551f91171b87735810f5d8f8849b2a4054e9db8d547d43630d243d9
+size 387

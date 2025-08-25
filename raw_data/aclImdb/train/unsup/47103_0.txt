@@ -1,1 +1,3 @@
-This film was supposed to be tongue in cheek as I understand it, but it failed to pull this off in an at all amusing way. The whole story appeared to be driven by how much money they could make on product placement - awful. I am pretty sure it need not have been this bad, Bill Murray, and the Girls seemed wasted. Not since Hudson Hawk have I seen a film with a potentially amusing idea go so badly wrong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97eafc5634e55e3488e190adca13716136c36cde667f0d57783c2726f8d136cd
+size 406

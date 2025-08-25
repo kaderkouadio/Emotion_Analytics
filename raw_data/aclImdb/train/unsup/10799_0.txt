@@ -1,1 +1,3 @@
-I only watched the first half hour before giving up. I wasn't expecting much. I was expecting a dumb horror flick. I guess that's what I got... But it was too dumb. What happened to the days when stupid horror flicks that are good only for laughs were at least witty and clever? This is the sophomoric crap I've come to expect from three quarters of the low budget horror movies made in this decade. The monster was stupid-looking, had a cheesy voice, and had extremely lame lines and actions. Failed attempt to match the typical Wes Craven witty monster (Freddy, Wishmaster, Horace Pinker) combined with more sexually explicit junk to make it seem more over-the-edge. It was over-the-edge alright. It fell off into the toilet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e54e05ab2e7c6082e288001f1f9dd00cfdd3ddf7932d0d3608b8ad49fa3f46d
+size 727

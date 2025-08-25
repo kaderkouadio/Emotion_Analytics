@@ -1,1 +1,3 @@
-In the beginning the film was a bit boring but as it went on it got better and better. I find it quite amusing with a good end. I think it follows the style of analyse this, grosse point blank and other movies where a contract killer or mafia guy , in this case an undercover agent starts pursues therapy. If you liked any of these, go watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcd245522f5ff8032ded15a8e5b5b7993ea78b2d35fbb0758e51be6472b0eda2
+size 345

@@ -1,1 +1,3 @@
-Goof: Factual error<br /><br />When Charlie walks out of the room to commit suicide he takes his gun with a silencer. After a few seconds we hear a loud bang from the same gun being fired.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d82846d5364432a218a21d14b292d12cd9520efa1934208ec7963c92619aca35
+size 188

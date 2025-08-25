@@ -1,1 +1,3 @@
-I had the misfortune to catch the latest episode of this show. I'm a regular viewer of TV crime shows but had never seen this. I was lucky.<br /><br />Feeble in every department. It looks like it was shot through a filter of soup, the script was terrible - the story was hackneyed, psychologically inconsistent, and dull, the acting was weak. Kris Marshall is particularly unconvincing and looks uncomfortable in the role, even though this is the second series. The world the characters inhabit is a collection of watered down lifts from other shows (the light box they use to view photographs a typical example, ripping off the transparent boards from Waking the Dead to considerably less effect and impact).<br /><br />Will go out of my way to avoid future episodes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2f5ab956732e9258363872070f19a792891e605fac5e4b4c5cd529cea52cb0
+size 768

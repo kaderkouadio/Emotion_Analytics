@@ -1,1 +1,3 @@
-Any of Law & Order's, CSI (take your choice of city), and Homicide: Life on the Street's weakest episodes is superior to the strongest episode of Bones.<br /><br />David Boreanaz is stuck in crappy Angel mode, and Emily Deschanel portrays "Bones" too... unrealistically. The actors as a whole have terrible scenes together, be it with forced acting, or just awful lines.<br /><br />The murders become predictable after a while, as the foreshadowing and clues are just too obvious.<br /><br />Music is okay, though really unnecessary at times.<br /><br />All in all, Bones is hardly the show I'd recommend watching during the weekdays as it is a carbon-copy of better shows with unreal characters and ever-dulling stories.<br /><br />Skip this if you can.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c6b2ef619879ffa1f938a0be8387082045ebd7532db11de3f1844b3d416952
+size 754

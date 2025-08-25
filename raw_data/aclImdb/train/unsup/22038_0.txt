@@ -1,1 +1,3 @@
-This was a wonderful witty movie that was a pleasure to watch all the way through. Some of the plot was a bit pat, but the interactions between all the characters was fun to watch. All of the roles were well cast. The chemistry between all the main characters was great, making it a real feel good movie. I found myself wishing I could work in the sub shop with them. Jensen Ackles did very well, delivering his comic lines with his usual perfect timing. Some other reviewers here took offense at the nudity, which was not inconsiderable, but I thought it was all tasteful and part of the story. I hope this gets distributed - I'll be recommending it to all my friends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:520a14d8fd2909a0d1463f7507ff568150ec1ae9e706f8586542f27784c5c7da
+size 669

@@ -1,1 +1,3 @@
-While I was watching this movie, I was shocked at how unfunny it is. I have absolutely no idea why this movie is classified as a comedy. It doesn't have any jokes in it. I'm not saying that it doesn't have anything funny in it, lots of comedies don't have anything funny in them. I'm saying, IT HAS NO JOKES IN IT. There are a few gags here and there, but they are the kind of thing that would only have been remotely funny if you had been there. Sort of like when your 6 month old child calls your cat a dog, kind of funny if you're there, but if you saw it in a movie you wouldn't exactly be slapping your knee. Possibly the most pointless movie I have ever seen, and it just went on and on. My rating: 2/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73de70833d1812e8a02ef713836d23b215504511ed87a586929033aee1756377
+size 710

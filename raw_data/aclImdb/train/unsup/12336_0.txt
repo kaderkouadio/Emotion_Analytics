@@ -1,1 +1,3 @@
-This is an excellent art film. This is by no means your typical Bollywood offering of songs, romance, action, and masti. This movie takes an in-depth look at the lives of prisoners and the corrupt political system. Juhi wonderfully plays the role of a documentary filmmaker and a woman standing up to her abusive husband. One would think that a movie on the lives and feelings of three prisoners seems pretty hopeless, but a good script and profound and mysterious dialogues complete this film. An interesting twist at the end adds to the story and Juhi's powerful role and performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7aaaf12a0514b64ffedaa128ca76cc88284a669c4f51bb23598cece3d0ce57e
+size 586

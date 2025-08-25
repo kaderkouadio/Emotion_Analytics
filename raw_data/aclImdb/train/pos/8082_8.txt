@@ -1,1 +1,3 @@
-It's been quite some time since I've watched this LOTR. I am currently hunting for a copy to purchase. Bakshi's work is quite true to the original work. The visuals are engrosing and sometimes haunting.<br /><br />Drawbacks? Occasionally, the movie is confusing or muddled. There are one or two times where the storyline slows to a crawl. But, overall -- buy this movie. It's great for kids, adults and collectors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28af206c5a0301282fc7b2ffc0ce628c180c991b41ab1dfb0cc1e1c5491e22a9
+size 414

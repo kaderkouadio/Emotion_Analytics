@@ -1,1 +1,3 @@
-Ocean's 12 starts off on annoying and gets worse from there on. Like a celebrity awards presentation, each major actor/actress is introduced in short 60-second scenarios that seem to stop just short having a blinking "applaud now" sign. The first 60 minutes of the film are incredibly disjointed, poorly edited, and at times, utterly unrelated to the story and confusing. Speaking of the story,...there is one, kinda,...but its barely visible for all the "look at me" shots and cameos. Only Matt Damon seemed to actually "act" during this film...the rest of the cast appeared to only be there to participate in a rat-pack-wanna-be session. As for the heist, the action, the drama....it was put into the last 8-10 minutes of the movie and was pathetic and anticlimactic. Horrible! Horrible! Horrible!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e51276b7d23a8f174b4cbed57de6acc5b2522b580ab32b9cc9805f82fa0a7a5
+size 799

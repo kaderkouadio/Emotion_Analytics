@@ -1,1 +1,3 @@
-Unlike John Ford's celebrated cavalry Westerns, there's no humor or sentimentality in this film. It shows the grim situations and less than stellar personnel that cavalry commanders often faced. The interplay between Sergeant Vinson, Private McGurney, and Scout Pawnee is interesting and incisive. McGurney shows how a miscreant within a unit can be as great a menace as the enemy. The cinematography is excellent, particularly during riding and water hole sequences. Worth looking at, especially for Western fans interested in the cavalry.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:70e8f8680aa125b17f5229bb31cfc98583c756cf5ac8b61fa75c793bfc48f091
+size 552

@@ -1,1 +1,3 @@
-The Best of Times is one of the great sleepers of all time. The setup does not tax your patience, the development is steady, the many intertwined relationships are lovingly established, the gags and bits all work and all are funny. There is lots of sentimentality. Kurt Russell playing Reno Hightower puts in one of his best performances, and Robin Williams playing Jack Dundee is sure-footed as ever. The cast also includes many great supporters. Jack's wife is played by Jack Palance's daughter, who is lovely, as is Reno's wife, who is a great comedian. I can't tell you how many times I've watched this movie, how many times I have enjoyed it and how often I wish that more people could see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04d4ccea146a6fc69a8715183fcdb5ab967d3a92f809af762b03c947373c84c5
+size 698

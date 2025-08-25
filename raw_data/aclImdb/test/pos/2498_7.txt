@@ -1,1 +1,3 @@
-The Love Letter is one of my all-time favorite books, so naturally I was skeptical when I heard it was to become a movie. But, I liked it. I found myself grinning through the entire movie. I admit that it isn't a great movie but definitely a pleasant hour and a half. I thought that Capshaw and Scott were perfect as Helen and Johnny. Just as I pictured them. And the town and scenery were just right as well. I recommend this film, but don't expect too much, just enjoy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d22d18f0d4bc1f414e41d49c105c5069b808bd8aebe7bc321aa072506113a04f
+size 474

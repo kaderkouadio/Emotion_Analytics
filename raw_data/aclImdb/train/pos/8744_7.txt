@@ -1,1 +1,3 @@
-This is a low budget film with a cast of unknowns and a minimum of on location shoots. The Philippines substitute for Thailand and nobody actually goes to Hong Kong. The stock shot of a Cathay Pacific jumbo jet landing at the old airport makes the transition perfectly. This film proves that you need neither mega budgets nor a headliner star to produce an excellent movie. It contains neither the gaffes nor the excesses that young filmakers often stumble into. Solid workmanship from people who know all the aspects of movie making and who understand the compromises between art and box office. An excellent piece of work!
+version https://git-lfs.github.com/spec/v1
+oid sha256:25199b714808f26ed699cb9a1fdec0ce8c8a7bee4d204ef8a24edbf13052f91c
+size 624

@@ -1,1 +1,3 @@
-This is one of the rare films that are so bad that it's actually good! When I watched this with my brother we were laughing so much that our stomach were in agony for days... I just watched Cohen's The Stuff and there were similarities like Moriarty's wooden acting and really campy settings and lousy special effects. If you like bad movies this The Stuff is a must-see! Can't wait to own this on DVD...
+version https://git-lfs.github.com/spec/v1
+oid sha256:07275d272b816e9fb015a5e62738db7f0afe54a085e92910822d2c07a29f8934
+size 404

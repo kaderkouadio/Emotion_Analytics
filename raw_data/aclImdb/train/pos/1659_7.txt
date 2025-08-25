@@ -1,1 +1,3 @@
-A fragment in the life of one of the first female painters to achieve historical renown, "Artemisia" tells the true story of a young Italian woman's impassioned pursuit of artistic expression and the vicissitudes she encounters. The film features sumptuous costuming and sets and a good cast and acting. However, it is muddled in its attempt to depict the esoterics of the art and the time and is uninspired in its representation of the passion of the artist as painted on canvas and explored through her involvements with men. A good film for those interested in renaissance painting or period films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5a47db1c0ba212a1c9266b0557f56ca2ef0e7d381c51c46c8f9ee6c532574b
+size 601

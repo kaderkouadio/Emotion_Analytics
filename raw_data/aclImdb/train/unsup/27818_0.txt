@@ -1,1 +1,3 @@
-Escape from New York is probably the first modern action movie, and still stands up pretty well. Not quite up to todays CGI effects, but the main character Snake Pliskin played by Kurt Russell is probably the coolest action hero (or anti-hero) ever. Up until this role Russell was probably best known for his Disney movies and it was a great casting job that totally changed Russells image. I can't say enough good about this film. If you like your action gritty and your hero's to be dripping with attitude you'll love Snake.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f1d442e9dec4200728619cd5d086fba5fa8be6951f788a00b352168ffe7673a
+size 526

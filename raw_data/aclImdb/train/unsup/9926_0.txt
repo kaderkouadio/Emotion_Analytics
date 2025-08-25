@@ -1,1 +1,3 @@
-A detective (Richard Conte) goes undercover, posing as an intern at New York's Bellevue Hospital, in order to solve the murder of another intern. What he discovers is a rather sophisticated operation of gambling and drug dealing. Desperate interns, a seductive and crooked ward nurse played by Colleen Grey, and a rather demented hospital maintenance man (Pops) played by Richard Tabor, together call into question the very integrity of the famous hospital. Conte works his way through to solve the murder and to learn the circumstances around it in some unusual film noir settings amidst darkened hospital wards and empty hallways.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1aee52771ca6afdb59f9cedff2ad23619645bf39c4a111220dbabe45e64bd83
+size 632

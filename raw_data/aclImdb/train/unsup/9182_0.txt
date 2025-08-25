@@ -1,1 +1,3 @@
-The Beatles made 5 films during their rein of rock royalty, for my money this is by far the best, most intimate rock documentary ever made. It starts with one simple, haunting shot of Ringo`s drum kit and ends with an invigorating roof-top concert. In between we get to see run-throughs and rehearsals of some of their best music they ever recorded. We also see several arguments between John, Paul & George. Ringo is pretty even-tempered throughout the film. Oh yes, and we do see a lot of Yoko Ono (mostly by John`s side). Let it Be was released on video at the dawn of the home video market. It was quickly withdrawn for legal reasons. Hopefully, one day very soon, Paul and Ringo will grant a re-release on dvd so many generations of fans can see this great movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:735a646b7ccd4da79ee41a4a08c0abe807332ea9e12f815417f25f1e9f494b0b
+size 768

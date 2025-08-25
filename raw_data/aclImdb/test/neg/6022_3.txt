@@ -1,1 +1,3 @@
-This movie was an absolute waste of time. It's nothing but a wanna-be gangster movie. It contains a very predictable plot. My feelings are unsympathetic to the characters, and the dialogue is mediocre at best. Half the time you are looking for something else to do, because the movie is that boring, since you already know what's going to happen. The other half of the time you're desperately hoping the protagonist grows a pair of balls or just ends his life by jumping off a bridge or something. Also, the secondary characters are for the most part one- dimensional. There's no depth to any of the characters in this movie! No depth!
+version https://git-lfs.github.com/spec/v1
+oid sha256:20cac4f54f83a5f4bc796d36b070cfc1ae0947355153f8699f5019ac3a9e82e4
+size 635

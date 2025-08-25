@@ -1,1 +1,3 @@
-This was a truly insipid film. The performances are third rate, and the dialogue is so stilted that at times it seemed to have just rolled over and died. My reason for renting this was simple: Find a movie with scriptwriting. I needed a visual aid for my presentation, so I figured why not use a clip? Boy was I wrong. After searching my local video store, I came upon this, where it was suspiciously titled "Starstruck". I thought, "What the hey", and decided to give it a try. Well, I was very unhappy with my results. There was maybe one scene I could use, and meanwhile, I was practically falling asleep because of the sheer banality of the flick. So.....I took this back and picked up Ed Wood. There's a movie I can use as an example. Then again, anything would be presentable compared to the drivel that is "Starfucker".
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c8772ab92f9b2d8b732c8d89d077ceb2f1db954a21092955ec5da729ae02f41
+size 826

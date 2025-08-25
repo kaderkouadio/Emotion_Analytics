@@ -1,1 +1,3 @@
-The first hour or so of the movie was mostly boring to say the least. However it improved afterwards as the Valentine Party commenced. Apart from the twist as to the identity of the killer in the very end, the hot bath murder scene was one of the few relatively memorable aspects of this movie. The scene at the garden with Kate was well shot and so was the very last scene (the 'twist'). In those scenes, there was some genuine suspense and thrills and the hot bath murder scene had a nasty (the way slashers should be) edge to it. The earlier murders are frustratingly devoid of gore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6770d8cfbd6e3656c7cbc6602d599dee2def012aa2a58a934e334441867b3d29
+size 586

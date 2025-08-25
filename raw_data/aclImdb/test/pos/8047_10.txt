@@ -1,1 +1,3 @@
-Some of the reviewers here have foolishly judged this silent film by political-correctness standards of today. <br /><br />"Battle" was an excellent film for several reasons, correctly noted by more rational reviewers: Superb cast, lots of action, innovative editing and photography. <br /><br />Its stars were in effect the D.W. Griffith stock company and to this silent movie fan, that is inducement enough to watch it and to enjoy it. <br /><br />I saw it many years ago and just watched it again at YouTube; that was a very poor quality print, but coupled with my memory of a good print in a real theater, I can justifiably recommend this to reasonable people and film historians.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de0d3fd07c3f3bb4c3fa95527411c0829beac9ccbdca5ea99cfa7e310b47c19
+size 684

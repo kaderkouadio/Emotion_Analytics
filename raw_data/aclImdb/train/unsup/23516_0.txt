@@ -1,1 +1,3 @@
-Good balance of older character actresses shining alongside some of Hollywood's rising young male stars. This comedy/drama will appeal to arthouse audiences as well as the "Scream" crowd who get to see their pin-up boys (Jamie Kennedy, Freddie Prinze Jr.) shine in roles with a little more meat than their slasher flick appearances have allowed. Park Overall and Veronica Cartwright are phenomenal (Cartwright's two years of Emmy nominations in '97 & '98 are no fluke - she can do anything). Very good movie that will appeal to all types.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81a9234f38f4e77285b4b9ebfabd5ea4d16aad7c6e58d6aeeedfd33ce7a4f1b1
+size 538

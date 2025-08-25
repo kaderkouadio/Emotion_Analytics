@@ -1,1 +1,3 @@
-The China Syndrome is a perfectly paced thriller and not slow or boring at all, as some people tend to say. The transitions from one scene to another are great and the tension build up in the film will keep you on the edge of your seat for the entire two hours. Jack Lemmon is great, as always, as the somewhat nervous plant operator and Jane Fonda succeeds again in bringing some real emotions into the story. You can see this film as a political statement of the time, or just as an intelligently made thriller. Either way it is definitely worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e00f03a67e2f6543a3c5bc190d038b434b2d9c8e10f4d04ce865ea7c8ac93f
+size 557

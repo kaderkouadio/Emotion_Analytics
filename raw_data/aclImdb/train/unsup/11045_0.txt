@@ -1,1 +1,3 @@
-This has to be one of the worst movies of all time. It is a mix between a Jean-Claude Van-Damme movie, Mortal Combat, and the Highlander. In the background you can hear music playing and it dosn't stop once during the whole movie. It seemed to get louder and louder and it just won't go away. This movie is almost as bad as Puma Man. At least Puma Man was fun to watch. This movie was like having your fingers broken one at a time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3f450ee43404abe1c19cdb534991351725c9d963725b3721fe89539cef8655
+size 431

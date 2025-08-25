@@ -1,1 +1,3 @@
-This is a great TV movie about a single mother who is dying of cancer. Scott Bairstow is especially convincing as Michael, and he gives the impression of an older brother. Jaime Renee Smith shows herself to be a very mature actress. She lightens up the film, and really makes you get to know her character. If this movie is playing again, I would encourage you to see it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f26e543d04beeca1b558da61f9a615b442b65084ce385d2febebee038bad1f6
+size 371

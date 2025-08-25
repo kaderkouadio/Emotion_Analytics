@@ -1,1 +1,3 @@
-This movie was awful, although I have seen some worse movies before. The Imp is the most annoying character even though he is supposed to be the most lovable. The witch is fairly attractive and the rest of the characters are really annoying. For example, the madman whom continuously points out that he's mad. And the knight in shining armor whom fights like a sissy and trusts everyone right away. But like I said, there have been worse movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24efd03a3b899d64941cb1560ad7324d43edf46087507459bd3c82514cb8cf81
+size 445

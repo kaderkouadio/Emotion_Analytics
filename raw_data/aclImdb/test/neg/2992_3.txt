@@ -1,1 +1,3 @@
-There seem to be many fans of this movie here, but I found it boring, slow, meandering, and pointless. And I watch and enjoy plenty of art-house and independent films, so I wasn't expecting an action movie. I didn't sympathize with either character. The guy from the countryside was a bad guest and didn't seem to be trying very hard to find a job, and his relative in Istanbul was humorless and closed off emotionally. <br /><br />In an interview on the DVD, the director says that the movie is about a common situation in Turkey - the person leaving in the countryside because there are no jobs and coming to Istanbul and staying with relatives while trying to find work. That in itself is interesting, but the movie wasn't.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c19742399528592379bec5853c977bf9febb393c42aa0cc732e4f050a585dc1
+size 726

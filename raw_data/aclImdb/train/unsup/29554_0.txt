@@ -1,1 +1,3 @@
-After years of hearing from film magazines about how wonderful Blue Sunshine was, I decided to give it a shot when it appeared on TV one night. All I have to say is wow. That was possibly one of the most painfully dull experiences I've ever had. The writing is shoddy, the actors all appear as if they came to this film from the porn business and the film meanders along at a pace that would put a slug to shame. The only saving grace that I found in this film was a snazzy little score that unfortunately also seemed somewhat out of place. And praise be that Zalman King has left the acting business for directing because I would rather watch his erotic flicks than sit through another painful Jerry performance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f009e6394330d085a6dcb21e5ddf31dc5f522cd6a62f947aaf14732dd092163
+size 713

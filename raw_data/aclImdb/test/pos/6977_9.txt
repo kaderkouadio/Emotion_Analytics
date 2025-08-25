@@ -1,1 +1,3 @@
-Newly-pregnant Knight bolts from husband for non-specific reasons which are apparently self-related. On the road, she becomes entangled with Caan, brain-damaged former football star, and Duvall, wacky but abusive cop. The type of movie that could only have been spawned in the 60's. Worth a look for its non-formula plot and for early performances by future stars.<br /><br />Disappointing resolution does not take away too much from rest of flick, which shows an interesting slice of life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f858ca961df439f7520fbc43789b37a1e672a3fb7a5e91cfbbeb5b3939490ca
+size 490

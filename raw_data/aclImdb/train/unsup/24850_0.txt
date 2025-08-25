@@ -1,1 +1,3 @@
-The title says it all.<br /><br />The story was great....a plot, a love story, a struggle, etc....<br /><br />The acting wasn't great, but it was good. I think all the actors did a fair job.<br /><br />The only real problem with the movie was its dialogue. It was so verbose that it was unrealistic that, even in the 50s they would speak that way. <br /><br />It's like every sentence had to be stated in absolute verbose perfection as if it was being read from a book. Real dialogue needs to sound like people would actually talk.<br /><br />An exceptional performance by Robbie Benson, btw.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8efac8fc0c8f0866d61d22236baf24aefa6580f07ebb641b3e5d922e6600d0e6
+size 592

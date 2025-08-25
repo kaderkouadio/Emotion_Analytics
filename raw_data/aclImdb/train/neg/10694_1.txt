@@ -1,1 +1,3 @@
-I checked this movie out based on a favorable review on this page. It is slow moving and the payoff is a four star dud..The only mystery here is how Oscar® winner F. Murray Abraham got involved with such a lousy script!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c0f391bf87af790bccdd687a1e4a05b739007fc78ed0b803ca43cbdf30b90b7
+size 220

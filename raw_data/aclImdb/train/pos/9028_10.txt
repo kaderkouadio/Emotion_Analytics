@@ -1,1 +1,3 @@
-This movie will kick your ass! Powerful acting in a story that pushes all of us to live out our dreams. Jake Gyllenhaal will go places from here, and the supporting cast was superb. Why would would anyone want to stay in Coalville and develop black lung anyway?
+version https://git-lfs.github.com/spec/v1
+oid sha256:796e7b62c8d2f45aeb30783caf68794a1d516ee581aabd2809d17db8e8de6b75
+size 261

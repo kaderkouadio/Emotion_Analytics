@@ -1,1 +1,3 @@
-Pretty funny movie...if you like trying to figure things out...this is for you!! Starts off slow, but it has so many funny one-liners that it is worth the wait. Good performance by Oliver Platt. Funniest moment in the movie...2 guys using the urinal...one says, hey, havin' some trouble there...don't worry not everyone has it all like me.....the other replies, ok, ok, you win the pissin contest, (pulls out a gun) but I win the shootin contest (shoots off one of his balls!!) CLASSIC
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d3e3c7a386d4730addd51d71e6c80ee26dff9e9743add5427dc780554620e3e
+size 485

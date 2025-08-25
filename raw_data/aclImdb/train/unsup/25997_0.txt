@@ -1,1 +1,3 @@
-I personally, thought the "The Howling IV" was better than the original "Howling", which it is obviously a remake of. The special effects were better and more graphic, and it was more erotic. There was more of a story line and it was less confusing. Not bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b62a9b96096c0e49cc5a0db57d0a8a473f20daf584feea67b8f72f9cc02b80c
+size 258

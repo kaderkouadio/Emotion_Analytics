@@ -1,1 +1,3 @@
-Interesting camera-work is the main attribute of this late 1940s western. It plays and looks more like a film noir than a western, but there is nothing wrong with that. I enjoyed that aspect, especially the film noir-like cinematography. I say the latter because of all the stark black-and-white contrasts, night scenes and facial closeups. At the same time, it reminded me of a John Ford western with the expansive skies and big rock formations.<br /><br />I can't say the story is anything special. It's almost frustrating, seeing everyone chase after Robert Mitchum even though the man has nothing wrong! Yes, it's a paranoid viewer's delight but it got to be a little much of a downer for me. However, Mitchum, Teresa Wright, Judith Anderson, Dean Jagger and company all acted well, and I appreciated their talents.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc4ba8c9d050cbaacd48b8369a6cce62b31ff14060643129a3b79f0f88b57eec
+size 819

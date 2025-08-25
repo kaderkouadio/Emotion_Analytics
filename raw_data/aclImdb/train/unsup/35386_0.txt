@@ -1,1 +1,3 @@
-By the last half hour of the movie, I wanted to bang my head against a wall. I love Lindsay Lohan, and I thought she was great in Freaky Friday, and maybe the reason she annoyed me so much in this movie was the fact that she was TOO good. She really was a drama queen. As for the movie, random fantasy scenes with cartoonish seventies figures and background everywhere was truly irritating. Also, her outfits in the film were so horribly hideous. I suppose this movie was amusing, but still, the word that describes it best is "annoying".
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ae155c8fce7678add59777ae781661c70c531223efd0eac344fd7a1f7b406e4
+size 538

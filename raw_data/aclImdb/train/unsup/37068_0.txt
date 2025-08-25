@@ -1,1 +1,3 @@
-This is a film based on the "wonder" Helen Keller as an adult (20). It's a good example on how a good story can go wrong, so wrong. The actors tries so much, too much, and when you do that you always stumble and fall. And in this movie they fall over and over again. There is no surprises in this movie. After watching it for 15-20 minutes i knew the movie without knowing the Helen Keller story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a3f02980a494f7ceacb6d49d72ae01b720c04f8f926d4adf2eaf8b9f75b57c
+size 396

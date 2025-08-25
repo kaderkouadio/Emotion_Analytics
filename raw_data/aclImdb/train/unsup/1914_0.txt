@@ -1,1 +1,3 @@
-This is one of my all-time favorite Altman movies. Even though I was too young to have ever seen the O.C. & Stiggs saga in National Lampoon, I've been through two VHS copies of the movie. Dare I even hope that one day it might be available on DVD? I think hell would have to freeze over first. I had the chance to meet Daniel Jenkins about 12 years ago when he did a local production of Twelfth Night. Man, is this guy talented. I can't even remember how many different musical instruments this actor can play. I think my friend and I scared him a bit as we barraged him with ridiculous queries about O.C. & Stiggs at a question and answer session after the play. He's a teenage crush that has carried over for many, many years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eae0b16080244d912d54630e2d884bae76c37601e4c898dacf602c0ca76d998
+size 728

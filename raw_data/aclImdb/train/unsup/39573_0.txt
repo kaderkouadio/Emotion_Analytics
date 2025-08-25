@@ -1,1 +1,3 @@
-Number 3, why? How far can they wear out this formula? I started routing for the bad guys and maybe this way the series would be finito. Joe Pesci plays an annoying character. It makes me wonder what he is like in real life. This is a typical shootout hollywood ending. It is so predictable. The humor between the two main actors is getting old. 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:15ed99a49f58161ac753b4220102627781f6fd93e5eafdbffc3788b10f2cda90
+size 350

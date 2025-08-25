@@ -1,1 +1,3 @@
-The whole exercise is pointless. Why make the film at all? The lighting is ghastly, but the sound is just a joke. Like a high-school production. Whoever put the budget together for this film should be drawn and quartered for allowing it to be made without the proper budget for soundmen with equipment fit for recording.<br /><br />So much dialog is unintelligible due to losses in echo or the lack of proximity to the mic. Economy should have been made on any other area. The whole production is lifeless and just LAME with such amateurish half-arsed production. It lacks warmth, clarity, and has no design to it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d8495fa9b7ace95bd8cf94956549f2c2ec1674c464512fff3538931d75ea38
+size 614

@@ -1,1 +1,3 @@
-It's not that well known when great french films are discussed but this is a wonderful film, cunningly written and directed so that our expectations are constantly being changed. It works then as an entertainment but it has one of the greatest endings of any film. There's no way of describing it that won't spoil it. There's a time and a place for SPOILERS but there's nothing to be gained by putting them here. The end conveys love as well as anything I've ever seen. Not the joys of a quick affair but the sense that two people have been in a relationship which has matured over many years. Very special and well acted by the three leads.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7efc25a9c9356f101c888cd88dd5fe88179425e7d944e47d21f03e7afc9cab8a
+size 641

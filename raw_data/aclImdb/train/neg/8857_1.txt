@@ -1,1 +1,3 @@
-This film is really bad,so bad that even Christopher Lee cannot save it.A poor story an even poorer script and just plain bad direction makes this a truly outstanding horror film,the outstanding part being that it is the only horror film that i can honestly say i would never ever watch again.This garbage make Plan nine from outerspace look like oscar material.
+version https://git-lfs.github.com/spec/v1
+oid sha256:027d5d26037072d9f1b2176e6f3b27b20fec21a18d5354e391f703a3642a78a4
+size 362

@@ -1,1 +1,3 @@
-Not everything on the screen can be Citizen Kane or The Godfather. However,this movie does not pretend to be anything other than what it is, an entertaining story about possibilities. Despite being a little preachy, it is nicely photographed, well told, and provides the audience with information that may not be historically accurate but based in fact. It was well cast with more than competent actors as believable and likable characters in a far fetched but "I guess it COULD be possible" story. The timing and editing are what I feel make the film work. And, unlike other reviewers, I don't find Wilfred Brimley's narration annoying or distracting. You could see the ending coming but so what. It is a nice way to spend a rainy afternoon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5daa04aa75e500a7dae3074fdba76df3f313c3cd04fd05a376f74e46c5067e16
+size 742

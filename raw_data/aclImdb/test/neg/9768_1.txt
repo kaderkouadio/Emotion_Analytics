@@ -1,1 +1,3 @@
-This movie is absolutely horrible! I thought because it had good actors in it like Gabrielle Union, Hill Harper, and of course the infamous Billy D. Williams. The movie is long, and drags on with a documentary style of showing Gabrielle Union, who has died in the movie, talking about her family; which by the way is a confusing family because you never know who's who, and who's related to who. I would not recommend this movie to anyone, and I wish I could take it back where I got it from. I fell asleep from time to time because of the boredom. Do not waste your time or money on this movie. It could had been more true to life with more drama, and less boredom.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69aebefe2e2794dcb9f094223a94586da8fcd27d507c525fcebee3c8fa8362e1
+size 666

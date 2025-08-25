@@ -1,1 +1,3 @@
-Another decent offering from the pen of Vince Gilligan.<br /><br />A pre-"Malcolm in the Middle" Bryan Cranston plays Patrick Crump, a deranged guy who eventually hijacks Mulder via gunpoint and has him driving west at high speeds. It has something to do with his severe head ringing (& possible deadly combustion--his wife just experienced it), and the pressure only seems to be relieved by heading towards the left coast. Only Mulder could relate to this guy's plight, and actually bond with his captor before the all night ride is completed. <br /><br />Meanwhile, Scully seems to have solved the case with a possible remedy for Mr. Crump, and will meet them at the ocean. Check it out to see if our Dynamic Duo can hook up at the Pacific and somehow rectify Mr. Crump's big problem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c308c44726f086e830c24a081ed110f6e600118f546836d4224ce7028c96087
+size 786

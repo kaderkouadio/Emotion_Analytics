@@ -1,1 +1,3 @@
-This is, by far, my favorite movie of all time! I was twelve years old when my parents took me and my brother to see this terrific film in a nearly empty movie theater on Long Island. We had heard so many stories from my parents about Sid Caesar, Jackie Gleason and Milton Berle, yet I never knew what to expect from this film. I nearly died laughing watching "my family" during the dinner scene, and I bursted out with joy during the finale. Seventeen years and countless times reliving those moments later, they STILL make me laugh!! Seeing Lou Jacobi on screen brings back so many memories of my grandfather, and watching Benjy Stone only makes me wish more and more that I would, one day, switch places with him. If you ask me what my dream job would be, I would DEFINITELY choose writing for "Your Show of Shows."
+version https://git-lfs.github.com/spec/v1
+oid sha256:013a535123c675b211a59c21984328aefafe4b3ce55c9787bcbd15e4283c25f4
+size 818

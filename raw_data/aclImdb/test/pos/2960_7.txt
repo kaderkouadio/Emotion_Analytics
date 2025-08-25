@@ -1,1 +1,3 @@
-A wounded Tonto standing alone to protect three innocent lives. A devious woman masterminding a deadly plot. Racial tension. Smart Indians.<br /><br />These are things we rarely if ever saw in the TV series, but this movie adds them all into the mix. While this is most certainly a Lone Ranger movie, it mixes up the formula just enough that those who grew tired of the series would probably still enjoy it. Definitely recommended for any fan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc12badec1a921b1dbb7a89794e36e064f0e4f0bba564cc43b9f579e942d46a
+size 443

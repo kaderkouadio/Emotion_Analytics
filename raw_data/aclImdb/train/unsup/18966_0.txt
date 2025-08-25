@@ -1,1 +1,3 @@
-Just a brief comment for now, of all the versions that I watched of Little lord Fauntleroy filmatisations, this one in my opinion features the best fitting actors if you compare with the book. And shining gloriously at the top is Sir C. Aubrey Smith (the old Earl - Cedric's grandfather). No other actor that I have seen so far comes closer to portraying the old Earl as gruff and cantankerous as he comes across in the beginning of the book. A slight minus is the low technical quality of the film, but being made in 1936 it is not bad all things considered. I might add that this was the first filmatisation that I watched and thus my opinion might be a little biased but I think that this film is still on the top shelf in terms of overall quality, a true classic. Don't miss it if you have the opportunity to watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46d63dc414e2ceb018369fe1ab90fa83f03d20a104dff3070e1a14071c965b36
+size 822

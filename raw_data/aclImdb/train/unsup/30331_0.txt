@@ -1,1 +1,3 @@
-Although this is a fantasy it is a valuable film.<br /><br />Slater gives an excellent performance of the schizoid loner on the edge and it it becomes possible to genuinely empathise with his lot. Rarely has a character so distorted and distopian managed to maintain some warmth.<br /><br />The film work is stylish and stunning at times. Simple effects are used with great impact.<br /><br />A comedy about catastrophe and despair, a romance about alienation, a hero who is past the point of breakdown, a hero who is the victim -- excellent
+version https://git-lfs.github.com/spec/v1
+oid sha256:939ef884a156b070aa9cc5d75bf846a96962201d3bfc800e4006324db457ee98
+size 541

@@ -1,1 +1,3 @@
-Since today is Steven Spielberg's 60th birthday, I wanted to comment on one of his movies. He only produced "Young Sherlock Holmes" - Barry Levinson directed it - but it's a pretty cool movie. Portraying Sherlock (Nicholas Rowe) and Watson (Alan Cox) meeting in a boarding school while some strange murders are occurring in London, they do pretty much anything that they want. The whole movie has the definite feel of a Spielberg movie, what with the burning of a giant set and all. Even if the movie doesn't have the most impressive plot, the hallucinations make up for everything (it's not often that we get to see cream puffs and chocolate éclairs attack someone; serves him right for eating junk food!). I recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67784d533b1c1f935d1beedc9014ca260f2706cd56bb42957652fc673c024334
+size 724

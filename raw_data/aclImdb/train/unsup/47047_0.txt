@@ -1,1 +1,3 @@
-A tour de force by Bratt, "Pinero" tells the story of NYC dwelling drug addict, poet, jail bird, playwright, thief, and actor Miguel Pinero in a busy cacophony of sight and sound which trades kinetics and verve for content, clarity, and humanity. In short, the flick plays out like just another screwed up junkie artist bio which doesn't crawl into the Pinero head to flush out the questionable humanity of the enigmatic protagonist. A film with limited appeal, low entertainment value, and poor coherence. (D+)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2930b13081abc36021e9b47cc962edcd1d3449fc6a99e53416730dd30c1ac4
+size 511

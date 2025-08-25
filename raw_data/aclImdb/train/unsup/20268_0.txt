@@ -1,1 +1,3 @@
-This film is the story of Harold Meadows (Harold Lloyd), an apprentice to his uncle, a tailor. He is very shy in front of girls and stutters uncontrollably in front of them; however, he writes a book entitled "The Secret of Making Love." His heart is caught by a wealthy girl he encounters by chance, Mary Buckingham (Jobyna Ralston). In front of her his stuttering ceases. She is, however, engaged to be married to another, undivorced man, and the plot advances from here. I enjoyed this film very much because of the many funny scenes that had me laughing all the way through; it also had me very nervous waiting for the ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e9f3488aaaf6913888583f08178ce4505c41e99518c4f669d34ac926b0a3c69
+size 630

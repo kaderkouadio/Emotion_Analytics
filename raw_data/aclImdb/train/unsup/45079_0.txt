@@ -1,1 +1,3 @@
-This has to be the worst movie of 2002. As much as I like Eddie Murphy, I was very disappointed by this film. Pluto Nash should have stayed on the shelf and never come out. Stay away from this bomb at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cb05c7d59c3265aede17d21bcb0b9d102b2d39b6d2dba20c9bbe13262f56305
+size 211

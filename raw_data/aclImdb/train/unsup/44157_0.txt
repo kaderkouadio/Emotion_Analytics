@@ -1,1 +1,3 @@
-Just wanted to say that this is one of the worst films I have ever seen. not only was there so many stupid holes in the story, like for instance that main character hoped the lighting would set a forest fire so she would get some help. oh wait, she had like a half week to do it herself but she didn't. I usually dislike it when the characters fail to do the most logical choice. at least when it happens too many times. I mean, if you drive your car over a demon. would you just park over it, stop the car and go out to see if its dead? <br /><br />I mean, usually I don't care too much about effects, costumes etc. If the story is good, the film may be good regardless. but this film was damned predictable. in fact I thought the main characters was so bad that I only hoped they got what they deserved for wasting my time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fb57c9d7739c0b4f1ccef990ac51a332b2f86932dc97ea9e8e3b1604c928b84
+size 825

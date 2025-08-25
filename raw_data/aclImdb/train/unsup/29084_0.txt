@@ -1,1 +1,3 @@
-One of the funniest films I've seen in a long time. It's rare treat to find erudite wit and slapstick humor coexisting. I found myself thinking about it at work the next day and laughing. The cast is terrific and I suspect we'll be hearing more from Erika Burke and Juliet Furness who did splendid jobs with Macbeth and Lady M respectively.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae1fdf630ad4772ef356cc7a2e12f632e431334e1ab15efd56e5fda360bc2749
+size 340

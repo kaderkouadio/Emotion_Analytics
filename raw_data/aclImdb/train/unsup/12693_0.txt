@@ -1,1 +1,3 @@
-This movie stars Ronald Colman in a duel role as a Englishman who just arrived in a European country just to relax and fish. He runs into some guards who are amazed at how much he looks like the guy who is about to be named king. Colman and the future king get really drunk and when colman passes out, the future king drinks some drugged wine and is knocked out for several hours so he can't be named king. So Colman has to take his place but they find out that his brother, Raymond Massey, has kidnapped the king because he wants to be king. Douglas Fairbanks Jr. is on Massey's side but really only cares about himself. David Niven and Mary Astor also star and you can find out about the plot when you watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cfcaec048a5b3130e5bb5358d355337ab42e779a65e480e3f1870071b0bda67
+size 713

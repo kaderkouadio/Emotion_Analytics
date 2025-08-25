@@ -1,1 +1,3 @@
-I liked the first movie, but this is a textbook example of a sequel that would have been better of left on the drawing board. The general idea in the first movie was, if not great, then at least very interesting. This sequel tries to build upon the idea and the characters from the first movie, and though Christopher Walken is still good as Gabriel, the whole idea suddenly gets a bit ridiculous. If you haven't seen any of these movies, then get the first movie and forget about the sequels, they can take away all of the joy from the original.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e484c677cf28392a3f43183d6156440c61269d9adae729bfc16dbcbc2bfd6cd8
+size 546

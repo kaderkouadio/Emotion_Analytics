@@ -1,1 +1,3 @@
-This is one of nine shorts on the anime disk, "The Animatrix." It is my favorite. The artwork is amazing. The black-and-white, somewhat grainy texture perfectly captures the mood that the segment is trying to portray. The story is tight, and the ending is true to film noir.<br /><br />Overall, I gave The Animatrix a "7", but this particular segment deserves a "10."
+version https://git-lfs.github.com/spec/v1
+oid sha256:85122a5561d32b1e03a8b48eb996b54913aeb602f5f309da2da015572022f73e
+size 367

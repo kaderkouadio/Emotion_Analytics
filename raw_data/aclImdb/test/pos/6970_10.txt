@@ -1,1 +1,3 @@
-At least one kind. Very human and moving. Not out to teach a lesson or anything like that. All principals are effective. I saw the movie years ago and still remember it (but can't remember the Morgan Fairchild role).<br /><br />And a nice slice of American life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bd08ac153645d8b855c11ff8143a6cdfa41746f09075a622c452a810e4d3a3
+size 262

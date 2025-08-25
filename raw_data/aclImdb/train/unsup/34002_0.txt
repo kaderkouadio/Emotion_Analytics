@@ -1,1 +1,3 @@
-A tale told by an idiot etc... Boorman, who at times shows some genius (The General) seemed more interested in cashing in on the franchise than adding to it. It's hard to believe they made a third Exorcist (a surprising success, all things considered.) Von Sydow was wasted. The only bright spot is Linda Blair, whose porn career is prefigured by her outrageous chest, scanty attire, and acting skills.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:077670a9b3bd77c6d29507580167ba15fb6709cbfe768087d4a85e5684c0f148
+size 414

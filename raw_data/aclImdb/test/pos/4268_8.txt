@@ -1,1 +1,3 @@
-I especially liked the ending of this movie--I really felt what the characters must have felt, which I think is a mark of good directing. I was tickled with how the new hire at the record store turned out--great character development there, even though his "role" would probably be considered minor.<br /><br />I was also impressed that the entire film, while dark in its subject matter, was free from gratuitous nudity, profanity, and violence. Sadness, sexuality, and darkness can all be communicated (often better) by what is left unsaid, but it seems that this is often unique to really "classy" films and actors. Kudos to the film-maker for that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4f74a4256c50fd4ee854ce33e7f3cbc9f0ba7e72d1c679c7e8e9f3c34afa8f1
+size 651

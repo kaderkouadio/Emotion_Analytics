@@ -1,1 +1,3 @@
-This is one of those types of movies where they show most of the funny scenes on the TV trailer. There were some scenes not shown in the trailer that made me smile but at no time did I actually laugh out loud.<br /><br />Vince Vaughn and Jennifer Aniston had no chemistry together at all. The movie just dragged on and on. This is a comedy? It had more sad and angry scenes than funny ones. Kind of reminded me of The War of the Roses.<br /><br />The ending of this movie is just horrible! People don't go to the movies and pay money to watch an ending like this.<br /><br />I saw this movie with my friend and she disliked it even more than I did.<br /><br />If you have to see this movie you should wait for the video, but even then you might be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f0f2544ca4a99bb1c56102545150648007b582eb39759e0256b4e3bd3e2f41
+size 761

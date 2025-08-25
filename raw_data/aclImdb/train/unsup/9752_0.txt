@@ -1,1 +1,3 @@
-A fine movie biography about the designer of the World War II Spitfire. Strong performances are given by Mr. Howard and David Niven. Although it seems dated particularly with the black and white film, it is none the less worth your time to preview this movie. Leslie Howard was killed in an airplane crash shortly after finishing this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:878fda86d024126079ee41b82899c8e1478d6efc1f19fd1542be9b0ca1746326
+size 340

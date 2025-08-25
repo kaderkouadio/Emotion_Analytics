@@ -1,1 +1,3 @@
-From 1950 comes a neat thriller about a couple smuggling diamonds from abroad and also the contagious disease smallpox. Evelyn Keyes pulls out all stops as the essential victim of this film-noir. Once back in the United States she is not aware that she could be spreading the disease on everyone and everything she comes in contact with. Eventually she is pursued and must be stopped before an epidemic occurs. Other than Keyes striking performance there is good support from villainous Charles Korvin, William Bishop, Dorothy Malone, Lola Albright and Whit Bissell. The finale is a humdinger with Miss Keyes on the ledge of a building with spotlights and hundreds of spectators below. A good B flick!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a9e41e0adf825ad0ee8ee4eefe4ffc3751a9ff8bcc85f2e127ca532cec6b5f2
+size 701

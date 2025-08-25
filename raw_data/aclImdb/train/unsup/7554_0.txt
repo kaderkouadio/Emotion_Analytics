@@ -1,1 +1,3 @@
-Why do you ask? Its got more one-liners, better (as in more amusing) dialogue, better action. Shaft becomes the poor man's James Bond in this one, doing what amounts to international spying but without the hi-tech tricks of Bond. Great final "Shaft enraged by the slow working justice system" ending. Great title song by the 4 Tops ("Are You Bad Enough") doesn't measure up to the classic "Shaft" but still delivers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7d03a835f660adfeb042fdd5fdd367e4d4f8b0213b91ea01dd64e9b52b7c12
+size 416

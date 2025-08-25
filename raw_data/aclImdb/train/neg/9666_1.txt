@@ -1,1 +1,3 @@
-Having seen "Triumph of the Will," I can only say this movie is ghastly, even measured against the historically low "standards" of the time. Naturally it's all totally fabricated and prejudicial. This is what one would expect of 1930's German propaganda. Unfortunately, the quality of the presentation, itself, is hackneyed and cheap. It's also so blatantly ridiculous that even contemporary Germans must've left the theater holding their noses. In a genre renowned for its base appeal, lack of originality and unapologetic wrong-headedness, this film doesn't even qualify as "bad." It would have to improve significantly to attain that status!
+version https://git-lfs.github.com/spec/v1
+oid sha256:87dd1bc2808531545e0e80b9842c01eff89df8fb46a01f0c1ec28ff675c02bc8
+size 644

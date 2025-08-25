@@ -1,1 +1,3 @@
-Well, it starts off fast, with death and lots of color, but then it goes blah. The ending can be predicting within a couple scenes. The dialog goes from crispy to that stale "I'm a bitch with attitude *snap snap*" we've all grown sick of. It just gets boring. Because, really, we've all seen this type of movie before, except this time someone dies. Fortunately, to save it from getting a 2/10 as opposed to the 3 I gave it, it remains colorful and purdy throughout, and Marilyn Manson's cameo boosted it as well. Oh and Pam Grier is cool. Speaking of Pam Grier, Jackie Brown is a good movie. If you're going to see Jawbreaker, I recommend seeing Jackie Brown instead.<br /><br />-Al
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b7a8a4a3561109a4f8d509de7f0e0735731c21b7b1ec4b081c017aae353c017
+size 683

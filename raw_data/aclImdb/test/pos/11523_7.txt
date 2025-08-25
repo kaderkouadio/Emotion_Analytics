@@ -1,1 +1,3 @@
-An interesting movie with Jordana Brewster as a young woman who travels to Europe in an attempt to find out what became of her older sister (Cameron Diaz) who mysteriously died years earlier. Brewster is very good and keeps you involved despite some unrealistic plotting, such as having her amazinly find and start a romance with her dead sister's much older boyfriend (Christopher Eccleston). Still, mostly good. GRADE: B
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c252d417be8a38a075f2caf62ee82fb0dd7ecff284337c1bf131ef44cb5da7a
+size 422

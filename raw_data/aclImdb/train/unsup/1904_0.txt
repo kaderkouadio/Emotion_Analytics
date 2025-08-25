@@ -1,1 +1,3 @@
-The quest for real Juju music is so admirable that I sat through this sad movie thinking repeatedly, "Gosh, this could have been tightened up here, paced up there..." It was frustrating to look at the possibilities.
+version https://git-lfs.github.com/spec/v1
+oid sha256:808c789bda0ef8936a8fa054142b37f081739a2bc96bf52e67084fee7507008c
+size 215

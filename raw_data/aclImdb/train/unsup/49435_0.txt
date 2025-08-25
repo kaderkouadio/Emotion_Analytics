@@ -1,1 +1,3 @@
-Pretty to look at, _Behind the Sun_ is nonetheless typical of the painfully conservative international films Miramax increasingly chooses to bring to U.S. audiences. Its symbolism is obvious and heavy-handed, its dialogue melodramatic, and its performances insultingly broad. It conforms perfectly to the feel-good foreign fluff that has flooded the market at least since _Cinema Paradisio_; that is, it embodies to a "t" the safe, lowest-common-denominator American conception of what a foreign film "should" be. As a result of Miramax's market dominance, more dynamic international films that seek to surprise us or advance film language in some way get marginalized, going largely unseen in the U.S.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdc5778f7dc43695274eaf98ffcc1245e0d9ff2ece8bb6f92fb6b955caec52b
+size 702

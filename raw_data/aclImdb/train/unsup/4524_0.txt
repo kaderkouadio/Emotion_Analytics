@@ -1,1 +1,3 @@
-Hilarious and touching in equal measure, this romantic comedy stars Jill Clayburgh in a comeback that really deserves that overworked word and Jeffrey Tambor in a leading role that redefines the definition of a leading man. The direction and writing by Eric Schaeffer is wonderful, there is a supporting performance by Bill Duke that soars, and for dessert there is the single funniest slapstick comedy sequence since the days of silent films. Jill Clayburgh the second coming of Buster Keaton??? Sounds unlikely...sounds incredible...but it's true.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea97c988ac5ff4b288b51ff86c48910efe488a6bd1e6aea2f7c029e3a09bb46d
+size 549

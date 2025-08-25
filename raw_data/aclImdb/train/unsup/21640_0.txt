@@ -1,1 +1,3 @@
-Ford is at his peak here, and so is cinematographer Toland. The interiors of the ship are claustrophobic, and the cast is excellent. Wayne is first billed, but the cast is mostly ensemble. The first half drags here and there, but the final twist is so sad you forget the few faults. I give this voyage a 9.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4a246f38eb955c043699b07898c7831a04e9734070171902ab9abf0c6b0481
+size 306

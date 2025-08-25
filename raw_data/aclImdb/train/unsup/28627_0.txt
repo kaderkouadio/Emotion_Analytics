@@ -1,1 +1,3 @@
-A classic sadly almost ignored and forgotten probably because of it's small scale being a quite simple screen version of the popular stage play. Alec Guinness is the Cardinal arrested by the state during the Cold War, Jack Hawkins is the state inquisitor trying to break him. Ex comrades in arms, fighting in the Resistance against the Nazis; they now find themselves on opposing sides of Church and State. An intense battle of wills ensues, superb performances all round including Wilfred Lawson as the jailer. Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd4bf9cf407f6864a71df7d47493a20514bc09100a86307a6aaf88c861e0552e
+size 531

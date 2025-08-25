@@ -1,1 +1,3 @@
-A rehash of "Love story" - the opening monologue is a verbatim translation - this film is a prime candidate for "cruel and unusal punishment". To say that the actors have the acting range of wooden puppets is actually insulting to said puppets. The lead actor should be disbarred from acting ever again. To sum up, given the choice between a root-canal and watching the movie, i would exhort you to choose the<br /><br />former.
+version https://git-lfs.github.com/spec/v1
+oid sha256:186c00d79b47a131760a0a80da51761ca2d1290d26d4b25fd24fa6e0fb1934c3
+size 428

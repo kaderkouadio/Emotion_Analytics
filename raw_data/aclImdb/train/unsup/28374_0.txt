@@ -1,1 +1,3 @@
-I was taken to see this for the first time when I was too young to get most of the humor. It improved as I aged. It really is one of the best.<br /><br />Dean Martin and Jerry Lewis did a remake (called "Living It Up", though I somehow remember the title as "Homer Flagg") and I remember at the time thinking that that version was MUCH better, but what did I know? I was only nine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d61d0374c4c1f6540c3e351bbcc342b3a4b99f0ead0acc5b37399ab0ebe80d2
+size 381

@@ -1,1 +1,3 @@
-this is a masterpeice. well it would be a masterpeice if it was supposed to be a comic look into the future. everything about it jusst makes me laugh from the way rickenbecker runs to the cheesy flashbacks and the un-needed nudity of the lets face it ugly lead female. if ever you feel like a good laugh watch this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fce0e5a2c62344078268cdbe7427b44a28f540355e1cfe9727b1d3432dd6e0b1
+size 320

@@ -1,1 +1,3 @@
-A delightful if somewhat predictable TV movie, though I admit a little bias -- as far as I'm concered, the more Gene Wilder in this world the better. I'd love to see numerous additional movies detailing the adventures of Larry "Cash" Carter!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c964721a34ef8b0a0507c5db13b680f88e83bc4787792a61908f5fc8458c2ac
+size 241

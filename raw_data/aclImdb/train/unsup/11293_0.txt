@@ -1,1 +1,3 @@
-When I was a little boy I first watched this movie in Denver, Colorado for the admission price of 35 cents. It was a great movie to see at that young age and fell in love with Alan Hale sr. the actor. I always tryed to see any film with him in it. Russ Tafoya.....Rest In Peace Mr. Alan Hale
+version https://git-lfs.github.com/spec/v1
+oid sha256:92e73a01f6acfdc566394dfd4e6d258d1a3727ae016a3f092a4819e472b8c64d
+size 291

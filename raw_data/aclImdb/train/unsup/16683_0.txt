@@ -1,1 +1,3 @@
-Perhaps Woody's best effort in his 'neurotic schlep' persona. The script is a comic whirlwind, with too many brilliant scenes to enumerate (I can't resist mentioning the blind date's arrival - the desperate preparations and the pathetic introduction are funny but painful, in that we have all been in that position; his demonstration of authentic Chinese rice-eating technique is another classic). The device of the imaginary Bogart alter ego works well, especially in the climactic scene with Diane Keaton. In my book this ranks with Sleeper, Manhattan, and Annie Hall as Woody's best films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba64fc97eebff3c5eb9f7538fa62497e96928f1d3c52e2f30138f7571c56dfe5
+size 592

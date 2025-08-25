@@ -1,1 +1,3 @@
-This is supposedly a story in which a GROWN MAN tells a story about his youth. Yet, you see things like personal computers, e-mails, faxes, etc, which are items used in the late 20th Century and early 21st. <br /><br />So when is this guy supposed to be telling this story - in 2020. Gee, I wonder how advanced we are then. How about telling us that.<br /><br />Also, there are several legal issues which also make no sense. In the courtroom scene, the story falls into the usual pratfalls of surprise evidence, which is inadmissible in any real court of law in this country. Also, Grandma would have to be missing at least seven years in most states before to be declared officially dead.<br /><br />Congratulations Elmo Shropshire. You are now officially a SELLOUT.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6fe14552a0ef48fd80b908a81ef84423c11936a20bd83b59789b7fd3fdd2e13
+size 767

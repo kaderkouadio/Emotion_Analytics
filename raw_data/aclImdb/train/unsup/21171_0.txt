@@ -1,1 +1,3 @@
-A very good comedy, able to refresh anyone under heavy stress, acting three good stars Cary Grant, Irene Dunne and the "cowboy" Randolph Scott, who in fact did a little as a supporting actor. Irene is a dead wife who came back to her home and family, and found his husband (Cary Grant) married to another nice lady. However, Cary simply loves his real wife, so the problem was how to get legally rid off the new wife and to come back again to her real one. The law, obviously, has the last word in this matter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0f0f7f0ef2e43d140e4d5cfbe83edeac8f1259404f8383bbf0fededdd969cf
+size 510

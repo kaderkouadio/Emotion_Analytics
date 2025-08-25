@@ -1,1 +1,3 @@
-They showed this incredible movie at TV5 in a "Motorshow". I was paralysed watching it! I could not move my body to reach for VCR ... And the minutes passed away - and Whaooo what a moment!<br /><br />So now I´m looking for the movie on European video or DVD - do you know anything about that? It´s available in US video format, but here I am in Europe...
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e0cad4611d614c46b4638d103f3226bfd39822681f945874c7e55e7f54efa0
+size 357

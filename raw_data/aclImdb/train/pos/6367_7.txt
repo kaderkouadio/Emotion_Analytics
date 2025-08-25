@@ -1,1 +1,3 @@
-While there aren't any talking animals, big lavish song production numbers, or villians with half white / half black hair ... it does have 1 thing ... realistic people acting normally in a strange circumstance, and Walt & Roy did in their eras with the studio. If you thought think "The Castaways" or "The Island At The Top Of The World" weren't identical, or you hold them to a higher authority than Atlantis, then your idealism is just as whacked as keeping your kids up till midnight to watch a friggin' cartoon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4301f3f41c01bb191d50406cc199b7f77d3f8ebc90ace3eaba0df84ffafa0232
+size 515

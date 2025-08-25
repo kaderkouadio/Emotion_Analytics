@@ -1,1 +1,3 @@
-This movie is quite possibly one of the worst to ever make it out of an editing room. It has nothing, lousy camera work (I think I found three shots that had some form of focus, no color correction anywhere... a complete mess), an even worse script and no acting whatsoever (and why, oh why did they do it in English?).<br /><br />I can try to find anything positive about this movie... and still fail utterly. Not even as a joke would this work. I've seen the pre-release of another Swedish b-horror called "The Unknown". It was made with 1/10 the budget, but is way way superior to this one in all aspects.<br /><br />To put this short: NO, do NOT see this movie. No matter what you expect, you WILL be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70e1955ab48750ffd79ae56d25db605f6ba52bd6ea8a51ab1f335bb1ae3eb9fd
+size 718

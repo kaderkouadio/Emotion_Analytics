@@ -1,1 +1,3 @@
-Felix in Hollywood is a great film. The version I viewed was very well restored, which is sometimes a problem with these silent era animated films. It has some of Hollywood's most famous stars making cameo animated appearances. A must for any silent film or animation enthusiast.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f24eda1f9b9dbb5f65bbf676d7df800f7acbc128fbf6503c517892f4ddf6843f
+size 279

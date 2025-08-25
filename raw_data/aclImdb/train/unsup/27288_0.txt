@@ -1,1 +1,3 @@
-The best miniseries ever made! Smart and sexy, with characters that live and breathe. Just some of the most marvelous characters include Brian Blessed as the benevolent Augustus, George Baker as the wounded Tiberius, and Siân Phillips as Livia. Includes one of John Hurt's finest performances, and I'd go into Derek Jacobi as Claudius, but they say I have to keep it below 1,000 words. The Canadian channel Bravo runs it occasionally, or try renting it from Blockbuster, but I recommend shelling out for the entire collection on video!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c97cbde5a5257ab0fc3ca000c1a5f70d760dd621a5f1aea4d13f19d2f4b6c38c
+size 536

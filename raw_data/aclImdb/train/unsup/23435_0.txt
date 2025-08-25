@@ -1,1 +1,3 @@
-Terrible title for a very good, modest and charming movie. Great cast, good story, good dialogue. The beginning is a bit slow but it grows on you. Both funny and moving. I cried a little at the end. But it's not a drama. It's just about love and real life, complicated, messy and rewarding. It's a 'feel good' movie but it's not with the usual Hollywood crap. I recommend it without any restriction, except to those who liked Richard Gere in "Autumn in New York". If you liked that, the "Goat/Fish" is not for you. We are talking about cinema here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e8950576021a629a1078cc3d53d27eaae99c8c9bc5f37741e672a548015d4a1
+size 548

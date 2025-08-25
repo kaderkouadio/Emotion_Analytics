@@ -1,1 +1,3 @@
-I think it's time John Rambo move on with his life and try to put Vietnam behind him. This series is getting old and Rambo is no longer a solider but a cold blooded killer. Ever time he turns up on the screen someone dies. Vietnam was not a fun place to be and frankly I am tired of Hollywood making it seem like it was. This is not the worst of the films concerning Vietnam, that honor goes to John Waynes Green Berets. In any case John Rambo carrying around a 50 cal Machine Gun taking on what seems to be half of the Viet Cong army plus a good many Russians is an insult to watch. What is worse is Rambos cheesy speech at the end...Please!! Oh yeah I heard they are making another one...
+version https://git-lfs.github.com/spec/v1
+oid sha256:02596aa727f5f7dd527104a30b2024e7240d7e533fc0e34b6df20bf3fefa8a77
+size 690

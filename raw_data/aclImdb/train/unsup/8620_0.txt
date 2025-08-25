@@ -1,1 +1,3 @@
-Quite honestly, this was much better than expected. We don't do a lot of Disney in our home, but my 3 year old has developed a fascination with Cinderella. Rather than watch the old version once a week, I like that we can switch out with this one. <br /><br />Easy plot predictability, but I liked the feminist strength and resolution (feels like it was influenced by "Ever After").<br /><br />I liked the songs which were added - the mice get a great production number. Nice job matching the tone to the original movie while updating the story itself.<br /><br />Overall, much better than expected. Cinderella for this century. It doesn't hurt if Mom likes the movie well enough and ends up humming the songs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d983d3751bc232dea2923662d7b7f619fe1d8b9f8cfc2df3e2890bba702bcb5d
+size 710

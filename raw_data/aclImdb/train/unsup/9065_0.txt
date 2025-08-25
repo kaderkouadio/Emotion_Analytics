@@ -1,1 +1,3 @@
-This is a brilliant film, and the actors are great. A "wonderful" story, that makes one think about life and its meaning... I am truly touched by this film. This film is not like any others, so if you haven't yet seen it, then run along down to Blockbuster!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5ab493e0a50ddd8636250ca4628828b7e4efc3364b8df4669af549ad97e118
+size 260

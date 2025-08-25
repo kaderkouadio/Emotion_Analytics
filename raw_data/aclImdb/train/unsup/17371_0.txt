@@ -1,1 +1,3 @@
-Great screenplay, acting and settings combine to make a dynamite film. The constant tension between the police investigation and Pacino's love interest keep the suspense going strong, and the chemistry between Barkin and Pacino is fabulous. John Goodman is excellent as always, the sex/death themes add to the tension, and the ending will throw most for a loop... this film delivers. Try it, you'll like it.<br /><br />8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cd95ff9552b9b8c028abc5e4b253ee40044acce1ca163a563cca4f48b514b67
+size 423

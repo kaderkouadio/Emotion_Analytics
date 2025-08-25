@@ -1,1 +1,3 @@
-Another of the lost RKO films shown on TCM this month.<br /><br />William Powell plays a playboy vaguely interested in Ann Harding, whose family crashed in the Depression. Harding is a woman who believes in marrying for love but gets pushed into trapping Powell into marriage (for his money).<br /><br />Nice little story with two top stars who have great chemistry together. And the story isn't as dour as it sounds.<br /><br />Lucille Browne is the odious sister. Henry Stephenson is the father. Lillian Bond is the gold digger. Kay Hammond is the friend. Reginald Owen is the butler.<br /><br />Nice little film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f8ffb50e975726410bfdee864fa4f4c50f037096bf11740cbaa5898270c6048
+size 615

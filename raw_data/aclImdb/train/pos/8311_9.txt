@@ -1,1 +1,3 @@
-I really liked this movie, it was good, and the actors were brilliant! Leon Robinson, who played Richard, and many other classic singers, is very good at his job, when you see him in a musical movie, you know that it is going to be good! I would suggest that people watch this heart warming, sad, and special movie, if they want to know more about Richard! Outstanding! Fresh!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0538621d63b2df8d1d863e0b0dad05fc9f1c96dc04e5e8e7d92c91e75285aa
+size 376

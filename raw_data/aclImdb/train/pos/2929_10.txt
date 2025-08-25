@@ -1,1 +1,3 @@
-This was the funniest piece of film/tape I have ever witnessed, bar none. I laughed myself sick the first three times I watched it. I recommend it to everyone, with the warning that if they can't handle the f-sharps to stay FAR away. At his best when telling stories from a kids point of view.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa419a03d8dd748a4643b217f821ca3eef185240085a579f21111f065347896
+size 293

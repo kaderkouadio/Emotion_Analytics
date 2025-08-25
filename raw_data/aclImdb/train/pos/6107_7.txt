@@ -1,1 +1,3 @@
-After, I watched the films... I thought, "Why the heck was this film such a high success in the Korean Box Office?" Even thought the movie had a clever/unusal scenario, the acting wasn't that good and the characters weren't very interesting. For a Korean movie... I liked the fighting scenes. If you want to watch a film without thinking, this is the film for you. But I got to admit... the film was kind of childish... 6/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee15c26044a18b840fcdba49b485852a759f8bcc757fd963dae1e6fa8d8047a5
+size 424

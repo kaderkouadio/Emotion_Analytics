@@ -1,1 +1,3 @@
-I'm not a person who will usually step out on a limb and call something the "best" or "worst" ever, but it's simply impossible for any movie to be worse than this one.<br /><br />The effects were horrible, the plot was a silly attempt at exploitation that never worked out, the acting couldn't have been worse and the ultimate playoff was a major hoax.<br /><br />Grade A trash!! Rent this movie for an incredibly amusing evening!
+version https://git-lfs.github.com/spec/v1
+oid sha256:254bab27b5ff4bfa84b782b2a66ccdf430a980c56d8a532343110e3a5676589b
+size 430

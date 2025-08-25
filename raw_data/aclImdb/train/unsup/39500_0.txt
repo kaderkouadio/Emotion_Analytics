@@ -1,1 +1,3 @@
-This is the worst of the confessions of series. Robin Askwith shoud stop making these movies and start making new and better movies. Its a joke of a movie and i laughed all the way through, not because it was funny, because it just sucked so much. 1/10<br /><br />If you like this try: Any other confessions of series
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aff6f4cf129d40e05a0a85cdad2193a80ebd7762f259f6744f0b721c619ddb8
+size 317

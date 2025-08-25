@@ -1,1 +1,3 @@
-In this 1943 film, Judy Garland is deemed not to be ready for the big-time yet by the man who loves her-Van Heflin. This film was certainly a big change for Mr. Heflin, especially after his supporting Oscar win the year before in "Johnny Eager."<br /><br />Wasn't Spring Byington too old to be the widowed mother of 5 children, with four of them appearing to look like her grandchildren?<br /><br />The singing and dancing are just marvelously staged but the way that the blossoming romance between Heflin and Garland was depicted left a lot to be desired. It was a Gigi-like one where a young girl is eventually swept off her feet by a charmer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9efaf1d0c8696675b39b4c48ad8395b9aec240f13fd776c239bcd87696d93ea4
+size 645

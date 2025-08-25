@@ -1,1 +1,3 @@
-Ok, yes it was silly...but very cute. Who wouldn't watch Jennifer Connelly?! And Dermot Mulrooney as the robber was HYSTERICAL. The scene on the skates with the veil, and the scene where Jennifer Connelly is riding on the kids horsey ride and Dermot tries to get on the back. Those will stick in my head forever!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b68dec98dbeb7465e8e0bc2822090b37ef4106745446fccca9e806517e0feedb
+size 312

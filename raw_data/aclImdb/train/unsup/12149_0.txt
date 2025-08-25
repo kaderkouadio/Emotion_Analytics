@@ -1,1 +1,3 @@
-I've watched whole film. The first 1 hour and 25 minutes are completely pointless, and after that, the movie gets more interesting. However, this 1h25m pinnacle is Wallace's debunking of the idea that a bad fortune cookie should prevent you from boarding a plane. That's about as profound as this film gets in contrasting a quasi-scientific world view to a quasi-luddite one ("I won't get an electrical blanket because that kind of comfort just separates you from reality in a very direct way [...] and instead of living under the sun and the moon and the sky and the stars, we're living in a fantasy world of our own making" (!?) Watch Waking Life instead, or just read some introduction to critical thinking or philosophy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8affb2412135537344090fc89869316ffb087ddcf0dfdc6900f6987d41f886b3
+size 724

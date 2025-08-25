@@ -1,1 +1,3 @@
-I Thought that the Texas Chainsaw Massacre was a fantastic film. The year is 1974. A group of five close friends are heading through the back roads of Texas on the way to their grandfather's vandalised grave. Among them are Sally Hardesty, and her brother Franklin. They encounter an hitchhiker (Neal) who slashes both himself & Franklin with a wicked-looking knife. The others manage to get the hitchhiker out from the vehicle, but shortly afterwards, they are forced to stop & wander over to a small, sinister looking house nearby in hopes for gas. What none of them realise is that this house is the home of Leatherface and his evil, demented family of cannibalistic psychopaths. One at a time, the teens are murdered by the evil Leatherface in horrifying ways. I thought that this was a great film in the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e1432bf15e11021ed108dd57db2de74b94136343372c625be54e3ad14412c1
+size 813

@@ -1,1 +1,3 @@
-I am shocked by all the good reviews on the cover of this movie and on IMDb. It belongs in the $2 bin at your local video store. To say that this is a B movie is extremely generous.<br /><br />Besides lacking a single redeemable character, only slightly better than average acting, and an ugly 80's style picture quality, the script for this film is dull and lifeless. This film is not only boring--it is pathetic. (Admittedly, there is occasionally some mildly interesting chemistry between the two main characters.) Even the final plot twist--rather, the only plot twist--does not save this film.<br /><br />Rent "Diamond Men" if you must, but do not hesitate to turn it off once you become appraised of its worthlessness. 2 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9e404b7207e209e713ee0af1483516ff604da38638cf95d3196fbe541c3d38
+size 737

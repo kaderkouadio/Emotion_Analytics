@@ -1,1 +1,3 @@
-The first time I saw this movie, it really creeped me out. The ghostly hymn that is heard whenever something bad is going to happen is creepy as well. However, this movie is in my opinion "Very Good". You should certainly see it, and rate it yourself. I like "vintage" movies, so I enjoyed this one. It is a must see for those who like a good horror movie. Sure, it's not everyone's idea of scary, but it has its share of spooky scenes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4861aa001780dcd4b7469d2905861c9ee528fd670baa48b04ba84124e345ea3
+size 436

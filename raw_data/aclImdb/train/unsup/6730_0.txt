@@ -1,1 +1,3 @@
-This was one of the worst CGI films that I have seen in a long time. Basically this bee goes outside and gets caught and then there's this really boring part in the middle and some stuff happens in court. Then all of the flowers die because the bees don't work anymore. This in itself made me angry that this movie was released but what happened next only made me angrier. The stupid bee and his human friend stole a float for and got on a plane for some reason. This, like I said made me angry but this next part took the freakin cake; the plane gets struck by lightning and everything fries. After than millions of bees come and land the plane. Airplanes don't work like that! Everyone should have died!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6093ba5ab25ca98c3c6cb0eac7a788dbd3f48eee9d230f4ec899e93938f804d0
+size 705

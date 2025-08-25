@@ -1,1 +1,3 @@
-The movie has an excellent screenplay (the situation is credible, the action has pace), first-class direction and acting (especially the 3 leading actors but the others as well -including the mobster, who does not seem to be a professional actor).<br /><br />I wish the movie, the director and the actors success.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3c1619b494d1138287d852098931843deaf989caa66b3da95f2c27a811cabac
+size 313

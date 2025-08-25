@@ -1,1 +1,3 @@
-In today's world of digital fabrication, there is no computer than can replace the actor and writer. Alas, this type of "character driven" film is far too rare these days. Duvall's performance as well as James Earl Jones are faithful to their audience's high expectations. I wonder if this movie was made for TV? It has a "close-up" personal quality to the narrative. It is an understatement to say that the performances are all Outstanding. The only thing that keeps it from being a cinema Masterpiece is the lack of a great Cinematographer, but pretty pictures are not everything. How can talent the likes of Jones and Duvall continue to produce such fine work in an age where actors pose for the digitizing?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ab7960dec9198132db6e91374998e6d9a5c233e39698a615984580fe6aa1ee8
+size 710

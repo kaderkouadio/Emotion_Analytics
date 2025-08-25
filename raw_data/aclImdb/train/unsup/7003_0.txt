@@ -1,1 +1,3 @@
-I rented this movie because I love low-budget horror films. They are usually scarier and more honest than the teen-angst goof fests (Final Destination, I Know What...) Watching this 80 minute film, I was ready to forgive many flaws but what I got was the bad acting, non-stop handheld video, boring crap that is dooming most new horror flicks. Why make this film if you have no intention of being scary? A decent set-up finds a seasonal hanuted house built on a "haunted" track of land -- okay, I'm in. I should have known better when I saw rubber suited creature on the cover box but I gambled...<br /><br />Slow, boring and less scary than an episode of 'Will and Grace.' Ugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef32b9478fe9475f8006ac8c16f3c9c6a881a00b8981e0ee071fe99852335b5c
+size 678

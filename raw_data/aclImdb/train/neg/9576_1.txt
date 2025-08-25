@@ -1,1 +1,3 @@
-Really bad movie. Maybe the worst I've ever seen. Alien invasion, a la The Blob, without the acting. Meteorite turns beautiful woman into a host body for nasty tongue. Bad plot, bad fake tongue. Absurd comedy worth missing. Wash your hair or take out the trash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:528e602075f14aef41ed976be64c8b062db9a7a4b6a2b2422438657c5c408404
+size 261

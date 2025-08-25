@@ -1,1 +1,3 @@
-There is no words I can use to describe this movie. It is simply moviemaking at its best. Watch it, You'll be changed forever. I was. This is my #1 Movie. I cried 5 times the last time I saw it. You will be so troubled and disturbed afterward but so uplifted. You will never forget The Elephant Man.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e274b5211c89668d40000f15bec943e1c1e334b63c41beee0a5633f7c744303
+size 299

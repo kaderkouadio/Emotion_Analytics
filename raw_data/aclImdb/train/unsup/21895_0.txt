@@ -1,1 +1,3 @@
-I just finished watching this film and it is beyond words. I am a devout Lynch lover and bought this film the other night, willing to give it a shot. It swept me off of my feet and left me in tears. It's so moving and almost gives you a hope for humanity. This movie will appeal to anyone who does not have a heart made of stone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0019af3da4932815ad2752f467ac1eb1e4c2657efcfea965a34fe1e51e1a32c
+size 329

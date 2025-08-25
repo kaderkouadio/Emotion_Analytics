@@ -1,1 +1,3 @@
-12 year old Arnald Hillerman accidentally kills his older brother Eugene. His feelings are arrested by the fact that his family can not interact with him (or feel it is not the right thing to do). His ONLY refuge is his grandfather, who is the ONLY one who seems to have compassion on him. The Realism will captivate "true-2-life" movie lovers, but will not satisfy those that desire action & thrills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dbe7119872ca0976992aeab636a36d5a8c4729051c977fa6ff2b913f5a132d6
+size 401

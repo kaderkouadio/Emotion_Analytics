@@ -1,1 +1,3 @@
-I thought this was a well-made film by a director of integrity about another director of integrity. It showed the devastating effects of HUAC witch-hunts on the careers and families of brilliant filmmakers in Hollywood, during the late '40s and early '50s. It exposed the split between those who were able to withstand the crass interrogations and those who failed. It was possible to identify with the tragedy of those who were jailed and feel joy when they found a way of escaping from their victimization. I attended a showing of the film with the director answering questions about his film. I was struck by his humility and empathy.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdb59f7e4f2dcbe7549ae6d877eb5e616dc9e8faf430b62c1ea0359f88391862
+size 649

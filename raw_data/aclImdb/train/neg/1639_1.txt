@@ -1,1 +1,3 @@
-"Whipped" is 82 minutes long. This review is 82 words long. Three unlikable New York Lotharios, ruthless "scammers," end up wooing the same woman, played by Amanda Peet, with disastrous results. That applies to the story and the film. Too sophomoric to be misogynistic, flaccid and ridiculous, "Whipped" mixes the philosophies of shock jock Tom Lykis with Penthouse letter fantasies. Though technically proficient it's dated, grating, poorly written, mean, and obvious. People don't act like this. People don't talk like this. Really.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f9ff8cf3d031dcf22b71344d1c2c11cf59a3ffdb2cd9615af435ff016cafddf
+size 534

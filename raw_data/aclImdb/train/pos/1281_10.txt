@@ -1,1 +1,3 @@
-This film is as good as it is difficult to find. The film's hero (and writer and director) is Simon Geist- a man "with an agenda." He creates a fake magazine just to have the authority to interview the swine of Los Angeles- the actors, the models, the musicians- who believe that their own defecation doesn't smell. With clever dialog, Zucovic succeeds in doing this. Sure, the budget for this film was probably what he paid for a used car, but this film is so solid and so well written that it works very well. Any person who can reenact Edward Munk's 'The Scream' in the reflection of a silver trashbin at a local coffee house should be nominated for some type of award. Give this film a chance and listen to what it says... because they HAVE been making the same car since 1986... it's called 'the car.' Bravo, Zucovic, bravo!
+version https://git-lfs.github.com/spec/v1
+oid sha256:440327d333331d078e3e1c9b8103ae93f9edb1805772b5ebb48c9a987ae1a85d
+size 829

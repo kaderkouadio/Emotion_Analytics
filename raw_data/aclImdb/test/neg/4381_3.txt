@@ -1,1 +1,3 @@
-"Hero and the Terror" is a fairly dull thriller - a la: no real character substance, predictable plot, and... Boring. For a thriller I found this movie slow in working up to its pitiful climax, as it just seemed to drag along until Chuck's wife's baby is born... and then it drags on from there until it reaches the end - which I can hardly remember already even though I only saw the film 10 minutes ago.<br /><br />I give this film 3 out of 10 - for the first 10-20 minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41092192590888df2c95279ba61268533edf250f5f6259c4315b6f025cd502f2
+size 476

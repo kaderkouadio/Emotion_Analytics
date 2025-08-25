@@ -1,1 +1,3 @@
-This has to be one of the most beautiful, moving, thought provoking films around. It's good family entertainment and at the same time makes you think very hard about the issues involved. Every time I see the "ghost of Zac riding the bike through the puddle at the end I can't help but cry my eyes out. John Thaw's performance is so touching and it is a shame he is no longer with us. Gone but not forgotten. A outstanding film. Full marks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cac04a88872eaf5fdedb37b4c4497890127a0403e7dd199d59aadad3add4e02e
+size 439

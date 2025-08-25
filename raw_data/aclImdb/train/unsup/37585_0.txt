@@ -1,1 +1,3 @@
-A tired formula film involving a psychotic, sadistic federal prisoner who seizes control of an airliner and the agent who must try and stop him. Weak acting and gaping plot holes destroy whatever tension the director must have been trying for. A real groaner. Give this one a wide berth.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c83739b25e92ad6f0fcb46395792a9d7c15162948e6dcd761640d8d971d4550
+size 287

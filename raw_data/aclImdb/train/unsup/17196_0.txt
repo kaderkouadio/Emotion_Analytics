@@ -1,1 +1,3 @@
-American Graffiti is a movie, set in the 50's, about a group of friends that spend their last night together riding around the town. Most of them will still be together, bu they have to say goodbye to a good friend who is going off to a distant college. This friend also has only one more night together with his beloved girlfriend. During their drive they run into several antagonists. They challenge some of these antagonist to race them. These scenes are pretty unrealistic but only make the movie more appealing and fun. This movie has great characters, and a great soundtrack. I loved all of the songs they played in the movie. Those old doo wop songs created the perfect score for the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c42d904ea56e1f4277d09413a153ba15a864a9ba3aee748c505aed69d1cc50b
+size 696

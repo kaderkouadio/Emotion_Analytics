@@ -1,1 +1,3 @@
-Why this film has recieved an average of 6.5 is a total mystery! I can only agree with some of the other commentators: see it, as if it was a parody! Just wait for the finishing line: "Come on girls, Daddy is here - it´s time to go home!" Rip your hair out, cry - or laugh your brains out... your choice!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4b2c0120fb4474d56d3ce8b84a5d85a739881b51cdc874ac656919c6c777c98
+size 305

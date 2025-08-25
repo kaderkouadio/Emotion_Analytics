@@ -1,1 +1,3 @@
-Deep SH.. is more like it! The eels are just cartooned in over the film. Think "The Incredible Mr. Limpet" meets "Leviathan". Very tacky.<br /><br />No character or relationship development. So called "romantic" scenes very corny and predictable. An interesting idea, but a poorly written script and LOUSY special effects make this a definite must-miss!
+version https://git-lfs.github.com/spec/v1
+oid sha256:507aec954a4bf0a153112e30e6012c8396add7b53fd289168d1ff2a73579d942
+size 353

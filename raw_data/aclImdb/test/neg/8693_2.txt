@@ -1,1 +1,3 @@
-Nice attempt to bring Shakespearian language alive in a post-apocalyptic setting, but the final result is dreadful. Futuristic Liverpool is not convincing at all; the budget was obviously not very big, but the production designer could have come up with a slightly more creative approach to the matter. Alex Cox has made some good films, e.g. Repo Man and Highway Patrol Man, but i really don't know what he was thinking here. Just an opinion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d88557ecb2d205a2dead7d736d515b0fae434d1db752eeb5d8965ac54364f5e6
+size 443

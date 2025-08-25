@@ -1,1 +1,3 @@
-Bleak, uncompromising and hard-hitting. The quality of the acting, scripting and direction pull together to create a contemporary urban drama revolving around the lives of drug addicts and dealers living in the slums of downtown Baltimore, a figurative cancer eating away at the American heartland.<br /><br />Based on the true life story of Francine Boyd (played here by the mesmerizing Khandi Alexander) from the book by Edward Burns & David Simon - subject matter experts on the Baltimore drug scene and writers for TV's "The Wire". As with real life, there aren't any easy answers or happy endings. <br /><br />With "The Corner" HBO raised the bar on the quality of television drama forever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c55d07bdc4ddbb90e8e3a26f5eed74b5bc402732501b4997d605d94352ecf0f
+size 695

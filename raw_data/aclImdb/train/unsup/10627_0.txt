@@ -1,1 +1,3 @@
-Wonderful film that sadly was not released in the U.S. Beautifully written and acted character-driven piece about many things, among them the role of a parent in our modern civilization - and the role of the child as well; the relationships between men and women, and the friendships between straight men and gay men; the role of artistic expression in the lives of artists and in the lives of those who will never be artists. The film is also noteworthy for its portrayal of the hypocrisy of adults who impose upon their children "values" that they themselves reject in their day-to-day lives. The gay character is refreshingly unapologetic. And the female lead is heartbreakingly real, a brilliant and deeply moving performance by Cecilia Roth. If you ever get a chance to see this film, I highly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e1c3daa93261323d8e9894531b37bc8143b51237a9ebf49ac41d618cac2f552
+size 812

@@ -1,1 +1,3 @@
-Wow,I never knew a film could be THIS BAD!!!!!Considering how high of a budget this movie had,it really had no explanation whatsoever for being as bad as it was.The special effects could've been done better by a toddler,the definition of "scary" in this film doesn't even come near the fright factor it needed to,and the ending and twists were completely unprofessional and mediocre.Basically,I felt I lost over half my brain cells when I was through watching this movie.This is the kind of filth that gives "horror",which if it could even fall under that category,a bad name.I wouldn't even recommend this movie for a good laugh at how horrible it is!!!!!Avoid at all costs,I WARN YOU!!!There was nothing special or good about this film AT ALL!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:74c302bcd514b5daac737c36124301a23c8f5313166c9b0a9c888d6ec0b87100
+size 748

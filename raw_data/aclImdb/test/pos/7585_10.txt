@@ -1,1 +1,3 @@
-Horses on Mars is a wonderful journey taken by very small creatures. It doesn't have to work hard to hold your attention and the characters are truly memorable. Most of the credit must go to Eric Anderson for his choice of visual style and for writing an interesting story, but credit is also deserved by Anuj Majumdar for the narration and the wonderful music score. These choices were obviously not an accident. If you can, see it in 35mm scope for the most impact. It is quite a beautiful film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c5f4f24973ff4e542e77a343d97be1d59fecd3238ec9f35ce293ecb73589448
+size 497

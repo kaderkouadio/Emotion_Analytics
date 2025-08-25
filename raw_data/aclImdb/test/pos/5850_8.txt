@@ -1,1 +1,3 @@
-This multi-leveled thriller kept my attention throughout. It is disturbing and informative to see how perverse human behavior can be. It is also instructive as to what past wounds can motivate present behavior. No one, save Sandra Bullock's partner, is very likable. However, all are believable. Sandra did an excellent job. Her character, Cassie, comes alive with all her pain and fear and defenses. She is a survivor and so her life experience finally brings her to a healing moment. I enjoyed this movie very much. Tom Landers
+version https://git-lfs.github.com/spec/v1
+oid sha256:5430ed1ed3b479045909932afd12067763af209aaf8300e6fd66b750a89ee21a
+size 529

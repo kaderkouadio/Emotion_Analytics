@@ -1,1 +1,3 @@
-don't expect a plot that makes a whole lot of sense - it's all about cool special/free-for-hire agents and double-crossings and out- smarting and stuff - sort of like a james bond without the cheesyness.<br /><br />but this movie really surprised me for it's very well executed and creative action scenes. even now, years later, i vividly remember how a gangster boss gets shot up: first, they cut the power and come in with infrared goggles and shower everything in bullets, then the bad guys catch on and put on their own nightvision gear - they are prepared, of course. next thing, the heroes swap goggles for sunglasses and throw flares... so they outsmart the gangsters, but, perhaps more importantly, they also LOOK way, way cooler - and that is the whole point!<br /><br />excellent stuff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e4bf00185bcb5f3a8d0d179b9626f170580e4bf42cd264c3c019c3ca9e9156
+size 796

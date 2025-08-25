@@ -1,1 +1,3 @@
-This is probably the film were the budget was best used in all cinema industry. The movie takes you all over asia, from HK to Malaisya following the trail of 2 remarkable killers. One a movie Buff who reproduces the scenes of the most famous action films like Leon or Le Samurai, the other a Cold blooded Bastard who's clean as a surgeon. there are some incredible action scenes but i miss the Ballistic Ballet of Woo or Hark. Still a very recommendable movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:b63c9e9ab43152c72f68fd622426f9af38f91d6a205547c5bae1b0378d666a78
+size 459

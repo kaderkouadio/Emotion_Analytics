@@ -1,1 +1,3 @@
-It is a very disappointed film. We have waited long to see a film of actions and effects, but the film makers delivered a lousy long story with made up politics. You have to waste the first hour for a weak story to develop. Nevertheless, the effects are still worth waiting for, just too short. And the ending also too standard and fast, just like all the HK films, the film makers seems to spend all the money and have to wrap up with anything on hand.<br /><br />All in all, you should go to the cinema 60 mins after the show time and for the remains, don't expect too much, just watch effects.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98191bba0e654ba8fe87956e51db0c378c783606b448da6298498c1ce823b3d6
+size 596

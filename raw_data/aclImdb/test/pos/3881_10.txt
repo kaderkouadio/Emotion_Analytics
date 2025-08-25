@@ -1,1 +1,3 @@
-For those out there that like to think of themselves as reasonably intelligent human beings, who love film, have good attention to detail and enjoy indie movies with funny, smartly written dialogue then this is a film for you.<br /><br />For those with a poor attention span, high expectations and no brains.. well.. um.. you may get bored and find things dragging at times.<br /><br />This is a charming, modest and well paced movie with the actors bestowing a real sense of depth and warmth to their roles. I chuckled to myself pretty much the whole way through..<br /><br />This film is a little gem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02b9667d873f288d113624306ccf93a28d94ad53d8ce421f2aaa40387b43fc2c
+size 603

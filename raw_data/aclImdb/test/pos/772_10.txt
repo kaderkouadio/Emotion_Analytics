@@ -1,1 +1,3 @@
-A beautiful film. One that made me think of god but not feel guilty nor overwhelmed. Made me think about death but not fear it, think about life but not hide from it. A movie that gave both love for all I stand for and at the same time condemned it to the deepest pits of hell. A movie that made me think of love and all that I have lost, but no sadness graced my eyes, for some strange reason, relief. A child of two worlds, god and theater. And a good bit of wine and irony! I most highly recommend *****<br /><br />"When The S*** Hits The Fan, Get A Tent" Oh and we should all go camping. Every day.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a76996295b00cfe1b19bc3fcf550605e78c3ac79050b9997366d440f5e6f797
+size 602

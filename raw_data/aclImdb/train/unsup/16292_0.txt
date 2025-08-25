@@ -1,1 +1,3 @@
-I had the opportunity to see this deeply moving film at the Denver International Film Festival this fall. I recommend the extremely thought provoking THE GREY ZONE to every student of history, which should include us all. What's more, the film included incredible Oscar caliber performances by David Arquette and Mira Sorvino. I urge everyone to seek out THE GREY ZONE in his or her community, and experience the emotions that are provoked from this historically important film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef8f8946acc9a253114d65993583baeefd1d2e9abfa2589b0b19a2ecf3995c76
+size 478

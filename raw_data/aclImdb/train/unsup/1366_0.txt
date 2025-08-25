@@ -1,1 +1,3 @@
-Excess Baggage was a joy. Alicia Silverstone is gorgeous, bratty, and fun. Benicio del Toro is frumpy and totally unlike any other leading man ever. Unfortunately, this film seems to have been misunderstood in a big way, by the audience, by reviewers, and by the people I saw it with. But, it's worth another look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9abfb635a0a17733277ee0f7109bfab20f402f3f92392122749eecc3a655a935
+size 314

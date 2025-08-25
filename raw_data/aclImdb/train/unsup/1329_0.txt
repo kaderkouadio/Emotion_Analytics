@@ -1,1 +1,3 @@
-I am not a musician myself, in fact I am a student in art history, but I really enjoyed this picture. I was amazed that such a great passion for music can be combined with the medium of movie, without weakening nor the subject, nor the medium. The music that Tony Gatlif pursues is the kind of music that really means something to me, it goes straight into the body, the mind and the soul. This is not entertainment, this is 'life' in the purest sense of the word. Thank you Tony Gatlif, for bringing this message to us.
+version https://git-lfs.github.com/spec/v1
+oid sha256:045df12df68c32ce900f70cade6ee59dde487102665b774bb011507b81f58224
+size 520

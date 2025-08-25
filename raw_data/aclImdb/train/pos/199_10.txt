@@ -1,1 +1,3 @@
-I've seen hundreds of silent movies. Some will always be classics (such as Nosferatu, Metropolis, The General and Wings) but among them, my favorite is this film (it may not be the best--but a favorite, yes). In fact, when I looked it up on IMDb, I noticed I immediately laughed to myself because the movie was so gosh-darn cute and well-made. Marion Davies proved with this movie she really had great talent and was not JUST William Randolph Hearst's mistress.<br /><br />The story involves a hick from Georgia coming to Hollywood with every expectation that she would be an instant star! Her experiences and the interesting cameos of stars of the era make this a real treat for movie buffs and a must-see!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd60a2c6eb1cb537d17672c7b4ad61b39d6fa01b667fad3f5c9434db9f5fc998
+size 707

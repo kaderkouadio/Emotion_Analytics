@@ -1,1 +1,3 @@
-This isn't the cowboys vs. indians or "saved by the Cavalry" formulaic western. There is characterization! Jack Palance delivers a great performance. He can act when the script and director allowed him. Tony Perkins seems to be the same character as he was in Tin Star. Great outdoor scenery; the studio should have paid the extra cost to film this in Technicolor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9782f8e4fc4420386a739dceec8d0d9594fdd75ce535f94abf05b6fcad06b7c
+size 364

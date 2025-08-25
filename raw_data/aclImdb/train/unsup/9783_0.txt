@@ -1,1 +1,3 @@
-Jenseits der Stille (Beyond Silence) is an excellent film. I wish I had seen (or heard about) this film years ago! I am a big fan of German cinema and have worked closely with the Deaf community in Canada. The performances were outstanding and the story realistic. I hope to see more works by these actors, the writer and director.<br /><br />Chad
+version https://git-lfs.github.com/spec/v1
+oid sha256:d10e390cb0c431dddf4bcf773c1932b1e92a1870329a36dd31440434040fc166
+size 347

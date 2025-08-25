@@ -1,1 +1,3 @@
-I cannot believe I enjoyed this as much as I did. The anthology stories were better than par, but the linking story and its surprise ending hooked me. Alot of familiar faces will keep you asking yourself "where I have I seen them before?" Forget the running time listed on New Line's tape, this ain't no 103 minutes, according to my VCR timer and IMDB. Space Maggot douses the campfire in his own special way and hikes this an 8.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d77bc27eec3fb08161b77386e45322cbdd713011296a2a1f2d755c7ad6aa69c
+size 429

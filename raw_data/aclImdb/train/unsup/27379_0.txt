@@ -1,1 +1,3 @@
-This movie is almost like a parody of the horror genre, in a sense in the same way as the original "Scream". It's also just as enjoyable. The interesting twist in this movie though is that you are presented with the side of the killer and his preparations going into the night of killings. It's so funny when he freaks out (in a good way) when he gets his own physcologist/doctor following him around in similar fashion to the Halloween movies and when he talks openly with his parents about his plans (his father is a retired "killer"). He goes into extensive detail ensuring that when he strikes, the killings go off as planned. Original concept and a fun movie to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5ca56008dcc10d0d4ae3f63a32f470d70bc828fd27dea36e43868eab3a2328d
+size 673

@@ -1,1 +1,3 @@
-Guys,<br /><br />this is a pretty good movie. This is a really black (dark) comedy. This means nothing about the Russia, but it's cool. BTW,the translate from Russian to English is completely sucks. It seem the guy who made the translation know almost nothing about Russian language and about English as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aa7ccf44dd3bc2a28829b01fcdce089adf0980096fa939a4c1ec723be06f0dc
+size 309

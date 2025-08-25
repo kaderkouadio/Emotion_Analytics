@@ -1,1 +1,3 @@
-I saw this movie when it was first released and thoroughly enjoyed it. The music and scenery are beautiful. I purchased the VHS tape a few years ago and watch it frequently. I would recommend it to anyone who loves a romance movie or older Elton John music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab11d4abaaf934d9bd3c8f0c472b7a2e4c61929fdee849d8c25734c39dc56a65
+size 257

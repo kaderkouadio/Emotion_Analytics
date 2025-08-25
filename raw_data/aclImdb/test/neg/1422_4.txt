@@ -1,1 +1,3 @@
-This is a standard action flick as we have seen them many times before. Not much action in this one though. Again it's about the guy protecting the president. He's macho - as usual, and at the same time soft and melancholic - as usual. Does he have the guts to take a bullet for the president?! And then there's the girl and the usual conservative flirting around. Stereotypical and predictable to the last toe-crumbling minute.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2da4db4b0f0c30d8be6e95efa54aad305a6b7e7d5c0d3d4a22a490a07cefff2
+size 428

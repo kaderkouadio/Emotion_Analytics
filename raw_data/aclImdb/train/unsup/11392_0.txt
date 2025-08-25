@@ -1,1 +1,3 @@
-I reckon I must have seen this as a young boy, probably around the age of 11, in the late 70'es. I saw it on TV at that time. The images of this movie to this day are very vivid in my memory, the ice, and the desperation it depicts. Although I don't recall much of the plot, and perhaps didn't even grasp it completely at the time, a few scenes are simply as etched in my brain: The scene where they struggle to repair the radio with graphite from a pencil. And of course Nobile's talks with the ghosts. I also seem to recall that Amundsen as portrayed by Connery came across as a rather self-righteous and arrogant person.<br /><br />A movie that can make such a lasting impression must possess some significant qualities.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab705dee9d435ad93d02d695516ed7ac72e9ba5270c42b199b270b6a3cba4cd6
+size 723

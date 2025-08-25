@@ -1,1 +1,3 @@
-I realized that nobody from behind 'iron curtain' decided to comment this movie. So do I. This movie is treated by people from this side of Europe as communistic propaganda of its times. Leading role of Soviet scientists, international crew makes me sick. Characters are flat, artificial, they declare but not talk. Story is based on book ("Astronauts") of famous Polish sci-fi writer and philosopher Stanislaw Lem. But I would like to admit, that: <br /><br />- it is early book of Lem<br /><br />- author treated this book as 'mistake of childhood' and was never proud of it<br /><br />- he did not like this movie,
+version https://git-lfs.github.com/spec/v1
+oid sha256:236ec938df3ecf45cec2c59471e750c5f9eea994693f244975cbb9f644f50631
+size 617

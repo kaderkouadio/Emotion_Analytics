@@ -1,1 +1,3 @@
-This is without A doubt the best Kevin Smith film yet.Considering that it started with An assassination plot,I believe it turned out wonderful.Jason Lee is spot on perfect in this.There is not anyone else alive that could play Brodie better.The acting is great for A mid ninties comedy.Smith has not made A movie as funny since.No sophmore slump here.If you watch the flick again and not expecting Clerks you may just enjoy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:312d2a47ec37350b0394f21720292950bb5f610e22c373ab2e7650120c3a6225
+size 427

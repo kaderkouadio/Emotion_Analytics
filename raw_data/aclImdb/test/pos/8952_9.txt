@@ -1,1 +1,3 @@
-I found this a very enjoyable light hearted comedy set in Wales with some truly funny sequences highlighting the rivalry between two funeral directors. The showbiz ideas used by Christopher Walken's character to liven up his funerals are genuinely laugh out loud moments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24403f244136ccbd735a41481c58c34b6c773176035a8351e414654d44c571f7
+size 271

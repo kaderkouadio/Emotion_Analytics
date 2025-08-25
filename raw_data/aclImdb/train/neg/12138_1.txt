@@ -1,1 +1,3 @@
-Serious HOME ALONE/KARATE KID knock off with enough bad character stereotypes to have the writer sued and then shot. You could see blatant stunt man usage in almost every scene. Oh, and the acting sucks too. Although I must say that the line: "Sorry, dude, I have to take a major dump big time" made me laugh my ass off.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da106aae43ef02a11e5260fecd81dd9a1723c15c33183cf4cc3fa8e4f250396
+size 320

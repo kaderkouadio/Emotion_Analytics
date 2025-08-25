@@ -1,1 +1,3 @@
-This documentary about the life and comedy of Bill Hicks features bits from Hicks' "Revelations" and other stand-up gigs. It also features interviews with fellow comedians and people in the industry who knew him, as well as reporters and journalists who talk about how his political commentary was raw and brutal.<br /><br />I enjoyed it very much. I had already seen "Revelations" but the comedy clips were still refreshing. It's a nice balance of comedy and documentary that will explain Hicks' popularity to non-fans and please those who are already familiar with him.<br /><br />I rated it a ten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3b38a32742b2a66837b0587a89e4ee5b3bec334ec2b8b900f576b76b6e9cd8
+size 600

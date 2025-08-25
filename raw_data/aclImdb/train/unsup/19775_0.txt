@@ -1,1 +1,3 @@
-this film surpassed my expectations, that's for sure. most of the lead characters act with the right amount of straightness very reminiscent of frank drebin of police squad.<br /><br />and the actual plot line is great. you might expect it to be handled completely silly and ridiculously, but really, it isn't! it is a movie you can submerge yourself into and forget about the outside world for a while. which is why it is a troma classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b843a1ebb8ec7075ade2e4afb854f38eec5579722948d3321f505315cc166af6
+size 439

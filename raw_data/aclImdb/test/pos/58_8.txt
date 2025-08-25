@@ -1,1 +1,3 @@
-Superb editing, outstanding acting, especially by Epatha Merkerson, and highly enjoyable musical soundtrack. This film reaches back to the 40's to comment on the racial lifestyle differences and some effect of desegregation while it weaves the true story of a truly admirable and fantastic lady.<br /><br />The actor portraying the young Terrence Howard character does a wonderful job reflecting the life and times of his upbringing in the small upstate New York town. The audience laughed, cried, and erupted in applause for the film and its director. <br /><br />Soon to be shown on HBO (Feb 7, I believe) - fire up the TIVO and enjoy a great story!
+version https://git-lfs.github.com/spec/v1
+oid sha256:df05c0fd369b6e2ef23faeaec4d88b46a604396d924ca74c8c4d5161eb2dbee3
+size 651

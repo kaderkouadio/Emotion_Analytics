@@ -1,1 +1,3 @@
-The songs are fantastic and the story-line is good. Like many other acting schools, mine also produced HAIR. For most hair production it's a golden opportunity to do nude, but my production was fully dressed... I don't think full frontal nudity in a movie or a play guarantees artistic quality... And so did the creators of the movie. The movie version is great with classic hits following each other while letting the plot develop to the chilling climax. A great cast of actors, dancers and singers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3be36624c13c164f7ee074f1efaed2830a45c24eef4b6965ab71b8107ab46dc
+size 500

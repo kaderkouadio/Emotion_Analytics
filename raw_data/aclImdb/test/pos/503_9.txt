@@ -1,1 +1,3 @@
-For a brief moment. The opening scene with Traci Lords and the<br /><br />techno bar is incredible. I'd probably follow her to my ultimate death too! Best vampire movie of all time but with a twist. The fight scenes are awesome. Wesley Snipes displays an athleticism you dont get to see every day. And Stephen Dorff is impressive and very believable as an ambitious new recruit moving himself up the hierarchy by any means necessary. Great flick 9/10. Where's Blade II?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df7adff11e6ccbcebae85efb8787068e0eb79df959b7d860e1398c501bb2d3c
+size 469

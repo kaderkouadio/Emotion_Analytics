@@ -1,1 +1,3 @@
-Without a doubt, the WORST movie I have ever seen in my life. There was nothing entertaining about this film. I know it was supposed to be a comedy, but it actually made me cry at the thought of losing the $4.75 admission price.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5910bac641a3ed6a8a6392ef5f89d33a5a69114e95e2304b24aad0e8407ebb88
+size 228

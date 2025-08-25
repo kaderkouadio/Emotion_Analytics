@@ -1,1 +1,3 @@
-I really liked the idea for this film, of groups of people trying to survive in a dragon scorched world. It was very well executed to take this ludicrous fantasy and apply all the rules of logic etc to it.<br /><br />I also thought that the film looked amazing, particularly the dragons, with the effects only let down by some shoddy looking explosions at times.<br /><br />The only thing that let the film down was the cliched and sometimes pointless dialogue, especially from the Matthew McConaughey character.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecbe358c52e9358306e8222d6bfad6a8d49dc119d803ca3d45f2640eba095ff9
+size 524

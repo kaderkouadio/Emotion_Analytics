@@ -1,1 +1,3 @@
-Awfully familiar thriller stuff that takes longer to play out than it should and ends with a particularly overdone, overextended climax. The performances are generally good and there are a few bits of imaginative camerawork, but the familiarity of the material proves to be overwhelming. The film has no personality, and most of the scenes seem to be just copies of similar events in other thrillers. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6be5df480b4bf7585a55f3b7b1edb74226dc99361295f5a98d76660de2e7bd9
+size 407

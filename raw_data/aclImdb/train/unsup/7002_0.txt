@@ -1,1 +1,3 @@
-This was a very entertaining flick. Danny Draven simply is one of the most talented directors in the low budget scene. The Darkwalker make-up is outstanding and the kills were cool too. Pretty bloody, but not really too gory. Check it out if you like good stalk and slash flicks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f398a035f0216b32cf9b38c55f9d9ab23bd447c9f676f2466a8ed509c340e8de
+size 279

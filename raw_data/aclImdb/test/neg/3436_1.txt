@@ -1,1 +1,3 @@
-I did not enjoy the film Eraser whatsoever. It's awful acting, boring storyline and average special effects made this an annoying arnie film, as it had a mountain of potential. With other action films of the time Eraser fell very short!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:951aefe9b3303b0caee2eeaa7950e825f21d5fc16b6b19ae1d00726752186c2f
+size 238

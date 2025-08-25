@@ -1,1 +1,3 @@
-I caught this on Cinemax very late at night...nothing else was on so I pretty much had no choice. Bottom line, terrible plot, slow, waste of good film and actors' time. To make it short, don't even bother with this one. It's too bad we can't give zeros as a rating; this one really is not worth even a consideration!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fa3a20690d5f61ea7af433f3a518cd06d33edb1f6b80e2c0fad08242c0f79ed
+size 318

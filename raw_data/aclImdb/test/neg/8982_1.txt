@@ -1,1 +1,3 @@
-This movie was nothing like the book. <br /><br />Everything was mixed up or changed. Most of the movie was things that weren't even in the book.<br /><br />This movie never should have been viewed. It was a great disappointment to me when I enjoyed the book so much and then to watch how this movie trashed the entire thing.<br /><br />I would never recommend this movie to anyone that is a fan of Nora Roberts or J.D. Robb.<br /><br />Honestly this movie is not worth watching with how off from the book is really is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3462bbb2c88232fef937e2cf005729a0cf16472d0d3b2bc94a171860fa98e25
+size 519

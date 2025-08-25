@@ -1,1 +1,3 @@
-I love this series. I hope that it has a good, long run. Tony Shalhoub is awesome in this role, the writing is great, Bitty Schram is excellent as Monk's nurse. More and more of my friends are getting hip to this series and love it too. This is the only show on TV that I consistently watch and tape every week.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb52913afda71ee758220810f7675334687b8085986ea548889183f686de0f4e
+size 311

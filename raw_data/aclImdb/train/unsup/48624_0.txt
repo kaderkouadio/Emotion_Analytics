@@ -1,1 +1,3 @@
-This is truly a terrible movie. The dialog is beyond cheesy, the special effects might have been cutting edge in the eighties. The acting? Bad! I could go on and on... The thing that got me the most was the classic sci-fi movie blunder: "the city". Rather than try to actually pretend to destroy an existing city they just have a bunch of buildings and call it "the city". The dialog reflects this, such as "The monster is attacking the city" or "If it gets to the city we are done for" or "the aliens are directly over the city". As if there was only one city on the planet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a5a8448438bf7a621b6ead866f509cb884d67b48192bf81762a03049611cf84
+size 575

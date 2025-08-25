@@ -1,1 +1,3 @@
-This is one of my favorite Fred-and-Ginger movies. The music is wonderful, the dancing glorious, and the gowns are to die for. The Art Deco sets and the fashions transport you right into 1935. I can watch this again and again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab6dba053f6bb8673f589c24714acdf662d83227bba07484d58be0f69fce0c11
+size 226

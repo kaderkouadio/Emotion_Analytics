@@ -1,1 +1,3 @@
-"Capt. Corelli's Mandolin" is an old fashioned Hollywood war romance but with sex and nudity, and supposedly no Americans. The story takes place on a Greek island during WW2. The Italians arrive to take over the island, but with German supervision. There is a romantic triangle made up of a Greek couple and the Italian captain. Nice performances by all the actors; Penelope Cruz's best work yet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46d43bbe66142e88bdeb04899d176e038f2a192191c7887d247fcce7948634bf
+size 396

@@ -1,1 +1,3 @@
-I didn't know much about this movie going in- my roommate kind of dragged me into it. I was so pleasantly surprised! The plot really grabbed my attention and held it, and the characters are well-drawn and realistic. The screenplay is very clever and funny, and the cast does great things with it. And the best part is that it managed to be entertaining without any explicit sex or violence! If this movie comes anywhere into your area you really should go see it- stand up for this little film, it is worth it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e6e095a6c9f298eff98e908717deb8ea323c3dea804aa972b5741f9d23b736
+size 510

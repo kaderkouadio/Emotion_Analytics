@@ -1,1 +1,3 @@
-I really loved the Millenium series, starred by Lance Henriksen, which is why I bought the film. Obviously at some level it was a mistake. Mutant/monster films are usually very bad and this film is no exception.<br /><br />The basic idea itself is not totally judged to fail (well nevertheless this film would never have been a success, even with a good director & actors), but the way it turns out this is just a B-class movie. The scenes that are supposed to be scary seem more funny to me and the critter is not credible at all.<br /><br />However, watching this film with group of friends in restless mood makes this film shine as it is so unintentionally hilarious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b99dd6aa506db1d7ad59f4cb5600047987ee7a88eed3c13183927e3615b54f
+size 670

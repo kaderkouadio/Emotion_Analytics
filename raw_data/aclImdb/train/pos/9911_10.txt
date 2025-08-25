@@ -1,1 +1,3 @@
-Rosalind Russell executes a power-house performance as Rosie Lord, a very wealthy woman with greedy heirs. With an Auntie Mame-type character, this actress can never go wrong. Her very-real terror at being in an insane assylum is a wonderful piece of acting. Everyone should watch this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cd36a21de48d7cdc4f385160aebc41406805c1a16d973eb43cfd55eef156d2
+size 286

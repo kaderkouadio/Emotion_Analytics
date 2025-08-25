@@ -1,1 +1,3 @@
-I don't think this can legally qualify as "film." The plot was so flimsy, the dialogue so shallow, and the lines so terrible that I couldn't believe that someone actually wrote the lines down, said, "Holy sh*t! This is a masterpiece" and then actually pitched it to a producer. I, for one, am still dumbfounded and will forever remember this film as the mark of the degeneracy of intelligence in America -- that, and "Crossroads," of course.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93642eb27de76a4860e0875c0720411f25f5b1dfc196a6b49af633d189cd1690
+size 441

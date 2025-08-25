@@ -1,1 +1,3 @@
-I saw this kung fu movie when I was a kid, and I thought it was so cool! Now I am 26 years old, and my friend has it on DVD!!!<br /><br />We got a case of brew, and watched this classic! It lost NONE of it's original kung fu coolness! If you are a fan of kung fu/karate movies, this is a must see... the DVD is available. I believe this movie is also called "Pick Your Poison".<br /><br />Watch it soon!
+version https://git-lfs.github.com/spec/v1
+oid sha256:506eff9e412b16c81797ac74e1706e66d8d201583523aa712d2453985dcbfe2a
+size 403

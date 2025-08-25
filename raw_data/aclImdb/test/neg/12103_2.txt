@@ -1,1 +1,3 @@
-I'll give it a two for Denis Leary. He had some good lines, but that's it. What was the point? Where was the script? Who was supposed to act? A movie needs more than this one has to offer. Save the hour and a half to watch your hair grow, or fall out, whatever the case.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a438ee4bcedb99872b5cbe70db28317ad3e8a21a971eee2076cad547f27e07
+size 270

@@ -1,1 +1,3 @@
-I enjoyed the film, but can easily see how others might not feel as I did. When I saw the preview, I was immediately interested in the movie -- despite the fact that the preview I saw revealed nothing about the film itself. The most I ever get to learn or hear about Wales is through reading Hollinshed's histories of the middle ages. It was interesting to see a film actually set in a modern Welsh town.<br /><br />Besides, it was f'ing hilarious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2be567d9a65345d85aa56aa0a7ad7a6430b4c1691a6a2bfc8416c532f9cb004f
+size 448

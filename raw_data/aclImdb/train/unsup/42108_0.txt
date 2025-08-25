@@ -1,1 +1,3 @@
-I love Helge Schneider. I know that he is a brilliant musician, his jazz concerts are amazing and I've seen him live on stage where he combines jazz and classical music with comedy in a perfectly funny way. But this movie, although it contains brilliant jazz music, was simply boring. It does not contain any kinds of hints of a story, the whole film is about jazz, well done jazz, I have to admit. But if you like his music you should better get yourself one of his CD's. Helge once used to be hilarious, but those times are apparently over. This work was not worth watching it. But I don't care, I still love Helge Schneider!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:81f723009ee2793639fd368799ef8a599fb63376a9c08f75ddc88b67ab7a6c19
+size 629

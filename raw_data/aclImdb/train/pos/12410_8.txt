@@ -1,1 +1,3 @@
-This is an excellent example of what can be done on a small budget movie. The acting is excellent considering the script & the whole atmosphere of the film is very foreboding. The gore is well done and used sparingly (look out for the excellent barbed-wire death) & the action is punchy when used. It's true that there are dodgy lines in the script at times, but compared to other movies on the same (or bigger!) budget, it's hardly noticeable at all. Overall, this is recommended. Trust me, it's better than it appears! 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:1baa9e36b05f2a4ac05043954573adf1c5f2fa28f634aa49a36736c0036ce1f6
+size 525

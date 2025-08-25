@@ -1,1 +1,3 @@
-I like Arnold, and I love the subject matter, but this was a very disappointing movie. When I first saw the previews, they were dark and ominous, and Arnold's name wasn't even mentioned. But I recognized him, which led me to believe that he was making a movie that had more of a serious, suspenseful mood. That it wasn't just another Schwarzenegger action vehicle (though I admit, most of his are pretty good!). He had, thus far, avoided movies with any real religious theme. And I was excited. I was wrong. This is just another action, explosion, gun fire movie. And it's a pretty bad one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d93cdf4606b8d1f9b85aa74ab4d25d223954d4f337e9fa36af899fcced9dd8b
+size 590

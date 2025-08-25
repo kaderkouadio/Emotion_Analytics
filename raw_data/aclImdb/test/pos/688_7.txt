@@ -1,1 +1,3 @@
-This seemed to be a lackluster film to me that betrays a low budget with poor cinematography and not all that great of a job of editing. It may be of interest to those who know something about submarines during the World War II era, but I recommend that all others beware. Many of the scenes in this film were flat and some of the actors were a bit weak. The story about the men getting called back to duty during a short leave seems realistic enough, but there's no real pacing or tension in the story. I also had a tough time understanding what the actors were saying, partially due to some strong English accents and perhaps some due to an inferior job of sound recording. I give this a 55/100. Most folks will want to "steer" clear.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22ba2f60773618be0b0972450ff59756fa533ff2a6033b62749f7776caa02f19
+size 736

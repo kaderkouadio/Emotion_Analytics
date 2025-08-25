@@ -1,1 +1,3 @@
-This is the funniest movie I've ever seen. I'm channel surfing and I come in just as the T-Rex is going to some party and you see the table shaking as it walks. It was the funniest thing I'd ever seen. I had to come here just to see if it was a real movie. This is great, I can't wait to see what happens next!
+version https://git-lfs.github.com/spec/v1
+oid sha256:70e628e0e87db2fd91c2c750a97331b8cc3933d19582c6ebaec6859520663b3c
+size 310

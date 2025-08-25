@@ -1,1 +1,3 @@
-Fair enough this film has superb scenery, a great plot, and decent actors, however I cannot help but to be disappointed with the adaption. It is in Boyle's style but it isn't suited to the film, if you have read the book then I'm sure you will agree that it could have been much better - the viewer should watch the film and then fail to understand how they could ever leave such a place. Too much time is concentrated on Daffy and Richard following his path, unlike in the novel. Also, I think it is appropriate to mention here that it is left open nicely to either a sequel or prequel. This film could have been an epic!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c3c30f4ab27526be3b8d6f8296b0087e891473c0d7724b50bc850e2b2c501b8
+size 622

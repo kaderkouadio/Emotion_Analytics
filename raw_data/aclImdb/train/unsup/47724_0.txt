@@ -1,1 +1,3 @@
-Oh, come on... who the hell could find this movie of all the awards it actually got? Touching a political topic, it doesn't offer any political illumination (that is to say, no interesting QUESTION), dialogues (apart from the intense beginning) are paper-like, the story has no development (I mean: even in the petrification there have to be developments, if not we should do a painting instead of a movie), and acting is scarcely bearable. (What about H. Elsner? She has an attractive face, that's it.) A "nadir" of German movie-landscape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:964789769ae4f1524527cf4d44191189498a419b972393289a4b2f58ebafaaa9
+size 540

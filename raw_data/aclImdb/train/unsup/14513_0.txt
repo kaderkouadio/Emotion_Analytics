@@ -1,1 +1,3 @@
-I remember watching this television movie when it first came out back in '79 starring sexy Rexy (Rex Smith)and Denise Miller (later of "Archie Bunker's Place"). Not only was it a beautiful love story, but it had one kick-ass soundtrack (which confoundedly is still not available on CD -- someone please release it!) The theme song went on to become a really big hit -- I believe a #1 song -- if I'm not mistaken. There was also the beautiful song titled "Simply Jessie", among others. It was a terrific movie, but to my knowledge has never been released on video or DVD, as have a lot of other more inferior television movies. Someone please dig this one out of the vaults and release it with remastered sound! Please!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24069da5eebaba1aceefd1dcd98fb8b1006ec6875b0e320349307d9ce28a857
+size 718

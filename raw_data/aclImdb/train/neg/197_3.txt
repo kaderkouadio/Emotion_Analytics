@@ -1,1 +1,3 @@
-While being a great James Arness western, this film has gone down as the worst Alamo film ever made. The story was terrible, inaccuracy all through it, and just downright untruths to boot! Continuity was cast to the four winds. Anybody catch the cannon sequence? The Mexicans were dumb enough to fire cannons that obviously had mud and ramrods still sticking out of the tubes. Come on! Then there is Brian Keith's ridiculous hat! Costumer must of been away or something. Or just out of their mind!
+version https://git-lfs.github.com/spec/v1
+oid sha256:54d4428a09fa02e31bf81569847a7603b884c8d56ff1c56021d2badfae2d3357
+size 497

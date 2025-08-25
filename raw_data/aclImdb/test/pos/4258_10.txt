@@ -1,1 +1,3 @@
-Made at the height of the Black Power movement, this movie portrays African-American Putney Swope (Arnold Johnson) getting made CEO of a corporation after the white CEO dies (the white executives all hate each other and can't decide who should succeed the previous CEO). Once in power, he decides to turn it into a militant organization.<br /><br />I don't know how Robert Downey Sr did it, but he did it! "Putney Swope" is the ultimate jab at America's power structure. It's the sort of thing that seems like it would have come out of Richard Pryor's mind. This is a comedy classic in every sense of the word. A real masterpiece. Hilarious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8564b5a83ba043aa3d25e282c6d78583c61e7576089452c3c5a17d6f5f5110c
+size 641

@@ -1,1 +1,3 @@
-I had recently watched a decent string of Korean movies like 'Over the Rainbow', 'Chaser', etc and I was hoping for a good and relaxing comedy this time. Unfortunately this one turned out to be another one of those slow and terribly scripted movie. The acting was not good and neither was the editing. Half way through the movie, I realized the story had not progressed much! It's like telling a story at one statement per minute and the gap was filled with advertisements. I really felt that the movie tried too hard to be funny. There were moments that I felt could have been good but it was either untimely or not acted out well enough. Give this movie a miss!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a5b20fccb2c862a7372d174a5017211eead3d5363e531a4b21aa9adeb224af1
+size 663

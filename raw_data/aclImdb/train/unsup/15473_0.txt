@@ -1,1 +1,3 @@
-I watched this movie on the Disney channel as a kid and fell in complete love with it then! I watched it every chance I got! I own the movie now as an adult and still adore it! :) I'm a big wolf person so I of course really liked the wolf in the movie! I don't know anyone that wouldn't like this movie! :D
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b170690fd008819e71299d0b75d39576a28073cbb48b2dd852ae061c7bb044
+size 306

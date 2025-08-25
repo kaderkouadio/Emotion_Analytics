@@ -1,1 +1,3 @@
-First, be forewarned the makers of this film are ballot-stuffing. There's a good reason why you can buy it for less than $1 on Amazon - because it's really BAD.<br /><br />How to describe this film? Put the word "bad" in front of any component of a film, and you've got it. Bad Tarantino/Lock Stock/Get Shorty knock-off. Bad writing. Bad directing. Bad acting. Bad cinematography. Bad continuity. Bad decision for Keitel and Depardieu. Bad rental choice. I made it through about 20 minutes before I reached for the Pepto Bismol anti-depressants. If you want a really great obscure crime comedy, try "Big Deal on Madonna Street."
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b244b311a745d9a7d4be7310886b8d23b7e220d34a6ab12420b909f6adada1f
+size 628

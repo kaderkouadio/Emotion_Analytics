@@ -1,1 +1,3 @@
-Richard Willaims is an animation god. He was hampered in directing this film by the producer. The final product is a very uneven film with a very convoluted story, but some amazing moments of animation (like Emery Hawkins' "Greedy"). Joe Raposo's repetitive music doesn't help either. It was made in wide screen so the VHS doesn't show it in all it's glory, let's hope for a letterboxed DVD someday. Still it's worth watching for some eye popping animation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48dd9424d5a47ec171b7590c2c96825d38f37774740b345782bb5939df2ae049
+size 457

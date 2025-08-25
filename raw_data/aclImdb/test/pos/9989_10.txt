@@ -1,1 +1,3 @@
-I thought that this movie was incredible. I absolutely loved it, even though my brothers didn't that much. The special effects were outstanding, and this movie is about my favorite sport; golf. The only thing that was disappointing about this amazing movie is that it is hard to watch two times or more in a row. This movie just absolutely tops everything else I have ever seen. It was everything I would expect out of a movie. I just loved it. Also, it was pretty kid-friendly. This movie helped me realize that when you put your mind to it, anything is possible. I would give it a pure 10/10! It was better than The Legend of Baggar Vants, and the two Pirates of the Caribbean movies combined. Absolutely amazing. Loved it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cbfa5817c13c1df938dc4710469f8ad7bc5425c585e8859652a112e713f311a
+size 725

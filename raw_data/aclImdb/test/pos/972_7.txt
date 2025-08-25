@@ -1,1 +1,3 @@
-This isn't a life-changing movie; it's not an epic, or anything like that. But it's entertaining, and it's fun. It's a film that the whole family can watch together, and at the moment there are precious few kid-suitable films that DON'T have a love story in them! It tells a good story in a lighthearted way without trying to dazzle the audience with over-the-top special effects, like lots of films these days are. It's got some fairly good acting in, and all the music that's been used fits in pretty well with the movie content. The acting is quite good too, the actors look comfortable and believable in their surroundings and most importantly the jokes are actually funny. I'd recommend it for people of all ages - it certainly made me laugh. :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb5ff716eac461229a3f4f1de68023892139195d14dea3e31aa39d18e4082be
+size 750

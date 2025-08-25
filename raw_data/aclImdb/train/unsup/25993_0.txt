@@ -1,1 +1,3 @@
-Even though I am a werewolf horror genre fan, I thought this was terrible. This has got to be the worst in the Howling series. It's not interesting, and the acting is poor. It starts out as a mystery, but it doesn't bring up very many interesting ideas. My score: 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d10ebf468ccbb46332e83ab81dfea54566a3387fa79012086e3da91bad4ee08f
+size 268

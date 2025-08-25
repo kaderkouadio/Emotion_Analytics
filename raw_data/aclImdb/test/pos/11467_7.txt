@@ -1,1 +1,3 @@
-PUBLIC ENEMIES is a kind of throw-back to those early 1960's gangster biographies like PORTRAIT OF A MOBSTER, MAD DOG COLL and KING OF THE ROARING TWENTIES. Although made on the cheap, the film has a great deal of energy and the acting over-all, particularly by Eric Roberts and Frank Stallone is quite good. Theresa Russell might seem too glamorous as Ma, but she has some very good moments. There are two action scenes worth noting: a shoot-out in a hotel, and a machine gun fight in the middle of the street between the Barkers and the FBI. Both sequences are nicely done, and compared to other low-bidget gangster junk like DILLINGER AND CAPONE, this film shines.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee6777a4504b41cb3f129542729c8bf3092c7b540955bde3455a747c30d44cd
+size 667

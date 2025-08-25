@@ -1,1 +1,3 @@
-This a fascinatingly awful movie. It make so little sense that it starts to make a kind of weird internal logic of its own. Well, it would if it didn't keep darting off up side-alleys until eventually floundering under the weight of its own indecisiveness. The movie can't make up its mind whether it is a straight forward 'Man Turns Into Monster' flick (like all those 1950s 'THE INCREDIBLE insert verb ING MAN' movies), or a ghastly big business conspiracy theory movie, or a mystical afterlife contact story, or... or what? Take your pick. It's just a mess. Grotesquely over the top and firing off in all directions, leaving loose ends flapping all over the place. It was as if Tobe Hooper had been taking David Lynch pills. Unfortunately he didn't take enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baeec632a09f212fc35349aef98eb71df2473e52d0a87e48c5155a7a6950dc18
+size 764

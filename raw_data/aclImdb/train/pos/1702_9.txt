@@ -1,1 +1,3 @@
-If you have trouble dreaming you may give this movie a low rating. But you just have to realize this movie was not made to please everyone,<br /><br />just people with a sense of humor.<br /><br />For those people the movie is great! It plays on old Science fiction movies and radio shows long gone, most of witch where B-rated themselves. Along the lines of Spaceballs and Airplane 2, you may need to stretch your imagination a little bit to get the jokes, but it is well worth it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:735db08c4896ceea6f65591addae0a284cc034c503435d524c3e5a99471b6abb
+size 482

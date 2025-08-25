@@ -1,1 +1,3 @@
-Not plutonium. This movie stinks. How embarrassing for John Carradine. But then, judging from past endeavours, it is impossible to embarrass either Carradine or director Al Adamson. There is no depth to which either will sink. And on top of it, here we have a movie that steal clips of stock footage from the likes of "Unknown Island" and "Robot Monster". Pathetic. Simply pathetic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a0df3e99994da85095184af4e70ab3cc599e45c5bd03ab34ea48b0750a078e1
+size 382

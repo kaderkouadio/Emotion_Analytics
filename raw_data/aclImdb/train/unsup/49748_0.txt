@@ -1,1 +1,3 @@
-This movie is the worst horror movie i've ever seen. Everything sucks; the actors, the plot, the lines, EVERYTHING!<br /><br />By the way, this is a Swedish movie, with Swedish actors, but they all speak English, and it sounds terrible... their grammar isn't exactly 'perfect'. Another thing i have to mention is that you can clearly see a cameraman in a scene where they're driving a car. In the extra-material, they even speak with the cameraman that screwed up the scene.. hmm?<br /><br />If you'r planning to see this movie, don't expect too much, just expect to laugh... a lot!, then everything's gonna be alright. ... but as a comedy, it definitely worth a peek ^^
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d5c9cc349c8dee289007005e75d8264da4b7181f0e5468a651c3a9bd47540d3
+size 670

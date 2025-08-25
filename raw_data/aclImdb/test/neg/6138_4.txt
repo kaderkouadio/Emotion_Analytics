@@ -1,1 +1,3 @@
-This film is likely to be a real letdown unless you understand the circumstances under which it was made. The Marxes were chosen to be cast in the film version of a play that was not originally written for them. They are sort of force-fitted into the roles. Ironically it might have been funnier if it had used different actors who did not have such high expectations placed upon them. Instead, it has been forever enshrined as part of a canon to which it really doesn't deserve to belong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f93d51bd45b3f53df5880b7217ec492694000606784ce60b0956385866af689
+size 489

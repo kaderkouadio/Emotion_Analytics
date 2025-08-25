@@ -1,1 +1,3 @@
-Considering the "name" stars involved in this flick (James Earl Jones, Robbie Benson among others), you'd think this film could rate above a 1 star. No such luck. This post-Mad Max, post-apocalyptic rip-off hits the same lows as most other such attempts, but finds some unique qualities of its own to make it even worse. Take one-part Mad Max, one-part The Warriors, mix well, and turn into foul-tasting hash. There are some feeble attempts at action and excitement, but even the ineptly staged action sequences defeat that. A yawner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30562de4d529727c468f78f59be9b2b6a401d4c2d689fd0a2d357756dd86bbd8
+size 534

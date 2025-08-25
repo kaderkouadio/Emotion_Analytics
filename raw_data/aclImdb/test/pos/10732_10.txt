@@ -1,1 +1,3 @@
-I've seen many Dustin Hoffman's movies like Straw Dogs or Rain Man and I liked them, but his characters are much to often calm or even shy persons. I expected him to be in this movie the same as he was in Straw Dogs, but I saw a totally different person. He was much more energetic in this film and kinda reminded me of Al Pacino in Serpico. The movie was very interesting from beginning to the end. I liked the way Dustin Hoffman's character was ready to do just about everything to stay with his son. This movie is also revealing. Personally, I think it shows that people should learn to find a compromise them self without involving other people into issue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3af1098fd6d14ac1d25ed67f8abfb66219611adf9eaa6adeb264c7a7986e49
+size 660

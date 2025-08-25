@@ -1,1 +1,3 @@
-Low-rent version of Ashley Judd's Double Jeopardy. Sutherland is too professional to be bad, but what was Brigit Fonda thinking?!? The Penelope Ann Miller curse continues (Think about it--when has she EVER been in a good movie other than Other People's Money? And I'm not saying she's bad, but all of her movies fail in some way).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e60857744bc9607b8836e21eecc0c7d7606d59df43a1ef7dc5f7f829c3360cf
+size 330

@@ -1,1 +1,3 @@
-Someone once described this recording, the filmic version of Ad Nauseum, as "Pete and Dud on acid." This is hilarious. It's crude and shocking and clever and insightful. In years to come, this'll be a profoundly interesting social document. If any "film" ought to be blasted off into space for aliens from the planet Z to find and watch, then this is it. I'll bet they'd laugh their socks off at it as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1acc8428f56c3a9e5f554720ad4903d871f75db036c026de388f62dbfee61b4
+size 407

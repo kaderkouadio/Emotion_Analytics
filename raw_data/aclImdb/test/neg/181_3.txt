@@ -1,1 +1,3 @@
-An interesting period picec showing us what was amazing in 1938. Gosh, Ma, a fake accident ring suing for $25,000!!! I guess projected into the 21st century it would amount to a lot of money. The acting would amount to pure 21st century ham. Nice to see the president as a hard-working newcomer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36be2b26376081d19009cd5cc39f842ce67be87564aac5c3b6d40a26c2661c4
+size 295

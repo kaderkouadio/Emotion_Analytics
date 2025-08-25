@@ -1,1 +1,3 @@
-Christopher Walken: what was he doing in this movie? What was he saying? The only thing this movie succeeded in, besides making me lose faith in Anson "Potsie" Williams filmmaking career, was making me feel sleazy. Everybody in this movie looked too cleancut to be involved with all that sex and I don't think there was a "Blue Velvet" double meaning of looking beneath the surface either.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc504e9408f9b6d8b52d55779ada228c7c16ee99a1f27e52df9fd644c2c8e7e
+size 389

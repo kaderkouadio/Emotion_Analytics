@@ -1,1 +1,3 @@
-I am oh soooo glad I have not spent money to go to the cinema on it :-). It is nothing more than compilation of elements of few other classic titles like The Thing, Final Fantasy, The Abyss etc. framed in rather dull and meaningless scenario. I really can not figure out what was the purpose of creating this movie - it has absolutely nothing new to offer in its storyline which additionally is also senseless. Moreover there is nothing to watch - the FX'es look like there were taken from a second hand store, you generally saw all of them in other movies. But it is definitely a good lullaby.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae3f5debe04f36cee4a1f9b475e64aac668c62837a9af11fe53883dfa7763381
+size 594

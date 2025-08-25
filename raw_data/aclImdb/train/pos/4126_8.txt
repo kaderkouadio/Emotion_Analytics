@@ -1,1 +1,3 @@
-What a night. Perry Mason then Have Gun, Will Travel followed by Gunsmoke (when it was a half hour) and finally at 10:30PM came 'Sea Hunt' with its wonderful opening theme music and Mike's boat sailing off to a new adventure. Terrific.. Regardless of the story it was the lead character (played by Lloyd Bridges), strong, honest, sincere. A Man's Man and a Boy's Man. This brought on an interest in boats that lasted for years. Why they don't show on cable or make it available on video, no idea.. Too bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f547a7e7b428e360f03e547570cb9d56524071d66a4fbbfe766d6f89a1a2168
+size 506

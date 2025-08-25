@@ -1,1 +1,3 @@
-The director tries to be Quentin Tarantino, the screenwriters try to be Tennessee Williams, Deborah Kara Unger tries to be Faye Dunaway, the late James Coburn tries to be Orson Welles, Michael Rooker tries to be Gene Hackman, Mary Tyler Moore tries to be Faye Dunaway (older version), Cameron Diaz tries to get out of the frame as quickly as she can (successfully), don't ask about Joanna Going. Eric Stoltz and James Spader try to conceal their embarrassment with this crappy stuff. It delivers endless, meaningless dialog and very little action.<br /><br />Tulsa is a town with beautiful elevator lobbies, an art deco church by Bruce Goff and a lovely, sprawling mansion by Frank Lloyd Wright. Visit Tulsa, don't watch this movie. It doesn't do the location justice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad5e8afc21e7f8004e5b16145ee5ad0edf7202428ffb50ff38e87d5fbc9f56d0
+size 768

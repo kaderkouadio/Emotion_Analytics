@@ -1,1 +1,3 @@
-It's the ultimate anti-climax when you realise the thing terrorising the good folk of Burlie Pines is a plague of marauding soldier ants!! Most of the village is evacuated but one, small group is left to fight the insect invaders. Plastic skeletons and terrible acting do not help in saving this film from being placed onto the worst films of all time list.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ee61ddeb5d9fd1f8465af5bb22eeff6c60afecca181efe4b06ea2e6cfa1be5
+size 357

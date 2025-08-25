@@ -1,1 +1,3 @@
-Not the most exciting movie ever made, but it's not the worst either. Granted, it does have its weak points-it seems to go on forever, it doesn't have that much to offer by way of an interesting plotline, and the acting in some spots could be better. However, it's not without its charms. The music is very appealing, and it really is gorgeous to look at. It is an adequate time filler-it's just not for every taste. You be the judge
+version https://git-lfs.github.com/spec/v1
+oid sha256:9346d8802fafb09c63348ee2788a61299862e2afde043f70f0185e07e746d9f3
+size 433

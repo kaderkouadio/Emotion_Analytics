@@ -1,1 +1,3 @@
-This movie kept me constantly entertained. In comparing this to Serial Mom, Mr. Waters has gone back to his grittier side. This is not nearly as polished.<br /><br />There is a dark side here. A message about how success and fame changes a person -- but more importantly how it changes the people around you.<br /><br />There is not a false moment in this film.<br /><br />The characters are somewhat cartoonish... but I want to believe that is what Mr. Waters is trying to achieve.<br /><br />It is fascinating to watch how Mr. Waters has evolved... This is truly his finest work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ce51ff4c22e2ccc1ec48065e60fc924d3fef289b2ff010a29ddc4c05776ed1
+size 581

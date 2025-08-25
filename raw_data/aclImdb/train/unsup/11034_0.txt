@@ -1,1 +1,3 @@
-Both leads are spectacular. Unlike most early (pre-AIDS) gay films, this still hits the spot. I've been ruined for life by these (actual, not lipped) impersonations. All by themselves, the impersonations are worth renting/buying this film, but the rest of the story is also superbly done. This should prove to those who get their kicks out of ridiculing Canadian films that they were wrong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f9f28bdfb7ef32180e92e2396ddabc9095ed4075a435dd7cc5da5cbbca76ba
+size 390

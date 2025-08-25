@@ -1,1 +1,3 @@
-Many top name actors appear in this film. A must see film for all people! Definitely makes one think about and analyze your own values. Race is a very strong determining factor in American society and this movie speaks to what it means to be true to yourself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3efa808896d253d284dd24128c0d0db2eb2fff40734cefd866c87e1008804674
+size 259

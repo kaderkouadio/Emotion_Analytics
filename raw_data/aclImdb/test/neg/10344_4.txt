@@ -1,1 +1,3 @@
-Corben Bernsen directed horror film about a chemical weapon being released in a sporting event and turning everyone in to insane monsters. We watch as the staff at a radio station takes reports.<br /><br />Its has moments but mostly it plays like a Lifetime horror movie with breasts and blood. There are some really good ideas here, but they just don't work. Actually the film's ideas are better handled in a film called Pontypool which pretty much works all the way through and builds tension by not showing us anything. This shows us stuff and it just seems cheap. Given the choice I'd watch Pontypool again rather than watch this film again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ddf98c5bec9d877d0d14614f434531bd3fe8dfd94f5a9c9c46df04f8dd782bb
+size 645

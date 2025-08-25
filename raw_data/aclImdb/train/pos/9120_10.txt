@@ -1,1 +1,3 @@
-This film speaks a universal language; one can relate it to the self, community, society or the wider world. It has a way of not only opening up several questions but also setting one in pursuit of discovering and asking the right questions in order to get to that point of self conviction / ownership. The portrayal of the stereotypes within the film addresses the archetypes around us which must be recognised as being the repeating cycle of destruction, the opposing force of innovation, creativity and growth. The factors which disturb the natural flow of things must be made apparent and tackled. The Idea, is definitely a film to be experienced and not just viewed as it taps into one's internal voice / conscience through the looking, it makes one feel as opposed to just watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9372a732825502c00f9dc26f22f84857dba386ea9ced81237d00e4fc404c103
+size 785

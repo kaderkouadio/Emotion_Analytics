@@ -1,1 +1,3 @@
-My first comment on IMDb ... after watching many IMDb Top250 ... After this I HAD to write something. One of my all-time favorites.<br /><br />This movie is fantastic. I have never seen a movie that let's you feel with the main actor like this one.<br /><br />If you see this movie, you feel the feelings the main actor has. This movie makes you curious, angry, sad, afraid and shocked like few other movies.<br /><br />The acting is superb and so is the cinematography.<br /><br />I am so glad I could watch this 'old' masterpiece. Thank you George Sluizer!
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ac129833b5ffde9f1b7eedb769b2403b4ba14b8695f490b3b6771b1ec24be8
+size 558

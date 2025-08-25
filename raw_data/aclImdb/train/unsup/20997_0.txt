@@ -1,1 +1,3 @@
-THE RETURN OF JAFAR, in my opinion, is pure Disney excellence. If you ask me, Jafar (voice of Jonathan Freeman) was even more diabolical than in the predecessor. To me, Aladdin (voice of Scott Weinger) and Princess Jasmine (voice of Linda Larkin) did an excellent job singing together. However, if you ask me, the Genie (voice of Dan Castellaneta) gave the funniest performance of everyone who acted in this film, despite the fact that Robin Williams wasn't in this. I really enjoyed the music, especially "Forget About Love." Before I wrap this up, I'd like to say everyone involved in this film did very well. Now, in conclusion, I highly recommend this film that's Pure Disney excellence to all of you who haven't seen it. You're in for a good time, so go to the video store, rent it or buy it, kick back with a friend, and watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a1e37ada617b4cf9e6e904b00c1e49a8d73e304aa961b614c11b3774fd7d677
+size 836

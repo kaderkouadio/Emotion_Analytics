@@ -1,1 +1,3 @@
-More acutely than I've experienced in a long time, this film captures the process of personality inheritance within families. The interaction/influence between Bernard and Walt is almost painful to watch at times, but it's completely rich. Beyond just that father/son dynamic, the story is so poignant without ever getting sappy - a true accomplishment for a family drama involving divorce. Nothing hits you over the head. Nothing seems too forced. While there's plenty of confusion, discomfort, and alienation, a sense of love shines through, and I couldn't help but get attached to all of the characters. I recommend this film unconditionally.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbad94bf44dd9644ea70742133da6378b673ac38da747df55f2e613315568c80
+size 645

@@ -1,1 +1,3 @@
-Unwatchable horror flick about a group of teens who are invited to a wax museum and are viciously attacked by monsters is just as dumb as the other B-horror movies. A wasted cast and an unsatisfying premise are enough to make this movie extremely pretentious. Very typical and totally empty. A movie that's not worth watching and should be avoided like the plague.<br /><br />0 out of 5
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9741575af80ac24e774026447ccff465e0ce0fee0c75b897f9c5b8a9547cf0b
+size 386

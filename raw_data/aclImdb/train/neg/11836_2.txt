@@ -1,1 +1,3 @@
-Ultimately too silly and pointless. Yes there is the gilded cage metaphor but probably most kids would miss that. Forgettable. Instantly.<br /><br />Animation is, as we have come to expect, super-real. The plot-line could best be described as thin but tenacious. Although the ending seemed arbitrary to me.<br /><br />The sewer underworld is a suitably disgusting reflection of the world above and, somehow, wealth and money seem to count for a lot there too. Oh yes, and there's a romantic interest with the female being the smarter, more savvy and go-getting of the pair - this in itself is rapidly becoming a tiresome (anti) stereotype. Probably your kids will love it though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b51d3db06ab0bc8a9d9269ce64a1724cac6c6fffd75ed09c7d43b37fbf0711f1
+size 679

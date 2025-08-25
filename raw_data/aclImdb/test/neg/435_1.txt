@@ -1,1 +1,3 @@
-I just don't get it. Why call this a sequel to the film "American Werewolf" when it has absolutely NO connection with it whatsoever? The first film was funny *and* scary with ground breaking special effects. (If memory serves, the Oscar category for special make-up effects was *created* for this movie). "Paris" is none of these things. Awful effects, and not much else. Do not see this movie. Rent the original "Werewolf in London" instead. You'll be much happier.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1209ad3f1cb4fc3515508276bee77d452dc945f85ff03d84900e0880c68d9e16
+size 466

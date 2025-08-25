@@ -1,1 +1,3 @@
-Actors (so runs one school of thought) are miserably malleable people who's principal talent is their ability to simply morph into their stage characters. Look no further than this movie, for a prime example of such. Martin and Lewis (ably played by Northam and Hayes), shallow folk with little real talent who through happenstance fortuitously hit the show business equivalent of the lottery, cannot handle relationships, their success, or each other. In the end, the pair's life of comedy plays out as a tragedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4131df3a1b73a2e1923a7170057efefd6b50e5e1d6c2673dbb4fb0272dde7b2
+size 514

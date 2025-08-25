@@ -1,1 +1,3 @@
-AMC has been showing this stinker for the month of March,2001. Ted Healy gets my vote as worst actor ever on screen. He does a second-rate Jolson impersonation- and that may be an insult to second-rate! In the scenes with the Stooges(of the 3 Stooges fame) Shemp comes across as the leader of the three, but Healy tries and fails miserably at doing slapstick comedy better than the Kings of the art form- The Three Stooges. I understand Healy was eventually murdered. Too bad for him, but great for the world of comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1e2164db9c4f5d003c5711d52bf5fa1a9e21390b2b0efc7b5b063d03d2698e5
+size 519

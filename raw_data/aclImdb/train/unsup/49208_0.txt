@@ -1,1 +1,3 @@
-What is wrong with homo flicks ? This one starts with a good idea and bogs down into utter confusion. The next step is complete oblivion.<br /><br />A nice actor portrays a young and ignorant man from Gruyère who refuses to commit, refuses to envisage his relationship beyond raw sex cruised on the internet. <br /><br />He lets a nice girlfriend escape him and tries to reinvent his life. Gradually he reflects on himself and thinks about cultivating his brain and shedding his quite meaningless existence (there does not seem to be much physical pleasure in it !). An interesting theme for a quite boring film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5398e37d4a2b6fa7f36a1e58f225394e231013eaf0460d411bc14e9fb6f67f3
+size 613

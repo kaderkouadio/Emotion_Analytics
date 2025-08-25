@@ -1,1 +1,3 @@
-I felt that the film was rushed, and the acting was full of holes. Arnold was good, but the main girl was stupid, and the guy who played the devil was awful. The story was confusing and idiotic. The film had no point, and was unbelievable. The movie is not the worst movie, but is not too far away from it. Overall I was awfully disappointed, it could have been alot better. My score is a 3 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:256ed6cde93c4ebc77a15253823e37818876293dcaab2e1a20cd16ca190710a1
+size 400

@@ -1,1 +1,3 @@
-This is a classic animated film from the cartoon series! Most of the major characters get alot of screen time plus do extra characters aswell! The film`s focus is on the superstar characters vacation and each one has his/her very unique summer fun! Its very funny from beginning to end! It has excellent color, great music and believe it or not I have seen this more than any movie. Its that great and in MY opinion its perfect!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5aac7fc89a5e73e9b217f245b248d80b415c8bc1805da60e87c9c4581159ed7
+size 428

@@ -1,1 +1,3 @@
-The film is boring with Jonny Rico being the only character returning from the first film. It's too much military based and unlike the title;Marauder, it barely contains any marauders. No beetle-like bugs, no grasshopper-like bugs, only arachnids and other new bugs that was never in the first film.<br /><br />Last scene is too childish and unlike the first film, no detailed shot of a arachnid being gunned down is shown. But other than that, it wasn't a horrible film, at least it's much better than 2. The script writer should have taken the story more seriously with more characters and creatures returning.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c1517aa4418cda4ce85c37f5da1cfde97ccd54545d015e9fc2d6d32739df007
+size 612

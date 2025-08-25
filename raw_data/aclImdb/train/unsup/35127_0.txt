@@ -1,1 +1,3 @@
-My God. This is an awful film. How anyone thought this would be a success is beyond me. Landry looks like a fish out of water (a fish with a good body, I'll have you, but a fish nonetheless), and the direction and script are frankly laughable. A definate no-go for anyone who does not wish to undergo the same horrible experience as yours truly. 0/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb2841be772910cdfada8c09ecf38b3f8f77d6203fe7edfc577c701d075d183
+size 350

@@ -1,1 +1,3 @@
-I doubt it. But this one is pretty thick-headed, which sort of ruins the movie. I suppose that he's not supposed to be a street cop, but it's still inexcusable. He's on a mission for personal redemption. The only problem is that he's pretty bad at it.<br /><br />It seems that a lot of people find this movie to be disgusting, which suggests that they haven't watched many movies. The gross factor is actually pretty low.<br /><br />Other than that, the plot and production are pretty good. The music is great.<br /><br />Overall, you can spend 90 minutes with a worse movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a05f2d0c128999247b319f7a580a70a411e5f193f1ebf65078ac505f6a50131
+size 575

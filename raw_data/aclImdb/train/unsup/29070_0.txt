@@ -1,1 +1,3 @@
-This is a VERY bad movie, but that's half the fun of it. It starts out as a typical chicks in prison movie then when they get bored of that it becomes a 'buddy movie'. Copious amounts of nudity and unneccesary shower scenes, incredibly bad acting and one of the worst scripts imaginable make this an entertaining exploitation flick. Oh yeah, and the character 'slash' (the REALLY bad actress) used to be a porn star.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f6d3cee54ba9ea5913fd774e05235cc125df4c7b078efa9f85cb3cf4afd0920
+size 416

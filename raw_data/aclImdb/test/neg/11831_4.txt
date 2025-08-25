@@ -1,1 +1,3 @@
-This is a semi fictional memoir of an "international man" who have witnessed various political upheavals in recent 30 years.<br /><br />I was hoping that this film would offer unique insight into politics and war. I was also hoping that it would be touching and affecting. However, I was disappointed by this film. "Chico" seemed fragmentary, with the main character, Ricardo, staying in one country for 10 to 20 minutes. As could be expected, no detailed storyline could be elaborated in such time frame. The excuses of him moving to another place were often perfunctorily explained. The result was a disappointing collection of fragmented clips shot in various countries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9598be38bd89a78eb1e823ed4188d98d259940b9ad98d71b29ad9660e90e91c0
+size 673

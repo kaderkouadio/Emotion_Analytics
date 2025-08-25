@@ -1,1 +1,3 @@
-This was an interesting movie. I could have done without the bathroom scene and the seduction scene - EWWWW! Other than that, I loved the head-banging music this movie revolved around. Chris/Izzy's parents are AWESOME! They totally support their sons interests and believe in him enough to support him - now that is AWESOME!! What really surprised me was the Chris's realization at the end. It was not quite the "hollywood" ending on his road to self discovery. The overall rise to stardom and the fall of it was quite a roller- coaster ride.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b1503f173996d7d08d31e02361678942f62eb4cf2feb1edc573feee48f3b8f
+size 542

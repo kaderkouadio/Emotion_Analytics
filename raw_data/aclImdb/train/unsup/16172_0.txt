@@ -1,1 +1,3 @@
-Any feature that has to pad out its barely hour length with unrelated bump'n'grind footage has really got problems. There's no pace, no acting, no talent, no interest. The vampire looks like a member of the 80s band Whitesnake. The cult appeal of cameo appearances by PLAN 9 actors Conrad Brooks and Dolores Fuller is totally wasted. This video feature is beyond bottom-of-the-barrel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00f636f60f4a58459ab84763fc09d3555c9ea0465ee053b7ff1fedf3a37ba90f
+size 384

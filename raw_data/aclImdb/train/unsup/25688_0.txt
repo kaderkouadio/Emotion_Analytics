@@ -1,1 +1,3 @@
-Don't get me wrong, I enjoy bad cinema and b-flicks, but this film was sub-par. The video cover is a bad Mad Max parody, the tagline "cheaper than a chainsaw" doesn't exactly draw the viewer in anymore and when you actually view it, the only reason you keep watching is you can't think it can't get any worse, but boy does it. I've seen better acting in a porno, the gore is weak, and the killer is the worst "maniac" in cinema. Being filmed in Texas I thought it'd have a good indie feel to it, but nope, far from it. I can't continue to trash it anymore, because I just don't have time and energy to waste on this film. Rent it and judge for yourself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e49a676cface8169627342254d57865195419d39ace18776d1dfa95a85a867f5
+size 653

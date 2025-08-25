@@ -1,1 +1,3 @@
-this movie was about as flat as an opened 2 liter bottle of, um, nuka-cola. i mean, i didn't expect much going in and i was unpleasantly unsurprised. the characters in the movie weren't too endearing and a lot of the dialog (all 6 or so lines of it) sounded pretty forced. the main character seemed to have this big hamlet thing going on throughout the movie and i totally didn't buy into it. also, you know how plot twists are supposed to make you think "wow, i totally didn't expect that!" and be shocked? well, in this movie when that stuff happened i just shook my head--most of the time they didn't have any diegetic justification for their plot twists--and rolled my eyes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c339ffb9a6f7c00178a1f522e79af3a651660a07d6795a9ba6cbd98b943086e1
+size 678

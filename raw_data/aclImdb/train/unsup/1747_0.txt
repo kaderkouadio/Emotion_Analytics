@@ -1,1 +1,3 @@
-Although it is hated by most long time FF fans, I find 8 to be one of my favorites. With incredible graphics (the characters are a far cry from the blockyness of 7) and a new magic system, 8 also has an intreguing storyline that follows young squall around the world. Plus, the gunblade weapon is one of the coolest new weapons around, and the new limit break system makes for cool divergences from normally routine battle (if you have ever seen Squall's 'Lionhearted' limit break you know what im talking about.) Plus, it has truly the hardest enemy I have ever fought, the Omega Weapon, much harder than the final boss to say the least. Over all, it's a great game, and out of the whole series, it ranks number 2 in my book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0187202db0f49e15d378052ae7eebf6508fd7d08e66777244653b9e1caf2faa
+size 726

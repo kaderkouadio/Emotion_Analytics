@@ -1,1 +1,3 @@
-Having become interested after slowly being drawn in, by the tease of what was to come I battled through poor acting and sets, for the end finale. Of course, what does this say about me? However, reading so many of the comments here about the authenticity of the tape and the characters, I would point out this. At the end, in the credits, it does say that all the characters and events are fiction and any relation to any real character or event are purely coincidental.<br /><br />The premise for the film is good, based on how voyeuristic we, as cinema goers and a society, have become but it doesn't do itself any favours by being so badly made.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dd82f5a009d6b9c77b5b53cb90e11583580f6dd46261c2cbd4b81fe77c2f200
+size 649

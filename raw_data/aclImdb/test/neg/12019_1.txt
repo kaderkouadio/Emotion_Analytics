@@ -1,1 +1,3 @@
-This sequel to Problem Child is just as bad as the first one. It still teaches kids that it's O.K. to be bad. It's impossible for me to recommend this movie to anyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:683f34977113e0ccbbee18f53b01daf39873eeadfaf93aa04491fd084245ec23
+size 167

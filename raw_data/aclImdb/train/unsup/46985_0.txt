@@ -1,1 +1,3 @@
-4 out of 10 for the animation. It's true that there's lots of action-packed anime out there that's big on flash and light on story. But this movie raped my eyes. This movie forcibly shoved unwanted imagery into my skull. I started watching it because I believed the slugline on the DVD box, that it was a sequel to NINJA SCROLL, which of course isn't true. I had to watch the whole thing, because I had to see how it ended. Any minute, and it would get good, it would show purpose. But it didn't END. It's one thing to fill it with the most graphic depictions of gore the animators could conjure, but it's another to have it all mean NOTHING in the end. A pointless, nihilistic waste of shelf space.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e777711cc77e965e9702194f802286c578db6f753cea767d31db898515ce6454
+size 699

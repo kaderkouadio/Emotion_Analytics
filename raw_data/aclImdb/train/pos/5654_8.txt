@@ -1,1 +1,3 @@
-I watched the show 10 years ago and loved it!!! Am now in possession of the DVD and was watching the series, and waiting for scenes I knew were in the show (when Lucas confronts Gail in his house)and realized it was missing - all of a sudden I was watching the seduction without the lead up. Then I went on line to check out all the BIOS of the stars and came across the comments about the shows being out of order. Thank You!!!!! But there seems to be some conflict. Some comments state "Strangler number 19 then Triangle 20, when another had them around the other way. And also Potato Boy 5, and Dead to the World 6, were reversed as well. Can someone clarify?????
+version https://git-lfs.github.com/spec/v1
+oid sha256:df02f4bab7e35eb77338746d966a38a3f119b343088f25a9633064c21386c4ba
+size 666

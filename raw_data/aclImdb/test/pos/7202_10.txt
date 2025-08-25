@@ -1,1 +1,3 @@
-I have to confess that I slept in the cinema while watching the first Asterix movie... but this one is simply FANTASTIC! It is really funny and it leaves the first one miles away. It has enumerous gags and funny situations that made me laugh since the first minutes of the movie and I only stopped laughing when I reached the car to return home. I repeat: this movie is spectacular... Obelix is really funny and Cleopatra is a real babe!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b74bdc1b3f9ee0acb3a7588f86731576d0a92e8914e3a3daf0c68d4dcfe8d4d
+size 438

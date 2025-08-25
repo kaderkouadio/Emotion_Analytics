@@ -1,1 +1,3 @@
-One of the worst films I've seen in a long time. At least three people I know have confessed to falling asleep during this. The ending is absolutely unbelievable I am lost for words as to how bad it was. Usually when things are this dire you can laugh about it but not in this case. The only positive thing about it was the fact that Johnny Depp realised that not all us Londoners speak the same. His East London accent was remarkable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e626aae7c1f6bff1c88f8d68462b92ad7127a763a18e27c083ed0c6d4f31bf
+size 435

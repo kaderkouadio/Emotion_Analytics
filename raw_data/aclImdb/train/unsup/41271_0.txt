@@ -1,1 +1,3 @@
-Amick makes a solid centerpiece as she runs from tree to tree and pillar to post in this lame drama about an insurance investigator who goes deep into a Canadian forest to retrieve $12 million from a downed aircraft...armed with her lipstick and assorted cosmetics. "The Hunted", just another of a zillion or so people-hunting-people flicks, is trite, simple minded, predictable, and full of plotholes. An okay shoot, the story fails early on urging the thumb to inch toward the fast-forward button. Passable and forgettable. (D+)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f328a3330dfb4a2c1e74d0e5bf0d2d44c2d9e1a330636f72626afbc63d5db4c7
+size 530

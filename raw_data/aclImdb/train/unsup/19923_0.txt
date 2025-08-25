@@ -1,1 +1,3 @@
-It was great to watch this film and see live footage of the great Irish rock guitarist Rory Gallaher, performing with his band Taste. Sadly, Rory is no longer with us. Indeed, watching this film showed just how many of our famous and infamous rock stars have passed away since 1970. Hendrix, Morrison, Moon, Entwhistle, Gallagher - all gone to that great gig in the sky.
+version https://git-lfs.github.com/spec/v1
+oid sha256:426c1c1ea2a5f63e5a36f2f578b66f89846419a7333afb6a2c899eac2b39e464
+size 370

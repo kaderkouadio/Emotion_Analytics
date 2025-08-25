@@ -1,1 +1,3 @@
-The basic idea behind "Dungeon of Harrow" isn't all bad. The acting, however, is bad. The lighting is bad. The music is bad. The scenes of torture are without emotion. There really isn't much there to recommend this film. You know what kind of a movie you're in for when the credits say "Special Guest Star" and list someone you've never heard of. Might as well say "Rex Hamilton as Abraham Lincoln." because there's really no one in this movie you can identify. There are one or two decent moments, mostly toward the end and I think the basic plot outline may have contained an original idea, but that alone is not enough to keep you awake through this otherwise inept yawner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd3bb58525a0265023b76ddaf88c3fc99ebc646f369ba99b35bbd21478bf16ca
+size 677

@@ -1,1 +1,3 @@
-Steve Martin looks like he's had a face lift. Something very strange about his face. I usually like anything Steve does, but this movie comes off as trashy not funny. Didn't think Charlene encouraging him to be rough with his wife was a good message to be sending out to teens watching this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7169c1368429d98b10c74106749730062612f935b8088f18f6c30adb9fd1633c
+size 296

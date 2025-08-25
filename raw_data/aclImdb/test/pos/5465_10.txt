@@ -1,1 +1,3 @@
-I have just returned from Santa Fe. NM. I visited Loretto Chapel. As I looked around this building, which has been acquired by a private owner, I relived the movie version of the staircase. It is an overwhelming mystique that occupies this building. It is about what can happen if you really have faith. The bookstore there has a narrative on the subject, which is the story of the staircase. I read the narrative in its entirety. I was absorbed by the ambiance surrounding the people therein. It was like we were totally enclosed in a time warp, all with the same thoughts and awe. When we departed, the hush was overwhelming. Everyone should visit Loretto Chapel in Santa Fe. NM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d25e31aed85293339c956437721cc58d28bcd36675138d59e03fb36d94041ce4
+size 681

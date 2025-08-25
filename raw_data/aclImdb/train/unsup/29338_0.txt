@@ -1,1 +1,3 @@
-An American director combined with VM humor: that should be the key to success.<br /><br />Well, not a single chance. The plot is stupid, the scenario and the lines are equally annoying. One or two jokes are not enough for 1h30. Maybe I'm not the best jury for this movie (I'm bored to death by "Leana si Costel" series and I hope it will last less than "Santa Barbara" ;-).<br /><br />However, simply because it's below the expectations is not a ground to consider it automatically the worst. I saw American movies supposed to be good because of directors, scenarists, actors and/or main characters and they were worse than this Garcea. We can afford it too.<br /><br />That's mark 2!
+version https://git-lfs.github.com/spec/v1
+oid sha256:406239519a837638c28dbb9728400256abfea9f132c8a1666ffe21ee3e4241fe
+size 685

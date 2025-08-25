@@ -1,1 +1,3 @@
-Paul Newman as a P.I. in Southern California, searching for truth among the wealthy -- shades of Harper and the Drowning Pool! Throw in Gene Hackman, Liev Schriber, James Garner, and John Spencer and how can a girl possibly go wrong watching Twilight? <br /><br />It starts quite well. Newman, giving the film noir detective's narration in perfect form, sets the stage well and gets us quite interested in his life and perspective. Hackman, Sarandon, Reese Witherspoon, and Schriver chime in with very interesting characters. We appear to be in for a treat.<br /><br />But, then it goes nowhere, except cliche-land. The result is dreary and listless as unmotivated characters go through the motion. The ending turns the interest level back up somewhat, but not enough to salvage the overall experience. Rent Harper instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a86233b0690c3f91893bbc7f81eb1a3676432345c7fe8bf698b91edaff1ec585
+size 823

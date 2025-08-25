@@ -1,1 +1,3 @@
-When it first came out in '88, I read in the newspaper that it was not well received.<br /><br />Years later I watched it again and I now thing it's one of the best comedies out.<br /><br />Randy Quaid and Richard Prior made pure humour.<br /><br />It would have been great to see them both in something much more intense.<br /><br />Each great in their own way, as a team they would be double the trouble and 5 times the fun.<br /><br />Far better than any Adam Sandler or Seth Rogan movie made and better than the Sandler/Rogan actors themselves.<br /><br />Nothing enormously award winning, but a pleasurable waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:828a83180ec45de25e2ebe1350ac7c6b451a217b4935e05aaa12f2d11d2b79cb
+size 626

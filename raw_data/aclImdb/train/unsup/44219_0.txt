@@ -1,1 +1,3 @@
-Words can't describe just how bad this movie is. I don't care that they probably spent about a buck fifty (that isn't in thousands by the way) on actually making this movie. This movie is just bad bad bad bad. I'm not sure you could find a more tragic waste of your time than watching this movie. Well, except for maybe if you watched Lust for Frankenstein. Watching both movies as a double-header might actually incite you to serious thoughts of suicide.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f09929312238efce3cf9bfc331db9fc88bfae5a80e8dfa3c8add1dfe4bf35f
+size 455

@@ -1,1 +1,3 @@
-H.G. Lewis tried to top "Blood Feast" with this somewhat creative clunker about a magician who saws people in half-- literally. The goopy blood flows freely helping cover the dreadful performances and Lewis's usual incompetent direction. Only interesting as a curio from the era before "Friday the 13th."
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbb2558475154994008d6ced9cebd74f40f159138b3dcc90638fc25366c3f5a8
+size 304

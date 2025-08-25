@@ -1,1 +1,3 @@
-(Spoiler alert!)<br /><br />I was not excited when I learned of the show coming to television, but after they closed off the initial story arc and continued with new material, it took off and had the potential to be a great series. Separating The Crow as an alternate entity was brilliant and having Shelly remaining on the bridge to the afterworld held the original premise of the show.<br /><br />Also, Demascos was terrific as Eric. He maintained the look Branden Lee originated, and also made the martial arts natural and well-integrated into the action sequences.<br /><br />I only wish the series would get released in DVD so I could see the episodes again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a28cf28af3406a8600c79a06676606c12d5b7bb1fd6c502bf7f8133441184c6
+size 663

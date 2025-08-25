@@ -1,1 +1,3 @@
-This is an outstanding movie and should be required viewing for every woman in this country, together with any and all of her daughters. I had no idea that women suffered so much in their fight to obtain the right to vote. We take this right for granted today, without realizing the sacrifices that were made to give us this right. Hilary Swank gives an outstanding performance, with a superb supporting cast.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b18e49d6bf464369313c6a1e5ffcf1fc0443568da1a5f6516cd2c928c3cd331
+size 409

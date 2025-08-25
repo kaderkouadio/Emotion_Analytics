@@ -1,1 +1,3 @@
-I have never watched a movie in so little time. The only salvation was the fast forward function on the DVD unit. It was like watching a poorly produced CBC film. There was obviously no money for lighting, filming, sets, location, scriptwriters, editors, actors... Oh, there was absolutely no story either! I need to write ten lines of comment... Bad, awful, horrible, wretched, anguishing, tortuous, bilious, nauseous, sickening, fromage, disgusting, flimsy, icky, yucky, pukey, stinky, smelly, vile, putrid, all-thumbs-down, and I don't know if I can keep on going to complete all ten lines of just how bad this piece of crap-o-matic production was!
+version https://git-lfs.github.com/spec/v1
+oid sha256:dade938ebc5094a1304d3e103e49bfdbbef422abacda0b98f99ab5e9ac6c2eb9
+size 651

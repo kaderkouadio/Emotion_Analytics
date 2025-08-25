@@ -1,1 +1,3 @@
-This movie is rather unknown (only 85 vote on IMDb at the moment) and it should stay unknown.<br /><br />The movie is very simple. It's very predictable and for a comedy it has very few laughs. Also the style itself is simple and about as average as it can be. The story is not really good and doesn't always flow or makes sense and is filled with some rather big plot-holes.<br /><br />Jeff Goldblum on the other hand is good and comically talented and so is Burt Kwouk's (Cato from the "Pink Panther" series) in his small but fun role. But quite frankly all of it is not good enough to save this movie.<br /><br />It is no disaster but it's not recommendable either.<br /><br />4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf1dec6ce79185ed61fa2b0905a6d9887a2ae65ba0835f294e9ae016ac3d2a8e
+size 684

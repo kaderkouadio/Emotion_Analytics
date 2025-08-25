@@ -1,1 +1,3 @@
-I just saw this movie last night for the first time, and I thought this was a very funny movie. I thought the story line was very good, and Walter Connolly was excellent as the wealthy Grandfather (as always)! I have to admit one thing though. As far as who shined best in this comedy, I thought it was Flynn and De Havilland. I really expected that Rosalind Russell would steal the show. I was truly surprised she didn't. Even Patric Knowles was funnier in my opinion. I would definitely recommend this to anyone who is a fan of Errol Flynn or Olivia De Havilland. If this came out on DVD tomorrow, it would be a part of my collection tomorrow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f99c6c6dceb349a872a8798cf6dfbbc23d14d2b9cb33e638c8864090b2adc906
+size 645

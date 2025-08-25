@@ -1,1 +1,3 @@
-No, seriously. It makes no sense. It's just a bunch of random nothing thrown together in as senseless as way possible. Pick up stock footage, assemble it at random, and release it as a feature film, and you'll have something easily better than this.<br /><br />So bad, it's not even funny. The only thing funny is that I watched it, and you can laugh at that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39333053c63d32ad4e66d525f7ccc876407bbfa3da40b7b0894e03c620a4cc18
+size 359

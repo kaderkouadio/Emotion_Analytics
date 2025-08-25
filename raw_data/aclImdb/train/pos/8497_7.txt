@@ -1,1 +1,3 @@
-This comedy is bound to be good from the get-go. East meets west and east doesn't want to lose...west doesn't know what losing is like. It starts a little slow but it grabs you very soon and it doesn't let go. This is definitely worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3102e27aee46dcac99d52f475372be69e8e4a805b6d24e1920f8dfaa76815994
+size 242

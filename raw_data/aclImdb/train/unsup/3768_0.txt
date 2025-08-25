@@ -1,1 +1,3 @@
-I recently got interested in viewing "classic" films, and according to the reviews I'd read of this movie, it was supposed to be quite an unpredictable thriller that keeps you guessing until the very end. Perhaps I'm a little jaded or something, but I was so disappointed with this film I was sure I'd rented the wrong one. There was no suspense, the ending was predictable, and I was left feeling very let down. So much for a "classic".
+version https://git-lfs.github.com/spec/v1
+oid sha256:9064b750663a4504d96daefaa93fcb9713e9b2772c9781f1fcbe53e29d59988d
+size 437

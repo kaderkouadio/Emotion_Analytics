@@ -1,1 +1,3 @@
-So Close is nothing like Charlie's Angels. Three beautiful women in the lead, two of them contract killers and one police. There is some drama-plot involved but that doesn't hold too well. Sometimes there are a few silly minor things but all in all the movie was very entertaining. Fight choreography was at least very interesting and quite original.<br /><br />Rating: 7/10<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9e0a3f5779df3c36073097afe5945f03377a8df731b4f840186a60b25f97b69
+size 386

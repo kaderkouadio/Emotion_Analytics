@@ -1,1 +1,3 @@
-Obviously influenced by the success of Pal's "Destination Moon" and Lippert's "Rocketship X-M" this one just doesn't make the cut. Limited special effects, a thin story line result in a production that even the half-decent cast can't save. Just no believability here. No one seems surprised to encounter Martians, much like earthlings, etc. etc. Pass on it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5fc7aa70c199ad0e8743e7090df01a6a7c2826543478b093ee62e2baa6fde4
+size 357

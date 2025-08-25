@@ -1,1 +1,3 @@
-I believe that for pure enjoyment,and a little nostalgia,this was Denis Potter's best work and, for me, had more depth than "Pennies From Heaven". The individual story lines in "Lipstick" in their basic form were entirely believable and the acting by the whole cast excellent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d3b2daef9440e521b93b6b48a6f1cc5154de39de94c482b1ebedae6f51b0366
+size 276

@@ -1,1 +1,3 @@
-Despite all of the negative reviews I've read, (and there are plenty!) I actually liked this movie. The writing is quite good and even though there requires a certain suspension of disbelief in the plot, the characters remain true to form. Lange and Paltrow I consider to be two of the best actresses around today and they truly carried the film. The film builds a psychodramatic suspense in the characters of Lange and Paltrow that transcends the shortcomings of the plot details.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56fe5556b34cfc224e716bd41a53f54aaf9dfe4c6c414d5038f774d117fb890
+size 481

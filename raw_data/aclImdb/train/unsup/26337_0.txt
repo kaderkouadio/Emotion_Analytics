@@ -1,1 +1,3 @@
-The Dream Catcher is a refreshing film with an engaging story.<br /><br />A movie about two run-away teenagers traveling across the country to catch their dream and the interesting people they meet along the way, "The Dream Catcher" also takes the viewers on this engrossing journey.<br /><br />The dialog and acting make you care about the runaways. Their characters are believable and their stories are compelling. I couldn't help but pay careful attention to everything that went on in the movie and hope that all would go well for the teenagers.<br /><br />I particularly liked the fact that the film is not sleazy, gory and violent or any other factors one usually sees in today's films.<br /><br />Are the teenagers able to catch their dreams? Well, it's worth watching the movie to find out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:592a57006bfd5243d7334288972e14dd4909dc4d06b7ee9000ec8bb9eddbb9c3
+size 798

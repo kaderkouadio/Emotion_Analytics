@@ -1,1 +1,3 @@
-Along with Airplane!, The In-Laws, The Producers, and Duck Soup, this is one of the funniest movies ever made. The idea of changing the gender of one of the reporters in The Front Page works beautifully, and Cary Grant and Rosalind Russell are perfect as the feuding would-be couple. Hawks keeps the pace frantic. If you're watching this on video, you'll probably have to rewind several times to catch the jokes you missed while you were laughing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e6d89bc459eede93373b1996c4562ab11f1dc40e3796f6264dab662391194f4
+size 447

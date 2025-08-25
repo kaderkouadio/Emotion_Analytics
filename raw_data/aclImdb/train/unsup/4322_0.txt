@@ -1,1 +1,3 @@
-This is really a masterpiece of American children's cinema. It manages to be obnoxiously preachy and sticky sweet one moment, and then violent, offensive and stupid the next. If your kid has a really sick sense of humor, this is the perfect movie. However, if you don't think they'll enjoy seeing a guy get hit on the head repeatedly with a brick and have 1000 volts pumped into him while using the sink (that is just SO funny) then you might want to look into something else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a35c9227c4b6296785ee2af75d49ce145fcd25d8f9b194bc068d5c0176da4b4
+size 476

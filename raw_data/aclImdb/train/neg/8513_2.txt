@@ -1,1 +1,3 @@
-Awful! Absolutely awful! No plot, no point, no end. It looks like the director turned the camera on and then the whole crew went to lunch. Every day. I'm trying to GIVE this video away but no one will take it. I'm giving it a 2 instead of a 1 because I like Benigni. Roger, I'm going to have to say thumbs down on this one.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0949eeaf8b1473fd4d3f1d1e191edc4b36370ee2f3eddc491ec559e46ad6d72
+size 335

@@ -1,1 +1,3 @@
-This really is a great movie. I don't think it has ever gotten the recognition that it deserves. I have bought this movie on VHS and DVD. The special effects were ahead of its time. The story was WAY cool. The pace was very steady. If you haven't seen it, you definitely need to check it out on DVD if possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6374a1775650b8ded2362418069b50926dd4cad348cbb5d13a3776b6d2895353
+size 311

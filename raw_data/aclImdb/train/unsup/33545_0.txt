@@ -1,1 +1,3 @@
-I enjoyed Disney's Christmas release last year so I thought that I'd pick up this movie as well. I regret it! It's a complete waste of whatever you spend on it. The movie is a poor compilation of only a handful of Disney Christmas shorts. The best part of it is the obviously edited version of Disney's Christmas Carol and even at that it's not worth it. This movie is a disgrace, don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:046711c74d26dde67c366a55692ce8d9f76cb6e0df189e2720228d318e24c910
+size 403

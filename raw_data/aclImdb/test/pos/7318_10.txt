@@ -1,1 +1,3 @@
-This is one of the Stooges best shorts. It was the only one of their shorts to be nominated for an oscar. In this short the Stooges play doctors, who cause some trouble as usual. This short has non-stop sight-gags, puns, and jokes. The part at the end, where the Stooges are breaking apart the machine. This is definitely a classic. I would highly recommend this Three Stooges short.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51859710dc5599f84e9b46ec1a310e9084c7a036d1bbb1f84f241a77b80d9f92
+size 383

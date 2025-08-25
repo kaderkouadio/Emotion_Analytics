@@ -1,1 +1,3 @@
-Lackawanna Blues is a moving story about a boy who is raised in a house by some pretty unusual people. <br /><br />It's editing and soundtrack really pulls you in to the story and lets you experience the film the way the writer really meant for it to be seen.<br /><br />The music really tied into the story, which made the characters come to life. The editing made the story more progressive and captivating. <br /><br />I was also surprised by some of the performances of the cast, most notably S. Epatha Merkerson's.<br /><br />I can't wait to see the one man show featuring this films writer, Ruben Santiago-Hudson.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b169d9e51f9de9d4e65e4b30ea7042d859d2378976e67e5d7c8f3a5b21fb7ef
+size 619

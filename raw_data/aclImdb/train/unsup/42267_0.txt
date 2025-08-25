@@ -1,1 +1,3 @@
-Alan Turing is the man who broke the enigma code & in the words of Hunter S Thompson saved all of us from spending our Saturday nights @ Circus-Circus. Alan Turing was a "fag". He was so poorly treated by the English establishment that he killed himself. That would have been a very interesting story. The story that actually made it to the screen was useless. Oh, Alan Turing is also considered the founder of computer science -- but f*** that let's just make a piece of mindless spooge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45366fb7fe284e9408eac78cb99c4e0d7d0208a29e4bed6b15833b5ba7c9c2f4
+size 488

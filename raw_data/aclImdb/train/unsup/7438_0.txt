@@ -1,1 +1,3 @@
-The teaser of this episode was awesome.But what followed was even better. Mulder and Scully get deeper than ever into the conspiracy surrounding them. We get to see some tests involving alien DNA on human subjects and an alien baby frozen on liquid nitrogen. The episode was really good and one of my personal favorites from season one. I love the final scene, its mystical...pure X-Files. We see Deep Throat get killed, shame, he was such a good character. For the first time we hear " Trust no one" which became a catchphrase later on.<br /><br />Overall a great final, The second season opener "Little Green Men" was just as good
+version https://git-lfs.github.com/spec/v1
+oid sha256:cab394c2521623aef44e0b78920823f777cee92ced627d8727d51058938ce5b1
+size 632

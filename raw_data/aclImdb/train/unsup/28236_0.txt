@@ -1,1 +1,3 @@
-A movie all the kids can see while the parents won't be bored. Values like responsibility, friendship, and honor are the main themes here. Bonus is action, humor, and excellent animation style. Set in the future a bright young boy (Toby) dies in an accident and his grieving father (Dr. Tenma) replaces him with the most modern robot (Astro) there is, complete with the memories and feelings of Toby. Tenma then rejects Astro and Astro is attacked by the military. He escapes, meets friends, learns what it's like to "fit in" and when the time comes he must make the "ultimate sacrifice" in order to save the people whom he loves. I enjoyed the plot and the characters were not just stereotypical personalities but real enough to draw you into the story. I brought my daughter and one of her friends. They also liked it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ee3feb23fcfd8fdf66a016eaaf5822bc927ceddcdb8e9d2f79518ed5ab8dd55
+size 820

@@ -1,1 +1,3 @@
-This movie has basically nothing to recommend it.<br /><br />The writers bear the heaviest burden for this dog. I'm generally a fan of Tim Curry, Darryl Hannah, and both the Movie and TV(original) "Addams Family "shows. This movie was an embarrassment to anything related to the "Addams Family"<br /><br />Tim Curry appears to have been pressed into a bad Raul Julia impersonation, rather than allowed to find his own style, Darryl Hannah and and the rest just don't seem to have been given anything to work with.<br /><br />And neither have you, the viewer. This movie reeks, but if you're reading this, you've probably already found that out to your sorrow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b173ef1ae0139e3ccc27750fc1b8c20850c6e50588230a6ae67ba36a4b79257
+size 659

@@ -1,1 +1,3 @@
-Absolutely hilarious. John Waters' tribute to the people he loves most (Baltimoreans) is a twisted little ditty with plenty to look at and laugh at. It's like being turned loose in a museum of kitsch! I haven't laughed so much in a theater since Serial Mom. I loved seeing old friends from the Dreamland days, Sharon Nisep and Susan Lowe, back in front of Waters' camera. The cast is simply wonderful (especially Edward Furlong and Martha Plimpton). Uses the best elements of past Waters atrocities (especially the underrated Polyester) and plenty of new surprises. Made me sick, in a wonderful way. Thanks, John!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b6ef649a0898a536262de6aa760fb2218bef993594335e3588000ba116a93e0
+size 613

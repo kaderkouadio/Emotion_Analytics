@@ -1,1 +1,3 @@
-I have read a couple of reviews of this film, which has recently been released on DVD by Eclectic. Apparently, the opening titles are letterboxed, but the remainder (most) is full-screen. The first release, in 1982 by Planet Video, is completely letterboxed. Though it was a primitive release, it did get the compositions right. Later releases had sharper and better picture quality, but they were fullscreen as the DVD is. Any release of this film should be letterboxed, as it adds significantly to the visual experience of the old Planet tape.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3769b3978d9e2d30900e94054e97a97a8d3d4f2fb5bcca5bf3687e36e9b0d6b6
+size 545

@@ -1,1 +1,3 @@
-Comparable to Fight Club, The Matrix, A.I., Sixth Sense, among others. This film approaches the psyche in a way never done before. The first 30 minutes builds a interesting love story between Diaz-Cruise-Cruz. The rest of the movie is, well, confusing, you'll pick more every time you watch it (i've gone to the movies to see it 3 times now)
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f891b839d7bab0ebcacd0a5ef0508f193bc9c113d39db2c83491c74c0eab5fe
+size 341

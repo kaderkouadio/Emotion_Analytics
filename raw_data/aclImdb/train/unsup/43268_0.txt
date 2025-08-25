@@ -1,1 +1,3 @@
-The remains of a giant worm are uncovered at a Scottish village, and horror and hilarity ensues, or so hoped the filmmakers of this camp based on a Bram Stoker novel. Donohue is quite alluring as a mysterious woman obsessed with snakes. Davis and Oxenberg play damsels in distress, but Russell doesn't really take advantage of the possibilities presented by this trio of babes. Grant, in an early role, had not yet gotten down his quirky mannerisms, but shows an affinity for light comedy. While there is some witty dialog, there is too much nonsensical talk. The film has all the elements in place for campy fun, but becomes a bore instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f50b0cf387ca825cb590e2b73b8d2682c1e44e9c6b297f9e7abee852207e4f7c
+size 641

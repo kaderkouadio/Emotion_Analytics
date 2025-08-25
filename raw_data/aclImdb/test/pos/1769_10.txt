@@ -1,1 +1,3 @@
-Pavarotti and the entire cast are superb in this beautifully filmed opera by Giuseppe Verdi, the world's finest composer of operas. The coloratura soprano is particularly spectacular with her perfect pitch. The title role is well-enacted and well-sung. The entire production is as perfect as one could expect.<br /><br />A masterpiece of cinematography!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0adde191eaf3099fa1c93ab43081983fe587b858bcb10dc2f7abd927796919
+size 365

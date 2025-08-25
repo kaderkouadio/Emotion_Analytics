@@ -1,1 +1,3 @@
-Yes, this is one of the greats of the black action genre. Confusing mixture of racist comedy and racist violence (at times reaching a disturbing pitch, even for a fan of the genre) this movie isn't your Shaft in the park. Wonderful bits of Rudy Ray Moore comedy stand up that don't seem funny, at least not to a white boy like me, but great in context. Much better than its dissimilar sequel, "The Human Tornado"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9becb15560948c3599b3b1fe8bd222cad3f37ea1bdf0f26b7b5f7b405cdc5a3
+size 412

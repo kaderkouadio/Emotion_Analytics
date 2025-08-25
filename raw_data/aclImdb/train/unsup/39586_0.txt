@@ -1,1 +1,3 @@
-"Diplomatic Siege" tells of those involved in the siege of the American embassy in Bucharest for the purpose of compelling the UN to release a Serbian officer being held for war crimes. The film is an ambitious project which self-destructs in the process of trying to do too much. An utter failure not recommended for anyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08f9ecb86d94ad8b7de75d437da9a0778757abade5cb3cd5b059a96457d73639
+size 325

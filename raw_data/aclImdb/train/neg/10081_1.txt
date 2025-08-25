@@ -1,1 +1,3 @@
-I've read some of the comments about this film and can only surmise that some people are easily entertained. This movie is nothing. It's so badly written, directed and acted that it barely makes an impression. The characters speak in cliche-ridden dialogue and the situations are completely implausible. While that might make this campy and fun, it doesn't because everything is so lifeless the film becomes dull. It's as if Lee Rose decided to write a drama about a woman struggling with her sexuality but then she either wasn't allowed by studio execs to give the story some true-to-life gusto or didn't have the cojones. This movie could go in the enyclopedia as the standard-issue bad Lifetime TV movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba62d3729c5685c5836d20c293e99b307f50110afc0af5980c7e433eb463fcd7
+size 707

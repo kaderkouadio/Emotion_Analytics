@@ -1,1 +1,3 @@
-It takes talent to create a movie as bad as this: There are good actors, a somewhat original idea for a movie and good special effects - one would expect something good out of this. Yet here comes "Virus" to prove us wrong. How did Gale-Anne Hurd produce this? Why was it ever made in the first place? Now let's pray that they don't make a sequel... Rating: 1 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c680e087a1806bfeb78fc46251e383d400a87724d67bad8935b8e5da45a9b43
+size 369

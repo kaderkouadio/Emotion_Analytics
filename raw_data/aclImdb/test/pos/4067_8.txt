@@ -1,1 +1,3 @@
-Contains Spoiler The movie is a good action/comedy but i don't know if the director cut too many parts but it seems that the bad guy die too fast. The end of the movie come, the bad guy dies and that's it.<br /><br />The special effects are good and i don't regret paying to see it at the theatre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b46291bc104e6336376025486892d322a306c5a5753d00a37d7652590c40fa5a
+size 297

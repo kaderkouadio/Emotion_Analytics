@@ -1,1 +1,3 @@
-Well I guess it supposedly not a classic because there are only a few easily recognizable faces, but I personally think it is... It's a very beautiful sweet movie, Henry Winkler did a GREAT job with his character and it really impressed me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dec200044e20794f42cc48c4f3febb63f1f1a6d065d37bff561851cd3cf64b58
+size 240

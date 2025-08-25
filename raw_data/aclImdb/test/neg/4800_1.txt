@@ -1,1 +1,3 @@
-If you are 10 years old and never seen a movie before, maybe this film may be entertainment for you, but if you've seen several movies, this one will be a silly fully-cliched cheap and predictable for you. Don't waste your time with this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfd46c1d15d334c8104d53f2edd8142f05498ac0a9350513eae655cbd291d6c4
+size 238

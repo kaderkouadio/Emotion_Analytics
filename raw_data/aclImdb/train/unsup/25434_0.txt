@@ -1,1 +1,3 @@
-I am surprised to see so many highly negative reviews of this movie. I thought Whiteboys was one of the funniest movies I've seen in months. In addition, it took some creative finesse and a heap of guts to even attempt to extract humor from such a racially charged subject. Sure, this is not an outstanding film that would win any of the overrated awards of the day, but it does deserve credit as a simple but entertaining movie.<br /><br />Geez people it's just a movie. It didn't claim to be a documentary on life in Iowa nor a siren call for world peace. Basically, if you didn't find this movie to be mostly funny you are taking life WAAAYY too seriously! Lighten up - you'll live longer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ef169884ff860d52d0ce5b30c4afc7f8164f91cc830340228f457294e792f5c
+size 692

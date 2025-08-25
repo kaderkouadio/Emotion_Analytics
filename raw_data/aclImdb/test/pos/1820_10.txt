@@ -1,1 +1,3 @@
-This is the essence of the early eighties! The malls, the credit card machines, the food, the punk hair color, the soundtrack... I am in love with this movie. This sweet, intelligent Romeo & Juliet teen flick is instantly addictive.<br /><br />Martha Coolidge is one of my favorite directors. She really employs her actors, like John Hughes and Steven Soderberg, so check out -Joy of Sex- and -Real Genius-. The soundtracks for -Valley Girl- are great. If you can find a copy of the film, buy it! It's out of print and very hard to come by.
+version https://git-lfs.github.com/spec/v1
+oid sha256:506c52ac4b3d530bd85de611d1e229e776e4ea907d02bf6f81a84c608e44e95e
+size 540

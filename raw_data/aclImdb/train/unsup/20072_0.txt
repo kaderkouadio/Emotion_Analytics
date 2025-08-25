@@ -1,1 +1,3 @@
-It was originally called "Map of the Universe". <br /><br />The book came out in 1994. <br /><br />Then there was the TV show: 'Est' and parts of it are in the film.<br /><br />"EST" is just a series of people living in the dark for a period of one month. <br /><br />Like in the film they are all filmed with infra red cameras. <br /><br />They sleep, eat, shower, go to the bathroom all in the dark. <br /><br />The winner is the one who won't crack up and remains in the house for one month. <br /><br />All the contestants live in separate rooms. <br /><br />They can't see. They like 'blind'. It's crazy. <br /><br />The music is frightening.<br /><br />Was "Est" a medical treatment from the sixties?<br /><br />I first heard of the word "Est" in a David Bowie song about his brother, "All the Mad men" from "The Man who sold the World" album.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc79000bb6b7c8709f693d11b1ce7506174c94e1bd6bbfca991fffe14ef380a
+size 849

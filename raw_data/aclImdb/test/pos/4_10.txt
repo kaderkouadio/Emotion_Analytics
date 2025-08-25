@@ -1,1 +1,3 @@
-This movie was sadly under-promoted but proved to be truly exceptional. Entering the theatre I knew nothing about the film except that a friend wanted to see it.<br /><br />I was caught off guard with the high quality of the film. I couldn't image Ashton Kutcher in a serious role, but his performance truly exemplified his character. This movie is exceptional and deserves our monetary support, unlike so many other movies. It does not come lightly for me to recommend any movie, but in this case I highly recommend that everyone see it.<br /><br />This films is Truly Exceptional!
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6715caa011e768428e0d7522835b79e66543471f0505c5884a53621f456a70
+size 582

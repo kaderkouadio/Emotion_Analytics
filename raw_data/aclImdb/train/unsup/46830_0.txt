@@ -1,1 +1,3 @@
-As a future librarian, I have to say the title is the wrong choice. Sure, he read a lot of books and could set up the RSS feed, but the true question is, "Did he have the MLIS degree?" Librarians don't play around with artifacts. They have books to catalog, websites to update, research to perform, and papers to publish. Archeologists study ancient things and classify them. They take an item, clean it up, and put it in a museum for people to study and learn from. Archeologists would not want to be called librarians. <br /><br />For an Indian Jones rip-off, it's not too bad, but not really worth the 2 hours either.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b5367b8f7acd9a1c8a91b32de3e4b79013cff45fdb69b892bd8f275ba2d9a1c
+size 620

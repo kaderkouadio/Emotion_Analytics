@@ -1,1 +1,3 @@
-At least it's not full of sensless violence or fluff. It's also not very full of thought or a smooth storyline. This story had some potential but the director appears to have lost site of the green. The story is disjointed and goes off in strange<br /><br />directions, to no conclusion. I also don't believe the director spent much time around a golf country club, either. Some of the depictions are absurd. Not very engaging.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34db1b50c9497cb6a75e244e120e2ee285dad89b08c1b2efeddf16021fa95c3c
+size 427

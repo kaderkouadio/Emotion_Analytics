@@ -1,1 +1,3 @@
-This is Peter Weir's first feature film and a fantastic comment on small town culture in Australia. Like almost all of Peter Weir's films this is compulsory viewing for anyone interested in Australian film. The story goes: In the fictional township of Paris (Australia not France) live a group of ragtag characters that set up traps for drivers nearby. They then salvage the car and possessions of the killed drivers. One day a man named Arthur gets injured by a trap. But he is the only outsider to survive in the town. What will they do with him? The movie is great and well shot with a funny and tense script. Very unique and like a lot of Peter Weir's films, deal with technology and itsbattle with mankind.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6db17f75adffa234fdf0cc57e3506ace6bbab86f94c160e5c13245f92794c3a6
+size 711

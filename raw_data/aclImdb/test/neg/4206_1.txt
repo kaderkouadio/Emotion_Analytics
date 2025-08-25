@@ -1,1 +1,3 @@
-Ok with this film there are a number of ingredients at work:<br /><br />First put in loads of hillbilly truckers--good ole boys who have secret desire to take law into own hands. Second put in evil hillbilly cops controlled by a Texas bred outlaw. Third put in karate fighting trucker played by Chuck Norris. Fourth put in a chump teenager as Norris's nephew captured by evil hillbilly cops. Fifth show Chuck Norris fighting in slow motion.<br /><br />Now mix all together and what have you got?<br /><br />You guessed it...one very mediocre movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a8c55779fc3908602c78f901b56ad5faa7385e7d1c64f8dfe34be2ef0686a68
+size 548

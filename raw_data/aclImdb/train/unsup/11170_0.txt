@@ -1,1 +1,3 @@
-A universal story based on so many peoples lives, their first love, life experiences, growing up and most importantly discovering who loves them the most. It's about being young and feeling all those wonderful undiscovered feeling that we all humans feel for the first time. It's joyous to watch and reminisent about your own life as well as experiencing those moments one more time. After all we only live once.
+version https://git-lfs.github.com/spec/v1
+oid sha256:081629dbba3fe1a46ce31ff47af2ab1258f01fc0b1ebb5791efae0ebef0c2512
+size 412

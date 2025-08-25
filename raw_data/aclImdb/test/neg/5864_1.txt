@@ -1,1 +1,3 @@
-To begin with its a rip off of the Japanese film Battle Royal except it's missing the one thing that made BR unique, balls. It's a weak satire at best and as far as the real TV phenomena it attempts to comment on well everyone knows how warped and stupid that genre can be so why was this film made?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3e78b309b8d1e132c41b026f17bceb6df947854f88ac4adf28dc98c5e8e82ec
+size 299

@@ -1,1 +1,3 @@
-Colorful western.<br /><br />Wyoming cowboy James Stewart moseys on up to the Yukon Territory to dig for gold, sell his steers, and try to get a date with pretty saloon-owner Ruth Roman if he can shake the tail of crooked sheriff John McIntire who wants Stewart's cattle. Beautiful cinematography in a collaborative effort by William Fritzsche and Bill Daniels. Good Technicolor adventure from Universal-International, directed by Anthony Mann.<br /><br />Also starring Corinne Calvet, Connie Gilchrist, and Walter Brennan as Stewart's sidekick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e39893983f1048fce9af2ca28cd4bd55558a4e4214e367fac9bd292afb4b7a9
+size 545

@@ -1,1 +1,3 @@
-Just to make it clear: yes, I think that this film tells an important story but am I the only one who had the feeling that this film is mostly about it's director? There are so many scenes where we just see him sitting, standing or filming somewhere and ... well, he also likes to be filmed without a T-Shirt. Specially the whole sequence about him in hospital and that he might loose his leg. It pretty much seems like a chance to expand the whole film to feature film lenght and be seen even more on screen (without a T-Shirt). Much seemed to be staged or shot separately and then cut together. My opinion: important content but way too much Rob Stewart in it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5d0aa518b744139875f4572f9a56312ff1049186b8b8be544c13a4fef8c6f57
+size 662

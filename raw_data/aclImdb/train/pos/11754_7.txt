@@ -1,1 +1,3 @@
-Robin Williams does his best to combine comedy and pathos, but comes off a bit shrill. Donald Moffat is too one-note as his father-in-law. Jeff Bridges is excellent though as the quarterback, and Holly Palance and Pamela Reed are marvelous, carrying the film through most of its rough spots. It fills time nicely, but is little more than that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7400fc651b9f0a408129ff861168749a0ff7db6c0802e3dd91595429446432bb
+size 343

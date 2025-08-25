@@ -1,1 +1,3 @@
-Based on one of the books by Gabriel Marquez and it might be brilliant literature, this cinema-adaption really sucks as it's more like fighting against sleep rather than enjoying some cinematographic delices. The story is about an old couple whose son died and living a life that is heavily dominated by poverty, and wherein the main character is a cock that hopefully one day brings some money for a forthcoming cockfight. I am in no mood to spill more words on this useless pretentious piece, just perhaps that you can see Salma Hayek in here, but sitting 90 minutes in front of your screen for just that? No gracias.....
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f118b7f6acd83dd57e39d11dd2badc51705b3c877c9a283e51022c65c784221
+size 623

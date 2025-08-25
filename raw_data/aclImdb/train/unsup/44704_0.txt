@@ -1,1 +1,3 @@
-This movie was probably the worst skinhead movie that I have ever seen. The plot was really bad and the acting was even worse. If you want to watch a good movie in this genre, watch Romper Stomper. Don't waste your time watching this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f5d412459b95689a8610ead37f845cbb14ba8a4fe04784891eb8c974ce91188
+size 234

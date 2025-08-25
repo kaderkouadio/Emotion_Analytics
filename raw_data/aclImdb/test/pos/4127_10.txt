@@ -1,1 +1,3 @@
-This is one of those movies where I just want to move my feet and dance around the house. It's a very positive and happy type of music. The movie has some sad parts but mostly the music is what makes me happy. Gary Busey did a great job as Buddy Holly. Buddy Holly kept on going even tho his pastor, his parents and the Nashville record producer told him no. Buddy Holly didn't give up on what he liked. I didn't know much about Buddy Holly until I watched this movie. I've been to the Surf Ballroom where he last played but didn't give much attention to it until I watched this movie. It's an incredible movie with lots of fun so get on your feet and see this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3783b346abf0fec1b414d7ff91271b7c41cc4d8966f4aa53f167ab1728e57afa
+size 667

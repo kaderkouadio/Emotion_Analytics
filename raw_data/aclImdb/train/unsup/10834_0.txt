@@ -1,1 +1,3 @@
-Damn, this was outstanding. Excellent. Clu Galager kicks ace for a while much like in Return of the Living Dead, and I think he is wearing the same jacket. It gets brutal but call it a Deliverance knock off if you want, but it was awesome! **** out of *****
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7e77fea2a9ceafe45feaa583102f34de8700e6a83fac17e253a5d0ad95b7ec7
+size 257

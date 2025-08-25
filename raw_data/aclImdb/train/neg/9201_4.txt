@@ -1,1 +1,3 @@
-This is the movie that epitomizes the D&D fear of the 80s (and even today). The fear being that people who play D&D (or any other role-playing game for that matter) will be "sucked in" and lose their ability to distinguish reality from fantasy (and go on killing sprees, child sacrifices, suicide, etc). Great movie for anyone who likes to blame the problems of society on inanimate objects, but anyone who has played a role-playing game, a video game, or even acted in a play will see this as an insult to their intelligence. It is to D&D what Wargames was to computers. Plus as a movie, it just kinda sucks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a5dc133f2c79ad7ceb330daf8c9d3ca946aac8a683f180593474bf474323e3
+size 609

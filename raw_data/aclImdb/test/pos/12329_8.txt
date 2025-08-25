@@ -1,1 +1,3 @@
-I have great memories of this movie...<br /><br />I was only 12 when it was released and it scared the bejesus out of me. I really miss my bejesus...<br /><br />Zombies, graveyards, mausoleums, how can you go wrong? It's like Phantasm's retarded cousin.<br /><br />This movie was released 1 year before the PG-13 rating was instituted.<br /><br />I submit that One Dark Night is the GORIEST PG movie (not scariest, mind you) that has ever been released.<br /><br />Can anyone come up with a gorier pick?<br /><br />(FYI: I don't consider Poltergeist to be gorier...scarier, yes. But not gorier...)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f386363a37f2307a0b39963801fde87b72666ee7b673d172a05b8f3479204768
+size 597

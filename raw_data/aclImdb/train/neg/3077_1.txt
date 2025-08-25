@@ -1,1 +1,3 @@
-Hobgoblins... what a concept. Rick Sloan was a master with this film. He had the brilliance to produce a film with actors that couldn't act. On top of that, he chose to write a script based on some sort of bad acid trip gone serriously wrong. Put it together, you end up with a film that sucks more than a warehouse filled with suction cups and vaccum cleaners. This movie was very painful. The pain it caused is about equal to the pain caused by having your genitals carved out with a spoon, and then having the entire wound covered with salt and Hydrochloric acid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee77f0ef9c6acdec20ac2ee15f9eb81ff27d8f772458217ed09d2e78588a03dd
+size 566

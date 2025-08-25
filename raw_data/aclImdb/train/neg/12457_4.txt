@@ -1,1 +1,3 @@
-It seems that Salvatores couldn't decide what to do with this movie: some of it is a very weak thriller (and I say very, very weak), some of it is an attempt to explore the relationships between the main characters. Both things have been tried in psychological thrillers, but in this case the movie cannot hold things together, due to poor, superficial scripting, bad acting and a too dark, too dull cinematography. I'd say that Salvatores gave his best in other genres and in other settings, where he was free to look at the characters without having to think about the plot. On the whole, a B-movie, hardly worth your money... Vote: 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6e2ef3e0e0eba0f3b90359d6090222fb412f71653062c311956b3893306c81c
+size 639

@@ -1,1 +1,3 @@
-A surprising misfire from the usually reliable Larry Cohen (God Told Me Too, Q, etc.), Full Moon High tries so hard to be funny and fails miserably, even with decent turns by Ed McMahon(!) and Kenneth Mars. Alan Arkin looks embarrassed throughout his performance and son Adam simply looks numb. This makes Teen Wolf look like a comedy classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:720d805abff183616146689d6fa8731aec3eac3fe37f8f048ba8b1008530e58c
+size 343

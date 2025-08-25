@@ -1,1 +1,3 @@
-I saw this movie on TV without much expectations, but it turned out to be worst than I could have imagined. In fact, S.F.W. is possibly the worst movie I've ever seen. Both the plot and the characters are completely cliched to the point where it's almost painful to watch. It seems like this movie was made just for Stephen Dorff to act self-important in and appeal to the not-so-bright kids of the grunge generation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:045af48d1e499d3b6d150390137762a73e954086eb4f6770c6c27afdef6baf3d
+size 417

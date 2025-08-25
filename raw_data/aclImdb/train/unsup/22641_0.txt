@@ -1,1 +1,3 @@
-Girls coming of age in a confusing time where morals and beliefs are lost in the new world kind of film. This is an interesting look at the lives of the three young women trying to figure out their world as they are throw into it without knowing where they belong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eea02aaf332f2b95b4cddae369d97411a4adaa8317054d4f4050d1ff8fb13f78
+size 264

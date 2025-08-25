@@ -1,1 +1,3 @@
-Chuck Norris stars as Col James Braddock a Vietnam vet who goes behind Vietnam to save American P.O.Ws and wipe out his enemies in this strictly routine yet very popular bodycount flick which appeals to die hards of the genre. Not as bad as movies like this get, but not good either, watch Rambo:First Blood Part II instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:828bee148511e6945f43ef35b8a0646e8a6978dd6a71088ba79832979f09089e
+size 324

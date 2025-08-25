@@ -1,1 +1,3 @@
-Quality entertainment all around. The spectacle of Kermit on his bicycle is one thats as memorable as ANY in cinema history. There's just not a bad thing to be said. Tons of muppets, great cameos, slapstick, puns, whatever you want, its here. The lovers, the dreamers, and me INDEED.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a666430c32ba06060f2bc624e3ead07c5bd4ed13b352a0a63c2cc999e4d97e67
+size 283

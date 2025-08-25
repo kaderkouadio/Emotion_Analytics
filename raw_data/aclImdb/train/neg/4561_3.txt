@@ -1,1 +1,3 @@
-The trailers get you to the movie, but the movie just wasn't worth my 8.50.. it has some good effects, but the storyline.. yech, i like tommy lee jones and will smith as actors, they have both done some good films, but i wish they hadn't added this one to their resume's. To be honest, the book is better..
+version https://git-lfs.github.com/spec/v1
+oid sha256:480ff7fb9f3010e0dd534e30b0bf0d12ff0326bf7eb3054f498575144e565a7c
+size 306

@@ -1,1 +1,3 @@
-This german movie is one of this boring serious german movies filmed year after year to burn money which is better used for good movies.<br /><br />To forget this, it begins at the "Loveparade" in Berlin, with very very wild beats and a shaky very very modern camera. A couple had sex somewhere, get lost and the girl - full of drugs - is raped by the man who gets her out of the water of a fountain while she is sleeping. Some weeks later she realizes her pregnancy, came back to berlin and in the chaos of boyfriend, his friend (the raper), a drugdealer and her parents she searches for her way to future. It's a terrible film, in every scene the raper is full with conscious of guilt. The poor guy. No punishment. Only comprehension for his emotions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:283d50dc8e638719bee9092f3e4be945bcd960da21f67511be895a2d933c7d23
+size 753

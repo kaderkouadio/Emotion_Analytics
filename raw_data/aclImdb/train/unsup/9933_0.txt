@@ -1,1 +1,3 @@
-I saw this at NYC Horror Film Festival and was shocked to read that it won for best feature!!! This film was boring and lackluster and by no means was compelling. I do not see why it is labeled as a horror film. Maybe because it is horrific.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9c5a11b60c8c0963589ed7c741db6179d186b11155b39d0dedd70bab27bffd
+size 241

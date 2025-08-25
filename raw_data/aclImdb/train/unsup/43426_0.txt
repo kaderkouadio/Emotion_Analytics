@@ -1,1 +1,3 @@
-Wow- what a waste of $1.99! I like cheese, but this is 'stinky cheese' of the smelliest kind!! Save your leisure time & money & rent a Sybil Danning werewolf movie instead!!! Bad pacing, confusing direction, pedestrian acting, cheap visual effects, hokey creature effects (John Carl Buechler- where were you?) and a performance by Alexander Godunov that doesn't seem connected to the same movie adds up to a mishmash the likes I've not seen since my Community College film class days. In defense of the one actor who was completely believable, the raccoon in the woods witnessing the carnage should probably have gotten an honorary Oscar for his convincing reaction shots. Don't get me wrong- I love low budget monster movies and B grade actors, but this one left me feeling, well, stone cold.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57f56fe500a8c24dbc3e621482e614eda7716090f81f1362e1f19088e228ae9d
+size 793

@@ -1,1 +1,3 @@
-At 58 minutes this garbage was never going to have a chance with me, but I must admit I only rented it for a good laugh. And I got it. Get this, this movie is a sequel to not one but THREE different movies from Full Moon Entertainment(the Puppetmaster series look like the Star Wars Trilogy in comparison). The films are Dollman, Demonic Toys, and Bad Channels. That's not the worst of it, even the killer G.I. Joe isn't the worst thing about this flick(it's the funniest thing, though). This poor excuse for a horror flick actually rips off a movie called Killer Klowns From Outer Space, arguably the worst film since Plan 9 From Outer Space. Then again, the Quick and The Dead was pretty godawful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ebd67f65a390d9525c60bfbed40aa7715cdb6de9474c9d7d1fbffe92176cd6c
+size 699

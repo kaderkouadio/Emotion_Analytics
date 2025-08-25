@@ -1,1 +1,3 @@
-This was a riveting film, one that really drew me in. I'm a big fan of William H. Macy, and he puts in a wonderful performance. His great likeability, coupled with the way his character breaks the fourth wall, really gave me a sense of complicity in his actions. I found myself waiting tensely for the whole house of cards to come collapsing down around him (and by extension myself, as his confidante and silent witness). It took several minutes for me to relax once the film had ended, I was so wrapped up in it. <br /><br />Good performances all around, too, not just with Macy. Arkin was quite good, as was Cromwell (he was surprisingly fierce). In short, I highly recommend this film to any fans of Macy and/or the murder mystery. But you may want to prepare to feel a little guilty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9474f753ca7f0300ce44857beee769a7d11877b4fdaa51d1dc68e2972f5f29a5
+size 788

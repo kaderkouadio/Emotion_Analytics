@@ -1,1 +1,3 @@
-Swedish/British co-production of a young Swedish boxer who is framed and forced into an inside agent mission in the 80's continuing cold war in 'neutral' Sweden. Based on a fairly successful novel by Swedish writer Harry Kullman, cheap production values not used to their advantage plus clumsy, deftless direction, sink this agent thriller, despite some tight scenes... and as a Swede, hearing my compatriot actors spouting really dodgy English accents just doesn't help much...
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4a2c8e49b379999f477aa5103c6aadaec317db443883275dea4278bc26ce4e0
+size 478

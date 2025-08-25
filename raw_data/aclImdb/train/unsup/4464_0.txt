@@ -1,1 +1,3 @@
-We rented this movie for my brother and sister, who are just CRAZY about Thomas. I personally liked it, considering my age (almost 16), and the kids loved it. Mara Wilson's character is wonderful, and so is Michael E. Rodger's character, a carefree guy who just wants to hang out at the beach. I love his accent. He's so adorable!!!! They didn't make a sequel, which is good because the story just sort of wraps up at the end. I do hope they make more movies about Thomas and his friends, since it was a wonderful TV show, and the spin off is great too. For kids, anyway. But teenagers and adults alike will also enjoy this movie. I recommend it for parents with young children, or for teenagers babysitting young kids that want a movie to watch. Go rent or buy it if you can!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dafe0fc9a8b97f23f663f5b1c8435099d93fc8d9f74fbb1f0034328d347a8ba
+size 776

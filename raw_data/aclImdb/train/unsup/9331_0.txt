@@ -1,1 +1,3 @@
-Of course kids will love it; it's Elmo. But this clever and light-hearted retelling of Cinderella is winning enough for parents to enjoy, too. It has great songs and outstanding performances. Oliver Platt steals the show as the bumbling Fairy Godfather. Kathy Najimy, French Stewart, and Keri Russell all hold their own with the furry bunch. A definite winner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33996d6540ee84793a1c91eb2f1ab4d9f3451b652fdd8e32cfef0c64f3743497
+size 360

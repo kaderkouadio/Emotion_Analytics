@@ -1,1 +1,3 @@
-Having read so many devastating reviews and comments on this movie, why even bother watching it. Still there was something about the storyline that drew my attention. And yes, it was entertaining. Not a Hollywood classic but the quality acting of both Jessica Lange and Gwyneth Paltrow made it worth enjoying. A 7/10 for this film.<br /><br />Ernest Hamstra
+version https://git-lfs.github.com/spec/v1
+oid sha256:d662c2a87af49f107b7f45467a2467d3cdcf0c11c87a6a4b6a1b99a5cd11429f
+size 357

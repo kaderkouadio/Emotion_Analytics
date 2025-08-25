@@ -1,1 +1,3 @@
-Oh, what fun there is here! <br /><br />Amy Heckerling has a flair for directing comedy (Fast Times at Ridgemont High, Look Who's Talking) but here it looks like she told the actors to go out and have fun. Micheal Keaton breezes through the role of Johnny, easily his best screen performance. Joe Piscopo is great as the appropriately named Danny Vermin, what a shame directors didn't pick up on this. And I have even mentioned Richard Dimitri playing Moronie and the character's unique vocabulary. I don't think it's an accident that the bulk of the character's name is spelled MORON.<br /><br />Good lines are sprinkled throughout the movie, with Peter Boyle, Griffit Dunne.Maurren Stapleton, Merilu Henner given good lines. Even actors with minor roles like Dick Butkus and Alan Hale get in a good lines.<br /><br />recommend it to a friend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29d330ed6e445e9564eb47ef861feb6e92d37e6a74242832b218684c826dcb75
+size 844

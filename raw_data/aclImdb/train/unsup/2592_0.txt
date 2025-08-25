@@ -1,1 +1,3 @@
-This sleeper comedy, which happens to be Chris Farley's last movie, is very underrated. Unlike many opinions in the past, I adore the comic interaction between Chris Farley and Matthew Perry. Eugene Levy does a nice job too, although you really have to look to realize that it's him. Hopefully people will realize how funny this movie really is in the future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd10e3925ae851172155926f1108ba70baf9d3ec38d07a561fd2c01958081cf
+size 359

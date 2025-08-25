@@ -1,1 +1,3 @@
-King Of The Lost World, a perfect B-movie classic. Extremely close to King Kong, both original and remake, but seeing as they all inspired by Sir Arthur Conan Doyle's book Lost World I can see why. Bruce Boxleitner is cast perfectly, in that is he a bad guy or good guy role. Rhett Giles, is another who I really enjoyed in the movie, he definitely has leading man qualities,I look forward to see him in his upcoming TV show Lost Colony. King Of the Lost World is a great Suanday afternoon movie for those of us who love cheesy films. Giant apes and spiders, Scorpions afraid of a camera flash, and man eating vines, a great way to waste 2 hours.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8deb0e6ca100b7807dcbc7e59ddbe25c8661606982bdf5690abc2e30b542f17d
+size 646

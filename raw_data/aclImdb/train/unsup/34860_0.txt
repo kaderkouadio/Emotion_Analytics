@@ -1,1 +1,3 @@
-...you'll be praying for Satan to make an appearance. _Anything_ to make this movie at all interesting or attention-grabbing. The Touch of Satan staggers along like William Shatner on quaaludes, with huge reams of dialogue interspersed with breathy pauses as if the actors are phonetically spelling out their cue cards. Even an actor of the caliber of Robert Easton (I), as the leader of a slothful mob, can't inject any excitement into the proceedings. What might have made a decent 30-minute Twilight Zone episode (and actually in plot may have been very similar to a couple) is padded out to unbearable lengths.
+version https://git-lfs.github.com/spec/v1
+oid sha256:096246d54a40a39308761fc09a8faa655572301dd4ae4ae5dfc7bd2c065f9b46
+size 614

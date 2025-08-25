@@ -1,1 +1,3 @@
-JUBILEE was the first film to come from the true British punk rock scene, and has a fascinating cast, but unfortunately this is one of the most boring, pretentious, and ultimately pointless movies I've ever seen. I defy anyone to stay awake through it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73dcdc0c53935b2f67af280d9bf4d25292b16556ba03f9edad8a848ffbaefb55
+size 252

@@ -1,1 +1,3 @@
-I love this movie! It's the one for Christmas Time and contemplative hours. Wonderful music, snow, a charming Joseph Brooks! The romantic song: "If ever I See You Again", which Bob Morrison once wrote for his first love Jennifer,leads you through the whole film.( I wonder whether this lovely song is available on CD?) Sometimes you think, that the uncharitable Jennifer is not good enough for Bob! But, in any case, keep your handkerchief ready!
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d2c0f6b02b02637c9757a0a10538f705e742b47e5fbdef2a3cc23ccaf02123
+size 446

@@ -1,1 +1,3 @@
-This is a beautiful, funny, vivid film. It's even better than "Nuovo Cinema Paradiso" -- which it parallels but doesn't replicate. The story completes a full circle and had the theater beaming as the credits rolled. A hundred years after this story takes place, we're just as intrigued by flickering images in a dark theater.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd9814d73b231712a1f14f449b6e913833241f2637f704cb3d03a03d9ee88ded
+size 325

@@ -1,1 +1,3 @@
-This is an incredibly compelling story, told with great simplicity and grace. The story itself is the object of the film, although the scenery is beautiful. The acting is understated, even superbly so, for the characters themselves come through in all of their eccentric simplicity.<br /><br />This piece of art will likely not be appreciated by those who view movies "casually", without due attention. It takes work to be brought into the story, but once you become involved the captivation is complete!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e715ccab8541307127f0cee421c976fc113c2b9e24dc05c6fb1c99e9565ddc0
+size 504

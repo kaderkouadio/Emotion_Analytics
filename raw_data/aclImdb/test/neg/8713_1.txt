@@ -1,1 +1,3 @@
-A very, very, very slow-moving, aimless movie about a distressed, drifting young man. Not sure who was more lost - the flat characters or the audience, nearly half of whom walked out. <br /><br />Attempting artiness with black & white and clever camera angles, the movie disappointed - became even more ridiculous - as the acting was poor and the plot and lines almost non-existent. Very little music or anything to speak of. The best scene in the movie was when Gerardo is trying to find a song that keeps running through his head. He goes to a used record store to buy it for his lover and has to sing the song for two sales clerks before they find the album. Cute scene gave promise, but it went downhill from there. The rest of the movie lacks art, charm, meaning... If it's about emptiness, it works I guess because it's empty. Wasted two hours.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ccccdf69a0eb255bac432dbb9ca9d7e9c6bcf38684b0cbeca301b9f33226b9f
+size 850

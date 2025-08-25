@@ -1,1 +1,3 @@
-I found it real shocking at first to see William Shakespeare's love masterpiece reworked into a gory, violent and kinky sensual movie adaptation. But after you watched it once, it sort of grows on you when you watch it the second and third times, as you come over the shock and start appreciating the movie on its own merits - solid acting, good dialogue, nice sequencing and choreography, not-too-bad soundtrack and some of the (special) effects that go on. Oh, and also the ending. What a riot!
+version https://git-lfs.github.com/spec/v1
+oid sha256:601e509b21c6aeaa43f1741e3d151d76256c6dcf816288faca8c266fa186100c
+size 496

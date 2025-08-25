@@ -1,1 +1,3 @@
-A unique view for a Holocast movie and a good introduction for children, many who probably have read the book at school ---- they probably will not mind watching it if Kirsten Dunst and Brittney Murphy are in it. Good location work, excellent acting and no glossing over what happened in the camps --- a bit scary for the younger set but a good introduction to films of a more mature theme such as Schindlers List et al.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a88454c83ac3e2ca2f55be732f83cfb336a2332f8336198d2b662d1214a653
+size 420

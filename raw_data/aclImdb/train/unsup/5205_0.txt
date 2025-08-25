@@ -1,1 +1,3 @@
-You will get some excitement out of this movie, once you stop expecting Goldie Hawn to be funny. I think she could really do more of these "serious" parts and John Heard is also quite convincing. I haven't seen any other films of Damian Harris but I would like to.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2c64402c7e1321695f4b9d5f53f08d7de3bd2614500a700d2e1c2a4d0c57b7
+size 264

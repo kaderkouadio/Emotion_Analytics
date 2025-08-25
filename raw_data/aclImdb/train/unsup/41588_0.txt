@@ -1,1 +1,3 @@
-This was a terrible movie! A 40 year old guy and a 30 year old girl playing two teenage boys?! Totally pointless! But one or two jokes made me smile a while. But maybe it`s just not my sense of humor because two of my friend thought it was hysterical amusing, but as I said I thought it was boring. One scene though when Kevin (I think) gets all red in the face, that`s fun! But nothing I recommend, sorry to all you Kevin and Perry fans. //Sofia
+version https://git-lfs.github.com/spec/v1
+oid sha256:32bcfce08386ca9b797698351573832a778200e96ab7bd1fb0b5319ef05a575f
+size 446

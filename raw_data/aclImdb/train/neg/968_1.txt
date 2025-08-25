@@ -1,1 +1,3 @@
-An intriguing premise of hand-drawn fantasy come to life in a child's fever dreams. However, I imagine the average nonfictional child is far more adept at scaring themselves than Bernard Rose is at riveting the viewer. The duel between Anna's two realities drags on far too long to sustain interest, especially considering that the little girl playing her is the most abrasive child actor I've ever seen.<br /><br />Use only for kindling.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49f2e24f45ddc6318c6c5e3b811125a99310aa4f51cab40bd6d0c7da037dcda6
+size 438

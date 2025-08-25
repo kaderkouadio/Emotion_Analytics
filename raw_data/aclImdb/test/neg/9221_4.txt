@@ -1,1 +1,3 @@
-This is a silly movie with much singing and dancing. Acting is average, but writing leaves something to be desired. There are rememberable performances by Buddy Epsen, with a short but outstanding performance by Gypsy Rose as the bitter wife of a rich playboy. A totally unbelievable portrayal of college life which ends with a superb ice skating exibition of Alice in Wonderland. Many parts are worth watching, but do not be afraid to fast forward through parts of the movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:c707c01b9830734458014a56e4c63423ab99f1adb1587cb5ead11c1bf5fa2e81
+size 475

@@ -1,1 +1,3 @@
-This film is about the minutiae of office work as experienced by four female office workers.<br /><br />It is a film without a single redeeming feature. It was so bad and so boring, that it was fascinating. For all those that believe office work and office life is largely pointless and the ultimate in tedium and boredom, this film will confirm it.<br /><br />Why was it made, and how did its makers ever raise the funds?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd09dc1bdda52c4bed0af892acf425d69c47b1c7f6838b506670a6aa4c0a4f0
+size 422

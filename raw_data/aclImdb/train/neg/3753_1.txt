@@ -1,1 +1,3 @@
-Because of the 1988 Writers Guild of America strike they had to shoot this episode in 3 days. It's pretty much crap, consisting of repeat cut + pasted clips from Season 2 and was described by its writer, Maurice Hurley as "terrible, just terrible." <br /><br />Why the producers couldn't just wait to shoot something decent who knows. I'm guessing because of the strike the production ran out of money and could only release a flashback episode or maybe Roddenberry was too sick at the time to be able to veto this half-assery. This episode also marks the final appearance of Diana Muldaur (Dr. Katherine Pulaski) on the series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d017724dff2a5bf93a313b094f7e5774c02ba8fe31aa1a593ab43cd018db294
+size 628

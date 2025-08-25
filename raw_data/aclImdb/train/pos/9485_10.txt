@@ -1,1 +1,3 @@
-I saw this film for the very first time several years ago - and was hooked up in an instant. It is great and much better than J. F. K. cause you always have to think 'Can it happen to me? Can I become a murderer?' You cannot turn of the TV or your VCR without thinking about the plot and the end, which you should'nt miss under any circumstances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64f41ec2fccf609125fc198d17cd6451c3605ddf3f7b29adaf2dead9338051f
+size 346

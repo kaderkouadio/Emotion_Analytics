@@ -1,1 +1,3 @@
-This movie gets it right. As a former USAF Aviation Cadet, I can tell you this movie has it all. The tedium of the application process. The waiting for word. The joy of acceptance. The worry about making it through the course. The sorrow of watching one's buddies (perhaps the best of them)wash out. The anguish of paying the ultimate price - the death of fllow student airmen. The glory of graduation. Always the flying, the flying, the flying. Many are called but few are chosen. We did for pay what we would have eagerly paid to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b24ab718256a0c6f6dc688ea4a4a549c73dfe2eebd28db8af2ee6ed94d6b84
+size 535

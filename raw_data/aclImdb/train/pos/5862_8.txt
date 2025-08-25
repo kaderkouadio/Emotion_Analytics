@@ -1,1 +1,3 @@
-There isn't a whole lot going on in this story -- just two men employing very different ways of handling memories of Vietnam. But what it lacks in premise, it more than makes up for in acting and realism. It's a quiet film about the bonds of friendship and shared experience. We even get romance (not gratuitous -- just another very real piece of this story). It's well worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bccf71259bdd67ce99f0c34ece0c5b0b0dca2253dc89b6cf31ffa9b9eb2f1bac
+size 383

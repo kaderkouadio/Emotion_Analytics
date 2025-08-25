@@ -1,1 +1,3 @@
-This film will have you believing in dragons. You'll wish there were no such creatures. These dragons have no fairly tale quality about them. They are big and nasty. They have risen up and have all but destroyed the earth. The few surviving groups of people are merely trying to survive this new reign of fire.<br /><br />The acting by the lead cast is excellent. The story line is pretty intricate for a special effects type film. Most of the film takes place in Scotland, and this helps create the cold, dark, damp atmosphere.<br /><br />Reign of Fire is a very ambitious film. I loved it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc338e6e61cfc562d9a73fa40ae7efd34a6f4f297c9344b462a8c87083e1bc0
+size 591

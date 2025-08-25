@@ -1,1 +1,3 @@
-This is the least scary film i have ever seen. How the blob manages to eat anyone is the biggest mystery of the film. The blob moves so slowly that an o.a.p in a zimmerframe could escape it. The blob has a large slice of luck coming across a typical horror film woman who instead of running away stands still for half an hour so that she can be eaten. If you havent seen this film i recommend you do, its far too funny to be taken seriously.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d5b8ad8efcb01ce15ec3c92b13988cd10957bd9bd8688270cff7162bf8a55e
+size 441

@@ -1,1 +1,3 @@
-The summary was promising but watching the movie was a huge disappointment. Nothing happens in this movie. Plot is linear and without surprise. Normal characters stay normal until end of the film, weird characters stay weird until end of the film. There is even not a single tentative to foul the viewer into thinking that the bad guy is someone else than the most obvious candidate. On the positive side, actors play quite well, and there is a tiny bit of atmosphere in the movie, but much too little to be any significant.<br /><br />People who vote 10 for this movie either didn't see it, or are member of the movie production team ! 4 is well paid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa1dc555dfe66230e7c0a76c0550b8708001c42368894f9cace47d31fdda62a
+size 652

@@ -1,1 +1,3 @@
-This is, without a doubt, one of my favorite Columbo episodes ever. The acting is very well done, the music is very catchy, the script is ingenious, and the direction is fabulous.<br /><br />Peter Falk, who acts brilliantly in every Columbo episodes, acts particularly well in this episode.<br /><br />Also, great performances from Stephen Caffrey, Gary Hershberger, Alan Fudge and Robert Culp.<br /><br />The ending is absolutely brilliant and I love the way Columbo describes it.<br /><br />This is a Columbo movie that WON'T, go amiss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0acea1e33fd93f077a8d7c267dc91341c3940d9aee9680997acb288d22349ca5
+size 538

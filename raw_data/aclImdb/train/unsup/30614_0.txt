@@ -1,1 +1,3 @@
-What can I say?!?!?! A great, amazing film! One of the films you must see, before you die! A touching story of a parent, left all alone, who struggles to find his place in this world and most important to stay alive. Will Smith deserves an Oscar for this role. Amazing movie! I red about the goofs, but I ignored them. I think that the whole picture is more important than some little mistakes made during the making of the picture. I'm surprised really, because in the past two years I haven't seen a movie that touched me so deep inside. After watching the film a feeling came to me. The feeling that I can do everything. The feeling that the happiness is not so far away. Outstanding movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:24442caa7ae1be117471f1f2d62d3b1eca81a5986d0847c7741cc76970cdeae2
+size 693

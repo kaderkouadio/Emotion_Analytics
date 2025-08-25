@@ -1,1 +1,3 @@
-Surface is one of the best shows that I have ever seen. NBC is so stupid for canceling a great show like this and worse of all only leaving it half complete. NBC or someone else should give Surface at least one more season just so it can be completed. It's as if NBC gave you a book to read and half way through it they decide to take it away from you and then you can never find out the ending. I just want to see what happens to everyone and most importantly see what happens to Nim. I think I can say this safely about most Surface fans is that we want to save Nim! Nim has taken all of our hearts away and then NBC just cuts them in two. Come on NBC, just give Surface one more season!
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d1ec78382a42f7a26f5f4b3c4c72d50bbefcdc67999baa83237b631ddd462d
+size 689

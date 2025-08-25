@@ -1,1 +1,3 @@
-This film is harmless escapist fun. Something the recent Tomb Raider film lacked. I can't wait to get the DVD. How can people give this a low score and still go and see Titanic without a guilty conscience I do not know. Anything with Karen Kopins in her underwear has got to rate an extra point or two!
+version https://git-lfs.github.com/spec/v1
+oid sha256:03aa0c712f8a4aae5b622fb96744a95e63674f05c23881fd104f69062f007cd7
+size 302

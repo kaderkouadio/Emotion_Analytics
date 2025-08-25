@@ -1,1 +1,3 @@
-This sophisticated melodrama from a Noel Coward play is clearly unsuited to Hitchcock's particular talents: the initial court-room sequence is the best, allowing the director to experiment with camera technique (especially his creative use of the dissolve to jump from the present into the past and back again); the rest is a succession of clichéd situations, making it a rather tedious whole. The most notable cast member is Ian Hunter, though leading lady Isabel Jeans did go on to play prominent roles in GIGI (1958) and HEAVENS ABOVE! (1963). With this, I've only 3 more extant Hitchcock Silents left to watch - THE PLEASURE GARDEN (1925), DOWNHILL (1927) and CHAMPAGNE (1928); his second film, THE MOUNTAIN EAGLE (1926), is believed lost.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa7dc1d063bd5318e1f5816a50562a3e8a99a7217721e230832d09a7dad10f3b
+size 744

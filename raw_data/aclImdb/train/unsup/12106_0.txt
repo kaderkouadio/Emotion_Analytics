@@ -1,1 +1,3 @@
-Ok this movie was interesting slow at first but then picked up of course I had a hard time even looking away from the screen because of Nancy Mckeon being the main character even crazy she looks cute :o) The movie is about a woman who seems normal then starts to hear voices she has schizophrenia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29c56d82468629d945c319c738c1c398f17ee42da73f57f8f41a6ab98092e035
+size 297

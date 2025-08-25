@@ -1,1 +1,3 @@
-I would just like to say that The Cure was a fabulious movie to help inform how people who are HIV positive have to function in life. Expecially a young boy who cant go to school because he could contaminate someone. and the ignorance of the boys who called them FAGGOTS. that just shows how much children are not educated about aids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:486fbdea8b46a2f6d923b78981024cbc185297f7440c1509dbab4d692464780a
+size 334

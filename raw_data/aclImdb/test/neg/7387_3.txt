@@ -1,1 +1,3 @@
-Super Troopers was an instant classic. Club Dread, while disappointing to many, had its moments. Puddle Cruisers has fewer moments. I saw this movie on the shelf of my local video store and saw at the bottom that it was made by the Broken Lizard group who made Super Troopers, so naturally I picked it up. I only found one scene to be laugh out loud funny. A far cry from Super Troopers. All in all, I was very disappointed. I would not recommend this to anyone, unless you have an abundance of free time, and really need to kill some time. However, you're better off playing video games, or watching something that might make you laugh or think.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b35e44fe8583c32b3cde1a753141ae6d4a7fb88eb6d9a24ab1938120c02b5586
+size 646

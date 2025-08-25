@@ -1,1 +1,3 @@
-"Righting Wrongs" is a great showcase for all involved, with solid martial arts action throughout. Yuen Biao shines, and I've never seen Cynthia Rothrock, and Richard Norton do better. But, I have to point out that there are 2 quite different versions available. <br /><br />The original HK version is available subtitled as "Righting Wrongs". but, there is an English-dubbed UK version, known as "Above The Law". This is not just the usual re-dubbing. Most of the film remains extremely similar, but the conclusion has been extensively restructured, and ends quite differently from the original! either film is just amazing, an early showcase for Corey Yuen's skill, exploited so well by Hollywood, now.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dc2b614a4745dfe1122bcc66a589986ba99517f9566dcc4e1fa036a1fe21d0b
+size 704

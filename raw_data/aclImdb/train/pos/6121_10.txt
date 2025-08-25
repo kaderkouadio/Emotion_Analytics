@@ -1,1 +1,3 @@
-How can someone NOT like this movie??? This movie is so good, that the first week I saw it on the shelf at the video store it was stolen....BEST Horror Movie Ever!!!....I mean he took the Carrot and he...well you know HAHAHA..How is that NOT funny? The only movie that comes close to touching this is Bride of Chucky and that was just great!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:677e59705d4d2f30d1603785df43ba20b8b1ace6ab3261829b93dd9502b4b404
+size 342

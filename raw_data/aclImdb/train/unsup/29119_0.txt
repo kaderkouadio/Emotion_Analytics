@@ -1,1 +1,3 @@
-This movie is extremely horrible except for one line that Hav says. The line is said while she is talking on the phone to someone. She says: "Do I look like a biscuit? Do I look like a biscuit to you? Do I look like a french fry? Then why you treatin me like a side order!"<br /><br />Oh good lord this line is hilarious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:973a14c70e6a1f42b7c2b71692fae0143f71b502ebc155df730d8d304d7447b9
+size 321

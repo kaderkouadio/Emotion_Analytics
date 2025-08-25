@@ -1,1 +1,3 @@
-Watched this one dreary Saturday. Jack Palance turns in an interesting if somewhat wooden performance, but he is one of the only two high points. The other one is seeing the delightful Romina Powers topless ... according to the her birthdate information on the IMDB, she couldn't have been more than 17, maybe younger.<br /><br />But heck, if seeing a pretty girl topless and watching a mediocre Palance are the only good things you can remember from a movie...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a22dfebef9f931f263140314080e6f488102e575957626e5d9d7529e237f53c
+size 461

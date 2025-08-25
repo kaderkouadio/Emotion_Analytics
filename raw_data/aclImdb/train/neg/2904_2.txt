@@ -1,1 +1,3 @@
-If, in the first 10 minutes of this film, you don't realize that the main character, who writes a life advice column, is going to have the tables-oh-so-cleverly-turned and learn some valuable life lessons himself, then there is probably something wrong with you. The set up is so predictable as to ruin the movie, even if the rest of the movie was good (which it isn't) <br /><br />There's almost no chemistry between the leads, and Steve Carell's stalker-ish behavior is embarrassing, not funny. It's hard to believe Binoche's character would have any interest in him. Then in the end it's all wrapped up so wonderful and everyone lives happily ever after. Isn't that great America!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5be545e2baafcb828484305946e95a9fd6eb26fa717f9ad8f687889cd20ddd
+size 683

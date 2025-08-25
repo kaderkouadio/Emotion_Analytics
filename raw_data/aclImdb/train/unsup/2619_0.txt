@@ -1,1 +1,3 @@
-For a comedy that got trashed in reviews and rediculed by movie-goers, I find this movie to be incredibly funny. The first time I saw the movie was in the theater at which time I laughed at the "obvious" laugh-parts, but it was not until I had seen it another two or three times before I picked up on the absolutely hysterical dialogue, terriffic comedy styles of the various supporting characters, and the sheer brilliance and irony the script presents. If you know anything about history, this movie becomes instantly funny. If you are a fan of almost Simpsons-style "random" humor, this film is instantly funny. Never be turned off by the first glance of this film. If you dismiss it as "poor comedy" you will be missing out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abddb641e444b39b04a4e86cd9fbb8e2532da7e94ce34858fd0ff7a3e7ac8fb7
+size 728

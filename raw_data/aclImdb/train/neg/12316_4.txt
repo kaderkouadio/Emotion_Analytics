@@ -1,1 +1,3 @@
-Director Jonathan Lynn has made some underrated comedies in the past, like 'Greedy' and 'Clue'. This isn't one of them. More akin to a 'Police Academy' film than its inspiration, it stars Steve Martin in the old Phil Silvers role as an army sergeant forever pulling scams under the nose of his superiors. But the idyllic life of Bilko and his lazy platoon looks shaky when an old enemy visits the base determined to catch Bilko in the act. Nothing much happens, really. It's all quite dull. It's not very funny. Martin, Dan Aykroyd and Phil Hartman squeeze a couple of laughs out through sheer effort, but they're all better than this and it's quite painful watching them work with such thin material.
+version https://git-lfs.github.com/spec/v1
+oid sha256:465c733d9c8b23fa63ff03582df3e7c62f88f7f5b2a882b21924ab18b886ee91
+size 701

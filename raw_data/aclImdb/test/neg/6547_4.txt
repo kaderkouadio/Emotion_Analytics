@@ -1,1 +1,3 @@
-It was the first action movie made in banned in USSR Hollywood action style. It is not even close to the Hollywood action movies of that time. The plot is childish, the directing is so-so. This movie succeeded because it was first of its kind in Russia. Even though I watched it many times I have to admit it was kind of naive and I did not like it. This is not the best example of Russian action movie. This is just the first experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7bef0084046c3e6f24eb18b8f516c576299da936879146f4d6b92df03b105b
+size 438

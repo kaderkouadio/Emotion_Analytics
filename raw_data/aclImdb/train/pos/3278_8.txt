@@ -1,1 +1,3 @@
-This is a wonderfully written and well acted psychological drama. It is not really a horror flick so those looking for something like The Ring or The Grudge will be disappointed. What really surprised me about this film was the intelligence and subtle attention to detail in the plot and the effort made to be internally consistent. I also appreciated the absence of Dr. Phil psychobabble or New Age revisionism. Rather than advancing an agenda, the filmmakers just told the story, told it well and let the viewer think about it. The sparse dreamscapes were reminiscent of Wyeth paintings and amazingly effective. <br /><br />A great example of how to make a good film on a small budget, without big studios, star actors, big-name directors (this was far better than many of Hitchcock's films), special effects or "clever" plot twists.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bb3bd1afe6b9a1a6943eb2c3acb23781960b6834fe8536194df61205da83008
+size 835

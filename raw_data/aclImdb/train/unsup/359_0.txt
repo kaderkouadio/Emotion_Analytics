@@ -1,1 +1,3 @@
-This movie probably won't win any awards for acting of script but it is an excellent movie for parents to watch with their kids. It is very clean and has has a moral lesson to it. The plot is predictable but I found myself pulling for the little hero in his battle with the bad guys. This movie won't embarras you with offensive language and sexual themes. Put a bag of popcorn in the microwave and get ready for a couple of quality hours with your kids or grandkids rooting on One Small Hero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c95ae76793c63992b757395a6de0f64d5f1f3482abd349aa37053c05bcce6f6
+size 493

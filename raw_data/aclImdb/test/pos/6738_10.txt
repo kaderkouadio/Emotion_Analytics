@@ -1,1 +1,3 @@
-One of my favorite movies. Great cast, lead by Jonathan Silverman and Blythe Danner. Serious drama situations with brilliant comedic punches. An exact mixture of character and story. Real people with real problems, and everyone has a different relationship with each family member. Sensitively moves from slightly-sad to hilariously-funny. Read the quotes. This is the best adaptation of a Neil Simon play.<br /><br />If you wanna see more of Eugene check Biloxi Blues (starring Matthew Broderick who played in both stage versions) is OK, a bit on a darker side. Get away from the made-for-TV Broadway Bound.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ec1a720d2253032569a1e0389204f43a53ed1ae2b3ecd41c324b983c3d5d4f
+size 608

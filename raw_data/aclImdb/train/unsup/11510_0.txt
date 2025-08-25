@@ -1,1 +1,3 @@
-I loved sliders. How much? Put it this way, give me the first 2 or 3 seasons, and 3 words can answer that. 88 - HOUR - MARATHON. I have been hooked right from the start, and it really ticked me when they canceled it after the first year, and then moved it out of Vancouver.
+version https://git-lfs.github.com/spec/v1
+oid sha256:985b68f593b5687889a546d974aed60083c8a34b920f3647a854a0f48d604e48
+size 273

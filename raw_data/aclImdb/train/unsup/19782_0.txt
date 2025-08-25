@@ -1,1 +1,3 @@
-This film is not likely to satisfy fans of the horror genre(or Bram Stoker). Despite borrowing cliched plot elements e.g.demonic possessions, light versus darkness, etc. etc. from more popular films and tempering them with style, the whole movie still seems rather dull and derivative. This is not helped by the story's predictability and its lack of any intriguing, unique characters. To make matters worse, what transpires during and after the climax can be accurately guessed about twenty minutes before the film's conclusion. So- do not see "Shadow Builder" unless you are a fan of someone in the cast or need a 'fix' on a boring, rainy day.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40afceab93e5b392b2085b171ccfa4e9c9825058894c33f2f92a1dccf2258099
+size 645

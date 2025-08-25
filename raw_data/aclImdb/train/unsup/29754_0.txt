@@ -1,1 +1,3 @@
-Sylvia Kristel is the wife in an 'open relationship' with her husband, this film takes us through her amorous adventures in the Orient, pretty tame by todays standards, although back in an era of censorship, in many countries in the mid-seventies, one can certainly imagine this film raising an eyebrow or two...if little else!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7320c43ab564124ed69d01b9e278f6828cb0c75bfd7acf5f45beecb6071562
+size 327

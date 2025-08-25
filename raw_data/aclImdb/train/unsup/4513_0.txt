@@ -1,1 +1,3 @@
-The dialogue is lost, random and illogical. The situations are humiliating, gratuitous and implausible. The movie is entertaining only because it is ridiculous. The acting presented is very good, but nothing the actors could do could ever save this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e05624516825078ee415b8b2702c733c6b2f370374297b28da0e1e793a8cc87
+size 255

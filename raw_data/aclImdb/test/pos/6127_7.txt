@@ -1,1 +1,3 @@
-A very strange, disturbing but intriguing film. I don't think I ever needed to see what a human being can do with his butt, and I doubt if I'll ever want to see it again. That said, there is much to be amused by, like Divine's take on Jayne Mansfield's classic walk in "The Girl Can't Help It" and putting slabs of meat between her legs in a grocery store. A gritty feel very much like a Russ Meyer film. Generally poor acting, with the notable exception of Divine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7131ac172cb3fab394ee6ba53ee2534cb36bab9e99c791efb4d79c53fc64d1c2
+size 465

@@ -1,1 +1,3 @@
-This is an excellent movie. As a Canadian who grew up with a rural lifestyle much of it is familiar , the winter, canoeing , trapping , hunting and the like. It is easy to take the familiar for granted but after watching this film a few times it has grown on me .<br /><br />The story of Grey Owl is well known to many Canadians credit to director Attenborough and screenplay writer Nicholson for expanding the story.<br /><br />Brosnan does well portraying a complex man , a very fine performance. Annie Galipeau is lovely in her first large role. The rest of the cast is solid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc3b96bbbae25ae6e4d930fe2dca905f4a4b75a4b98ba40d316b9f9bc385749
+size 579

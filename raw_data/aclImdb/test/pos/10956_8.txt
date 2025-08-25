@@ -1,1 +1,3 @@
-Hey; Belmondo! Look there's Anna Karina! Great American improvised New Wave (or Independent you want to call it that), not as good as Godard or Truffaut, and not flawless, but hey such realism, style, warmth and humor. I love that NY accent; "you don't know nothing!"; "forget about it". Just like the French New Wave, it's about young people; partying, falling in love or just hanging around. Lelia Goldoni is so cute; she's adorable; wonderful. Ben Carruthers' also good, reminds me of Belmondo. A film you won't forget.<br /><br />A steady 26.5 out of 31 ;-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:98f9036b4e5fa03b992e8f45552720fe93e8be03f4e926885c9cc2bcdb4494ea
+size 561

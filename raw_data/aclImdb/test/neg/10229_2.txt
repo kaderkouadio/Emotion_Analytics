@@ -1,1 +1,3 @@
-Also titled--> The Magical Castle--> This one is a stretch. Why bother? Why create another rockbart and then add another story line that has nearly nothing to do with the play nor swan lake. Only some girlfriend of rockbart, the stolen book of forbidden arts and the original characters (not voices remain). Stripped to to its bares this is a continuation by a thread. Next thing you know some bird will have memorized the "forbidden arts" and Swan Princess 4: the magical bird will be born. Thankfully though the chapters are supposedly closed and this will beginning but bad ended trilogy will come to a close.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd59b47684a38349cc81f25989bc3ea6b5c6b89778da6fa67e60fc9b19b4f18c
+size 612

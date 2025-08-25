@@ -1,1 +1,3 @@
-"Heart", a lean and taught psychodrama, peers into the life of a heart transplant patient as a strange and aberrant relationship develops between him and the heart donor's mother. An excellent film for those into razor sharp, no frills drama, "Heart" qualifies as an under-rated "sleeper". The film's only deficits are (on the DVD version I watched), mediocre video quality and poor sound with no English subtitles or CC. I listened to it via headphones so as to not miss a syllable. (B+)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1daab925b2b372c0514fba1f044cc5b44bf314a3aa7dfd756f19bd94dbea24f
+size 488

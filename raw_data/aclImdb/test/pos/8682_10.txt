@@ -1,1 +1,3 @@
-I thought this movie was brilliant. It was so funny and so true too. A great idea for a movie. Five groups of friends on their way to schoolies. I've got to say that Matt Newton as Mason was probably my favourite character. I wish i could give this movie more than a 10 rating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f511a2710c90ad6d23a83f39f2d97cda0d8d8490160ee45d9d385f830e3ae9
+size 277

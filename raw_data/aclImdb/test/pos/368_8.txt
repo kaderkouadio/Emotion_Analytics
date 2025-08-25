@@ -1,1 +1,3 @@
-Has aged really well - still thrilling and suspenseful today. Certainly one of Hitch's best movies. Beautifully shot, with a great premise for suspense, sex-appeal provided by beautiful Ruth Roman. Because of the great premise, you feel like you have to watch it to the end. If you find yourself losing faith in Hitch and doubting his title as the Master of Suspense, i recommend this nice little movie as an antidote. 5 out of 5.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5a0161b5fd4301612a872013fec543319e62a1aa3a4eadd70761dbe0f5899a6
+size 430

@@ -1,1 +1,3 @@
-Poor dubbing, special effects, and acting- oh my! This is truly one of the worst movies I've ever seen. Clearly made in Italy and then dubbed over in America to hopefully make more more money, this is a horribly done copy of Star Wars. The "story" is as follows: A "Brilliant" professor and his "Brilliant" assistant are kidnapped by some guys with Blonde wigs on. Some space station attempts to save them. Hilarity ensues. Every once in a while, a bunch of colors will flash across the screen for half a minute. This movies is probably best to avoid if you experience seizures. Actually, this movie is probably best to avoid no matter what.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9022ce0ef701d95364217cbf2667ea3357d745c6fe4309802ba56fd5c186a131
+size 641

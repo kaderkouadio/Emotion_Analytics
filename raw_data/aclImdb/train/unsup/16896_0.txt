@@ -1,1 +1,3 @@
-I liked it better than the Hitchcock version, Dial M for Murder. Most of the stars measure up, except for Gwyneth Paltrow, who<br /><br />reminded me of Twiggy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66cabb28fc7db523dde6719778c379ccc67c5888ed25146e9b8db95697c0f0cf
+size 160

@@ -1,1 +1,3 @@
-i love this film. the songs and story lines are great fun. and the song "saying goodbye" always moves me. what a brilliant thing to do to bring puppets to life, in a way that you actually care about these things made of cloth and fabric and whatever. great voices and great talent. why were all the other muppet films that came after this one so much less interesting, moving and funny? is it that mr. henson is just so very missed?
+version https://git-lfs.github.com/spec/v1
+oid sha256:59b57accd361b8e23dfafd32d22c36e173101dc78e1d4dd90c327e48341860bb
+size 432

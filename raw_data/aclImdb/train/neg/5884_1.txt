@@ -1,1 +1,3 @@
-I am a big movie fan. I like movies of all types. This is arguably the worst movie I've ever seen.<br /><br />I get that it follows the book closely, which raises the point that not everything should be made into a movie. Especially since the authenticity of the experiences in the book have been called into question more than once.<br /><br />These characters are not quirky, they are mentally ill. The things that happen are not funny, they are disturbing; especially considering they are supposed to be true.<br /><br />This movie had the feel of The Royal Tenenbaums, another movie I hated, only Running With Scissors was even more dysfunctional and less funny.<br /><br />I will never get those hours back. I wanted to wash my brain after watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab29b265a11a1d79f9e66d822ec004bcebdc28d4805ae872f60dd61fc81f71d4
+size 754

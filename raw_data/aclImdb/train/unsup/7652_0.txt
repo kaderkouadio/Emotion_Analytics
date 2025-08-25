@@ -1,1 +1,3 @@
-In 1996 Mario 64 was released a Sega bleed a little, with Saturns inferior 3D graphic hardware and the cancellation of Sonic Xtreme, it left Sega in a state of shock. But with the impressive specs of they're upcoming Dreamcast system, the Sonic Team was full able to utilize its hardware. Considered the be the best, not only in sales, game in the Dreamcast library, it helped set the graphical standard years ahead of its time. This game, sales rivaling that of Halo, was popular enough to spawn a sequel, a TV series (sonicX) and a soundtrack. My friends are still fooled by its graphics, they think this game was made recently.It still is and will always be my favorite game.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a49bd43e1ac8737cf74d582d76c7b6d5ac1c69fdd6cedd8c9568bb1dcdf5f8ae
+size 678

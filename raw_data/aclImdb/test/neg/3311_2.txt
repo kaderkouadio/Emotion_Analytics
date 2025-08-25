@@ -1,1 +1,3 @@
-The only reason anyone remembers this steaming load of fecal matter is because it was scored by Pink Floyd. (Or as they were known then, "The Pink Floyd".) Stefan, a really annoying Eurotrash hitchhiker, hooks up with American model Estelle and they proceed to get high and naked throughout the whole movie...<br /><br />And the point of this is, what exactly? That drugs are bad? Or only heroin (horse) is? The problem becomes that you don't give a crap about the characters, and for that matter, even Pink Floyd wasn't up to their best work. When Steffan overdoses at the end, you are almost glad to be rid of him because he was so annoying.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f37cee5cddd2de661dfe9ca59b148eb1ac0671665b771a37ae8ff8e198f22ef5
+size 643

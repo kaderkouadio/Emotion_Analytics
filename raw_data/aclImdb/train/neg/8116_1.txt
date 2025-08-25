@@ -1,1 +1,3 @@
-I have seen a lot of movies...this is the first one I ever walked out of the theater on. Don't even bother renting it. This is about as boring a soap opera as one can see...at least you don't have to pay to watch a soap opera, though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eac79be66de10992d165e9af6b8f924cc8231f94143417943867a041297df730
+size 234

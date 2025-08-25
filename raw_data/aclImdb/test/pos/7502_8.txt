@@ -1,1 +1,3 @@
-For sheer quality of performance and the "theater of the absurd," this one is hard to compare to anything else. With the world melting down in the early '70s this film made perfect sense then, and still resonates. George Scott could never be typecast.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6a3b8c3d884b8e315bc6e29afa050f93d7d55559ae11a875bcfb8d194bf0333
+size 251

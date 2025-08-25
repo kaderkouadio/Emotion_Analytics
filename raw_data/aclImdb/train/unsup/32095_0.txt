@@ -1,1 +1,3 @@
-"Gun Shy" isn't intended to be Oscar material, just a fun film. The plot was fresh - not the tired, worn-out same-old story-line - and Liam Neeson's character is much more human than the Hollywood-cloned macho pistols-pressed-to-right-cheek cops.<br /><br />I also smiled at the inside "X-Files" joke, with Neeson's character smoking "Morley's." I saw that and said there had to be an X-Filer in here - and, within seconds, up popped Mitch Pileggi (Skinner) at the other end of the conference table.<br /><br />This is a film you can sit back and relax to and have a fairly enjoyable time, getting in some laughs. Acting is well done, and the characters are not caricatures. A definite recommend, despite some rough language.
+version https://git-lfs.github.com/spec/v1
+oid sha256:013cc42607cc6fff75603c2c0e145b1a97c8eea56a223e031708ca90a85d1689
+size 725

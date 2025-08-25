@@ -1,1 +1,3 @@
-This is one of my favorite films. I went to see this film over ten times on it's initial run in the theaters. Wilder was wonderful. Kane superb. Dom DeLuise adorable. Too bad the film doesn't have the following that it deserves. I'd love to see it on DVD or for Home Video Sale. I met Carol Kane in line at a supermarket and I told her my love for this film and she was surprised. The film was not well received when it was originally released. I'm glad this film was made. Gene, I love this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f1c4d1977035508ffe653d981ee143f1f5b54fd222cc24c5c02409c5a560062
+size 498

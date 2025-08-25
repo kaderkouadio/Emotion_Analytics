@@ -1,1 +1,3 @@
-How the hell does this kind of movie end up getting distribution? The script is terrible, the story makes no sense - (rumour has it that Darren Day disappeared two-thirds of the way through realising what a stinker he'd involved himself with). This at least explains his character vanishing without any plot resolution whatsoever. The music is a sort of irritating Michael Nymanesque minimalism seemingly written by a man with no ears. If this was made by a first year student filmmaker it would still be a result of the grossest incompetence.<br /><br />There is no other way of describing this other than an absolute steaming pile of festering dog turd, resting on a catastrophic car pile-up. Avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad463fe2a82ea18d830ff4f69d8916638cd5a47f3683bb5335c15a31b9e15733
+size 701

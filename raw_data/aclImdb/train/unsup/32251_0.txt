@@ -1,1 +1,3 @@
-While this film fails to capture the aura of a big-budgit film, it succeeds in finding that of a B-movie. Yes the film's plot is kinda cheesy and the acting's inadvertently funny, but it has the strange attraction one might have for an Ed Wood film or any other kind of corny "horror" film.<br /><br />The story was also a but clichéd and there was one rather misplaced hot scene.<br /><br />It's like a tabloid story, you don't wanna look, but something pulls you to do so anyway.<br /><br />All in all "Dead Above Ground" isn't perfect, but I kinda enjoyed it anyway.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74100fb31db9a569f1b1d8704d2735c4043c33203fab2409a7e60dbea2cca297
+size 570

@@ -1,1 +1,3 @@
-I just love, love, love this film. The cast is perfect, right down to all the bit-parts. At first I was bothered by DM's accent (& her blonde hair is a shame) but the sweet script transcends all that. <br /><br />All the characters are pitch perfect, the lines so funny & the message inspiring! The locations are also great, I don't know where this is in NYC, but I would love to live there!<br /><br />I think Jeff Daniels is simply brilliant in this film, and Mary Steenbergen too. The scene where DM tells her she's a singer is lovely & the sparky scenes between JD & DM are so sweet and funny too!<br /><br />www.menmoneyandchocolate.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:84af5faa68462e47264b5e9077a8ccc84fa7da0a97ff92242f8ddb9633d24b88
+size 641

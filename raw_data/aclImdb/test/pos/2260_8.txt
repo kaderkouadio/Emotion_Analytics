@@ -1,1 +1,3 @@
-Having not read the book, I was more open to the fresh interpretation that each director gives to their medium (which is film, not "to the letter" reproductions of literature)on this particular film. I was happy that the holocaust that occurred in Russia (and it's neighboring countries) finally received some attention. The Nazis were particularly cruel to Russians and Russian Jews. If you read the histories and see the monuments built in Smolensk and nearby regions you will understand this movie and why many kept silent when they should've spoken up.<br /><br />It was certainly time for this to be chronicled and I hope that more stories will come out of this. It's high time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6e0faf3921ce5f792c148427ad108603d5a14b1553be61cf83ee094750a380b
+size 683

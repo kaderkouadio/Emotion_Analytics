@@ -1,1 +1,3 @@
-"Toolbox Murders" is the scariest American film since "The Ring." Hooper manages the neat trick of paying homage to the slasher tradition that he himself launched so long ago with "Texas Chainsaw Massacre" while also adding some dimension and wit to the proceedings by virtue of a nicely detailed Hollywood urban legend angle. The atmosphere is positively claustrophobic and palpably creeeeeeeeepy, and the terror -- which starts early and brutally -- is unrelenting. The tech aspects of the film, from the lushly dark camera-work to Joseph Conlan's inventive and eclectic score, prove that cheaper can be as good as, if not better than, a big budget extravaganza. Performances are uniformly solid, especially Angela Bettis in the classic scream queen role and Juliet Landau, finally getting some post-"Buffy" work. Great scary stuff!
+version https://git-lfs.github.com/spec/v1
+oid sha256:04501a92e9239368075aff3bc2ae60f609f892426332242c9a89abf9dde791e3
+size 834

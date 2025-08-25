@@ -1,1 +1,3 @@
-After 15 minutes of the film, I thought this was gonan be the most horrible POS i'd ever have to watch, I was even tempted to turn off the VCR, but seeing as how I paid a whopping 4 bux to rent it, I decided to watch it anyways. however, after an hour, the plot became so garbled and stupid, I just began to laugh out loud at all the cliches and poor acting and towards the end I could pretty much guess ahead of time what they were gonna say. Later however, I was watching sci fi channel and Mystery Science Theatre had decided to prod fun at it as well, so in conclusion, it's.....well bad yet funny. -Remorse P.S. Cthuhlu Fategn
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3798a7e2c4e21cd1b3b24b63d734f714769f1e184c439aef8566a03559b75f5
+size 631

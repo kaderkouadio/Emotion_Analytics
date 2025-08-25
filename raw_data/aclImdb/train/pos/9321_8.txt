@@ -1,1 +1,3 @@
-As romantic comedies go, this was a cute and winning one. I thought that the writing could have been stronger to build up the final connection a bit better, but that is not a huge tripping point. But, Amanda Detmer and Scott Wolf give nice performances and are as charming as ever. These are two of my favorite actors, and I was just glad to see them cast as romantic leads. I hope to see them cast in more projects soon.<br /><br />Overall, this movie won't change your life, but is is sweet, warm and winning. Not a bad thing to be at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:845c205d1645f1e1e712d2c73da2a775d47e976c26836f8107dbe04efb5e0ac1
+size 541

@@ -1,1 +1,3 @@
-I really enjoyed this movie about a dog who becomes a Duke. It would have been very easy to mess this one up, but along with the humor, the script was filled with warmth and even some profundity about nobility and class. It's a feel good movie that the whole family can watch.. even the adults!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a0c7e46baf73aa9c845e2b1208bbe0f45444787a0a7c3075156652f22558a5f
+size 294

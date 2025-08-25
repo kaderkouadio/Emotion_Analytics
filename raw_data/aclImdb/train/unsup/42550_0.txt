@@ -1,1 +1,3 @@
-Yes, perhaps there is some interesting psychological commentary in the movie, but overall it is bizarre, unrewarding, and with no sense of closure. Further, it is not scary in the least. I thought it was supposed to be a horror movie, but it is more like a sterile view of something that could be scary just because of the subject matter, but doesn't come off that way.<br /><br />I had a pretty hard time watching the whole thing just because it was so boring. I was constantly asking myself if the time I was spending rotting my brain with this movie was better used, say, eating a PB&J sandwich...
+version https://git-lfs.github.com/spec/v1
+oid sha256:b49a4354fce2785f395c0bb44559ef7a11cd38fdeecb59a33b7dd1868865e5cb
+size 600

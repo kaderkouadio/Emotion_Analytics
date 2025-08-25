@@ -1,1 +1,3 @@
-It was dumb. Sort of like an Adam Sandler movie. <br /><br />There were a few funny parts but not that funny.<br /><br />I liked some of the actors in it though. <br /><br />There were some Sat. Night Live people in the movie. But I wouldn't recommend this unless there is just nothing else better on. And it was still better than any Jennifer Lopez movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:314cbbc5e7f2bc949d1331a75f6d42fdacb33ea792b3a1ef8300715566554b6b
+size 356

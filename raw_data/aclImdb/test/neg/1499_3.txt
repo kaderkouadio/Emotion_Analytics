@@ -1,1 +1,3 @@
-This home movie is basically scandalously rubbish, but you have to give them 3/10 for trying. The blood is rubbish, but the granny that kills them is quite funny, and I think the concept is good, and make-up is OK for a home movie. However thank god it was only 55 minutes long, and the twist at the end is quite literally Fight Club (as in almost as trash as the film). Just read this comment, don't watch the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:151d497ccc240c239fc3c0f72459fa31f3234b31f28bc6ee3cd9c1608ba9093b
+size 416

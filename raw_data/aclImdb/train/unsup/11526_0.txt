@@ -1,1 +1,3 @@
-Buck Privates is a signature movie for Abbot and Costello. The more you love Lou the more you hate Bud, who seems to be always out to get Costello. This theme carried over in most of their movies. No wonder they hated each other in real life. It is almost as if there are three casts in the flick, The Andrews Sisters give the movie a real boost with their songs, especially one of the most popular of the World War II era, "Boogie Woogie Bugle Boy." Even thought Abbot and Costello are featured as the stars of the movie they seem to be only comic relief for the real plot. The real plot is the love triangle. But there is one question. Did men really act the way these guys do. If so how did we win the war?
+version https://git-lfs.github.com/spec/v1
+oid sha256:b05ffeba0463617f35a5d7e6a828362daaaba3026373f025989e6dd15db451f1
+size 709

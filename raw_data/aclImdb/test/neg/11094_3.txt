@@ -1,1 +1,3 @@
-Even Sophie Marceau's presence and the few (very few) good French gags are unable to save this otherwise slow and boring movie! A disappointment. The story is weak and so is acting. This movie was advertised as the French version of The Mummy, but the Mummy has at least spectacular and enjoyable effects...
+version https://git-lfs.github.com/spec/v1
+oid sha256:51bd79031d558249602d68782e7622cf6d9288b8374e0ba1345b1ab071feb210
+size 307

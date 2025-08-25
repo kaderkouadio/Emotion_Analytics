@@ -1,1 +1,3 @@
-I remember watching this is its original airing in 1962 as a five or six year old and REALLY enjoying this. I recently had the opportunity to watch it again, for the first time since then, as it was aired on "Walt Disney Presents" on the Disney Channel. I'd forgotten most of it, and some of it was geared towards kids, but it was still enjoyable. I can't wait to show it to my niece and nephews.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36b1d242e739a22105abf5e61727f551d412b71af3d7582dca9cb801bbe6212a
+size 396

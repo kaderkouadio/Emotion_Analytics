@@ -1,1 +1,3 @@
-Why did I waste my time with this movie? There was not a single funny joke or line throughout. The slapstick wasn't even mildly funny. I mean really, an out of control vacuum sucking pipe? Why has the National Lampoon's name been attached to this movie? Even Christmas Vacation was better than this (I actually thought that film was very funny).<br /><br />AVOID LIKE THE PLAGUE!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e7f1f3a9cfd4ba1d04317d03ef60ae161471aef837e898801a660b00e48b90
+size 379

@@ -1,1 +1,3 @@
-What an inspiring movie, I laughed, cried and felt love. For a true story,it does give you hope and that miracles do happen. It has a great cast. Ellen Burstyn, Samantha Mathis, Jodelle Ferland(she's 4 or 5yrs. old) what a actress. Its on Showtime. A Must See Movie!! :)=
+version https://git-lfs.github.com/spec/v1
+oid sha256:d39adc1e3fdedbb74a66016e6a41325349e2d00b3cf7fb60bc359766c9e868a4
+size 271

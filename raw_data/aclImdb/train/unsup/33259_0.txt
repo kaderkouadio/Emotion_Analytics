@@ -1,1 +1,3 @@
-It's too bad this film wasn't scraped a forth time. The idea might have been good, but it wasn't carried out in the script, in most of the acting, or the editing. If this is what Minnesota is offering up now, maybe it's time to close up shop. Skip this film and save 90 minutes of your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34588e7ca3ba410af495db3d83c72d707bf9ef256cec934557ab566cdfb648ef
+size 291

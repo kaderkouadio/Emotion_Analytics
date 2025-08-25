@@ -1,1 +1,3 @@
-Terrible film. Looks like a bad game or intro to a game, the people doesn't look alive. The new "Sleepy Hollow" is a much better choice. The story is not very good. The movie is stated to be 1.30 hours, but was somewhere like 55 minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54c695473b942c6c368602c2e4395030400d5a86a139acffcd8fbd5c5e816bcf
+size 237

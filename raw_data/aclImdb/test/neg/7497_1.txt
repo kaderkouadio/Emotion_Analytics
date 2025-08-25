@@ -1,1 +1,3 @@
-How can this movie be described? Oh yeah I've got it wretched!!!<br /><br />I'm not big on chop socky, but this is just plain garbage. Anyone who would waste their money to pay to see it, is just too sad for words.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8286963b1f1e4f5f0ca8935d896fb0ab6fbec9ac70adff2122be6af59d89a58d
+size 214

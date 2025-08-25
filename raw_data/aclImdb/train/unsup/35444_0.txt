@@ -1,1 +1,3 @@
-I took a gamble by renting this one DVD - it certainly had potential, with the good storyline and great actors (Madsen, Hopper).<br /><br />After 15 minutes however, things really went downhill and it became obvious that this is a total Tarantino ripp-off. The story is very similar to True Romance and the music reminded me of Reservoir Dogs and Pulp Fiction - except that these weren't the original tracks from the 70s :)<br /><br />It's really a b-grade ganster movie with none of the subtle filming or dialogue we get in Tarantino's movies.<br /><br />4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:6afcaac07a26c8f7308671b211479cee8b7dab5c5bff84365af9b07d30fc6ee3
+size 560

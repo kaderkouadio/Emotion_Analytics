@@ -1,1 +1,3 @@
-First of all, I became dissy after watching this movie for five minutes (cause of the bas screenplay). I don't think this movie has any purpose. It's boring from the first minute to the last. I don't understand why this movie scores so high. I gave it 1/10 but actually it's not more wurth then 0/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fefeb06de6ed8008e9bde9f98baa8dfecd05eeec8f29b8614fa0cd5dee65e61d
+size 300

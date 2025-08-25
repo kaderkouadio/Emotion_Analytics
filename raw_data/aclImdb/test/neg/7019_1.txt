@@ -1,1 +1,3 @@
-To begin with, I really love Lucy. Her TV show still makes me laugh. She was one of the greatest comedians who ever lived, right up there with Chaplin and Keaton. But, her performance in this movie is disappointing. She was too old, and the gauze filters on the lens make her look like a London fog refugee. She couldn't sing, and her voice was so froggy that she croaked through every song. Her dancing days were long in the past. Just because you are a Lucy fan, don't gloss over this mistaken, sad performance and sing it's praises. I prefer to remember Lucy in her wonderful TV series(I Love Lucy) and to draw the curtain of charity over the terrible mess of a movie called "Mame".
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5211a89ea0b357cf0cc293edab63e6358714eecfaa310642039b37d4aca5349
+size 685

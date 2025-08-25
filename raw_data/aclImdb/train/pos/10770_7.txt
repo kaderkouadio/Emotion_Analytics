@@ -1,1 +1,3 @@
-With a well thought out cast, this movie was a great comedic relief. The plot is well-written and the cast was knockout. Every bit as good as the reviews suggested (a rarity) and was highly entertaining. Being a huge John Candy fan myself, this movie was no disappointment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac6d3ad2553b5f4dedf5995baf7b866261290b74c8c6b76d7ed220378bbb8c0
+size 273

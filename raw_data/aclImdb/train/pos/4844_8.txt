@@ -1,1 +1,3 @@
-One of my favourite films first saw it when I was about 10, which probably tells you a lot about the type of humour. Although dated the humour definitely has a charm about it. Expect to see the usual Askey & Murdoch banter so popular in its day, with lots of interesting, quirky co-characters. The lady with the parrot, the couple due to get married and are in trouble from 'her', and my favourite, the stationmaster, "Nobody knows where it comes from ... nobody knows where it goes.." Interestingly the ghost train was written by Arnold Ridley of Dads Army fame (Private Godfrey the medic) Watch it on a rainy Sunday afternoon after your lunch and smile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fdab8c28887ecfc512cfb6781515a9f893512421c1117c2fadc021acb993c1
+size 655

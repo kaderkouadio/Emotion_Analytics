@@ -1,1 +1,3 @@
-In Spanish-speaker culture, "Cantinflear" is a approved word (The Real Academic of Spanish language). That means so much in a language. Cantinflas is the best comedian in our culture. He was Passepartout in "Around the World in Eighty Days", but the better performance were in the trial of the movie "Ahí está el detalle", all the people finished speaking like him (cantinfleando). I believe that the confusion in this movie is so good due to Bobby was a dog but the trial was a man murderer. Cantinflas is the Best comedian in America Spanish-speaker.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6d26e0bf174962989b8070f293ba892f58d0b743ced65992b8c4156c9a7a4f
+size 554

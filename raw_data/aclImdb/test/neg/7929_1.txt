@@ -1,1 +1,3 @@
-This was an absolute disgrace! The worst dramatisation I have ever seen. German officer's with a spotless English accent, they didn't even attempt to be German. How were we supposed to take them seriously? Garbage garbage garbage! Leave the German acting to the likes of Ralph Fiennes & Liam Neeson in future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5e72d894c3c0cc6df0ca7e5b5dec8d7c5e9b09d007db0ef1a6d34c16bb8f3ad
+size 309

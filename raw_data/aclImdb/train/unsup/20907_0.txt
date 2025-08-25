@@ -1,1 +1,3 @@
-Initially,the idea of Adam Sandler and Jack Nicholson appearing together in a film called Anger Management looks good on paper.Unfortunately,what makes this a bad film is that the idea wasn't carried out very well.The story goes along smoothly enough,but what ultimately kills it is a it's totally ridiculous and disappointing ending.The whole idea that all of Dave's situations were staged as part of his therapy brought a very promising idea crashing to the ground with a thud.Perhaps Adam and Jack will make another film together one day,the story idea will be a good one,and this time the idea will be carried out a little better.Sandler has hits and he has misses.For me,this one goes down as a miss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0910b3c8ea1157e69dd7473aa8a572c053ce09e2107ac4211a8492728ea46794
+size 705

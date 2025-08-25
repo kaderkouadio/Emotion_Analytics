@@ -1,1 +1,3 @@
-Another unfortunate film meeting "we hate the director because the internet told us to" preconceptions, 1968 Tunnel Rats is a complete success in what it sets out to do - create an overwhelming sense of fear and claustrophobia.<br /><br />There are war movies, and there are horror movies. This is both. Yet, there is no Predator creature jumping around, no crazy virus, no hallucinations, no. The war is scary enough itself.<br /><br />There's no patriotic propaganda here, neither is there any political anti-war message, the movie just shows us how scary life as a soldier could be. This is the kind of fear which is felt by real people, every day.<br /><br />A highly recommended film if you like tension and suspense. More accessible than SEED, more mature than Alone in the Dark.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3cab7ef4368ebe1bd68d74c738d75d7910d67941578bb7d35c73ee289298aa9
+size 785

@@ -1,1 +1,3 @@
-The movie clearly hits home with some people, but for me I'm afraid it missed the mark.<br /><br />From the outset the acting appeared somewhat B-movie-like. Some characters overacted, the script felt unnatural and some of the lines spouted were just clichés from a phrase book.<br /><br />The lead guy was OK - his acting was clearly what the producers spent their money on. By no means an Oscar-winning performance, he did grab the spotlight but only really thanks to the quite terrible acting around him.<br /><br />The story is OK - that's all though, "ok". Not great, not inspiring. Nothing new. I only just made it to the end but constantly wished it could have been forwarded.<br /><br />Seeing as most people here seemed to enjoy it, I can hardly tell you to stay away but it is in no way shape or form a great movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc1b7570f8a9a82fc694ffae852f7bf4701c63bb619cc2c090e89ad8f7ec81b
+size 826

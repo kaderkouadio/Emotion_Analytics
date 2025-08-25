@@ -1,1 +1,3 @@
-If Family Guy offends you or you simply don't get the humor, unfortunately this show is making fun of you and the masses of overly religious, dull, and politically correct people in America. So put your morals aside and have fun with this show. FG is a hilarious mind opener on the reality of today's society. Whoever said this show is for a young immature audience is very mistaken. With all the references to old movies and politics 10-80 years ago, I couldn't imagine any young immature kid finding this funny. Family Guy is definitely for a mature open-minded audience who are not afraid to criticize American society. Hats off to Seth and the whole crew who were able to make this show happen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a1fddcd778b600ccd4f6be465c91f2d8f0830c9a2e2f440d3ac930fd413393
+size 698

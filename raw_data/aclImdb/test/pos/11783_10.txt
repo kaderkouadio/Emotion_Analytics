@@ -1,1 +1,3 @@
-I haven't seen "Hardware Wars" in years, but I remember it as one of the most hilarious events of human experience, and it was over far too soon. Every aspect of this movie was hilarious, and it was even better than "Star Wars." I laughed. I cried. After watching it, I asked a family member for a moment with three dollars just so I could kiss it goodbye (I'm kidding about the last one). I love it when Ham Salad's sidekick/co-pilot tries to eat Princess Anne Droid's cinnamon hair buns, and the Darph Nader character is just hilarious! This film would be great to watch back-to-back with "Thumb Wars," and I sincerely wish there could have been a "Hardware Wars, Episode II: The Umpire Strikes Out." (Was there?)
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e383b6524786e072ed27d0e626c86a3749cc8d9278d7bac1f49b1c974d72ff
+size 715

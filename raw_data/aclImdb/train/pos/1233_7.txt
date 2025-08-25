@@ -1,1 +1,3 @@
-A strange role for Eddie Murphy to take at the height of his career. While there is a lot of the "Eddie Murphy character," he plays a truly decent person. The rest of the cast is good, particularly the lovely Charlotte Lewis. Her character's beauty and serenity held the tone of the film from getting to be too much Murphy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e99e0dffcbdc97ffe937c67ea0653546db8c20a4ea492a834ea21b3047efde4
+size 323

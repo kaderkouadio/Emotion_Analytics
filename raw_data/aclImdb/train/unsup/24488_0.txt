@@ -1,1 +1,3 @@
-I've seen better! This TV movie has been on more than once and once was to much. This is a poor ripoff of the big screen version. The Destroyer series is known for corny jokes but Roddy McDowell's Chiun is pathetic when compared to Joel Grey. One bright spot is Jeffrey Meek who appears to have some training in martial arts and tries to fill the character but lacks Fred Ward's on the money Remo, wisecracks and all. Meek goes on to star in short lived Raven TV series paired with a wonderfully overweight Lee Majors and set in Hawaii. If it does come on and you choose to watch do so in the vein of Mystery Science Theater and just enjoy how bad this movie really is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f976fe6ec0c889b6c20e952b6e716bb12ca8f6bc8edfbd18e2834e250017856d
+size 669

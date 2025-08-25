@@ -1,1 +1,3 @@
-I'll admit that when I first saw this movie when I was about nine years old, I loved it. I couldn't stop laughing. However, when I recently saw this movie, I was laughing for another reason. The movie was so bad and so cheesy it was actually funny. Every scene in this movie was cheesy especially the baseball game and the ending scene which spoofed Carrie. I couldn't believe that I used to like this movie. If you do like goofy movies from the 80s, then I recommend this one. Just don't pay more than a dollar to rent it. However, if you want a good movie with solid acting, then do not rent this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b308aab19c02d17d149eeb793ca8b3a4c69e6435eb4d76fbadebec934c431806
+size 599

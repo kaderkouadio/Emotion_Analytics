@@ -1,1 +1,3 @@
-This movie is so STUPID! I mean.. why does Liam Neeson take this woman so seriously, having only heard her say 3 WORDS! When they found her in the woods, they should immidiately have committed her to psychiatric hospital to try and make her a real human being. Just to see Jodie "hey-see how stupid I look" Foster dance around chanting is stupid....
+version https://git-lfs.github.com/spec/v1
+oid sha256:392737b2769639b42c046ccf4f6a23c01ebbdbbec3b3ac1270bcc8f35ad5326d
+size 349

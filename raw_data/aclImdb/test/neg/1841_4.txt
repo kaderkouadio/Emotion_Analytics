@@ -1,1 +1,3 @@
-Have to disagree with people saying that this is a lousy horror film with good acting and camera-work - I'd say it's an okay horror flick RUINED by shockingly abysmal acting and poor camera-work - watch 'Ju-on : The Grudge instead of wasting your time with this garbage. The principal idea behind the film is rather an original one, considering the abundance of killer-doll-based scare-fests which have been foist upon us over the years; unfortunately, the story is handled with all the subtlety of the latest Michael Bay actioner, with a cast of characters which are uniformly unlikable and played with precision-perfect dreadfulness by actors presumably sifted from daytime Korean soap operas. It isn't scary and only succeeds in dampening your expectations of the next Korean horror movie to come-a-calling. Oh well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd83a754956e2eae88cb0e595bb6022ab5d912f21c6bbb7eb6726a95d67ef7ca
+size 819

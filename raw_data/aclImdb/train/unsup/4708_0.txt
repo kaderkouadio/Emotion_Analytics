@@ -1,1 +1,3 @@
-I have read several plot analysis written by the "pros" and they seem to be all wrong. There is no terrorist on the plane. The story is about a letter that is found in the first class airport lounge after an international flight has taken off. The letter states that there will be murders before the flight lands. The best part is the "WHO IS THE KILLER" set-up. Farrah is in one of her first roles and just as lovely as ever. Adam Brooks talent was not shown enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdb00c2447a5022231738e9faad90d95ef935716839287b1e82fdc8921689eae
+size 467

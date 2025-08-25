@@ -1,1 +1,3 @@
-A very different movie than any other...the closest thing you can compare it to is Tarentino's "Pulp Fiction" but only because of it's multi-linear story. <br /><br />The cinematography rocked. The acting was superb. The sound went unnoticed, so good work guys! But... <br /><br />Usually in a movie like this, the multi-linear loose ends will cleverly tie together in the end showing why these particular characters were being followed. But it never did this. Bill Paxton and Orlando Blooms timelines ran almost totally autonomous from one another; crossing paths but never changing the outcome of the other. It was merely a gimmick. The first rule of film making...everything has to have a GOOD reason.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d5159f39bbe35c7ad50650678738d87cf503441171b5861b18aa2fd4cab15f
+size 704

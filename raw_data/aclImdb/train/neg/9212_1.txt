@@ -1,1 +1,3 @@
-the only value in this movie is basically to laugh at how bad it really is. with a plot that makes your average middle-school writer look good, and acting which is almost as good, it gets my bottom score. one of tom hanks very early films where he obviously didn't have the pleasure to be real picky. the best special effect of the movie consists of a guy dressed up in an incredibly fake rubber monster consume.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad3c30ba63afc4798570a5011cb2e49a27ffeed15422a85554ddbfe631c28c36
+size 412

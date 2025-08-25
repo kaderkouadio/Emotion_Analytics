@@ -1,1 +1,3 @@
-This should be a great film... Meryl Streep and Jack Nicholson co-starring as two newspaper writers. Mike Nichols directing. Uh uh. It's dull dull dull! Pointless and predictable! Slow and unfocused!<br /><br />It's a cookie cutter 'boy meets girl, boy marries girl, boy has affair, girl leaves boy' story. Now theres an original concept! After squirming through two hours (was it only two? It felt like six.)I wasn't sure whether it was a comedy, a romance, a tragedy or a soap opera. It was done in 1986. I'm sure all of us did things sixteen years ago that we rather would forget. I hope the damage to the reputations of Streep et al is beginning to heal and that the emulsion on the master is beginning to fade. It's not that it's such a bad picture. It's just that it's such an un-good one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:807aaa378cd0ff5240a27d9904c2f24217b97d67c386052c459fde7534b5dbcc
+size 795

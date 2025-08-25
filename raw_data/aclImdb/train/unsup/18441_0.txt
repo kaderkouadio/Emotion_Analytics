@@ -1,1 +1,3 @@
-As soon as I saw Neil sit on the chair and pick up a guitar I thought "This is going to be great" and It did not let me down.<br /><br />Through the coarse of the night he plays Guitar and Piano and Harmonica.<br /><br />The best song was "Looking Forward".<br /><br />NEIL IS GREAT
+version https://git-lfs.github.com/spec/v1
+oid sha256:1921d9e9bedcc909f9374a66acbe45aacfb9ca84385edf184aa06d2665231172
+size 282

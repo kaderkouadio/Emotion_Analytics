@@ -1,1 +1,3 @@
-If you live in America and are a "Gods Must Be Cray" fan, you may never see this movie. Although this movie is popular on VHS and DVD in China, it is hard to view in America. First off Jamie Uys did not direct this film. Second off, in order to view this film you must purchase it on VCD. VCD is a type of DVD, but only viewable on computers and some DVD systems. Also if you buy it in English the characters have different names then in the Chinese version. It is also dubbed in English, and sounds kind of fake. But if you are a "Gods Must Be Crazy fan, then I suggest that you see this movie. If you do plan on viewing this movie, good luck finding it, you will need it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:280b0ef5032128e4bfd1a64ec8546817b89884f110369375b1e4e99222355489
+size 673

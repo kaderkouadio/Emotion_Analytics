@@ -1,1 +1,3 @@
-Welcome to Collinwood is one of the most delightful films I have ever seen. A superb ensemble cast, tight editing and wonderful direction. A caper movie that doesn't get bogged down in the standard tricks.<br /><br />Not much can be said about this film without spoiling it. The tag line says it all - 5 guys. 1 Safe. No Brains.<br /><br />William H Macy and Sam Rockwell lead an amazing cast. George Clooney should be congratulated for producing this gem.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:03bfc881f0839dbc665245f5cb4c83106aaa6e8f6b9a6b1a8a1a861bf9ab8ada
+size 468

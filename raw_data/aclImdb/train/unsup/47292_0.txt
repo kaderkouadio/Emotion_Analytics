@@ -1,1 +1,3 @@
-This movie is so bad, one wonders why it was picked for dubbing and video release. Check out: the papier mache heads, bad African makeup, the fire breathing exotic dancer, and a '70's look that was probably dated when this film was released. Please don't anyone restore this, just sit back and watch in a different kind of terror. I exorcize a 1 from this dead trash.
+version https://git-lfs.github.com/spec/v1
+oid sha256:018f6a772afa93e4ed6ad2575ed9c66706d5e4460eeab1e0e2c87ccffad166fb
+size 367

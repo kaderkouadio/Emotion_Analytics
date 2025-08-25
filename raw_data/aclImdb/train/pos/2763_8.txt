@@ -1,1 +1,3 @@
-People tend to complain about the number of films being made about mentally disabled people. I don't see this as a valid criticism, no more than complaints of too many films about any sort of people. Jaco van Dormael does a wonderful job with the script and direction. Daniel Auteuil and Pascal Duquenne work perfectly together, with Duquenne basically playing himself. The film covers a surprisingly large ground of events, and isn't simply content to go over what was seen in "Rain Man". The ending is rather depressing, but it doesn't ruin the wonderful story that has come before.<br /><br />7.8 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45ac228b55f30e84034405b56ad89d295515600b63c51fc3f94907d2169b7f0
+size 609

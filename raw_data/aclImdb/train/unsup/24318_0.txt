@@ -1,1 +1,3 @@
-Some of the worst dialogue clunkers in the history of cinema. Utterly unrealistic situations and characters. One must suppose that writer/director Hruska thought he was making a charming movie with aspirations to pay homage to Hollywood comedies of the 40s. Problem is, this movie does not have one funny line in its bloated length. Also, the subject matter does not easily lend itself to breezy comedy, and most certainly does not the way it's treated here. Performances are lackluster with special mention going to James Badge Dale as Ben. Mr. Dale has the charisma of a warm turd and, strangely enough, the acting ability of one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaa5c66d00e2fd7d39cff0d18a75da244acfa55283618136a4052cb9e3406ffa
+size 632

@@ -1,1 +1,3 @@
-This one acts as a satire during the women's rights movement era. Of course, that doesn't mean COACH (the movie) is a wonderful experience to behold. It runs into the same vein as FASTBREAK (which was better, but still tame), and is basically standard fare fluff. What I mean for this movie being uninteresting is simple to recognize. Anybody who serves time away from a normal job by training a bunch of lunatics earning their way to sudden victory makes waste. It's the same feeling you may get after watching this. A nice attempt at casting the opposite sex for a man's duty, but I expected better things.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab6ce376e0d9fd18979fbb2794d2ac1c48ed01ef82d4bbe52e233359c0f15a30
+size 608

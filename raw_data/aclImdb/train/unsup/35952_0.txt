@@ -1,1 +1,3 @@
-Not the worst movie ever, but not even mediocre. Set at beginning of summer break, yet the season is quite obviously fall. Although I've seen both leads in other films that were fairly good, this one really leaves good effects and acting behind. The story is old, the filming is discount and the graphics moderate at best. Once finished, it may be that you feel dismay at never getting those two hours back. Life's too short for films of this caliber, so go throw a ball with your kid or take your spouse to dinner. Many activities would be less a waste of time. The music gets at least a four out of ten. All in all, good movie to throw on in the background while you're cleaning out your laptop files.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2aa3805808f7a217da23bcaa1294f9a43d6dee5345092212f38dd4938120d8
+size 703

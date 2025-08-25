@@ -1,1 +1,3 @@
-Being a Russian myself, sometimes it's hard for me to get the reference jokes about American TV personalities or celebrities. Apart from that, Family Guy is the smartest, funniest and most politically incorrect shows seen on earth. The voice acting is excellent and sounds clear enough even for a non-English speaker as myself to comprehend. Animations are good too, maybe even too good for a TV-show. Here we have the equivalent of the Adult Swim Channel, but nothing there simply compares to this gem. Not even Simpsons or South Park. Hope the creators will continue to entertain and amuse us. Don't want to see the whole thing spiraling down into mediocre entertainment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:720ce1c6ffdcc295284790873e90f95d74b7be987bcd2023d52ecbfb00142bf7
+size 673

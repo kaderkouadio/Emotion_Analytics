@@ -1,1 +1,3 @@
-I am being in no way facetious when I say that this movie was worse than any other movie ever made. Worse than "Batman & Robin". Worse than "Manos, Hands of Fate". Seriously, it's that bad. When people tell me that a movie is terrible I use the "Two Girls" scale to figure it out. If the movie is comparable to "Two Girls" then I won't watch it. If it's twice as good, maybe I'll watch it, but only to laugh at the retards who paid somebody to make it, because a movie twice as good as this one would still be a piece of garbage.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4870b8d16532291e8414e6611b7df91cf887b437f69cf49e3fa5fa8ace4eebb
+size 529

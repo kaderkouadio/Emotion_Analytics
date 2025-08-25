@@ -1,1 +1,3 @@
-I cannot believe this woodenly written and directed piece of cliche film got made. There are about four good looking shots (the director should think about switching to still photography) and that's it. A strong cast is utterly wasted, scenes repeatedly end at the least interesting moments and the script says nothing new. Please spare yourself this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b41a8b5470189778462001b1c7bab13fc72efec3892478aa5a10ba983725b38
+size 357

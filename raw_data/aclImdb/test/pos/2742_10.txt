@@ -1,1 +1,3 @@
-This short, which won an Oscar, spawned two sequels and a TV cartoon show, has minimal animation but adelightful script (by Theodore Geisel aka Dr. Seuss) and aneven more memorable and enchanting main character. UPA pioneered a style of animation that even influenced Disney during the mid-1950s and produced some of the best animated shorts done in the late 1940s and the 1950s. This is on of their finest. God to have it in print. Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5326ad8fe9f3ab97f2484efa586a82f29e6e550c040afdc29d203a7695337b7
+size 452

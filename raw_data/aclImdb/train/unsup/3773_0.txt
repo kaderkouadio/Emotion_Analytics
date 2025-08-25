@@ -1,1 +1,3 @@
-This film is slow to start, and only picks up a little bit near the end. There is no real suspense during the movie until the last 25 minutes or so when we are hoping to find out what happened to Saskia. The whole dream of the golden eggs could be pulled out entirely and wouldn't change the movie any. Overall, I gave the movie a 4 for being slow, with not much suspense and little plot development.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f7d7e195b1845edbdc9b7449f70f3fb04cd78b853e31f89e2bcf37b1d399e10
+size 400

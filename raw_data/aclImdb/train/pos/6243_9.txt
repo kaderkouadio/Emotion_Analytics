@@ -1,1 +1,3 @@
-a movie about the cruelty of this world. I found it liberating, as only truth can be. It also contains some quite funny bits. Some of the acting is extraordinary, see Maria Hofstätter for instance. The director has tried to depict life as realistically as possible, succeeding. Coherently, the sex scenes are explicit and no more fake than those of a hard-core movie. Although I hardly understood a sentence, I found the vision of the movie in the original language with subtitles much more rewarding, because with the dubbing half the great work of the actors gets lost. The voice of the character played by Maria Hofstätter is particularly hard to duplicate by a dubber.<br /><br />My favorite movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea75a7c23c0301e8e6d981492a3aa450a5d1ac77945157f3818acf14738f5775
+size 703

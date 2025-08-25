@@ -1,1 +1,3 @@
-Finally- a true independent film that believes that well developed characters, realistic dialogue, and a true to life story make a good film instead of explosions and potty humor. <br /><br />Every performance is nuanced, every character flawed, every joke funny... and it clearly a labor of love. I look forward to when this movie is released in more theaters so I can see it again. Who doesn't want to watch something that makes you feel good in an entirely plausible context? It is nice to escape when you are the movies, but it also nice to believe what you are escaping to can happen.<br /><br />I actually believed the people in this movie were a family and cared about each other. And who knew that the lobster business would be so interesting?
+version https://git-lfs.github.com/spec/v1
+oid sha256:694768c4de255ce4a13e2d95c91f26853e2aaabb07cd0239d7046d59df5ba12a
+size 751

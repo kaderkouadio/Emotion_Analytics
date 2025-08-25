@@ -1,1 +1,3 @@
-I liked this movie, it is a movie filled to the brim with cheesy dialog. I don't think that it should be a movie just for children to watch, I am 20, and I thought that it was pretty cool. I also loved the fact that Tyra Banks was a black doll, and the other cast members were white, you just don't see that very often, Had I not known that Tyra Banks was playing "Eve" the life-size doll, I would have figured that the person picked to play "Eve" would have been white, hey, that's just the way the world works. You should watch this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21cafd0fa2799d60b13eeebdc2d48049346654c59b36aa554435ef83b40816d2
+size 541

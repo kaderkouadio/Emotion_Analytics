@@ -1,1 +1,3 @@
-Witty and disgusting. Brash and intelligent. BASEketball redefines comedy/sports with a pot spoof of an easy target. Makes other so called comedies like dead boring. One of the best of all time! Trey Parker and Matt Stone play their roles as losers with apt perfection.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabbdc7e4084966a6b9e9abf45f001887c6d53460287d3ab7a326e01c9e11313
+size 269

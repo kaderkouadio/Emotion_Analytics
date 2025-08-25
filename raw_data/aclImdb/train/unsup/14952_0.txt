@@ -1,1 +1,3 @@
-At the risk of sounding like a broken record,this film is more or less a remake of Die Hard,only the skyscraper is replaced with an airplane, and our ordinary tough guy cop is replaced with the leader of the free world.Knowing this fact,it's still a good film.Harrison Ford makes a very believable president,and Gary Oldman a very convincing baddie.Although you know where the plot is going,something about it compels you to continue watching.The very fact that they are thousands of miles in the air grips me personally because I am not very fond of heights,and I found myself gripping my chair arms very tightly as a result.This is basically a "run of the mill" action flick,but still good nonetheless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f155f2973489278513ea13cd1445bcbd30b09ffbefdc5179a200d01c4fd41739
+size 704

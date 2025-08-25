@@ -1,1 +1,3 @@
-I suppose I shouldn't have expected any more, but I did. The animation was good, sometimes really good, though not nearly as good as the pre-release hype built it up to be, but the story was weak. Really weak. Then there were the truly insipid and lame jokes (fart jokes? why would ROBOTS even understand fart jokes. That sort of humor was very distracting. And those may have been the high points of the script. The cast worked hard with it, tried to give it some sort of freshness, but the script was so weak and dated that it just never had a prayer. The material was old and tired, and the sight gags were even older (did they resurrect Moe Howard to choreograph). All in all, I was bored and disappointed in this movie and hope to never see its like again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d50eb3b4324d289daec5f0bce4d8fb636b4531cd8e51cc0638a2bec5ea95b067
+size 761

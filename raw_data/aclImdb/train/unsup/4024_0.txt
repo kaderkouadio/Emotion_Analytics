@@ -1,1 +1,3 @@
-I discovered this show only months ago, and was so mad that it had been on so long without my knowledge. I am not interested in becoming an actor or director, but I am a movie lover to the core and am always interested in what actors have to say. These interviews are wonderful because they are not the average "hollywood" interview. It's not about who the actor is sleeping with, and how hard they've been partying. The interview explores the reasons behind the career choices, and experiences of filming. It is much more real, and deep, and interesting then any others. You really feel like you are part of the audience, and you get to see a different side to some very incredible actors and learn something new. I love it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3718fc9d2f7cdd707da96d797dd44278c33697f49f9f60eac5e548353c9c112
+size 725

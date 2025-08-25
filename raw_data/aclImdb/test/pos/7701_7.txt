@@ -1,1 +1,3 @@
-A man and his wife are not getting along because of the wife's jealousy and drinking problems. When the wife disappears, her sister begins a vigorous search involving the local police, state government, and a television crime show. What she finds out stuns the entire community. Good drama with lots of fine performances; based on a true story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0837555eeb6976aba07b54446a9b7598d44a79476cb6a2b5d46141b74b9ab1b8
+size 344

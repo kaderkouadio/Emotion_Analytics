@@ -1,1 +1,3 @@
-I agree with all the accolades, I went through a box of tissues watching this film. It had a gritty authenticity and rang true in every way.<br /><br />The question I'm about to raise represents a current sensibility regarding the treatment of animals. I had a very difficult time with the beginning slaughter of sheep and goats, and the dying deer with its pulsing neck and pooling blood as its life drained away was hideous.<br /><br />This is the age of "no animals were hurt in the production of this move." Iphigenia was made in the late 70's before the advent of computer simulation. Was it possible to fake these animal deaths? Or were these animals slaughtered for art?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cb46441a26e495c3010f63883419497f6bee05566da3523a2bb4256514816a
+size 677

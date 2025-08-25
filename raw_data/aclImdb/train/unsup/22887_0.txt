@@ -1,1 +1,3 @@
-this movie is filled with the songs of john denver, hence the name "sunshine". <br /><br />kate is dying of cancer and doesn't want to take medication or chemo to prolong her life. she is an earth mother and loves the mountains.<br /><br />this movie was based on a true story.<br /><br />she leaves behind a tape recorded diary for her daughter of things she wants her to know about as she's growing up.<br /><br />her husband sam is a struggling musician and plays the guitar.<br /><br />it has romance, tears, and humor.<br /><br />there was a short lived t.v. series based on this movie and a sequel called "sunshine Christmas".
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8c015bfe4cce7d4ad0aebfda786d99d7477970d05d1ab259db1bfda34890abb
+size 632

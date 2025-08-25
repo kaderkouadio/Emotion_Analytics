@@ -1,1 +1,3 @@
-Secret Rivals doesn't have a great storyline, but the actors know their kung fu! The movie features a good deal of fighting, and some excellent practice sessions.<br /><br />The version I saw had very poor picture quality and not all of the subtitles were visible. This is of course a shame, and contributed a great deal to the fact that I only enjoyed this movie moderately. But if it was available in DVD quality, with a clear and crisp picture and sound, it would be a great experience.<br /><br />This is the kind of movie that Bruce Lee SHOULD have done. His presence here would have elevated this to a world-famous classic.<br /><br />My rating: 7 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ebd06efce1e05d0f44aab011e705a5df01d9767416298a6871f102ed1d0fdf
+size 664

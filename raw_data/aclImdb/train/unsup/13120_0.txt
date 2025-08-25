@@ -1,1 +1,3 @@
-One must watch this film closely or run the risk of missing something very relevant. I watched very closely and still missed the whodunnit part. Like Agatha Christie's Hercule Poirot [another weirdo dick], big Nero likes to gather all the suspects' together and tell each one how the caper went down and then name the guilty party. Somehow, the big finale went straight over my little pointy head: I still don't have the vaguest inkling who the baddie is. Still, I consider this a very good film: loved the locales and old cars. What a great study Nero had. I'd give a month's pay for that red chair.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475fc22b22c98cb1047eb1758daa10b3cc985b7e5708991b655d33cfc37d56ca
+size 600

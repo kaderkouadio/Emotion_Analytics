@@ -1,1 +1,3 @@
-This was a blind buy used DVD. It totally killed a nice buzz I had going when I hit play.<br /><br />It's bubble-headed comedy, but it's um. squalid. The plot is ZANY!, but the characters do things to each other that are so petty and disturbed and conveniently contrived I ultimately found it depressing to watch.<br /><br />Maybe the box lead me to expect something more than an uneven, goofy caper film. (I know, I know, the quotes on the box & the Academy Award nomination mean nothing.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9671b9f68cd419b5a530f3e4523f1a40533e77ee5a5185ec17380e4689dba034
+size 490

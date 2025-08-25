@@ -1,1 +1,3 @@
-The movie starts out fine. Widower out with new girlfriend and the children.<br /><br />The movie is filled with stupid director's choices. Like "lets separate." "I am coming down to...." do what? Stupid Stupid Stupid.<br /><br />Please do not waste your time hoping that it will get better.............. Not hardly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4795a07680efde161aca86aa4d4ae1e1bca52a6d567aa3867630fdfe33871fa5
+size 316

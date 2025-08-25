@@ -1,1 +1,3 @@
-This movie was good... about as good and tasty as a cow manure sandwich! Every now and then, I suffer through watching movies made by a group of severely UNartistic and UNtalented people. I like to see how NOT to make a movie. I'm just not a fan at all of these "campy" horror flicks. Sometimes they turn out to be more comedy than anything, laughing at how dumb the whole thing is... with Uncle Sam I mostly just rolled my eyes, lookin' forward to the ending credits.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd9319a8c33f647d16606c8f708ec88f5a363d80c17f85029c15503a16ca53f
+size 468

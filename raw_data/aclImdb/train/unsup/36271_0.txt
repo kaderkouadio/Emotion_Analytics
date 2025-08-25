@@ -1,1 +1,3 @@
-Garbage. Honestly I don't know if this had any redeeming features. Hmmmmm....I think it was a short movie, but I'm not sure. Somebody tried to give two talentless, unsympathetic gimps hip, trendy, Tarantino-esque dialogue, but failed miserably. The hitman is utterly ridiculous in every sense. The acting stinks, the characters stink, the script stinks. I guess I kinda like the title though...
+version https://git-lfs.github.com/spec/v1
+oid sha256:d756ddf2c3212bc6d58e941de280b7eebeb304663511e5357f089b730f6ceb66
+size 394

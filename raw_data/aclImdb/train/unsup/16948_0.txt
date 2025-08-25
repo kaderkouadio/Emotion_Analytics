@@ -1,1 +1,3 @@
-"Spartans" superbly demonstrates the problems American advisors encountered in Vietnam before the United States escalated its involvement. In an attempt to explain the eventual failure of America's effort, this movie reveals the inherent difficulties of fighting a guerrilla war in a foreign country.<br /><br />This movie offers good characters, especially Burt Lancaster as Major Asa Baker.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57f62dedc83a22fce4f697128f16abc9842bfb179af4aed81346076c1e921e30
+size 392

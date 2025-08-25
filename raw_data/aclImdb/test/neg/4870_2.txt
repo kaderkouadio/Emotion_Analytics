@@ -1,1 +1,3 @@
-This movie is filled with so many idiotic moments, that you wonder how it ever got made. For example, they get into the sewers from the Capitol and while they're in the sewers you can see signs pointing to various government buildings, and then they come up in the middle of the street! I highly doubt that government buildings would provide public access through the city sewer system. Anyways, I gave this a 2 instead of a 1 just because of its comic value. I laughed the whole way through at the idiocy of everyone involved in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbfa4054072787d743c951f91a6ba2ee4ef12c94f3c92fc42d653f2f31739bee
+size 541

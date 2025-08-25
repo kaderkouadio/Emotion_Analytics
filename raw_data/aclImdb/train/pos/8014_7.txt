@@ -1,1 +1,3 @@
-But if you like the muppets I defy you to dislike this one. Basically the same plot regurgitated (this time New York, not LA) it features a lot of fun cameos and muppet hi-jinx. A lot of the muppets leave the film pretty early on as it centers around Kermy and Miss Piggy. I happened to have enjoyed it greatly. Fun to watch with your kids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9f48cc9b2b579fb696ac06fb06efbfe3e65236d7256fd0142a51db32a8951b8
+size 340

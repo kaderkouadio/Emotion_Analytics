@@ -1,1 +1,3 @@
-I loved this movie so much that i now own it and every other Kevin Smith flick. This movie does not have as much laughs as "Clerks" but certainly makes me laugh a great deal. Kevin Smith is a genius writer and director and it's just a shame that the Jay & Bob flicks are done. But anybody who wants to see a funny movie, i recommend Mallrats. This was the first Jay & Bob flick that i saw and it made a great impression on me. Brodie is the best and funniest character in the Jay & Bob series. I give this flick thumbs up. 7.5/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:433b895ec580850332bed365d59f3fbf3d48514c30c0fc0b12a19f3728fd5d68
+size 529

@@ -1,1 +1,3 @@
-A nuclear bomb in Los Angeles, WWIII looming on the horizon, and it all comes down to one man, Jack Bauer (Sutherland), to save the day. Although a bit more contrived than season one, the second season of "24" follows the same formula as the first season with 24 virtual hours (16 viewer hours) jam packed with twisty-turny crisscrossing subplots, suspense, action, drama, and, of course, those countless looks askance. If you haven't seen this incredibly popular Emmy winning series, rent the first DVD in the first season first and see if you don't suddenly find yourself a "24" junkie lusting for more. A little something for everyone 13 and up. (B)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe1076e9b44c99182f8a5e2168596cff90e083ee8602b51435329cf1622554a
+size 652

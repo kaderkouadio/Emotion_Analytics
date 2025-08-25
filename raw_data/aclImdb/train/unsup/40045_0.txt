@@ -1,1 +1,3 @@
-Bob Hoskins does the most convincing American accent I've ever heard a British actor do, but directing doesn't seem to come as naturally as dialect. This movie features unattractive leading children, unbelievable school situations, stereotypical 'media' types, and completely fails to persuade even the most credulous that the magic is *there*. Special effects are variable, but generally poor. Unconvincing acting ruins what might have been rather good dialogue. It's a shame. I really, really wanted to like this movie, but there was no there there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c48e462932cf5cc64b92b086cb6f09e119c5a88bf4d647de0677115bbd20c84
+size 551

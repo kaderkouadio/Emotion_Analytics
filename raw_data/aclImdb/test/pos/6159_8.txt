@@ -1,1 +1,3 @@
-Engaging entry from Europe about Czech fighter pilots flying for the RAF during WW2. It's always interesting as an American to see a new point of view on familiar events in history. There's nothing terribly original or revolutionary about the style in which this is filmed or the romantic love triangle that anchors the narrative. Still, it is compelling all the way through. There is a good balance between drama, romance, humor, action, and symbolism that is understated beautifully by the director and cast. This is a breath of fresh air after sitting through overblown and boring Hollywood epics like "Pearl Harbor." A solid production all around. This is definitely worth your time if you are a fan of foreign cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb09d7dbb0299f6c9deaed4e8f48388ee13e4a4795a37a11455f250bd342d469
+size 722

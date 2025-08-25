@@ -1,1 +1,3 @@
-This is a great movie, all 3 were. The last one was not as good as the first 2 but it was made along time after and it was pulling at straws. But you want to watch it cause it tells the end of the story. Just not how we might think it should end.<br /><br />These movies made me want to be there to be in all the hardship, love, tears, and laughter that the people in this movie go threw. It is one of the few movies that is good every time you see it no matter how many times that is.<br /><br />There are some parts in the movie that the little kids wont understand and the older ones maynot be old enough to watch. but it is a great movie, spanning over 20+ years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a49b2fbcc8ab985ccf466e69c32db07b9c462a8af7ffc24fee6abb2421c2c81
+size 667

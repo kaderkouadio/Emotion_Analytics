@@ -1,1 +1,3 @@
-I loved this film, seen this evening on a movie theatre big screen! The audience laughed out loud at some very interesting things, and the fast pace was most enjoyable.<br /><br />I do, as a singer and musical director, question one section of Roby Keeler's vocal in "By a Waterfall." The key modulated, and she was suddenly singing much lower, in a very mellow voice that bore no resemblance to the somewhat tin-like higher twitter voice she used in all her other vocals.<br /><br />Does anyone know if this was overdubbed by another singer? It sounds it to me. I would love to know.<br /><br />Thanks so much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1963689c499c981c1f6d3c2d84adde6ceb627b1eccdeb60b6984598b8d96b5
+size 611

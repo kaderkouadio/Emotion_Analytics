@@ -1,1 +1,3 @@
-a very mediocre film based on a superb series of stories and novels. I hope Somebody, someday will be able to film it the right way. In the meantime, look for the books (by A. Sapkowski), a very inteligent, postmodern fantasy. By now there should be a translation in english, there translations in german for sure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25b349ceacc64a7ef270b5fb41223a1d95ff66b71b2e35f1d1d9746cef66e491
+size 314

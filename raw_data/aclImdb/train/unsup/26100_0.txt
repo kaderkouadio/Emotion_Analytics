@@ -1,1 +1,3 @@
-It is beyond me why two million Danish people each week sit down to watch this terrible show. The dialogue is terrible and not realistic. The characters are hollow and simplistic. There's a tough man, a tough woman and a sensitive man. The writers actually say that they have modeled the characters after Greek mythology! Give me a break! All the characters are of course brilliant policemen. When I have watched this show I have longed for "District Hill Street" and "NYPD Blue". These are brilliant shows, and "Rejseholdet" is a lousy copy. This program is a symptom of the disease Danish television is currently suffering from.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4c3435a3d790a357d3c95846040274379b487b8e5a3458c7df47a480250a6d6
+size 630

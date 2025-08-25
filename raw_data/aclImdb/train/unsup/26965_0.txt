@@ -1,1 +1,3 @@
-Bought my own copy. A film in the old style with many faults, but for someone who enjoys flying fliks, especially World War One aviation, it is great. Dialogue is terrible, the acting bad, plot predictable, but it has airplanes and derring-do in the air. All the "Dawn Patrol" cliches are there. Good fun and well worth seeing...if you like this sort of thing. I do.<br /><br />cheers, Boom
+version https://git-lfs.github.com/spec/v1
+oid sha256:486778cddb7c2b12469c7eaf48c313216b83487e3027ff433931f09364ec4611
+size 390

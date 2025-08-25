@@ -1,1 +1,3 @@
-I just watched this film for the first time in many years (thanks TCM), and it's still very funny. It's also touching, as the portrayal of early-adolescent personalities is often quite moving, between gut-busting guffaws. The stereotyped "Little-League parents" are drawn very realistically as well, and Joyce VanPatten's turn as the bitch of an equipment manager is superb. <br /><br />Having been unathletic as a child, I still get damp around the eyes every time Timmy Lupus catches that fly ball. Even though I would've hated him if I'd known him in school, I now admire the spunk and tenacity of Tanner. There are lots of great lines in this script, and I look forward to seeing the film many more times. Bears rule!
+version https://git-lfs.github.com/spec/v1
+oid sha256:939a3f10b96d6f6b8e9026c0a7c561fb8e0889f805c10c41af24313085a38219
+size 721

@@ -1,1 +1,3 @@
-That so many good actors would get together in such a bad film. This movie's premise seems to be "take a cast, put them on an SST, and then subject them to trouble after trouble." I also find it hard to believe that so many good actors would have an off day every day of filming and at the same time. How many of their careers didn't get ruined by this film is beyond me, especially that of John de Lancie. Avoid this one at all costs. Airport '79 was a much better film, and Airplane! was a whole lot funnier.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1312c973e688ec13b29e30c300859e83a9c5ca90522bfd01701c86e423422913
+size 510

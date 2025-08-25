@@ -1,1 +1,3 @@
-I have cried in a total of 3 films in my life... Number 1, Bambi, when his mum dies.... Number 2, City Slickers, when Norman the Calf gets dragged down river and nearly dies... and finally, Number 3, Highlander II, as it soooo bad! Remember Highlander? The Locations, The Soundtrack, The Kurgan, The Plot...<br /><br />Now, take it all away and replace it with...<br /><br />Awful red sky effect throughout the film, Couple of old Queen songs from the 1st film, Michael Ironside doing a bad Kurgan impression and a "plot" that doesn't have any relevance to the original plot...<br /><br />That is Highlander II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d50a8635e869df4f7f51b966bcacee2a9f4166d927d76660012f4560de00d89
+size 611

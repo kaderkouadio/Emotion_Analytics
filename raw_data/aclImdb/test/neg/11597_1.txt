@@ -1,1 +1,3 @@
-A group of environmentalists travel to an island to uncover a secret lab that is experimenting on animals. When they arrive, they discover that they are to late. Apparently the government made a scientist test his experiment on a komodo and, yes, you guessed it, a cobra which made them grow very large. I'm not sure that this movie really needed or deserved explaining since it is almost identical to Curse of the Komodo which also sucked. The computer effects are as cartoony as ever an the komodo roars like a dinosaur which really got on my nerves. Like Boa vs. Python, this movie is not worth seeing and is about as much fun to watch as it is to nail your hand to a table. Avoid!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cfbea69c449ed6eb05b304723f3f5e9448547312479318c20fcd23345dad7f4
+size 684

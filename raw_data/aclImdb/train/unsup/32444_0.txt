@@ -1,1 +1,3 @@
-The other name for Lethal Orbit is Countdown to Disaster. Let me tell you that title fits this movie. The endless courtroom scenes are just too dull. The DVD case is misleading in that it looks pretty interesting, but that is about it. Don't read this movie by its cover. I bought this movie because Jan-Michael Vincent made a appearance in it. Well, I made myself stay awake long enough to see his performance as Riff. I quickly fell asleep there after. If you are having trouble sleeping this movie is a great insomnia cure. Because it had Jan-Michael Vincent in it I will say it is not a total waste of film, but it is pretty close.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d10bd0bacc968445cbbb5307beb63afb8b397f9e685eb62786d8d7f323a43f5
+size 635

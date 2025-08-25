@@ -1,1 +1,3 @@
-Hands down the worst movie I have ever seen. I thought nothing would ever dethrone Last Action Hero, but this does easily. The movie is about 3 single guys who meet on Sundays to discuss their sexual escapades from the weekend. A fourth guy - who is married and - that used to be a part of the group shows up and talks about what he and his wife do. Nothing works in this movie. The jokes are not funny but they are repeated throughout the movie. The big kicker at the end of the movie is laughable. Avoid at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c7309ef241aae5c60ea636e9de4c5f571cb3efe35cf7105af21ec5849e5bbf
+size 519

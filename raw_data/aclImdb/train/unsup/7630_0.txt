@@ -1,1 +1,3 @@
-I enjoyed the movie very much. I thought Lee Majors captured the essence of Will Kane better than Gary Cooper. David Carradine was great as a likable, not so bad, not so good, down on his luck guy, who wasn't real particular about the letter of the law. Bonanza's "Adam" was a particularly unlikable bad guy as the law officer who conducted himself and the duties of his office to satisfy his own personal greed and needs. The theme of a wrong, for which the good guy seeks recompense, was good and evident throughout the movie, as it evolved into a theme of "standing up to evil." Lee Majors was great as Will Kane, just trying to do right and finally not being able to walk away from evil, knowing he had what it takes to fight it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c2f0b744b45cff9b6c86d68cc8ce9bf48262abdefe482d7055ed4198449187a
+size 733

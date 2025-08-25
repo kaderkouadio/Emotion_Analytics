@@ -1,1 +1,3 @@
-I show this film to university students in speech and media law because its lessons are timeless: Why speaking out against injustice is important and can bring about the changes sought by the oppressed. Why freedom of the press and freedom of speech are essential to democracy. This is a must-see story of how apartheid was brought to the attention of the world through the activism of Steven Biko and the journalism of Donald Woods. It also gives an important lesson of free speech: "You can blow out a candle, but you can't blow out a fire. Once the flame begins to catch, the wind will blow it higher." (From Biko by Peter Gabriel, on Shaking the Tree).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc7220f4b6450533c43290bcc6fba478750bdfcf549b8e3ea84c9e01022c0e0
+size 656

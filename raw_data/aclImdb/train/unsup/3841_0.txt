@@ -1,1 +1,3 @@
-This film looks at the lives of an American cabaret performer and a British writer in 1931 Berlin as the Nazis are coming into power. The musical numbers, which are confined to a nightclub, are excellent, brimming with energy. Most of the film, however, is devoted to the vapid love life of Minnelli and York, and it is not very interesting. Minnelli performs with gusto, but she and York have no chemistry and their relationship is not believable. They become the best of friends hours after meeting. While Fosse gets credit for the musical numbers, what was the Academy thinking in giving him the Best Director Oscar over Francis Ford Coppola for "The Godfather?"
+version https://git-lfs.github.com/spec/v1
+oid sha256:badb7173feba8efba722dbac6e5056afac0d42f407e64895623935d53cb42dfe
+size 665

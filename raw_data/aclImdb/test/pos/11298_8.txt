@@ -1,1 +1,3 @@
-WONDERBIRD, certainly an unbelievably refined cartoon, drawn in a deliciously oldfashioned way, and sensationally oldfashioned in almost any respect, takes place in a kingdom ruled by a mean and heinous monarch; accordingly, the kingdom, or at least what we seethe surroundings of the king's palace, seems devoid, uninhabited.<br /><br />A few inhabitants there areaway from the Sunin the withered underground city.<br /><br />An advicecall it an allegory, call it a parable, only do not call it a fable.<br /><br />Because IMDb encourages prolixity, and maybe for other reasons as well, I will add that this cartoon is the work of the great Paul Grimault.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a95617d7f01212a695ba3819f74c8537ac3d205364afdb53976c6a9cb9b28a39
+size 668

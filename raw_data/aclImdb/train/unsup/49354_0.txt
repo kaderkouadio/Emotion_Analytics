@@ -1,1 +1,3 @@
-This is not the worst film ever made. I can't think of what that one is at the moment. I'll have to wait for my eyes to stop bleeding.<br /><br />Actually, there are two mildly redeeming factors. John Carradine, whose two minutes on screen probably comprised half the movie's budget, and Kitten Natividad dancing topless for about thirty seconds total. Yeah, that's it.<br /><br />Another line. Another line. Another line. Another line. Is that enough for that ridiculously arbitrary ten line rule? Apparently not. Let's keep adding pointless text until this so-called comment meets the minimum requirement for mindless bureaucratic self-aggrandizement. Some suit trying to qualify his or her paycheck came up with this rule, undoubtedly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:548d14e8e82a97aaf87c70fede0e4b84b8c07d9cadf1523e082bb1ef7b4a172c
+size 738

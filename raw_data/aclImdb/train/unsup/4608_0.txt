@@ -1,1 +1,3 @@
-This was a good movie with a great story! I liked Danielle Panabaker's character in this one. She plays a mom who is still in High School and has her divorced mom takes care of her son while she's in school. In the middle of the two of them is Jacy's sister Macy who is felling the abuse of the mother/daughter relationship. The father of the baby is nowhere to be found. That is, until the middle of the movie where we see Jacy going to see him and tell him that he has a kid! He doesn't believe her and rejects her! Jane Krakowski plays a teacher that talks about teen sex and having babies. The catch is, she can't have any kids. So she goes to a Dr. that tells her she has to adopt! It's definitely a good one to watch!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f4364861ded58fe1ded0ba63b192d94cb70cc2024f10a5a221cad414452706d
+size 724

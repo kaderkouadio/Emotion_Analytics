@@ -1,1 +1,3 @@
-I took two of my kids to see this abomination the other day, and couldn't wait to get out of the cinema. It's just truly dire.<br /><br />I wasn't expecting Pixar levels of animation, but I certainly wasn't prepared for quite how bad it turned out to be. And as for the story... well, at least it's being environmentally friendly by recycling every cliché it can lay its hands on.<br /><br />The voice acting is more wooden than Keanu Reeves (now that's not something I ever expected to type!), but given the script it's not entirely surprising - it sounds like the 'talent' just phoned their parts in.<br /><br />Awful, awful, awful.<br /><br />Avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:230f37c41aa2d70619a90dbae4555b16918439df327f7046d2e36387bca645ed
+size 653

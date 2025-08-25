@@ -1,1 +1,3 @@
-When I think about this movie, all the adjectives that come to mind somehow relate to the physical appreciation of the world. Texture, smell, color, that's how I think this movie should be judged in terms of. See the rich golden tones surrounding the young concubine asleep by the fireplace, or the sweltering turkish bath, and let it flood your senses with impressions of spice, coarse cloth, smooth skin, scented oils, flickering flames, satin rustle. Don't just watch and listen, be absorbed, let the droning voice of the storyteller mesmerize you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b550551c6618e4f29e1fd6b8daafd096c7b7f2416d93686d6f12b09c8a434008
+size 551

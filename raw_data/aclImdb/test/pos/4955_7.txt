@@ -1,1 +1,3 @@
-This was a pretty good movie. I love fighter jet movies, and this was the best one I've seen lately. It was made using real planes, so that made it an even better movie. If you like watching U.S. F-16s blow the living daylights out of their enemies, this is a great movie for you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:599f440a21423bdcfa3a22c2b3e4a64ba3f71b9a50cda81870bba9684b6ca6dd
+size 280

@@ -1,1 +1,3 @@
-I really think it's funny when someone writes "I serious it Retarded of a cartoon." <br /><br />Wha? This person cannot even write a simple sentence, yet they feel they can bash a show that is obviously superior to their own banal excuse for intellect - and I don't even know what that means.<br /><br />Apparently they are not "Responsible" or "Dependable" or "Reliable" or "Not an Idiot". And what about CN being 90% cartoons? Umm. CN = Cartoon Network. Hmmm.<br /><br />Maybe I have misjudged this person and really they are a comedic genius that deserves to be revered as sublime. <br /><br />The Monkey Show Rules whether or not you are smart enough to know it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d66960ff0bbc67b31e3a11fe96c03f6e1c01a2271c183b8644b4ad0f7cd2ca29
+size 666

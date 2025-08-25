@@ -1,1 +1,3 @@
-"Girlfight" follows a project dwelling New York high school girl from a sense of futility into the world of amateur boxing where she finds self esteem, purpose, and much more. Although the film is not about boxing, boxing is all about the film. So much so you can almost smell the sweat. Technically and artistically a good shoot with an sense of honesty and reality about it, "Girlfight" is no chick flick and no "Rocky". It is, rather, a very human drama which even viewers who don't know boxing will be able to connect with.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9779a6c1d52f2cce67e54a1a13e3b6e8fce52d65420b1e78a45d80063a0e320
+size 527

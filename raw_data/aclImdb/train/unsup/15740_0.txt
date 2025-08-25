@@ -1,1 +1,3 @@
-I can't believe that this is supposed to be made after the early 70's... I mean even a twelve year old with his home PC could do better in special effects - I will not comment on the story since there isn't any but I think you could see this movie as some kind of messed up modern art what at least would explain why it was made. So if you think you have already seen the worst movie ever - check this out !
+version https://git-lfs.github.com/spec/v1
+oid sha256:3de0714c379933b2b4244b0f048120b48473d9be9f9b9284ee8abcf6d0b038c7
+size 407

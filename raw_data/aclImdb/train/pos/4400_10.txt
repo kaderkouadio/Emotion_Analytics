@@ -1,1 +1,3 @@
-The star of this film is the screenplay. Attention to detail for the period in dress, language ,social mores ( we don't hurt women) and the politics are remarkable. It is a reminder of Kosovo to-day. The subtle pieces in the action scenes are there for an attentive viewer and the choreography of these action sequences is superb. Perhaps this film is to close to the bone of reality to earn the support it should have received. It is like a staircase of increasing violence with well paced pauses of peace and serenity between each step. A great film....
+version https://git-lfs.github.com/spec/v1
+oid sha256:003103b0425a564e9b385659100265c36116f72c179e66c9f60cf7bf732c1130
+size 555

@@ -1,1 +1,3 @@
-Another try, another miss. France may be doomed for not being able to produce a good horror movie. I mean... the least they could do was to shoot the movie in the forest of Brocéliande, but even the forest is fake ! It was shot near Paris ! The subject is useless, the actors are really insignificant and the text makes you wish you were deaf. Nothing could save it.<br /><br />Bad... to the bone. I wasn't warned. I want my money back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:520f1984eb27d6713a1bfdbf30ab248a662fbc146db121b8e459d86a491459f5
+size 437

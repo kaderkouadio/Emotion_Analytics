@@ -1,1 +1,3 @@
-A low-budget movie, and it shows... some pretty bad acting; though Ice T was very good. The movie was slow-moving for the most part, had poor audio and equally poor visuals: dark and grainy; the casting was pretty bad, and thus, the story -which is purported to be 'true'- seems unbelievable. As stated before, the casting of the particular actors and actresses in TRACKS to play 14-16 year olds makes no sense, and even worse, detracts from the film; they're just way too old to play the parts called for. But even if that's a forgivable faux pas, the truth is, at times, this film was just so plain boring that I considered not bothering to see it through to the finish... There's really not much good to say about TRACKS-- But I only paid $1.07 with NJ sales tax to rent it at Red Box, so for a buck/seven, I give it a 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5975ba81c3206d329dd1633f88387e0fc4434cf6bebeaac291fd80be20e6a3
+size 824

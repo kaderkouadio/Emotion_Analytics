@@ -1,1 +1,3 @@
-Bedrooms and Hallways was one of the funniest films of the 1999 Melbourne Film Festival. From the UK, it is about a young crowd of flatmates and their various relationship dilemmas. Much of the humour is centred around a new-agey men's self-help group where they pass around various implements like the 'rock of truth'. They also go on a 'hunter gatherer' weekend with hilarious results. Trust me, you'll laugh your teeth out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:976611bee4e150572173041f184b344cc05927f9cf5c027f52aae59cd7712fb8
+size 426

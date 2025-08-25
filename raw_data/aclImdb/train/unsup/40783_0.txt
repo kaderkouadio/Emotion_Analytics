@@ -1,1 +1,3 @@
-This is a very strange movie. Lets get that down first. It is similar in that regard to recent films like Doom Generation and Freeway 2: Confessions of a Trick Baby. It is violent, can be repulsive and disgusting, and is not for everybody. But if you like this type of film, this is a great film. By all means I recomend it highly, especially if you want to see more of Jennifer Tilly than you have before. Definately an unusal but fun (if you are into this type of film) ride.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba343f8099b458295abd8cc751b903c2877084d1656ac72e67e23fa2477068c
+size 477

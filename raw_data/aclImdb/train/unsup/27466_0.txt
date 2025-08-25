@@ -1,1 +1,3 @@
-Life can be tough when you are a resurrected French vampire maiden. Especially so when you crave a constant supply of ready fresh blood. Fortunately the vampire in this film has her trusty blood-sister to help her out and keep those bothersome American tourists away from the castle. Overall this is a fairly typical Salvation Films' release with the mandatory candle lit atmospheric scenes. Worth a look, I reckon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7426c3ae39f1b9bfeaf8d34d53b50d3a382aed5b56ee03a89693ba066eaa9a1e
+size 417

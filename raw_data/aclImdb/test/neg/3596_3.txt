@@ -1,1 +1,3 @@
-The is one of the worst spoofs I have ever seen. For one main reason: IT ISN'T FUNNY! I laughed a handful of times. The acting is bad, the script is worse. And why those guys had baby pacfiers in their hair I will never know. And you can tell this didn't have much of a budget to work with and it openly hurts the film. They had a good idea going in some parts but it never really came to past. And what was the point about the lead being older than his Dad? 3 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:125edda2311381d503868a4fcb11154bb3c66266da97b8ec4384f415516167d5
+size 470

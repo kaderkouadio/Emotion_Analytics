@@ -1,1 +1,3 @@
-Nothing impressive. An OK late nighter, especially coming from Troma. Set your hopes low and your satiric spirit high and you will enjoy it, although not that much. So many things are laughable in it, yet it is not annoying, or not that much anyway...
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8de1d7c233c81cef6d99fbc50983770c7230f0cd0ffba004e6277175fb14cf1
+size 251

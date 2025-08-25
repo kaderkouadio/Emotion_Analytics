@@ -1,1 +1,3 @@
-This is perhaps the worst superhero movie I've ever seen. What the Roshans have done is simply spent a week watching all the Hollywood superhero movies and spiced it up as 'Desi.'? And who ever on earth told them that Priyanka Chopra fitted the role? No man, don't even think about making the third part for this film. And what's up with the script, character artists and everything? Mr. Rakesh Roshan must take few lessons on writing a powerful screenplay and get rid of lame language. The big problem with the thing is that the Roshans have managed to make a 2006 movie with recipe, that worked only 11 years ago. They've failed to realize they're not making Karan Arjun. (http://imdb.com/title/tt0113526/) Well Roshans, hope to see an original movie next time around!
+version https://git-lfs.github.com/spec/v1
+oid sha256:373671bd4adcae40ff52a2ef72f5691d9d13f06d1d90303557b826805466d3ab
+size 770

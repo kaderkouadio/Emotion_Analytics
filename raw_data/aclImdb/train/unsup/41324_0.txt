@@ -1,1 +1,3 @@
-A very mediocore show. HHH winning really sucked because WrestleMania is supposed to be a "Make the fans go home happy" show.<br /><br />Everything else was hit or miss Mildly recommended
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c2796be2c423837278a14b0a7315414078d1b49072c563c68eea740d58945eb
+size 187

@@ -1,1 +1,3 @@
-Exceptionally silly actioner with braindead leads in a story which would have suited a fill-in issue of Spiderman. The action sequences never really flow as they should, leaving some cool bits orphaned in a sea of sound and fury, signifying nothing. I really wonder how they'll release this one in the West. Sam Lee overacts like crazy, newcomer Edison Chan doesn't display any acting talent yet. The robot is clunky and not very impressive, and the CGI effects (though done by US sfx-people) are ridiculous, totally destroying any remaining suspension of disbelief. I am NOT looking forward to Gen-Z Cops...
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cd626849ca7f19d07fd6a90335fb47a5521250039fbc31cd7e8559ddffe693
+size 608

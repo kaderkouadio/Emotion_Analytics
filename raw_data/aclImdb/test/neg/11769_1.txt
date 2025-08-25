@@ -1,1 +1,3 @@
-I think that this was one of the most trite films ever made. No redeeming features at all. Even my 12-year-old son said it was laughable. May be a good candidate for the next generation of "Mystery Science Theatre."
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8c9ab1f66261f5b7965766192ef853ced5a8968058baa0127f6cbbbc6a5067f
+size 215

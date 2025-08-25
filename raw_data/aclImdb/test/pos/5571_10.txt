@@ -1,1 +1,3 @@
-I'll admit that the first time I managed to catch Sci-Fi's "Sci-Fi Prime" was last week, but despite the fact that I was a huge Sliders fan coming into the experience, Farscape is now easily my favorite of the four shows.<br /><br />Unlike most modern Sci-Fi shows (including, regrettably, the two new Star Trek series), this show manages to be fun without coming across as fodder for MST3K.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c560c7ad670400da3f9b033b16de640bdc3af5095566e15089e10240b324e0db
+size 391

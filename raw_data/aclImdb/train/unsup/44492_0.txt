@@ -1,1 +1,3 @@
-I used to live down the street from Ross Thomas in DC and never had the chance to meet him. According to a story in the POST, Thomas and his wife went out to Hollywood to see the filming. Bronson told him "I didn't read the book." Thomas replied "That's OK. I didn't see your last movie." Bronson was not Thomas' or my idea of the St. Ives character. St. Ives was a thinking man's detective with a wry sense of humor. Bronson was capable of wry humor but he was miscast if you had read the books. I think it was the Thomas novel filmed which is a shame. I think Charles Durning starred in a made-for-TV movie where he played a similar character who is a professional go-between.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c2d30a7da1bd0539ef537fcd58485c5831431dac128ed8f01387f8ea969e6cb
+size 678

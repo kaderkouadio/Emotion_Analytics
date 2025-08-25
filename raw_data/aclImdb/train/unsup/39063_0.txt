@@ -1,1 +1,3 @@
-Even rail buffs will be turned off by this waste of celluloid. A non-connected, early-'80s "Porky"-style adolescent string of puns and bathroom humor that is an insult to anyone who has rented this expecting some railroad action. In fact, the train itself is hardly seen. Get "Silver Streak" instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda71e798d7557049fc0294ea4dc0ac22113feefa0268593a1fb8deb8811c180
+size 300

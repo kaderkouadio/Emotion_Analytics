@@ -1,1 +1,3 @@
-Many superlatives have already been said, and deservedly so, about this excellent film. A suspenseful mystery, well-acted by all major characters. Welles especially, as the mysterious Harry Lime, personifies evil even more effectively (if that's possible) than characters such as Anthony Hopkins (Silence of the Lambs) or Andy Robinson (Dirty Harry). Who can forget Lime's words spoken from the top of Vienna's ferris wheel about being paid for stopping those "dots below" (people) from moving or his Italy & Renaissance v Switzerland & cuckoo clock comparison. Simply, a "must see" film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65347e214ed178d3bee7e2949781450b5d79f0db66185bd5a7ac93f115ef5ec9
+size 588

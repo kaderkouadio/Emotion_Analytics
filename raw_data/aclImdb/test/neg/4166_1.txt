@@ -1,1 +1,3 @@
-This movie was released in all major cinemas in Australia. I watched the movie on the weekend of 7th AUG and I thought is was absolute nonsense (and I am using that word extremely litely). How it got released to every major cinema no idea. The plot seemed simple enough about the world being divided into subclasses and people needed identity cards and the actor Tim Robbins playing an investigator who goes to shanghai to investigate a employee stealing ID cards, which turns out to be the actress Samantha Morton.<br /><br />You think from that summary the rest of the story should intertyne but it doesn't it just confuses the audience even more with different storyline that don't relate.<br /><br />If you thinking of seeing this movie let me save u the trouble DO NOT GET THIS MOVIE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:021c8ac6cb0c4a7230926c52fb8b2a13c66e1611848ece21bba5018df4581524
+size 789

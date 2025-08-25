@@ -1,1 +1,3 @@
-This is a spectacular production! I have seen the show live twice in Chicago and my only problem with the production was the fact that I was able to perceive only fragments of what was going on. The stage consisted of three giant catwalks and the platform and as the action moves from one part of the stage to the next sometime you loose track of what is going on no matter where you are located. As always, this is a thought-provoking sensory overload, skillfully captured in high definition with 15 cameras! The footage was Masterfully edited, one of the best concert DVDs of all times in my opinion! I only hope and wish that they will release this on Blu-Ray of HD-DVD so that we can re-live this extravaganza over and over again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ef02a8c5164e1182930cf7f45755c4e03f0886df6ec9a941ae94f21a89d62e1
+size 734

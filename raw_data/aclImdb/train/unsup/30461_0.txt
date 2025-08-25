@@ -1,1 +1,3 @@
-AQUANOIDS with Eric Spudic www.ericspudic.com "Killers Of The Sci-Fi Sea, With gore & moreThat's a good movie."Lara Nativo is a really nice Scream Queen©.There is a lot of footage of Catalina Island,Kind of a travelogue for Gorehounds.There is some political stuff because of the tourism problem with so many deaths,Didn't we learn from the JAWS movie that danger BRINGS tourists.The AQUANOIDS(monsters) look like the Sleestak from TVland's LAND OF THE LOST.I liked the movie.Great fight scene between man and woman.The casting seems from a Soap Opera employment agency.Some of the acting seemed forced and other times roles could have been themselves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe0cbd494e602544466d3b1e9284b55d96c19e764680117786aada9e98941e0b
+size 655

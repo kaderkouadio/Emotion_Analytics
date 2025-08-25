@@ -1,1 +1,3 @@
-This thriller was better than i thought. It was a real breathtaking and gripping story. Congratulations to Leelee Sobieski, Trevor Morgan and to the director Dan Shepard for this top performance! I rent the movie on dvd and i will buy it of course for my best of dvd collection. If you liked this one don´t miss "Joy Ride" starring also Leelee Sobieski, trust me you won't be disappointed. I gave 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52b630fa6bb8649a00d922736970407bea474c2014e5c31f4ac64a20068841ad
+size 403

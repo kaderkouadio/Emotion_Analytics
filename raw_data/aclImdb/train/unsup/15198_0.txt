@@ -1,1 +1,3 @@
-When you put two people like Al Pacino and Russell Crowe, you know you have a good thing.<br /><br />This movie, although a bit on the lengthy side at 2 and a half hours, keeps you pretty much involved the entire way. Al Pacino plays great journalist looking for the big story, but gets personal when Russell Crowe loses his job as a researcher for a big tobacco firm, and starts to come loose at the edges because of some damaging information he is aware of.<br /><br />The movie provides some very original plot twists, and kept it surprisingly real. They probably could have cut about 30 mins of footage, but after seeing Mike Wallace freak out...I can understand the length. I definately recommend, but get comfy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb947b52d953e9939b2a9bda33e93805244fe286a91a5ff617740788d7b1a50
+size 717

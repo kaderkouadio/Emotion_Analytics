@@ -1,1 +1,3 @@
-Please excuse bad English, I am still learning :) This is excellent film but I think many Americans will dislike it because it shows American soldiers as "bad guys". In true war there is no "good guys". There is no John Wayne who is always right. This movie shows ugliness of war on all sides. But it is still very pleasant and happy movie to watch sometimes. It is not history lesson, it is fantasy. but still it tells truth about war which Hollywood has never done because Hollywood always shows good guys vs bad guys. Even though this is fantasy it is more real than any war movie I saw. I urge you see this movie regardless of what country you from. Pretend you take no sides. You will enjoy this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:789c91e65207d873ab90d163b8cd9a5e74a3a8ecfbdf3f6258d1090f15b11e74
+size 707

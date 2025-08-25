@@ -1,1 +1,3 @@
-Great is Schoolhouse Rock stretched out to a half hour and with not even one percent of the talent. IK Brunel was a pretty cool guy and there's no denying that, but the movie is way too long for it to work effectively. And the songs are really, really annoying. There are simply too many of them and none of them are even very good. Had it been shorter and maybe been about the length of a Schoolhouse Rock video it might have worked. Instead it just goes on. And on. And on. And on. And on. And I could go on, but I don't want to, because just bringing up this cartoon seems to be very painful. Out of the fifty-seven Oscar winning shorts I have seen, Great is the worst.
+version https://git-lfs.github.com/spec/v1
+oid sha256:800901b6827793389842d81cf38913325a018a03305e2a355832fd37b330b708
+size 672

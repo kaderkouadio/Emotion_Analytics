@@ -1,1 +1,3 @@
-Debra Winger's 1987 "Black Widow" is MUCH better.<br /><br />This is like a lame version, and Jane Seymour usually does better.<br /><br />Chad Allen is pretty poor in this too. Just playing his usual role as a boring rebellious child.<br /><br />Maybe the both of them being from Dr. Quinn was supposed to make us get excited.<br /><br />If it's on, go grab a copy of "Black Widow".
+version https://git-lfs.github.com/spec/v1
+oid sha256:87e6bbb7710661f941e43328f4f3bd9bc8e57abc51d9c172e96ee60da4aff6ee
+size 383

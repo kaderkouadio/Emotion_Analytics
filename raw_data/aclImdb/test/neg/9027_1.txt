@@ -1,1 +1,3 @@
-Vicente Aranda has made a terrible historical movie. It shows the poor resources of the spanish cinema. In the movie, an irreal script shows Juana just as a ninphomaniac, faced to Felipe, worried only for sex...but sex with others not with her. The technical mistakes begin with the wedding ring that shows Isabel of Castilla -Nobody noticed that?-. Then, the voice in off seems as a documentary, actors and actress in the movie sometimes laughs -take a look to the sequence when Juana arrives to the council which want to keep her isolated-; the castles are almost broken when in the age of the movie they have been recently built, crowds are just "four" people, lights are bad placed...Compared with Amelie Poulain, the french movie for the oscars...it has no sense to speak about a bad movie like Juana la loca.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5024b504d3749a8f9127ad3427970e7f337536c3ae1a10cc0b21af87fd84ee2d
+size 814

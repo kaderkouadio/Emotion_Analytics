@@ -1,1 +1,3 @@
-The much overrated "Chuck and Buck" is a shoddy piece of work in almost all respects...lousy music, make up, cinematography, etc., so bad as to come off like a home video and an insult to the audience. Although the film has its moments they're few and far between simply because the story is so boring. One wouldn't have to be very creative to write a better tale than this sophomoric piece of gratuitous pathos about a sexually confused misfit stalking his boyhood friend. This film will play best with gays and the artsy/fartsy fringe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b5a1e032a8a1fa34a3ff642d5534ee30c39ffa53fbf082e458dbb3e235b49f
+size 537

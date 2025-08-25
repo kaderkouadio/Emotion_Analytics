@@ -1,1 +1,3 @@
-Charlie Mackenzie (Myers) is a San Francisco coffee house poet whose poems are about all of his failed relationships with women and he's scared of commitment. Things change when Charlie meets Harriet Michaels (Travis) a local butcher who isn't just beautiful but has a heart of gold, their relationship is going great until he suspects Harriet of being Mrs. X a woman who kills her husbands on their wedding night. His friend Tony (Lapaglia) thinks he's just being paranoid but the story reaches a climax when the real murderer is revealed and tries to kill Charlie. The cast includes Brenda Fricker, Amanda Plummer, Alan Arkin and a cameo appearance by Charles Grodin. So I Married An Axe Murderer is one of the funniest yet scary romantic comedies of 1993. Mike Myers also plays the role of Stuart Mackenzie Charlie's father. 8/10 Stars
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e2fad1a31273aac77e3c7509d323d70aad2fc53746202da74ac978e4a5ac3c5
+size 838

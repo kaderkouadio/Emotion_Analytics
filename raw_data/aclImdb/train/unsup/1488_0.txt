@@ -1,1 +1,3 @@
-It's a typical Hollywood thriller with kids. But it's also one of the most fun. Domestic Disturbance from last year may have had John Travolta as daddy dearest, but this is better, even without a dad who is the only person who believes the kid. In fact, no one believes the kid in this one, except for the old guy, but only in the end. The only thing better about Domestic Disturbance is Steve Buschemi. Leelee is great in this movie, and the tragic parents death and surprisingly violent ending (like, everybody dies!)make this formula following thriller fun and not too bad. B-, 7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:5064edadfedf790144b89b59b61d8c3edd24d1f974a8f5c7075c3faaeba3c5cd
+size 585

@@ -1,1 +1,3 @@
-I could crap a better movie. This is a waste of time and money. it makes me sick that movies like these are actually getting made and the people making them actually think they're good. I happen to like teen comedies, when they're done well. This movie, however, takes this genre to a new low. With movies like this, people think it's actually okay to make this filth and ask unsuspecting people to pay money to sit through it. It's sadism.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a421f74adf8b49358b8fe8bb32ec6606aaafc71aa4ec66e4e8238ce415e015
+size 440

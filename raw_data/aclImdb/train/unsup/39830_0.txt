@@ -1,1 +1,3 @@
-Apparently the filmmakers didn't even have time for the Cliff's Notes version of the English Civil War. Last time I checked, Oliver Cromwell was regarded even by his enemies as one of the foremost military minds in history. The New Model Army was his baby. And a biggot? The man welcomed the Jewish faith and open practice thereof back to England, for God's sake. As for comparing these events to the French Revolution/Reign of Terror, the FACT of the matter is that it was essentially the American Revolution...just a little ahead of it's time. (Something, no doubt, the Brits simply cannot contemplate.) Sad, silly, revisionist stuff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:803b409f21f69456cd72bef91660fb2b60019bee1786e02aef952ecab3695186
+size 636

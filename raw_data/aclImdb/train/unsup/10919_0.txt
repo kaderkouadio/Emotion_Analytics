@@ -1,1 +1,3 @@
-Along with Say Anything, I would say it is one of the best teen 80's dramas, and I wouldn't even describe as being of that genre. It starts by taking the teen angst storyline from Rebel Without A Cause and adds a twist of dogmatic puritan religious beliefs. And unlike Rebel, Footloose doesn't just focus on the angst and leave it unresolved; it demonstrates an opening of intergenerational diologue and tolerance. I would say that 2-4% of the script is cheesy, but overall very good and not very dated at all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1670395a4c12cf353d05fe27a75a6e284d9888d5bea9e83668a86a4b8feaf9ec
+size 510

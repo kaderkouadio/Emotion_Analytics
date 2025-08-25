@@ -1,1 +1,3 @@
-So many films are now in a Genre described as "Comedy/Thriller", as was this one. A fine cast, interesting premise, but what an unpleasant film to watch. Into Hemp films? Then either "Saving Grace" or "Lock, Stock..." are far more enjoyable films. Rating: Just 2 out of 10 Roach Clips
+version https://git-lfs.github.com/spec/v1
+oid sha256:47036a591520c74a86cb297888648eed223c5fbe7e1a0825ba2c938d33b13524
+size 284

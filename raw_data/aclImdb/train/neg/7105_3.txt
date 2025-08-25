@@ -1,1 +1,3 @@
-I saw this movie on Mystery Science Theater 300. It sucked so much. If I hadn't been watching it on MST3K, I probably would've thrown it out the window. The characters were incredibly lame and it didn't provide much of a plot in my opinion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92f014eb283ca9703c717f65cde20e1f43d25fe12fd00c84dbfaaadabc939db0
+size 240

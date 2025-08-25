@@ -1,1 +1,3 @@
-The colors in this movie were exquisite. The scene showing the colored car bodies coming off the assembly line was a vividly stunning visual. The fact that I was able to see it in an old fashioned movie theater with a HUGE screen surely made the difference in my appreciation of this movie. Not too many movies make the audience want to cheer out loud for the hero, this one did!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a7b1828aec54cc3d7981518473e062776c80e9b416c5985acd9ff24562cb1bb
+size 379

@@ -1,1 +1,3 @@
-When I heard Scorsese made this movie, i was very excited. Because one thing that i know, Departed will be an adaptation of my favorite Hongkong movie "Infernal Affairs" or "Wu Jian Dao". And when I read a magazine, the director denied and said it's only inspired by. So my expectation flew away. But all my dream has gone when I saw "Departed". It's all the same. Sorry, spoiler, how the boss gang died, how the captain died, how the undercover died, all the same. In short, all the important scene, are all the same. Maybe, they have different ending but if you have seen "Wu Jian Dao", "The Departed" just only follower. No need a big name like Scorsese just to remake an Asian movie. One thing, "The Departed" has lost the thrill that "Wu Jian Dao" have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae1b3b944706ed7f939e8d1242e586a1ac9be8e56161adb9f3ca27002f213f44
+size 758

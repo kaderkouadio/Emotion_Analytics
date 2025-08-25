@@ -1,1 +1,3 @@
-Put this movie out of it's misery and burn the negatives. What am I saying? The whole movie was negative. Fortunately, only a very few would find this movie the least bit appealing. This is what the vast American majority would call too much sex and violence. It will probably show up on some non-premium cable channel someday just for the shock value, but after editing out the nudity (most of the violence will stay) all that will be left is 45 minutes of really bad acting interspersed with 45 minutes of commercials. There are just too many starving actors in Hollywood.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe939a07eed5eb8fea08942046e261c63c8397e2055a4535c16a9cab328ad79
+size 574

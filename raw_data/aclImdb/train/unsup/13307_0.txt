@@ -1,1 +1,3 @@
-Izo is the sort of movie-thing that straddles the line between awesomeness, pretentiousness, and an as of yet unidentified third sector that cannot be described with human language.<br /><br />So this time-traveling samurai dude kills a ton of people, and along the way this other dude sings nonsensical things for ten minutes at a time while sounding like he's just eaten a cat who was itself gargling nails. There's also some possibly gratuitous nudity and some certainly gratuitous scenes of swords appearing from places where they should probably not appear from. <br /><br />I only have about half of an idea what Izo is about, but I think it means that Takashi Miike hates everything except slimy grown men being forced out of tiny female orifices at the ends of movies. And personally, I love him for it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad63fc7497c0511e062fd2bd600d6157a648421a9e2bf33702428b1c693aca57
+size 811

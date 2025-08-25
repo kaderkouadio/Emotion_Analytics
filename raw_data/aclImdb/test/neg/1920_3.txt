@@ -1,1 +1,3 @@
-Rich vs. poor. Big city vs. small town. White collar vs. blue collar. These things are not original themes in movies. So when one chooses to involve these themes, the situational story-line had better be very original, or very good. This one was neither. I never believed in the romance of the two young lovers in this movie. Neither convincing nor compelling, it just fell flat. Don't bother, even with a video rental.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8198f81a42e8b68935170b137cf9b786f9ea24ff061b432c08b1628937bbd21
+size 419

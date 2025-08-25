@@ -1,1 +1,3 @@
-Arthur Miller has always been known as one of America's great playwrights for works such as "Death of a Salesman" and "The Crucible". "Focus" is one of his lesser known plays brought to the silver screen. However, knowing what a great playwright Arthur Miller is, I doubt that his original play was very much like the movie. The movie comes across as empty and formulaic, with William H. Macy as a non-Jew mistaken for a Jew by anti-Semitic neighbors in WWII Brooklyn. Don't get me wrong: the acting is OK, and I presume that the people behind this movie were probably trying to make a point about racism, but the movie just doesn't work. Macy, Laura Dern and David Paymer just can't create an effective story with the material here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae884aa05abc660a90ae4557367f6eb452d55c695d5f0ef019031ff3649a28c9
+size 733

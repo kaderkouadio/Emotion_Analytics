@@ -1,1 +1,3 @@
-Quite simply the best RPG ever developed by Squaresoft. Amazing visuals, brilliant story of love, hate and war, plus believable characters. It surpasses Final Fantasy VII by a long shot. Squall Leonheart has been called an 'unlikeable character' but he has issues we can all relate with. Rinoa is simply beautiful and a great heroine. A great cast of back up characters adds to the brilliant depth of the story. Well done Squaresoft.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4410c6bfe9d9d5131a8c2da33c9231a835d6ed3395122219b36ee6f250da8782
+size 433

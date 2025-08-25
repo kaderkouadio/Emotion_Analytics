@@ -1,1 +1,3 @@
-This movie does an excellent job of taking us all the way through the dark tunnel of espionage, from the inception through the ultimate reckoning. The movie's impact is made even deeper with the realization that it is based on a true story. Timothy Hutton provides us with a quality, understated performance and Sean Penn demonstrates why he is one of America's finest living actors. As with "Midnight Express," this movie should make us all think twice about doing something we shouldn't be doing in a foreign country.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56bd24ee76d7d07376d5443750eac46ba469fc1acbf78768be5b294100f6be7
+size 519

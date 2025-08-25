@@ -1,1 +1,3 @@
-Seeing that this movie was on the IMDB Bottom 20, I simply had to rent it.<br /><br />SUPRISE! SUPRISE! I have no regret of seeing this movie at all. In fact, I really enjoyed it. There's a level of camp in this movie that puts cult classics of the 80's to shame. Is it stupid? yes, but Jim Wynorski proves that stupid is not necessarily bad after all.<br /><br />Rent it for a laugh that seems unintended but is actually meant to be funny. Wynorski is a genius. Hope he directs the next ninja turtles movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:3008a41720d2402a3d2ea3f4461dd30a1e66d6d6e56184f8848a2a24a2a3e0e1
+size 507

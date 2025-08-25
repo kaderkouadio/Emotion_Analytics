@@ -1,1 +1,3 @@
-I own this movie...I think it's a fun movie to watch. Before this movie I never cared for Alicia Silverstone, but after this I appreciate her a lot more...especially now that I know she created it. This also was the first film I saw Benicio del Torro in...and I think he is fabulous! His quirky behavior...and the comedy added in...made the film fun to see. Throwing in Christopher Walken as Emily's uncle and Harry Connick Jr. as Vincent's friend helped spice up the story. I liked the story of a spoiled rich girl faking her own kidnapping to only end up with a very experienced car thief...and having them fall in love...it's sweet and funny!
+version https://git-lfs.github.com/spec/v1
+oid sha256:da25225a2db1b81cea03a906ad59b4d43959333a12385b9b922189f2c0621189
+size 645

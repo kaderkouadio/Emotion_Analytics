@@ -1,1 +1,3 @@
-I've seen some made for TV movies and this is one of the worst ever, don't take the time too see it. The acting is one of the worst I've seen in a long time. The special effects where poorly made. Everything is just bad. I gave it a 1 of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f24532fbe6bfd304884f848c30397ac4387781c898034dccded60c8e6e2ba978
+size 241

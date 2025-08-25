@@ -1,1 +1,3 @@
-This was a play that was turned into a really lousy movie. There was no plot, the camera work was horrible, and it was horribly boring. None of the actors had the least bit of appeal. I wasted my money by renting this, so don't waste yours too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:412140addefd1d7a16e38d6c3af7b198cfba249d3f9ea497e08b033dfda96201
+size 244

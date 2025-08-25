@@ -1,1 +1,3 @@
-Even though the movie is corny, it still sends a message that love will prevail. Family means everything and without their support, love and consideration, life will be harder. Just knowing that your family loves you and what you love, makes facing the world that much easier.<br /><br />I compare this to My Big Fat Greek Wedding in cultural attributes. There is a world out there of give and take and for the most part, I feel people have forgotten that. These two movies show that consideration and the almighty give and take are important to long-lasting relationships in any culture, religion and family.<br /><br />I recommend watching this movie with an open mind, hoping to laugh, love, cry and remember how to have a healthy relationship and I hope this inspires you to have consideration for others in your world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fdc4ae810a99cddbf15fed62e863a9c48830ef8de70fe63570f705175fa5cb5
+size 823

@@ -1,1 +1,3 @@
-Sam Jackson never disappoints. I loved this movie! I didn't know what to expect, and was surprised at how good it was. My husband even liked it, which is somewhat unusual, as it was partially subtitled. A wonderfully told story, with a great plot twist, and an enthralling climax. A "must see" for anyone with a brain.<br /><br />10/10...again...I don't give this rating very often.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d04aa824bfc7e2085a1daeee6c6cb291f651ae75e3166e6d28af04cc250b9f5e
+size 382

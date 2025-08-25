@@ -1,1 +1,3 @@
-Ah, clichés, clichés, clichés; They're a main part of a wide variety of horror films.This one, has a lot of them.Still, it's Stephen King, one of the best masters of horror. This movie was really good, just TOO predictable. And what horror movie doesn't have stupid people? This one is overcrowded with retarded victims just practically begging for their life to be taken. Pet Semetary I found to be creepy a little. The way everything is set up was REALLY spooky, but not terrifying. For the most part, the acting was SOMEWHAT believable, the suspense wasn't that suspenseful, but the entertainment level is set at a major rank; My eyes were practically glued to the screen.All Stephen King fans must see this movie, but as for anyone else, expect an OKAY thriller.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b1a9df64ed4735ef717ac6809b84d1a46ac733308b30f83b9bff1f5b1ef79e
+size 769

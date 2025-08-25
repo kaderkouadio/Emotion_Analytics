@@ -1,1 +1,3 @@
-The movie only cost $2 Million!  You can tell.<br /><br />The actors chose their own wardrobe!  You can tell<br /><br />The all time worst vanity film ever made by a Hollywood Director - You can tell!
+version https://git-lfs.github.com/spec/v1
+oid sha256:576074fde6e293137896d5cb9634d2e5bf840a8dfecc44896869d397e205a29d
+size 204

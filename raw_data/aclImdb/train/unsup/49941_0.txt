@@ -1,1 +1,3 @@
-When i rented the DVD, the story and pictures on the cover seemed fun, but when i got to the middle of the movie i almost fell asleep. The movie confuses it's watcher so much that it brings him to a point that he cannot understand who are the good guys and who are the bad. The hero doesn't knows who to trust, too much talking and hardly no action.. The movie has a few humoristic moments, some action here and there but no more..<br /><br />You can surely skip it...
+version https://git-lfs.github.com/spec/v1
+oid sha256:6955e6a5aa81f04d585c41c9c83eba0c60e7ee606434c0be71ae0b22ac7dd819
+size 468

@@ -1,1 +1,3 @@
-I really liked this movie. Kurt manages to act without speaking, letting moments speak for themselves. He doesn't have to verbalize or rationalize his actions, he simply decides and takes action. He is supported by a good cast of actors and settings, and is able to show us a more humane side of soldiers without getting to corny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d229049d53b2cbf935ee3ed0034c08d1adb481df2f173fc2a7e71ced06a17c
+size 330

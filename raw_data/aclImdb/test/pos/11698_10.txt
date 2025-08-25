@@ -1,1 +1,3 @@
-Coming from Oz I probably shouldn't say it but I find a lot of the local movies lacking that cohesive flow with a weak storyline. This comedy lacks in nothing. Great story, no overacting, no melodrama, just brilliant comedy as we know Oz can do it. Do yourself a favour and laugh till you drop.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf07fbaacf99f839f5a35f8366adb7f0215312b79efefb9dfdae12cf8a2c1c57
+size 294

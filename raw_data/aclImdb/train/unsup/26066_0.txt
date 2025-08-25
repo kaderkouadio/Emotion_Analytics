@@ -1,1 +1,3 @@
-Very funny. Completely captivating. The visual style was all 70's pastel kitsch: house, clothes, hair. Cheesy low-tech special effects don't seem to follow any particular style but simply add fun comedy touches. Strong language is often fresh and honest. The aging actress character always says exactly what's on her mind. Think of it as "Hairspray" meets "Valley of the Dolls".
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb4ff08ccc6363fc99b0da674b858346e89e37808479bf7c020d0d3d99973cb2
+size 378

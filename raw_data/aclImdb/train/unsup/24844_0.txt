@@ -1,1 +1,3 @@
-What a phenomenally horrible film! I am completely and utterly surprised at two things - 1) The relatively high rating and 2) the relatively successful careers the two lead characters have had. The girl was OK, I guess, but Billy Joe! Oh jeez. I don't think my judgment is too heavily influenced by the god awful hillbilly accents either.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db6226d56df3614c34e789bde608ab6cba25a691440174b1b29d6dc80bdc8fa
+size 338

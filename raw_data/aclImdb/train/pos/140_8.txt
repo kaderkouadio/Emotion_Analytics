@@ -1,1 +1,3 @@
-Normally I don't like series at all. They're all to predictable and they tend to become boring and dull very fast.<br /><br />These series however, are well played, the story follows through all episodes and even if you miss one, the story will still be catching your mind.<br /><br />The episodes are all filmed on a hospital and takes you further and further in to the mysteries of dark and old secrets that lies just beneath the surface of the mighty hospital.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a29a50bebea36fb4593ef2460bc9ee311eba7b70efc819b87048d531125f3df1
+size 463

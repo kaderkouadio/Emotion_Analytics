@@ -1,1 +1,3 @@
-This film/musical is absolutely atrocious. It's nothing but a long collection of drawn-out, uncreative, boring, canned songs with pretty much every cliché lyric in the book. Is it supposed to be a Jesus Christ Superstar wannabe, without the writing talent? The cheesy MIDI drums and Windows 95ish video transitions especially add to its "bad church production" feel. I wasn't expecting much going in, but I was completely stunned by the tremendous void of artistic or entertainment value. I swear I've seen class presentations by high-school kids with more creativity. Could this possibly be a serious effort? By professionals? And how in the world does someone with as big a name as Val Kilmer get wrapped into something so awful? Perhaps he owed somebody a favor? I don't get it. Absolutely disgusting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dba5dbed5ef7fd997e021337206ff50867b2edcf0603acf465d0b93fca1036f
+size 805

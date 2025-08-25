@@ -1,1 +1,3 @@
-a film i first saw in 1979 at the drive in. i was very young, but the'green room' story really shook me up. seeing the film years later it's a really odd and weird film. there's a weird aura to the whole film. its very amateurish, but a lot of it really works. the great ending is bizarre, but haunting. overall a good film to watch for the anthology fan. it's not easy to get hold of. but originals on VHS do exist, though any DVD is a bootleg as of this writing. i'd say overall it really fits the times, as it was filmed in the late 70's. the acting isn't great, but it is pretty fitting for the film. and i'd expect the 'green room' episode to be the favorite story to most.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bf750bf935c348bd7a2b84305c2b7b32011b67eb3d3a5f1921edf87aec64892
+size 678

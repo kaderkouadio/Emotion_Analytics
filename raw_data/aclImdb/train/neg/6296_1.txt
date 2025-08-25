@@ -1,1 +1,3 @@
-This film looked interesting; I'd read the book a number of years ago and it informed me that the feature followed the plot outline pretty tightly.<br /><br />Started watching it and almost from the outset it failed to live up to expectations. In fact, I didn't bother watching the whole thing... utter drivel - bad performances, bad acting and instantly dislikeable characters - that was the point of the film, I guess.<br /><br />Watching this film left a bad taste in the mouth and put me on a downer for the remainder of my weekend.<br /><br />Do not bother with this feature.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c5654b8db7098d427446066326d918e07e64a13e5c3e1a99dc87b42c2a0757
+size 580

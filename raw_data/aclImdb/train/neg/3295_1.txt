@@ -1,1 +1,3 @@
-...then you'd better not watch this movie. They've completely ruined the premise of the show. In the movie the Duke boys are idiots, Daisy is trampy, Roscoe is sinister, Boss Hogg is capable, Uncle Jessie is a criminal...only Cooter and Flash are true to the original characters. At least Enos is kinda close.<br /><br />At one point they open the doors to get into the General Lee -- nuff said.<br /><br />The original show may not have been great TV, but it was entertaining and the characters made sense. This movie is like Dumb & Dumber meets the Simple Life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9593776babec136545175c7231119b568171125349e90c200ead0e4b4b2dab2f
+size 563

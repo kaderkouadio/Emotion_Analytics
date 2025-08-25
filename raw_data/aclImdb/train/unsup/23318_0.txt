@@ -1,1 +1,3 @@
-This movie was great for Mary-Kate and Ashley's peers and especially their fans! Also as a come-back in theaters since their last theater movie "It Takes Two". Yeah, some things in the movie probably wouldn't happen in real life (i.e. towards the end - I won't spoil it for those who haven't seen it yet!). I also liked how the title went with the story - Jane Ryan (Ashley) was running out of minutes until her speech presentation in New York, and Roxanne (Roxy) Ryan (Mary-Kate) needed to get to the Simple Plan's music video to promote her band - and they both were being chased down by all sorts of people! Cute boys were also a plus! I can't wait until it comes out on VHS/DVD so I can see special features and deleted scenes!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2fad2fdb7e233487610e05e8524ffd5d3f2f74ea3747627993d1662b021e3e
+size 731

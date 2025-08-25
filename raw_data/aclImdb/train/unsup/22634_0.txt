@@ -1,1 +1,3 @@
-This movie is so wonderfully bad. It never let's up -- just a continuous downward spiral of awfulness. (or is it awfulitude?) I really urge everyone to rent this movie -- especially if you are a fan of flicks like "Street Trash" or "Biggles: Adventures in Time" or "Moon Trap".
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ed29f46ef84c6107c87638a7203d34dd638762c96012750a287011f8d40851
+size 277

@@ -1,1 +1,3 @@
-This is by far the worst film ever made. It lacks idea, talent and originality and makes Ed Wood's films seem like Oscar masterpieces. Even the special effects and stunts are boring and completely laughable. It feels like it's been made by monkeys. the "acting" is nonexistent and against the Geneva Conventions and the dialog is so embarrassing that i had to switch it off from time to time. Even a piece of mud would act better that this ensemble. It is a complete waste of time and money. If you want something interesting, i recommend to rather watch static on TV and to avoid this film under all circumstances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3080e0b465ce9744bb572b5b8762149148e2b8bb8ce3061bc6dddc27b9ebf543
+size 615

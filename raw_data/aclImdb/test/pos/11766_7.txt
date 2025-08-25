@@ -1,1 +1,3 @@
-Not your ordinary movie, but a good one. Billy Bob is very funny in this movie, the way he talks, what he says etc. I was kind of surprised when i saw it, cause i just thought it was a normal comedy, but it was more than that. It had a very good story, great characters and a good balance.<br /><br />Favorite part: Probably when Billy Bob is running around in his robe shooting at the rippers
+version https://git-lfs.github.com/spec/v1
+oid sha256:700bc388582c16a1545471f5429d79860637e4890c4948606978a25e8203a631
+size 393

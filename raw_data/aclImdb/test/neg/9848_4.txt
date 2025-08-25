@@ -1,1 +1,3 @@
-Thinly-cloaked retelling of the Garden-of-Eden story -- nothing new, nothing shocking, although I feel that that is what the filmmakers were going for. The idea is trite. Strong performance from Daisy Eagan, that's about it. I believed she was 13, and I was interested in her character. The rest left me cold.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6c2f3e9f1d59d5be5da310d1d26bcf1b4820df0a4a3bbfc67f74fcb20e2ad4
+size 309

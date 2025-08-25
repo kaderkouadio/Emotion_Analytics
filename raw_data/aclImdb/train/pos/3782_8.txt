@@ -1,1 +1,3 @@
-When I was a kid, I totally loved both Bill & Ted Movies. The other night, Bogus Journey was on and since it was at least 5 years since I last saw it, I decided to tune in. AND I LOVED IT ALL OVER AGAIN! This film is still funny after all those years. 'Excellent Adventure' is better, but this one rocks just the same. Sure, some of the perfomances are a bit cheesy, but hey, this entire film is cheesy in a cool way. Plus it features the coolest personation of Death ever in a movie! Concluding: Totally like non bogus movie dude! Way Excellent! STATION!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f10fbe1037022b699a79b8931e35969ee2f392a7d2c4a83e3b98c4559e5bf81
+size 557

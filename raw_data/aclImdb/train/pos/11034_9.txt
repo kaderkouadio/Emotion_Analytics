@@ -1,1 +1,3 @@
-Eric Valette is obviously a talented film-maker, and so are the two guys who wrote the script. Therefore Maléfique is a great flick, made with just a few bucks but also tons of imagination. Well, I'm a bit exaggerating, but nevertheless I'm sincere. So, if you like dark, gory movies, go and see this one. It's really worth it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84f44310e9b2ac7bfc748763693cf172d08951948fd67faada23182a5399c57
+size 328

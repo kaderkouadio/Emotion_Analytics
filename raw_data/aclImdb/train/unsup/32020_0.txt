@@ -1,1 +1,3 @@
-One of the best love stories this year; gripping, touching and warm at the same time. A light look into the difficulties and hardships faced by Israeli soldiers everyday. Inclusive of women, very honest and realistic, this story is symbolic of how many gay men and women feel, without really dealing with 'gay' issues on the surface. Great film, beautiful acting and direction.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae1d0cc4b793a26083f9458cb165d84c26acc7b2865bb949cc0e748582b9cdb2
+size 377

@@ -1,1 +1,3 @@
-I cannot put into word how bad this film really is. It has the sappiest story line I have ever seen, the editing is horrible, and above all, Jeff Goldblum's performance is just beyond bad. He shows up every 20 min. or so and acts amazed, I know that is the only emotion he can act out but it does get annoying.<br /><br />Anyone wanting to join a lawsuit I am filing against the makers of this "film" to compensate me for the cost of the rental and time lost feel free to e-mail me!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9c0dbd0389a7d5b48d02ba668919c63efed87dc77ddc0fda9831e29fb987c69
+size 484

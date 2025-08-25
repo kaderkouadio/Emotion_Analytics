@@ -1,1 +1,3 @@
-Crocodile Dundee 2 was not as good as Crocodile Dundee 1 etc, etc.... So we always hear, but so what? View this third offering with an open mind and you will enjoy it without comparison to the first two. I was very pleasantly surprised at the very funny one liners and situations, and came away from the cinema with a smile on my face. Do yourself a favor and rent this for a bit of occasionally hilarious escapism. As one of the other contributors stated, don't take it too seriously, it's a comedy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f6a635329ea476e2e40b8efa1b276939be991e0854f2dd6c05dec8406ed214
+size 500

@@ -1,1 +1,3 @@
-I saw this at "Dances with Films", and it was awesome. I really felt for Jake. Talk about adding insult to injury! Not only are your parents getting divorced, but there's a monster after you. <br /><br />It was both heartfelt and scary -- there were several moments where the audience screamed in genuine fright. It kind of reminded me of a Japanese horror film, except that the story was actually good.<br /><br />And that's what separated "Jake's Closet" from the usual indy film pabulum -- an excellent script with compelling characters. Also, by mixing elements of the horror film with family drama, the movie gets the best out of both genres, and avoids the clichés of both.<br /><br />If it's not coming out in theaters, definitely get the DVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e30f4a0c0b60aeec56f49072da99a4861dc1d304231df92b43dd5d36610a542
+size 751

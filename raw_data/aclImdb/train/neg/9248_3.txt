@@ -1,1 +1,3 @@
-We've all seen this story a hundred times. You can see each plot turn coming a mile away. The relationship between the mother and daughter is way too sweet and understanding to pass for realistic. Janet Mcteer's performance is stock southern hot- ticket mother in vintage clothes. Should have been made for the Lifetime Channel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218cfc667160cca7a20a6fc9f850214a6c0bc3fac9cd9b7433052eec59679cfd
+size 328

@@ -1,1 +1,3 @@
-For a guy who was a French communist until the age of 35, it was a hard movie to take, but it is a superb film, well acted and very realistic. My father was a french communist (the heart on the left and the wallet on the right) and he actually contempleted emigrating to the motherland of socialism when I was a kid, thank God, his wallet was heavier than his heart... Go to your video store and rent it, you won't regret it !
+version https://git-lfs.github.com/spec/v1
+oid sha256:14894c762ca85a2b442843d0df9aeafc1b0fdb9efc698e1242dfa327503da9d1
+size 426

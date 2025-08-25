@@ -1,1 +1,3 @@
-The movie never picked up momentum. Bad performance from most of the actors. Looked more like amateur theatre. And the music score in dramatic scenes for eg. while rescuing the girl from the woods was mundane. The film just lacks focus. Don't waste your time. I can't believe Paramount bought this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7d515c6d5a0ee6cc17bddc04513906e922035cf707e4836515037f819d3233e
+size 304

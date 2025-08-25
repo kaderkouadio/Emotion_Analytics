@@ -1,1 +1,3 @@
-"The Dead Next Door" is a nearly plotless exercise in extreme gore. Certainly the entire miniscule budget must have gone into the creation of the gore effects (which are juicy, to say the least), because all the other technical aspects (lighting, visual clarity, staging of the action scenes) are atrocious. It's hard to really hate the film, because you know it means well....but that doesn't mean that you won't be looking at your watch frequently, even though it runs only 80 minutes. (*)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a1f49a113d8a0f36600d2c58960b21dc7a8c5a5b7bdc194592abddb5dccd473
+size 491

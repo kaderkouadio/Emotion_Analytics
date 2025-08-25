@@ -1,1 +1,3 @@
-This movie is cheaply made, and is very stupied. If you take it seriously then you will hate this movie. A few drinks latter you will love Premen Watters(the singing cowboy). If you love cars, crashes, and cheap humor rent it. The German auto racer make this movie worth renting all by himself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98c7b6dd2db3ebcc5816dfc8aae6d8f945348a8520d3ae24e0f02dcf74ab1804
+size 294

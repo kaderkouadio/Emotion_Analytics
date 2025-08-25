@@ -1,1 +1,3 @@
-I first saw this film in the late 60's, and try to see it every time it comes on TV, which, unfortunately, isn't often. Now that I have TCM and FMC, I hope it will be on at least once a year. Like Louis Gossett Jr. in An Officer and A Gentleman, Jack Webb delivers an unbelievably great performance as a Parris Island Drill Sergeant with the classic screw-up recruit, and the story line in this one, though dated, is touching and very well acted. And having real jar-heads in the cast certainly helped in the realism of the film as well. It's a great film with top-notch acting and a superb story. See it if you have the chance-It's well worth the time!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ae16f757f7551d0cc6241e8b5984b9e459a1dd2978e552c170f0b945fa9238
+size 653

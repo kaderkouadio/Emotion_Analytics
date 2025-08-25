@@ -1,1 +1,3 @@
-There are films that are not released in theaters but on video. This one should be allowed to age and disintegrate the way old nitrate film stock does. No story, inept violence, over acted, badly written and the sorry thing is that the star was not the only bad part in the film. And I did like and enjoyed some of Siegel's other movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1c76598b31fc54c405fa37ecf5e869d74a0d6d0706be9ec57dcb3415efeb29
+size 337

@@ -1,1 +1,3 @@
-I hired this movie expecting a few laughs, hopefully enough to keep me amused but I was sorely mistaken. This movie showed very minimal moments of humour and the pathetic jokes had me cringing with shame for ever hiring it... Aimed at an age group of 10-15, this movie will certainly leave viewers outside of these boundaries feeling very unsatisfied. Worth no more than 3 votes highly unrecommended for anyone not wanting to waste 2 hours of their lives.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94e2e546370870d2958847fe3eb9e08355c203a6b360a0d8b7157666b489b760
+size 455

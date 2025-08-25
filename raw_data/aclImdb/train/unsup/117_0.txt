@@ -1,1 +1,3 @@
-This isn't the worst comedy of all-time, but that is about the best thing that I can say about this pathetic film. I didn't laugh once, or even smile once during this bomb. There was usually something going on on-screen, so I didn't get TOO bored, but most of the jokes here were simply awful. The final sequence is nothing more than a long series of people falling through doors and stumbling all over the place. Needless to say, it was a fitting way to end a movie that was impossible for me to like.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c0b5a390850bb15044b4e568f5f30998deaf6996ac4b1430eb4caf5c756148
+size 502

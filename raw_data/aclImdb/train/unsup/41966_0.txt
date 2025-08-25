@@ -1,1 +1,3 @@
-Dario Argento tries to use the camera inventively and playfully, but even all the gimmicks in the world couldn't have saved this excruciatingly dull thriller. The uninteresting plot moves slowly and gets increasingly ridiculous, reaching a real low point when the murdered is revealed and explains his/her motives (they are just as unconvincing as their delivery). The film has a stunning final sequence, but until it gets there you may have already lost your patience. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:10c6126b44055d1e28fe1c64b636226175a78ca4665b49e0d204c5e9fb45f604
+size 476

@@ -1,1 +1,3 @@
-Franco Nero stars as Cole a ninja who comes to the rescue of his war buddy Frank Landers (Alex Courtney) and his fetching wife (Susan George) to protect them from a mobster (Christopher George) who wants the land. Things get even more complicated when the mobster hires Cole's old nemesis (Sho Kosugi) who is also a ninja. Inept martial arts actioner, while having better production values then most ninja movies, fails to inject any life into the surroundings, or for that matter actionscenes. A poor effort all around.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2c9518c1b774b02d0043adc1666cc4bb467c2990165f67f2a5f7051a403a35
+size 520

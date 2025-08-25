@@ -1,1 +1,3 @@
-The only reason to watch this movie is to see one of the greatest Japanese actors ever born (Mifune) in one of the dumbest "spaghetti-jidai-geki" ever made. The poor man must have got the script only after signing the contract. The story is truly imbecile, the direction and camera - very mediocre, and the movie looks like it's somebody's first try in cinema montage. How could anything like this ever get on the screen?
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcd9dcb6946d14fd0d2c03a3037307bb9eb3ba8947cd3283f788d252c7f7e2b4
+size 421

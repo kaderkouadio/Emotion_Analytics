@@ -1,1 +1,3 @@
-Somehow the teaming of Glover and Short didn't mix. There was not the special chemistry that is required to make this work. The premise was a great idea but it seemed so forced most of the time. The silly grin that Short kept though out the film, really made his charactor even dumber than it was suppose to be. Maybe I just was looking for something clever and witty. This wasn't it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128fb3fe5cd4cabbb069a77ea75e8a4fa770381903aa145dd67bca08d404c050
+size 384

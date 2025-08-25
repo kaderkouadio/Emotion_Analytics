@@ -1,1 +1,3 @@
-For me, this movie just seemed to fall on its face. The main problem for me was the casting of Glover as a serial killer. I don't know whether this grows out of type-casting or simply his demeanor, but I doubt Glover could ever portray a convincing villain. He's a good guy, and that's always obvious in his performances. Other than that the film is your run of the mill serial killer story. Nothing very innovative .
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df595a2ab9c1c325a5610f19445b65085176596af6c3d121550127f5353ac62
+size 417

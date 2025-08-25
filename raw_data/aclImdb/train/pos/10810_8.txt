@@ -1,1 +1,3 @@
-Very nicely done movie. It does stay in your memory. Better billed as a romance than flying or war, altho the flying parts are realistic and almost error free. Flying buffs like myself will enjoy this movie even if attracted by the airplanes, unless they have no sensitivity or have never been in love.<br /><br />Fun watching early Crowe. He is good and exudes charm. His reading of "High Flight" is superb.<br /><br />cheers, Boom
+version https://git-lfs.github.com/spec/v1
+oid sha256:578abeab44d14dffa65e1def6fe34687340b53a2fc1f1abce07171b2da99520e
+size 432

@@ -1,1 +1,3 @@
-0ne of the strangest western ever, one of the very best too.<br /><br />The story of a man deprived of his past, doomed with a feeling that he does not belong here. Mitchum gives one of his best performance and the other actors are also excellent. Walsh direction is as ever powerful and gives to the movie a sense of shakespearian tragedy. One of the peculiarity of this movie is the importance and complexity of women's characters: it is they that take the meaningful decision, it is they that know better than the men whether they are too stupid (Jeb Rand's brother), too sore (Mac Callum) or too foreign to their own destiny (Jeb rand).<br /><br />In a word, don't miss it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f6921b4d18c83e90a6714667243dc3ba01efd3b89dab4ea3f4369ed2a56297
+size 677

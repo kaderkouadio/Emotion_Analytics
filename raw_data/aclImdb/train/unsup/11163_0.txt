@@ -1,1 +1,3 @@
-Great coming-of-age movie. Has alot of heart and touches on real Americana - apropos for our times. Wonderful mix of love story and love of baseball.<br /><br />I was routing for them all the way! Hopefully this director-writer team will get a chance to do something again with a bigger budget and more well known talent, but very enjoyable none the less.
+version https://git-lfs.github.com/spec/v1
+oid sha256:768952b25f51a135b94482470e867de09e6a91e3897edfcb387a3684b971d3bc
+size 355

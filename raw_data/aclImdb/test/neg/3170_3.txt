@@ -1,1 +1,3 @@
-I usually don't consider turning a movie off unless it's REALLY bad. Homegrown is a movie I wish I hadn't even turned on. The plot is interesting but the acting and writing are too low key. I didn't care about the characters. Any movie that has drug use and gratuitous nudity as its highlights is not worthy of praise. The characters spent their time getting high and believe me, that's the only way to sit through this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc530553143484f845abecb13224aed392647ef6bca68c5724d1abb1df594e81
+size 426

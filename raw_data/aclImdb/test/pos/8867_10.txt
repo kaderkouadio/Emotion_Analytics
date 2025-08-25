@@ -1,1 +1,3 @@
-Throw Momma hasn't dated at all, it's as funny now as when it was released. A genuinely eccentric comedy, that doesn't try too hard to be liked and is all the better for it, full of memorable laugh out loud lines. Even small characters are well written and beautifully played, like Billy Crystal's best friend's girlfriend, and a lovely cameo from Rob Reiner as Crystal's agent. A little bit insane and a lot funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:096c5835e20b2c07912ac9c32d105c38c7fece8026f37205499b774acc491dbc
+size 415

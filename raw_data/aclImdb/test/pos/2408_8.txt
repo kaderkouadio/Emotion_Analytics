@@ -1,1 +1,3 @@
-I've seen this movie more than once and it's worth it. For those of you who like martial arts and overcoming internal conflict, this is a worthy choice. After seeing this movie, I wanted to be a more productive member of society because I could relate to the inner turmoil of a girl looking for acceptance and needing a path to follow. Of course, Mr. Miyagi always provides his sage advice. 2 thumbs up!
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6d7ab96eb24df6289d092c71a856711c75d0666393d6dc88d154bbab7d6feb
+size 403

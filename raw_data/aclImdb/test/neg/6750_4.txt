@@ -1,1 +1,3 @@
-This was obviously a low budget film. It shows in every scene. What is nice to see is where it was made. A lot of the film was shot in Columbia, CA, in the Sierra Nevada Mountains near Sonora, CA. Some of the film was also shot in Jamestown, CA, very near Columbia. There is a railroad museum in Jamestown and they used some of the old trains in the picture. "High Noon" was also shot in Jamestown, as was "Back to the Future III".
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc0d11203d2232723663d58e0a4251a1db5fb736da62bf74ba01e821e34c6c98
+size 431

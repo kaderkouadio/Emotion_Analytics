@@ -1,1 +1,3 @@
-I must admit that I am a fan of cheesy '80's cartoons, but this is among the best. Rainbow Brite and the Star Stealer is one of the most watchable and entertaining of the Rainbow Brite cartoons, and is much better than the TV series. I especially like the relationship between Rainbow and Darian and find it very amusing. My favorite character, though, is Starlite who is definitely the most "magnificent horse in the universe"!<br /><br />I also recommend Rainbow Brite: New Beginnings, which tells the story of how Rainbowland came to be. Have a Rainbow-Day!
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc3afaccc13c82a26ca25a2c3437bae9aac1413883905aa98f42b062e25624d9
+size 560

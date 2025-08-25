@@ -1,1 +1,3 @@
-Ha! What a romp! Although not as funny...'Shooting Fish' is in the same tradition as 'Saving Grace' and 'Lock, Stock and Two Smoking Barrels.' Very silly and very entertaining British humor. My daughter and I enjoyed several belly laughs with this one and she even figured out the title without having to be told. And added feature was the delightful sound track!<br /><br />It's rare to find a modern movie you can watch with a 14 year old and both enjoy! And I have to say, Kate Beckinsale, 'Emma' (1997) (TV) series fame, is a winsome doll. It won't work to try and make much sense of this movie...just think of it as The Odd Couple (Dan Futterman, Stuart Townsend) on Virgin Atlantic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f370367cdc12f4f850ca26d3307d4acb4378373206cce9a423391326ccf687d0
+size 688

@@ -1,1 +1,3 @@
-Excellent movie, a realistic picture of contemporary Finland, touching and profound. One of the best Finnish films ever made. Captures marvelously the everyday life in a Central Finland small town, people's desires and weaknesses, joys and sorrows. The bright early fall sunshine creates a cool atmosphere to this lucid examination of people in a welfare society. Lampela is indeed one of the most promising Finnish filmmakers. He shows that it is possible to make gripping movies without machine guns and bloodshed. His next film Eila is also worth seeing although the story of cleaning women fighting for their jobs is not quite as universally appealing as the destinies in Joki.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70571e8bc1f5408de3faedbff29863209b084a598ea2d4dd468ec0de510ffd1a
+size 681

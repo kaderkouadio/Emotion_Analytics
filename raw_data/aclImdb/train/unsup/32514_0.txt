@@ -1,1 +1,3 @@
-I found this movie strangely unemotional, and to be honest, I wasn't sure if I was insulted or not. By the end, I didn't care one way or another. As long as I didn't have to listen to that man any longer..Benigni needs an editor on his dialogue. I did enjoy Horst Bucholz's small part, but it was lost in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d759631c5bb713c2d9cbe34d32effd67a5f450e4f657312da6c3ed7afd3622a
+size 316

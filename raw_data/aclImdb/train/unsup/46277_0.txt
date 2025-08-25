@@ -1,1 +1,3 @@
-Rented it because I'm a Sophia Loren fan. It's obvious that she got the illustrious cast to sign on so her son would have something to do. He is a bad writer and even worse director. No energy at all in the film, lots of dead space, trite camera angles; the women in the film are colorless, downtrodden, and hopeless. This portrayal of women is surprising since Eduoardo Ponti's mother is the vivacious Sophia Loren. The camera angles are especially unflattering to her. What's up with that? This film is a complete waste of talent considering the big stars in the film. Even after the women make life-altering changes, they still look weepy and pathetic. The script has every cliché in the book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb5c9cae7235686dc73f6e300d620b45a8e80a1552431e2ae71ef3c8ecbe626
+size 697

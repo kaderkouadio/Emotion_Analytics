@@ -1,1 +1,3 @@
-. . . is just as good as the original. Very nearly achieves greatness because of Cundieff's remarkable ear for music and dialogue. Skewers the self-important swagger of the hip-hop poseurs. The group "Niggaz with Hats" (NWH) are every rap group you ever heard and utterly self-parodic. Wardrobe is unbelievable. Buy the OOP soundtrack if you can.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd96bc19a3e315a59e55f9608c8b4d98cbaa5bcdb4b1c3f0f7e5282c0b3d5def
+size 346

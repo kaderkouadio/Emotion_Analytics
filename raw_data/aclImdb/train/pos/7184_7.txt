@@ -1,1 +1,3 @@
-I absolutely love this show, but I saw the second episode first. After watching the first episode I could see why people were turned off at first. The first episode's humor is not the best, and they struggle to properly start the series. However, I still like the light and humorous attitude of the show. The characters develop much more after the episode and become truly enjoyable characters. As a first episode, it really doesn't accurately represent the rest of the show which is really quite good. The episode is not bad by any means, but as the show progresses it becomes better and better, so watch more episodes before passing any judgement on the quality of the show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e39f34440b7ce97e0676ee7d8a3e1af760cb5d929919a069a693fcb72cfa93d
+size 676

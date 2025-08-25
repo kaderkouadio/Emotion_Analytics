@@ -1,1 +1,3 @@
-An early John Wayne western that only ran for an hour, this was surprisingly entertaining. Since he was a beginning actor and this was a Grade B-type of production, I didn't except it to be so entertaining, although now that I've watched a lot of early '30s films, I am not surprised. Movies in that era were pretty fast- moving ones.<br /><br />What makes this fun is the combination of western action, a few spooky things and comedy. The latter is mostly supplied by Blue Washington who plays "Clarence Washington Brown," a Mantan Morleand-like character. Yeah, I know this kind of role is demeaning to blacks and it's almost embarrassing to watch nowadays, but Washington was funny. The "western" part of the story is just so-so.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be34ea83d90310ae425ff0ff81d3fcc5b60ed6f59be7f8d44ca9f3f2e3a0d35c
+size 732

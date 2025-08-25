@@ -1,1 +1,3 @@
-For a "no budget" movie this thing rocks. I don't know if America's gonna like it, but we were laughing all the way through. Some really Funny Funny stuff. Really non-Hollywood.<br /><br />The Actors and Music rocked. The cars and gags and even the less in your face stuff cracked us up. Whooo Whooo!<br /><br />I've seen some of the actors before, but never in anything like this, one or two of them I think I've seen in commercials or in something somewhere. Basically it Rocked! Luckily I got to see a copy from a friend of one of the actors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a387b272196423af6c89edf9bc75f6df55210eeb06bce8d2fa99ba78f0b5e23c
+size 545

@@ -1,1 +1,3 @@
-I have to start keeping a log of movies watched. If I've ever seen a worse film, I can't remember it. <br /><br />Utter ordure from beginning to end. I won't dignify it with with any analysis or description beyond that, except to say that there's a brief, hopeful moment when we learn that the setting is a "clinic for the treatment of nymphomania," but alas...<br /><br />I don't know what the other reviewer is drinking - I like bourbon, and the only way I can imagine liquor making this "film" any better is during that brief, fleeting moment of vivid hallucination (that we're watching some other movie, perhaps?) that comes right after hepatic shutdown, and just before irreversible coma.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b839e350e78f0e1ccd8a65bbcec08b32d0140c2e4b688814abfc7f9af50f2be7
+size 693

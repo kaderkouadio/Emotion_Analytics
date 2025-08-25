@@ -1,1 +1,3 @@
-this particular title is very interesting. the whole movie was like watching a ninja RPG, which is really cool. three magical swords, three clans, a horrible demon, a political power, yotoden has it all. the animation is decent, but a little grainy, the story is top notch, and the fight scenes are real cool. one thing that really looks good in this movie are the monsters. they are pretty freaky. if you liked blood reign and ninja scroll, yotoden is the one to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0a434a2a67d51db26b48e996321c31d5076e3e74c9404b48ed3e317b05587c
+size 468

@@ -1,1 +1,3 @@
-I started watching this movie with a lot of interest. It seemed different. But, by its mid-point (if one could say something like this), I decided that the movie became predictable, and frankly, quite annoying. I wonder who needs to be continuously in the flux of things, wandering aimlessly. But I guess here's the trick: this is a movie with a (hidden) structure: its apparently aimless characters and their events do encircle into a series of "uneventful" experiences. The pattern is to paste all these events like in a randomly done collage. Finally, I think the movie reinforces the idea that even apparently nonsensical events do have a structure. If I am correct, then I guess the purpose of the movie diminishes considerably, and its philosophy works against itself like a boomerang.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b94add958a2370170354a4338aa28f7e03c5a89176d507f2c2bc51f2cba9023
+size 791

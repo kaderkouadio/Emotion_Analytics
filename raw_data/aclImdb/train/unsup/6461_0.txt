@@ -1,1 +1,3 @@
-If you're a fan of edgy, surreal movies this is one for you. The film moves at a very slow pace and sometimes it's hard to follow the dialogue because it subtitled, but in the end it's well worth it. This film centers around a mob lieutenant who suspects he is being betrayed by his boss. He takes flight on the island of Okinawa, meets a girl, and takes an unstable grip on his situation. The people in the film live and die and move like pieces on a chessboard. People appear to cease living and become simply tools of a kingpin and ultimately of fate. Some may be turned off by it's foreign label, but it would be a pity to miss this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1df45a5a64229b2b963f06fbaadc1d6663cf3dc6ae89b091a51ced2ddd63c34d
+size 641

@@ -1,1 +1,3 @@
-See it. Lyrical, beautifully shot, quietly hilarious in spots, this film is seldom screened. Perhaps more than his better-known works, this film showcases Bergman's love of women. Bjork, Dahlbeck and especially Nilsson are adoringly photographed; this is passionate young Bergman. A delight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b205251706fb9ea1b4d6d317d29a39f0760a60735641aab84fffb659eba90ec
+size 291

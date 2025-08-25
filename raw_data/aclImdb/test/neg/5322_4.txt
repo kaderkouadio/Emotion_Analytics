@@ -1,1 +1,3 @@
-A terminally dull mystery-thriller, which may sound pretty sound theoretically but plays out very poorly. The ludicrous script is full of (MINOR SPOILER) people dying and then coming back to life when the plot requires them to, and the director doesn't seem able to work up any energy and suspense. The gooey sequence that kind of "explains" the film's title is the only halfway memorable one in this tiresome film. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5a28356560e82aa2f18d297215a4177065677ff9a9121dac317d12bf3192905
+size 422

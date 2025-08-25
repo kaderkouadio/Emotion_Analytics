@@ -1,1 +1,3 @@
-1 thing. this movie sucks BIG TIME..i was into singaporean comedy when Chiken Rice war came along. But, this time, even Gurmit Singh (well-done) acting cant pull this one of. A total failure of following HK's Shaolin Soccer. Next time: do ur own thing!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eda338863a039cb2dfd53cc069096aa67b6041f1da0000240853042701cab040
+size 252

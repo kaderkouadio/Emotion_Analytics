@@ -1,1 +1,3 @@
-A really funny British comedy from the mid 1950's about a school for girls. The girls are all involved in mischief and mayhem, making bathtub gin, smoking and gambling. Alastair Sim plays Headmistress Millicent in a glorious drag role, as well as playing Millicent's brother. A female police officer goes to the school undercover to see what is going on. This film is funny, having great sight gags and Alastair Sim is great. Just a classic Britsh comedy, lots of fun and not too cruse. Joan Sims ans Sid James, stars of many Carry On films, play small roles, but this film is about the girls. It spawned 3 sequels and a recent re-make. Watch and enjoy where it all began.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea4dd8e78a4894e93804fe6f491f09b41e094a8ad38d6837707b4e1397e59b6f
+size 672

@@ -1,1 +1,3 @@
-<br /><br />Cheap-looking and ugly, this film didn't even seem to entertain the kids in the audience, except for one fairly amusing toilet joke. Christopher Lloyd is way past his prime and actually quite tiresome in this role, although the sorry excuse for jokes by the writers don't help.   Elizabeth Hurley is embarrassingly amateurish in a supposedly comic role. Jeff Daniels and Darryl Hannah avoid humiliation. There is really no reason to make this movie, especially since it is unavoidable that one will compare it with Robin Williams's often brilliant improvisations in Mork & Mindy.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ac1f4c553d45b76346fd563624cf81c1be3f45bf1293fea41f886c7e992d832
+size 604

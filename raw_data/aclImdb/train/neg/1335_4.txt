@@ -1,1 +1,3 @@
-This movie was awesome!! (Not quite as good as the Leif Garrett masterpiece Longshot) but still awesome!! I thought Ashley looked freakin' huge compared to Mary-Kate in this film. I wonder why. Who woulda thought they could swith places like that and almost get away with it. Dad was kinda a jerk though and Mom was a little too chummy with Helmit Head. I give it 4. Any one who likes this movie shoudl check out Longshot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:002241c7df304a005110848b093eb154211a1b1971006eace226c1d835293f21
+size 422

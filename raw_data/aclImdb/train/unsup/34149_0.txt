@@ -1,1 +1,3 @@
-Four friends facing their demons the summer after college graduation. This movie tries to be more than it is. It's characters are one dimensional parody's of what they could be. Situation are contrived.<br /><br />The writing is hit and miss. mostly miss. Production values are mostly good, although you do see the boom microphone is a couple of scenes.<br /><br />The acting is just a bit over the top. Something a good director could have fixed.<br /><br />Bottom line. Save your money and go see something else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21e26eceb33524aeb006ffa25e620b0a1f878310ccd86bf4a631d8c48edaba1d
+size 514

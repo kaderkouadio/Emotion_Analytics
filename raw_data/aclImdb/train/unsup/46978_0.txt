@@ -1,1 +1,3 @@
-Ninja Scroll is the best anime and it seems to me that Ninja Resurrection tries to live in the fame of it's ancestor but has no real ties to Ninja Scroll besides Jubei the vagabond. The art direction is of a totally different style then Ninja Scroll and Resurrection is only an hour long, if that. It ends all too suddenly and there are plenty of questions still left unanswered by the end. Not worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80ae1301b758248d8c4bdd6e55b2d482c924d5108e92245a7091edf608e5033c
+size 408

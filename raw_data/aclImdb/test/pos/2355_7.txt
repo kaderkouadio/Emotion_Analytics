@@ -1,1 +1,3 @@
-Saw this film the first time in 1953 with my older brother. It was one of the great 3 Demension films released in that era. We saw it at least thirteen times and were proud of it. Scott does a typical western shoot em up job while surrounded by the Indian arrows rather than surround sound. Oh, for those polaroid lenses again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6495dee10c58e10142577ac6bba9c74e437ef5521c306dd3bb7e410888cf2f
+size 327

@@ -1,1 +1,3 @@
-This is a very boring 50s B-zombie movie about an ex-Nazi scientist, secretly in America, experimenting with atomic energy on humans. Using recently deceased cadavers stolen from the morgue, he uses radioactivity to bring them back to life and control their movements in order to seek out revenge on enemies. The police and eventually the government are on the case, picking up traces of radio-active chemicals left behind by the zombified killers. CREATURE WITH THE ATOM BRAIN is basically nothing new and is very dull and ridiculous throughout. The zombies got the stitches across the forehead, which is very B-movie-like and dumb looking. Laughable, but otherwise don't bother...
+version https://git-lfs.github.com/spec/v1
+oid sha256:a66affeff7d21e36e62c660b328d5ddafa850d145e1935c4ba3b9d50497ea8e6
+size 682

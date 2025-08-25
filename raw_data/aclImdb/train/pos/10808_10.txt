@@ -1,1 +1,3 @@
-I enjoyed every moment of this movie, even though I knew they could never really be together. With the life expectancy of a Bomber pilot being only six weeks, It made me feel for all of those women and men back in the 1940's who must have lived this story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d3ac7e76dff8221e90f35e3f3255dd3ab33706cc56c284d00f74529b706d7df
+size 256

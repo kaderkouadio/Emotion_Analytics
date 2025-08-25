@@ -1,1 +1,3 @@
-A group of seven people fear they are the only survivors of a near world ending H-bomb blast. Not only do they fear the radiation, but also mutants in the surrounding hillside. One of the group is already contaminated, but strangely poses no real threat to the others. Just surviving the friction of assorted personalities at close range is the sub-plot. Richard Denning plays the hero. Mike Connors is close to the edge playing a tough guy. Lori Nelson is the girl destined to start populating a brave new world. Not one of director Roger Corman's best. This is predictable black and white sci-fi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d49e7fcf11b77698beef1af97325934084a23227a696f50ad111d634e6e866a
+size 598

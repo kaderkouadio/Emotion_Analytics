@@ -1,1 +1,3 @@
-I was really horrified by this eerie movie. What an unusual dark atmosphere. And such a creepy musical score. Really promising! Indeed, after ten minutes you really start sweating, and feeling uncomfortable, for you start fearing the worst. This movie has the atmosphere of a true nightmare, and what's worse-it all comes out. For one hour and a half I have been trying to fight complete boredom and falling asleep, but the monstrous soundtrack kept me awake. Nuit Noire is a truly horrifying picture - for your eyes, your ears, your intelligence, and most of all: your wallet, since the thought of spending precious money on a movie ticket for this cheap amateuristic homevideo is the biggest horror of all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e8eea9a3a7b555edb8e444258c89be296c4ec64822d71287a0384895903c18a
+size 708

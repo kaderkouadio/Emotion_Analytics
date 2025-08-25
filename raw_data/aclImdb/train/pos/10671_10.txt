@@ -1,1 +1,3 @@
-I love this movie. I mean the story may not be the best, but the dancing most certainly makes up for it. You get to know a little bit about each character the way THEY want you to learn about them. I just think that you won't like this movie unless you're into Broadway...
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d15fa113fc5af11d768a93a14c08d74384ba5365f30ae406d13f1eda72aa2f5
+size 272

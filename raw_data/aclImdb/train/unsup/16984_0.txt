@@ -1,1 +1,3 @@
-This is one of a long line of "idiot" movies; so called because they only appeal to morons.<br /><br />The only GOOD thing that can be said about it is it would make a good 15 segment serial of the 40s and 50s.<br /><br />As a movie, it is totally unbelievable, absurd, and just another vehicle for the lavish and costly "action enhancement" Hollywood grinds out.<br /><br />I would have it packaged with "Return of The Atomic Man", and shown on Saturday morning along wiith "Buck Jones" and "The Three Mesquiteers" (Retroactive to 1947)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfabf456be17766ac6cfa93552781999976b1ed7040a8ab2f659caf567e75693
+size 537

@@ -1,1 +1,3 @@
-I and a friend rented this movie. We both found the movie soundtrack and production techniques to be lagging. The movie's plot appeared to drag on throughout with little surprise in the ending. We both agreed that the movie could have been compressed into roughly an hour giving it more suspense and moving plot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ba6a9d04a7ca6f94f65b7686d4489cfa4ad4345fd397b472b66ecc7a93b353e
+size 312

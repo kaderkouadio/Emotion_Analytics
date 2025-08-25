@@ -1,1 +1,3 @@
-I had low expectations for this film *considering I'd never even heard of Cinderella II). But its actually cute. the songs are forgettable, but the story is creative and fresh. Like the way the stepsisters and Lucifer and not just incorporated but become a key component of this movie. The prince is actually given a personality - unlike other Disney movies that focus so much on the women that ya never get a peak into the dudes perspective. Lingering questions and disbelief are common in fairy tales, but this flick actually does a good job of addressing those questions up front. If you have a young girl, i say thumbs way up! If you are twenty- or thirty-something who grew up with Cinderella, find yourself a five-year-old and cue it up. anyone else -- don't bother.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fd5ff99d63d076ee073c659925c574834543d0093f02b12fc471d999bbc7ae9
+size 772

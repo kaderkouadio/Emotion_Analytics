@@ -1,1 +1,3 @@
-I think the people who criticize this film do so because they've been trained to watch movies the way Hollywood makes them. This is as far from Hollywood as a gangster film can get. The quiet (or as some might say, boring) moments are there because the characters exist in a realistic world where sometimes they can do nothing but sit and think. Sonatine isn't perfect, but it can certainly be appreciated if the viewer will approach it with an open mind. Also, the sumo scene is very fun and beautiful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df60218aafda020517599b05bbc7004e657fc67b7ccdccd4f8374d4dac7bff36
+size 503

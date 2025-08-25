@@ -1,1 +1,3 @@
-Well another shootem up. Typical run around film with guns, revenge, and violence. Not much of a story. In fact I forgot most of what this film is about. Don't rent this one. I think the exercise infomertial would be more entertaining during late night.
+version https://git-lfs.github.com/spec/v1
+oid sha256:218fee2a1256cabe58940f4791af91080f23a0709909ff2abe242ebc0737505d
+size 253

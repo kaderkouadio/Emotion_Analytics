@@ -1,1 +1,3 @@
-This was an awful short film that tries to be funny in a dark way but wasn't funny at all. Say at a film festival in Chicago. It really is what the title says and I simply wasn't into it at all. The bad storytelling was what did it in. If you re-wrote it and re-shot it, it "might" work. This attempt fell in "the hole". Horrible filmmaking.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a73e8fabb45857ff9fb5fe007f724896502309cbec640d45043a64866299a4a
+size 341

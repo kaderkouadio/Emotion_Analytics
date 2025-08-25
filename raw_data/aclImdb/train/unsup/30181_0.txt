@@ -1,1 +1,3 @@
-I am a fan of Henry Miller and have read many of his books. When I saw a DVD of "Quiet Days in Clichy" on my local video store's "Staff Pick's" shelf, I excitedly plucked it off and read the back.<br /><br />It sounded great, an artistic rendition of one of Miller's works. I took it home practically rubbing my hands.<br /><br />As the previous reviewer commented, the acting is abysmal. Painful to watch. What a disappointment.<br /><br />The photography is good. There are some (filming) tricks employed, but do nothing to salvage this failure.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5215c70ced5f56594e31a9b52382fa0c4b33c5c34a10a624b2f1b4c70886dd12
+size 547

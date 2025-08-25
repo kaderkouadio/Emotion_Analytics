@@ -1,1 +1,3 @@
-When I saw this as a child, it answered all of my questions and dispelled any fears or misconceptions that I had. It is easy to watch because it is animated, which makes it unthreatening. It has no moral bias or "preachy" aspects, so nobody should have any objections to it. It is a pleasant film that simply gives the facts of menstruation in a reassuring, "matter-of-fact" way. I hope to show it to my daughter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5650bc63cc89945e79319cc5c63ea1d77b6d5d9a7335b6b8bac1c1a7675018e8
+size 413

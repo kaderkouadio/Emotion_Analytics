@@ -1,1 +1,3 @@
-To summerize this movie: nice for TV but too small for the theatre. I enjoyed watching this movie at home but I wont watch it a second time. The concept is good, but what ends up in the movie is just a summary. The end had a 'nice' twist but is still unsatisfying. Maybe it was the intention of the director but it wasn't worked out like a it should be. But then again, it's an OK kind of movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3854a2da1edf2fece0229c480e025e705886e3ce4842b3c364ea7278fbe81b3
+size 395

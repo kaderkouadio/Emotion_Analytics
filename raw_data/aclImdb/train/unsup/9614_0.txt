@@ -1,1 +1,3 @@
-The thin plot is weakened by poor acting and worse army skills. The soldiers combat in a hostile state shirtless, shooting only from the waist, never aiming, but always seem to hit the forehead. They never crouch or lie down for better aim, they rather stand up in clear sight. The Arab enemies never shoot from behind a shelter, they too are always standing up, usually in the middle of the corridors. The chase scene in the end of the movie is ridiculous. The Arabs send all of their vehicles to the same spot where they are all butchered at once. The interrogation scene in the airplane is preposterous, as the US army interrogates the terrorist with a pull-down screen, without the terrible noise of the engines sounding anytime. What a waste of time...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f113883a7aa349f35a8e40d94cd0b1761dcc284f83c024b49e2297a794ece4aa
+size 757

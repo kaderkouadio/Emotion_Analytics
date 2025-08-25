@@ -1,1 +1,3 @@
-Poorly acted, poorly written and poorly directed. Special effects are cheap. Best performance is by Yvette Napir, but that's not saying much. Story is a confusing mess about corporate greed leading to sabotage of a space station and an attempt to rescue those stranded aboard.<br /><br /> There is little suspense and even less action. There's one car chase that's not bad, but the rest of the movie is simply a waste of everyone's time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf801aaf98ad30c784261f0c80b544de32079e04f35bbaeac4d14fdd4caec959
+size 437

@@ -1,1 +1,3 @@
-I have seen and enjoyed all of the Chameleon movies and I must say they keep getting better & better with each one. Bobbie Phillips is Fantastic and my granddaughter wants to be just like her. I'm glad they brought in a "Brother" character for Bobbie (Kam) so we can expect to see more exciting shows. Bobbie is beautiful, sexy, and sweet, and independent at the same time, and everything any female could desire to be!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e73a2f436ab23b80f381839fe1c7e8b017286937b8c6bd5594359892a2bc2138
+size 419

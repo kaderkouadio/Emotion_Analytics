@@ -1,1 +1,3 @@
-Worth watching as both a vigilante movie and as a meditation on the meaning of family, this movie surprised me with the level of it's performances. Liam Neeson contributed his usual fine job, as did a nicely creepy David Baldwin, and a nice mob boss performance by Andreas Katsulas (better known as the One Armed Man from the Harrison Ford movie of "The Fugitive"). Good little wussy role by Ben Stiller; nice supporting job by Helen Hunt. Patrick Swayze does a good dependable job in this movie, but is outshone by the finely understated performances of the men playing his relatives from backwoods Kentucky. Great use of Chicago locations, though the "L" trains running past my house don't appear to have the conveniently flat roofs to jump on. (Alright, a minor quibble). All in all, quite worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85261e92d49b02c3123b359a8ca2c46da3e2c4c370df71d17c38bf336cb775b
+size 808

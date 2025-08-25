@@ -1,1 +1,3 @@
-its too bad that no one knows anything about this movie, and it gets old telling people it's rap's version of spinal tap. and you know, im sorry i dont have any better comments, but damnit, go get the movie and watch it, and then make all your friends watch it too, just like im gonna.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff4e58fe174e9d7d3b2e87b23b3e922e7a006122e32c1d9e66c2992f5e21d35c
+size 285

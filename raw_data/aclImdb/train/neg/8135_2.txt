@@ -1,1 +1,3 @@
-This movie promised bat people. It didn't deliver. There was a guy who got bit by a bat, but what was with the seizures? And the stupid transformation? Where was the plot? Where was the acting? Who came up with the idea to make this? Why was it allowed to be made? Why? Why? I guess we'll never know.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e585cd6930e422dbb4745b8746a229cf8904b9f035a578eedd66615a31b3bad
+size 300

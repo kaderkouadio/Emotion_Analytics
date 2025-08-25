@@ -1,1 +1,3 @@
-I own this movie. I am actually from the same town as the brother directors. But that doesn't make the film any better. But, if one night you wanna watch something not serious, and don't have and high expectations, I strongly recommend Demon Summer. Yes, the lines are cheesy and the plot is corny. But it contains key elements of a horror/comedy. I just wanna see some small-town kids make a movie full of effects. And I say "bravo" to the Campell brothers. They are now making more movies and continuing a long dream. Demon Summer was one of the movies that are gonna help them start a great career with a great future. Speed Freak Productions and Compound Pictures described in one word: POTENTIAL
+version https://git-lfs.github.com/spec/v1
+oid sha256:19bbb8df4029443114b2fde69a08b125f0354221d4d038d65778607319792180
+size 700

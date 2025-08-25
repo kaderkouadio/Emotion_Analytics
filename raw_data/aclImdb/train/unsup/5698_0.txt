@@ -1,1 +1,3 @@
-This short, which won an Academy Award, is the best animated adaptation that I've yet seen and is better than a couple of the live-action versions. Everything is top-notch-animation, voice-casting (particularly Sim reprising his performance as Scrooge), production values. The adaptation is quite true to the tone and spirit of the original work, even with the necessary truncation imposed by the brief length. Good to have it in print. Most recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4217837b17a9e959b2025ae227330cfa517881b49e35b63c0f39e60a1c975f22
+size 454

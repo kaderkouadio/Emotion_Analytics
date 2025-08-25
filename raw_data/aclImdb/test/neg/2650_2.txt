@@ -1,1 +1,3 @@
-To quote one critic's review of the movie, "it started off slow and stopped." The plot was believeable enough (although some of the characters' actions seemed very, very RANDOM), the script was fairly well written (in that the dialogue did not seem forced), but everything went way too slowly. There were too many pauses between lines, and the way the lines were delivered was not all that great. This movie had potential, but blew it like a teenager turning to drugs. My advice? Wait for it to come on TV before you see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d1a2eccec14ec84fb4498fbf4bb0bb5f4f585845c6d7e8d361f06b84a397e90
+size 524

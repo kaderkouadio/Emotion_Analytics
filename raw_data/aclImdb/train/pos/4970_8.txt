@@ -1,1 +1,3 @@
-Some critics found this film bleak, but for me there was enough good humour and optimism to overcome this impression. For example, the quietly positive and stoic character of the daughter is the still centre of the film, often counterbalancing the unhappy aspects of the setting and plotline.<br /><br />The film is full of original ideas and characters, and the final outcome is not predictable: I felt it could've gone either way.<br /><br />By the way, many reviews I've read mention the effective use of black and white, but the print I saw, shown on the SBS TV network here in Australia, was in full colour.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:59004f3e202e2d510334debc4b063df9d83c7b00e5ebd42dd511648b4cbd4a4b
+size 624

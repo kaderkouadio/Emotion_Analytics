@@ -1,1 +1,3 @@
-Middling adaptation of Roger Hedden's play about four twentysomethings in small Arizona town trying to find some truth in their lives. Acting showcase for Eric Stoltz, Bridget Fonda, Phoebe Cates and Tim Roth is surprisingly uneventful--and mercilessly slow-moving. Performances by Fonda and Cates outclass the men, with Roth a real irritant as a feckless drifter (of course, the character as written isn't exactly a charmer). Some of the dialogue is sharp and there are interesting bits and pieces. Stoltz also co-produced, and the small budgeted film has a very stylish, quasi-surreal look that bolsters the limp action. ** from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a120a9ca2996c82edf2720287ec8285c19493ae0d392d95cdb70068047b101b
+size 635

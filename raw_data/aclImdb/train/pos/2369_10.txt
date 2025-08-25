@@ -1,1 +1,3 @@
-This movie really rocks! Jeff Wincott is terrific in the film! His fighting incredible! He is such a fast martial artist! Brigitte Nielsen & Matthias Hues was very good! Mission of Justice is an action packed movie that is never boring! If you like fighting movies with incredible non stop action then check out Mission of Justice today!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7709d827650742eb7e8082839f77539b22d8fed5b7de51eced3a0c788266e25
+size 337

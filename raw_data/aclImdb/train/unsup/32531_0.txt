@@ -1,1 +1,3 @@
-Not even Sharon Stone's breathless performance could save this movie from itself. Apparently most of the movie's budget was spent on transporting crew and equipment to Zimbabwe for a few outside shots, then back to the LA Public Library (aka Temple of Gold) to shoot the important scenes. And, of course, the big shiny axe, wielded expertly by none other than a dentally impaired James Earl Jones.<br /><br />Do we even need to get into the finer points of Elvira acting as the wicked temple queen? Save yourself the trouble, and channelsurf until you find a Tony Danza marathon - the acting will be better and you might find a plotline you can follow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e66c16518a3db645fa9f95a11c9460212fc08ee6c3c4fa4325fc22d5e9da3e61
+size 652

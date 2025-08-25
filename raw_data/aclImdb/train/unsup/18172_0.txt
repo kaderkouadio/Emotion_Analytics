@@ -1,1 +1,3 @@
-Interesting film about a young college coed who becomes involved with a young man who has connections that extend well into the underworld and who only needs the right book to unleash them. Sandra Dee in a surprisingly sexy role as the young student and Les Baxter's very nice soundtrack just about save an effort where the actual film doesn't do justice to its title. Nonetheless the production design creates creepy atmosphere especially in the seaside alter where Dee is nearly undressed while Stockwell prepares her for the arrival of Satan himself. And there is a certain amount of imagination involved in the film that combines a nice mixture of classic horror themes with hip sensibilities.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feb6495f4d8a1789a2d9c9a52b16388279e9d7149113c8d13907fcb01ed2f2a4
+size 697

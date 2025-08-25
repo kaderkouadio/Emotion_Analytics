@@ -1,1 +1,3 @@
-This version of Bleak House is the best adaptation of a classic novel known to me. The representation of the court of Chancery as a 'character' in the drama is magnificent. The acting is marvellous, from the sinister Tulkinghorn, to the Dedlocks, Smallweed, Crooke, Miss Flyte, and the two young lovers. But it is the spider's web of chancery that holds the whole thing together, and the cinematography is superb. What mistake did the BBC make about copyright that meant that this version could not be seen in the UK on either video or DVD for many years? I tried to find out from them, but faced a stone wall. In the end I got a DVD copy from Canada.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5daacf6dd3c5adad9c75de6316e4caa9caa6a5579333fec4d2f2730dc1dfb9c6
+size 651

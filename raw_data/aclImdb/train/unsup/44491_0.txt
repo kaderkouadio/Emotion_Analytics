@@ -1,1 +1,3 @@
-Jeff Goldblum seem to like playing bad guys in Charlie's films. <br /><br />He gets back at Goldblum for the Death Wish film. A few good scenes, and good b actors. This film has one of those 70's films that makes little sense. I would not rent this one again, it seem the 70's made many films with huge holes in the scripts 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:61f9d79d65f856c5c2bf6cd1e0f652a2086279d869aa25624e9ea5f31d6d0162
+size 328

@@ -1,1 +1,3 @@
-The humor is non-existent in this loser of a movie. Carrot Top plays a surfer dude inventor who consistently blows the rent money on his goofy, useless inventions. Then he helps an old guy broken down by the side of the road, and voila, he's inherited a major corporation. And on and on and on past the jealous relatives, humanizing the corporation, hostile takeovers, the obligatory love interest.. aargh...let's just say this movie is virtually unwatchable. What Carrot Top has accomplished is to convince me never to go to his stage shows.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2a4a37dfaa7d521e7a055955b935b45c10c2bfb6987eeb9214fad2f6b8a9e61
+size 542

@@ -1,1 +1,3 @@
-A boxer fights his way to the top while dealing with corruption. Garfield has perhaps the best role of his career, as he marvelously conveys the toughness, confidence, and compassion of his character. Palmer is equally good as his girlfriend, a practical woman who stands by her man. Revere made a career out of playing understanding mothers, and here she is Garfield's mother. In a sad coincidence, Lee, who plays a rival boxer, had an untimely death of a heart attack in May 1952, two weeks before Garfield died young of a heart attack. Rossen does a good job of creating a gritty, film noir atmosphere in what is generally regarded as one of the best boxing films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:588d7ae6eda7cfbca24d2f362c7c591da400ebf27b977b277c4f8c0bd3d85d38
+size 667

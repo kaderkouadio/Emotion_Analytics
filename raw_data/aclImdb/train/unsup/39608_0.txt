@@ -1,1 +1,3 @@
-A 90's Bonnie and Clyde-type flick. This movie is loaded with cliches, inane dialog and lousy acting. <br /><br />The only saving grace is the always superb John Spencer as the lonely, creepy (but strangely loveable) Uncle Mike
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1e1e159ed8086e1e584ff6191525f74eb652f7b811aa20e5bac5bc38a3e9c73
+size 227

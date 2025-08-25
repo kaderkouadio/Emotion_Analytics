@@ -1,1 +1,3 @@
-Kevin Zegers is a very talented actor, and the movie is very good too.<br /><br />It is very good actors in the movie and the special effects is excellent.<br /><br />If you like action you should see this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ab7e2e0f6c7b86444dc7c6e29d0372a5dad73cbde1aeea027c895f517e96c3c
+size 212

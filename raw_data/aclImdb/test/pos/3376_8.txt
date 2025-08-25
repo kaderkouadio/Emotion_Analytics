@@ -1,1 +1,3 @@
-The premise is rather original and well thought-of, but unfortunately, siding a good story is very low budget that doesn't even allow for decent special effects. Jeff Fahey does his best amongst a poor cast, as does the always beautiful Linda Hoffman. They should make more movies together. The movie, while not worth much praise, warrants at least one viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c97d3154f6957349e0c4ec524f219b0c623a516e0a1c1e1b41980a435147ddba
+size 361

@@ -1,1 +1,3 @@
-I've watched the first 17 episodes and this series is simply amazing! I haven't been this interested in an anime series since Neon Genesis Evangelion. This series is actually based off an h-game, which I'm not sure if it's been done before or not, I haven't played the game, but from what I've heard it follows it very well.<br /><br />I give this series a 10/10. It has a great story, interesting characters, and some of the best animation I've seen. It also has some great Japanese music in it too!<br /><br />If you haven't seen this series yet, check it out. You can find subbed episodes on some anime websites out there, it's straight out of Japan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53d4c3de40f06f9dfad537221f5971c123e38103d5460c3a1ab90a8bed182d9a
+size 653

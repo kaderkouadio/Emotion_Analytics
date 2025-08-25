@@ -1,1 +1,3 @@
-This is a pathetic attempt to remake Robin Hood. The acting is feeble and totally unconvincing. This is a low budget movie with little conviction from the characters and little or no plot. It is hardly a swash-buckling tale, it almost put me to sleep and I was overjoyed when it ended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb6f3988d0d4183f4b0c7f5ae238e07b0dd72241774bc4a9d37cade06bb013b4
+size 285

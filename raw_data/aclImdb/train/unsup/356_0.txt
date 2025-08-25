@@ -1,1 +1,3 @@
-I was really looking forward to seeing this one: the trailer I'd seen promised much. Even the music sounded good. Sigh. With the exception(s) of two very lyrical dream sequences, there's absolutely nothing to recommend here. HAKAIDER calls to mind the American version of the GUYVER manganime, by way of ROBOCOP (which was itself nothing more than a thinly-veiled rip-off of the 2000 A.D. strip, JUDGE DREDD). Unlike ZEIRAM (or ZEIRAM 2) or TETSUO or any of a number of other well-done live-action anime, HAKAIDER offers nothing more than the aforementioned dream sequences; the rest is sound and fury signifying absolutely nothing. A major disappointment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b644e64aa2c28923bea17702c2c501e12fde28a25cdaf6ed4179a801c98b518a
+size 656

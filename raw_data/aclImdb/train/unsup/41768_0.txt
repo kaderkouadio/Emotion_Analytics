@@ -1,1 +1,3 @@
-The redeeming parts of this film are any scene with the Warden and Captain Deese. Everything else is cliched. Too many jump cuts and editing tricks. The acting for the most part is just a lot of yelling. The ending feels tacked on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4ceef5d882d705f4c28d57d252e1e2805188d0d8b06ff8cf727fef0f97d0cff
+size 231

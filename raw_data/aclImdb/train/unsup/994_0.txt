@@ -1,1 +1,3 @@
-"Tomorrow the World" is a thought provoking film about an American family who adopts a troubled German boy after the war. Together they try to undo the ridgid Nazi influence that was instilled in him (which is no easy feat). Leslie Fenton directs a first rate cast including Fredric March, Betty Field, Agnes Moorehead and Joan Carroll. However it is Skip Homeier as the Nazi youth who steals the picture with an electrifying performance. The film is available on video and DVD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a53d81db0e3b80fdc52bada8ed5f4a70efdb7b39cc23714c7e03de9c2e5f9232
+size 478

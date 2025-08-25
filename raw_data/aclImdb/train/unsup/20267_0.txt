@@ -1,1 +1,3 @@
-GIRL SHY is one of Lloyd's classics where that tight structure as the trademark of his comedy is most obvious. Every gag is so closed linked to another. It really leaves you marvel at his ability of building up and controlling his work. Besides, it is one of the great romantic comedies of the silent era, full of breath-taking imageries(like the scene when the Boy was dreaming about the Girl while fishing under a bridge..). It is hilarious throughout(especially for those 2 fantasy sequences). The great final chase is full of typical thrills that only Lloyd's comedy can provide(and, as we know it, `inspired' the final chase in The Graduate). Lloyd showed some wonderful drama acting ability too(when he had to dissuade the Girl from seeing him any more).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2440bd69f38821f5354a7e537692a0df4b653b2020a08867581cc4ee055245a7
+size 760

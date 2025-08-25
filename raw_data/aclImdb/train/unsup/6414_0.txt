@@ -1,1 +1,3 @@
-This is just possibly the most "perfect" movie ever made. There is no meaningless dialog; not a single extraneous character; and every plot twist is rational and reasonable. Not to mention a superb soundtrack. Because of the intense violence, particularly against women, it is a disturbing and difficult film to sit through. But if you care about the cinema, you must watch without interruption! Characters get what they deserve...in the beginning and at the climax. Let Kubrick take you on the emotional rollercoaster of your cinematic life. And don't forget to breathe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2bbe820b553a2a9cf3624a686ed18877fac750585ba36ff5ec0ed499729c2e
+size 571

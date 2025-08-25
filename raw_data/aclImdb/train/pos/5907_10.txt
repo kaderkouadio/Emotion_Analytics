@@ -1,1 +1,3 @@
-This is one of the best movie I have ever seen. My parents comes from rural India and to some extend I have seen the life of the villagers. Peoples are really poor and have financial and social problems. <br /><br />The movie just reflects exactly the same. Full credit to the director and the actor. They have done an excellent job. I just wonder how can movies like Lagaan and Paheli can go for Oscar and not Doghi. I don't understand the criteria on which the movies are selected. Is the money that makes the difference or having some big names in the movie makes the difference.<br /><br />Hope to see more movies like this in the future.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe30ee5df72c8a4bdb4e1c2d8a6e02be2ee21bd1e3f3052af8e2e261eaa24fac
+size 642

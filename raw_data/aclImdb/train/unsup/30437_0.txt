@@ -1,1 +1,3 @@
-I did not like the Flying Doctors; I absolutely adored them! When the series were on TV, I had never been to Australia before. Through the series, I discovered the real Australia; rough terrain, people keeping in contact through 27M7 radio, people living far from each other and the social life on the streets, in small villages. From August 1999 till May 2000, I have been to that land down under and found out that everything shown in that series, was real. I have been to Broken Hill, NSW and seen the township of Minyip in Victoria. It is the truth, that, once you've arrived in these small villages being a foreigner, everybody knows you're around.<br /><br />You might say that, in a way, I went to Australia because of the Flying Doctors.<br /><br />BRILLIANT SERIES!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a484272cbe6ba25a1e5e8d095970297d5b742742eb9b9399e6ca0835c010e1
+size 776

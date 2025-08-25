@@ -1,1 +1,3 @@
-Junior high and high school teachers will find "The Cure" an excellent teaching tool, both as a companion to "Huckleberry Finn" or as a stand-alone lesson. Although AIDS is supposed to be the main theme, the strong sup-text of friendship and love, as they evolve between Eric and Dexter, is a powerful message for teenagers. Writing prompts centered around the symbolism of the tennis shoe are particularly effective. I also suggest directed class discussion about how Eric evolves from manipulative user to loving friend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb08c43d0d19b31e21bba42034bbff86f4bf89edb13373593ed3960bc8146ab
+size 522

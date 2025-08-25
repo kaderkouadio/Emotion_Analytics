@@ -1,1 +1,3 @@
-This is a really fun movie. One of those you can sit and mindlessly watch as the plot gets more and more twisted; more and more funny. Sally Field, Teri Hatcher (in her hey-day), Kevin Klein, Elisabeth Shue, Robert Downey, Jr...It's all these well-known, quality actors acting as if they are soap opera stars/producers. If you have ever watched a soap opera and thought, "How on earth did they come up with THIS idea??", you will LOVE this movie. I have seen it multiple times; and each time I watch it, the more I appreciate the humor, the more I realize just how well-acted it really is. Don't expect Oscar quality. This is a fun movie to entertain, not some artsy attempt at finding "man's inner man", etc. Sit back, relax, and laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b757b6f7fb9ce06f4d94c165621eb2e898fa22f114f02b33ac98c821bdc76d80
+size 737

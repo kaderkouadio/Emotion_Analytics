@@ -1,1 +1,3 @@
-Not the best of the films to be watched nowadays. I read a lot of reviews about Shining and was expecting it to be very good. But this movie disappointed me. The sound and environment was good, but there was no story here. Not was there a single moment of fright. I expected it to a horror thriller movie, but there was no horror no thriller. The only scene where I got scared was during the chapter change scene showing "Wednesday". There are lots of fragments i the movie. Most of the things are left unexplained with nothing to link it to anything. The story does not tell us about the women or other scenes that is shown. Might be a good movie to watch in the 80's, but not for the 21st century.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0668069856a83f9d222302c822f5abc5f5211e87e130fd02008b3f28f702434
+size 699

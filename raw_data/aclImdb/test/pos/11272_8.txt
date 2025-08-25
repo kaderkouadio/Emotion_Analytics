@@ -1,1 +1,3 @@
-Begotten is one of the most unique films I've ever seen. It is more, to me, a study of sound, light and dark, and movement than a real story. The type of thing you see as a video instillation at the museum of modern art than a film enjoyed at the local theater. I'm not going to try to interpret the images of the mother nature, the beasts in cloaks, the twisted and tortured body of her "child". Some things just defy interpretation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f348c01cfd7c2e43869dcab79df471e9f043d800f222a80c318c729486c04734
+size 434

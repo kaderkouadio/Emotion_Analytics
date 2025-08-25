@@ -1,1 +1,3 @@
-Its a must own!! When you own it, it adds four minutes of footage that did not air when it aired back in 2002. It's one of my favorites from the Peanuts gang! It's right up there with, a CB christmas, first kiss, short summer and Why CB why? Great special!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd3bbb1466b2162f3780f554af46287ab15b1bc1c3380a87d0553cbe3af6178
+size 258

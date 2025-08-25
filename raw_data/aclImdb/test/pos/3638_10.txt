@@ -1,1 +1,3 @@
-Final Solution is a powerful christian film that shows the hate between the black and whites that was present in the days of apartheid. It shows how this hate was contrived and was groomed from generation to generation. Jan Ellis was taught that a black man was a plague. He was raised to be that way. <br /><br />Then he meets a man who is on the opposite side of his beliefs, Pastor Lekota. will he change his ways?. The film is a powerful movie that shows the perceptions the different races had for one another, it shows these perceptions with quite a lot of accuracy. The movie shows the world of how apartheid affected the psyche of blacks and whites.<br /><br />This is a great film that everyone should watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:182b0c0c0f7d061377d9b80901eb53adef512edec32071509b1faa3f12c4c8a8
+size 717

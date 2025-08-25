@@ -1,1 +1,3 @@
-As with THE SISTERHOOD, ALIENATOR, THE ASSAULT, LADY TERMINATOR, and this lame flick, they prove why you can never trust a box cover! If you really want to get into deadly, lethal passion without the useless nonsense, my suggestion is for you to grab a one-way ticket to China on board the TWA. There, you will find what you want. Remember, your very life depends on it!<br /><br />Am I the only one trying to preach? Never mind! All of us don't even care!!!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1cadce956d9d0c803e94aa99049dd9653df8354b43415acf277ba445a9cdd7b
+size 470

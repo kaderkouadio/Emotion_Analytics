@@ -1,1 +1,3 @@
-now, i LOVE zombies, & have sat through some terrible films in the search for a lost classic, or even just something remotely entertaining.<br /><br />This is some school kids attempt at a "cabinet of dr caligari" type movie,without the abstract sets - about 50 words are spoke in the whole film & repeated "visions" replayed over & over again from the main character, shot on video, the film makes less sense than a Jess Franco movie (that's saying something) there is one scene that's clever (the eat me scene) but really, i had to fast forward through chunks of it after 20 mins.<br /><br />Very hard work & probably the worst movie I've ever seen (& I've seen pot zombies & zombiez & zombie night, which are BAD!)
+version https://git-lfs.github.com/spec/v1
+oid sha256:190e1efd31125801b041b347a63a44e86b555f9e758d81146964481285d9f792
+size 717

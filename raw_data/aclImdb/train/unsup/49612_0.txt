@@ -1,1 +1,3 @@
-Nothing original in this film. All these bad scenes have appeared in movies for years. The plot is bad, the acting is bad, the timing is bad. Even Gary Busey, who usually gives a good effort, seemed to be sleepwalking through this one. The good guys and the bad guys were so alike that the only person you feel confident cheering for is Bubba Smith.
+version https://git-lfs.github.com/spec/v1
+oid sha256:963d9971c471794435bff76f7566a68caa29fc23609336c897d069fed0102741
+size 349

@@ -1,1 +1,3 @@
-What a bad movie. I'm really surprised that DeNiro and even Snipes would be associated with something like this. If you're going to make a movie that involves baseball, and shows scenes of baseball, at least make the action look somewhat realistic. Why was the crowd always standing up for no particular reason during games? ***POSSIBLE SPOILER*** And the last scene in the movie....what was that? We are somehow led to believe that DeNiro has found his way onto the field in an umpire's uniform, and that the game is even being played in a torrential downpour....one of the worst ever scenes in a sports movie. 3 stars out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1244a1be029f1b6263a3e97bea049a066de6253e308f1269e08b17b593d90ca6
+size 630

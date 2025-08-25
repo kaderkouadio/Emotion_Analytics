@@ -1,1 +1,3 @@
-I first saw this film when I was nine years old and it scared me to death. It was atmospheric for a young boy to watch and full of dark brooding camera work. Charles Laughton was excellent in the type of part in which he always excelled. Maureen O'Hara looked suitably beautiful and Robert Newton made a convincing Revenue man. This film cries out to be remade.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9664aafa696746da4fa3516a95d9cf5a24830bca0f507bcacd489ae5341718de
+size 361

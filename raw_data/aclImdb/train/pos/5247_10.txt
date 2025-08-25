@@ -1,1 +1,3 @@
-Clearly an hilarious movie.<br /><br />It angers me to see the poor ratings given to this piece of comic genius<br /><br />Please look at this for what it is, a funny, ridiculous enjoyable film. Laugh for christ sake!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb66b2e37237edbf55d8857e165a9d15d84a3a18e28c35fe5e9cadd3769f595
+size 229

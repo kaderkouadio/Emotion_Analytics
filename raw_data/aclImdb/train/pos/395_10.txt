@@ -1,1 +1,3 @@
-Visually stunning and full of Eastern Philosophy, this amazing martial arts fantasy is brought to you by master director Tsui Hark, the man behind some of the best films Hong Kong cinema has produced. The special effects are beautiful and imaginative. The plot is a bit on the cerebral side, but is a refreshing change from films that treat their audience as if they were morons. If thinking is not your forte, however, this may not be your movie. Maybe you should go see the latest from the Hollywood studio's no brain club, but if you are looking for something more, he's where you will find it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4834dbac9e81e4efcd733ed76ebf5ca19c8df88993e8a84d8ab607245e2d5ca
+size 597

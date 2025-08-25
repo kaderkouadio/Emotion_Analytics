@@ -1,1 +1,3 @@
-When I heard that Road to Wellville was made into a movie, starring Hopkins and Broderick, I was very eager to see it. All those weird, idiosyncratic things that are my home town's heritage would be charmingly explained on the silver screen. Alas, it was not to be. The book was well written, the movie was disappointing. The director seemed focused on enemas and did not relate all the other wonderful, bizarre and interesting treatments. My advice...read the book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4d685c4d66a9774e225cefeb83d0ccdb89dbc9169c2676ba0d8de39a7aa418
+size 466

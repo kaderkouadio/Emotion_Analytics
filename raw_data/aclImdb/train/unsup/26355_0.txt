@@ -1,1 +1,3 @@
-When Marilyn first goes to the embassy to meet the Grand Duke and ends up getting tipsy is an absolute riot. I think this is one of her better comedic jobs. Very enjoyable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d725b838791cab0837622057b519253732ee412cb8d48243a94dba562d347ff8
+size 172

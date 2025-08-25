@@ -1,1 +1,3 @@
-This is filmed theater and does not cut it as a movie. It just does not come across with any realism or vibrancy.<br /><br />The point is not that a film must have action. Indeed, one of my all-time favorite movies is "My Dinner with Andre", which consists entirely of a dinner conversation between two old friends. But "First Monday in October" just doesn't have any spark.<br /><br />3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8d24fb400de5c11a19075c5d59bb057b55ab1fe52e76b4d3d02b9448c98d715
+size 390

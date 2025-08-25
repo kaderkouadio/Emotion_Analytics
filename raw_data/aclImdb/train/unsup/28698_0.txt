@@ -1,1 +1,3 @@
-As Good as it Gets is a very funny movie, filled with great acting and lines that always hit the mark p-e-r-f-e-c-t-l-y... Jack Nicholson is absolutely perfect, and Helen Hunt proves that she can do better than playing in Twister... Greg Kinnear is also very convincing in his role. The Oscar-cursed Cuba Gooding Jr. gives one of his last good performances, if not THE last one... Great movie...<br /><br />85%
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8cb58a558e16f0e42c2009fd5e911f7b3b59e790fb9c3df892df39c55330d4
+size 410

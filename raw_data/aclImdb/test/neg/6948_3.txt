@@ -1,1 +1,3 @@
-<br /><br />In the process of boring you with the wordy, rambling storyline and the complete absence of character development, it manages to enforce a few negative black stereotypes out there. At one point I was wondering if Jesse Helms co-wrote the screenplay.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a705fd7d57fa6402422aa2d5956df0a3f34e96687ebcefaa595970687574d396
+size 261

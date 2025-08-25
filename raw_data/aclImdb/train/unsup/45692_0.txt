@@ -1,1 +1,3 @@
-My brother and I had never heard of this movie and had no intention of seeing it or any other movie the day we saw it. Just after having lunch, we walked by the theater and they had big signs announcing that Warlords of the 21st Century was only $1! Wow--a first-run movie for only a buck?! So we took the bait and saw the movie with absolutely no preconceptions--we didn't know who was in it, what it was about--in fact, we had never heard of it before.<br /><br />So, my final verdict?! It was overpriced--I want my dollar back! In fact, they should have PAID US to see this claptrap. The movie had lousy acting, writing, directing, etc. etc etc. It was a cheap, quickly assembled and uninteresting knockoff of the Road Warrior flicks. So bad that Troma films would be ashamed to release it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e063cf1afd04634d72d79da6f2a013318fe5365d23b88eb50fd407cd6b052829
+size 793

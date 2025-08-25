@@ -1,1 +1,3 @@
-Nightbreed is not only great, it is also unique, even taking into account other Barker's movies, which never lack originality. An amazing adaptation of a very interesting idea for a book. For the horror genre, it has quite a few of subtle symbolics and references. Certainly a lot of fun to have, a a bit to think about, if one cares to. And, not to forget, a nice music score. Well, the special effects, as usual, get old faster than anything, but that is probably the only drawback. I've just seen it again after ten years, and I still find it something to recommend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a781146a3aae00d15e85f67b65008bf14912f9f30cda99ea5ce1f8f9f9ec4624
+size 569

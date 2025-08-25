@@ -1,1 +1,3 @@
-This is one of the funniest movies that I have seen this year. The people that made it must be so incredibly whacked and twisted. It is a beautiful thing. There were a lot of quality one-liners. This movie blew Uncle Sam out of the water (it was made by tha same people, i think)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1b5a80476b0cc2ba0eeb972e9f2760c2da3cce48a163029aa12d5ddce861658
+size 279

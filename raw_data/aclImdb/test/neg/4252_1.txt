@@ -1,1 +1,3 @@
-A few words for the people here in germen's cine club: The worst crap ever seen on this honorable cinema. A very poor script, a very bad actors, and a very bad movie. Don't waste your time looking this movie, see the very good "mutantes verdes fritos anarquia radioactiva", or any movie have been good commented by me. Say no more.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb648c8532560f25f9d38e050a168d78dcf016fa0b2d299fd6e81ed897d45e7
+size 331

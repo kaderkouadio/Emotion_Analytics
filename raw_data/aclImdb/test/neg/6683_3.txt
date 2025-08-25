@@ -1,1 +1,3 @@
-Missed it at the cinema, but was always slightly compelled. Found it in the throw-out bin at my local video shop for a measly two bucks! Will I now give it away to anyone who wants it? Probably! No purposeful plot, one dimensional characters, plastic world ripped off from many far better films, no decent dialogue to speak of. You know that empty feeling when you come down off ecstasy? Its that feeling right here. Sad thing is, the Australia I know is heading in this direction, minus the melodrama and simple answers. Interesting only to see the older Aussie actors (who had to ACT back in their day to get by) vs the newer Aussie actors (who have to LOOK GOOD to get by). Like some horribly garish narrative introduction to a film clip that never actually starts... Poor Kylie, started her career as an actress as well...
+version https://git-lfs.github.com/spec/v1
+oid sha256:277f2aa5dc65bd1cc90b615b6e271735e8d7f19b1f90e24ab1698266f324b1d7
+size 826

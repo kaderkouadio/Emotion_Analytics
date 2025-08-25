@@ -1,1 +1,3 @@
-One of those el cheapo action adventures of the early 1980s that used to fill video rental stores solely to be taken out by adolescent boys in the hope of a cheap thrill.<br /><br />Woeful down market attempt to cash in on the Death Wish phenomenon by substituting a moderately attractive woman for the visually challenging Bronson. Acting is terrible, sets are cheap, the baddies are, well, bad. Identification with any of the characters is unlikely.<br /><br />Only redeeming feature is modest amount of gratuitous female nudity, a smattering of which is full frontal. Other than that, you can leave it...
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b97ea66d044af77cbcfd892e1dc636ac4e9798e7100730b8d943bc748d3c99b
+size 607

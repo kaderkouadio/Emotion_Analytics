@@ -1,1 +1,3 @@
-Definitely not worth the rental, but if you catch it on cable, you'll be pleasantly surprised by the cameos--Iman's appearance is especially self-deprecating. It's also an opportunity to watch all the male supporting cast members from The Sopranos typecast themselves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:283bd6f7b8e80042f54785bf69a025e851f7589c70707531b1ca925c9c62fc7e
+size 268

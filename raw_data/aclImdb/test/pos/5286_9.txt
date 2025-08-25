@@ -1,1 +1,3 @@
-My husband dragged me to this film as I had no interest in seeing some Anime cartoon. I was absolutely delighted by the simple story and amazing animation. In a digital world where effects are computer generated it was refreshing to see gorgeous, imaginative hand drawn animation. The world of Sosuke and Ponyo is a vivid fantasyland intermixed with minimal reality. I haven't seen animation like this since I was a child and it is wonderful to see it endure and succeed.<br /><br />The actors supplying the voices in the English version were fabulous. The length of the movie was PERFECT, especially for children who tend to get squirrelly in films. Overall a delightful experience worth the very expensive ticket prices we have nowadays.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b785fd9eb705925efbd6ba227e0ccdc7166eb27ab946980ea2418ce359935d5
+size 739

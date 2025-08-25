@@ -1,1 +1,3 @@
-Like a children's history lesson. Nothing worse than redundant dialogue that has to set the scene to save time. Two Yogi-isms in the first scene and then we don't hear from him again. Sort of like name dropping. Never been a Yankee fan and the depiction of the boorish Yankee fans and team have sealed their fate.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3e80ca85ad3b2754a928fb3d94d7f2c51bb83a7550841f90c3ca3276d9260f
+size 313

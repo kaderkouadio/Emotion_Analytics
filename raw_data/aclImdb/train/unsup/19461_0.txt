@@ -1,1 +1,3 @@
-My husband and I rented this film thinking it might be a classic farce, as the cover copy suggested. Thirty or so minutes in, we were wondering if we had rented a movie that had never actually been watched by the person writing the promotional material. It was slow and not a comedy, in our opinion, and definitely *not at all* like the description. We were bored and disappointed and ended up returning the film to the rental store.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:22aba383ab2419a3917c595081c9910879a6822235df6b7491f450a59f6e2845
+size 445

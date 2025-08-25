@@ -1,1 +1,3 @@
-This was not a very good movie. In fact, I thought it was one of the worst movies I have seen. I am amazed that they got as many famous people to be in it as they did. The holes in the plot were gigantic, and they left half the story merely to be told by one of the characters in a ten minute synopsis. But I would recommend people who haven't seen it to see it. Good oldfasioned flik to make fun of.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca3ed0ede8b69e9a0973df6e56121bc5c390135cdc517a4e08f6cdbb6ab632fc
+size 400

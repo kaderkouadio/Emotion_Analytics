@@ -1,1 +1,3 @@
-We all trudged through this B movie hell-bent on getting some benefit from our rental fee. Lame plot, stiff acting, bad direction, amateur camera-work... Have I forgotten anything? Oh yeah, Carrie Fisher is nothing short of sad. Very pathetic what's become of Princess Leia. My wife and I figured she had a stroke or perhaps did too many drugs. She was absolutely monolithic, that is, one face, one emotion, one tone of voice. And the girl! Leave her in some half-baked sitcom, please! And since when is a guy being a hunk criteria for granting a movie a positive review? Has everyone's brain turned to tapioca? Go watch some porn and quit providing an audience for film school dropouts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a56efd877e147d6f4078115fd9d0449004cbc86a94034f717c247a6efe13eaab
+size 687

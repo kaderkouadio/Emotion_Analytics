@@ -1,1 +1,3 @@
-This movie is not your typical horror movie. It has some campy humor and death scenes which can be sort of comical. I personally liked the movie because of its off-beat humor. It's definetely not a super scary movie, which is good if you don't want to be scared and paranoid afterwards. I liked the performance of the hillbilly guy and of Lester... very believable. I think I'm going to dye my hair red like that girl in Scarecrow- very cool! Anyway, overall worth renting for the campy humor and non typical horror experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ebb82fe80c5abd51d760a071ccd911c6054e2a1e5a3a7c88e2ccc6d2a2e857c
+size 527

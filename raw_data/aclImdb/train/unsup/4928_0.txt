@@ -1,1 +1,3 @@
-Tenko is the single most memorable series I have ever watched on television. Layered, engaging, challenging, compelling, it has stayed with me for years and I often think about the characters as real people...wondering how their lives continued, wondering what I would do in their company. In these times of war and prison camps, again, and as history is rewritten, forgotten, or ignored, I wish that Tenko would be replayed for a new generation to experience. The characters are unique and nuanced, the story lines complex and resolutions often unexpected yet always genuine. The actors seem to embody their roles. It is gripping and addicting. The followup documentary reuniting some of the survivors is an exquisitely touching finale, though wouldn't it be lovely to continue the series, chronicling the gap between then and now.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b37259c63343a4e16fc2938f6752bae3bd105af6bd59d921d2e322c8a7ccf48
+size 832

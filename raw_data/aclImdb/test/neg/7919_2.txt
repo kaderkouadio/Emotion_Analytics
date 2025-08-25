@@ -1,1 +1,3 @@
-I think that this is a disappointing sequel. I miss a lot of the old characters (King Gator, Anne Marie, etc.), and I don't like it due to the fact that not even half of the original voices are back to do the characters. A lot of personality was lost in Charlie, and the villain Red is not even half as bad as Carface was in the first one. If you're a big ADGTH fan like I am, it's worth seeing just to see how the story is continued, but don't count on it being 5 stars in your book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9545ed8098944f70fde41c6f4dd16187b38f1da0468e1942d231a250db003c90
+size 484

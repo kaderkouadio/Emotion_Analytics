@@ -1,1 +1,3 @@
-This is a horrible movie. Three stupid white kids who want to be gangster rappers do drugs and dream of moving to the big city. The way the kids act is embarrassing to their family and friends. Their fantasy world of living the thug life comes crashing down when they take a trip to Chicago. This movie is extremely uneven with a slapstick beginning and serious ending with music videos direction sprinkled throughout. This is not funny or dramatic just silly. I don't think I have ever rolled my eyes more while watching a movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:379be984f0679b9ca126617244f7ff40a6e2341b7d3d5372da97c63310dfd7d2
+size 530

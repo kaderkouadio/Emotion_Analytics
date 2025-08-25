@@ -1,1 +1,3 @@
-Denzel is about the only thing that is right in this movie.<br /><br />Maybe once in an early stage this was a better movie. Someone decided to cut some action and plot points into the beginning of the movie, giving away most of the story line in about the first 5 minutes. That and ruining whatever build up in pace and rhythm the movie might have had before.<br /><br />So first it confuses you and then it puts you off. The dramatization pushes beyond suspension of disbelieve.<br /><br />Of course there is that feeling of great injustice and anger that movies like this potentially manage to instill in viewers. Granted, it does that so if you are looking for that ... knock yourself out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fad5d8d7886ce421a33449a47493f7f4a0a1ae0b80dd7cd7f8d42b9b076d679
+size 693

@@ -1,1 +1,3 @@
-I thought this movie was really awesome. It portrays the reality in a really hilarious way. There's great potential in the budding actors. All of them did a great job especially Kal Penn. Its a must-see for all the "Desi" people in America. You won't stop laughing for a single moment. You can even identify with some of the characters. Don't just sit there reading this.... go watch it!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b44f73ec70c2967b4cbf0ac6c37612cb475ccd4eec116ef5ac538e1d4902157
+size 389

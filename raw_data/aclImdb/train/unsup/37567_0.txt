@@ -1,1 +1,3 @@
-SPOILER below:<br /><br />The bikes are the stars here. Forget the plot - something about a biker who falls in with a rich "swinging chick," or some such bad cliche. The gang kidnaps her and he wins her back in a chopper race around the local school track. (at least, I remember that's what happens.) That Speedvision hasn't run this late some Saturday night will give you an idea what a snorer this is. If ever they do, keep the remote handy so you can surf back to the highway shots.
+version https://git-lfs.github.com/spec/v1
+oid sha256:793ec2777e9ca3ca3a7463f0ce8f12ff26a22ffdcdd9eedbb8ed90cf9232f433
+size 485

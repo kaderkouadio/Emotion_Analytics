@@ -1,1 +1,3 @@
-When you want to celebrate life and love, especially for precious little daughters, you have to shout it from the countryside. And what gorgeous countrysides! There are so many tears of joy even God joins in. See this movie.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f91000a20a3114911ab9a50d09e9820fab837c88e2033ecf69463e80f26d25f
+size 236

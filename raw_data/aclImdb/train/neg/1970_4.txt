@@ -1,1 +1,3 @@
-Watching this film for the action is rather a waste of time, because the figureheads on the ships act better than the humans. It's a mercy that Anthony Quinn couldn't persuade anyone else to let him direct any other films after this turkey.<br /><br />But it is filled with amusement value, since Yul Brynner has hair, Lorne Greene displays an unconvincing French accent, and the rest of the big names strut about in comic-book fashion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2f32fe553b53d5e9fccaeba88a282a516d0441267549c7aa72bbcc02269904
+size 436

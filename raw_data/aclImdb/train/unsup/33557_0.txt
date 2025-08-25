@@ -1,1 +1,3 @@
-Hank Azaria's role is horribly stereotypical. He goes from ruthless soulless guy to I-love-life guy. Vapid, heavy-handed film. They beat you over the head with middle-school symbolism (his ignoring the telephone while in the middle of playing piano).<br /><br />If you want to see real genuine characters with multifaceted personalities, watch Glengarry Glen Ross. I seem to recall Lemmon stating that it was the finest cast he ever worked with. Go see why.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e750fa0ff9d209da71c75873513e7b0736885136dff2f99972badaee23929e61
+size 457

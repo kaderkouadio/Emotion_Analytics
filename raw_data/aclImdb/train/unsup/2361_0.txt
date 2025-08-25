@@ -1,1 +1,3 @@
-The only interesting thing about this movie is seeing the original cast members after all these years. There is also a neat flashback sequence, with footage shot for the first film, but not seen before. A bunch of seemingly unrelated would-be scary scenes plod along aimlessly towards a big explosion at the end. (Was that a spoiler?) The oblique origin of "The Tall Man" is just more meaningless stuff. The first movie was a unique experience, the sequels have been pretty bad. Give it up guys.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1948896a8400c50cb94e65a73ac17edd742e6e0a254e170fee719da5800e0e92
+size 495

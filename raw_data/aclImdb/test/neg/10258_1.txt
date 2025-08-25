@@ -1,1 +1,3 @@
-This is probably the worst film I have ever seen; it makes Plan 9 from Outer Space look wonderful. The acting is wooden, the plot silly and the SFX non-existent. The only good thing about it is the fact that it is not a long film. The scenery is sometimes quite pretty, assuming you like trees, if that helps any!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a353575ed2fec56f50de1d147a2c5177347445170583275770dabc5ba2acfbf
+size 313

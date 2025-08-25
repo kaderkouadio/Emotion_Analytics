@@ -1,1 +1,3 @@
-This movie was so beautiful. After seeing it, I read some of the reviews and I thought they were not anywhere near to what I saw. I always like to see movies where people find love where they least expected it. I just knew that in the end, he would find her at the hospital. This movie was perfect. I would definitely see it again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b36cea6b442ee9472217a024a29553c5ae58194e6078cbba6a251d7a05410b4
+size 331

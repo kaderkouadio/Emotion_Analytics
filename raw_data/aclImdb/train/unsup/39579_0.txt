@@ -1,1 +1,3 @@
-Last weekend, I rented Enemy of my Enemy. It had a big image of Tom Berenger on the cover. Tom Berenger should be ashamed to do a picture like this. This movie is a relic from the 80's, when there were thousands of 'cold war' movies. The script is so thin it's remarkable. Poor acting, lousy script. One of the worst movies I've ever paid money to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28b8523be8d0a47e237e295c3b57464734cbfc607387e6209cab3ca287132517
+size 352

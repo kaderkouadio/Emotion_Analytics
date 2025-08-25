@@ -1,1 +1,3 @@
-This movie could very well have the best original score I've ever heard, which is saying a lot because I pay close attention to such things. So, Koichi Sugiyama, thank you for your excellent work. That is the main reason why I voted a 10 on this movie. The film is quite a bit silly at times, but otherwise flawless. I just wish more people had seen it. Friendship, sacrifice, loyalty, destiny, fate, and love... Like I said, "Wow."
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6797adcdc6beb487401d237a80fc5ad6f9bd61b141402c81c986171bda5f2f0
+size 432

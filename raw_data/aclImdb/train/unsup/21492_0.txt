@@ -1,1 +1,3 @@
-Great, and a unusual mafia/gangster movie. Full of excellent actors, like Christopher Walken, Vicent Gallo, Anabella Sciorra, Isabella Rossellini and the phenomenal Chris Penn, with a monstrous performance which make him win "Best Actor" Venice great prize. Once again this film is about limits and the madness of the human mind, the character Chez (Chris Penn), it an ambiguous, and unbalanced persona, that it explode in fury and anger, crying all the time, in total despair. Once more, Abel Ferrara shows us an unexpected and brutal film climax. A must see, for all Ferrara's fans. If you like this one, i recommend: "Godfather part- 1 and 2".
+version https://git-lfs.github.com/spec/v1
+oid sha256:660df2e5dd27cd1c000064ae93fb5dcf2f131a1f2615f9aaef1938c398b99cce
+size 646

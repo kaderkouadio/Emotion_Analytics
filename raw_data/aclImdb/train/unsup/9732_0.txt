@@ -1,1 +1,3 @@
-James Cagney shines, and at times even seems to glow in the dark in this rugged follow-up to White Heat, directed with great verve by Gordon Douglas. It's a somewhat neglected film, maybe because it's basically a gangster picture rather than a noir, and rather late in the day for such things. The supporting cast features Barbara Payton; Luther Adler, in a Howard Da Silva role, as an eccentric lawyer, and who almost steals the show from Cagney; Rhys Williams, effortlessly playing an American; William Frawley, for nostalgia; and Ward Bond, neanderthal as ever, as a dogged, corrupt plainclothesman. Good, fast-paced and at times surprisingly violent, this movie will not put you to sleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26895c633c0669d916648509a4608078aab773b6ff2c164169ec14eb217793cf
+size 692

@@ -1,1 +1,3 @@
-I watched this movie only because I didn't want to leave my 9 yo and her friend in the theater by themselves. Honestly, I went in expecting to enjoy a good nap -- but found myself entranced by the movie. I'd recommend it to anyone who asks! Roy's mom was on one of my all-time favorite TV shows years ago, playing a mermaid (Maximum Bob). She was really cute in this movie. The three main characters were all excellent young actors. Also enjoyed seeing and hearing Jimmy Buffet. The movie itself was quite beautiful - showcasing some of what makes Florida so great. I'm glad I ended up going to this movie. And to think, I was disappointed that I couldn't take them to see "Stick It" -- I think this was MUCH better!
+version https://git-lfs.github.com/spec/v1
+oid sha256:217c37ca5f370c5c4ee94a3da75c8753a013b2d03d44543e690af060bb18f2c7
+size 716

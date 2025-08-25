@@ -1,1 +1,3 @@
-This has to be the worse C movie I've ever seen. It looks and sounds like someone filmed it with their home camcorder. A couple of the death scenes are tolerable but the acting ruins it. Lots of continuity problems. I paid $1.50 to rent, got ripped off. Avoid at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0e13e997ed64ca960436df59d1f367c471093fbcfe89f54d2f3dd04be802ad8
+size 273

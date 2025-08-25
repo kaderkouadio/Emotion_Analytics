@@ -1,1 +1,3 @@
-I couldn't agree more with the other comment, it's like Falling down. Peter Weller is OK and William Hurt great as always, except in Lost in Space. This is a good movie. With pretty good performances. Very recommendable. If you like Falling down you're going to enjoy this one. 8 of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d20d789cb8ca06fe667583b91832da4add77a216836d53f093053f9aeb9ecd6
+size 285

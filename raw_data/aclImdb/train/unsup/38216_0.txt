@@ -1,1 +1,3 @@
-I've seen all that's in this movie once before. Matrix-hitech, Sliver-watching, BladeRunner-lighteffects, Seven-atmosphere. But few effects and clearly 0.0 CGI included. Weird characters that don't interest or appeal to me. The why/who/when/where part stays unclear. It's an art-house kind of movie with a few familiar faces.<br /><br />Not easy to follow, and no block-buster-kind of movie that everyone will (or can) enjoy. Was there a plot anyway, one should ask himself after watching. The box-plot sounds interesting, but never becomes interesting. Any suspense? Yeah, in the soundtrack. Keep your skip-button within reach. * out of *****
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c3b21bd9c0487ce673c1f70f7ce880e9c93010273a81e66091f15948ae7ade
+size 643

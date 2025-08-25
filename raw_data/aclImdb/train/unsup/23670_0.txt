@@ -1,1 +1,3 @@
-Gina Chiarelli shines in a stunning performance as Grace, a schizophrenic woman who believes the second coming of Christ is imminent. Also strong performances from Tom Scholte, Paul McGillion and Jennifer Copping.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c9129da29e3ff6c4329096002b89807ba50dbf074807a5a60a813080825d67
+size 213

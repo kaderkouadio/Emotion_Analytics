@@ -1,1 +1,3 @@
-slow, incomprehensible, boring. Three enthusiastic words that describe the movie of the book. This is surely a case where the movie should never have been made at the expense of the book. The best part of the movie was the scenery, excellent. The worst part was the slow moving interactions of the actors which combined with endless meaningful glances. The editing is abrupt and patchy. However, despite this, the actors worked very hard at least trying to be a little believable with a terrible script. It was startling that although set in Peru there was hardly a person of Peruvian descent wandering about the set - even in the flashback scenes depicting Peru in the 17th century. If you have any sense of history, try to avoid this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef456059eafacf2bfb3b4b37a7c759972eca6aeea0d899ef4731939b09a11969
+size 742

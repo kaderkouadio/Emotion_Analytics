@@ -1,1 +1,3 @@
-The plot's irrelevant, really. It serves the purpose - which is to provide a framework for the eye candy.<br /><br />What this movie does really well is to realistically depict a strip club atmosphere. Most movies get it all wrong... Extravagant costumes, Vegas style lighting, and elaborately choreographed dance routines. The only thing questionable about the club in MT2 was the fact that every gal is drop dead gorgeous...<br /><br />The lead actress does a nice job with her role (outside of the dancing), and I'm surprised she hasn't done more with her career.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d5b3e2f524278ccc77552b14bec8c56a616870a181a12e821f006ea68006673
+size 566

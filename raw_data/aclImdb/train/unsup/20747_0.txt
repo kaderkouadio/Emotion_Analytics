@@ -1,1 +1,3 @@
-The main problem with 'Jacked Up' is the incredibly unrealistic storyline. A boy 'accidentally' shoots a cop while stealing his car. The same boy, with a typically bad conscience, believes he should get to know the cop's family. The whole cast look older than the characters they portray are. For example Dre looks in his twenties when he has only just finished high school. It's small errors like this that are 'Jacked Up's' downfall. Another problem is the acting of the 'gangsters' in the story, their is know real evil in the characters. This makes some of the characters less believable. Other than these minor mistakes, 'Jacked Up' is an enjoyable film. A advise it to any viewer who can buy a copy from under £10.<br /><br />8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea41c1df061b600e7c7c4cfad1dbc94a8921e4130dab266f990c64f41dc90bb
+size 737

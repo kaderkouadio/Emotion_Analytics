@@ -1,1 +1,3 @@
-saw this in preview- great movie- wonderful characterizations- witty and intelligent dialog- actors were fantastic- Peter Falk will be up for an Oscar- Paul Reiser was charming- photography was marvelous Reiser was at the theater when we saw the film, and he gave a vivid account about the making of the film- it had been a long dream of his to write a semi-autobiographical account of relationships between sons and fathers, and more specifically between him and his father- this was achieved in a dramatic and entertaining fashion- the supporting cast was well chosen and gave the film a feeling of family- i recommend this film to anyone who is longing to see intelligent drama and wonderful performances
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65640100ae5cdd504e265f9fd23cfa491f6b30b336d130585f60f43a40a21a4
+size 707

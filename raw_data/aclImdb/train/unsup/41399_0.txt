@@ -1,1 +1,3 @@
-I did not like this movie at all. I am not much of a cheerleading fan. Also this movie lacked a very good storyline. I guess it kind of described what high school drama is, in a way. The only thing that saved this movie from getting like a 2 in my book is that Kirsten Dunst and her cheerleader friends are very attractive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f7b00a461c1c5521ce380d517001edde839287e6286a2ae3a1ed6e3a731714e
+size 323

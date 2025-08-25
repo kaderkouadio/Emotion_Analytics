@@ -1,1 +1,3 @@
-Chuck Norris, stiff-as-usual, in yet another mind-numbingly predictable action thriller which actually has just as much talk as action, maybe even more. Professor Toru Tanaka is a promising-looking villain, but even he doesn't prove to be a worthy opponent for good ol' Chuck. And Christopher Lee is wasted, again. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:57f6cee6872518f44062973f6cb72c7c85cf910c86dc011ba209e10930fa7b01
+size 321

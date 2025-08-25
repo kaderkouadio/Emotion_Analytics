@@ -1,1 +1,3 @@
-This film tells the story of a romance between Albert Einstien niece and a gas station attendant. In order to get the two together, Einstien agrees to help Ed(Hudsucker Proxy's Tim Robbins) learn to act more intelligent. This impresses Catherine (Meg Ryan). Unfortunately Einstien goes too far and Ed is considered to be a genius. Hilarity ensues. Not to be missed. Filmed in Mercer county New Jersey at Princeton University, Lawrenceville Prep School (doubling for Princeton University) as well as a beautiful vintage gas station in Hopewell.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b4418f4d9c244a91b78a2c1a1751d3b71c83d981f0be2e0b28ef93a8f17cfcb
+size 543

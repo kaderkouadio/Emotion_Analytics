@@ -1,1 +1,3 @@
-The Road to El Dorado, hmmm, SUCKS!! This animated toilet water of a film made no sense at all. First of all, "The Road," What road? They were on ship from spain, and why the heck did the indians at El Dorado smoke cigars and speak English, kinda makes you wonder, doesn't it? It was a cartoon meant for children (originally) yet all they talked about was sex, and used provocative language, obviously not for children. It was too rediculious for adults, therefore, not for adults. Who was it for? I may be wrong or right, but just keep in mind that this is only an opinion of mine.<br /><br />ARAF/Crimson Guard
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d167d619c4e8a9abbc4d41522865162ca68f7229805fe63a45905d666a50c0
+size 612

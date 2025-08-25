@@ -1,1 +1,3 @@
-This is probably my least favorite Cagney film. It looks like it was originally a play, as it is VERY static and stagy--so much so, that it suffers from a severe case of claustrophobia! Also, it makes the unforgivable mistake of being dull--and that takes a lot of work in a Cagney film. Usually, his energy level alone will elevate the movie to at least the average range but here he looks half asleep and the many not very interesting bar patrons act out their little stories for the camera. I saw this movie just a few years ago, but I can't remember ANY of the stories within the movie because they just weren't compelling or memorable. You keep waiting for some sort of payoff, but it just never comes!
+version https://git-lfs.github.com/spec/v1
+oid sha256:28c4d0c77f301169bbe5b193029e3da93c7965eca960c3c02f7615d9abb85b88
+size 707

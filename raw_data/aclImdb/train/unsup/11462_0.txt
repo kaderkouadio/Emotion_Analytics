@@ -1,1 +1,3 @@
-The Material Girl returns for another dvd/vhs collection of her greatest hits in this answer to "The Immaculate Collection". Possibly the best video here is "Fever". Some of the videos are somewhat dumb especially "Nothing Really Matters" but the songs are good. "Ray of Light", "Frozen", "Rain", "Fever" and "Secret" show her talent for dramatic gestures and effect. The downside is the omission of "This Used to Be My Playground", "Deeper and Deeper", "You Must Love Me" and "I'll Remember". Those were her really good songs and it would've been nice to see the videos. Maybe they'll be on the next one. This is a dvd/vhs worth getting if you're a Madonna fan or a fan of 90's dance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3f14248b63ba8dfccb2e4d89e8981719465f894469d102cd7bcc3d7a05df05
+size 685

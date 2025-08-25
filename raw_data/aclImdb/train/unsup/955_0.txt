@@ -1,1 +1,3 @@
-After viewing Apt Pupil the other night - and being sorely disappointed/distressed...I wanted to view a "lighter" movie. Well I must say this is one of my favorites now. I'm not one to remember every actor/actress name but the whole cast did a great job. I especially love the con with the computer - seeing as how I work in the IT Field - it was great! When you see the movie remember the very first scene. It is important because it is the reason for everything they do. And sometimes things work out...for the good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea253b54c77a31dac2e65fe65ad9c7b9de7220e3a86c6fa071dc02d28fbde906
+size 518

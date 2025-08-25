@@ -1,1 +1,3 @@
-I saw this film when it first came out in the cinema. We were all looking forward to seeing Mark Hamill relaunch his career, but we came out wishing we hadn't bothered. Many people walked out after about half an hour - I wish I had too. The basic premise seems okay, but the plot was ridiculously involved and tortuous, and runs out half way through. Its completely unmemorable, and not a film you want to have paid money to see. If you're really bored and it's on TV, then it'll help you kill a couple of hours (or help you to nod off!). 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:a90fee50e6545cef0004d2ed70e3400d0090d6e8d5d4cda183710ca8a5b9c0f2
+size 543

@@ -1,1 +1,3 @@
-Well, it's watchable, but it's also a movie that really has nothing going for it at all. I wasn't really bored while watching this film, but it is supremely forgettable. Then again, it's not like the title makes it sound like a classic that will stand the test of time. I suppose it is an adequate choice if you're looking to kill some time, but don't expect to be entertained.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b195cb287d30f4d7a3a6130090420edbb0a1ebe06c22112eafe34cca656067f1
+size 377

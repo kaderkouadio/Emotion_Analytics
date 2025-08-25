@@ -1,1 +1,3 @@
-Having just seen the 2008 BBC version of "Little Dorrit," I was delighted that Turner Classic Movies was showing this 1988 version. But what a disappointment it proved to be.<br /><br />Comparatively, the '88 version is much...MUCH...duller.<br /><br />Instead of a roller-coaster ride of interesting characters, the '88 version is slow and plodding. The individual scenes never come to life.<br /><br />Sarah Pickering as Little Dorrit never engages one's interest. And while Derek Jacobi's Arthur Clennam may be closer to the book's description than Matthew Macfadyen from the BBC version, he and Sarah Pickering have no romantic chemistry.<br /><br />All in all, not an entertaining presentation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20625c36b16fc8f12e058c938a1e0139537b041fed168d84656413c3e2d2cba8
+size 699

@@ -1,1 +1,3 @@
-I went to see the new Narnia movie tonight, and I have to say, I was extremely impressed. The story was touching and powerful, the acting was exceptional, and the special effects were amazing! I was never been into fantasy movies until Lord of the Rings came out, which I thought was great. This movie was also very very good. From the beginning of the movie, I felt swept away into the story. I am rarely excited about new movies, but I was about this one, and it totally exceeded my expectations. <br /><br />I highly recommend this film. It is based on a kid's book, but it appeals to people from every background and age.<br /><br />I think we are witnessing the beginning of an awesome epic series! 10 Stars!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc86931fb0d3efb1e3ca2119a9b3cf71d50771a0a8c150cd9258ad441b87e03e
+size 713

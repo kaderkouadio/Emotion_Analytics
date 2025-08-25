@@ -1,1 +1,3 @@
-There's no getting around it-- this movie is terrible. I've seen the old Christopher Lee/Fu Manchu movies, I'm familiar with the characters and it's serial origins, but it's still just godawful. However, Peter Sellers' genius still shines through with his portrayal of Nayland Smith, with echoes of sadness, tragedy, and strength simmering through a stoic facade; it's a performance I place on par with Peter Cushing's portrayal of Van Helsing but done in a tenth of the cumulative screen time of all Cushing's "Dracula" movies. If the movie was done in a more serio-comic vein like BUBBA HO-TEP by way of the 1960's AVENGERS TV show, this could've been something special. If you're a Fu Manchu or Peter Sellers completest, this is something you need to see, but it's a pass for anyone else.
+version https://git-lfs.github.com/spec/v1
+oid sha256:803d1bc2c8ad9e49400b2cb85f65b9f90750257c88d309144cc6cd10a09f51b2
+size 791

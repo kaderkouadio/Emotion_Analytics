@@ -1,1 +1,3 @@
-I have not read the novel that this screenplay is based on, so I cannot comment on that respect.<br /><br />As a film in it's own right, the direction was rather interesting. Pop culture was left behind for an alternative culture. But then, at what point does alternative culture become popular? This is much the same with alternative musics/culture today. Perhaps, the spiral into savagery and madness could have been more dark.<br /><br />The cinematography was breathtaking and the soundtrack well selected for the above mentioned theme. One criticism is that the direction seemed to almost flagrantly look 'arthouse'.<br /><br />7 out of 10. Less if you have read the novel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f4354ee36830d48da54ad6da5e040d3f42a38c9cda83a288026e684c7fdf603
+size 678

@@ -1,1 +1,3 @@
-I almost thought this movie was supposed to be a comedy. The terrible continuity, the bad fake American accents, the weird inconsistencies with the cars, the haircut that never was and the stabbing in the back but no injury...<br /><br />How embarrassing!<br /><br />I understand that it was a low budget movie, but some things don't cost money to get right. For instance, how much extra would it have cost to put the headrest in the Range Rover in the right way around instead of backwards? <br /><br />Why make a movie set in the Australian countryside and populate the towns with Americans, and if you are going to do that, at least make sure the accents are credible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8019b4f62a49dd02141935d8f36439096e0441bcb234432366ad321a67faab68
+size 671

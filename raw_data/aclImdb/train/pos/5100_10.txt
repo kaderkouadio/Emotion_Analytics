@@ -1,1 +1,3 @@
-My definition of a great movie is if you want to continue to see it over again. This movie for some reason strikes a cord in me even though the scenes with Scott Glenn still make me winch; I watch it over and over again and love the music!
+version https://git-lfs.github.com/spec/v1
+oid sha256:592bdf40febaf7d00c4233defeb913a87d1ea20037a8294053e5d03f099c1ad1
+size 239

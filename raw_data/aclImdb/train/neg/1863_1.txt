@@ -1,1 +1,3 @@
-and this movie has crossed it. I have never seen such a terrible movie in my life! I mean, a kid's head getting cut off from the force of an empty sled? A snowman with a costume that has the seams clearly visible? This was a pitiful excuse for a movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef3589447e5535f30142d76fe99fabd5f556c7c6ec4ae85f975fe50845ebf6f4
+size 252

@@ -1,1 +1,3 @@
-This is one great movie! I have played all the Nancy Drew games and have read the books, and I never expected the movie to be so exciting and funny! If you never heard of Nancy Drew, read the first book (Secret of the Old Clock) so you can kinda' get used to Nancy, then you can watch the movie, because in the movie, they don't really introduce the characters' names fast. ;) My whole family enjoyed it and the plot was extremely interesting. This is an ultimate come-back from the previous Nancy Drew movies, which the Nancy Drew actor didn't seem to match. This movie is much like Alex Rider: Stormbreaker. It's so cool! Nancy Drew lovers, you must watch this!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea9ff34b3016f46eb3779c2697c5e47a0bc6ddb7a815d1eb1a4c79eeaf21212
+size 663

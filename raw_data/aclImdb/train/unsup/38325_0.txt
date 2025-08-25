@@ -1,1 +1,3 @@
-I was coming down from a hangover state when I saw this movie ... and it still couldn't satisfy me. I thought it would be good. The cast looks fine, and the story was one that I could of gotten very interested in. Instead I get a piece of low budget junk used to fill in a rained out game slot. Bad acting, an even worse script, and enough British ethnical slurs to start a war. Though I gave it a 2/10, because this is probably the most accurate movie ever made that was based on the story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05adae6c831d820908f30afc2094715bc2ea59b8012f3f113cd989eb587d7966
+size 491

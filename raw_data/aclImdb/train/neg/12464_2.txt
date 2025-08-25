@@ -1,1 +1,3 @@
-This movie, supposedly a thriller, had about five sub-plots that developed simultaneously to climax at the end, but it ended up more as a yawn.<br /><br />The writing was trite, the pace was slow and disjointed and the characters were boring. George Clooney looks like he needs to get into a gym, Matt Damon hammed it up and the others seemed to read their lines from a teleprompter.<br /><br />The worst part of this movie was that it was carefully crafted to be politically correct and so it ended up saying nothing at all about big business, oil and the Middle-East. I have seen documentaries provide more excitement. Watch it only if there's absolutely nothing else to do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8388e91b9e0b1367b24fed11936abbf1efea3fef787126453b4b7e24d03c0a3c
+size 676

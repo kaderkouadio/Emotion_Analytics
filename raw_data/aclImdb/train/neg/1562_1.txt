@@ -1,1 +1,3 @@
-The only saving grace of this movie is that it serves as the 0 end of the movie rating scale. Now if I see a movie that really stinks I say this movie was a real Pecker. I believe this movie is a perfect example of Christina Ricci's one dimensional acting. Horrible
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8465006611273e220a03cc49b57d13dc2bb19878ee1b51aca7073f57854f597
+size 265

@@ -1,1 +1,3 @@
-This movie attempts weave 5 stories into one but fails miserably*. The supposed link is to 9/11 but the link is actually missing. The references to 9/11 are so subtle as to be non-existent.<br /><br />I viewed this movie on DVD it features the ability to view each story as a contiguous whole. After watching each story individually to try to understand the point of the movie I realized that the movie is pointless.<br /><br />*(For a good example of how to weave together stories, see "Love, Actually".)<br /><br />Don't waste your time with this movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:2007520cb745627bbdffa6c2e9c8ba23f9f402d25131a642aef9db04d697803b
+size 554

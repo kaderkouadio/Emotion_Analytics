@@ -1,1 +1,3 @@
-Reed Hadley makes a better foppish Don Diego than he does a dashing and daring Zorro, but that's almost beside the point because this serial features the bar-none best theme song of any serial, ever -- and the best version of Yakima Canutt's famous stagecoach stunt. There are other good stunts, and lots of action, and plenty of hair-raising cliff-hanger chapter endings, but if for no other reason, you must see this film to watch the stagecoach stunt, then re-watch it in slow motion. It is incredible, and, despite the lower budget for this chapter play, Yak turns in a better take on the stunt here than he did in the far more celebrated film "Stagecoach." Indiana Jones, eat your heart out: This is the real deal!
+version https://git-lfs.github.com/spec/v1
+oid sha256:746d8be9616d5fc0c4a229bf93e25cbc6444c4a64be23f3054a59f480969c82a
+size 719

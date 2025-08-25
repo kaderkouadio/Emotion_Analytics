@@ -1,1 +1,3 @@
-An unusual film for an audience outside the USA. Lena Horne looks fabulous and so does Ralph Cooper. There is not added background of tap steps as in other musicals so you do not hear the beat of the taps which is great realism. Music is muted to hear what dancing steps there are. Acting is a little stilted and the casts speak slowly so that you think the movie is older than it is. Costumes are daring for the time in the dance routines at the end. Often feels like you are part of an audience at a stage show. What furniture you see is very modern which adds to the movies feeling of other worldliness. A must for all film buffs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cafe69ce172b0afe23a2c4ab4e59e4873b0350e3c696921688e9fd22d826d01
+size 633

@@ -1,1 +1,3 @@
-We all gotta be careful in what 70's Jackie movies we watch, but this one certainly isn't bad. The plot has something to do with Jackie's master being killed. There actually is a mildly shocking twist (shocking for Jackie, but don't expect Usual Suspects here). Anyway, the kung-fu is very good, definitely up to snuff. Jackie is good, and there's scenes where the old men fight. Even the dubbing isn't horrible. Very good overall, but Snake and Crane Arts of Shaolin is better (even though it has an awkward title) if you're looking for something from this era. I gave it a 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30a8c4cd3bcd611388a9e6c2f23ada3d3b5968b20ccee399932e7664dea8d60
+size 577

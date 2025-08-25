@@ -1,1 +1,3 @@
-I have no idea as to which audience director George Schlatter hoped to sell this comedy-of-ills. With Redd Foxx in the central role and enough pimpy outfits and polyester to carpet the entire 1970s, "Norman" plays like a blaxploitation picture combined with any number of silly sitcom episodes involving comic misunderstandings, not to mention an elongated cameo by Waylon Flowers! Based on a play by Sam Bobrick and Ron Clark, this tale of an estranged married couple (Foxx and Pearl Bailey) learning the hard way that their son is secretly gay--and living with a mincing, prancing white homosexual--has enough limp-wristed jokes to shame any early episode of "Three's Company". Bailey keeps her dignity, and Foxx's sheer confusion is good for a couple of chuckles, but the rest of the performers are humiliated. * from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a7797c1f60e74b5b0fff7f984e3c5b32b2396913a9fa48cb38376d4b6e8f3f2
+size 825

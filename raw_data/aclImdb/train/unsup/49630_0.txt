@@ -1,1 +1,3 @@
-This is a bad, bad movie. The original Dragonheart was no Oscar winner, by any stretch. Not a bad movie, but certainly not great. In truth, it did not warrant a sequel. Yet, despite this, A New Beginning still manages to do the original no justice by being a total flop. The plot, acting, and directing are all bad. Don't bother with this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee7d97983dbd3148c80658c9eb0a611a4b8370a84d542be17b83985d4a04f45c
+size 343

@@ -1,1 +1,3 @@
-The previous commentators have succinctly and excellently commented on this film. As a Lieutenant in the USN aboard ships which often went to the West Indies the movie has a nostalgic charm to it aided by the strictures of the Hayes Code and the mandatory happy ending.<br /><br />The only "errors" were the stationary and never moving beer bottles sitting [or glued]on an I-beam despite the fact that the ship is literally falling apart and sinking at the bow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90c9364404404d0abd9685e7703d220d5667012535fba3e95e4a65ce58e6c95a
+size 461

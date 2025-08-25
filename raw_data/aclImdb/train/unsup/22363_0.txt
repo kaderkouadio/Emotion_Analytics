@@ -1,1 +1,3 @@
-this movie had a great premise, but failed to develop it in an intelligent manner. the crazy time shifting was the main frustrating element. the best performance was given by the sly pi, and since he wasn't a central character - this gives you an indication of the films quality. the plot was developed so plainly, it was almost insulting to the intelligence - leaving nothing to the imagination. the time shifts were also guilty of this - leaving the viewer frustrated "get on with it!!!". a great movie for those who have trouble working out difficult plot construction - ie six year-olds, but the violence precludes this unfortunately.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5edaff71141b67d740ca081d4bc47ca3441b4e2fcc65bc8f61050b690d45928
+size 638

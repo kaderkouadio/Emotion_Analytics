@@ -1,1 +1,3 @@
-This is a good movie. Something fun about watching money be blown at a super rate, especially from a kid's point of view. Take it for what it is, a fun little movie about a kid's dream coming true, and what a kid might do with $1 million dollars. Don't like it, don't watch it. They make movies for the watchers, not the people that have nothing better to do then complain in their lives.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77366886058cc0f1773448c473cd3dfe1204ba34650f7f60d321a5bc891c84f
+size 388

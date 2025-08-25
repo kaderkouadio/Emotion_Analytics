@@ -1,1 +1,3 @@
-Writer-director Blake Edwards helmed this disappointingly flaccid fictional murder mystery featuring true-life players. Miscast Bruce Willis is entirely inappropriate as silent screen cowboy Tom Mix, here befriending James Garner's Wyatt Earp and together solving a baffling Hollywood murder. Edwards' screenplay, from an original treatment by Rod Amateau, has a fun set-up, and Garner is certainly game, so why isn't this a galloping romp with suspenseful underpinnings? Could be due to Edwards' lackluster direction, the mostly uninterested supporting players, or the ham-handed attempts at nostalgia. Too bad; this scenario, with Mix and Earp in Lotus Land, had promise. Unfortunately, "Sunset" fades fast. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ffb4fcaa826a72dba823003404556d9edcc5254b53e807813c5a3fbe28b8dc7
+size 724

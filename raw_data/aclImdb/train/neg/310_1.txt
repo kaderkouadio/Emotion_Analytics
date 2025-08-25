@@ -1,1 +1,3 @@
-I had never heard of this Adam Sandler movie until I saw it on the wall at Blockbuster. Being an Adam Sandler fan at the time, I rented it. HONESTLY I could only watch about 30 mins. of it. It was TERRIBLE. Do whatever it takes to keep this out of the hands of the public. I honestly hope this movie goes OOP soon, and I hope it STAYS THAT WAY!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1e24ca639419a188c29c1d57ecc57d417d72429f4042e271fd26d8c3680fae
+size 344

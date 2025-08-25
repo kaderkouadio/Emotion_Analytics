@@ -1,1 +1,3 @@
-Yeah great cult TV series. Great atmosphere, top script and good performances make this a class A candidate for DVD release. <br /><br />This is a seminal tour de force of Australian TV history and has that unforgettable groovy period piece soundtrack with Doug Parkinson's gravel and phlegm voice spewing 70's Australiana all over your cathode ray box as a amazingly long camera zoom out reveals the religion of the open road in all its Antipodean glory. This is a memento from another and not too distant era, and has the proud stamp of the land mighty Down Under from start to finish in all its raw freedom and gritty grandeur. <br /><br />Come on ABC! Get with the program and release this cool 70's cult baby for all to enjoy - or re-enjoy if you're lucky enough to have lived the dream at the time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2898508e89362fed30decffc18d18c8647b2124e1b626dae4854d813199ce525
+size 804

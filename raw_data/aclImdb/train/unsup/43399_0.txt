@@ -1,1 +1,3 @@
-I am a huge admirer of the graphic novel series this adaption is built upon and really can recommend X-1999 by CLAMP to everyone for it truly is a masterpiece.<br /><br />This film, however, was a complete waste of time and I cannot believe that CLAMP actually agreed on summing up the immense plot of the comic books in to one film that is not even two hours long. Because in my eyes it is not the apocalypse aspect which makes the series so absolutely amazing but the detailed characterization of each of the characters, which was here left out completely.<br /><br />Even the artwork is unable to compete with the visual beauty of the original work.<br /><br />This film left me completely unsatisfied!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2530cb512b157e3f64834c0631ed6bcbe87a1243399a425e0d857f2f47751702
+size 705

@@ -1,1 +1,3 @@
-i had a lot of problems with this film but the main ones were that it is largely boring and seemingly implausible. molly parker was rather weak and her character was thin - i didn't think the motivating force for her actions was adequate. callum keith rennie was fine but the dialogue they were all given was very stilted and silly. it did not come together at all. although i had heard it was offensively bad and horribly violent, it wasn't as bad as all that. but the swans were definitely annoying.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d53327e1455243633cc7ae8a37b9fd6f2163060546b027c9bc7a48024596342
+size 501

@@ -1,1 +1,3 @@
-Wow, I haven't seen a movie this bad since "Fire Down Below". Wait, that's a Seagal movie too. Like "On Deadly Ground" and "Fire Down Below", Seagal centers the movie around his environmental awareness message and how the military, FBI, and CIA are incompetent idiots. Problem is that both reality and a sensible plot are secondary to whatever gobbleygook social commentary Seagal is trying to get across.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e51407c019c175b092958d87d2d136f86fe8fe0ba8f498e5f038d7ae3811042
+size 405

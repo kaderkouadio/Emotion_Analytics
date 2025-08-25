@@ -1,1 +1,3 @@
-Impenetrable rubbish. This has to be one of the worst movies I have ever seen. The dialogue is ghastly, the horror effects are laughable. The only thing that kept me watching was the ever-splendid and totally underrated Michael Cule.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2450de2ef0e88bc3a3546dd58814cac2700ea6681b3060e7333788f1565645
+size 233

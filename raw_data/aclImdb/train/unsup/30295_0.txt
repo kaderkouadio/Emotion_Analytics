@@ -1,1 +1,3 @@
-I saw the movie when it came out and was just floored. It was so damn cool. It came out at a time when I was going through my own rebellion against society and it's norms. The music alone is worth a viewing. I've got the album way back when and still listen to it. The climatic Sleeze Sister concert and the inevitable parting of Nikki and Pammy is true for all first loves when people realize that they have to let go of someone because they are growing apart.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36d63d6f8cdbe9ab39e0a703e1c3949f66bac210af1fc5a3d8bf7892550aa0b8
+size 461

@@ -1,1 +1,3 @@
-First, the bottom line: "Outsourced" is a fantastic film, that deserves a wide Hollywood release despite the lack of a celebrity actor. Why? It's just that good. Finally a feel good film about something almost nobody in the U.S. feels good about: outsourcing. I saw "Outsourced" at its debut at the Cinequest film festival in San Jose, and the audience response was simply overwhelming. It's funny, smart, romantic and manages to do all of this while teaching Americans valuable lessons about life in a globalized world. GO SEE THIS FILM! My overly-optimistic prediction is "Outsourced" will be the next "Big Fat Greek Wedding"...if Hollywood manages to look past the lack of a big-name actor. -M. Bigler
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbaedb284544ea4ab50c55ac28d874a2da50d402afe4040e58ae71abefaa3b4
+size 704

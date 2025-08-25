@@ -1,1 +1,3 @@
-This documentary is the most hypnotizing film I have seen in a long while. I must have had it on for an entire day. The selected material included in the piece flow amazingly well and develop three characters that are impossible to ever forget. The different layers of these people peel back to make an oddly moving film about perseverance, loyalty and determination. These characters ended up suprisingly fascinating and the film is unforgettable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f0cc0b217b89928db602a1f02d7e35e89e76f7da4b8d39bafee332c28774934
+size 448

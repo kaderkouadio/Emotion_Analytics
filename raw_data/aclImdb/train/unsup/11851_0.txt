@@ -1,1 +1,3 @@
-Lee Evans. The best British comedian of this generation and in my opinion can establish himself as one of the all time greats. His unique brand of physical comedy. His accents on stage makes this guy the funniest comedian on television. All of his live performances has him singing a song on his piano. And this one has been my favorite. Not only can he act, but damn he can sing too. If you have a chance to go and see this guy. It well be the best money you are going to spend if you want to laugh till it hurts. This is probably one of the best shows during his great career and you should really check out the wired and wonderful tour, that was also a great laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce39126eb2fc858a266083b82465e0086f73f48ff990c4d7a48c7a5391ee988c
+size 668

@@ -1,1 +1,3 @@
-This film bored me a little and reminded me very much of Death On The Nile, for example, the man cheating on his fiancé (same as in DOTN) The plot wasn't very exciting and seemed a little bit plain. Also, the cast was a bit weird looking with a pale lead and a weird looking other woman. Poirot is weird too and doesn't act normally. I don't know why this it and I don't know why I feel like this. The twists are predictable and boring and uninspiring. The cast is unlikeable and I can't sympathise with them at all. I was actually glad when some of the characters die. The death scenes are boring and plain (death by sandwich?!) Whats with that?
+version https://git-lfs.github.com/spec/v1
+oid sha256:70b86a6b9f19973d457a3b910255d19df742b78f404565dd4be6840d3b0d5b5e
+size 647

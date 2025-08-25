@@ -1,1 +1,3 @@
-This is my short review of Adventures of Rocky and Bullwinkle. This movie blows big time! I'm a big fan of the R&B cartoon, but sitting through this live action update was like the most painful torture imaginable. Watching this took away precious time from my life that I'll never regain. The only part I enjoyed was the last minute, where Rocky and Bullwinkle are finally back in their cartoon form. Let's pray they never leave that form again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5447eacabf94c62b248817ccd72e14a0dedaaf78572c6acfacb864620f203ea2
+size 445

@@ -1,1 +1,3 @@
-There is just no way that a movie about '60 minutes' should be 3 hours long, yet Michael Mann finds a way to drag this out, much like he did in Heat. Yet despite the fact that the movie moves with the speed of a three-toed sloth on a NyQuil bender, the performances are absolutely hypnotic. Pacino, who is usually either great or cartoonish, delivers an adequate performance, but an unrecognizeable Russell Crowe is simply phenomenal. But the most spellbinding character belongs to Christopher Plummer, who steals every scene he's in with an astounding take on Mike Wallace. This isn't a bad movie by any means, but it's an actors movie; the performances really redeem what is otherwise an overlong exercise in directorial self-indulgence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfbbcb31f2f926bbe4e712c5665026d649b0f7d40e07a7fa0f16557e2ac12387
+size 739

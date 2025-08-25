@@ -1,1 +1,3 @@
-The portrayal of the Marines in this film is spot on. The action scenes are some of the best ever produced in accuracy of content. The uniforms and weaponry of both the U.S. and German troops were perfect. The costumes and weaponry of the Berbers were perfectly accurate as well. This film could easily be used to teach militaria of the period and has been used by the USMC Academy for this purpose. The scenes depicting Roosevelt shooting and the rifles he was using was beautiful. Procuring so many period weapons in such good shape is testament to the attention to detail and presentation this film should be noted for. Millius is a genius.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fcdf52ec1bc532d2e1b47843570f8bba7ef95267e5a6d546fe04f346c30f983
+size 643

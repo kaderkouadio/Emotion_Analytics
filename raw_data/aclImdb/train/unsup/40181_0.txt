@@ -1,1 +1,3 @@
-Loretta Young is perfectly lit here, which enhances her beauty immeasurably, and she is quite believable in this role. I first saw her in her later movies--and on her TV show, swirling through the door every week--so it's quite a revelation to see her at the absolute peak of her talent and looks. Winnie Lightner does her usual gum-chewing, wisecracking shtick, and the rest of the cast is quite good. The script is a little weak, and things get a bit maudlin at times, although the pre-code one-liners are fun. (Winnie, as her bloomers blow off the makeshift clothesline and out the window: "Oh, that was my last pair of panties!" Loretta: "What will you do?" Winnie: "Stay off of ladders!")
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6bfb528c91e01fd72dbacca3bb96e216d8c6379f0903ad15e9d5eb95bc88924
+size 693

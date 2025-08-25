@@ -1,1 +1,3 @@
-I'm not in favor of death penalties but in this movie, it couldn't happen fast enough. Just to end the movie. I don't understand why this movie is rated as high as it is. It fooled me into a bad night.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0532f8203c118566f0865fbaba7f469a8f9a65b2fab2c90bafa7e63807e7bea1
+size 201

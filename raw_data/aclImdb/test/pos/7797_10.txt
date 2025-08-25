@@ -1,1 +1,3 @@
-This movie is an amazing comedy.. the script is too funny.. if u watch it more than once you will enjoy it more. Though the comedy at times is silly but it really makes u laugh!! Salman Khan and Aamir Khan have given justice to their roles. After 1994 i have not come across any hindi movie which was as funny as this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d0d207e2c2578c275b01ba9a659efc9072c9c25d813f921ad0f6671141db4a
+size 318

@@ -1,1 +1,3 @@
-Just want to get one point across: Watching this movie won't be one of those experiences were you waste a couple hours of your time, and come away with nothing for it. <br /><br />Some of the posters have brought up that the movie may have some improbable quirks, etc. The beauty of this movie is that is original and entertaining. Its not deep, exciting, or pompous; but its funny and completely different than the formulaic junk being churned out right now.<br /><br />If you do watch it, you'll feel you have to at least tell someone about it. That's also unusual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c9b265626c2692827c0d364f6b4ade03684d4676ef32fcbef6714facd001fb
+size 567

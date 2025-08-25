@@ -1,1 +1,3 @@
-Badge 373 is an excellent movie that features Duvall at his best. He's better in this outing than he was in Let's Get Harry and Falling Down, which were also, arguably, some of Duvall's best works (that some could say were ruined by bad direction and a bad supporting cast). Not this time, though! The writing and direction are brilliant. The pace is a little bit too slow for an early 70s "cop" flick, but it's still above-average and a good find. Check it out and be amazed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8706410c9ccf755d172a54dc60c1bf7af4584b89139d974d403c6802659f3ee
+size 476

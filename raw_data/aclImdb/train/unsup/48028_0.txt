@@ -1,1 +1,3 @@
-This movie lacks one thing. Do you know what this is? Brains! In one scene a little boy is riding his bike up a hill, but the bike is carrying a bath tub and a seal in the bath tub! I don't think Hulk could do that! One word describes this story. Bad. A child could make up a better plot!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8fd1a4ab8f0adae471c1e450fbf0a750af676217c55acd4ff0a498faa4be56d
+size 288

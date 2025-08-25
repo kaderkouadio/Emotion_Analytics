@@ -1,1 +1,3 @@
-This is what they came up with for prop comedian Carrot Top's first feature film.<br /><br />A stupid surfer (carrot dude) inherits an R&D enterprise from an old kahuna (Jack Warden). Things go less than swimmingly, but get much worse when the company is threatened with a hostile takeover attempt by corrupt corporate raiders. The most implausible thing about this movie is that smart-girl Courtney Thorne-Smith would find this red-headed step-child fascinating in the least (but then, he just inherited millions). 'Classic' moments include comic Larry Miller drinking sweat from a plastic cup.<br /><br />Funny comedy? Try UN-funny toilet humor, and that's exactly where this belongs - in the toilet... flush twice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03fbd242ec6fbd82653e4c45fe5810be0d8bbd2a1b0bfb6e800949fd3de247bb
+size 717

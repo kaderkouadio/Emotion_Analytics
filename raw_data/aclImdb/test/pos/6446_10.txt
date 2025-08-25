@@ -1,1 +1,3 @@
-Wonderful songs, sprightly animation and authentic live action make this a classic adaptation of a classic tale. A nice British feel which sets it apart and above from the standard, saccharine sweet Disney cartoons.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e027dbd5b9799d831c607b3c758720d94ba196315e34f843bc2375102866604
+size 215

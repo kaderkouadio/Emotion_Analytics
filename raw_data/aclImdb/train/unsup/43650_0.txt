@@ -1,1 +1,3 @@
-I've previously commented that I find Figgis to be one of the most interesting directors around. He has his hits and misses, but he's willing to experiment and do something different.<br /><br />This is no exception. Burrows may have been his bird, but she's excellent in this. And you can always rely upon Mullan to excel. You're aware of the theatrical origins, but the performances override that.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f985dbe9265128b1bec3ffd119f20d81bbe2ace563c15e03170dd198c405d3c
+size 399

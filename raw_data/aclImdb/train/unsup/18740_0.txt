@@ -1,1 +1,3 @@
-I think that 'Dumplings' takes it all. Well cut from the full length version so that audiences still get the main point. By far, my favorite of the three. Interesting, delightfully sickening, and great performances from all the actors. <br /><br />'Cut' was a disappointment. Sure, it was gruesome, made one twitch here and there, however, it was pretty much a let down. Attempting to mix comedy and this type of drama was a disaster. <br /><br />'Box'was very intriguing...until the end is reached. The audience is left thinking, 'All that for THIS?!' But all in all, the good outweighs the bad, and 8 very enthusiastic thumbs up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de29c21e13d9fd6c57fed5f8d08fd0775b99459e7119b6e1ade272c6e1b735f7
+size 631

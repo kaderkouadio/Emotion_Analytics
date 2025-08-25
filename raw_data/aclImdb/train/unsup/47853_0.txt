@@ -1,1 +1,3 @@
-I'm not sure what this film tried to be action, thriller, comedy, spoof perhaps all of the above as far as I'm concerned it succeeded at none of the above. Overlong and tiresome specially the subplot with Jamie Lee as the undercover spy. I also wasn't compelled by much of the action and frankly there wasn't enough of it. Yes there were some dazzling special effects and computer graphics but aren't we all getting tired of a films primary asset being its special effects !
+version https://git-lfs.github.com/spec/v1
+oid sha256:341ded955c1cda454f3a4ba8f79a65c61a1a21c13c8ccd947531c0aaa25b253e
+size 474

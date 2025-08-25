@@ -1,1 +1,3 @@
-Why this worthless piece of French cinema has garnered any sort of attention, other than negative, is beyond me.<br /><br />Don't bother renting this one. It shouldn't have even come into this country.
+version https://git-lfs.github.com/spec/v1
+oid sha256:433802f35b9ee77b56f623c1753bac649a315a46d3e2f64c45bb614b8b8f73fd
+size 201

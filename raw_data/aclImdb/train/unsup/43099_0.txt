@@ -1,1 +1,3 @@
-Honestly, there isn't a whole lot to say about this film that hasn't already been said. An "after-school special" type film that bytes Home Alone is pretty much on point. And it's also completely awful and the writing is horrendous. Essentially, this is the film's plot- Takes place in one of those newly developing neighborhoods... Parents bug kid about having remote control toys, parents then leave house, then burglars enter kids' house... kid uses remote control stuff to fend off burglars... burglars cook steak... kid uses remote control stuff to obtain steak... kid eats steak... roll credits... we are all now dumber for watching this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e97dfbf629b98d3c044b986077330628bd81b8b5a77c52f5e1d08ca22a2e3ec9
+size 649

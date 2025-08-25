@@ -1,1 +1,3 @@
-The official website for Nowhere parallels it with modern teen-struggle classics such as The Breakfast Club. Nowhere, however, is missing several of these movies' essential qualities. I enjoyed The Breakfast Club because I was able to relate to all of the characters. While they were each deviant in their own way, they all had the maturity to ultimately understand each other and reconcile their differences. The character's lives in Nowhere are entirely directionless. Their thoughts, actions, and speech are never intelligent. I found it insulting that the story is supposed to represent my generation, or at least have me relate to it. Representing "genuine and sincere feelings" does not mean stupid and self-detrimental actions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cbf86c421f8b9eedeb4b0b71f5128ef72990995f8b8d45552da68703d06512
+size 734

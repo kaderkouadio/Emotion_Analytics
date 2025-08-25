@@ -1,1 +1,3 @@
-The year 1950 saw two very different and interesting westerns: 'The Gunfighter' by Henry King, and 'Wagon Master' by John Ford. 'The Gunfighter' was historically notable as it clearly influenced Zimmerman's 'High Noon' (1951) and later revisionist westerns.<br /><br />However, I personally find 'Wagon Master' superior to it's contemporary counterpart. Ford's minor masterpiece isn't much about storytelling; it should be conceived more as a poem describing conceptions of old west. Although optimistic and warm at heart, we are deserved from naivety because it's completely free from pretentious underscoring. Frontier scenery is well used as it supports the poetic narrative perfectly. Add naturalistic camera work and we are transported among the mormon travellers to witness western folklore told in cinematic means.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70084538637617317900c50d0534c8fb8de9c6fc8de2f244894c2cc1354c8a74
+size 821

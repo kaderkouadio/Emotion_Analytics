@@ -1,1 +1,3 @@
-Opulent sets and sumptuous costumes well photographed by Theodor Sparkuhl, and a good (not great) performance by Jannings as Henry cannot overcome poor writing and static camera-work. Henny Porten chews the scenery as Anne.<br /><br />It's all very beautiful; but it's all surface and no depth. The melodramatic tale of a woman wronged made it a hit in America where the expressionistic "The Cabinet of Dr. Caligari" flopped in the same year (1920), proving that what is popular is not what endures. Lubitsch would be remembered for his lively comedies, not sterile spectacles like this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67cad5bd9d08ab3d3ebf46f084e2b95900e11ad5fe3a2b91bf281e91021170d2
+size 587

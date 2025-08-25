@@ -1,1 +1,3 @@
-This movie made me proud to be Catholic. While it's not totally successful on an artistic level, the story of Romero's conversion was inspiring and spiritually moving. I hope the church will keep him on the fast track to sainthood! Aside from that, as a film, it gets a little too didactic towards the end (it was more emotionally involving before his conversion than after); however, Raul Julia's performance is superb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49b0a7bc94a0a260a7a146e11a6a6538a53243f972d426d348db870bc63393d6
+size 420

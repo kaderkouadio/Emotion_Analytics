@@ -1,1 +1,3 @@
-What's with the murky video in the beginning and sporadically throughout the movie? It's like someone put muddy water on the camera lens.<br /><br />The violence and nudity might turn some people off but, that, along with the mostly bad acting is what makes a good cult movie I suppose.<br /><br />My favorite line is delivered by Tarquin the Vampire, "Alas, your breed is dumb." Okay, no one should ever say "alas" in a movie line unless they're English and living in the 18th century.<br /><br />The acting by the Van Helsing character and bad girl "Rally" isn't bad. I also liked Master Little played by Ron Little. Wicked martial arts! Don't take it too seriously and you'll enjoy it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8312db55b7c85f577f223d2441f187e0b95ac656349f541a02cf148e01ba9c7
+size 688

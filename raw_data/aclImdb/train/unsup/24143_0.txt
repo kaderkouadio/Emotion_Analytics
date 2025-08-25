@@ -1,1 +1,3 @@
-Christian Marquand's film-version of the Mason Hoffenberg-Terry Southern novel (adapted by the usually acerbic and talented Buck Henry) becomes a star-studded, but frantic and unfunny sex spoof ('alleged comedy' would seem more appropriate). Ewa Aulin plays a nubile innocent named Candy whose shallow charms attract eccentric men who are in and out of her life. The choice of Aulin, a Twiggy lookalike who can't act, was the filmmakers' first misstep--Henry's flimsily constructed script is the second. John Astin is amusing as Candy's father, but everyone else in the cast (Richard Burton, Marlon Brando, James Coburn and Walter Matthau among them) is simply dreadful. NO STARS from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:18d692adcaf718cd241d302a7d08074e67e40d8e3a2d0131dcab48cafd52f01a
+size 689

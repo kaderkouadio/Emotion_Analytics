@@ -1,1 +1,3 @@
-I have seen the movie yesterday and was quite moved by it. I did not expect much (because usually I am not the documentary type), but the mixture of old film footage and photos (with some 20s and 30s music) and interviews of a few of the survivors (7 homosexualls, 1 lesbian) was very interesting. The big thing about this movie is to get to know about what happened in that time, because no one spoke about this when we were talking about the second world war in history class. it is unbelievable that the paragraph 175 existed even till 1969. this is a must-see film !
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e9c19d37e98568a74d6aee7b908842dc7be56769a893f95735d8b201466d116
+size 570

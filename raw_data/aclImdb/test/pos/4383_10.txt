@@ -1,1 +1,3 @@
-This has got to be the best movie I've seen. You definately have to watch it more than once to find all of the humor and twists. I'm no fan of George Clooney, but he shines here. The real performance comes from Tim Blake Nelson and John Turturro as Pete and Delmar. One of the few movies that I own.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3f92f50a838f971b966d931ee65eef380c8284b433163e1f3c4dd7c358a1c46
+size 299

@@ -1,1 +1,3 @@
-I'm sorry but I didn't like this doc very much. I can think of a million ways it could have been better. The people who made it obviously don't have much imagination. The interviews aren't very interesting and no real insight is offered. The footage isn't assembled in a very informative way, either. It's too bad because this is a movie that really deserves spellbinding special features. One thing I'll say is that Isabella Rosselini gets more beautiful the older she gets. All considered, this only gets a '4.'
+version https://git-lfs.github.com/spec/v1
+oid sha256:3224253a7325b666fb3b6c40e077717e9ad9fd3e12646840397f545f616711fa
+size 513

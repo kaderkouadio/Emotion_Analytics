@@ -1,1 +1,3 @@
-This movie was a serious test of my patience. I have seen few movies where I've felt more disinterest towards the plight of the actors involved. The fact that the cast spoke as if their mouths were full of marbles certainly did not help their cause. The adoration that the soulless Lady Lou (Mae West) commanded was befuddling at best. Mae West's one liners, although bordering on slick, were those of a person desiring a kick in the chops.<br /><br />As you may have guessed, I am one of the two users who gave She Done Him Wrong a "1".
+version https://git-lfs.github.com/spec/v1
+oid sha256:eec6dfa0f518f19fe5e721ecaa75c03047eba8ec920f3d594c0d0caafac6c847
+size 537

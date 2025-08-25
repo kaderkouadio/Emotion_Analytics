@@ -1,1 +1,3 @@
-If you tried to make a bad film, you could not make one worst that this one. I can't imagine anyone paying good money to see trash like this in a theater. The thing that really gets you is being mesmerized in looking at the entire thing just for the amazement of seeing how lousy it could get. The redeeming facet of this film was seeing the words "The End"
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ef3e7b8eff8fcebfee274191323cb4f4bb4f165713ab04327d7e23efd63057
+size 357

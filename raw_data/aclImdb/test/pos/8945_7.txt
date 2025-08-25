@@ -1,1 +1,3 @@
-A humorous voyage into the normally somber funeral business. It's easy watching, and even offers Blethyn & Molina stealing a scene from an old Fred & Ginger movie. Walken is over the top as a zealous competitor of Molina in the undertaking business, trying to bring a new style to an old Welsh town. We see a couple of very funny examples of the "new style". The plot thickens with Pugh having an affair with Watts, and her suggesting that they do Blethyn in. Meanwhile Molina has rekindled his long suffering romantic feeling for Blethyn, and convinces her to fake her death so that they can run away to the South Seas, and dance away their days together. During the "fake" funeral Blethyn learns of her husbands' infidelities and plots her revenge. Watch it for a view of what funerals probably should be--a celebration of life!
+version https://git-lfs.github.com/spec/v1
+oid sha256:37e5a8afd662492cbd9a7fc327e2f5e55f7275fbee0487506345d869f99406d8
+size 830

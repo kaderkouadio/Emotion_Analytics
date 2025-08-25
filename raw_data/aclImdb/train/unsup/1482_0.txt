@@ -1,1 +1,3 @@
-It appeared to be not plausible from the beginning. Some of the scenes were almost ridiculous. As regular movie goers, this film can be missed without missing a thing. The acting also detracted from developing a potentially great theme.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb09cdb0c9fd400f928e6a54673f8936fadc15f143a1d60bc6b7e9334435b55f
+size 236

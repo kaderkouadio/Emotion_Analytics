@@ -1,1 +1,3 @@
-I bought this DVD after seeing it highly ranked here. It's just a short 20 minutes zombie film. Nothing special about it except for the music perhaps.<br /><br />Don't buy it! Not even really worth spending 20 minutes to see it. Only if you're really bored...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cd22a78886ca4751a81f1a049c3c624610a653264c47a82c3eeabd2f43a8fb
+size 259

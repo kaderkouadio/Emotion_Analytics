@@ -1,1 +1,3 @@
-I have seen the movie Knight Rider 2010 and do agree that it is not the best.in fact,it is extremely poorly produced.However-I think Tug 3 should get his facts right.James Doohan is in Knight Rider 2000,and not Knight Rider 2010.Dont' roll over my leg KITT!In any event the original is a great show which,although very eighties,still carries enough punch to make the grade.Reading about how some of the stunt work was done makes the big budget shows of today a bit naff.some of KN might seem a bit cheesy,but then again,some cheeses have a great flavour.and if super pursuit don't blow your mind just see a black pontiac close up-KITT is timeless.cue purple sunset
+version https://git-lfs.github.com/spec/v1
+oid sha256:d72e143bfea4118318ebfb8442ee57ff26d8a235cd98bb1f0e653b27f777ed7a
+size 664

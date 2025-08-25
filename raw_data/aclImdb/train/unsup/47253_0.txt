@@ -1,1 +1,3 @@
-Most would say Rebound is a good "family movie"...but in my opinion...it isn't a good anything. It is just a pretty bad movie. If you want a good family movie there are so many other choices - everything from The Lion King to Finding Nemo to Back to the Future(well I am not sure if that is exactly a family but it is certainly a hell of a lot better than Rebound). The point is, why see Rebound when their are so many other movies that are so much better in achieving the goals that it Rebound tried to achieve? Rebound is just a cliché, pointless, unfunny, hardly warming, dumb, unrealistic, and flawed film. Just a waste of time and money.<br /><br />3/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0edf0548ae26cc65c77fdd51e723a2a83c223f3b29954f017cdf56c8f353e85
+size 660

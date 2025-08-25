@@ -1,1 +1,3 @@
-I've already watched this movie twice and found it to be very entertaining the first time. The Brown children are very naughty and very disobedient and Mr. Brown (Colin Firth) is looking for another nanny after the children had chased away 17 nannies. An eerie message comes for Mr. Brown everywhere saying "The person you need is Nanny McPhee!" Nanny McPhee (Emma Thompson) arrives at the Brown door and takes everybody through an entire adventure. The children must learn five lessons: 1) Go to bed when you're told 2) Get up when you're told 3) Can't remember 4) Can't remember 5) Do as you're told Overall, if you got kids, take them to this movie. And if you don't got kids, go see it anyway!
+version https://git-lfs.github.com/spec/v1
+oid sha256:286e670e12a943d8f43d50e13b6ce17c82547e337823cc69f2b96d663921f996
+size 697

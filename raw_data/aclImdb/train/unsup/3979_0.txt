@@ -1,1 +1,3 @@
-The film itself and the acting in the film were very good. The whole story idea behind it was very interesting and intriguing. The problem with the film was that the editing was not very good. By the editing not being good it affected the over all look of the film. The acting, directing, writing, and complete film were good. The editing killed the whole thing for me because it was too choppy and made it difficult to follow becase of all the weird splicing everywere. But besides that I'd give this film an 8, 10 being best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e556e8f256f252548aa70e2412e63548e2dc5bb44c3fabbb88c81e1380f2e5c
+size 527

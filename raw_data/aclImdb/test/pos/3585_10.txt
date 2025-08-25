@@ -1,1 +1,3 @@
-I think that this short TV series, was absolutely wonderful, and gave both a in-depth and clear explanation of everything that was on the screen at the given time. This was by far David Attenborough at his best. I personally thought this was one of the best documentaries in the past decade. This is definitely worth peoples money!<br /><br />I also found the bit about the abyss and deep water the most fascinating and interesting part. It was incredible to find out that the 'Blue planet' team discovered more than 10 new species of underwater life! <br /><br />In this documentary Attemborough almost certainly lived up to his high reputation. <br /><br />This was a masterpiece and will always be considered to be one of the best modern documentaries <br /><br />Many congratulation's to the 'Blue planet' team.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5281c1b0961bcc8c7b25144b111d8e49cc13d7455fc2461822c59ac17d7b89e8
+size 815

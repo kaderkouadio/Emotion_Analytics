@@ -1,1 +1,3 @@
-To solve a challenging problem, you need to start by asking the right questions. Without these, even the biggest library of information is useless. This movie does just that - where other movies guide your thinking along a story board, this film pulls at your emotions and your understanding of justice and what's permissible. These questions will tug at you throughout, challenging your assumptions as the characters develop. This movie is important. It's relevant, and a must see for anybody who stays informed of current affairs. The fact it's highly entertaining and includes a slew of movie stars only improves the execution. My advice: watch it with a serious crowd or better yet, by yourself, not unlike how you'd read an editorial from your favorite news magazine. In this case there is one difference: the answers will be your own.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa0e5fe5a07b55ce583e53cf3b0e1a0ccc0b163db20964a7ddf7d331f64b2d6d
+size 840

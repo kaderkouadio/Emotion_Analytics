@@ -1,1 +1,3 @@
-This is far and away the worst of Hughes' teen movies. Poor casting and a weak plot doom it. Don't let the appearance of John Candy in this turkey fool you. He is only in the film for a few minutes. Avoid this one at all costs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6de17a5c7495f952c3a1a017d72d87dc2f6b94f615d79529b64d36b79ecff75d
+size 227

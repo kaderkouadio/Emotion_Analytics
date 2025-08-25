@@ -1,1 +1,3 @@
-SPEEDWAY, Elvis and Nancy Sinatra tackle the fast pace of the Charlotte Speedway and light up the screen. <br /><br />Nancy looks fantastic with her blonde hair and those incredible eyes that melt you. Elvis is Elvis, what can you say. <br /><br />NOTE: Nancy is the only person to ever have a song included on an Elvis Presley soundtrack. <br /><br />YOUR GROOVY SELF is fun and the attitude lively. <br /><br />Gale Gordon adds to the cast as does Bill Bixby.<br /><br />Fast cars, groovy times and lots of songs. <br /><br />The children in this movie are adorable.<br /><br />True entertainment for Elvis and Nancy fans alike.<br /><br />Grab the pop corn and snuggle up!
+version https://git-lfs.github.com/spec/v1
+oid sha256:48757938abacf96c273e828e110f633e3db0e5c7be558e1add79ce56363c02ba
+size 675

@@ -1,1 +1,3 @@
-Not filma making's finest hour. I felt this movie was just to obviously silly. Nothing really memorable or interesting about it, in an odd way it reminded me of "Weekend at Bernie's". I think the movie tried to be funny in a very obvious,contrived way. Not the worst film ever made but certainly not one that makes it's mark in any way, shape or form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5181636df331b0676645aa9af796afccd6ae132407dea4293c81253db6e29f6c
+size 351

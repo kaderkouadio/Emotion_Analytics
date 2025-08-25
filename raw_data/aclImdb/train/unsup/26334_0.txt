@@ -1,1 +1,3 @@
-This is one of my favorite Elvis movies. I don't really like auto racing and I didn't care for Nancy Sinatra, but what I did like is the relationship and chemistry between Elvis and Bill Bixby. It's the closest thing to a buddy movie that Elvis made. As far as romance, there are other Elvis movies that are much better, particularly Viva Las Vegas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed51f12862755b98da7b5014bdaf722d71181c8f08f0e7c1e988d79af32f7aed
+size 349

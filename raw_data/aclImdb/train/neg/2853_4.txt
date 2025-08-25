@@ -1,1 +1,3 @@
-Vic (Richard Dreyfuss) is a mob boss, leaving a mental institution, back to his world of gangsters. How can a director have a cast with Richard Dreyfuss, Ellen Barkin, Jeff Goldblum, Diane Lane (very gorgeous), Gabriel Byrne, Gregory Hines, Kyle MacLachlan, Burt Reynolds, Billy Idol and a make such a waste of time? This movie is a comedy that is not funny, having a constellation in the cast. My vote is four.<br /><br />Title (Brazil):' Prazer em Matar-te!' ('Pleasure in Killing You!')<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:e06f9ace12d4734f26d0e7ca0beee40aaa5af0cf0f457221106e308d6f319bcb
+size 501

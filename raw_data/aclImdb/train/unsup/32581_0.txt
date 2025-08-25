@@ -1,1 +1,3 @@
-I've actually read some posts on various message boards saying that this is one of Lorenzo Lamas' good movies. The people who wrote that are either 1)joking, 2)extremely delusional or 3)Lorenzo Lamas himself. How it managed to obtain a 2.9/10 ranking is beyond me. It deserves nothing more than the 1/10 I so rightfully gave it. Why is that? When a movie is in the action/martial arts genre, you expect to see what? Do you know the right answer? Sadly, the people behind this movie didn't know it. (The answer is martial arts scenes/action scenes, btw.). Instead, we get a lot of pointless scenes from some very dark locations, an extremely slow plot development and I guess a lot of additional crap that I've already forgotten about. It's not as bad as Gladiator Cop, but it's close. VERY close.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d70e4af4d9e1ccd91f24a67618668d0ecae865d4ab492a1e8ac3155da743a5
+size 796

@@ -1,1 +1,3 @@
-With an all-star cast I would have thought it would have at least been decent, but that is not the case.<br /><br />The acting was horrific. They strayed from the original in so many ways that the storyline didn't even flow. You in no way felt sorry for Santa like you did in the original. Please please please don't ever let Harvey Fierstein sing again, his portrayal of the Heat Miser was torture.<br /><br />SPOILER**** The added boxing scene between the Miser brothers was a joke, it wasn't even entertaining. I kept hoping for it to get better, but it never did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c7c49762968533de72d2d7092e7b452bf1177dd281f325072b38bca4b1c6f3
+size 567

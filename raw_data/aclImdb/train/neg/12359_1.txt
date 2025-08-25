@@ -1,1 +1,3 @@
-I thought this was a truly awful film--I found myself actually yelling at my tv a couple times. One or both of the gay male leads was miscast; there was absolutely no chemistry between them and Richard Ruccolo looked like he'd rather be kissing a dog. The movie covers their long and tortured courtship, highlighting each break-up and make-up, but not developing the reasons in-between in any detail. These reasons would make for some interesting characters, not the fight or the make-up scene in bed (lame even if you liked the movie).<br /><br />Andrea Martin and Adam Goldberg shine as their characters, but it doesn't make the film worth renting. Save your money.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba0dc37894ffdbdd4f5a9a91534582c16f52c6e07b54a272fc256e857961489b
+size 667

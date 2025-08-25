@@ -1,1 +1,3 @@
-Very simply, they are all the syndicated episodes and NOT the original uncut/unedited NBC episodes. It is NOT the complete first season, all eps are edited to conform to 21:00 for syndication meaning jokes are cut, an extra commercial fade is included, all of the Harvey Korman intros are not here...very poorly done! Shame on a series I've been waiting for....booooooooooooooooo! If you're a true die hard Mama fan, don't buy this and go to http://www2.warnerbros.com/web/main/help/whv/customer_service.jsp and send them comments on why we're unhappy on this butcher job to a classic sitcom!
+version https://git-lfs.github.com/spec/v1
+oid sha256:41accbf8482e65b9eb10cd35f33db219c2271bcb25ea34f8a3d64f468de00e1d
+size 592

@@ -1,1 +1,3 @@
-Imagine you're a high-school boy, in the back of a dark, uncrowded theater with your girlfriend. How bad would a movie have to be, in order that you would feel compelled to leave the theater and head home before it ended? This movie is that bad. Really. Movies often become so bad that they're good; this movie is beyond that stage of bad-ness. It is painfully bad. Horribly, terribly, crime-against-humanity bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2326acc9ccac068043940e27f8f0352769016ec863afa11d5034b8b22ad5bdd6
+size 413

@@ -1,1 +1,3 @@
-Joe threw the biggest bomb of his career and unfortunately it was intercepted by the viewers. This wasn't the stupidest film I've ever seen, but close. It wasn't the poorest performed, but mighty close. It was awfully close to being the most boring experience of my movie career; even Ann M. couldn't help in that area. Smooth Joe just didn't come off as an Hell's Angel type, he's just to nice looking. And that sandwich building crap at the beginning...what amateurism. Get half drunk with some buddies and maybe this stumpwater will be palatable. Maybe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ca92502ab7eb1a6d87075e6c26d5002c0a6f2ba1eff3f4b8038e7a69840fa3
+size 556

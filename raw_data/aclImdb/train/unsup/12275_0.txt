@@ -1,1 +1,3 @@
-acknlowedging the individual from pine grove, ca, who is an agnostic, this has absolutely nothing to do with the content, intent, or production of this film that broke all barriers regarding race and blacks in leading roles. additionally, this film was banned in certain southern theaters because of it's theme. most directors and actors today refer to this film as a bellweather production. it has been included as one of the best american films and is so registered in the library of congress' archives.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:a954250b7039ad274a5664d7570c099e887c379698ee04af867aa9a3e495d216
+size 517

@@ -1,1 +1,3 @@
-Basil Rathbone and Nigel Bruce return as Sherlock Holmes and Dr. Watson in this superior tale of Holmes battling the 3rd Reich and the mastermind genius of Professor Moriarty. The film opens up in Switzerland as Holmes is in disguise as an "old bookseller." He must bring Dr. Tobel and the Tobel Bomb Site to England before the Germans can kidnap Tobel. Holmes succeeds and the Germans recuit the evil Professor. Moriarty manages to outwit Scotland yard and LeStrad "Dennis Hoey" by kidnapping Tobel. The only clue left by Tobel is a list of "dancing men." Who will break the hidden code of dancing men, Holmes or Moriarty first? Can Holmes prevent the bomb site from falling into the German hands thereby saving England from the precision bombing techniques developed by Tobel's bomb site? Watch and enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e991d4708001901b8b2d566249be1462ff1a144f12b75b6ead444207b1949525
+size 807

@@ -1,1 +1,3 @@
-The Beloved Rogue is a wonderful period piece. It portrays 145th century Paris in grand Hollywood fashion, yet offering a bleaker side to existence there as it would be experienced by the poor. And the snow. It's constantly swirling about, adding to the severity of the setting -- brilliant! The setting is enhanced by the odd cast of characters, including beggars, cripples and dwarfs.<br /><br />A brilliant performance is turned in by John Barrymore, outdone only by the magnificent Conrad Veidt, who portrays a degenerate, dissolute Louis XI to perfection. And yes, Veidt picks his nose on purpose, pushing his portrayal to wonderfully wry limits.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d3e41765f1e8b357066e5fd21c85f3205b29aa91c0ee1e44f283d41536743d1
+size 651

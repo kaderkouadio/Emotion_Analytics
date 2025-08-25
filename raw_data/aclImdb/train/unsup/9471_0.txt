@@ -1,1 +1,3 @@
-Today, April 14, SCI-Fi showed Land of Far Away. Maybe they will show it again. If I had noticed the TV listing, I would have recorded it. Oh, Well. Better luck next time. It is certainly worth catching if you have kids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4507b450db417ae1eb85ecca11da6916ab43ef0b7346f6469095ed02014d1508
+size 220

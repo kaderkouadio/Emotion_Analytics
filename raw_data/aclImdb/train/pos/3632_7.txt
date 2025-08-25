@@ -1,1 +1,3 @@
-As predictable as a Hallmark card, but not without merit, The Rookie makes for a solid outing. Dennis Quaid, the most reasonable jock actor working today, is absolutely perfect as the science teacher turned baseball player Jimmy Morris. The film is never dumbed down for the children, as would be expected from a G rated film. As a sports film, The Rookie is one of the best I have seen since Any Given Sunday.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5780ef3fd95b8fcf43fca4e58d0d50a0aba50138859b82930d4e7276e709907
+size 410

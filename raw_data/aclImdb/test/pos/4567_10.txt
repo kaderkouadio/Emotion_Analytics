@@ -1,1 +1,3 @@
-Claudine is a movie that is representation of the american system at it's worst. The welfare system was initially set up as a stepping stone for those families who needed that extra hand to get back on their feet.The movie showed an accurate portrayal of how the welfare system breaks down the family unit. In other words if the father or any male figure is in the lives of the women and children their financial support from the system would be jeopardized if not terminated. The struggles of the poor can be seen throughout the world. I would like to see a reproduction of this movie back in the stores for all to rent or buy for their library collection.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b1ca3ba024595b68ccadd85bea23f7582e9744bb82e97d20a8d498c4666150a
+size 657

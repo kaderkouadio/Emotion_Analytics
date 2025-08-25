@@ -1,1 +1,3 @@
-Even by the standards of most B-movies, this movie is by far the worst I've ever seen. The graphics are so poor that a man in a monster suit looks more realistic. the ocean water effects are especially laughable, including the one scene where they board the mini-sub, and the "water" looks like its frozen in place. The problems with this film are so numerous that I'll just stop here with the details. needless to say, I kid you not when I say that even Uwe Toilet Boll himself could do a better job. Avoid this movie at all cost, there are other B grade movies out there that, despite being horrible, are at least a good way of passing the time by.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0caa713fb6b237ab2c618ea2fb065f0838629a20134423566829a1490eaf50e3
+size 650

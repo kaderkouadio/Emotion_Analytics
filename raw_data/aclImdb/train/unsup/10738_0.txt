@@ -1,1 +1,3 @@
-Absolutely amazing and startling documentary about the most terrible tyrant of the 20th century. Compared to Stalin, Hitler comes out of this as a buffoon, and an incompetent one at that. Perhaps Stalin's greatest victory was to leave to posterity so few living enemies that even today he is the subject of worship by so many Russians. This one evil and profoundly ambiguous man was the greatest mass murdered in history -- and the appalling scope of his crimes is made shockingly clear by the well-balanced, delicate survivors' accounts in this long video set.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb96c0a477818a3e6d53915bd899ae2204c4efbda0dd0e60ad991cf1138d5df7
+size 561

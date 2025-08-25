@@ -1,1 +1,3 @@
-A hilarious skewering of pompous French intellectuals. Godard does a masterful job of presenting this satire without even the slightest wink. The (several) scenes of the tortured artist leafing through a book of empty pages was a laugh riot! I can't wait for the American version!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cb787d8acd8f82063abcc08be800d5593f7d8b818622ad2e57e9ee26c3306f9
+size 280

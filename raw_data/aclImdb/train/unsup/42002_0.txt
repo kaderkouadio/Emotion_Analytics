@@ -1,1 +1,3 @@
-The Last Confederate is a dull, uninspiring spin off of the Robert Adams story. Nothing in this movie impressed me. The acting was atrocious. There was not one believable character in the film. It just didn't seem authentic and the cinematography was amateur at best. It reminded me of a late night movie that would come on the lifetime channel. The production values are low and there is hardly any action . If you are expecting a hardcore war movie, look elsewhere because this feels more like a lousy romance novel. After watching Seraphim Falls with Pierce Bronson, a hardboiled western set after the civil war, you can tell the difference in the quality of direction and writing, and it was just so much more fast paced. Leave this one on the shelf.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fa9284bd79e17ed63934056cc5ffdcc933e588b7692b6c58473aa31c04135b8
+size 754

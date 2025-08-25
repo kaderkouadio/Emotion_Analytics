@@ -1,1 +1,3 @@
-I will start this by saying that, Not Another Teen Movie was an intelligent and generally funny parody movie, Shriek If You Know What I Did Last Friday the 13th is completely and utterly devoid of anything resembling an effective joke (or anything of any worthwhile value, really). There's not much to say about this one; every single gag falls completely flat - even though it's parodying a lot of the same flicks that Not Another Teen Movie went after. The actors seem to be trying, but with a script this horrible, Marlon Brando himself (and I'm talking old school Brando, not The Island of Dr. Moreau Brando here) would've come off amateurish. Imagine the lamest joke you've ever heard and then stretch it out to around an hour and fifteen minutes, and you'll have a vague conception of how excruciating it was to sit through this miserable flick.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aed6957ba266c01d23a4bc64e5899aaf1256d071710490993314002c4b59d72
+size 851

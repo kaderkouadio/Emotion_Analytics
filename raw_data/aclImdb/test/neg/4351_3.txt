@@ -1,1 +1,3 @@
-A sadly inferior precursor to "Who's Afraid of Virginia Woolf" this film drags on and on, occasionally reviving your interest only to put you through more selfindulgent maundering and obvious but patently overdone plot points.<br /><br />It may list as 111 minutes but feels like three hours of painfully wasted time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7eacff4a03ace27108279e029fcb1a90890b834d6ef327fc022d0e746d4374b
+size 317

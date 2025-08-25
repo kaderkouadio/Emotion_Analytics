@@ -1,1 +1,3 @@
-This was about as bad as they come. Throughout the movie, you'll continue to wait for a coherent plot, then at the end, a surprise ending that will leave you feeling empty.<br /><br />Not unlike trying to stand an egg on it's end for two hours only to find out that it can't be done (unless it's the solstice).<br /><br />Don't watch this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:885b7cd3f32db57456151fe3a1e93dad8e11cf8c847a70f4de5638961d6114d0
+size 339

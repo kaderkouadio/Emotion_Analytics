@@ -1,1 +1,3 @@
-Oh dear me! Rarely has a "horror" film bored me, or made me laugh, as much as this one. After a spirited start with an intriguing premise, it descends into not much more than a slasher flick, with some supernatural and sexual asides. The usually excellent Alice Krige is wasted in this one, and the plot twists are ludicrous. Don't bother unless you're really desperate. Rating: 3/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd91c5d054b9123256240ff89db70138df4521fc347f43eae407f0676423a1ff
+size 384

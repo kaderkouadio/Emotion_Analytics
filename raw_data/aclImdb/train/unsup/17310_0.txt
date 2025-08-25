@@ -1,1 +1,3 @@
-This film is available on video as "Scalpel", and it's quite interesting. Lansing is a crazed plastic surgeon who makes a disfigured dancer look like his missing daughter to claim a $2 million dollar inheritance. However, things get complicated when the real daughter reappears. Some interesting plot twists and decent acting makes this mystery worth a look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c77eebe17a584c7f3c8d6c8fe35ea539e0747f8428beb5c9072e0e8721a17bf
+size 358

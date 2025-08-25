@@ -1,1 +1,3 @@
-Perhaps I shouldn't be commenting on this film, as I couldn't sit through the entire showing. I rented this movie, because I am always drawn to movies of the 40's/50's era. Well, that was a mistake. Should have learned my lesson with Mulholland Falls, but this one took "bad" movie to a whole new level.<br /><br />There's not much to say about this movie, except "avoid at all costs".<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4bf3d42d326df1a17416070c5804142093d2727e791b7278be741331f42f58c
+size 397

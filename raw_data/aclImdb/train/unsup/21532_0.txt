@@ -1,1 +1,3 @@
-The movie was wholesome and had a great story line. Blondell was great in it. =) There was some great scenery. The acting was very good. The direction of the movie was excellent. I think if this movie had gotten more press it would have done well in the box office.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e4da7415920b53a3617c680ea36bfa1dbb7fdf87223b34244746d0b5ad0fac3
+size 265

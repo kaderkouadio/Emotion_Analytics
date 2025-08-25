@@ -1,1 +1,3 @@
-This is one of my favorite movies. The performances of Rip Torn and Tantoo Cardinal are excellent and their performances combined with the music, scenery and reality of the movie are quite compelling. A look at a true, tell it like it is, logging, mountain man who refuses to give up his way of life in the name of progress and development. The music of the Horseflies is very unique and adds an eerie quality to some of the scenes. After seeing this movie for the first time, I had to go out and purchase the video and the soundtrack. Overall, a quiet type of movie with bursts of panic. Both Torn and Cardinal are very believable in their roles. I put this movie in the same category as Winter People with Kurt Russell and Kelly McGillis, another favorite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0f042de9ee8dc2d448749d1b8bb8fadd56234078b0b88eff13cef5cc1916221
+size 758

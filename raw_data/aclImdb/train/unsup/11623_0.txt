@@ -1,1 +1,3 @@
-Wow! Here it is. Very likely the worst movie I have ever seen. I had read about this film long ago but never seen it. What was going on (if anything) in the minds of the people involved? This must be the movie which inspired "Showgirls". I thought that was the worst until I watched this. No wonder so many actors' careers seemed to end with this one. I finally understand he meaning of "bad taste". Phew - quel stinko!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaec5f80b221d7b6227b066f34e7c0889b7426c1c243ae6318e66018aba3d529
+size 419

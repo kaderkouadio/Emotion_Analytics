@@ -1,1 +1,3 @@
-Just watched this film for the first time this evening mainly because the brilliant Julia Davis was listed as being in the film. It took about 20 minutes for me to get into the general idea of the characters but after that I was lost in the world of the unfortunate situation the brothers had found themselves in.<br /><br />An amazing film. A real weepy. Shirley Henderson played a blinder. Can't say I was surprised after seeing her in Dirty, Filthy Love but I never recognise her name as an actress. I will do from now on.<br /><br />The only thing I wasn't sure about (ironically) was Julia Davis pretending to be Scottish. Her desperate character still comes across but the accent is a little dodgy to say the least.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d306cb587447990da65eb0b2997fccceb535bdc4c0668a99b6e6c441ec654682
+size 721

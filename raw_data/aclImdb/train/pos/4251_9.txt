@@ -1,1 +1,3 @@
-I liked SOLINO very much. It is a very heart-rending story of an italian family moving to Germany. And it's an story about brotherly love, hope and disappointment. And the film is never boring. Go and see SOLINO!
+version https://git-lfs.github.com/spec/v1
+oid sha256:878a8cb10727f0560245580b2aab580ef414298a2c60b92de9be89a156ae39f5
+size 212

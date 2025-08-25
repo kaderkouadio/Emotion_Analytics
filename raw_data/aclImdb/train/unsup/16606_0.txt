@@ -1,1 +1,3 @@
-I just saw this movie through the Los Angeles KCET Movies Series and it was absolutely fantastic! While the movie does contain a subtle political message, it is not meant to sway the audience in the illegal immigration debate. The story carries extraordinarily well with a subject as touchy as illegal immigration and cannot exist without it. Utilizing a theme of abandonment, the movie explores what it means to truly care for and cherish a loved one. With brilliant acting (Adrian Alonso is incredible!), fantastic direction, and a terrific screenplay, the movie is a wonderful, heartfelt journey that brings laughter, sadness, and a sincere sense of happiness into an enjoyable, movie-going experience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0868c27d577b5ad8db5161979fd630871e58af3a89481b5bf6d25b53746d68e5
+size 705

@@ -1,1 +1,3 @@
-What an amateurish movie. The acting was uniformly stiff and annoying, and the background music was appalling. This movie benefitted from the current vogue for Indy/Gay Cinema, and had it been a movie about a straight cad, it would not have warranted any attention. Moreover, it would be skewered by critics everywhere, and for very valid reasons. I support gay and independent cinema, but not at the expense of credibility. My gay friend and I were happy we saw this movie, if only to repeat its wooden lines and chuckle. This movie is an embarrassment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e3d8f4e850035004336fb44bec67973b33fadee6606063ce23122d85c7a80a
+size 554

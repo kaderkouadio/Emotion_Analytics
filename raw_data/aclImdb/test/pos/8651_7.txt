@@ -1,1 +1,3 @@
-A man arrives in a strange, beautiful, sterile city where no-one feels any emotion and obsesses instead about interior design. The essential sameness of his days is reminiscent of 'Groundhog Day'; the strange passages in and out of this world more remind one of 'Being John Malkovich'. But truly, this is a Scandanavian movie, a piece of self-satire that is also Scandanavian in style: the tone is austere, and even the most fantastic scenes are played straight, daring you to laugh at the absurdity. To my mind, the combination isn't wholly successful: there aren't enough genuine laughs to compensate for the difficulties of taking the piece as pure drama. It certainly is original; perhaps my problem is that the world that it satirises is not one that I recognise. Perhaps I should move to Scandanavia!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a4ee491dd826c62882b799764c3049cab88beb768e161513f7c6c06c039cb80
+size 806

@@ -1,1 +1,3 @@
-According to rumor, it's the famous racecar driver Jaques Lafitte who drives this car as it speeds insanely through the near empty streets of Paris at 200km/h one early morning. Veering for cars and buses, almost hitting pedestrians and pigeons on every corner, this is as close to a real snuff movie you'll ever get. Very little is known about the car and it's driver. But I can assure you this: It was in no way sanctioned or produced with the cooperation of the police. It's far too risky for that. But what a ride! An absolute must see for any film or racing fan. Brilliant!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d319314ee0c2d34835b1a122ef979a0565dbd5f1cdccba4fb1a4bd98419b271e
+size 578

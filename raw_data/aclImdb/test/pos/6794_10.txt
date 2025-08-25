@@ -1,1 +1,3 @@
-This movie is ageless and would probably appeal to children today, even if there isn't a Jedi in the entire thing. Of course, Elizabeth Taylor was the most beautiful child in the world and her acting is great too. Even Mickey Rooney is good; so are Anne Revere and Angela Lansbury. The world was a different place when this movie was released, and it certainly is a great place to visit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcf56672768028f2d7d8b622709b34ad404892de0979b1683da09db4797d84d5
+size 387

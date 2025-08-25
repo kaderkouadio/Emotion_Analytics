@@ -1,1 +1,3 @@
-Nothing in this film interested me. I thought the actors were asleep while they were performing. That's not laid-back Stanislofsky method, that's just walking-through and saying lines, I'm afraid. Kidman's performance is sad. The story is, however, mildly entertaining if you want to put up with the bad acting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc02639be37201bea7dc65fa7087b3a48e16825d5b93942c0bac61e616961c9
+size 311

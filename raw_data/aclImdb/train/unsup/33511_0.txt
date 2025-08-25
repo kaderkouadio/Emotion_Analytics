@@ -1,1 +1,3 @@
-The male characters were amoral and one dimensional, whose primary interest were sex, money, and violence. The women were just as bad, but with a pinch of "neediness". If this were the only film that a non-black viewed about African-Americans, they would have an entirely wrong impression of black people in America. There was not one level headed, clear thinking person in this whole movie. The mother came close, but was still a few bullets short of a full clip.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e25cdca04bf7a82a0a5bb892e8f48951f017f03b0c7f1123da14cad84ff078f
+size 464

@@ -1,1 +1,3 @@
-I wanted to like this movie, but many elements ruined it for me. The use of a fisheye lens throughout and choppy editing did not give me a sense of being in the world of the meth head, but it did make me think I was watching MTV for a few short moments. The movie never did seem to go anywhere and the acting was truly an excellent example of over acting. I love movies that give us a glimpse into the seedy underworld, but this film couldn't decide if it was a bad horror film or an even worse serious commentary on the horrors of addiction.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9e42e768f25931cee2cccab14e2a022e35e1a376b363867e18d27b6bfeb04b
+size 542

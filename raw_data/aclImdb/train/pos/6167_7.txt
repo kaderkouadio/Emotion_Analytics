@@ -1,1 +1,3 @@
-"Such a Long Journey" is a well crafted film, a good shoot, and a showcase for some good performances. However, the story is such a jumble of subplots and peculiar characters that it becomes a sort of Jack of all plots and master of none. Also, Western audiences will likely find the esoterics of the rather obscure Parsee culture a little much to get their arms around in 1.7 hours. Recommended for those with an interest in India.
+version https://git-lfs.github.com/spec/v1
+oid sha256:227744295c15d9fd2c6a5d88fa0d60fbf54302b666582426638f59759be8b5a3
+size 432

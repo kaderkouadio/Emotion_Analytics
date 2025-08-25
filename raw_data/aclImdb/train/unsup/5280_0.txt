@@ -1,1 +1,3 @@
-<br /><br />This film is BAD. All the ingredients that add up to make a good film are lacking here, the script - terrible, the acting? - worse. And if you can find a worse director doing (financially) well in Hollywood, I applaud you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:302b5805b110f6aaf66ae4d5dad4c619a53c2323fa364a67034a928062dbcb99
+size 234

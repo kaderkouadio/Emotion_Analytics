@@ -1,1 +1,3 @@
-A simple comment...<br /><br />What can I say... this is a wonderful film that I can watch over and over. It is definitely one of the top ten comedies made. With a great cast, Jack Lemmon and Walter Matthau wording a perfect script by Neil Simon, based on his play.<br /><br />It is real to life situation done perfectly. If you have digital cable, one gets the menu on bottom of screen to give what is on. It usually gives this film ***% stars but in reality it deserves **** stars. If you really watch this film, one can tell that it will be as funny and fresh a hundred years from now.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99fd44f34da61020f37ee8de504f24e6e75ce666e2502769d9b1be00187543e
+size 588

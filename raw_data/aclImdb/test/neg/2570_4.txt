@@ -1,1 +1,3 @@
-Apart from some quite stunning scenery, this Steven Seagal vehicle is devoid of reasons to spend any time watching it. For a Seagal movie it has very little (almost no) action but he does put in some reasonable (for him) acting in contrived character development scenes. Not recommended. To anyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c96d23ed4b5759f59056b3e5ae4aec8873e1f725c5936075692e4cdfc05e6d
+size 298

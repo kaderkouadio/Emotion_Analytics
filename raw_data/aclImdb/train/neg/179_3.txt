@@ -1,1 +1,3 @@
-Return to Cabin by the Lake just.... was lacking. It must have had a very low budget because a fair amount of the movie must have been filmed with a regular video camera. So, within the same scene - you'll have some movie-quality camera shots AND simple video camera shots. It makes for a very odd blend! I think they should have found SOME way to not do the "home video" type effect! <br /><br />I think it's worthwhile to see it IF you have seen the original CBTL because then you can compare and see the differences. But if you haven't seen the original CBTL.... you'll never want to see it if you see this one first! It will probably seem way too cheesy and turn you off from even caring about the original one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a86627b5c9a5904e7c0142c5a58e7b8d12e5dd4f89115b1588f1af0514fa9ea
+size 715

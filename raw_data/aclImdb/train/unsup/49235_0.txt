@@ -1,1 +1,3 @@
-This one has a promising video cover and an intriguing title ("The Secret Of The Seagull Island"), but don't be fooled (like I was). Its TV-movie feel is strong but could be forgiven if it achieved its goals in the other departments. But the "secrets" are unsensational, the plot is illogical and the pacing is plodding. The only two reasons that would make me give it one star instead of none are the well-shot underwater scenes and the not-bad acting. But it's still a waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c73206905feb13a05b13edac3779ac5d0b7dc084fb71d1afe76458c8f23d19
+size 485

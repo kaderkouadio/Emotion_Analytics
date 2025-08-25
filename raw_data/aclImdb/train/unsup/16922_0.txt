@@ -1,1 +1,3 @@
-Many persons advised me against this movie and I didn't want to believe them. But they were right! It is a very stupid movie. The subject was interesting so it could have been better. Most actors are very notable but they look so ridiculous in it. Gabriel Aghion made better films (like the excellent 'Pedale douce' one the best French comedies of all times)!
+version https://git-lfs.github.com/spec/v1
+oid sha256:294ad951099fdbcbe9234c3247ece2eb940c75f1bf7d853b311e5c1cdba7788d
+size 359

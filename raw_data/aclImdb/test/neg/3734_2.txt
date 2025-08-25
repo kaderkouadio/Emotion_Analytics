@@ -1,1 +1,3 @@
-The first time I saw this film it was with this cute girl I was attracted to. we had a lot of fun laughing at it and generally making fun. So my impression was that it was terrible but watchable for cheeseyness value. Then, as part of our anniversary, we watched it together again on video. As it turns out, the movie is just terrible and unwatchable. It's amazing how cute girls can change the way the world looks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e769aa2ec7782f043027a6423a646ee0d67ede8ac85c698f33e66c641f32c9
+size 415

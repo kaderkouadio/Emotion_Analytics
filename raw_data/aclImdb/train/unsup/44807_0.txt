@@ -1,1 +1,3 @@
-WEAK, WEAK, WEAK! Totally miscast and disinteresting. Whatever happened to those wonderful character faces seen in all those great movies about movies from the time period this half-effort attempts to portray? There has been so many better films and TV shows on this same subject that reigns mountains over this "flick" (to be polite). Remember "Bracken's World" (1969)? It's a shame American Movie Classics (AMC) chose to cancel "Remember WENN" in order to, according to their website announcement, make time available for "The Lot", a 4 part - 2 night time waster. Station "WENN" has everything "The Lot" ain't! Pray that this one goes no further.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c66e71c681ea55216abb472df89085f79eaddbd0f6a723f1d22935737e5f27df
+size 649

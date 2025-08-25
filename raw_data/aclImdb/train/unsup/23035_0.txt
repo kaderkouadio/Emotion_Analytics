@@ -1,1 +1,3 @@
-Best thing about this film was the film quality and soundtrack. The soundtrack was done by a musician from the Sacramento band Far. It put a lot of energy and suspense into the movie. The movie had too many instances of long standing dialogue. The best films have quick interesting dialogue. I liked the look of the movie but the premise of the screenplay was lacking. If the screenplay could have been improved the film could have been a decent one. But character development was not present and there was not enough interesting characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:181b3beca29b9ff70ab457db3d3068ef69bcd417fe928cb60ac12c75c524ed32
+size 541

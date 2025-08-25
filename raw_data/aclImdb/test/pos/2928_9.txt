@@ -1,1 +1,3 @@
-La Petit Tourette is a pretty funny South Park episode.Cartman is at the toy store one day and here's a kid swearing out loud but not getting in trouble for it.His mother then tells everyone that the kid has "tourette syndrome".Cartman loves the fact that he can swear without getting into trouble so he tells everybody that he has tourette syndrome.Kyle, however finds out that Cartman is lying and tries to tell people, but they think he is insensitive and is put in a "Tourette sensitivity training" type place.Cartman's tourette's eventually land him a spot on a talk show, however he finds that he cannot control his tourettes and starts saying embarrassing things that happen to him.Meanwhile, Kyle tries to sabotage the show in an interesting way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc314f3752d1d7f4298242903da18f042c9e90676659933e990c7c7f84a4a19
+size 754

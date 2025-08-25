@@ -1,1 +1,3 @@
-This movie was not only the best of the series but likely the funniest and most heart-warming comedy of the 1990s. Slapstick humour, true, but it works, and most importantly, it makes you laugh. This movie had great, creative, hilarious scenes mixed with an emotional and heartfelt story while at the same time remaining true to the elements of the original. The musical scores were fantastic, and it's pretty much a movie that anyone of any age (who isn't a biased moron) can enjoy. Anyone who still believes this movie shames the original ... or that the series itself isn't worth seeing needs to have his or her brain removed ... because it's obviously not being used correctly. <br /><br />Superb sequel ... superb movie in general.<br /><br />My rating: 9.0/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b793c6181e4c65f6d24a1c1ae5ae1dd830d7afa75a163701c28c27833d2673
+size 765

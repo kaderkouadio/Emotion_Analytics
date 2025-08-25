@@ -1,1 +1,3 @@
-The Wedding Singer is the first Adam Sandler flick that guys can take their girlfriends to see. It is a nice (and funny) comedy about a guy (wedding singer Sandler) who has been dumped by his fiancee and is soon falls in love with (waitress) Drew Barrymore who is also engaged, but isn't in love either. It is a nice comedy that almost comes close to a romantic comedy. Steve Buscemi, Jon Lovitz, and best of all, Billy Idol. A+
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd257367fd1a251d9769e2a3019f5f777066c06a852fca6f76d0266d797376af
+size 428

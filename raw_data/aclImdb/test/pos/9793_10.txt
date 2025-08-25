@@ -1,1 +1,3 @@
-This is a really sad, and touching movie! It deals with the subject of child abuse. It's really sad, but mostly a true story, because it happens everyday. Elijah Wood and Joseph Mazzello play the two children or Lorraine Bracco, a single mother who just tries to make a home for them. While living with her parents, a man, who likes to be called "The King" comes into their life. He hits the youngest boy, Bobby, but the two brothers vow not to tell their mother. But finally she finds out, after the Bobby is hurt badly. The end kind of ruined it for me, because it is so totally unbelievable. But, except for that, I love the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1df1fb31603bd9c165c57aa15b66896600306fcc59bb742669fa08ee50a51574
+size 634

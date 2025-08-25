@@ -1,1 +1,3 @@
-I loved this movie. Not because of the romantic story lines between women, but for the visualization of human strength, despair, and liberation. This film is a must see. Entertaining! Emotional! Captivating! All the characters are very well written and portrayed by some very talented actors. This story is a story of self discovery and sexual awakening. A journey of the mind, body and soul. You find yourself identifying with the characters and at some points, even the storyline. <br /><br />I do have to say that I recommend watching the movie first, then read the book. If you read the book first, you will be slightly disappointed. The screenplay adaption cut out a lot and some things were changed. Some for the better and some for the worst.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94de8494b6cdb26157f9e69e00c31a3b506e95dc010a217a3073e788c96c2982
+size 749

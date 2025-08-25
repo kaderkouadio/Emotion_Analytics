@@ -1,1 +1,3 @@
-This is a ripsnorting, old-fashioned adventure yarn. I understand that by today's political standards, the treatment of the Indians was unacceptable. But this moving isn't about politics. It's about action, dialogue, comradery, acting, direction, music, and photography, and it's marvelous on all these factors. Grant, Fairbanks, and McLaglen are electric together, and Jaffe is superb. This is the ultimate buddy movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b1b6792909d6d5d25f1ca3135627cf4f1ee7dde2a7fece383c5bed36ef92c35
+size 420

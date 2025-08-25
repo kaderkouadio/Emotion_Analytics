@@ -1,1 +1,3 @@
-Before i watched this movie i did not think it was going to be very funny,but when i did see i laughed almost all the way through. Adam Sandler's chracter really loves his girlfriend in the movie and tries really hard to get her back. John Turturro is also funny in this movie. Bobby Knight and John McEnroe have cameos in this movie. And Woody Harrelson and Heather Graham have small parts in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6c9b0cf80e150cd408706bb6a99e5c99b3b2f46d3d83f78355e2c343d30f339
+size 405

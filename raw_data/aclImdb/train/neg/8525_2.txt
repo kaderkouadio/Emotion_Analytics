@@ -1,1 +1,3 @@
-Oh, man! This thing scared the heck out of me when I first watched it... and I was SIXTEEN!!!<br /><br />That creepy animated Barbie is scary as hell! I want to stop talking about her now.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9d5fa3e84d278d114529147e68a26a7c47439b324e22ce0cb89a8478ab0038b
+size 188

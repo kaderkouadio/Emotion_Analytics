@@ -1,1 +1,3 @@
-I find this film meretricious, tentative, lethargic, and skillfully a bad choice of entertainment on celluloid. But I admire the courage to throw away a script, turn the camera on, and act a fool. I find the inauspiciously performances, lighting, cinematography, sound, and whatever film school laws D' Urville Martin broke funny. Speaking from a film directors perspective there is times I just want to drop everything and have fun on the set. This film looks like fun. When other aspiring film directors ask me advice I just tell them to watch any film by Rudy Ray Moore. They always return a puzzled look asking me why not watch the masters Woody Allen, Scorsese, Lucas, Capra? I laugh and include that you always want to know what not to do in cinematic story telling first.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab4b0481e126077eb6d79471adad4bcf68ee6b92345afa726cd24628d282b493
+size 778

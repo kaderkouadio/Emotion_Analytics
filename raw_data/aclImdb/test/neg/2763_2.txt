@@ -1,1 +1,3 @@
-If this film is an accurate display of J. Smits acting skills, I think he made a big mistake leaving television. Hasn't he watched any films "starring" David Caruso, especially "Cold Around the Heart"? Along the lines of acting ability, what about Mary-Louise, she has done much, much better. Yes, it is a terrible script, ineptly edited, and totally lacking in continuity, but skilled actors can and have overcome similar obstacles. A very big disappointment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4483603f4877a483f5af9b77af4daad0e8ad2d1cc94c4ddc9fc98f75aebfad4
+size 460

@@ -1,1 +1,3 @@
-This movie was weird, twisted, and made little sense. Some scenes were too disturbing to even watch. The ending did not reveal any truths to me, only more mystery as to what on earth really happened. The young college girl was a pointless part of the story that did not even begin to seem like a subplot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30e6e78ee28a0deb2ceef7181590dbd4ac30caa0f3e2d32ff6d40341ad71ee9b
+size 304

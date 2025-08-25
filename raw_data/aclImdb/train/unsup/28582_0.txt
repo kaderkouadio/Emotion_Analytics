@@ -1,1 +1,3 @@
-The Guardsman is the only play of the famous stage couple that was remade for the screen. In fact, Lunt and Fontanne appear together in only four movies that I'm aware of, two of which are silent; the other sound movie being Hollywood Canteen, where they briefly appear as themselves.<br /><br />For students of stage history, and admirers of a truly great thespian couple, this movie is a treat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5389f698765eb24b14bd9c166c7ac5b9ad126036f22ebc3d15cace13373c999d
+size 396

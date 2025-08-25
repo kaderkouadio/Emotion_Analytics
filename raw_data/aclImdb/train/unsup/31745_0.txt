@@ -1,1 +1,3 @@
-I saw this about 15 years ago when my mother rented it. Why Blockbusters had this in the comedy section, I'll never know. Seniors defending their block of flats against developers at *any* cost. Really creepy, or just bad acting? If you're looking for some _Exorcist_-era horror, it might be worth a look, but only if you've already seen everything else on the shelf.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d3c6b7f9800eceff1af0bd21f89242bc0949763c53b8034fe82509dfb132665
+size 367

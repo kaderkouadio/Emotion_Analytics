@@ -1,1 +1,3 @@
-This is a totally awesome movie! If you haven't seen it yet, you damn well should. Sure, the plot is slow to develop, the special effects are laughable, the acting is ridiculous and the action is badly choreographed, but as wrestler DDP would say; That's not a bad thing....that's a good thing! Everything about this movie is hilarious, especially if you get the dubbed version, which has even worse actors. It's countless laughs until you get to the end, yearning for the sequel, where the mummy fights wrestling women. Thus, I give it ten stars. Unless you're one of those 'discriminating' and 'intelligent' people with good taste, who likes only 'high quality' films of the highest calibre, I recommend this utterly monkeydellic movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:12b272dfd89a8db3d612dc4f7f1729049fb32c770519f54342c7889abfc14210
+size 738

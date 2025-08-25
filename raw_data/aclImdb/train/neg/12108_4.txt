@@ -1,1 +1,3 @@
-Just had to write that one liner, but it really is. I love the gangster genre and this is the weakest entry I've seen in recent years . I have praises for everyone involved in most aspects except the most important one, the script . It is a weak story about a petty criminal. No amount of fine acting or black and white film styling can make up for a total lack of substance. I love Kevin Spacey and I hear he's gonna do another film about the general. My advice is don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f95f3837b667bb556ce414d960670416dba8afc06069e2a13257cc1616efdbc8
+size 488

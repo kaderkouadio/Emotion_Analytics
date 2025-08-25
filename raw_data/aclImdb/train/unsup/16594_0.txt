@@ -1,1 +1,3 @@
-Unfortunately, it seems that many people are too blinded by their own political sympathies on either side of the fence to appreciate this movies for what it really was... A terrifically acted and brilliantly written screenplay. It's about familial love that overcomes mankind's boundaries (literally). True, the same story could have been (and has been) told in a more politically correct way, by having the families separated unjustly by Nazi or other intolerance. However, opening the window into this seldom explored and controversial world of illegal immigration gave it a fresh spin that makes it seem more relevant to the world we live in today. The story is told in a fresh and less-than-predictable way. My only wish is that I was fluent in Spanish so that I could have appreciated the film as it was meant to be seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6797558b5738dbb5cf0d61c77bb77b1631b0e8e86e7c22b2c70a83a413999afa
+size 826

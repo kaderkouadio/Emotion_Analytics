@@ -1,1 +1,3 @@
-This movie is absolutely horrible. Let me clarify, the first 20 minutes that I forced down were absolutely horrible. This movie is about as interesting as air. It's sad that it compares itself with Kung Fu Hustle. Using the same font and graphics layout as the Kung Fu Hustle DVD did. Don't be fooled. This is just a wanna-be decent movie hiding beneath a decent cover and some huge martial artists who aren't even given decent rolls. If you want to see a good funny martial arts movie check out: Kung Fu Hustle, Shaolin Soccer, or any other Stephen Chow film. This movie doesn't even compare to Kung Pow: Enter the Fist. I like stupid movies, but the movie still needs to be entertaining.
+version https://git-lfs.github.com/spec/v1
+oid sha256:730a6d774a34201775a9c5eef9cc6ebd1ea958a9405f7a79d7ed63df23bad28c
+size 689

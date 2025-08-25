@@ -1,1 +1,3 @@
-Angus is an overweight high school student who is great at science, has a crush on a popular girl named Melissa and is bullied by Rick. As a cruel joke, Rick rigs the ballot box so that Angus is nominated for king of the winter ball. Angus also has a side kick little friend named Troy.<br /><br />Rick makes Angus life a living hell but there is a great scene where Angus gives him the tough lecture on "who is normal?" I thought that it was great because for once, Angus was fighting back.<br /><br />A part that I didn't like was when Rick and his friends hurt Troy. That just broke my heart but other than that, I liked this movie a lot. So, if you are not normal, this would be a great movie to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ba54bcf874f6e889b0416f7d878998d8d0a9e728e65a119b40945c7b4a267c
+size 704

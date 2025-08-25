@@ -1,1 +1,3 @@
-The Elephant Man is without a doubt the 'finest' movie david lynch has made, in a sense it doesn't provoke with violence or odd things like Lynch's movies often do, but with pure emotions in a touching drama about the man who just wanted to 'live a normal life', whatever that is.<br /><br />You really feel for John Merrick, and unless your heart is made of stone you will get your eyes wet in the powerful end scenes with Barber's Adagio playing...this is how great movies are made, ones that wake you up, and make you think.<br /><br />Should be all-round education for everybody. 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c603a95f251f2b7c8f0091fc312619fdbe35f2629a22beea9051a53b81f4f9a
+size 588

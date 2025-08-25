@@ -1,1 +1,3 @@
-This film is the best film Jim Carrey has ever made. Carrey did not have his usual face making stuff in this film. He was both funny and sad. Carrey played a reporter named Bruce Nolan. Nolan blames God(Morgan Freeman) for everything that goes wrong in his life. Then, God comes down from heaven and gives Bruce his powers. As I said before, Carrey did an excellent job. I also thought that Morgan Freeman and Jennifer Aniston were great as supporting actor/actress. The plot was good because it had many subpoints in the main point. This movie can be funny(Bruce's dog) as well as sad(the "break-up"). The script worked well, too. I am glad they made a sequel to this film. I rate this film a 9/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b91f6eaf3374e81ddff8e3637c7242ba95b83d1255a4a3a66609b44bfa0b104
+size 699

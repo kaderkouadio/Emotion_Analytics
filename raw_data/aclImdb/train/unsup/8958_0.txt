@@ -1,1 +1,3 @@
-Definitely worth the rental bucks, despite the occasional but forgivable schmaltz at points. Good soundtrack, evidence of John Hughes III and his friendship with Tortoise-guy John McEntire, and a very atmospheric, hazy look to the whole picture. Wonderful moments of quiet, and shots held longer than I'm used to seeing in a Hollywood film. Oddly casual, and quite enjoyable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd40d8a2d8aa197ecc99a40117d53c4029c9911228ec0ed7b1da468b86cefa55
+size 375

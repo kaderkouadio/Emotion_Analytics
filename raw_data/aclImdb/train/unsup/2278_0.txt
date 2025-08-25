@@ -1,1 +1,3 @@
-I've played a lot of game, especially the quest types (Myst, Riven etc.) and i have to say that this one is the best. When the Curse of Monkey Island came out, i found it really good, but this one's even better. I loved the graphics, the unique (in is way) lucasarts humour, and the plot + storyline. I liked the voice of Dominic Armato as Guybrush, and all of the other characters as well. There is only one thing missing: there's no soundtrack, and the music is great. If you haven't got this game, get it now, you won't regret it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d6bd20bcb31e0bd7327db5b5cf1b84bb07d3cf887f6856e527c48df6bf5c7c
+size 533

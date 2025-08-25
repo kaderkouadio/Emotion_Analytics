@@ -1,1 +1,3 @@
-"Jawbreaker" is a very boring film. Don't be fooled by the premise, a cheerleader chokes on a jawbreaker or something. Instead, the first 10 minutes are pretty much the only thing the movie has to do with the girl. The rest is our lovely Hollywood stereotype teenage movie. You know, nerdy girl gets makeover and becomes homecoming queen, everyone listens to most popular tunes, etc. It is all like that. Don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ffe90a518044a26d427376b0c3a6d152ac05d3929155ae9cb62051a460ffcb8
+size 427

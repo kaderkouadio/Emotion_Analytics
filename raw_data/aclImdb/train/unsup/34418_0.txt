@@ -1,1 +1,3 @@
-We rented this movie based on the title and the comment on the movie, "Family Favorite Based on the Holiday Classic"; however, this movie is FAR from the original.<br /><br />We made it through about 12 minutes of the movie before shutting it off and taking it back to the rental business.<br /><br />Within those twelve minutes, there is a scene previewing toys, games, etc. where it showed guys chopping heads off with blood spewing from the neck. Then there was a song sung by a teenager where he sang, "Santa, you suck." I am highly disappointed that our family sat down to watch this with expectations of the sweet Christmas story from Rankin/Bass. Rather, in that 12 minutes they were exposed to things I try to avoid exposing my kids to all year long.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b37bf3543d7f3c2e3d7b7d5ea8931d40f2f24fb831e7a15e8b25fc84d8d75fa
+size 758

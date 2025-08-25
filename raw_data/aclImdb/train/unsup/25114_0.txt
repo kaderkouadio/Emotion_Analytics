@@ -1,1 +1,3 @@
-<br /><br /> Grand Hotel glimmers with Art Deco oppulence. The performances are wonderful,The script sparkles and the story still enthralls. John Barrymore gives one of his greatest performances as the down on his luck Baron Von Giagern,charming wistful and melencoly.Brother Lionel gives his greatest performance as the dying,but zestful Otto Kringelien.Lewis Stone is appropietly flippant and cynical as the enigmatic Dr. Otternslag and Joan Crawford shows us just how pretty and endearing she was in her early career.And then there is Garbo,the mystique that followed her to her grave must have started with her ethereal performance in this film.She is a wonder. Murder,theft,love,hate and greed...with all of this going on,I wish I could take Otternshlag's advice and "stay one more day".
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb876c70fd801d0f5578bc8aba6f3b80fa262c61d634cd09ed86770e4bda7db5
+size 792

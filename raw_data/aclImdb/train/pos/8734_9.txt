@@ -1,1 +1,3 @@
-The movie was totally Awesome and Cool. The graphics was superb and it was amazing, Especially, Flik was superb and awesome in the movie and he was funny and he was and sometimes he was intelligent. The circus bugs are colorful and they are superb in the movie. The grasshoppers were also superb and cool in the movie. Hopper was a pure and perfect villain. Even, Dot was cute. When, the bird comes to eat the bugs, that scene was superb and good. Even, the last scene was awesome and cool. Even, Flik's inventions was good. Building an artificial bird was a good idea to scare away the grasshoppers. When, the ants are building the artificial bird, that scene was good and nice I should really appreciate the creators of "A Bug's Life".
+version https://git-lfs.github.com/spec/v1
+oid sha256:42c31d07194fe80f21933ae96d84f47ac838871c43a54f136ecb6189bd4daa43
+size 737

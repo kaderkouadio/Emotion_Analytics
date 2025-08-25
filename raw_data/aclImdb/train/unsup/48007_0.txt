@@ -1,1 +1,3 @@
-Not sure why this movie seems to have gotten such rave reviews.<br /><br />While watching "Bang" one night on TV, I found myself bored by the nonsensical, random plot which was occurring on screen. The entire movie seems to be nothing more than an exercise in meaningless, artsy-fartsy self-indulgence on the part of the filmmaker. The fact that the director/writer goes by a one name moniker only reinforces this sense of pretentiousness. <br /><br />Those interested in indie flicks would be better off looking for something better written and dare I say, more entertaining than this complete waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c2ced69527fab8686716aebb2687c5199d9a0aad68a8fe9b464f51b03a2f93e
+size 609

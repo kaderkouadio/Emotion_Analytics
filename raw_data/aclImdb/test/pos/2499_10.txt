@@ -1,1 +1,3 @@
-I thought the movie was pretty good. I really enjoyed myself as I viewed it. However, the last scene at Johnny's birthday party was cut way too short. I, myself, was an extra in that scene and was upset with the results. But other than that, (and the weird casting), the movie was superb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab9559fdb615ad56306a79e29b52319be1304f6f8d706b50de0e7121b40ae9b
+size 288

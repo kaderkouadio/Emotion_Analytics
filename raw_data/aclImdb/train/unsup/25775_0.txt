@@ -1,1 +1,3 @@
-I found this film an absolute delight. All of the leads put in outstanding preformances. The romance between Prince Karl(Ramon Novarro) and Kathi(Norma Shearer) is wonderfully presented, and it is truly poignant. I did feel, however, that the film loses momentum, to an extent, twoards the end. The music score on the home video edition is, like most by Carl Davis, a big plus. Well worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7bea65630b140012c485e93b3370bf5bc34001b712584e63d9fe803518a5f5a
+size 396

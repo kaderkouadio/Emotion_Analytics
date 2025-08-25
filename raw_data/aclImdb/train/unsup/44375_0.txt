@@ -1,1 +1,3 @@
-Far from the rip-up comedy that ads presented, this depressing "Papa was a heroine addict and Mama dried weed in our oven" melodrama ruined my weekend. The over-acted performance by James Woods as the cop-dad who can't make up his mind if he feels selfish, compassionate, caring or heartless towards his good-girl gone bad, socially inept and unparented daughter was the kick that booted me out of the theater about 1h20m into the film. -- Riding in Cars with Boys was too much like someone's disappointing and depressing life to bother going to see. -- If you want to experience life like that, volunteer to work with teenage moms. -- If you want to be entertained, go see Monsters, Inc. or Harry Potter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b4353869263d7912bcc7e8f8ef5d861ebfcf7d347fd943160e8cf6e1263191
+size 705

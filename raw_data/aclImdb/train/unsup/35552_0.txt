@@ -1,1 +1,3 @@
-I have never walked out from a movie in my life until this movie. I was sitting there thinking it has to get better at some point but in vein. The story line is horrible (if there is one). It was changing scene every few seconds taking us into different environments and different situations. By the time you figure out what is happening the scene changes into something totally different. This is bad directing. And all this change didn't let you figure out if there is any point in this movie. It is not even artistic. I have seen many artistic movies and I love them. This one was just a waste of my time and money. Too bad right at the beginning I was thinking that British Cinema is getting better...
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b7d0e550c55e6f099722c216e0abcf8b1827f3f3e532fe91d81f693567398f
+size 705

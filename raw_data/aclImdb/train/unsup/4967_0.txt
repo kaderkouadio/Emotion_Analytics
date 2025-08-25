@@ -1,1 +1,3 @@
-This is the English 'Casino' and 'Goodfellas' in one laughable film. It is very well known how much the English want to be Americans and this movie proves it.<br /><br />Like in 'Lock Stock...' and 'Snatch', they try to create a New York environment in London, which is not realistic. They want it so much to make these gangsters be like their Italian-American counterparts and the end result is completely ridiculous. 'Buy yourself a nice suit...', yeah, right.<br /><br />Apart from that, Paul Bettany can hardly act and the director is the perfect Scorcese wanna-be.<br /><br />Malcolm McDowell is (as always) great though...<br /><br />2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ded694c0f0df2f4fbaf4388a4e83408140b223b8e4f6dd6bb2db98c4a25cc9
+size 644

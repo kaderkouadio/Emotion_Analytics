@@ -1,1 +1,3 @@
-I had heard that this movie wasn't typical Van Damme, but I still expected it to be mindless action on the whole. I was shocked when it turned out to be truly well done, and not just for a Van Damme movie. The acting is great, especially Rosanna Arquette's performance, and the story is not cheesy at all--it's actually compelling. The (sparse) fight sequences don't involve any weird Van Damme midair split-kicks to the head; they're straight-ahead brawls. This is definitely Van Damme's best, focusing on story and not action, but I guess his presence makes a lot of people overlook it. My rating: 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de07d7575c400e4cc769a00618526f7b2bcc4038b8e38b36bd31618396ab6d68
+size 605

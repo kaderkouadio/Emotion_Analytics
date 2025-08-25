@@ -1,1 +1,3 @@
-one of the worst films I have EVER seen, but extremely funny (not on purpose though). Every scene that contains anything to do with; aircraft, romance, script or acting is badly messed up.<br /><br />I recommend this film for all pilots, it´s so bad that you should burst into laughter at some point in the film (also see Airport 79:the Concorde, for the same reason).<br /><br />Anyone else, avoid this film like the plague (except for fans of B-movies, of course)<br /><br />enjoy
+version https://git-lfs.github.com/spec/v1
+oid sha256:64271beb49e375a39a88d3eccadfcf4607b5e6a4258d7642ffa4e020343831d6
+size 483

@@ -1,1 +1,3 @@
-This film gave me nightmares for months and I'm 17. This is the scariest movie ever made! That is no exaggeration!! I saw this movie at school in English lessons and no one else was scared which amazed me. After reading other reviews I'm glad I'm not the only person who found this so scary!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:644b4d3710154e7196ae91fc0665d1c70e56012653b24c00d51d2af78b346a23
+size 292

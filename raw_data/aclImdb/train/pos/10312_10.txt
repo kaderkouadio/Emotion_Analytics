@@ -1,1 +1,3 @@
-As long as you go into this movie knowing that it's terrible: bad acting, bad "effects," bad story, bad... everything, then you'll love it. This is one of my favorite "goof on" movies; watch it as a comedy and have a dozen good laughs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b74a27744facf1f09465a0955e01b8d6504e66639c65229ffdda3ddf85f9c4d
+size 235

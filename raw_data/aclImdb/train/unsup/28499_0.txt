@@ -1,1 +1,3 @@
-Stray Dog is the other detective noir film by Kurosawa along with High and Low. In this film a rookie homicide detective has his gun stolen which leads to a string of crimes each more violent than the previous. While it is unlikely you could make it to detective and be as "green" as this guy, it does make for an interesting plot device. We watch as the detective gets help from his fellow cops as he puts the whole thing together. There are also interesting parallels drawn between the detective and the criminal. Most of the film holds up well but there are times when it drags which is unfortunately common in Kurosawa films (except for Yojimbo which was perfect). All in all Stray Dog is a very stylish movie with some incredible shots and some ground breaking (at the time) film effects. It's worth watching just to see post war Japan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c5e5c7da02bbe900bf24daf99d4fa0640091604cc68d9ea053c2c4fae64f78
+size 841

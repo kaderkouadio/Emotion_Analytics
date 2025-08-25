@@ -1,1 +1,3 @@
-This Movie Sucks. It's just like the Sixth Sense only it sucked.I didn't think it was possible for a movie to be that bad. They shouldn't have ever even made the film let alone release it on video. No offense but the few films I've ever seen Nichole Kidman in have been awful. If she did Panic Room like she was supposed to I wouldn't have seen it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fae4a2ea3714a2ea37d3aa758904c870d04a79aa9f5af9f3d162af49349a336
+size 348

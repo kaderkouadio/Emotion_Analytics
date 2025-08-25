@@ -1,1 +1,3 @@
-Rohinton Mistry's multi-layered novel seemed impossible to adapt for the screen but the resulting movie is filled with passion, emotion, humour and pathos. The story is somewhat slow-moving but there is always something on the screen to captivate the audience. The movie perfectly catches a particular time and place with pinpoint accuracy. All of the actors are Indian - few if any known to "western" audiences - but they are a joy to behold, especially the little girl who acts very convincingly. Don't be put off by the title and plot summary - this is a movie to be seen on the big screen. We have much to learn from it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4186d9cb9d539d84c56134edaceb2e149312db50a3fb0f0c94afa93c48df30b
+size 624

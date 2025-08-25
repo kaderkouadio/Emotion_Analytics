@@ -1,1 +1,3 @@
-This cheap imitation of "The Night Of The Living Dead" is an earnest attempt to revive the "appeal" (and the chills) of the 1968 film, but while most of the appropriate ingredients seem to be in place, somehow they don't work. The film has no impact, no scariness. The desolate atmosphere - more a result of the setting itself, rather than of directorial competence - is about all it has going for it. (*)
+version https://git-lfs.github.com/spec/v1
+oid sha256:501c85eefb4b9d6fa13d562e1a5da53133246d18855272189f0a31b54ee2742a
+size 405

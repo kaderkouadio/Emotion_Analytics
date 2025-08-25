@@ -1,1 +1,3 @@
-This is one of the best romantic movies I have ever seen. Especially girls who can identify with Nicole will love it(not only because of the handsome Dalton James) I also liked the music very much. A highlight was land of the sea and sun from baha-man. So watch the movie and enjoy it
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b5a918a46019b7601eaae249ea34508bebd953ec12912e2cfa9d35caf233f48
+size 284

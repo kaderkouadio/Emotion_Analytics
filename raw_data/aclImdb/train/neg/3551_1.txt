@@ -1,1 +1,3 @@
-This movie is just plain terrible!!!! Slow acting, slow at getting to the point and wooden characters that just shouldn't have been on there. The best part was the showing of Iron Maiden singing in some video at a theater and thats it. the ending was worth watching and waiting up for but that was it!! The characters in this movie put me to sleep almost. Avoid it!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c5ef2c8342b39d3617dc575b3e70bc528a04194cef57fa8359f76f7bf38c7a5
+size 367

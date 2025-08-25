@@ -1,1 +1,3 @@
-Well, the first one did work pretty good, didn't it? This outing of base instinct "cuteness" just did not seem to get rolling. Kids and animals are always pleasant, but there has to be a reason to root/hate for at least someone. I did not find myself in love or angry at any of the characters, or even the situations in DR2. Even EM did not seem to have his heart in this one. At least it is not an offensive movie and does provide a few laughs. But Pleeeease....no more! SteveL99
+version https://git-lfs.github.com/spec/v1
+oid sha256:80c6f8ced7a980b09ff3e7205468cf1e16f5ef1501250455f47c0f4960f40aef
+size 480

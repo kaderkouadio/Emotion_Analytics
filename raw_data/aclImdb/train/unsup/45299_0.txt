@@ -1,1 +1,3 @@
-I've been wanted to see this movie and finally found it late one night on the SCI-FI Channel. It starts off innocently enough with opening credits. Neat cast of actors and you think it may actually have some value but on the other hand when Fawcett takes top billing over Kirk Douglas one begins to wonder.<br /><br />Basic plot soon falls into Evil Dude and his robot wants the girl while Ferrah screams throughout the film. Reminds me of those old low budget horror films of the 30's & 40's. Makes for an interesting evening if nothing else is available at the video store, otherwise a real drag. Better to leave it at the video store and go home and read a book. Not one that Kirk Douglas will glowingly talk about when asked about his career.<br /><br />Rent if you must but be prepared to be bored silly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b459dd5d8a01b58419023e19277cc6c32fc067f03f683eab54df54fd85d27838
+size 809

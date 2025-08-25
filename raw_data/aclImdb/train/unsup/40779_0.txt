@@ -1,1 +1,3 @@
-"Fast Sofa" manages to take a bunch of B-movie actors and drag them down with this sub-C project which probably never saw the light of a projector. There's nothing in this piece of garbage floating like flotsam now on cable worth mentioning. Watching paint dry would be more entertaining. (F+)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6481c4f3e7a0fb5a8569f9d960062827369818fbad040678a0a59a49ec1cd4
+size 293

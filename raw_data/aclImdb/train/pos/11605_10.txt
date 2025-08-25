@@ -1,1 +1,3 @@
-The biggest reason I had to see this movie was that it stars Susan Swift, an outstanding and all-too-underappreciated actress. Time travel movies usually don't interest me and neither do movies about witchcraft, but this movie was fascinating and creepy. It didn't rely on outrageous special effects and it didn't focus so heavily on the time travel that the viewer gets lost and confused. This was a really creative movie kept simple and focused with great acting by all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7018a0deb0e2c2e458be8a0fadff9e227422266002b68737686525154cca421a
+size 472

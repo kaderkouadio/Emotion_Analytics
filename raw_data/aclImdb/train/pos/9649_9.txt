@@ -1,1 +1,3 @@
-Screened at the San Francisco International Film Festival under the title ' Come Undone', April 25, 26, & 27, 2001. The cinematographer uses techniques that add to the storytelling. Even with fall/winter backgrounds for the 'present' and spring summer for the 'flashbacks' there can be some difficulty following the continuity.<br /><br />Whether either lead is gay, the actors well-portray the budding relationship in real life terms; from physical violence toward each other to their passionate lovemaking. The story pulls you into the characters a bit slowly in the beginning. But as the end approaches, you really care about where these guys will be next summer! You, too, will want a sequel to find out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d86d4b85f1e9f4b0d2b7a4d6badaf519cfe229d190dd51d97f03c221b2c06dc1
+size 708

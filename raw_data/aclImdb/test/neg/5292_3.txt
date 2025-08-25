@@ -1,1 +1,3 @@
-I enjoyed the beautiful scenery in this movie the first time I saw it when I was 9 . Dunderklumpen is kind of cute for kiddies in a corny way. It reminded me of HRPUFFINSTUFF on sat mornings, Its Swedish backdrops make it easy on the eyes . Don't expect older kids to be interested as the live action/animation is way behind the times and most older kids will get bored.This is definitely an under 10 age set movie and a nice bit of memories for those of us who were little kids in 1974.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7bf4ad2ca216d8a0f868d8d9124685e83d41602cdc50782687970c705c7e829
+size 487

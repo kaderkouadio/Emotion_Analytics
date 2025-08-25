@@ -1,1 +1,3 @@
-My favourite scene in series two has to be the last episode where Jill disguises Glenn as a sailor and brings him to the pub where Don and Sue are planning their getaway. Over the radio you can hear Glenn's description being read out as he has escaped from prison and Glenn tries hard to look like his hair isn't curly and his teeth aren't so prominent. Jill tells Glenn that he needs to go to the toilet, he says he doesn't need to but she replies that she can smell him from where she's sitting... she asks Don to go in with him because he wearing a nappy, Don goes in after him, both look awkwardly at each other. It cracks me up every time... I hope there's a third series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42862fa9531302f382beaa2d945854a562ba69a2b0b779f24ca214211b03734a
+size 677

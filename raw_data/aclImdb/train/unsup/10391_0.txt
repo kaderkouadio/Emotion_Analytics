@@ -1,1 +1,3 @@
-This play (I can see it as a stage play, as well as an excellently crafted film) delivers with surgical precision the key moral question that lies behind everything the "free world" needs to ask itself about freedom. By using an extremely well-delivered theatrical device, the viewer can not help but question the sense of "protection at any price" mentality behind the Patriot Act, Homeland Security, and the repeal of over two hundred years of human rights legislation. An excellent film, with intense, nuanced performances from exceptional performers.<br /><br />See this film. Open your eyes, and your mind. If anyone can be treated like this, then no-one is free.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5246f019a0321326e98a138f2878fcd72535b34a38c2b5b87ec8ad485c530fc4
+size 668

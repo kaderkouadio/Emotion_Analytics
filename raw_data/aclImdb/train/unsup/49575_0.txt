@@ -1,1 +1,3 @@
-Very slow paced and extremely unlikely development. Nothing to make you give a hoot about the main character in the first place. It gets worse and worse. It was so bad that my husband and I could hardly believe it at times. We joked about it for months afterwards. I can't think of a worse movie ever made!
+version https://git-lfs.github.com/spec/v1
+oid sha256:95962f63308f2df9cb54b63534b5a10ff6da5e757966e1a7714834037ef74dc7
+size 306

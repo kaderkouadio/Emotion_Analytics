@@ -1,1 +1,3 @@
-I'm sure people will try to pass this off as a brilliant piece of camp perfection, but let's not kid ourselves. This movie was painful to watch, despite the bizarre satisfaction of seeing Les Claypool attempt to act. I got the impression that the initial filming was silent, and that the dialogue and sound effects were poorly dubbed on later. Seriously, unless your tolerance for utterly atrocious physical 'comedy' and dialogue that a dyslexic 6-year old could have spat out is ridiculously high, then you have no reason to watch this horror of a production. The sole high point would be the 'POWER MOST BIG' line, but they manage to repeat it enough to make it lose any comedic power.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1315e83db79b4de5d3cf0ddee81ecea3195831256e374b65d269ee93be297937
+size 687

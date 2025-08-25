@@ -1,1 +1,3 @@
-I've never understood why so many people seem turned off by this movie. Aside from some unnecessary uses of the 'S' word, this is a very original, very moving story that could even be of comfort to children who have lost a relative or friend.<br /><br />What's not to like? We have very positive messages here. Seeking and finding strength in faith, dealing with reality. The child actors are outstanding. Joseph Cross portrays his character so perfectly that it is at times very moving.<br /><br />A great supporting cast of Dennis Leary, Dana Delaney and Rosie O'Donnell (at her funniest, yet most reserved persona). Flawless directing by Shyamalan and a great score by Edmund Choi that has since been used elsewhere.<br /><br />A perfect little film with a big heart for anyone who's lost someone they loved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f1494d0b261d18f69ba42cf4b20e4bb1ffdd1b3f0f15e0f1a83c81802f7e63f
+size 811

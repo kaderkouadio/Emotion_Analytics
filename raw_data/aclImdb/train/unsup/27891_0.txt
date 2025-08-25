@@ -1,1 +1,3 @@
-I like "Happy Gilmore" and "the Wedding Singer" more than any other Sandler movies. Sure Sandler still plays a goof ball with a annoying voice but "Happy Gilmore" makes me laugh even though it doesn't force me to do so. The movies that made Sandler popular, "the Water Boy" and "Big Daddy" are some what similar to Jim Carrey's stupid disgusting comedies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3321434878db1e85725ecd8a9a81e7fa69ff6b326e2d8b72a06030c26d9aaeb4
+size 355

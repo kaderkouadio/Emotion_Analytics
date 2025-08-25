@@ -1,1 +1,3 @@
-Seriously, I can't believe anyone was even remotely interested in putting this on television. I caught the tail end of the "hand" portion and hated my life for however long that took to finish. There was little else on broadcast television. If there were, however, I wouldn't be writing this; I'd have changed the channel and enjoyed living and breathing.<br /><br />As I write this, a new chapter has opened up, quickly becoming the obvious cliché it sets out to describe. How ironic! That was sarcasm. <br /><br />This is one of the worst things I've ever opted to leave on in the periphery. As far as leaving the television on for noise is concerned, you're better off sitting in silence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f6ca033cd381d119c83372dd3c418d3b600350f561fdc6a927dc1414a9dd1b
+size 692

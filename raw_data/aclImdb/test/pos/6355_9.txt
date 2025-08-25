@@ -1,1 +1,3 @@
-This first time writer/director comes across as a season pro with "Two Coyotes". Most action dramas are all about the action first then the story. But this picture works the other way around. If this is just the beginning for this director, then Hollywood will soon be making room for this rising star. Independent movie making has once again reached a new level.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed5f28e9a1532338f0101b193818088006384c603fcedf42014a017a3a619893
+size 363

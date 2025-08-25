@@ -1,1 +1,3 @@
-it's hard to tell the actors from the non-actors. Bad American movies can be spotted by all the youngsters prefacing every single line of dialog with "You know what?" Bad Canadian movies can be spotted by all the youngsters ending every single line of dialog with "Eh?" Have we learned nothing in a century of filmmaking? Cannot the entire weight of millions of wannabes descending on Hollywood with scripts and reels in hand rescue us from these horrible TV-movies-made-to-order?
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0f1103b82f41550c20951cab240ef832f86698c895c5740e2dfa50bd282a3c
+size 480

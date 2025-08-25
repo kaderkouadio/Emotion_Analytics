@@ -1,1 +1,3 @@
-I thought this film did a fine job of portraying the ugliness of the US government in the repressive McCarthy era. Goldblum is excellent in his depiction of the courage it took to stand up to this tyranny and I found it very inspirational. In particular his attempt to confront the panel during the hearings in Washington was very well handled and it made me deeply consider how I would hold up in similar circumstances. I also appreciated the tenderness and commitment the he and his wife showed to each other. A mature portrayal. I recommend it. 7 stars out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ade5ac2685511a3b717d02f47dffcbdc78bb323eaf93f6fc9b8676f78d1eb5a
+size 566

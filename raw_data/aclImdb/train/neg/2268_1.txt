@@ -1,1 +1,3 @@
-Meaning: if this movie got pitched, scripted, made, released, promoted as something halfway respectable given the constraints (yeah, I know, Springer, sex, violence), where is He?<br /><br />Reminded me of porn movies I saw in college, plot and dialogue wise.... shoulda just done something for the scurrilous porno market, showed penetration and be done with it-- would have made more money, the ultimate point of this exercise....
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac1436cbc8e8fa3a2928e807ccaf58d698cbfc2aa71dcb90394e05e9e460ff40
+size 432

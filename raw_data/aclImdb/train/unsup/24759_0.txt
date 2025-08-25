@@ -1,1 +1,3 @@
-The movie title, and one of its main axis, comes after a fragment of a poem written by Spanish poet Federico Garcia Lorca, called 'Llanto por la muerte de Ignacio Sánchez Mejías', dedicated to the death in 1934 of a Spanish Torero.<br /><br />This poem is often seen as a premonition of Garcia Lorca's own dead, near Fuente Grande, and of the Civil War that was soon to desolate Spain.<br /><br />Samira Makhmalbaf comes again with an anguishing tale of a woman that wants to believe in the role of women in a modern society while her own family is disintegrating around her.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b0e9cbfeb127b4e0b650551b051c23924a17341fe21ef7a87280edd2536b66
+size 577

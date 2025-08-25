@@ -1,1 +1,3 @@
-Oh dear, Oh dear. I started watching this not knowing what to expect. I couldn't believe what I was seeing. There were times when I thought it was a comedy. I loved how the government's plan to capture the terrorist leader is to air drop in one man, who is unarmed, and expect him to capture him and escape with a rocket pack. If only it were really that easy. I've finally found a movie worse than "Plan 9 From Outer Space".
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ee1441875e1796eda67b83d48641f4b9941908f7ccba39a8a9f8bf89766059
+size 425

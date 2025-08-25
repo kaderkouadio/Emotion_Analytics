@@ -1,1 +1,3 @@
-Considering all the teen films like "the Breakfast Club" and "Pretty In Pink" that are lionized. It is surprising that this one is so ignored.<br /><br />There is no sex in it, but sex is thought of, including the idea that it may matter what others think about it. The kids do not always get along with their parents, but neither the parents or the kids are seen as always right or wrong, and the parents are not seen as monsters.<br /><br />It deals with hero-worship. How one girl does a dangerous thing, which could have lead to real dustier, before realizing that she was wrong.<br /><br />The movie is kind of ahead of its' time. One kid asks another kid what birth control she uses. She says she is doing nothing to need birth control. She replies (wrongly) "oral sex".
+version https://git-lfs.github.com/spec/v1
+oid sha256:0786383b86705987e7036a0e902cbcd5d5ad271cd68638f43f942f62dd89370b
+size 776

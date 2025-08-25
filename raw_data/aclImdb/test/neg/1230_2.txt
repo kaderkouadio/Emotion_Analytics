@@ -1,1 +1,3 @@
-Having grown up on westerns and considering the present dearth of westerns on TV and at the theater, I was really looking forward to Commanche moon.<br /><br />After watching two nights, and not another, it appears to be have been shot on a tight budget. Robert Duvall and Tommy Lee Jones level stars are conspicuously absent. There is Val Kilmer, but what the heck is going on with him? Four or five buildings on either side of the street plus the Scull mansion make up the entire town of Austin. The capitol is never seen, only the inside of the governor's office.<br /><br />The dialog is often times hokey, meaningless rambling. The plot line disjointed. Altogether, completely forgettable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7002e36fea7138173fe349ebb9669d223c797a8acab0aa7fe4c9aca3edfc2bab
+size 694

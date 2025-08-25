@@ -1,1 +1,3 @@
-Some interesting characters and decent acting ,but the starting romance between Scott Glen and the chick is kinda silly and unbelievable. The main bad guys are cool but the Lisa Boyle in her bikini was the highlight of the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d3373da08a2cfcf64276b4a16a9f1aa39fb57ed3f68072aa680ebc0f00e1025
+size 229

@@ -1,1 +1,3 @@
-Hollywood's attempt to turn Jack London's life into a "Jack London" adventure film isn't a bad idea; certainly, he led an interesting, and sometimes adventurous, life. This film, however, winds up flat and unsatisfying. Most importantly, it lacks integrity. Michael O'Shea (as London) has some Londonesque speeches; and, it's nice to see his bearded Jack receive "The Call of the Wild" after spending some quality time alone, in the snowy mountains, with his dog, "Buck". Virginia Mayo and Susan Hayward are both very pretty. The film draws unfortunate "Yellow Peril" parallels between London's life and World War II, which are both strained and insulting. <br /><br />** Jack London (11/24/43) Alfred Santell ~ Michael O'Shea, Susan Hayward, Virginia Mayo
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc277d5a5fdf633c29912707bbfc914c1eeeaaa20bca772676bfb7a938d16e3e
+size 756

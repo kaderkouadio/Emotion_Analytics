@@ -1,1 +1,3 @@
-I went into The Hole expecting another badly acted slasher flick with crazy teens running around subteranean passage ways. I came out a different man. This film is a disturbing and cleverly, psychologically frightening film. With a very low blood and sex rating, this film instead shocks by how it manipulates the viewer. For example, as the characters became more and more dehydrated I started to experience the same symptoms as them... clever use of sound and light maybe, but highly effective. I wouldn't recommend anyone to see this film - they might think I was mad! - but I will say that you will be missing out on something if you don't see this film. Provocative, well directed, nicely shot, reasonably scripted, just about acceptably acted. VVG indeed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fad68a65f186d54f4b1313e97146bfb12b10f4837f62ac33902b61e7dffc0a65
+size 761

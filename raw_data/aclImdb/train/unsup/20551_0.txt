@@ -1,1 +1,3 @@
-Although I'm sure I'll be in the "minority" here, I found this film extremely unsatisfying. CGI abounds (money has obviously been spent) but the plot holes and under-developed characters left me flat. Also, where was the suspense? The denouement was predictable. In the end, the "look" of the film was the only thing that held my interest. Two out of five stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c317bbc961f80ebd9e8a63ff77b57e9faca552b619bbbbca7a44aa309342a2a
+size 362

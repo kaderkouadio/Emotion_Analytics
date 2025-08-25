@@ -1,1 +1,3 @@
-I rented this movie because I remembered one scene from 35 years ago. I was astounded to see that the whole movie holds up very well. The 4 leads are terrific (Natalie Wood and Dyan Canon are beautiful, by the way, and Robert Culp hits just the right note with his "sensitive-new- age-guy" hip/naive performance) and you can see director Paul Mazursky's touch with what seems to be stretches of impromptu dialog I found true.<br /><br />The movie also does a great job of balancing drama with farce, superficiality with intimacy.<br /><br />The scenes at the Esalen-type retreat start at as spoof but evolve into real empathy. Parenthetically, check out the fashions in this film. There is one scene in a discotheque that Mazursky must have known even then would be a source of laughter and certainly, today, it's a hoot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fddb1601134fea6d3b0746a228be8d4692ce0d5d328b1aeb1f02151fa217d71
+size 821

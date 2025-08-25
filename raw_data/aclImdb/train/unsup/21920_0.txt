@@ -1,1 +1,3 @@
-Adapted from the famous novel by Elmore Leonard. Burt Lancaster made three westerns all in a row. 'Valdez is Coming' was the first, then 'The Lawman' (which i have not seen) and of course the mighty 'Ulzana's Raid'. Here he plays a softly spoken (Mexican) constable, who is set up to kill an innocent man. Burt Lancaster shows he is an actor of such quality and class plus almost perfect as the quiet man, on a mission for bloody revenge. 'Valdez' is such an unusual western and only someone of Lancaster's pedigree could have played the part of Bob Valdez and do it justice. This is a very well respected movie and was directed with a deft touch by Edwin Sherrin. A must for any serious western fan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffba189ad2c154e6b4d3005dd51979e1a9b9ebc9f59a98cc3c7bb0762fe59655
+size 700

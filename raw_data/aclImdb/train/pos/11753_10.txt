@@ -1,1 +1,3 @@
-hi I'm from Taft California and i like this movie because it shows how us little town people love our sports football is the main thing in Taft and this movie shows just how important it is i personally think they should make another one but instead of actors use us kids to play the games well show you our determination we've beat Bakersfield every game for the past 6 years and since I'm a senior next year its my last chance and then its college we've had running backs lead the state and I'm next if you want to know me I'm kyle Taylor and i average seven to eight yards a carry and about five times a game ill break away on a 75 or around that yard run so check us out at our website and go to our sports page bye
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c0f88f5e3fb1837f45b2d8f824c99f973eae0443e8b403ec498a3f3f7146315
+size 719

@@ -1,1 +1,3 @@
-The first DH wasn't that great, but I really didn't expect it to be. But this horrible movie was just beyond criticism. I really try to look on the bright side and give movies like this a chance, but I just could not find a real good thing about this one. I appreciate what Bill Cowell was trying to do, but this movie was just soooooo boring. The story of the movie really isn't that bad. In fact, it's somewhat original. But the movie form is really as bad as a lot of people say. In my opinion, this one ranks right up there with "The Off Season", and "Dracula 3000". I know a lot of people really trash and put down movies like this, but I really can't think of any other good things to say about it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e80e432e407d94ce140bc7ee6186c6118369c4815e3a6e0c4c73171629cf5d44
+size 704

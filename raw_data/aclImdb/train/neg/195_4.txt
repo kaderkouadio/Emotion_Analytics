@@ -1,1 +1,3 @@
-Slow and riddled with inaccuracy. Over-looking its flaws this is still an interesting account of the famed and heroic siege of the Alamo during the Texas fight for independence from Mexico. James Arness as Jim Bowie. Brian Keith as Davy Crockett. Alec Baldwin as Col. Travis. Raul Julia as General Santa Anna. This made-for-TV project also stars David Ogden Stiers, Kathleen York and Jim Metzler. Very good original music by Peter Bernstein.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28a44a8cc1786e84f28cc03fac2445b9b0322573bc93730ec9a2598d33df1153
+size 441

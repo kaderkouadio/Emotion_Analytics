@@ -1,1 +1,3 @@
-As a kid I read the Anthony Hope novel and loved the Stewart Granger film version of it. As an adult, I discovered the Ronald Colman version (upon which the Granger film was based, scene by scene, camera angle by camera angle), and since Colman is one of my all-time favorite actors (the personification of British suave), I fell in love with it. Every member of the supporting cast of the later version is superb, but can't quite beat Douglas Fairbanks, Jr., Raymond Massey, Mary Astor, and David Niven. It's become my all-time favorite swashbuckler. A tale of a reluctant hero and a bittersweet romance with lots of action and witty dialog, it compares favorably with another, slightly later tale of a reluctant hero and a bittersweet romance, "Casablanca." I can't wait for the DVD to come out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30f6312e2ef0ba29b4e2b0cb39cb1e12a81bc2a2d292c44b6ee6651b703b1aeb
+size 797

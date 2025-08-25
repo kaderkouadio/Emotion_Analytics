@@ -1,1 +1,3 @@
-This was the only time I ever walked out on a movie. Years later, I saw it in the cable listings and thought, "Maybe I should give it another try." Suffice to say that I was right the first time. This ranks second only to Godzilla 1998 as the worst movie I've ever seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa0e83e03973b479e138e76bcb1fb15189044e240b79bd29c73bf03a1072f1b9
+size 270

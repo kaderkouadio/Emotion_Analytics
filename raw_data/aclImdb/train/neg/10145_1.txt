@@ -1,1 +1,3 @@
-Steven Seagal appears to be sleepwalking through a dreadful movie shot almost entirely in close-up to disguise the complete lack of budget and resources. To pick on the technical flaws - silver F/A-18s and F-14s take of from a carrier for an air-strike, and miraculously become camouflaged F-16s for the actual strike - would give this movie more credibility than it deserves. Suffice it to say that the most interesting thing in the movie is the credit titles which fade on and then disappear in a lightning wipe, which presumably is available to all users of Final Cut Pro. Putting all your creativity into your own credit puts Michael Keusch in the same category as Marcel Mandu.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8d7a91d4a4f1d78ea0c399471c1ef59a173707927ce3ebe94b4693a9b672a6
+size 682

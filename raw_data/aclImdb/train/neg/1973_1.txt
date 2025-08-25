@@ -1,1 +1,3 @@
-Mario Van Peebles pops up for less than a five second cameo. Glenn Plummer shows up a little longer but its a ladies show all the way. Stacey Dash and Lisa Raye have been in better projects. Bobby Brown leers and mugs through his little time on screen. This is how it was pitched...Five tough women shootin' and lovin' in the Wild Wild West. Four black and one Asian. Oh and Lil' Kim is a tough talking' heartbreaker and Marie Matiko can bring in the pacific rim market. We can shoot it for less than 15 million. Straight to video and we'll double but more likely triple our dollars.<br /><br />Greenlight that puppy.<br /><br />You got it boss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05707514a17428e27b154ca38b9ff194a67b6c1124c94b619b1cbd08e23e23fa
+size 645

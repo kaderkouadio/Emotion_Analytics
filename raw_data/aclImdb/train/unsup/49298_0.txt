@@ -1,1 +1,3 @@
-The Crew. What a waste of talent. Has every movie maker in Hollywood forgot how to write a screen play? The plot makes no sense from start to finish. The audience I was with laughed at the inconsistent plot that had so many holes it seemed like they randomly spliced parts from five different movies together.<br /><br />How dare they take $7 dollars from me for this trash. I now vow never, never, never to spend my $7 on a movie without a rating of 7 or above from this site.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7577bdda99c59f5ea5bc950d9c3c4ce43203cb643bda348a034dc1bfb11bd3e
+size 477

@@ -1,1 +1,3 @@
-Terrible... Pathetic...<br /><br />If anything, it is now obvious that the cursed city of Sarajevo (and its authors like Sidran) made Kusturica, once upon a time.<br /><br />Without the inspiration from there, he is forced to imitate himself -- as someone else pointed out. If we forget his American adventure (Arizona Dream), the decay of his movies was apparent already when "Underground" came out, but it was still bearable. "Black cat, white cat" was still watchable, though clearly worse than the rest. This one is simply pathetic.<br /><br />Rest In Peace, Emir of Dolly Bell...
+version https://git-lfs.github.com/spec/v1
+oid sha256:98f5f87f537a986db6c3c0269fb83758a41fa3895557ae06466c3a32431a209a
+size 584

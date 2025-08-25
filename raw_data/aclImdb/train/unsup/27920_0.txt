@@ -1,1 +1,3 @@
-It feels almost weird to review a game that was made almost 10 years ago, but the fact that it still holds a place as one of the best games I've ever played speaks volumes of it's qualities. The story, the game-play, the very world you play in are all parts that make up this masterpiece. In this game, and it's even better sequel, BG 2 - Shadows of Amn, I AM Talle, an orphan from Candlekeep, whom is forced to leave his home and try to survive in a beautiful and at times dangerous Faurun. Few games has made me feel so involved. In fact the only games that compares are the above-mentioned Shadows of Amn, Planescape Torment and Fallout 1 & 2, all products of Interplays daring and artistic vision. With risk of sounding like an old man I have to say it's a shame they don't do games like these anymore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5880bb135fed0edaec752b99fe9b1ed9a6d91aca240cb16c1118d05016e65f5f
+size 806

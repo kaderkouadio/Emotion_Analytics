@@ -1,1 +1,3 @@
-This film, won't win any awards for greatness. But if you have an hour and a half free and fancy a bit of light hearted entertainment then you could do much worse than watch this...<br /><br />The cast are mostly young and pretty, the script has some genuinely funny moments and the soundtrack is pretty cool too. Rupert Penry-Jones as Jake seems to have the most fun, while Laura Fraser as Justine is sweet, likable and funny.<br /><br />I rented it because I like the series 'Spooks' that RPJ is currently starring in. And here he's young and buff and the perfect eye candy for a girls night in.<br /><br />Get some wine and some ice cream and have a chuckle.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03b8bbc065a02de6c3d89c66a4a34fbf0eb8e02113929f031dd395a47d124162
+size 661

@@ -1,1 +1,3 @@
-I finally saw this sequel and it was better than what many people say. Murphy has some very hilarious moments and Reinhold and Ashton were just as good. Also, the action scene's were decent too, though the chase with the cement truck was'nt as good as the chase in the first with the transport truck. I did notice that the film lacked the freshness of the first one but still it was fun to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:264676bf40c5482e486920aeceed1a93f9a7d0ebaed0aabfd30dbc7236978c4c
+size 396

@@ -1,1 +1,3 @@
-Covers an area of espionage seldom seen in spy movies: cryptography and cryptoanalysis. The whole production is given a faint brush of the surreal and it works, especially with Dirk Bogarde's performance as the title character driven by obsessions (and often overwhelmed by them). That the film also manages to work on an occasional comedic level is an additional tribute to all concerned. Keep your eyes open for a pre-M*A*S*H appearance by Donald Sutherland.
+version https://git-lfs.github.com/spec/v1
+oid sha256:587b0b6302bc772a0311d4281515d6b16bb52a782becd36439726fc075111980
+size 460

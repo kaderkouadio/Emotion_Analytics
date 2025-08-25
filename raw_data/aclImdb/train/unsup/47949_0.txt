@@ -1,1 +1,3 @@
-Laughter makes the almost two hours not a total loss. But I don't think, somehow, that "The Day The Earth Stood Still" was meant as a comedy. They must have realize however, that having John Cleese as the scientist was bound to provoke some giggles. Keanu Reeves is priceless as the wooden, expressionless alien. A great, unintentional, comic creation. Kathy Bates, in pantsuits if you please, plays the American Secretary of Defense and the whole thing doesn't have a single ingredient of the elements that made the Robert Wise original one of the classics of its genre. The visual tricks are good but repetitive and rather confusing. I must admit I wasn't bored I was just puzzled.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e7b141db580b4e423c47c5a64e0e549c1b86bc10047cde24b5d43bbed604994
+size 683

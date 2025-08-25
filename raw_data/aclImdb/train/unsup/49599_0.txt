@@ -1,1 +1,3 @@
-Why!!! It has to be illegal to do this with one of Robert E. Howards characters. This movie is totally crappy. It's even too bad to laugh at. Do not see this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:731a05cabdb9a6246a5a5730509ad2b826e3405ebf2d827cd6b85aaa0c6da425
+size 164

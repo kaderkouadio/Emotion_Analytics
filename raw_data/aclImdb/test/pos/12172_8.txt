@@ -1,1 +1,3 @@
-First of all, i am from munich, where this movie takes place, and believe it or not, there are guys like Erkan and Stefan, including the silly dialect! I know their comedy show from the beginning and my main fear was, that the movie is just an assembling of their already known jokes, but it is not! The jokes are evolved through the story, and make, in their own special way, sense. But if you absolutely dislike Erkan und Stefan, hands of this movie. Everyone else - it's worth viewing!
+version https://git-lfs.github.com/spec/v1
+oid sha256:56752d6ae7f659b0fc6ce875c265a6051c69643cccbf0f2e7a703c80a67842a6
+size 488

@@ -1,1 +1,3 @@
-This film was enjoyable but for the wrong reasons. The co-ordination of the action sequences are laughable and make the film have some funny slap stick moments. Robert Ginty and Fred Williamson have a memorable scene together near the end, where Williamson says to Ginty, "you sure do get around buddy boy!". I did enjoy this film only for Ginty and Williamson, but not for the storyline that must have been written on the back of a napkin in four lines and the rest ad-libbed most likely. A film with over 30 parts only has a credit list for 10 or so. It seems odd that no one else has a credit in the film, maybe they had some insight into how the finished product would look. The one thing this film does have going for it is that it is quite violent, so that tripled with Fred Williamson and Robert Ginty make for a film worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf164e80f749132027db29208f21539936f13adc498847e49efe67395f0ece8c
+size 838

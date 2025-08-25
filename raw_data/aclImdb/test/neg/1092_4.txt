@@ -1,1 +1,3 @@
-My mom would not let me watch this film when I was in grade 2, because she said it was too violent. Well, years later, and the only reason I remember this film is because of my mom, I stayed up and watch it on PBS. Well, maybe the build up after all these year lead to the big disapointment of this film, but I found it lame. It did not age well, and this made the acting choppy, huge unbelievable holes in the script, but there is a few cool scenes like car chases, and a big gun fight. I will not stay up for this film again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c5d70c5943a03fcccd10bc366344dde1ca7c2e8a90659db22113605d3499d8e
+size 527

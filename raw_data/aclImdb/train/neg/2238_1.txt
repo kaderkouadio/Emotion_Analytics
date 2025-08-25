@@ -1,1 +1,3 @@
-The video quality is awful. The sound quality is pathetic. The acting is horrific. The dialog is painful. The lighting is dismal. The editing is laughable. I could go on, but it would be pointless. Snitch'd is a third rate amateur video being passed off as a feature film. This one is best left to collect dust in the video store bargain bin.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2da7f9086347c5d206d347861f575d30ff4e302413738f06eb3004f5e71b0b
+size 342

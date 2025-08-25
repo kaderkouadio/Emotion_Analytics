@@ -1,1 +1,3 @@
-Like the little furry guys themselves, this is a movie with a very promising start that ends up nowhere fun. Axton picks up meek creature, unaware of consequences if simple handling instructions are ignored. End result is a bunch of little monsters that terrorize small town. The intro is fine, Phoebe Cates looks spectacular, and some of the initial monster action is amusing. But like too many in the Spielberg/Lucas action-fantasy genre, film is gory, unpleasant and mean-spirited when the going gets tough. Not recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c1ae3bf1709de1fc9800b461f210c65ca42107620138aec2ce27be7b4e5f0db
+size 527

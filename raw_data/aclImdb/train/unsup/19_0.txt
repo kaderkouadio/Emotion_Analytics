@@ -1,1 +1,3 @@
-This was clearly written by someone who has gone through the mind numbing, soul snatching experience of being a temp. It captures the self-worthlessness perfectly and also the stupidity of modern corporate America today.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4799546e2da938fa98fe83cb6d60300b8200a793468aae99840db050e41dc55d
+size 220

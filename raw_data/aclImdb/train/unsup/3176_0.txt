@@ -1,1 +1,3 @@
-Estamira is a poet and she lives intermittently in a garbage dump. This film is long and may induce claustrophobia during several scenes, but it is absolutely thrilling because of Estamira. There are few playwrights or screenwriters or novelists that could match her use and facility with language. She is crazy and fierce and totally real. And she knows it and you know it and the distance between you and her is barely measurable.<br /><br />Do not be dismayed by the first and last songs that bookend this film. While the music of these songs is fine, the joyous 'primitive' singing smacks of bad 80s world music.<br /><br />And even with this unfortunate lapse in taste this film is as perfect as any I've ever seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90edd830b1f8ccc7004c9b6aae17dc6e98ba89475fa3526c22153d02b0a4aed4
+size 720

@@ -1,1 +1,3 @@
-This is surely one of the worst films ever made. Each scene is painful. You will groan at the flimsy attempts at humor, the awkward camera work, the sexism and racism, the ridiculous story line, the wooden acting. Poor Joan Bennett; she is the only one in the movie who is not an embarrassment. In all, dreadful.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efda9b5fb4ba6e3e4bfbb97f67385375a81b788f55d8f43f2f016045c87e132d
+size 312

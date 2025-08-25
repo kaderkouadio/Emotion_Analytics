@@ -1,1 +1,3 @@
-After just viewing this film, I found myself appreciative of the attempt, but the sad fact remains: the film leaves you with so many loose ends, you have to wonder why Jeremy Podeswa started so many plot lines to begin with. If this was intended to be a character study, why set up expectations for individual conclusions? Most of the characters in the film end up in the same place they were where they began, but with not a gain in wisdom or understanding. In fact, the audience is left hanging along with the characters.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a07dc7cbccab3e56496366696f5315e233b69131d6daa6470cd1645c24180a95
+size 523

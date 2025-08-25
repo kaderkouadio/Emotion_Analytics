@@ -1,1 +1,3 @@
-Gavin Hood's THE STOREKEEPER is a mini-masterpiece of filmmaking, a film short with no dialogue, yet with very moving characters, whose facial expressions and body language make the short work. A storekeeper in South Africa goes to extreme lengths to keep from being repeatedly burglarized. We know exactly what'll happen as the story progresses, yet we're powerless to stop it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8c20d6ffa4a0c3176e6c19b4fc0f187c9a83b2263da33a6390b90595490670e
+size 378

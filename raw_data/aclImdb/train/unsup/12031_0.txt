@@ -1,1 +1,3 @@
-Joel Grey is remarkably fine as the lead in The Yeomen of the Guard. You probably remember his superb acting in Cabaret with Liza Minnelli. In Yeomen, Joel Grey is equally fine and steals the show with its gaiety and despondency as he loses his girl. This is one of the finer operettas by Gilbert and Sullivan. The songs are quite memorable. I wholeheartedly recommend this to lovers of musicals. Joel Grey is stupendous!
+version https://git-lfs.github.com/spec/v1
+oid sha256:854d82a61660bc16be8466b95248b2eae723497147cbc58450545d4253360637
+size 421

@@ -1,1 +1,3 @@
-This movie was the worst I've ever seen. I hope they don't keep it in the video stores, because kids don't need to see all that bad acting. Even Hogan was stupid! The kids do okay with the martial arts, but you can so tell that they hardly ever connected the blows. The least they could have done was make it look real!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ebba1d7d0bb5f394f5df6a1ca1eab12e83aa447ce9e2ff4ec44b62c6450ce92
+size 319

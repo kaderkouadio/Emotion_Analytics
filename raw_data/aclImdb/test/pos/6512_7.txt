@@ -1,1 +1,3 @@
-I don't understand why this movie has such a low rating. It totally deserves more! Sure, it's completely ridiculous, but that's what it was supposed to be. Don't expect cinematic transcendence from a movie about beauty pageant contestants stranded on a Caribbean island! What you should expect is a huge spoof of pretty much every relevant sci-fi, fantasy and block-buster movie in cinematic history, and even references to other spoofers. All completely exaggerated and sometimes totally unnecessary, but that's exactly what makes this movie stand out. If you like parodies, and enjoy say, Leslie Nielsen or Mike Myers, you're gonna love this. I sure did!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b625990c550b1e85734824798fb6f3144009efb90818906c76ff4c7b08458a6
+size 656

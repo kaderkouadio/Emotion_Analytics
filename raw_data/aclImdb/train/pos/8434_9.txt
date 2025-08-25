@@ -1,1 +1,3 @@
-I have always been a fan of the show so I'll admit that I am biased. When the show's run ended, I felt like too many questions remained unanswered. This movie to me felt like closure. To see all the people I'd followed over the past few years together at last was most rewarding. I have heard that this is probably the only Homicide movie that we can expect. If that is so, this is the appropriate way to go out. This movie is sometimes poignant, sometimes upsetting, but always satisfying. If you are or ever have been a fan of the show, watch this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0e1c441af84038e241644ac370acf297ce0b1625de62630a259e4107c458d32
+size 556

@@ -1,1 +1,3 @@
-I think that it was just pointless to produce a second part of a movie like "My Girl". "My Girl" was a very good movie but it is ridiculous making a second part of a movie in which one of the main characters (Macaulay Culkin as Thomas J.) dies. The story was over after the first movie. I wonder why someone tried to find a way to make the story going on. That was senseless!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c2b6de6ad4313b928e0c0adecbfe40a1dcd519fc386e4621b22fb68c1665b79
+size 375

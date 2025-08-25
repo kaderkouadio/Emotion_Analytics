@@ -1,1 +1,3 @@
-Well, what a waste of 90 minutes. Some of the worst acting you would ever want to see (particularly the waitress who was Peralta's girlfriend - this would be an example of overacting at its absolute worst) allied to inept, wooden screenwriting. Its sole redeeming feature is a nice twist in the story but the ending is lame. If you have anything better to do dont bother watching this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9d2d6d03118675b29320df255248ac3086c3bd0740448a27ca7e6429f91f6b0
+size 391

@@ -1,1 +1,3 @@
-As an ex (nuclear) submarine officer I must admit this is my favorite submarine movie (even exceeding Hunt for Red October). Someone knew something about submarines when they wrote the movie. OK - not realistic - but it is a comedy - and has all of the "inside jokes" from the submarine force. A great cast with the stereotypical uptight submarine guys on the "Orlando" and our heroes on the diesel boat. Definitely "DBF" by the way = that means diesel boats forever. But they want ten lines in order to post this - jees is the Admiral in charge here? <br /><br />Line 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf78e027f389a3ed3600a6454f32ab01608817ddb224d3ef0f1338a7255280ac
+size 572

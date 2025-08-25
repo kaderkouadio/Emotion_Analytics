@@ -1,1 +1,3 @@
-Technically a very viewable film "Under a Spell" is the case of what a terrible screenplay can do to an excellent story, notable actors and lovely setting. As an adaptation it reminded me of those online translation services that literally show you the meaning of every word you give them...although the translation doesn't make much sense.<br /><br />I would suggest Carlos Carrera to stick to direction and leave script writing to professionals.<br /><br />The longest 130 minutes of my life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b39ebb401b1bd3e400d29678d00e181199c871edd48b5cb8d46c5261280e5f6e
+size 494

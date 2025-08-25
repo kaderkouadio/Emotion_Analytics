@@ -1,1 +1,3 @@
-Boy dies. Boy's brain is implanted (?!) into animatronic dinosaur. Animatronic dinosaur w/ boy's brain seeks revenge. And that's not even the worst part-- Denise Richards is the lead.<br /><br />Oh God my eyes! It hurts, it hurts! And yet I cannot look away!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e648fa67c96992cc21a9b2246abd2a0c150d2c62695850a9308f47f3620fa2c
+size 258

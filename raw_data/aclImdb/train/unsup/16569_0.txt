@@ -1,1 +1,3 @@
-Average family comedy/drama movie that had a great cast but average story/screenplay.The script was above average though and the performances was also good.The cinematography was bad and so was the lighting.Story deals with adultery and the trials of fixing a marriage after the affair.Nothing spectacular.Only for family soap comedy/drama fans and big fans of the lead actors.....
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4937a219d54e4f6254b118b16e22cb73e01d88dc515bd731cfb56c27e19a774
+size 381

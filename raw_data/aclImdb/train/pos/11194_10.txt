@@ -1,1 +1,3 @@
-Bad script, bad direction, over the top performances, overwrought dialogue. What more could you ask for? For laughs, it just doesn't get any better than this. Zadora's over-acting combined with the cliched scenarios she finds herself in make for an hilarious parody of the "Hollywood" machine. Almost as funny as "Spinal Tap" even though it was clearly not intended as such. Don't miss Ray Liotta's debut film line, "Looks like a penis."
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7db02f4ef99351a4ec5f476ee41dfb2ad118c6697fcbcaed713d41bfa2848c2
+size 437

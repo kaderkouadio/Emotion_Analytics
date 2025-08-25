@@ -1,1 +1,3 @@
-This was supposed to be a horror film? Maybe it was meant to just make the audience dumber from watching it so that they would think that it was good. This movie rode on Nicole Kidman's coat tails, basically needing her fame to succeed with any type of movie-goer response. i really cannot believe that i made it past the first hour... but i have a thing against walking out on movies. the not-so-surprising twist at the end really leaves you with the feeling that you can never get the last two hours of your life back. i could have been sleeping!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0734adf0e1db387a10e16262fafa08eda152e744a9c8de5cb8983cc6c9504d9
+size 548

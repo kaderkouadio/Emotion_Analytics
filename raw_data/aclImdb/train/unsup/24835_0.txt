@@ -1,1 +1,3 @@
-Dazzle is an enchanting balance of light-heartedness and innocent humor.<br /><br />Surprisingly, the movie is cleverly woven. Nice touches include Tom as an author of children's books about faeries as well as Shakespeare's fairy play within the play, Midsummer Night's Dream.<br /><br />The gnomes Oddkin and Bodkin impart amusement, keep the comedy cheerful, and provide balance for the mildly menacing antagonist, the Collector. <br /><br />Melissa is disarmingly charming. Tom and Crystal share a believable chemistry. Ms. Martinet adds a touch of complication as both the skeptic science teacher, rival love interest, and, ironically, the school play director. Tom's publisher and son help with unobtrusive story exposition.<br /><br />The movie is warm without being maudlin.<br /><br />Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6acc05de5ae3929c6002a80341ceb8e965246b5d869e5c173cfb39f7eacc497c
+size 812

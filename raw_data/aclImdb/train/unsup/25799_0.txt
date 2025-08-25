@@ -1,1 +1,3 @@
-I can tell you nothing about Miracle Mile. Except that it is a love story set against a tragic background, and that it is a beautiful piece of filmmaking showing the best work of several involved. This movie was destroyed by its own practical nature--which renders it unpromotable--but it exists somewhere. Find it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d87d311b4e2a545e16d26d35d1a897d23afb68920680529ff37149bf9eef94b4
+size 315

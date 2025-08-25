@@ -1,1 +1,3 @@
-LIVE A LITTLE, LOVE A LITTLE is one of Elvis' weirdest movies. Part slapstick, part fluff, part surreal and part strange. Elvis meets up with a very off-beat girl with an annoying voice. She looks like Jennifer Aniston. Story doesn't make much sense as is the case with most Elvis Presley movies, and there a bunch of odd characters galore. Not much music in this one, but what there is I liked, although none are memorable. Strange continuity. Elvis and Michelle Carey go into her beach house at night, but a few minutes later a delivery boy comes in and it's stark daylight!! What?? That's about the essence of the movie. What?? Oh, two good things about the movie: A) Elvis looks great and B) the dog steals the show.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fade9a33950e09e71440977b96bd9069cd5679b1673c5230d021d0874f71153d
+size 720

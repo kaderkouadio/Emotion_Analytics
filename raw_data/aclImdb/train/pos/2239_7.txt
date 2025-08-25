@@ -1,1 +1,3 @@
-I guess this movie will only work on people who were all turned off by the giant hype of Lord of the Rings. Well, so I was. And so I really love this movie. Especially I like all those flawless superheroes from LotR being so perfectly and disrespectfully parodied. Most brilliantly is the counterpart of Gandalf (the brave and wise and completely humorless know-it-all wizard): Almghandi, the cowardice and brain dead transvestite. Sauron's counterpart ("Sauraus" from East Germany, of course) is wearing a simply bucket with eye holes as a helmet. Aragorns alter ego is yet another accident prone idiot who tries to fix his broken sword ("Ulrike" the legend) with scotch tape. And "Strunzdumm" (the counterpart of Wormtong) indeed has some strong resemblance with Brad Dourif! And don't forget Grmpfli and Heidi... huh-huh
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0c5261d8636921ef7543279521cb3ff5057777681ba3dd47c3da8e2c96494f0
+size 823

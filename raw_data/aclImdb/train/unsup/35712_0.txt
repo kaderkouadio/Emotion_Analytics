@@ -1,1 +1,3 @@
-This is a strange detour in the otherwise interesting career of Wes Craven. It's mostly just a rehash of the first film. I couldn't stand it...at one point we are treated to a flashback from the first movie...as remembered by the FAMILY DOG! Skip it, you'll be doing yourself a favor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaa5dca5d1456e47def4b2301e45e1e22e0fc4885741d02266a5c64b49ec1603
+size 284

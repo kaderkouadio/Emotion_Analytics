@@ -1,1 +1,3 @@
-This is by far the worst non-English horror movie I've ever seen. The acting is wooden, the dialogues are simply stupid and the story is totally braindead. It's not even scary. 2 out of 10 from me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb932f2003490364e420da6c26ef25046a083c8e0d4abab39a911511e4e5d6c6
+size 197

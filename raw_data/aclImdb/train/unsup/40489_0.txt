@@ -1,1 +1,3 @@
-Now this really takes the biscuit. Its a terrible movie with little comedy and the plot is terrible. There is little sex to speak of and when there is its not sexy, its actually funny. 2/10 If you like this movie try: The other rubbish confessions of...series
+version https://git-lfs.github.com/spec/v1
+oid sha256:4efb74fe60cc88a78a52cfe554c00d8c2809be08793c222bfda6292d0660e93c
+size 259

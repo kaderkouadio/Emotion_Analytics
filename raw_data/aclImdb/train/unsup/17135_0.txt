@@ -1,1 +1,3 @@
-"Let the Good Times Roll" will be screened Saturday, 9/19 in the Packard Theater at the Library of Congress Packard Campus Audiovisual Conservation Center in Culpeper, VA. The screening is free, but reservations are advised. Call (540) 827-1079, x79994, or (202) 707-9994. This is the third film in a Rock and Roll series that also includes "Ferry Cross the Mersey" on Friday, 9/18/09 at 7:30 pm, and "The Big TNT Show" on Saturday, 9/19 at 7:30 pm. Also showing with "Ferry Cross the Mersey" will be "Rhythm 'n' Greens" starring the Shadows. The theater is located at 19053 Mount Pony Road, Culpeper, VA. More details: http://www.loc.gov/today/pr/2009/09-161.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62deba33122d5742a8b6a4afaf04c682dc138de1dde6ec88dfc495a15019134
+size 660

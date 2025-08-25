@@ -1,1 +1,3 @@
-Based on a Edgar Rice Burroughs novel, AT THE EARTH'S CORE provides little more than means to escape and give your brain a rest. A Victorian scientist Dr. Abner Perry(Peter Cushing)invents a giant burrowing machine, which he and his American partner(Doug McClure)use to corkscrew their way deep into the earth to explore what mysteries it may hold. They soon discover a lost world of subhuman creatures having conflict with prehistoric monsters.<br /><br />Cushing comes across as an absent minded professor to the point of being annoying. Instead of being a bold adventurer, he comes across effeminate. On the other hand McClure overacted enough to make himself also laughable. Caroline Munro plays the pretty Princess Dia that refuses to leave her world near the center of the earth. Also in the cast are: Godfrey James, Cy Grant and Michael Crane.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b821ae551bf42fb082f8dfe11f2789970ff66d69fc2cc49dd82d84a7c58d84ff
+size 850

@@ -1,1 +1,3 @@
-Each guy Liv Tyler meets loses their head over her, not, of course, without some small encouragement from Liv. Liv is at her beautiful best, with Matt Dillon tops among the paramours. Interesting initial premise, to tell story from perspective of each dupe, degenerates into sitcom-style finale (not unlike Blame It On Rio, with which it has more than a few similarities). Worth watching nonetheless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cadc1955f4bd6e531457c4fdc7c79984ca04b01d49191601f057258712aa6358
+size 400

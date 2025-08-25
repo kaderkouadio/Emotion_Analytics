@@ -1,1 +1,3 @@
-What did producer/director Stanley Kramer see in Adam Kennedy's novel and Kennedy's very puzzling screenplay? Were there a few pieces left out on purpose? And what about Gene Hackman, Richard Widmark, Edward Albert, Eli Wallach and Mickey Rooney? What did they see in this very muddled story?<br /><br />And why did Candice Bergen, who gave a horrible performance, accept such a thankless role?<br /><br />The Domino Principle wants to be on the same footing as The Parallax View or The Manchurian Candidate and misses the mark by a very wide margin. A major misfire by Stanley Kramer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01bf72528563124d8a2c0b9572d08333afa3c46d87385c27ecb975d451939985
+size 585

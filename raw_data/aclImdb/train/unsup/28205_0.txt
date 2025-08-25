@@ -1,1 +1,3 @@
-I saw it in 1969 and will never forget it.<br /><br />The cast was a fine cross section of the best Pommie comedy actors of the period.<br /><br />The sight of Marty Feldman in a nurses uniform with Crossed Bandoliers of syringes was surpassed only by Harry Secombes ode to the Pin Up.<br /><br />Would love to get it on Video - Does anyone know how we can get it onto CD, Video, whatever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3c9c40cb1fc0365033feb45f5a630d00fb2726a2f4f029bd30b652aec0b5ec7
+size 389

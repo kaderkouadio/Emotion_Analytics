@@ -1,1 +1,3 @@
-Because I loved "The Howling", I decided to try this one. While it was a very suspenseful film, with lots of moody atmosphere, it went on forever without anything happening. I mean, I believe in character development, but this took it to extremes...actually only an inch or so away from boredom. When the werewolves finally do show up, they weren't all that bad, but they were only seen for a few minutes. In all seriousness, this film is even worse than the "American Werewolf in London/Paris" flicks. Instead of wasting your money renting this turkey, watch "Bad Moon", "The Werewolf" (the 1950's Steven Rich version) or "Dog Soldiers"...those are really outstanding werewolf movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b54a5216c932e32c188c9e5721ba49116d42b1ff8d7e9c3262a0ee689aa6182
+size 685

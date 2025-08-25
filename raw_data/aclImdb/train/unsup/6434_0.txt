@@ -1,1 +1,3 @@
-IN THE VALLEY OF ELAH you feel the anguish, the anger and the pain of what this dreadful war in Iraq has done to American families and our soldiers. ELAH is a powerful film from the brilliant Director Paul Haggis that drives home on the screen in a magnificent performance from Tommy Lee Jones the fear a father may have in the loss of his son and how this war is being played out in the small towns of America where a family wonders if a man, or woman, might return home safe, or in a body bag. Charlize Theron and Susan Sarandon with a solid cast bring home the horror of Iraq in a film that is today's war in the Middle East. I can only hope that at Kudo time this well directed and written film will find itself on the list of nominated films. Bravo Paul Haggis for giving us another film to root for as we did with CRASH.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f806be5b3fa7735d926782c50412688d9f761ebdab27f6aff77d42c07512161b
+size 826

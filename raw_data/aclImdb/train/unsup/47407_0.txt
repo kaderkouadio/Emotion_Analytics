@@ -1,1 +1,3 @@
-Inconceivable! What was the director thinking? Hmm, we're shooting on video, we have no stars, and we have a budget of 7 bucks for our martial arts stuntmen. I have an idea that will put us over the edge!!!! We'll feature tons of women with fake boobs doing aerobics....and we'll have no nudity at all!!!! It's cinema gold! People, there's a reason why you can only find this flick in a bundled DVD 4-pack at Best Buy for 6 bucks. And frankly, I overpaid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae7012a3d7dfed54b9f1d9946f65b2e98bca81c46c9a5bd7393f152cc2cebf69
+size 455

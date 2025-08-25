@@ -1,1 +1,3 @@
-If you were to cut an hour of this movie you might have something a little bit entertaining, although even then I don't think you'd have anything memorable. But at its full, seemingly endless length this movie just meanders on endlessly.<br /><br />The movie aims to be a sort of great myth history, but it never manages to feel like more than a slight tale blown up too big. It is full of extraneous detail that makes sense in terms of creating a mythology but not in terms of making an interesting movie. And the characters are just plain uninteresting, and for the most part difficult to distinguish from one another.<br /><br />Some of the transformations are entertaining, but even then the movie rarely rises above the ordinary.
+version https://git-lfs.github.com/spec/v1
+oid sha256:962309294408d8fdef7686f0ebb0215a420705c3d978b928485f3d8ddb2f6018
+size 734

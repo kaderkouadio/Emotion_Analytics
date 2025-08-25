@@ -1,1 +1,3 @@
-I saw it 20 years ago and liked it. I was 15. It was fun because it was a cartoon with violence, gore, aliens getting high and naked chicks with big boobs. I saw it again this year and I thought it sucked. First of all, there has been a lot of adult cartoons in the past 20 years so the shock effect just wasn't there. It is also very uneven. It is basically a collection of 10 minutes not-really-related sketches put together by different persons, and it shows. The animation quality of many of the sketches is below the average Saturday morning cartoon. Pretty bad. 3/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbf436b4e9e23df0c1b6fd7f1133bf43500793c255440a7f9b6747730f4aa911
+size 573

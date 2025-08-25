@@ -1,1 +1,3 @@
-This is the worst movie ever made. The acting, the script, the location, everything! I would have given it a little chance if there were attractive women in the movie, but even they were bad. You would think that a movie with the word "beach" in it's title would have good-looking women in it. Wouldn't you?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2fddff13c2c1e4ebd69d558e6f2a7e0f665a891fefe033ff8dc5c43c03a2390
+size 307

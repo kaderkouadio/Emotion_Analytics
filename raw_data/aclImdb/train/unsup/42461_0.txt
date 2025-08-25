@@ -1,1 +1,3 @@
-Storyline: Will Ferrell as Dr. Rick Marshall designs a machine to take him through time and space and he uses it to travel, with a female love-interest and a trailer trash sidekick, to a world with dinosaurs, giant bugs and monkey-people. They lose the machine and have to find it in order to return home.<br /><br />That's the premise, but this film is truly, truly awful. There are NO laughs, NO smiles. It seems that every character has lines spoken to Ferrell telling him how wonderful he is, and the whole thing is one huge ego trip.<br /><br />Under no circumstances should ANYONE pay to see this film. It's not even worth a DVD rental.<br /><br />To be honest, it's not even worth the time to download it from the internet! Yes, it really is that bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1bb95bc9c34da2fae22e633757d90187ef65dc376cf6809dc7d2b8bad46180c
+size 758

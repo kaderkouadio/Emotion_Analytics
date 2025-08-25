@@ -1,1 +1,3 @@
-A mean spirited, repulsive horror film about 3 murderous children. Susan Strasberg is totally wasted in a 5-minute cameo, even though she receives star billing. If your a Julie Brown fan, you'll want to check it out, since she's naked in a couple of shots. All others,avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a13846e69d85f4561ad11cc4fcbb08dca3b09d7115dd266d6815f63f2efcb362
+size 274

@@ -1,1 +1,3 @@
-Walking With Dinosaurs is an amazing Documentary, educational for both the Ignorant of Dinosaurs and Dinosaur-Lovers (like myself) alike. I admit, I was very young when I saw this on Discovery, but I was obsessed with it immediately. (Spoliers!!!!!) The series contains 6 episodes, going from the Late Triassic when dinosaurs were just first evolving to the Late Cretaceous, at the end of Reign of the dinosaurs. When I first saw this film, it was like I really had traveled back in time. The majesty of the Diplodocus, the adventures of Opthalmosaurus, and the caring mother version of T-Rex all astounded my family and me. It is an amazing film, and I believe that BBC managed to do just what they set out to do. Awesome job!
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bbff8b4d62403411b9d8e6c87ccc696d56c1e71876ba55894e46267056e9ea
+size 727

@@ -1,1 +1,3 @@
-This film is what most of the industry has forgotten how to make: FAMILY entertainment, meaning something which is enjoyable to people of all ages. This particular Wallace & Gromit can be enjoyed by everyone from toddlers who like the colors and cute bunnies to their grandparents who understand the adult references. <br /><br />This film has direction as good as any I've ever seen, and I mean that literally. It is also packed with tiny bits of humor, and each scene has so many humorous details in the background that I'm going to have to buy it, if only in order to read all the signs and handbills in W & G's world. <br /><br />I plan to see this movie at least twice more in theaters, then buy it on DVD. You too should see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:242efa6764c2024437de0b2e7d0eed87760ab2a0807d1c8a65e8337607d639cb
+size 734

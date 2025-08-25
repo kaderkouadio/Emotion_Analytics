@@ -1,1 +1,3 @@
-I have watched several episodes but every time I am totally amazed that they gave Vincent D'Onofrio a lead role. Watching him work a case is just painful, especially when he does the big reveal at the end. I have seen better acting in Jr. High School Plays.<br /><br />Otherwise this show leaves a lot to be desired, it's nothing special or different from any other cop show on today or in the last 30 years. Cop shows have all been the same, when one ends there's a new one in a season or two that does the same thing the same way with no imagination or originality.<br /><br />I find the more unlikely cop shows, like Castle and The Mentalist, more enjoyable simply because they are different. Maybe this show and the other L&O and CSI shows should pay attention and find something new.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09ee45e3311449bf5c86ff0737bf3b14095074ab1e1f2688d6e3b0a582fd4348
+size 788

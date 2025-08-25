@@ -1,1 +1,3 @@
-Beautifully filmed, mind expanding exploration of Gypsy culture in the context of their music. Travel across a continent, experiencing the amazing musical styles of various groups of Gypsy peoples. It is sort of misleading to say this movie is not narrated. It is masterfully narrated by the music itself, the soaring melodies and subtititled lyrics tell a story much better than a narrator would have. See this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08da43fa69985f969836bf3ce169055a31325cbeb17e72421eb856f71e31a242
+size 417

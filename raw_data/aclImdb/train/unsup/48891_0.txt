@@ -1,1 +1,3 @@
-I was completely disgusted by this movie. It is just another example of how they butchered what used to be a great tv show. I loved the first movie, but this one is so horrible, you couldn't pay me to sit through it. The story line was dreadfully cheesy, the acting was worse than usual, and the "special effects" were definitely something to be laughed at. Take my advice, and don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:765258a57775e94c0b2bcd683d7e11aaf68eb3f51e9b277b3ad722c2a4c80f3d
+size 400

@@ -1,1 +1,3 @@
-let it be does not have to be sad. there are happy moments but it just shows the internal conflict every super group to follow must go though. they were the first and couldn't get over personal differences and opinions. if they could of, well music today would be affected.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2d67c62e1e10b671883b957a77e522a70dbfb7f4de25344819b431973e1b604
+size 273

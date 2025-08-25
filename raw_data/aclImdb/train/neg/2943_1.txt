@@ -1,1 +1,3 @@
-In Theodore Rex poor Whoopi Goldberg is set up as a tough police cop who gets to work with a pathetic dinosaur on a case. The movie tries to be funny, and tries to make a story about abductions and more but it never works. The movie is far from funny, and the story is ridiculous. I voted 1/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:73418f8a460e428282f88eb3b6e312a339c332ad8d46d04a60f23175384e8931
+size 293

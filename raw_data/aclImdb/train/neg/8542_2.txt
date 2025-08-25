@@ -1,1 +1,3 @@
-I am working my way through the Chilling Classics 50 Movie Pack Collection and THE WITCHES' MOUNTAIN (El Monte de las brujas)is something like the 17th movie in the set.<br /><br />The movie had nothing to it to hold my attention at all. The plot was incoherent. The dialog seemed improvised. The acting was poor. The characters were unsympathetic.<br /><br />The best scene is the beginning, with an exasperated woman that is driven to burning her seemingly bratty daughter. However, the only connection this scene has to the rest of the movie, is the lead character, Mario, who has the most stupendous mustache ever. But, that's it.<br /><br />The film was not effective on any level. The music was too intrusive. The lighting was very dark, so that some scenes are almost completely black. It really is barely watchable -- what more can I say?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a291691423e6a1770d6cc9b18d0e21e2bb6f9c42d1bc7bad82f3fbfe69d7b694
+size 846

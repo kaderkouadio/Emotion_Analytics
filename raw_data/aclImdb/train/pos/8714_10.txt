@@ -1,1 +1,3 @@
-To quote Flik, that was my reaction exactly: Wow...you're perfect! This is the best movie! I think I can even say it's become my favorite movie ever, even. Wow. I tell you what, wow.
+version https://git-lfs.github.com/spec/v1
+oid sha256:754b61340b1d840052cc8491aff699965bb41a7f0595130899652c7f42882e4d
+size 182

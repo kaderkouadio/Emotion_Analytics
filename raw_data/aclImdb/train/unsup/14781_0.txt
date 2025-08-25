@@ -1,1 +1,3 @@
-I'm sick of reading bad reviews of this movie. This is such a funny, heartwarming and endearing film. One look at the premise and many people would think it's hard to make the movie work that way but it does. This was my favorite movie of 1994 and it works on so many levels. The interaction between the actors is fantastic. Even though it is more a light-hearted comedy the teenaged stars are given a realistic treatment throughout the film which is something rarely see in film. Michael Patrick Carter, Melanie Griffith and Ed Harris are all stellar. This movie is filled with wonderful enduring scenes and is truly a delight.
+version https://git-lfs.github.com/spec/v1
+oid sha256:666ab187ce07bbeea3a0168af4dad4deb5f57d46d64a9113c08b6ad6b3a2b449
+size 628

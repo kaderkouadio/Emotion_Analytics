@@ -1,1 +1,3 @@
-Just a few words.... This movie really sucks. It's like those TV Movies with bad cast and plot. It's amazing how they could make this sequel worse than the III. Don't waste your time watching this crap, even if you like the tremors movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3814229f808177b8b753256d3f22e33e5a4a0b13e19dc5545d6e77da40d34fd
+size 239

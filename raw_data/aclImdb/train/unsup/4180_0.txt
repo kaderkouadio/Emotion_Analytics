@@ -1,1 +1,3 @@
-We saw this short at the DragonCon Film Festival in Atlanta. This is a great brooding short that builds. The creep factor is very high, and it's heightened by the fact that we can see what's happening, but the main character can't.<br /><br />I thought the beeping alarm clocks were a little too loud and therefore a little irritating, but I'm guessing that was the desired effect. This also could have been due to the sound at the venue where we saw it. It wasn't a great room for movies, acoustic-wise.<br /><br />The make-up was very good, and the special effects were nice and creepy. Kudos to the team that created this, and we are looking forward to more installations!
+version https://git-lfs.github.com/spec/v1
+oid sha256:da590c3e913e4f7d30f4c92b4d36c7b59417526c993882a9bf4634999a0cf02b
+size 675

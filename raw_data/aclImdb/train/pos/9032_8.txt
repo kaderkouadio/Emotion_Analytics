@@ -1,1 +1,3 @@
-Maybe not the most original way of telling a story, we've seen all this before in many movies.. but.. I liked it October Sky alot anyways. It got something, Great directing and good acting by all parts, especially Laura Dern(the teacher) and Chris Cooper(the father). I wanna be a rocket-engineer!:)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bef871c57b7f741dfcebd0bf0e4873ff0946db1bec4f9f75d697c7ec1194d785
+size 299

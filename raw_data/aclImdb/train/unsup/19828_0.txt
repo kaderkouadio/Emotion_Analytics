@@ -1,1 +1,3 @@
-A fun to watch western containing Fess Parker's best performance, the show is stolen by Jeff Chandler's performance as the baddie you hate to see taken down. However, as outstanding as Chandler is, the real star of the film is Jerome Moross' pulse-pounding score, which predates his legendary music for THE BIG COUNTRY. It's every bit as good, if not better. Henry Silva is (of course) scuzzy as a hired gun.<br /><br />Catch it. Any western fan won't regret it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f526ee860f14287cf27456e6d20cdd6f95821f5bbcc01b858443d5c8cb751a8
+size 462

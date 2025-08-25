@@ -1,1 +1,3 @@
-I find myself comparing all stand-up acts to this one performance now. Even older recorded performances I once thought were funny just don't seem as funny after seeing Eddie Izzard in this award-winning look at history, language disparities, and Englebert Humperdink...
+version https://git-lfs.github.com/spec/v1
+oid sha256:872251f75bdb14d5e74a0236d1cda649edd7b4a7e789c8fe2128ba4da5b821d4
+size 269

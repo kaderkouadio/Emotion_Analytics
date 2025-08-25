@@ -1,1 +1,3 @@
-Any college student could do better. It feels like Jean Rollin did a one take anything goes. It's one of the worst acting and story line I ever saw. The nudity is only there to compensate for the lack of a story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:781c97b9ec71bd5e420f09cf2ba2d0b371d4f0e65cec2946c85cd48434e05cc1
+size 212

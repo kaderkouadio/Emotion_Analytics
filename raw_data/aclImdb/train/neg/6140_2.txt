@@ -1,1 +1,3 @@
-This movie is hilarious. The problem is that it's not a comedy. One classic scene involves Kurt Thomas just happening to find a pommel-horse in the middle of a village square (which he uses to pummel the bad guys.) Another is the trek into the "Village of Crazies." Too bad this movie wasn't made to be a farce, or it may have gotten better ratings.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c7f29bd447f2725ce8834a00c5a9241e7b51a35a29523aabfaf853c1f6c3e5
+size 349

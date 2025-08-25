@@ -1,1 +1,3 @@
-The Rookie kept me smiling from beginning to end. Dennis Quaid played the role to perfection. The little boy that plays his son was fantastic. He made this a father-son movie to remember. The messages are good ones. Follow your dreams. Failing at the pursuit is alright as long as you try. The excitement is palpable. I believe this movie will be a classic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e2a705ddbe6689e37aee7177000ee0a0b4d3d39a322387ba2ffac5bb0d91726
+size 357

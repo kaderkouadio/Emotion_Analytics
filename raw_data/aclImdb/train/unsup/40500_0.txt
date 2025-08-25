@@ -1,1 +1,3 @@
-A group of criminals kidnap a young girl to extort money from her rich father. While this sounded promising, it was an insufferably dull film, easily the worst I've seen of Marlon Brando's at this point. It's also flatly directed with poor characters and dumb dialog, some of it spoken unconvincingly even by Brando himself, "man", and it comes off as almost laughable!<br /><br />The first half contains meaningless squabbles between the gang, and then we get into other situations with little point to them. The music is bad too, and just when you thought it couldn't get worse, the lousy ending seals the deal shut.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a00195043f12d05885d2f70e290f40119e5089714cb038309f8ad9cafe4770
+size 618

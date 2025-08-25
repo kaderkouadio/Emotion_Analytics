@@ -1,1 +1,3 @@
-Not only is the story of two brothers who love the same woman extremely boring, it is also very reactionary: the film basically sez that women ruin men's lives, it also sez "thou shalt not go to bed with your brother's wife"... certainly, a good piece of advice, but sit two hours in the cinema just to hear that? .... it's like the moralistic ending of _Cruel intentions_ blown up into a whole movie! beware! why do some film makers like Robert Zemeckis (_Contact_)or Smith and Stark fail to realize that the audience consists of intelligent human beings?
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a5869b3bc3550622622e81312e9c800e50d7d7b18eccf35446592a6f093e2b7
+size 556

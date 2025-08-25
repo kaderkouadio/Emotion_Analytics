@@ -1,1 +1,3 @@
-This film made me so angry because of its stupidity that I felt the need to create an account on IMDb to share with you my opinion. I liked Ashton Kutcher in "A lot like love" and this is why I still wanted to see this film despite it's current 4.2 rating. It is highly over-rated. I trusted that an actor (any of them) would judge the script and would not agree to participate in such low/now quality production. It is very disappointing. The theme of home-sitting was much better used in "Deuce Bigalow: Male Gigolo". Things that did not make sense here: fist of all, the house owner leaves his precious pet with somebody who doesn't know anything about taking care of it. Secondly, the rule is not to let anybody in the house, but the house-sitter fails to follow this simple rule. The door is not locked?! And so on..
+version https://git-lfs.github.com/spec/v1
+oid sha256:e55d6c20dab86658ab7b710daddc700edcf1f5c8bb84e8336da4153d6396ccd6
+size 821

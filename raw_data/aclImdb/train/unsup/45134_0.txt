@@ -1,1 +1,3 @@
-Based on the true story of Carlo Broschi, Farinelli is an opera singer from Europe, hailed for the beauty of his voice and his fine musicianship. Unfortunately for the people who love opera music, this film is a real disappointment. Since it is not about music, but about the costumes, the setting and the boring and pointless relationship between the two brothers, proving to each other they are not `gay'. Compared to Amadeus, this film is worse than a B-movie. It's a B-minor movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cdd5ce676cc8e8f05ecc4bf40b63a73474cae547cc184653c2365750f42de14
+size 485

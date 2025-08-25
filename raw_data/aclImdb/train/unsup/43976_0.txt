@@ -1,1 +1,3 @@
-Everything is terrible about this movie. The robot is just some guy in a cheap police outfit. He has the ability to see in the past somehow with a "replay" mode. Script, acting, lighting, effects, ..... I mean everything is horrendous. However its a good movie for a laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:262c85054b8054e63e5e136dd0a46afd19192f71afa23bbf1c56e7015fd945a9
+size 273

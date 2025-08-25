@@ -1,1 +1,3 @@
-Cocky medical students play chicken with process that simulates death, in attempt to get a (hopefully temporary) view of the afterlife. Certain plot twists and themes are a little off the mark, and the acting occasionally goes over the top. But the underlying message - about God's and others' forgiveness for our real or perceived sins - is positive and unique in cinema, and the cast is very very good. The last sequence between Julia Roberts and her father is so effectively done that, years after having seen it, I still get chills thinking about it. Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c7adb4b2c62e6b850b6f1ea435831841f66568499d283a837997db98c49b47b
+size 574

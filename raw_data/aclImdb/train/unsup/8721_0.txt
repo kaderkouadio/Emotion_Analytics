@@ -1,1 +1,3 @@
-This is a wonderful movie. Its as simple as that. And Samuel L. Jackson small role in the film is worth what ever the cost for you to view it. The scene when he is listening to the playing of the Red Violin can not be put into words. Its a feeling, and he put that feeling dead smack in the middle of me where I couldn't ignore it, or bottle it up. Bravo Mr Jackson. You are truly a great artist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20aa6de7fcf5112f5a14269c4dad6344d072812d264a4578cffb69e1490fc027
+size 396

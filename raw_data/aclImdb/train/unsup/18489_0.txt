@@ -1,1 +1,3 @@
-I just finished watching "Man of The Century" for the second time on the IFC channel. I just love this movie. Gibson Frazier is hilarious as is the rest of the cast. What a wonderful idea this movie was. I hope to see Gibson Frazier in more films in the future. I like his style.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4aa3afc9af20289c55a35f76cd9aaf70cfd115e106ad01b80c6e989e6a6fd87
+size 279

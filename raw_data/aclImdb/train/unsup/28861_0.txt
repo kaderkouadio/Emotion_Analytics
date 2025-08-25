@@ -1,1 +1,3 @@
-this film rocked - feature quality. tbs are treating us well with a show like this. daryl hannah as an action hero, who would have thought. also a very sexy opening - the sequel to this is going to be fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad0604d6e6d130a23e31312c0ceecfae745c33e2d6f2af0d13845b11992b778
+size 205

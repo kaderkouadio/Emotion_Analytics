@@ -1,1 +1,3 @@
-I saw this film once when it can out in 1971 and it has been in the back of my mind all these years. A super comedy that is all the more funny because it deals with real people like you and I. No fancy settings or beautiful people, two "misfits" careen through life tied together by the bonds of love, surviving all that the world can dish out. A real jewel of a film, wish it were on VHS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c51be203a277f92650f210b90c015ad35653eaf97f540c5741860372862c3ccb
+size 389

@@ -1,1 +1,3 @@
-A Bugs Life is a great film that is not just for kids but for adults too. The story is set around a colony of ants and their struggle against the evil Grasshoppers who come back every year and steal their food ( A Mirror of the Magnifiscent seven). There is some wonderfull computer animation and the voices are great too. You will love it!! 8 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:13e50b04f124725271d5d3e4e898b70e291ed0aca2328d084c5351de907b84c8
+size 353

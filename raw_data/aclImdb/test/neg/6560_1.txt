@@ -1,1 +1,3 @@
-Man, this would have been a bad episode of the original series. I can't believe they actually spent money on this one... I caught the second half of this on tv and, having never seen this one before, thought I would watch it... Boy, what a waste of time... More cheese than Wisconsin!!!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:77b3342ec85fb32f784e9a370159c1fab71afa1f7ae9790be1e668c9297a545e
+size 298

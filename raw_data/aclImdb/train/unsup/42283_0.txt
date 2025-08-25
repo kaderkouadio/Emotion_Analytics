@@ -1,1 +1,3 @@
-This was one of those underground independent films that just happened to be really good. Director Darren Doane is mostly known to us as a Music Video Director bringing us videos from bands like Blink 182 and MxPx. A good film to watch from a music video director. If you see the DVD Special Edition you can see the original Godmoney film starring Christian Bale (Empire of the Sun, Little Women, American Psycho).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7de7b31504d525b77efec505969e7fd73dd8a80ff40377e26366b047059b78bd
+size 414

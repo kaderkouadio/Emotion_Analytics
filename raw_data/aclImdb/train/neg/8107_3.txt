@@ -1,1 +1,3 @@
-This film is quite boring. There are snippets of naked flesh tossed around in a lame attempt to keep the viewer awake but they don't succeed.<br /><br />The best thing about the movie is Lena Olin--she does a masterful job handling her character, but Day-Lewis garbles most of his lines.<br /><br />Kaufman clearly had no idea how to film this. The incongruities in bouncing between domestic household/marriage issues and political crises are badly matched. Character attitudes change without explanation throughout. Badly disjointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db25d88892ce59a2d005c6cf8a65e97b759456d325ebb6bf729e878a55aa9642
+size 534

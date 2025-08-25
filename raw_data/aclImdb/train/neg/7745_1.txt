@@ -1,1 +1,3 @@
-Where to begin? the special effects should be named special defects, When the director shouted "action" I guess he also indicated to the actors to carry out the worst performance they could think of. Maybe he was annoyed with the producers and wanted to make sure that they would not recover a single cent out of their investment and that the work would be a case study of how not to make movie. Or maybe he hated art school and wanted to be an accountant but his family did not let him.<br /><br />The only thing that is sure that whoever employs him in the future is because its in love with him (so its objectivity jumped through the window) or because he changed its name and deleted all past previous references.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad5d31e331e545b2a10093e4507c778a77c48edf5d6ccb88bace54af43fcc941
+size 717

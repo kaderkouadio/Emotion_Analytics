@@ -1,1 +1,3 @@
-A classic in its genre. I remember seeing the "Emmanuelle" films (in the days before video or cable TV) at the infamous midnight movies. I just watched it from the DVD in French w/English subtitles. I recommend this format whenever possible on foreign-language films. You can at least hear the actors own voices and the inflections that are often lost with poor dubbing. The acting seemed pretty decent, much better than this sort of film today. Grade: B
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c049970d35b48f1d24e0c2481ca4c6f61ba1c7a0e6d27569d59983426e9d5f0
+size 454

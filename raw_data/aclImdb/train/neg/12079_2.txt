@@ -1,1 +1,3 @@
-Poor Will would be rolling over in his grave if he could this this horiible German-TV adaptaion of his classic play. It's obvious that very little money was spent on it. A stage riser, a catwalk and some randomly placed columns pass off as a set. The movie was ineptly dubbed into English, with the English voice actors occasionally mumbling their lines. The whole production had an incredibly dark and dreary feel to it. And just where was Fonterbras in this movie anyway? MST3K gave this sorry production the treatment it justly deserved.<br /><br />To be or not to be? I wish this movie never was in the first place.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2da55ddf278781f9c53b850247ac86efaf0a2549d0dcfebe7d97b76d78878102
+size 619

@@ -1,1 +1,3 @@
-I just purchased and viewed the DVD of this film. The DVD transfer is from last year, 2001. This 1988 film is really a great little film. Overlooked by most people. I saw it in the theater in 1988 and have loved it ever since. I love the opening shot of Pittsburgh (not Baltimore, as another user commented). Makes Pittsburgh look like one of the most beautiful cities in the world! And I must say, the tour of Pitts on the garbage truck with Nicky is a very scenic, interesting one! Tom Hulce, as everyone else has said, gives a remarkable, wonderful performance. The DVD is a good transfer, with no extras, but a widescreen format. I recommend it to those who love the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb5e3b85173845340c37610e59e84bcd50e2de72cceed72de663a6419fdd245d
+size 677

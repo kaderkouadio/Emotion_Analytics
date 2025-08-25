@@ -1,1 +1,3 @@
-OK, I had to buy this one for $8 Canadian from Chapters, as I'm a huge fan of Wambaugh's book. This film is so bad it's almost good. A reasonably talented cast completely wasted, in its' own way it's worse than the film adaptation of "Catch 22". The supposedly funny scenes are ruined by poor direction, the sets are incredibly cheap and the "uproarious" ending is a travesty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2f25315c3d6cd7a9ad6a1f47a4ac7f5ef9811d4792b14d7bea17c00cd590e07
+size 376

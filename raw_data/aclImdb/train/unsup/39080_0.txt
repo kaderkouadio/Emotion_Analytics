@@ -1,1 +1,3 @@
-It could have been a great movie, all the elements were there: an interesting story, intriguing characters, beautiful landscapes. Yet something was missing. Inspiration and talent, maybe? For two hours I was waiting for this movie to surprise me (you can guess what the mystery is rather quickly) and move me, and was disappointed. I wonder if anyone is thinking of remaking it...
+version https://git-lfs.github.com/spec/v1
+oid sha256:5213bf1bb38aa14d02c32a1e393e7cd896c012ddf314acf252cbf528d4ce4fbc
+size 380

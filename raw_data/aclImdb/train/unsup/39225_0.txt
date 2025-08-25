@@ -1,1 +1,3 @@
-Nothing says scheming television weather man like John Travolta. Trust me, my sarcasm is well warranted. This movie misses the mark terribly. Even a cast featuring John Travolta and Lisa Kudrow could not make this picture worth seeing. The plot was overly simplistic at best, accompanied by an ending that can best be explained as lazy and incomplete. I left the theatre with only one question, What has happened to John Travolta's choice of movie roles ? Does anyone remember "Battlefield Earth" ? Need I say more...
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbe8ba003449934d3ce77e63350ac562c752e1b819697a4f4ed01ca5b01ae445
+size 517

@@ -1,1 +1,3 @@
-I saw this (video 2000) years ago and would love to see it on DVD. A good film, but I would have loved it even more if it had included the legacy of The Beatles and The Hollies etc.<br /><br />I also don't know exactly how true the story is - were some changes made to dramatize the story? <br /><br />I was only 3 when Buddy crashed, and didn't wake up to his music until the late 70's. Much later I found out our family moved into our new house on - yes, February 3rd, 1959.<br /><br />Well ehelhell little things you say and do... His songs will always be remembered - always...
+version https://git-lfs.github.com/spec/v1
+oid sha256:28eae53e4044f5457fdac3fa9df36445e234af2a931c9faa46c2b458c72d54a5
+size 581

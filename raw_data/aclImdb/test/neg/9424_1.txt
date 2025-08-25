@@ -1,1 +1,3 @@
-This film is a load of crap. It's quite disturbing to see that anyone is able to say that this is one of the best films of the year. What can I say? Bad acting, bad action scenes which becomes really comical in the end. Pardon me if this was a comedy, then I didn't understand it. If it was I regret laughing of the tent scenes! Do yourself a favor - go to bed instead of watching this! Good night!
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f3f9f5d36c3b13d53569deb82427d36677b79886852db543a3234034c5ba32
+size 398

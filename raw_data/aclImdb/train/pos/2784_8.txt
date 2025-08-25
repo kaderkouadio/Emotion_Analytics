@@ -1,1 +1,3 @@
-Nagra comes from conservative Indian family that isn't exactly into girls playing competitive soccer. But our attractive young star CAN play some serious soccer. Rhys-Meyers coaches Nagra and encourages her to perform, while Knightley is supportive teammate and friend. When sis' wedding is scheduled for the same day as the ultimate soccer match, what's a girl to do? Similar in its own unique way to BFGW as Nagra tries to push the envelope on traditional family ways. Here it's dad (well-played by Kher) who can see both sides of the issue. Docked an entire point for a hokey late sexual preference non-crisis, if they needed filler they could have gone elsewhere. Nice final wrap up to the whole deal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cb0f1e6a6eccb4a782c5711141d25865a8eaa427b9767577bf966788467a418
+size 705

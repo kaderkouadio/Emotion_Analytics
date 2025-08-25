@@ -1,1 +1,3 @@
-During a lifetime of seeing and enjoying thousands of films, Feeling Minnesota is absolutely the worst (**major film with A-list stars) that I have ever seen. Bar none. This movie totally fails on every level. It's poorly photographed and edited. There's uninspired acting, the kind where the actors appear bored out of their minds. Just collecting paychecks, perhaps? And worst of all, the sludgy script appears to have been written under the influence of some unpleasant substance found only in sewers. I can't even begin to comprehend how the writer/director could ever have found anyone to finance this project, let alone attract any of the stars that it did. I truly wish I could get back the time that I wasted watching this piece of garbage. If possible, I would have given this film a grade of zero. Better yet, a negative number.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a01e25dcc3175b0aafce69c8c74b06ac5fa89f4f03f6e5f2af69d37d9a4e06
+size 838

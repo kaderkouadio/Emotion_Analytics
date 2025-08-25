@@ -1,1 +1,3 @@
-I like silent films, but this was a little too moronic. As much as I wish I could say that it was worth the hour I stood up I can't. I don't think any version of the movie even comes close to the book. And don't try it out on kids, they might freak. And the lady who played Pollyanna, how old was she? 38? I know the labor laws were different back then... BUT COME ON PEOPLE.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e59d0d4effa23410b7c53e4ffc03195ae02841c845cac34945aea8731c53e9f7
+size 375

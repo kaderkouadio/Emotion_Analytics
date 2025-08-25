@@ -1,1 +1,3 @@
-A top contender for worst film ever made. Joanna Pakula's character seems to have an I.Q. of 3 which is only one less than the writer and director. The screenplay would not have passed in a high school writing class; the "jokes" are juvenile; the concept corny. These performers were obviously desperate for work. I stayed to the end only to see if it would get worse. It did. Life is too short to spend any part of it watching this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eef250530fa91fe00785df12a0e9658086ef22b7b070f3c722be1fe4661611e
+size 438

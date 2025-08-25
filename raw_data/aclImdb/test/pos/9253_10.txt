@@ -1,1 +1,3 @@
-***SPOILERS*** ***SPOILERS*** Well, seeing as I am a major H:LOTS fan, maybe I liked the movie more than normal people would. However, this movie is still excellent. It had tons of surprises, and it gave some more closure to the series. While I was sad that Bayliss turned into a murderer, the overall feeling I felt was satisfied.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be8bc79cc1eccd004c3f95acdc84a4064e3170e50f7bc1ea635ec590e634db13
+size 331

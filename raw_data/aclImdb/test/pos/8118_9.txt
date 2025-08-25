@@ -1,1 +1,3 @@
-Quite a ways away from "Go Fish". Both were good films but Troche had a bigger budget and cast to work with here. This film was very entertaining and easy to like. The acting was good lots of slow burn sexual tension.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca6311d61197908998725b3fc7a235ecdf857457b160800e93d6c3fc2a2c5130
+size 229

@@ -1,1 +1,3 @@
-For the most part, romance films were never my cup of tea. But Valley Girl is one of the few romance films I not only could sit through, but actually enjoy. Nicholas Cage is great in his first role and Deborah Foreman is cute beyond belief. There are some side stories that tend to become muddled, but not enough to diminish this film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8109c1e9235e0e87f5cfd7071b30a5720ea9a424abcf0cf99cf64e9e54b1fd
+size 335

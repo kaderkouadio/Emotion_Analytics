@@ -1,1 +1,3 @@
-This was a romantic, simple funny movie. I really enjoyed it and would definitely say to watch it and enjoy it, Will Smith was funny, fumbly, nervous, sweet and just a simple guy who got hit by Love. It was cute to see him fall for someone and be so nervous and lost as to what to do or say. It was great. He was great, funny as usual. Eva Mendes was better than i expected her to be as well, i thought there were moments in the movie where Will got the shaft, he was doing everything he could being a good guy and still getting treated bad. The ending was romantic and happy and it was great. I have seen it several times, and would watch it again. A funny, movie, something you don't see a lot of anymore. It had the old time feel with a fresh new look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92900a943bd4083480c6bcc9abd996a68de813a3d964c7207d6900b9c812b00c
+size 755

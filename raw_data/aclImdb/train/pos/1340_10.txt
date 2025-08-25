@@ -1,1 +1,3 @@
-This documentary was interesting, but it was also long (so long it lasts a total of 225 minutes), like Ben-Hur long. But if your into that, this is for you. But only if you have a passion for movies, like I do. Being that Martin Scorsese is my favorite director (live and maybe even ever), this is quite fascinating, especially if you know the style of Scorsese's works. Because then you can understand where he got his inspiration for many of his films. Not the best documentary film ever made, but it is a leap for Scorsese, which is always good to watch. A
+version https://git-lfs.github.com/spec/v1
+oid sha256:afade06be26e71e681243eb9b329e59de5858b9e554b0f9cf5fd1720f5c5140c
+size 559

@@ -1,1 +1,3 @@
-This film is absolutely terrible. It has very little plot, the characters are two dimensional & boring. I expected better from Thora Birch - luckily for her, she was only a supporting character. The film tries very hard to be a "Heathers" for the next generation, but it fails on every level humanly possible. A complete waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b01d4491475ab1fdbe8d541a995a283a02d9840d538b9490f9cdf32bc70afa
+size 335

@@ -1,1 +1,3 @@
-For over 40 years I have read and re-read "The Complete Sherlock Holmes", and have never found an adaption as far from the original as this one. Even the patriotic versions of the 40s with Basil Rathbone and Nigel Bruce are better than this. I gave up after 25 minutes. The only thing close to Conan Doyle's creations are the names of the main characters. Holmes is rude to Watson, who was a friend of Holmes. Here, Watson is portrayed as an annoyance to Holmes. Holmes looks around and announces results, without any of the explanations of why. There is nothing of the atmosphere or feel of late 19th/early 20th century London found in Conan Doyle's work, except maybe fog. This is modern day tripe dressed up in Victorian clothes, or as Holmes might have put it, "The curious incident of a pastiche in the night!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28df3300ffcec394220331b1167a221b9690e5fdd2222e112741c3b1b3df584
+size 815

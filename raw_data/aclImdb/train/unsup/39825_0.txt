@@ -1,1 +1,3 @@
-"Bad Boys 2" takes all the personality, originality, creativity, and humor of "Bad Boys" and buries it in a disjointed mess of mindless, stupid, over wrought nonsense. This is such an awful mess I can't find the words to describe how bad it is. However, "abortion" and "clusterf**k" do come to mind. (D)
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea8b0d1592d82725ab917fef9b621a934a1303c62f97f5a6676c1281ec5c00c
+size 303

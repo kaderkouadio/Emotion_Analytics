@@ -1,1 +1,3 @@
-Difficult to call The Grudge a horror movie. At best it made me slightly jump from surprise at a couple of moments.<br /><br />If one forgets the (failed) frightening dimension and looks at other sides of the movie, he is again disappointed. The acting is OK but not great. The story can be somewhat interesting at the beginning, while one is trying to get what's happening. But toward the end one understands there is not much to understand. "Scary" elements seems sometimes to have been added to the script without reason...<br /><br />So... (yawn) See this movie it if you have nothing more interesting to do, like cutting the carrots or looking at the clouds.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf64933be2f2c5b1e29d40e85029b5dd3cdaad9f94f518ae09e23f5e1dfec83
+size 663

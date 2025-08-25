@@ -1,1 +1,3 @@
-This is a really amazing story and the most amazing part of it all is that it REALLY happend! In case you haven't noticed: it's based on a true story.<br /><br />(Possible spoiler)<br /><br />Imagine the shock and horror of discovering that your own father was once a SS officer in WW II.<br /><br />It's a very intriguing story and I'm really surprised the movie is rated a lousy 5.3 here on imdb.com.<br /><br />my rate: 7
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffceeb51ebb98f2302158cc07add8042f1e636f529cc24ab992aa9c28fc9f079
+size 424

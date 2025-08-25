@@ -1,1 +1,3 @@
-This is by far the worst movie I have ever seen, and I enjoy watching bad movies. There wasn't one scene were I can walk away saying: 'Well, that wasn't too bad.', because I can't lie in this review. First off, the child actors are by far the worst possible, the casting crew was either drunk or mentally handicapped. They probably cast them if they looked the part. Secondly, there are enough clichés found in this 'movie' to make a grown man sick. There is really nothing else I can say about this movie. You really have to see it for yourself.<br /><br />There is much entertainment found in this movie; but not in the way the makers intended.<br /><br />In summary; a steaming pile of feces'
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bc4e5ba956e8360c2dbfc966bb0702bb5294ad211ec7b7b630575f5ca9c424
+size 696

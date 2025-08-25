@@ -1,1 +1,3 @@
-Awful, slow, boring, lacking plot, a painful experience and an utter waste of time. See it at the cheap theatre, anymore then a few bucks for this is hi-way robbery. Over an hour before anything happened that was remotely exciting. I can't express how repulsed I am by this movie. I liken it to Chinese water torture; I just wished it would end. I fear when the next poorly delivered line would come. Ruby is hot in her bikini. The only bright note.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6ab0308b129380d75c09a6cab729477f82ea2175c92a4800e8129523c9fe3f
+size 449

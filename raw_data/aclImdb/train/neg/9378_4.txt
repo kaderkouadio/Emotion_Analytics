@@ -1,1 +1,3 @@
-This is another North East Florida production, filmed mainly in and near by to Fernandina Beach and the Kingsley Plantation. I was rather surprised the company was able to take over the main street of Fernandina Beach as long as was necessary to achieve the street scenes. The film is pretty, and pretty bad. Tami Erin is cute, but overacts. Eileen Brennan overacts even more. Good for small kids, or for those who like fluff in large doses. A 4 from the Miller-Movies formula.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ae394044d782185d591990e7646b7427261aa2f3b9f41cad9a7dcf4a60d5b6
+size 477

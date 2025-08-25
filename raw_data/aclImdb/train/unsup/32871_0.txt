@@ -1,1 +1,3 @@
-This was unbelievably bad - the trailer leads you to think "Hey it's another great horror flick" - WRONG!! It was so horrible I couldnt stand it another minute and we left early. Dont waste your time on this one - save yourself and go see something else, anything else!! Watching cars drive by would surely be more entertaining....
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d5c50ba1bd1b06070955e35b30055b10dd2a3276b7b0e1fc110c7dbd29d4d1c
+size 331

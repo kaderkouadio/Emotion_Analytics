@@ -1,1 +1,3 @@
-Sean, you know I think that you are absolutely the greatest actor in the world, but I can't commend you for this. Comedy just isn't your strong suit.<br /><br />However, it wasn't all your fault. Some of the stuff was just too hard to understand. Alfred Lynch did a decent job, but you gotta wonder where the lines came from from the beginning.<br /><br />Once again, Sean... I apologize.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9c3d58570a419c82eeca02832125744fe7cae6f56274c1c4c3b39f17e55dd2f
+size 388

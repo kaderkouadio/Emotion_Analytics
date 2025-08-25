@@ -1,1 +1,3 @@
-I'd like to be kind as this was the director's first film. The trouble is there just isn't anything particularly good to say about it.<br /><br />Well, I'll take that back just a little. The beginning looks good, the musician picking up a gal, and then her getting murdered. But that's about it. From there on, it's a downhill slide of contrived complications, red herrings, swearing inspectors. The swearing in this film was something else again like the British are trying to prove that they can be as foul mouthed as Americans.<br /><br />I won't urge you to skip this. You might have reasons of your own to see it and if you do, all I can say is good luck.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7b55a2b2ec12b1ab9f22fb360db4d3f1c4cae060c6c1f0a3670a360d9e2f1fe
+size 660

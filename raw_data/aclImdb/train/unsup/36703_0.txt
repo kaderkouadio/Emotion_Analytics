@@ -1,1 +1,3 @@
-A romantic mob comedy. Hugh Grant. James Caan. What went wrong?<br /><br />Well, an absolutely predictable script is the main problem. Uninspired, predictable, bland, boring, and only mildly amusing at best. Grant and Caan struggle mightily to elevate the material to something approaching passable mediocrity. Sadly, the script is unsalvageable. In fact, I'm writing this as I'm watching the end of the movie. The only virtue that I can see in having seen this movie is the chance to save someone else from a similar two hours of drudgery.<br /><br />The result is two hours of thinking of better gangster movies. Better romantic comedies. Better Hugh Grant movies. Better James Caan movies. Better movies about art auctioneers. And so on.<br /><br />Easily Grant's most unenjoyable film. Pass on it if at all possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79676aaa6908ed077b818f52ab6df69cdaed3ce71dfb85bf201d47a203d1f53
+size 820

@@ -1,1 +1,3 @@
-This is what James Cagney is all about, wisecracks, cockiness, hard as nails and no-nonsense charisma.<br /><br />Although the plot sounds serious, the film is anything but. It is done in the 30's screwball comedy style and works well with his 'bickering' with fiancé Mae Clark and his reactions to the tall stories of his colleague James Burke.<br /><br />What raises it above normal is the dialogue and the cast that delivers it. Dialogue is good but it is nothing unless delivery is spot on and can bounce about the characters involved. This is done well by all throughout.<br /><br />Good entertainment and thoroughly enjoyable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7715664a88ad697bc60d486f097f1a11e0d2382469ff4ff26e0bf24b920a47b1
+size 633

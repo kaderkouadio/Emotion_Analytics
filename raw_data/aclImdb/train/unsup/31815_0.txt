@@ -1,1 +1,3 @@
-Although it is old, Grease is still loved and watching by adults and children alike. Once you watch Grease you just want to get up and dance! Grease is the story of bad-boy Danny and good-girl Sandy meeting each other over summer break then happen to returning to the same school. There's a great mix of kids, they all are very different and have one thing that separates them very much from each other. There's a great mix of songs too; slow and very fast. Also, the dancing is amazing. The end also blows your mind and just makes you so astonished, but in such a good way. The up-beat fun never stops and makes you want to watch the movie again and again. Grease is a definite must see for everyone!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d934fa258069bf58330aea9e4440373a36ee9438dbc24c48b0a0948ad13a2958
+size 701

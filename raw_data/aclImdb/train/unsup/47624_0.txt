@@ -1,1 +1,3 @@
-The whole Shrek 2 experience wasn't my taste anyway (I thought the original was way better), and this extra they put on isn't as funny either. It sure ain't of the standard of The Shrek in the Swamp Karaoke Party on the DVD of Shrek.<br /><br />All of the major characters can sing a song in this one, judged by no other than Shrek, Fiona and our very own Simon Cowell. But it all just seems so much less funny and spontaneous than the aforementioned Party in the Swamp. As Shrek 2, there's a serious lack of wit, enthusiasm and charm. Well, that's my opinion, anyway.<br /><br />If I had to rate this: 4/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:474bceadf3142136625cf291693ef41c538deee2d79d5060a8a77dce6ccae125
+size 608

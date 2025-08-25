@@ -1,1 +1,3 @@
-Before Nicholas Cage was a big action star, he was a great actor. This lesser-known movie is where Cage gives one of his best performances. "Red Rock West" was a low-budget, almost un-known film, but is one of my favorite movies of all time. I discovered it walking down the video store aisle, and wanted to see Cage and Hopper (Who also is great in the movie) appear together. Go get this one, and I'm sure you won't be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:004ec785f53242a0bd49d2fd9070a44a76ad9a834b1c1b7dc21c35255a65c593
+size 434

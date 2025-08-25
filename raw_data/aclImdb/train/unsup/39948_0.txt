@@ -1,1 +1,3 @@
-It's not possible to watch this film objectively if you've read Hugo's masterpiece. The creators of this flop obviously had no understanding of the characters and barely included many of them at all. Eponine wasn't anywhere to be seen, Thenardier, Gavroche and the priest were only token inclusions and the death of Gavroche doesn't move us at all because we hardly know who he is. Marius is changed from a shy and reclusive young man into the daring leader of the revolution, Cosette to a painful teenager. They couldn't even get Valjean right as they didn't understand that he would never slap Cosette or smash Javert's head into a wall. The portrayal of Javert and Fantine are the only redeeming features of this mess.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30bee38dcd7efcc53cf7d547d4c53d0809e508ce76ba69e0e9c20cd95e8cb9ea
+size 721

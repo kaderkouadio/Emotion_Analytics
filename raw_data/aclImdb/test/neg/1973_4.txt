@@ -1,1 +1,3 @@
-A pretty transparent attempt to wring cash out of the thriving British club scene, Sorted is a film that shows promise in certain departments, but does very little else. A perfunctory thriller plot (which is there merely to string the club sequences together), variable acting and a pretty ludicrous script, all stop Sorted from being the showcase that director Jovy obviously intended.<br /><br />However, although Jovy is sometimes over indulgent (especially when using the often ill-fitting dance music) he does show potential, and the lack of an anti drugs message is enormously refreshing. Overall however, the film is a wasted opportunity, and the prospects for a great clubbing movie remain out there somewhere. Watchable nevertheless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6516b79a706574ad6e7cd0608488a09d7126e11bc6e5d77040d03a3277b79eb
+size 742

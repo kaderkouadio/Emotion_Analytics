@@ -1,1 +1,3 @@
-This was an attempt toward a romantic comedy, and one which did not work. Although the film was cast in an interesting manner, the dismal script betrayed the best efforts of all. The director's fey mannerisms may have succeeded if he had adopted a point of view. It was embarrassing to watch William Baldwin and, in particular, Armin Muller-Stahl.
+version https://git-lfs.github.com/spec/v1
+oid sha256:babfa48e3298bf6ede6c590574c81c84a6fd7c731aeedf0d503ccb3553f9d6ce
+size 347

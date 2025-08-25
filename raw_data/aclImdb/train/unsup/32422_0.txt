@@ -1,1 +1,3 @@
-I saw Kat yesterday and it was presented by the instructor who told us about the movie and wished us a "unpleasant" experience. He was right - it was unpleasant. It had no story, yet the actors were OK, they used cheap tricks to scare us, some were unwillingly funny as the computer graphics were plainly horrible. The worst movie I have ever seen in a theater.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2556908f39fc1508adbf9d4846634ab68ca1d787ffd36340381eb4f218d95703
+size 361

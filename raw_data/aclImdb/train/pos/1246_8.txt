@@ -1,1 +1,3 @@
-The premise may seem goofy, but since Murphy's character doesn't take it seriously, it helps ease the audience into this mix of mysticism and modern-day hard-boiled child abduction. Excellent cast, particularly Charles Dance and Charlotte Lewis, and Murphy is at the height of his 80's peak in comedy/action. There's also some great F/X, a very surreal dream sequence, and a fairly original plot. Often overlooked in the pantheon of Murphy flicks, but this one is worth a look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a35df6c2adf4462766f894ecc9ba9ffbf82e74986887763db2c9cb466a425f6
+size 477

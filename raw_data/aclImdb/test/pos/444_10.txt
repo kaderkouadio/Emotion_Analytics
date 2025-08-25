@@ -1,1 +1,3 @@
-Uncle Frank is everyone's uncle. This documentary covered all aspects of aging in America, the lonliness, the humor, the irony. Uncle Frank and Aunt Tillie were supremely generous in sharing their life experiences with the audience. The director did an unbelieveable job of capturing the small and large pieces that made up their lives. Thanks to everyone who helped in making this film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0611fc640f17516422008dbc86149c3fc9fc0e11c6aa4f0d70ce44f5f74f260c
+size 387

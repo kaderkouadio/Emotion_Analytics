@@ -1,1 +1,3 @@
-"Graduation Day" is a result of the success of "Friday the 13th." Both of those films are about creative, bloody murders, rather than suspense. If you enjoy that type of film, I'd recommend "Graduation Day." If not, I wouldn't. There's nothing new here, just the same old killings.<br /><br />Even though I've given the film a 4 out of 10, I will say that it's not a repulsive film. It is watchable if your curious about it, just not creative.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa11a6a6ea80e760ba62528350180649f167fd2e7ba13d40e3096ef6252fb40
+size 443

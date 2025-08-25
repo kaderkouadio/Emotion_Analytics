@@ -1,1 +1,3 @@
-Sensitive, extremely quiet paced love story between a married journalist and his young and atractive neighbor, she too also married. They lived their love for a time but the obstacles and the fear of hurting their families and children invites to a separation. A reflexive look on delicate question like love, friendship, honor and loneliness, always present in human lives, whether you are an American or a Chinese. I give this a 7 (seven)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e399f1efd66e0f64a2893c6e817eb45e5e990a79332d6aa61eede0c419809df
+size 440

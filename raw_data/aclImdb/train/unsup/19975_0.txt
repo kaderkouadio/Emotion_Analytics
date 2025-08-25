@@ -1,1 +1,3 @@
-Being a Bills fan, I originally found it annoying that they made a movie about the Bills and the losing of four superbowls. But once I began to watch, I felt really connected. It was actually nice to see the "Bills" win the superbowl, and I must say, that for a TV movie it was actually very well done. Gil Bellows as the QB, and Jon Voight as the old-school Coach did a very fine job. 8 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dbffa5ddba7d141986ab5d621eb2e23a28aec540d12e890759d85cb0adcf4e3
+size 397

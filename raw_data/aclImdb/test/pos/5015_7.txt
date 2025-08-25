@@ -1,1 +1,3 @@
-This movie was well acted and kept my interest in the main character for the entire movie. Stu Unger lived an extraordinary life. Imagine if Stu were alive today! This movie paints a picture of what Stu Unger's life might have felt like. It was interesting to see how connected was growing up. I would have liked to seen more detail on Stu's partying, his gamesmanship and his relationship to Bob Stupak. But all in all, this movie was well done, well acted and the story touched on many facets of a life that was full of many events that were larger than life.<br /><br />This movie is worth renting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d86af81b670f66adb8c7d4e32c1763be4c75dac30256f52ffb04cb23fb72c796
+size 601

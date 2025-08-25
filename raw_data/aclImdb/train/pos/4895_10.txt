@@ -1,1 +1,3 @@
-It's rare that I sit down in front of the TV specifically to watch a particular programme. It's even rarer when I actually enjoy the programme in the end, but Last of the Blonde Bombshells was one of the best movies I think I've seen.<br /><br />A remarkable cast, led by Dame Judi Dench and Ian Holm, and an excellent, witty and poignant script combined to make it a truly rewarding experience. I can't really express how good I thought it was, so I won't try, I'll just say, if you get the opportunity, PLEASE SEE IT!!!! I only hope it comes out on video.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1458428cf1b5c97110bf152eabdd36a1bccf5b0f9deeae654cb243ce2be0383a
+size 557

@@ -1,1 +1,3 @@
-This low budget crocodile movie really delivers the goods. The fact that it was inspired by true events would mean little if you wound up with a fake looking crocodile, bad C.G.I., or an obvious studio setting. Fortunately none of the above are involved with this terrific, very realistic film. The crocodile is real, there is no C.G.I., and the on location filming takes place in an actual Australian swamp. The actors were obviously inspired to create as much realism as possible in their performances, and they succeed. You can place yourself in their predicament, which is testament to how realistically "Black Water" translates as entertainment. Highly recommended. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:d340810c244a0807a050e674659fe3e05c90a7f9f9f7f7975bcb1e424e40c352
+size 677

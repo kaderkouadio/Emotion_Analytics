@@ -1,1 +1,3 @@
-wow it realy makes a change to see a quite lowbudget non cinema release movie thats this good its full of suspense and to be quite honest (some may not agree) the sfx are very good the spider is very well computerised and looks very very realistic the only downfall is when it gets to the size of a building the spfx arnt bad but their not very good but thats expected with these kinda films anyway rent or buy it it is actualy quite good<br /><br />7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:974d200438ec962590a60d32fb5fa6c872f2673e2d51368d7b4ff860115a88ee
+size 454

@@ -1,1 +1,3 @@
-The theme is controversial and the depiction of the hypocritical and sexually starved india is excellent.Nothing more to this film.There is a lack of good dialogues(why was the movie in english??). There was lack of continuity and lack of passion/emotion in the acting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eacccf9c8b32c65574d869e139be8aeedf5154d5e7397b60872930b695a3ac0
+size 269

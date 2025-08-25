@@ -1,1 +1,3 @@
-I love this movie! I've seen it about four times, and every time I see it, Ramon Novarro gets cuter and cuter. He portrays the lazy and carefree islander to perfection, and Renee Adoree's performance is as heartbreaking as that in THE BIG PARADE. As a big fan of Donald Crisp, and used to his roles as kindly father figures, the lech he portrays in this film is a bit jarring, but he does an admirable job, considering he was really a big-hearted marshmallow. One of the greatest films in the twilight of the silent era.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c48a4cdc49763da8323b52d0e6d6fa96eb8205483c0b389da1d01afd3a8bcc8
+size 520

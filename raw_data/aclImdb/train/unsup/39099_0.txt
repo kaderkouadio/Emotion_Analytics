@@ -1,1 +1,3 @@
-This movie was very boring. Perhaps I saw too many cartoons about this story. I kept waiting for something to happen, but nothing ever did. Do not expect any suspense. This was more of a documentary than anything else. Don't waste your time, watch a cartoon about this story instead. Robert's accent was really bad and the acting by both leading actors looked as if they were thinking of something else and were really bored when they were making the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8f6e81f184d4f071b087e128050a2fbabce18250c3257754e4af93faaf1ea87
+size 456

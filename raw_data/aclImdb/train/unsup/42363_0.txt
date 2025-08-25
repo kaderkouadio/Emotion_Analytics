@@ -1,1 +1,3 @@
-Here we have a complete perversion of Jules Vern. Instant of Conseil we find professor's Arronax ...daughter(!),who is the apple of discord between a terribly bad captain Nemo and Nent Land. The only thing worthing attention here are the fishes.Trully.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c6f38e491f862f64f6df6d8ce9a72926732f434354951d87d2ad932d156fc2f
+size 252

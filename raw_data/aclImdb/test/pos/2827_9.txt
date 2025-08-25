@@ -1,1 +1,3 @@
-Best Robot Romantic Comedy Ever, using the robots as the romantic characters, which leaves Short Circuit out of this category. This was Andy Kaufman's best effort. Bernadette Peters shows her versatility here with an amazing performance. While not a great movie in many areas, I'll award it a 9 on guts and quirkiness.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fea3ce4f024098d4c259b4f606255ea10c5121c0bdb68db5a795bd7a95e8e8a
+size 318

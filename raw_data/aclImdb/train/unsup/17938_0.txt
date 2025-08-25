@@ -1,1 +1,3 @@
-Mucha Lucha is a really good and difrent series made by Lili Mort and Eddie Chin. It's not everyday that the wrestling style of Lucha Libre is showcase like the way it is in the show. The fact that anyplace at anytime a ring would pop up and the wrestlers do slick, unreal moves. Other than that The Flea and Snow Pea make this series a hit. I hope Kids WB' keeps this show on for quite a while.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4454d7c8c3d277bf2eebf5b3221d53ffff1fd2530100dcd9d83b48cfa51c71f7
+size 395

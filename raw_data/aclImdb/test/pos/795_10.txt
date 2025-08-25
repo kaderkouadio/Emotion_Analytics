@@ -1,1 +1,3 @@
-Along with Cops, The Goat is one of Keaton's two funniest shorts. Which makes it one of the best shorts ever made. This has an decent "plot" for a short, and it forms a perfect line on which to hang some great gags. Keaton is mistaken for an escaped convict (how the mistake happens is a classic) and then must elude the authorities. Best gags - the bread line and t he "elevator".
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7d89fb3e8ef688187610ed70a8ac2f45425dd01c6c4517857604796c18ebde4
+size 381

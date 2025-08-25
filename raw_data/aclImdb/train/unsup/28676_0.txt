@@ -1,1 +1,3 @@
-Gypo is an interesting British film, once again proving good stuff doesn't have to come from Hollywood. A typical(?) British family lives a life of lies and deals with things as best they can until they meet a Chec mother and daughter who change their world. Gypo is apparently Brit slang for Gypsy/immigrants. This film proves that people all over the world are intolerant of others and are hypocrites. A couple of unexpected story swings made it a little more refreshing than the often mundane screen depiction of the disintegration of a family. Since the film took the same story from several points of view, it allowed you to better understand the characters background. I was glad that they really segregated the stories, otherwise it would have been confusing. All in all a good dramatic film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75ac6f7d5331bee8447382f6e2d2f7104326f5802afbaf7e614549bb4205264
+size 799

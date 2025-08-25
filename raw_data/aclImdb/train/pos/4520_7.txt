@@ -1,1 +1,3 @@
-Somewhat too long and going over the top towards the end, this comedy is an utterly delightful, never condescending or ridiculing look into the problems of a "power man", who likes to wear women´s clothes at nite.<br /><br />Julie Walters is lovely as always, but Adrian Pasdar is utterly credible and steals the film. He (she)is absolutely gorgeous in high heels and silk stockings.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5927ae0dfb6be7de102f1eed522ae7f5e80c48716a412aae018eb78d6549194b
+size 384

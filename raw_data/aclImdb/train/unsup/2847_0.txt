@@ -1,1 +1,3 @@
-This one absurd scene describes this movie at its best: Young woman, sleeping in her bed. Door of her room opens. Strange man walks in and steps into her bed. She wakes up in a state of shock. Man puts hand on het mouth and says: ssssshhhhh... it's ok, don't worry! It's only the ticket taker...
+version https://git-lfs.github.com/spec/v1
+oid sha256:40a6b9b63bef802913d34c4c08f3a3b9295cc1ddd0938b1716715c90a7fc1d8d
+size 295

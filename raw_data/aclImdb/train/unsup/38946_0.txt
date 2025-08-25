@@ -1,1 +1,3 @@
-<br /><br />From the onset, this film was bent on destruction. Even in one's wildest imagination, Kansas doesn't come close to resembling the scenery in the film. When this much liberty is taken with the scenery, one might also wonder how it fared with the plot. Weaker than the cast. I fell asleep 3 times before I finally gave in and put on another movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9bed2990d9a09e9b89c2ede36fe9ff6c86facd4ea80a5b12274fb27d84605f7
+size 357

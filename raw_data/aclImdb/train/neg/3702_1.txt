@@ -1,1 +1,3 @@
-irritating, illogical flow of events. pretty much every joke is so simple that it can hardly be regarded as one. no wonder the cinema was empty and people actually walked away, yes away. I stayed, since I was enjoying a wonderful ice-cream with nuts during the whole movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dac36f2fb7f9d655305f7bbe79b4cb19e822a449cd998ed30a1e736a90d752e2
+size 273

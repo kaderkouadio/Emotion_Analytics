@@ -1,1 +1,3 @@
-I bought this movie for 99 cents, hoping that it might provide some entertainment to get drunk to. But it wasn't funny, just boring. So, rather than partying the night away with cheap-o aliens, my friends and I mostly just fell asleep.<br /><br />I stayed awake through all of it, but man was it painful. I don't think anything actually happens in it. All I remember is a bunch of confused guys in a cabin, some echoey voices on the radio (that I think are aliens), some red lights, and at the end everyone falls asleep in the snow (much like my friends, but without the snow).<br /><br />This movie sucks so much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79a275e4fb978001d6c25bb7ee2f112dcdecab6222e42c3d344b3c132f6765f7
+size 614

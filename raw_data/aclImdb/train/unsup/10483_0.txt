@@ -1,1 +1,3 @@
-This semi-biographical tale centres around a down on his luck, yet charismatic bar fly, set on his way to self destruction. Buscemi'second self directed/penned feature is slower paced than some might expect. This in no way detracts from the overall brilliance and charm that trees lounge conveys. Tommy's character, while on the surface, demands both pity and sympathy. It's in his anti-heroic attributes ie. selfishness and callousness, that make the film so human and believable. American releases as passionate and warm as Trees Lounge do not come around as often anymore, with only The Station Agent coming close. So enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d42471baecf7afd9a0091bb3531ee4535e6696b2168cce3d6428029af53f7f09
+size 627

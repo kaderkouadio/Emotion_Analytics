@@ -1,1 +1,3 @@
-We couldn't tell if this movie was designed for little kids or kids and undemanding adults. It was a mess for sure. Kiddie plot, grainy and cheap production values and a lot of very bad overacting. Daphne Zuniga and Jack Wagner actually looked embarrassed to be there. Even for PAX-TV this was a low-brow entry. It looked more like a Disney Channel Saturday morning show.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ec1f4e955bd37a47c5cb83dc43ffd9b5ffe7ba6467687ff97b8b01d172bf3a8
+size 383

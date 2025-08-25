@@ -1,1 +1,3 @@
-It is not the same as the other films about dancing. A few normal people found themselves from dancing. Unlike the dancing films in Hollywood, the characters in this film are not handsome or hot young people. They are someone that you may see everyday in your offices. They are some depressed about their lives and finally find themselves and their dreams from dancing. This touches me very deeply.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89ef6ee3a05a231155443158c243a8ad72f79e22b19e41d07df8552edd02e1d6
+size 398

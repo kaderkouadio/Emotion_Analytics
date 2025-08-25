@@ -1,1 +1,3 @@
-The auteur of "Prince" manages to take an excellent cast, a decent story, a mediocre script and carefully assemble them into one boring, monotonous, amateurish mess. In spite of a strong central performance by Frank Nasso, the Prince, this disjointed film wanders aimlessly from scene to scene, painfully disintegrating into hash. The result brings a sigh of relief at the end where the tears of joy should be. A sad waste of time and talent and a good example of how NOT to direct a film.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:e27bf45894cff3a651cb0a3d4979ffae49f8639f0f0b8abf729ffe79c89b0423
+size 501

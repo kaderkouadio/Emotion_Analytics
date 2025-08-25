@@ -1,1 +1,3 @@
-SPOILERS AHEAD.<br /><br />Charlotte Rampling gives a marvelously understated portrayal of the fragility of a woman who has lost the central pillar in her life.<br /><br />Her reaction in the mortuary scene provides a fine example of her skills as an actress.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bce731cb402ddb5a506510b1b8a467224738f4795974bc28f119ddecc9d487b6
+size 259

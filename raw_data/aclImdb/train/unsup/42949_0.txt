@@ -1,1 +1,3 @@
-This is surely one of the worst movies ever made. A comedy without a single laugh. The stupidity of the script, blame Charles Grodin for the entire film, is amazing. Steve Martin's performance was low, even for him. In short, awful and without redeeming features.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccff4e02dbfeaa2d3a7d6a91027d23b5c4eeafb9be36f1692353ed5b42646b63
+size 263

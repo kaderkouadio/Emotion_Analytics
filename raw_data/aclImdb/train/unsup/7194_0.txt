@@ -1,1 +1,3 @@
-They showed this movie to us in school when I was 7 or 8 years old and it was just so sad. Having grown up in a rough part of Chicago I connected with the settings and characters in the film right away and this film has stayed with me for the last 38 years. The film pulls you back and forth between joy and sorrow. between anger and sympathy. It will pull at you heart only to be devastated at the climax of the story. Even the villains in the film seem to realize what they have done and they suddenly go from being characters to hate to just people playing their role in the urban jungle. There are some very valuable lessons to be learned from this film for people of all ages and I would recommend it to anyone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f9b8a3f1191a9c8db4596a0a0d2696e9b60d03cdac77b1f2931c1f48c0b71a4
+size 716

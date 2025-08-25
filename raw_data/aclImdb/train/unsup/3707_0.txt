@@ -1,1 +1,3 @@
-Wow, is this bad film. You'd think with this cast it would be a great one. But you would be very wrong.<br /><br />With lines like, "Have some raisins." Or, when Gregory Peck asks Martin Landau how many men he has left in Love Company. "Twelve." And then a cannon shell blows up 2 of them. "Bring along your ten men", is Peck's response. What depth. What compassion. This film is surely laughable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f880602fdc16d1490a722ee7436c0a19c450f859864c490dd84f9d9d97e7598
+size 397

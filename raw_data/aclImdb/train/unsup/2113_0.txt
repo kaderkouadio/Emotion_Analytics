@@ -1,1 +1,3 @@
-I've seen this three times. Each time I have enjoyed it even more. In my opinion it is truly the best animated movie of 1998!<br /><br />The special effects stunning and the character design refreshing. All in all, Dreamworks has a winner. Not bad for a crew that comprises mostly of very talented European Artists who were not all poached from Disney.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abcdde5325874cfba00a4c33caa8dba4d08e4c172d7733fe61236f74211cf024
+size 352

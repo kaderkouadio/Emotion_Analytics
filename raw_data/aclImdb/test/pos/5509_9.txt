@@ -1,1 +1,3 @@
-I don't understand where these bad comments are coming from. The movie had you on the edge of your seat and made you somewhat afraid to go to your car at the end of the night.<br /><br />The part that gets you is that this could all happen. Not to the extent perceived in the movie, but the whole idea is reality. This movie took that reality and twisted it into a Dee Snider nightmare.<br /><br />Three thumbs up (the third one is from the dead body in my freezer).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6aa897e9786b9b910fa94e16a06e28aebc17139decd3290d66f3c65d9953a7
+size 466

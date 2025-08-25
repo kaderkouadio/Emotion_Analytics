@@ -1,1 +1,3 @@
-The price of a dream - and some dreams can be "too" expensive.<br /><br />Only having viewed the English-translated version, it is perhaps the reason for a low rating from this viewer.<br /><br />It made the overall film poorer than the story material hinted at...<br /><br />...and other comments seem to suggest the subtitled version would be better.<br /><br />But some plot elements remained unexplained, leaving an unfinished feel.<br /><br />It also leaves the thought "is there a series to follow?".<br /><br />A pity there was no more (at this stage at least, anyway).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c903906b908008ed6ce2a0009c7898d64245df23210af69cdee9821c96ce3727
+size 576

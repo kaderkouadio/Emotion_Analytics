@@ -1,1 +1,3 @@
-I am a huge fan of David Lynch. This film, however, was a quite disappointing experience. Apart from the ambient background music  which really sets the mood of the film  it lacks almost all the qualities that I've come to associate with Lynch's work. The visuals are dull, to say the least, and the dialog is to vague and monotone to be of any interest.<br /><br />This feels more like a film students awkward try to do an arty dogma movie than the work of an experienced director. I've seen a lot of amateur movies with far superior camera-work, scenery, sound and script. This film lacks almost all artistic qualities. I feel as though I'm watching one of Davids home videos, produced during a weekend trip with some friends.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1da2cf3d4ef36ad7dc6a18c6b25812e2dc50da29967a85411bac7fdeb6ba78b5
+size 732

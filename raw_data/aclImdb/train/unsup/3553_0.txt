@@ -1,1 +1,3 @@
-I saw this movie on TBN, when they were playing it in honor of Nora Lam, of whom this movie is about. I totally agree with the message of this movie, because it gives hope to Christians who feel pressured by society, and it also shows Christians in America, that they should be thankful for the religious freedoms our government allows.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec132b9cd38b7dc5b322257965b14d600d1485e571dfce22371a8c6513892627
+size 336

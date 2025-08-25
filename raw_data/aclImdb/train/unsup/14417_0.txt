@@ -1,1 +1,3 @@
-Fascinating Cassavetes work has Ben Gazzara playing Cosmo Vitelli, a California night club owner who, after racking up a huge gambling debt, is given the opportunity to clear it by killing a Chinese bookie. Cassavetes's distinctive style allows for a raw emotional feel that couldn't have been captured by any other director, and, like A Woman Under the Influence, it puts the viewer directly into a very real world populated by very real characters. However, at points the film loses itself amid some of it's lengthy, nearly plotless sequences. Necessary viewing for Cassavetes fans  people looking for a straightforward story should look elsewhere. One of the truly unique creations of 1970s cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:857b5b9c353ec14ca8eea77ac518e74911db5dc55d380d5c3419924d8b00288a
+size 703

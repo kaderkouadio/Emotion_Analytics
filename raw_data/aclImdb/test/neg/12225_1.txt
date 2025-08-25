@@ -1,1 +1,3 @@
-This is the worst movie I have ever seen. If I wasn't watching it for free, I would have never finished it. The creators of this film should be ashamed of themselves. It seems like this is supposed to be a film in the vein of Scary Movie and Date Movie (a terrible movie, but 10x better than this one), but failed miserably. The only jokes in this movie seem to be based on slapstick. A guy falls down, someone gets hit by a bus, etc. None of the ideas are clever, basically the worst premise for a movie ever. The plot (or lack thereof) is completely retarded. The plot seems to center around the coach and his family, however there are so many other things going on in the movie it is completely ridiculous. Terrible, terrible movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ce481eb78de1ca015029d944fab9ce12b3dd02c7069bc3d00846f86837d717
+size 735

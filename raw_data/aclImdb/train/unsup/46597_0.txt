@@ -1,1 +1,3 @@
-She acts, she sings, she models, she produces! This is a live action movie based on a silly cartoon. Spy spoof movies are plentiful and generally don't have the best reputation. This one works as a takeoff of a popular cartoon. It is not, however, about the moose-and-squirrel. It is about Sally Kellerman. If you want to enjoy this lanky bombshell at her best, this is the place to be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5a2d83b812617e0e3cb9517ffa0edebae36f945058558c8898cc7455a910d0e
+size 386

@@ -1,1 +1,3 @@
-The story is not an important as the chance to see Bela Lugosi acting. He played Professor Leonide, a strange character, in his only color movie as a star.<br /><br />Former Olympic wrestler Nat Pendleton provided the comic relief as a dis=graced police officer desperately hoping someone would get murdered so he could solve it and get back on the force.<br /><br />There were no really scary moments, as the film is mainly concerned with who is causing havoc that eventually leads to murder, and the list of suspects includes just about everyone.<br /><br />Oh, we know that there will be a murder as the story is told in flashback.
+version https://git-lfs.github.com/spec/v1
+oid sha256:969723b0a9a1f8b8e3c659f0cab2b80ab1dd044d8226c47e24ee90fc2a16b8ba
+size 634

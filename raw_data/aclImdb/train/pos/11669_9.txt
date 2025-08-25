@@ -1,1 +1,3 @@
-Being the prototype of the classical Errol Flynn adventure movie and having a good story as well as two more brilliant co-stars in Maureen O'Hara (what an exquisite beauty!) and Anthony Quinn, I can only recommend this movie to all those having even the slightest liking for romance and adventure.<br /><br />Hollywood at its best!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0447e69f827b5b518964db3e0c79233242ddd1430b5dd982c707e9c6b8bf1928
+size 331

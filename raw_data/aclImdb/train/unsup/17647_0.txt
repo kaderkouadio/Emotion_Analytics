@@ -1,1 +1,3 @@
-Dealing with an autistic child, his demand for the family's attention, and their inability to focus their lives on anything other than this child. Realistic rather than sentimental, an unpleasant topic successfully presented with first-rate editing, acting and direction. Kirstie Alley, as the child's harried mom, comes up with a mesmerizing and utterly convincing portrayal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da4c46f3247374a0a607abef97441d6529167832e6fafd1b1e04aceeb6fe393
+size 376

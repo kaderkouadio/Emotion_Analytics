@@ -1,1 +1,3 @@
-Okay, I'm speaking out of my hat here. I was only three when this aired and I don't remember having seen it, but I do have the cast album and it is tremendously good.<br /><br />I can only imagine what it must have been like to see Edward Villella dance. Goulet and Howe are perfect leads, and Tommy Carlisle has a delightful tenor.<br /><br />This must have been recorded for posterity. Why on earth it isn't on DVD... <br /><br />Recreating it as a dance vehicle for semi-singer Gene Kelly and non-singer Cyd Charisse may have seemed like a good idea, but this one needs a singer's treatment, and the TV broadcast should be available.<br /><br />Whom do I write?
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f7db03f95ed3eadc3f4374851d65d0992e75fca8d7ebdf5a8cae9e9ff9737d0
+size 664

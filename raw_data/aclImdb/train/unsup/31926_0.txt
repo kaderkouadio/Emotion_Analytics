@@ -1,1 +1,3 @@
-Royal Hunt of the Sun has been called a cult classic. Maybe so, but for me it was an incredible movie with top notch actors. The film takes a different approach to Pizarro in Peru than one would expect. The mental conflict makes for a fascinating story line as well as a riveting performance by Robert Shaw and a jaw-dropping characterization of a Sun god by Christopher Plummer. It is truly a unique movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:990b40575e79d4dc8db9a055904be98cd929f3bb2aa0306419fa6ba5ea30b215
+size 407

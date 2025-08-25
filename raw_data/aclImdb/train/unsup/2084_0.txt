@@ -1,1 +1,3 @@
-Probably the best film adaptation of a Steinbach novel that Hollywood ever managed. East of Eden doesn't make it since Kazan used less than a third of a towering novel.<br /><br />Of Mice and Men is a profoundly moving story of people caring for each other during a very difficult time in American history. Lon Chaney, Jr. does the best work of his career in a deceptively demanding role. The one sour note is the bewilderingly hammy performance by Betty Field.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c410309516a546015c2ec51f883caa1476b4d7662183e66923d41b20aa38048
+size 461

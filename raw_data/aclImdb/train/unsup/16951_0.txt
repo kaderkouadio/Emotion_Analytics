@@ -1,1 +1,3 @@
-This is the absolute best movie about the first five years (1959-1964) of the American involvement in Viet Nam ever made. If you want excitement and fiction, watch Rambo or Chuck Norris. If you want to see how it was (or as close as Hollywood gets to it), watch Go Tell the Spartans. People should understand that most war involvement consists largely of waiting and fighting - often a lot more waiting than fighting...
+version https://git-lfs.github.com/spec/v1
+oid sha256:900cf3b2bc73aac71672dbd578bae6e59bcb6b641a093f168f24945e83a4d604
+size 419

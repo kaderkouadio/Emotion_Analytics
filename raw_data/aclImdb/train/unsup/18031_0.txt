@@ -1,1 +1,3 @@
-Neon Maniacs,great movie by far one of my top 5 greatest films.The movie is so great because of the great original plot and characters...have u ever seen a movie when maniacs are killed by...water?No then check this out.I love alot of movies this definetly is one of them and its also hard to get so if u ever find it get it because even if u didnt like it its one of those movies when u cant not see it and u have to judge yourself!
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb6c89f4661eedc3fe8d611b9342e267f99475582b74ce1328acf793f70aa0c
+size 433

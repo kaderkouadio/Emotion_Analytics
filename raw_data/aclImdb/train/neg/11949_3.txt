@@ -1,1 +1,3 @@
-This dumb comedy really does a good job of wasting comedic talent. In particular, Dan Aykroyd and Howard Hesseman are misused badly here. I might have chuckled once or twice during this film, but in general, it's a boring movie, with a little bit of stupidity thrown in for good measure. The premise, although routine, still wasn't bad, but once the plot was set, the film went nowhere. Don't waste your time with this misfire.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d8ba34d28df048b20448e5724c4a249ab675220b5da5e098cb9a71b709b1e06
+size 427

@@ -1,1 +1,3 @@
-A game rarely comes along that spawns many a fan and "successful" sequels. Monkey Island is at the top rank (When it comes to Computer games, that is). What you might think of as a rough, violent pirate game, totally turns away from it from the moment you enter the bar. (You'll see if you play). Laugh a minute and unpredictable, Monkey Island gets 11/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dddbf5f202181c66e00a08bd817a69e197c8aab71c76a3be946645f110069749
+size 356

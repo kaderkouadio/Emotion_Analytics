@@ -1,1 +1,3 @@
-My 10 year old daughter and I both nodded off during this movie. My 8 year old liked it, though. Awful dialog, awful story, awful animation. . . Just awful. I thought it couldn't get much worse than The Cat in the Hat. I was wrong - very wrong. Straight to video would have been too lenient. It should have gone straight to the garbage dump.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30241f57602f130d7a292419ab2cd82f3610bb07052e57522b2b634307cb2403
+size 341

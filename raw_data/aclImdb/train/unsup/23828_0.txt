@@ -1,1 +1,3 @@
-Congrats, this was the worst movie I was ever unfortunate enough to see (and I've seen a lot). Acting sucked, script sucked, and if there had BEEN a plot that would have sucked too. I don't blame the actors, they didn't have much to work with. This just stumbled into every single trap it could have stumbled into. The kicker? The *ending*...what the hell was that?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9664f1cbb3872ef6267539741ad690125c307f1540cff6b6bda2f7df16b7278
+size 365

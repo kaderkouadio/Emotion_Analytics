@@ -1,1 +1,3 @@
-So, this starts with at least an interesting and promising basic idea, goes on and on with tension, Carey in a good untypical role but in a less than you expected performance, weak direction from Joel Schumacher match with some plot holes, the "detective scenes" show us the luck of creativity. If you don't have great expectations (because of the negative reviews) maybe you will enjoy this . At the end they offer to us a lesson about morality (for those who remember "Falling Down") and the "Family Joy and Cure" that ruins every possibility to be kind and find the film watchable P.S. It's obvious who is the "killer"! I wonder why W.Sparrow (Carey) didn't resolve the mystery from the beginning of the film...
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0a387153e5a32730214933cf17cc766f9fd984176b5775402b47c8a1f498773
+size 714

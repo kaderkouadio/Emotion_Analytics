@@ -1,1 +1,3 @@
-"Heartland" is a wonderful depiction of what it was really like to live on the frontier. The hard work and individual strength that were needed to survive the hardships of the climate and the lack of medical care are blended with the camaraderie and the interdependence of the settlers. The drama was especially meaningful because the story is based on the diaries of real people whose descendants still live there. It was also nice to see the west inhabited by real people. No one was glamorous or looked as if they had just spent a session with the makeup or costume department. Conchatta Ferrell is just wonderful. She is an example of the strong, persevering people who came to Wyoming in the early 20th century and let no hardship stand in their way of a new life in a new land.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84cc49137cdcbb4c128e7b5693327f1a73e92c3285efb1491cc9ed1cf9d06ff6
+size 783

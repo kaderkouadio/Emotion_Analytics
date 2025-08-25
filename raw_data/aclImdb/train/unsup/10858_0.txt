@@ -1,1 +1,3 @@
-The Fury contains a number of excellent scenes and sequences -- Kirk Douglas evading capture in Chicago, the sequence at the amusement park -- but put the parts together and the movie is just too muddled.<br /><br />Keep eyes open for NYPD Blue's Dennis Franz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7775857b07e9f1dd7fd87f6a0bf52c440ecd396f4c0ca800034faf23f52cfe99
+size 260

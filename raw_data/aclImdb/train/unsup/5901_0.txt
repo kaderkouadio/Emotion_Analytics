@@ -1,1 +1,3 @@
-This film started off well but went absolutely no where! At times it threatened to get interesting by dropping hints of a twist in the plot but it lacked the guts to follow it through. The film was linear and predictable, at no point did I feel my emotions change. The plot had more loops in it than a sieve and made no effort to explain anything in depth. The acting was also poor, but given the quality of material there was to work with I doubt anyone could have made it better. Time travel is an amazing ability, you would have thought the writers would have been more creative about the possibilities it could afford a character.<br /><br />Avoid this at all costs, there are better ways to spend 2 hours. If I could time travel I'd go back in time and make sure I'd never watched it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c70f53dda657c67fae65d62369f1c9d27d9a2ae3dd10486c5089a5ca18c2caa7
+size 789

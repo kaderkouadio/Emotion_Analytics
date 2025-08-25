@@ -1,1 +1,3 @@
-I first got hooked on StarCraft from my friend. The day after, I ran out and bought it. This game has a great story, great cinematics, and great units from all the races; Terran (Human), Protoss (Alien), and Zerg (bug-like critters).<br /><br />If you like StarCraft, then I suggest getting the expansion (Brood War). I would be grateful if they came out with a second expansion.<br /><br />I reccomend, again, that anyone who likes good graphics, real-time combat, great story lines, and sci-fi action get this game!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5561142ba187ea947453f03514139c866d74af5053fc543b3fd735b5cdd086f
+size 517

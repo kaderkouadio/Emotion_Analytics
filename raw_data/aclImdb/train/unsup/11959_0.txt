@@ -1,1 +1,3 @@
-Steven Chow has become one of my favorite directors. This somewhat dark comedy pays homage to Citizen Kane, The Godfather, The Shining and The Bugs Bunny Roadrunner Movie. The film has virtually the same theme and setting of "Gangs of New York" and still managed to create likable characters. Even though this is seemingly a more serious film than Shaolin Soccer, it still has the playful humor that made it such a fun movie. <br /><br />Kung Fu Hustle is a great mix of action cinematography and cartoon like special effects. Chow's brand of humor and understanding of new and classic cinema techniques makes him a truly great director, writer and actor. I haven't laughed this hard in a long time. Kung Fu Hustle is what "Gangs of New York" should have been.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb08671675a4c131ade1376c4808b4ff44c18c14995f3fe9b13abb6892b38f68
+size 760

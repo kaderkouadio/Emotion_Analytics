@@ -1,1 +1,3 @@
-I am 66 years old. I have never written a comment on this site. Yesterday I saw the movie with my 23 year old granddaughter. We loved it. Following the viewing, she commented, "Qhen we have hard times, we can remind ourselves of this movie and its message." Most people would have given up somewhere along the way with all of the obstacles that befell him while trying to seek a successful career. He never gave up and Wow!, did it pay off to stick it out regardless of the logs in the road.<br /><br />This movie leaves you with a message you will not soon forget. I cannot say that above most movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a56d0edf3f242afe14852d9d1d058b5fc97212a95ecc140ff96bbe5ca5b76ec6
+size 602

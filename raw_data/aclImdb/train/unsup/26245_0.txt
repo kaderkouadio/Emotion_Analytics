@@ -1,1 +1,3 @@
-A truly awful movie. Amazingly bad from the start to the finish. The Invisible Maniac, Sorority House Massacre 2 and Hard to Die are in a sense a trilogy because they all have Melissa Moore, nudity and bad acting. The other two movies are better than this one. Moore's nude in all three, and all of the other actresses look like they came straight off the corner.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87889dc404a7ed2a5d12ea01572927c1ad8a358f75f2cf8d88d7be2d0c7bb9a9
+size 363

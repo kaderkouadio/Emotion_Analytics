@@ -1,1 +1,3 @@
-Maybe I was to young when I saw it. Perhaps I have not grown up with Grease and Elvis movies.<br /><br />I failed to get it. I get "black" comedy (Black Adder etc.). I get irony and spoofs. I don't get this one though.<br /><br />I made it a quest to find out the name of this movie (enlisting the help of people on usenet and the most excellent IMDb Message Boards) so it could be my first 1-pointer. Awful!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdec3f4ebca8b2de0ed70a2c9aea527e223b63275e0cb77f1c02292ba4fffd00
+size 408

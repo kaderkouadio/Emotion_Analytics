@@ -1,1 +1,3 @@
-For every brilliant movie John Woo makes ("The Killer", "Face/Off") there seem to be at least 2 incredibly bad ones ("Hard Target", "Mission: Impossible 2", and of course this lame piece of **** called "Broken Arrow".<br /><br />while the action scenes are not a total loss, they could have been a lot better. Whatever good action there is, is brought down by extremely poor dialogue, a completely over-the-top bad guy (John Travolta, not as poor here as in "Battlefield Earth", but coming very close), and incredibly boring hero (Christian Slater) and just way too many cliches. Do yourself a favor. Watch Face/Off instead<br /><br />* out of **** stars
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d37f0df360555b48e74d77103400f77c7cda6a3960b45ed5fe04bfb3470a261
+size 654

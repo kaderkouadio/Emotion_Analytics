@@ -1,1 +1,3 @@
-I couldn't stop laughing, I caught this again on late night TV. "I suppose you think you're some kind of hero for bringing my daughter back alive" "No" "Good"<br /><br />haha.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83fb37e3dd0bac43ee085cb22fabbd934aef8757f5a1970d0d478498b8568d41
+size 175

@@ -1,1 +1,3 @@
-Adam Sandler was great and Jack Nicholson was his usual crazy self. This funny, out of character Adam Sandler vehicle was bumpy at best, with a rather insulting Buddhist monk scene and some unintentionally dumb sequences as well as some overly obvious cameos which made the movie campy though tolerably cute. This feel good, though somewhat over the top anger solves anger philosophy ends up with a small twist and a satisfying conclusion. It was nice to see Adam Sandler can act. Both Sandler and Jim Carrey are gaining a lot of respect from me lately. Different, diversionary, insipid in places, but a pleasant romantic comedy. Seven out of ten stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca23bf3426c0d2901fd7d86da082e148fcc09fbdf9dd933fb588437cda9d739
+size 653

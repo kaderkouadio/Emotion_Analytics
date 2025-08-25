@@ -1,1 +1,3 @@
-Forget some the whiny (and pointless) comments left here by some. This series is well acted, well shot, and makes a refreshing change to most of the pap on TV.<br /><br />Any fool can nitpick anything. However, in this show the characters are believable, the story lines intriguing and compelling (but do require some intelligence on the part of the viewer), overall it's enjoyable, and it's British !! (We do occasionally come up with some gems, and this is one of them).<br /><br />The shows are an hour long each and i think there are four of them all together (at least I've only seen four of them). The show clearly impressed some U.S. TV station/director who made a longer series which was nowhere near as compelling in spite of the bigger budget.<br /><br />If like soaps and reality shows you won't like or understand Eleventh Hour.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a52febfee7888d21c635dda1d708c6b28d40335f5e388d54d20b86e9c0bea702
+size 840

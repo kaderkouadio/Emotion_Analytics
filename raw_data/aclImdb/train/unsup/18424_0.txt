@@ -1,1 +1,3 @@
-I recently saw this film at the London Lesbian and Gay Film Festival and enjoyed it but the casual viewer should be warned... Watching a film of this type is very different from watching a common film. Here the plot and the characters develop slowly. There is plenty of fodder for introspection. Like life, there are also parts that you may never fully understand.<br /><br />Overall the film is fascinating and I was drawn into it as much out of a sense of wonder, as out of the hope that it would start making sense. By the end parts do make sense and some parts don't but I wouldn't cut any of it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4659d94fb284f7751ee355c8855a51534c7de1de16271ac7c94d062184cd3fd3
+size 600

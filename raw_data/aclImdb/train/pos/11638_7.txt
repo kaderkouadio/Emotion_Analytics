@@ -1,1 +1,3 @@
-I had fun watching Red Eye. It's not a masterpiece, but it's well directed and structured. Cillian Murphy and Rachel McAdams are perfect in the role. Yes, it's the same old story with a different setting but Wes Craven gave it a good pace. At least not another Scream with the usual college killer. It's nice when you can see a clean, coherent thriller even when originality doesn't stand out as its main character. Particularly from a film-maker like Craven that has brought so many innovative ideas to the thriller and horror genre in the past and that now just lends himself to bringing home what could have been a good TV movie had it not been released theatrically. Good job!
+version https://git-lfs.github.com/spec/v1
+oid sha256:311112e0f8b378a41ae2800c0039db0eb92b50a61e39075f026d0d787b882844
+size 680

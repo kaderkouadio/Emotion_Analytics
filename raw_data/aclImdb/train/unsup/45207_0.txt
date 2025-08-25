@@ -1,1 +1,3 @@
-An action-packed comedy that's neither very thrilling nor funny. This sophomoric romp follows hitman Mark Whalberg through a kidnapping scheme that gets him into big trouble. I guess the moral is plain and simple: killing is better than abduction. There are a few genuine laughs, but not enough to balance out the moments of utter frustration as testosterone-fueled characters strut about uttering self-important bull. Antonio Sobato Jrs' (very underused) body is worth the price of admission. <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:56a78bca2e4b57797c35a9359981f147ffebb93da9a2142096d917b565e7878a
+size 506

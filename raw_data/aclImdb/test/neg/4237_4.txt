@@ -1,1 +1,3 @@
-The premise of the movie had much going for it, however, despite the novelty of models selling off someone else's furniture to live the high life, this movie has nothing going for it. The characters are cardboard. The dialog is so painfully scripted, it's hard to sit through, and if there were any jokes in the movie, I missed them. Marilyn Monroe's walking into walls because she doesn't want to wear glasses is completely unbelievable & not funny. Grable's stupidity is also too ham-fisted to be believed. Bacall's gold-digging is so forced, it's annoying to listen to. Why anyone would want to sit through this is beyond me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df8d908f6ff4f899b79d7f30b9e33faa224b459b54b941623526a3648b23ac92
+size 628

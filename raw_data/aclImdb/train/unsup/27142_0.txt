@@ -1,1 +1,3 @@
-There´s no words. This film makes TROMA films looks like Citizen Kane. ¿Where is Toxie when we need it? Take care of your hands, avoid the women with too much muscles and protect your eyes from the cheapest Bruce Lee impersonator. I swear that I saw it on TV while I was working
+version https://git-lfs.github.com/spec/v1
+oid sha256:211a15fedcab36036215bc3e96b0a48908491258d04da104800a5fa27c0a74a4
+size 280

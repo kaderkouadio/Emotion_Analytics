@@ -1,1 +1,3 @@
-First the only good news about "Shakes the Clown" is that the clown makeup and neon-type lighting provides an interesting setting. Now the bad. Both Adam Sandler and Robin Williams are totally wasted, smothered by Goldthwait's slapstick, gross-out, outrageously non-funny script. Clowns are supposed to be funny, therefore a movie about clowns should be downright hilarious. Well, car chases, puke jokes, drunken clowns, and various other nonsense turns what could have been a ground breaking black comedy into the disaster it is. Do not buy or rent this expecting black comedy similar to the brilliant "Bad Santa", because you will be sadly disappointed. I know I was. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:a23d725e914debc996c10b15fa69209203f6c48319ac29fa699e0f3e283b8b52
+size 676

@@ -1,1 +1,3 @@
-What could have been an interesting idea was spoilt by the lack of any character development. We are given no insight into why an ex-convict, freshly out of prison and having been given a new start, would throw it all away by immediately commencing random and seemingly motiveless killings within the building.<br /><br />Given that there were only FOUR tenants in the whole block, wasn't it verging on the ridiculous to start killing them all off - what was he planning to do when they were all dead?<br /><br />The ending was a slightly unexpected "twist", and a minor payoff for making it through to the end this poorly acted, non-scary horror film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5d682d81a5d9009e4004895dfd100de24ecdb85a9dbd6a3d8e5f921851661fc
+size 652

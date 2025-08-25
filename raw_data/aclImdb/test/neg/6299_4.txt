@@ -1,1 +1,3 @@
-This film tries hard but fails. Perhaps to non-Australian audiences it may have appeal as a travelogue, but to the native it is merely tedious.<br /><br />Anyone who lives here knows Broken Hill is a rough, tough isolated mining town. If a couple of citified fruits turn up in drag, well it's all so predictable. Where have I come across that well-worn theme before? Oh yes -- Town Mouse and Country Mouse. Spare us.<br /><br />I kept hoping it would improve but after the Broken Hill scene I could see where this was heading and so turned off the TV and went to bed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f515db81b02b0fac6bbf9afc42bc0c2184ba3f892666cebdaa269375f5543377
+size 567

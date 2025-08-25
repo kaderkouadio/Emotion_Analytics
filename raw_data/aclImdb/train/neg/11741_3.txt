@@ -1,1 +1,3 @@
-his costume drama is ill cast and without charm.<br /><br />George Sanders was a superb character actor. But he is thoroughly implausible here as the lead, an Eighteenth Century rogue known for his philosophy and great good looks. His costar is, of all people, Akim Tamiroff. Some Frenchman! Then there's Signe Hasso, in a dark wig, as the virginal daughter of a wealthy family. Carole Landis fares best. The movie opens with her in silhouette. She is a soubrette, and a naughty girl at that. She disappears for a while but turns up in an improbably situation. But she's good. She was always an appealing actress. Here she is cast closest to her usual type of role.<br /><br />It's meant to be a little naughty, kind of ooh-la-la. It ought to have had a light touch but it's a leaden affair from start to finish.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b656caee340859dc75068e9720041f2ef45d454a729774d8a602f393a5ee42f4
+size 812

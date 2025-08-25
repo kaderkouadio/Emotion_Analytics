@@ -1,1 +1,3 @@
-I saw this movie when I was in Israel for the summer. my Hebrew is not fluent, so the subtitles were very useful, I didn't feel lost at any point in the movie. You tend to get used to subtitles after about 5 minutes.<br /><br />This movie blew me away!!!!!! It depicts two of the most prominent taboos in the middle east today: A homosexual relationship between an Israeli and a Palestinian. It allows a person to enter both realms of the conflict simultaneously. The dilemma, the emotions entailed. The movie climaxes in tragedy when anger and rage drive one of the lovers to one extremist side! an absolute must see!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f823dd219f5ed0466cb2c857ca2c737648af8606cc7f04ed08048062cc95e11c
+size 619

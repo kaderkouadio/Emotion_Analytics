@@ -1,1 +1,3 @@
-This movie stunk. For those of you Nicholas Lea fans out there who are trying to get ahold of this movie because it's listed on his credits and you can't find any information about it anywhere...look no further. Nick has about 15 seconds TOTAL screen time and about one barely audible line. This movie is not worth sitting through...even for Nick. The characters seem contrived, the story is rushed, and it becomes increasingly hard to sit through it as time passes. Honestly...pass it over on the shelf, and get something better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fb62a4d91f6acb55eb49015393d446096bcbbf69bc4fd843c7613c1d365e1c7
+size 530

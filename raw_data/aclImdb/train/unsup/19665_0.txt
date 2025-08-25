@@ -1,1 +1,3 @@
-I had never heard of this film, and so last night I had an unexpected pleasure in watching a clever movie. What a marvellous satire on communism. There were some very funny scenes, especially the dancing trio. Judy Davis was wonderful as the pro communist mother -- what a performance! This movie is a dark Australian comedy and worth seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a36bfaaecbcf2ab714ddaf5d6e8f8df786fe254e138620ec9b4cc17144a25598
+size 342

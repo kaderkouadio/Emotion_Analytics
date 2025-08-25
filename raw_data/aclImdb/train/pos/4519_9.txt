@@ -1,1 +1,3 @@
-Julie Waters is outstanding and Adrian Pasdar a revelation in a very warm, very real, and extraordinarily entertaining look at the complications gender dysphoria and transvestism cause in a young executive's life. At the heart of this movie is the very real truth that you must accept yourself before you can hope for others to accept you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd0fc91323575d145b6124dea24fb851eae7d376d75a58e0df8f803186a32dac
+size 339

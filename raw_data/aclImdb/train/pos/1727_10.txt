@@ -1,1 +1,3 @@
-The Wooden Horse is a very clever movie about a very clever and successful escape plan worked out by British POW's during World War II. It is superbly acted with a wry sense of humor, especially the lines expressed by the acid-tongues Leo Genn. Anthony Steele and David Tomlinson (later George Banks in Mary Poppins) are marvelous as the two heroes. The direction is taut and fast-moving throughout. Highly Recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ff671de9960fbb01e88d9ba97904e13241afefd59a20ee74b7c1fe3df6bd7e
+size 419

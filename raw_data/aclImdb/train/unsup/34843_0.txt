@@ -1,1 +1,3 @@
-It never seems to amaze me how bad films can actually be, but this is an insult to intelligence. How does "From The Man Who Brought You Billy Jack" sound? Lighting is either brown, or supernova. Acting...pause...is...pause...awful!!! The story is the biggest joke yet. Whoever got this script and thought, "Hey, this is a winner!" should be burned at the stake like that crazy sister/grandma thing. Luckily, we always have Mike & the bots to help make light of the situation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d1ee6f66488a906822b9c6f428e37e95378e9038928f122fdf77d447f5a561d
+size 475

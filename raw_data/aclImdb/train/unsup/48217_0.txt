@@ -1,1 +1,3 @@
-brian aldiss once wrote that images from science fiction stories can stay with you for years. but that going back and re-reading the story will often lead to disappointment. this movie is not science fiction, but it will stay with you. and you don't have to watch it twice to be bored by it! what a twist!<br /><br />there are a number of movies like this. boring, but worth watching for images they leave with you. it's just a shame that they can't be enjoyed while viewing them.<br /><br />a better structured movie could also leave images with you AND entertain at the same time.<br /><br />but where does the blame lie? was the original novel at fault? or has the screenwriter done a bad thing?<br /><br />i for one can't be bothered to find out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4982ed76fc9e9b9e5feb3c4fb0d4188b455ffb4ee39ad154b257cd31999e1a1e
+size 750

@@ -1,1 +1,3 @@
-My wife and I have watched this movie twice. Both of us used to be in the Military. Besides being funny as hell, it offers a very realistic view of life in the Navy from the perspective of A Navy enlisted man, and tells it "like it really is". We're adding this movie to our permanent collection !
+version https://git-lfs.github.com/spec/v1
+oid sha256:89b2f839072baf2ffe2ca7977f9d1ff6b04d9a12b6bdaedb70a4bb5deaebc80b
+size 297

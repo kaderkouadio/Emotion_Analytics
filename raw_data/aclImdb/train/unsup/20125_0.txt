@@ -1,1 +1,3 @@
-A film whose time has come. Willie Nelson and Kris Kristofferson essentially play themselves as a songwriter and a cock-of-the-walk country god, and do it perfectly. The plot concerns Willie's character, Doc Jenkins, attempting to liberate himself from a contract he committed to when he was younger, drunker and a little less immortal. The supporting players are top of the line aces, including a surly Rip Torn and the always-great Melinda Dillon. Lesley Ann Warren is the new singer who Doc hitches his stars to, and she's convincing enough. The dialogue is fast, funny and, I suspect, captures the inside angle of the Music Business to a tee. One of the most unheralded great, little movies of all time. A better version of all those other syrupy, sentimental inside music movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:974e69dd27d28cfe00547ffdd6e8d68cc686e921bbd74898e7a07997af47c74a
+size 784

@@ -1,1 +1,3 @@
-I am a proud owner of Volume 1 of this series (can only two entries be considered a series? - ah well, I digress) and this entry explains why there was no third. Volume one was an excellent retrospective of Makeup man/FX artist Tom Savini. Volume two is... I don't know what it is other than a waste of time. As other reviewers have mentioned, this killed the franchise. Fangoria had a great idea with Volume 1 - present an in depth background of an influential person in the horror/fantasy film making world. I was looking forward to chapters about George Romero, Rick Baker, even Jim Henson! (Black Crystal?) This entry killed it. RIP.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc258959de42d9fb3a6b24916fc1776833c8a99278caddcbf2bc9aad20e99db0
+size 637

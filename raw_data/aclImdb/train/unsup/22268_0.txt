@@ -1,1 +1,3 @@
-I'm a big Robert Mitchum fan but even I couldn't sit through this one. Everyone acts as if they're asleep. They show the entire range of emotion from grim to grim.<br /><br />After the first half I gave up and fast-forwarded to the unsatisfying conclusion. This is the slowest moving plot you'll ever see in your life and as near as I could tell none of any of the character's motivations was revealed until the final scene. Since all these stars have done great work elsewhere I guess the blame lies with the director and the script.<br /><br />Just give this movie a pass and go watch ANY other Mitchum film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:731b6ef933aba460b4ef753687154afe9455a89cece2427cc79efb51f1b9dbbc
+size 610

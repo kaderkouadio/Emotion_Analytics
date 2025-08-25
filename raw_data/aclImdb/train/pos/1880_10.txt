@@ -1,1 +1,3 @@
-Dudley Moore is fantastic in this largley unknown classic. This film is very witty film that relies hugely on the actors talent. Without Dudley Moore, John Gielgud, Liza Minnelli, and a few others, this film could have been a disaster. It is not always well shot and at times has some very corny music that tries to force a mood (the "psycho"-like music at the wedding fight), but the acting overcomes it. The character Arthur is hilarious, with his drunken comments. But he develops well into a more mature, well rounded character as he learns to live by his own free will. The end is fairly corny, though. I wont give it away, but it could be improved. Worth seeing many times.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0a7d5ad48fd601f50dc363a6b737115df7793064e367068feea84d0df6985b
+size 679

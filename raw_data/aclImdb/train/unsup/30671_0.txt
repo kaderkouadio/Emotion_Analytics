@@ -1,1 +1,3 @@
-Probably one of the more accurate filmatisations of Wyatt Earp. And Dennis Quaid is without a doubt the best Doc Holliday to this day. I really like that they at no point try to idealize the life in the west at this period. There were no real heroes. Only people who tried to live their lives or to make something out of their lives. Wyatt Earp is portrayd as an at sometimes ruthless character, yet someone who cares for his close family and friends. One of Kevin Costners better movies and worth watching at least once. If you choose not to it's really your loss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3685b609ea82cd69e923ee535e9f9b17c557f01b41cea8cdcfbd20597f8f8836
+size 565

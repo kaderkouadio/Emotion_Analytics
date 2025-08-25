@@ -1,1 +1,3 @@
-This is a lot of silliness about a woman from London who marries a tea planter from Ceylon whom she barely knows. It's full of cliches, and the Liz Taylor character is not believable. It has a marvelous set, some exotic location footage. It shows Taylor at the height of her beauty. She looks stunning.
+version https://git-lfs.github.com/spec/v1
+oid sha256:616346bdab4954d390bc3cd98c084bf69b09117fc64f4ecfabe9c4e0e1c9c908
+size 302

@@ -1,1 +1,3 @@
-This film was embarrassing in its clichés, poor acting and generally low production values. It starts out badly with the long haired 3 star general calling the hero, Masters, "major" when he is obviously wearing the silver oak leaves of lieutenant colonel. But what was most distressing was the crew of soldiers on Neptune Atoll. How out of touch with any kind of reality can you get? They were all experts on flying a 747 and the scenes of the soldiers digging the ditch were beyond comical.<br /><br />WARNING: THIS FILM IS DANGEROUS TO YOUR INTELLECTUAL HEALTH! WATCH AT YOUR OWN PERIL!
+version https://git-lfs.github.com/spec/v1
+oid sha256:54d398d04540a687225577717d1174189c6e8f2743425b1edb60fd921f087b89
+size 590

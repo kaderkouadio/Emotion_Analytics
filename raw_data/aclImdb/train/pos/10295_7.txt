@@ -1,1 +1,3 @@
-Ok, so it's not a masterpiece like the Godfather, but it doesn't have to be. The only purpose this movie has is to make the viewer laugh several times. If it can make the viewer laugh a bunch of times, it has accomplished its purpose. I laughed out loud and left with a smile. I feel like I got my money's worth.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a6a75e33368037897d0eb4ac63ffb0f225fe6d011455497d1b31d0578eb1929
+size 312

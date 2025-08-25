@@ -1,1 +1,3 @@
-Here in Atlanta we mourn the death Monday, February 27th of General Robert L. Scott, ace and author of the book from which this classic movie was made. Scott owed $25,00 in back taxes after publishing his (most successful) book in the Summer of 1943 - during the height of WW II. His publisher advanced the tax money to him and gave him another assignment. The result: "Damned to Glory". Other books include "Runway to the Sun", Look of the Eagle", Tiger in the Sky and another classic IMHO: "Chennault of China". They don't make 'em - men and movies - like this any more. Scott to his last days was a fixture at the renowned Museum of Avation in Warner Robins, GA. He was always very helpful and full of stories with which to inform and regale the museum patrons. He will be sorely missed. Get the movie and the book and savor them like old wine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab2db8e0f2f5cb802e9e49db2e7468973a7fbb4975b01e739f971ed86367a641
+size 847

@@ -1,1 +1,3 @@
-I love Ealing comedies. I love Alec Guinness. So I looked forward to seeing this when it was shown on TCM a few days ago.<br /><br />What a disappointment. The jokes are lame, the plot is stupid. A stupid plot does not automatically make a film a failure of course (is there a plot-line sillier than Passport to Pimlico?) but this plot is un-funny stupid. And what I especially resented was the sight of stalwart actor/comedians like Lionel Jeffreys and Maurice Denham trying to do their best with this witless material.<br /><br />If you've an ambition to watch every Ealing Comedy ever made, then look it up. There is no other reason to waste your time with it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f6573e5154fae724688aa2f034733d54d6abec4f47d0c0124a62d992df5bd1
+size 663

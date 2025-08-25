@@ -1,1 +1,3 @@
-Akira Kurosawa's STRAY DOG (English title) is a riveting, poetic vision of a young Tokyo officer (Toshiro Mifune) who's handgun is stolen from him on a bus. Driven to obsession, he follows the trail of the pickpocket through the seedy underworld of post-war China, in an attempt to regain his honor. A rare film of great social and philosophical significance. The deceptively simple story grows more complex as the man who gains possession of Mifune's handgun begins killing people and Mifune starts to blame himself. Every single second of this film rings true. An incredible atmospheric combination, of noirish melodrama and dark comedy. Every bit as good as Kurosawa's celebrated samurai pictures.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf9dac53908ce66356a5e03199f02b4a401a9ad69f482f3844b9177875ffce6
+size 700

@@ -1,1 +1,3 @@
-Turner and friends are closing in on HBO for the top spot among made-for-TV movie producers. This is a nicely paced, contemplative thriller of sorts. William Macy is stellar, as always, and Adam Arkin offers one of his better performances. A bit more lively than classic Hitchcock but not as in-your-face as typical movies of its type, A Slight Case of Murder eases you in and never lets go. (Note: I saw a preview copy, which means I didn't have to wait through commercials. Those interruptions may hurt the pacing, but you know this will be available on video sometime
+version https://git-lfs.github.com/spec/v1
+oid sha256:189d689e64b097e8f6b2be6aeceb75498d4c9297dd9f456be9b548c89663c206
+size 570

@@ -1,1 +1,3 @@
-This is the ultimate action flick. Bruce Willis shines as the hero John McClane, and Alan Rickman is excellent as the terrorist leader Hans Gruber. Reginald VelJohnson (TV's Carl Winslow) is great as McClane's police contact on the ground. The story is compelling, and the action is incredible. There are plenty of gunshots, explosions, and an amazing hand-to-hand fight between Bruce and Alexander Godunov. John McTiernan outdid himself as an action director with this movie.<br /><br />Special mention goes to Jan de Bont for his wonderful cinematography. You can say what you want about his directorial efforts, but the man is a top-notch photographer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1f55e6eb26b6c3635decb5905390ea2622cfb2b85ccc3e9ea9a78365e805b17
+size 655

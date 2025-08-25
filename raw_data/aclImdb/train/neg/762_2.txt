@@ -1,1 +1,3 @@
-Loyalty to Peter Falk is all that kept me from giving this awful picture the (1) it deserved. (For that matter, loyalty to Mr. Falk was what kept me watching this film all the way from heads to tails.) Even if you forgive all the glaring errors, this was just plain the poorest excuse for a made-for-TV "Columbo" film ever. I'm glad I watched it on TV for free; would have hated to have coughed up the bucks for a print.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24c043119c58d7e1ee6645fd025187670f13512491705458283a1f0a4cb2ee01
+size 420

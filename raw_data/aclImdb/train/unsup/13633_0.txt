@@ -1,1 +1,3 @@
-Drop Squad is ostensibly about a black man being brought back in touch with his roots through de-programming. However it's the audience who feels it has been kidnapped and forced to endure torture. There is yelling, screaming, and endless diatribes and it all feels aimed at the audience. I saw this movie at the theatre and everyone (about 25 people) walked out within the first half hour. Unfortunately for me I stayed the entire time. The film only got worse.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d69404fa7405d4cde50c3594d4b06736afb86378522585d674af5b84a952fe8
+size 462

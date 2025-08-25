@@ -1,1 +1,3 @@
-This richly dense action-thriller has Denzel Washington as his typical but well cast character in this well thought out script that uses the idea of time and space in a superb manner. In one of the best genre thriller of its type, this consistent execution, high-quality production provides an intellectual and mostly satisfying experience. Except for a "Stargate" (from the movie and television series) like structure that unnecessarily detracts from the scene and the obvious impossibility or at least gigantic leap of science two-thirds way through the movie, such lapses are minor compared to the intensity and small deja vu clues that actually enhance the movie till the end. Sometimes predictable, but nevertheless, it's in the execution that matters here. A solid eight out of ten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eee8a04fe53ee69a6118731b02e05ed6dcafb53e07146641a9dde1a7de34417d
+size 788

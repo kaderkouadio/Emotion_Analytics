@@ -1,1 +1,3 @@
-Batman Returns is to be considered quality when one speaks of superhero films. Its predecessor, Batman, in my opinion, is by far the greatest and most well thought out of the comic book genre. For one to say that Batman Returns was disappointing, he or she has not fully watched the movie and considered the acting of Danny Devito as the Penguin. Devito and Walken offer some memorable moments. The tale of Batman is suppose to be dark and Tim Burton has fulfilled how the comic portrays Batman. Batman Returns provides comic relief, action, suspense and fantasy; and it should not be viewed as 'crap', although we are all entitled to our own opinions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67e3fd63635d11bf0655c8de82d1ecbc8124c37c5f01b9a3e5d010358e2d888c
+size 652

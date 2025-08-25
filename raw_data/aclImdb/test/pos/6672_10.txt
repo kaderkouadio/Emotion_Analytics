@@ -1,1 +1,3 @@
-(Possible *SPOILERS* warning)<br /><br />You never know. The guy keeps telling he's an alien but... oops, seems to be the most human in the whole story. Arrived from distant planet. Said weird things. Advanced the Earth's science. Healed the doctor... Or was it just a crazy dream? You never know. Better see K-PAX for yourself. Think.<br /><br />Great acting of all the cast. Don't forget to notice the music, it's right in a place. Lot of fun, some sadness. 8 of 10, after all.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c48a348c0769bd3381bfe1f652ec8cc77baed1a2c656d9b31d7540136a54fd
+size 479

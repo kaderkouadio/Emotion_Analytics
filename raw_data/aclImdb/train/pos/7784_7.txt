@@ -1,1 +1,3 @@
-It was fabulous! The photography, editing, cinematography, music combined to transport us to the dangerous side of a tourist destination. It was the enjoyment of "slumming," without going through the danger. We were there! The dream sequences and flashback-sequence-ending were fresh. It spoke to me. Keep up the good work! Another of that genre is City of God. Also - don't laugh! - the comedy, Desperately Seeking Susan. Nice ensemble types, with great performances by all. Sorry, I think Training Day fits that genre as well, with fantastic performances by an ensemble cast. I had to switch the channel on some of the gritty sequences, but all-in-all, a great film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c0e1299af4b483f74b42be3338270aa801063d52bd5ab0f8245651c3052ccb3
+size 668

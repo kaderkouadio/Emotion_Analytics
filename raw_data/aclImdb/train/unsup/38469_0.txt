@@ -1,1 +1,3 @@
-I am probably biased against this film, as I am studying it at school in extension french, but this is the most terrible movie I have ever seen. The people simply can't act; the camera angles are always dodgy as, and there is almost no backing music; a terrible film all up.<br /><br />Not to mention, the whole 'old-people love' thing is just gross. Not to rain on anyone's parade, but it is kind of sickening seeing Gerard Meylan's derrière TWICE in the film.<br /><br />All round, a terrible film; no plot, no acting skill... terrible quality piece. I'm sure Robert Guediguian is a very talented director and producer, but this movie was not some of his finer work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f38bcf84c8f33222f999e701ea14541fe22f1bcbed2cb8d1eb0e5a4d6125525
+size 669

@@ -1,1 +1,3 @@
-SHRIEKER is a Full Moon production. I knew what to expect (very little quality) but I didn't expect this to be as painful as SHRIEKER was to watch.<br /><br />It's just awful. Bad acting, confusing script and direction. Annoying characters I wanted to kill. The whole thing was probably made in one week. I've seen episodes of CHARMED that were more complex and convincing than this cheapie.<br /><br />It has the look and feel of an orphaned episode of a badly conceived TV series no one has ever seen. It was a chore to watch and I could feel my mind getting dimmer and dimmer by the minute. Watching a movie shouldn't be this much hard work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36568c4c6b9674b9aa1abbfbaaa651069c9b8760412a6786d458d8b162948087
+size 644

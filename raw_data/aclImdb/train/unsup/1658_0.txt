@@ -1,1 +1,3 @@
-All the acting is poor. The plot is weak. The film is merely a vehicle to display Dorothy Stratten's body. On that count, well done. But, even that is not enough to maintain an interest to the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a087d36c2b149f8ef61b685c0783651983814d18c573b6cafaeb6e528766bef6
+size 197

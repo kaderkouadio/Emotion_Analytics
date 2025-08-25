@@ -1,1 +1,3 @@
-As I watched this movie I began to feel very nostalgic. As a child growing up in a rural area I felt as if I was a kid again! The swimming pond (it's called a "tank" in Central Texas), the running through the countryside like a wild free spirit! The story was very believable and I totally lost it and cried toward the end. Through the pain we go through in life...life goes on and there can be forgiveness.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda90c9e6da35bf078df44b842dadce1e4f9e7c05e342043f6f62c54d0d83d4d
+size 407

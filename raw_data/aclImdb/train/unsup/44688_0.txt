@@ -1,1 +1,3 @@
-"Everybody's All American" tells of a college football hero's trek through life. This film is fraught with over-acting, terrible southern accents, obvious ploys to push viewer's emotional buttons, and a wandering story lacking in cohesion and integrity...to name but a few of the many flaws. A directorial disaster. Pass on this dog...or punt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb359b8179a931b0f70204030343d46d34fdd1baf55121362adb658e32404d20
+size 343

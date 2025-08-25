@@ -1,1 +1,3 @@
-This film is cute to the point of being saccharine sweet. It tells the story of a too good to be true school mistress and her pupils, and of a rough and tumble young boy whose life they touch. The treatment of the youngsters is improbable given the time period the film takes place in, and the film has a trite ending that ignores the realities of the situation the boy is in. Finally, the film features the original Bessie the Cow; that fact alone makes it too cute.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa4256e8eb360c045fad8ace3d38f5cbb0e14dd4408ef9aee0dfc278b2dd0af3
+size 467

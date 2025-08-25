@@ -1,1 +1,3 @@
-Born Bad is a well put together crime drama about a group of teenage kids. Teens as well as young adults would find this movie well acted and entertaining. The movie is similar to The Black Circle Boys in the sense that a bunch of teenage boys go around their town making up their own rules and not caring about the consequences.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6f0132ed561adf57b4f4f4ab3fa7a3b6fe280f44957043b8f983b705c954d49
+size 329

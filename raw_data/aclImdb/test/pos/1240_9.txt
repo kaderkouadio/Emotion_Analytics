@@ -1,1 +1,3 @@
-I couldnt believe how well this kid did on screen, you will completely forget that they are actors and loose yourself in the movie. It is like watching home movies with a twist. I recomend this to everyone. Highly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d5bec61a625f0afbf099ad53cc567af45252775a29be9ffe9f2b53256baaf90
+size 214

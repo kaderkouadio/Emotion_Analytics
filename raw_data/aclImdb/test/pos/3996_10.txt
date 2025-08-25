@@ -1,1 +1,3 @@
-inspite of many movies dealing with great artists or a genius, chihaweseon pointed out the real dilemma in which an artist is capted...<br /><br />the decision whether to ease the demands of the popularity or to create something new and to define ones' own style.<br /><br />Chiahweson's desperate seek for inspiration and broadening his conscious led him to live the way he did, restless, outrageous, and yes very drunk! <br /><br />But still he defended and retained the most important ethical rules for an artist: respect to his Master, respect to the nature and the gradual seek for improvement and to perfection.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c750212abf10d63fd717eb7dd7e87d35a31ce79db0a2b68cc9bc4614091ce713
+size 617

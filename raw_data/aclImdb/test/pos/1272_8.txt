@@ -1,1 +1,3 @@
-Great British director Christopher Nolan (Momento, Insomnia), directs this odd film about a struggling writer obsessed with following people. This proves harmless at first but soon turns dangerous after taking the game a step further after meeting a like-minded man who shows him the ins and outs of breaking and entering. The two men soon get in over their heads in a strange world involving the mafia and prostitution. Jeremy Theobald plays the writer and Alex Haw the like-minded friend. Both are great performances. This low budget movie was shot total guerrilla-style with no permits for any locations and no big stars but has what a lot of huge budget films don't have which is a clever script and creative direction. An impressive debut by one of todays best directors. Good Stuff!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff4fef19873f3a825656556959c3cd10a8a965935b41cd1b51a33d25b99a400a
+size 788

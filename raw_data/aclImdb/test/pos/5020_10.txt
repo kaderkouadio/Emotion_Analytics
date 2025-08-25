@@ -1,1 +1,3 @@
-This movie is an all-time favorite of mine. I'm sorry that IMDb is not more positive about it. I hope that doesn't keep those who have not experienced it from watching it.<br /><br />I've always loved this movie. I watch it about once a year and am always pleased anew with the film and especially the stellar performances by entire cast.<br /><br />I've always wondered whether Jean Stapleton actually did the ending dance with Travolta???? If anyone knows this piece of trivia, please leave a comment.<br /><br />Thanks and ENJOY!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb6d0e1c30b0b756df62fd5d6d3e085820e977cde3254eb40ee769a781c5ec12
+size 532

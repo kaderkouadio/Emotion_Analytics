@@ -1,1 +1,3 @@
-Oh, come on, learn to have a little fun. When I was a kid, oh, this movie was Oscar-worthy to me. I thought it was absolutely hysterical. One of the best movies I had seen.<br /><br />Now, it's a little stupid, but come on. If you enjoyed "Excellent Adventure", you should most likely have fun with "Bogus Journey". This was the movie before "Dude, where's my car?". Only this one is actually funny. Like I said, it's just a good time. It shouldn't be taken seriously and if you enjoyed the first one, you should like "Bogus Journey". It's just a funny movie with some memorable characters. For your enjoyment only, watch it, let go, and remember that it's a silly comedy. That's all.<br /><br />7/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e2a9e0259f2f41a21130c9b5938a6cf480a9c7965a6b84093df1a49ed3df18
+size 700

@@ -1,1 +1,3 @@
-This movie inspired me to read the literature of Anais Nin. In comparison of the books, i must say the actors portraying every person did an amazing job. they captured the pure emotional world anais nin wrote about. The relations between characters stayed true to life. I was especially amazed with maria demedieros who played anais nin. Fred Ward who id only known from Tremors surprised me as Henry Miller. This is a beautiful movie in every detail, staying true to the beautiful life it showed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49c7cef978c7dd99bfd548bf78dae86eb7a00716d1af7b92aaf460af03a6afe8
+size 497

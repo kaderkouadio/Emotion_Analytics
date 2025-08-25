@@ -1,1 +1,3 @@
-This is a wonderful movie. The dialogue is among the best, many quotable lines that I will not spoil. This film reveals a plethora of talent. Though it's about an opera star who meets an old love (now a produce man), singing is confined to a few dramatic moments, including the climax.<br /><br />Here's one great line. An ex-husband says to his wife who's about to remarry, "I give you a wedding gift of four words: 'he had his chance.'" If it comes around again (on Sundance Channel), please see it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b86c9686963af2d4e6532b4314e26b0b8fa4d6d5abaee029b2dcefec5ffe080
+size 501

@@ -1,1 +1,3 @@
-Liked Stanley & Iris very much. Acting was very good. Story had a unique and interesting arrangement. The absence of violence and porno sex was refreshing. Characters were very convincing and felt like you could understand their feelings. Very enjoyable movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddf14471d277410edaa3db20130c3bfe7a72a2cb57241bdb0bf00a6dd6631cba
+size 260

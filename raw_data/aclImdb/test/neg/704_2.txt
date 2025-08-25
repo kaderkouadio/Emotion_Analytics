@@ -1,1 +1,3 @@
-I never want to see this movie again!<br /><br />Not only is it dreadfully bad, but I can't stand seeing my hero Stan Laurel looking so old and sick.<br /><br />Mostly I can't stand watching this terrible movie!<br /><br />Frankly, there is no reason to watch this awful film. The plot is just plain stupid. The actors that surround Stan Laurel and Oliver Hardy are really really bad and Laurel and Hardy have been funnier in any of their earlier films! <br /><br />I warn you don't watch it, the images will haunt you for a long while to come!
+version https://git-lfs.github.com/spec/v1
+oid sha256:982b252afd8616146219a56888ec0cd192d9d2e733a8bf007c608836736de183
+size 544

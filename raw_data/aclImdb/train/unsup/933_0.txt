@@ -1,1 +1,3 @@
-Super integration of songs and plot, superb acting by all. One of my favorite movies, although it's really too long to be a "movie." Giles Thomas is wonderful as private Francis Francis. I own this one and watch it at least once a year. It's that good. This is NOT a movie for children, as none of Potter's work is. One of the song and dance numbers is integrated into the plot in a most extraordinary way. It's the one in the military intelligence office about Egypt with the camel. The room is floor is full of balloons. When the number ends, and we get back to "reality," Col. Bernwood walks across the floor and kicks a final, pink balloon out of the way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc000e0dc3958b020e64f9f26ee8e64b608b49e4b17e5256487950a2b6e308a7
+size 659

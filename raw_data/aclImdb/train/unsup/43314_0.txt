@@ -1,1 +1,3 @@
-Not a bad movie, but since it is made by Americans, there is a lot of USA born Chinese trying to speak Chinese without much success, and it turns out to be goobledegook. Should have hired some real chinese to do the speaking parts.<br /><br />John Wayne's reference to "baby" makes me want to puke, it is cheesy to the extreme. Some great actions by the steam boat, unfortunately not by actors. I will not watch this film again, once is enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:987f47db8f2de6442aa527f58d20b29b3f284491ffafbbf0a77b87667a65f89e
+size 444

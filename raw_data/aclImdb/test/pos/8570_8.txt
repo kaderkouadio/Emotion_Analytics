@@ -1,1 +1,3 @@
-This HAS to be my guilty pleasure. I am a HUGE fan of 80's movies that were designed to entertain and they didn't care if they offended anyone. This move has no meat, not substance, no deep thought provoking scenes. Just plain old college kids having fun and if a few breasts have to be shown, then so be it! This movie is for when you just want to relax and NOT think. Viva la nudity!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b65cede55b08e97d0352eaa2e223fa97f1ebb3b7b23b10c25a0a4a96fccb792
+size 385

@@ -1,1 +1,3 @@
-Terrible movie. We can definitely tell is the director's debut. The only thing worth was Koteas' performance. Otherwise it seems like a film made by high school kids. It has hints of a black comedy, but in the end it's not. It has a few plot twists but they are completely predictable. I will be taking the DVD to resell it at Blockbuster. I wouldn't want anyone to take a look at my DVD collection and see this thing in there. That would be embarrassing. I have to give it a couple of points because at least at the beginning it tries to give you a background on the reasons why Koteas did what he did, but the way the movie develops is poorly executed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87f2ecd89567ec7c7a5cadaf9b80bc7fb3f8c7a300fd141c57d648178425149c
+size 654

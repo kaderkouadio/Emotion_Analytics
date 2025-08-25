@@ -1,1 +1,3 @@
-I saw this in the theatre a couple decades ago, and fuzzy recollection suggests that I liked it. However, seeing it for a second time two things stand out: (1) very poor acting on the part of Michelle Johnson, and (2) very poor music throughout.<br /><br />It's not that all the music was bad. Some of the Brazilian music was fine, but the theme song and others that clanged their way in were reminiscent of the worst of '80s pop music.<br /><br />Johnson's voice seemed all wrong, possibly dubbed. This was distracting.<br /><br />On the positive side: (1) The story's not bad, (2) it's interesting seeing such a young Demi Moore, (3) Valerie Harper never looked better, and (4) Johnson did look quite fetching in various stages of disattire.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31b447fec9169619afff8f3024278746c8c7cca27c05b54a7534693d4a7346ef
+size 743

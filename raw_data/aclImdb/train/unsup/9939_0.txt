@@ -1,1 +1,3 @@
-To be humorous on a low budget feature is often a very difficult task. To blend humor and horror is an even more arduous task. But director Steve Cuden does so with such imagination and creativity. With a feature that can best be described as daring, Cuden has created a jet black comedy that will chill you. With great performances and a distinct visual style, this hybrid film will thoroughly entertain and sit up and beg for repeat viewings. Definitely, check this film out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe306535566f42908a9d14f77433440482b5fcb7e2f13a3e88800039c68c1d5
+size 477

@@ -1,1 +1,3 @@
-LOVE STORY: unbelievably unconvincing and boring<br /><br />PLOT: n/a<br /><br />GRAPHICS: not very inspired this time<br /><br />ACTION: occasionally good, most of the time you think "what's the point".<br /><br />LIGHT SABRE USAGE: MOST UNCOOL!!<br /><br />SPOILER: expect to see a muppet and a senior citizen battle it out with telekinesis and neon signs.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f414b3954d0971eb1e88223c8c54fd44ef5f733746cbb5638dc8ea249e6607
+size 370

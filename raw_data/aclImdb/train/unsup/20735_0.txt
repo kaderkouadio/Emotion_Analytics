@@ -1,1 +1,3 @@
-Bruce Willis, Michelle Pfeiffer and a wonderful cast make this movie one of the best experiences of recent times. The story of a married couple losing each other and neither knows why; trying to hide it as the children grow through their early teens must touch the heart of most parents but this portrayal will reach right down inside you and tear you apart. I can feel the tears coming back even as I write this. This is a film of pure emotion so well written and beautifully directed with just the right balance of humour and tragedy and so insightful no one contemplating /in/out of a relationship should miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fbc96f44c1e59c8dd7088c4923e0c0f43a9e00dadcd576995739762b5355d4b
+size 616

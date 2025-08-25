@@ -1,1 +1,3 @@
-hey folks, <br /><br />this is the best show Robbie has ever given, his voice as gentle as can be, entertainment at its best.<br /><br />I've been a Robbie fan since the beginning, even when he was with take that, he was born to be a entertainer, he's got the talent from his dad, who's a well-known comedian in england.Robbie's comedic talent, his gestures, his voice, the whole charisma, has made him to what he is now: THE mega star! <br /><br />if you aren't a fan of Robbie yet, you will become after watching the show! you need to watch this! it's a kick in the head, as Robbie would say.<br /><br />kind regards, his no 1 fan
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a75127d3a6b0376dc1d27b4a9556ef1a4ed3b559333358cf86d7ca1e9b1ce2
+size 632

@@ -1,1 +1,3 @@
-This movie has to be seen to believed. I do not know the reason behind making this movie. It really seems to have been written as they were going along. If it is ever on TV tape it (chances are it will only be shown when sane or sober people are already asleep). I do not want to mislead anyone but it truly is one of the weirder movies from the early 80's.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98bf41bfbf482980fc680c4f2ebf59bf9af8fb669ea6cf9d2d2e11085fafc2c1
+size 357

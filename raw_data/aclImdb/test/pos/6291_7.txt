@@ -1,1 +1,3 @@
-I didn't expect much when I decided to watch this movie, so I was surprised to find myself thoroughly enjoying it. A couple of scenes had me laughing almost uncontrollably. The characters were engaging (no pun intended); however, the story is predictable. The fun of it comes from watching Crawl (Shore's character), a ditzy-yet-wise California dude a country college girl brings home for Thanksgiving, trying in his awkward (yet endearing) way to fit in to their lifestyle. I was also surprised that in all this there was a message. If you have a chance, see this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e59b0dd4dcfeb57b5795959064a5f2329dfaf23b1f0d385f4bd023dcca77236d
+size 571

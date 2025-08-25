@@ -1,1 +1,3 @@
-Well this was just a great... movie. Sure it's only 20 some minutes long but it's not like anyone had to pay full admission price for this one. It's great. Just 100% Pokémon. None of those humans to get in the way... well no faces at least.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6183f94ddfd18116efceb8c8eb99f2f8720a2a600480e3071db445bc6e7dfa74
+size 241

@@ -1,1 +1,3 @@
-Let me explain the 8 of 10 rating . I'm rating this as a teen slasher film and it does that very well. The virgin , the goof ball guy , the insensitive jock and our hero / heroine the slightly off guy and girl who are still California beautiful. The violence gets a little bit of cheese to it --- AS IT SHOULD in a teen slasher. There's a bit of nudity and some table dancing, two rape scenes and gore aplenty. Lets face it slasher films are not for those who are sensitive or for those moods where one might be looking for anything remotely like intellectual stimulation. <br /><br />The acting was good at points bad at others ... par for the course on this genre. Overall it was what I expect and a bit more.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba33929bcbfd1f5931d645f7dc38c66fb79d2d2c1624f4652d0f6ce32c79fac
+size 711

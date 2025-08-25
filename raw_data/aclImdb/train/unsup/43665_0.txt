@@ -1,1 +1,3 @@
-Ya gotta love old Reefer Madness. The outrageous claims they make in this movie about the way people are effected by Marihuana, should be reason enough to see this one.<br /><br />If you've never seen it, then don't consider yourself well rounded.<br /><br />3 out of 10 (that's a 'must see' 3 thank you)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7009aa7e0f42c03d6d31a15f4e322186e600258fe5e81fcf64f678ed6a9e4c24
+size 304

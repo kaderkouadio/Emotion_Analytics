@@ -1,1 +1,3 @@
-What woman would ever have trouble choosing between Sean Connery, even an old one (James Bond!), and Richard Gere (American Gigolo)? Guinevere's "dilemma" becomes ridiculous! Besides, the point of the Arthur tragedy is that Guinevere and Lancelot DO betray Arthur. Here, they just think about it and kiss once. (An abstinence-only Camelot legend?) On top of that, the movie is hideous. The costume designer should never be allowed to work again. Everybody wears some combination of blue and yellowish brown. Why would Arthur and his wife and his knights all wear the same colors? Why such ugly colors anyway? I agree with most reviewers that this movie is a terrible waste of some decent actors.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76f6f2a7b688c7f0ba19d6ee571c41794e77294ec1ec312e1cf5bbe4e096b923
+size 695

@@ -1,1 +1,3 @@
-"The Straight Story" is a truly beautiful movie about an elderly man named Alvin Straight, who rides his lawnmower across the country to visit his estranged, dying brother. But that's just the basic synapsis...this movie is about so much more than that. This was Richard's Farnworth's last role before he died, and it's definitely one that he will be remembered for. He's a stubborn old man, not unlike a lot of the old men that you and I probably know. <br /><br />"The Straight Story" is a movie that everyone should watch at least once in their lives. It will reach down and touch some part of you, at least if you have a heart, it will.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e89a2822e57c374ae04afceb1c52754b04c23bcb8c5c0d4ea38394328f3ea7
+size 640

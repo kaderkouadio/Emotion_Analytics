@@ -1,1 +1,3 @@
-This is not the "wildly hilarious" comedy that was promised on the DVD cover. This is a relationship movie that has very few funny moments. I was expecting something along the lines of Van Wilder, but this movie is pretty serious.<br /><br />However, the acting isn't bad, and I found myself actually caring about what happened to the characters, though I think I would have enjoyed the story more if they had left out Adam's disgusting house mates. But the gross factor goes along with the National Lampoon tag, I guess.<br /><br />Overall, not bad if you have nothing better to watch. But if you're looking for something funny, you get more laughs out of RV. Seriously.
+version https://git-lfs.github.com/spec/v1
+oid sha256:465c965190c7d979b0dc7dc43687ed0776cd6252614870e82b85f1a4b4aecb61
+size 671

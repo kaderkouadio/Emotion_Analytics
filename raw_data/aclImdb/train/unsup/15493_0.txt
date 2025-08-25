@@ -1,1 +1,3 @@
-The Untouchables is easily Brian DePalma's most accessible piece of filmmaking. It is beautifully filmed and photographed and Mamet's screenplay is sharp and to the point. Although this movie isn't necessarily considered one of DePalma's personal films (e.g. "Dressed to Kill," "Body Double"), it is still, nevertheless, extremely well-crafted and never seems to be overcome by DePalma's indulgent tendencies. This telling of Prohibition-era Chicago, with Costner in the lead, boasts a tremendous performance from Sean Connery as the wise, old cop who teams with Eliot Ness to stop Al Capone. Some viewers may note the obvious lack of historical accuracy, but no one can doubt the pure craftsmanship and beauty of this period piece.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00e200097444c1ddb618dd426daf472f41dd90565762923677049c582bf5c6c7
+size 732

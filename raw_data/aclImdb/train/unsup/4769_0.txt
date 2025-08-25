@@ -1,1 +1,3 @@
-This film alone was worth the price of the DVD it shares with "Plan 9 from outer space." See the locations used,hear members of Wood's "stock company" talk of him! See Ed Wood actually directing scenes from a Grade Z western!!And,it answers once and for all just what did Ed Wood use for the flying saucers??Who could ask for more?
+version https://git-lfs.github.com/spec/v1
+oid sha256:75527ec1871a5bea13ee5545e963d27293388dae58b9c09b0a7a4be47d7a3aee
+size 331

@@ -1,1 +1,3 @@
-Yeah it may not be for adults, and some adults may find it stupid, but if you don't think about it it's really not that bad.<br /><br />The story has Alvin and his gang, going across the world, in search of jewels for a bad person, and the misadventures that they come in contact with.<br /><br />So the animation is good, and the story is cute, and the songs are forgettable but it's a good movie.<br /><br />I give it a 6 out of 10 or *** out of 4 stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9d369cf16d83caadd4b74ef7dc229bd15e209cc9c1313e82b85174b08ac4afd
+size 456

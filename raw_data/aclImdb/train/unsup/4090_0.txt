@@ -1,1 +1,3 @@
-To watch this film and enjoy it you either have to enjoy the skating shows put on, the disco music, or fancy one of the cast.<br /><br />I watched this film and enjoyed it. I suppose I fancied Linda Blair in it, but other than that the only reason I liked it was because it was simple fun, not to be taken seriously. It's easy on the eyes, and easy on the eyes. Eye candy, if you will. :-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6125e1b01791d0d9c99906f97d5461f14abafbac96b013e04370317e540666c0
+size 389

@@ -1,1 +1,3 @@
-My wife and I thought that with this cast and director, the movie would have to be at least worth watching. We were wrong. In fact, we gave up on it after 45 minutes. The idea that Crawford, Young and Tone are British but speak with American accents was, for me, impossible to get past -- hard to believe this is England when no one talks with a British accent. There is zero chemistry between Crawford and anyone, and to echo a previous comment, the idea that Cooper and Crawford suddenly declare their love for one another without any reason is ludicrous. There is no reason to care about any of the characters, which is why we threw in the towel halfway through. I found it hard to believe that Hawks directed this, as none of the actors spoke with the trademark Hawksian rat-a-tat delivery. So save your time, and skip this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:191d501ab11d3bda4a8cec7722f7b3baa855a3b214e190577dea6ee9a5de7104
+size 832

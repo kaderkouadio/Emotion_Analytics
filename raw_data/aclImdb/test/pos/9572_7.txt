@@ -1,1 +1,3 @@
-I love the mockumentary format that Chris Guest and crew have developed over the years. I actually like this and "Waiting for Guffman" better than "Spinal Tap", which was the first of the group (and made by Rob Reiner but starred Guest and several other of his mockumentary regulars). This humor is not for everyone. IT's rather subtle and not too physical, so some people may not relate. However, as a dog lover (and a dog show fan), I loved this movie. There are so many funny lines in it! My daughter and I quote them to each other often. I find it amazing that these people can ad lib so much funny material for each movie! What a fun bunch they must be. I highly recommend this to people who prefer their humor on the cerebral side.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a87a6a528d72a372e366bb40878d9fda2d3e4caa3e2df3cba44696edc69dab81
+size 737

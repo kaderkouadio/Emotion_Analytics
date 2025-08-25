@@ -1,1 +1,3 @@
-Addle-brained stupidity that the cartoon "Bullwinkle" made fun of a quarter-century beforehand, NO DEAD HEROES proves that you can rip off a good movie (THE MANCHURIAN CANDIDATE) without copying a single sliver of quality from the object of your plunder. The acting barely registers on the cable-access TV scale, the plot is less nuanced than an old "Sgt. Rock" comic, and only Boris J. Badanov-style "bad guy" mustaches are missing from the Commies. This movie achieves the unusual feat of being too bad, too stupid to be enjoyed by anyone with opposable thumbs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b8c15f465a48a08d836c0d29ad61c0a608bcbdecf7f3d7b3a0f2e8c4c4051ac
+size 563

@@ -1,1 +1,3 @@
-This is a truly terrible low-budget movie, although according to director Roger Corman, the even lower budget remake was even more terrible! There are basically three reasons for watching this awful flick. First, at only an hour and 10 minutes, it's relatively painless. Second, you get to watch familiar actors Peter Graves and Lee Van Cleef. The former tries to actually make the movie work while the latter suffers through a thoroughly embarrassing role. Finally, you get to see one of the most amusing monsters in film history, a giant rubber killer turnip. At least it didn't look like Crash Corrigan in a monkey suit, so you have to give Corman credit for being unique!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7817337d3506d2ecbbbf01e29c5632aa5a9e23b8b55f67cff3e7436a8190674a
+size 675

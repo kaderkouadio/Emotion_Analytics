@@ -1,1 +1,3 @@
-....or "dreary thriller", maybe. You see, this flick begins like a low-key drama (some scenes, like Dillon's meeting with Buscemi, have a documentary-like feel that reminded me, believe or not, of Andy Warhol), then turns into a straight slasher thriller. Uma Thurman makes a promising acting debut, however - and am I wrong to believe that Dillon is Matt's identical twin? (He even acts like him). (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8fa030d46c82c19e5ba9208fbc07d16a7c1e208c707142e4364d0fa0cdde3a4
+size 405

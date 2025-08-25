@@ -1,1 +1,3 @@
-You can forget about most old movies, but you should not forget about "Frühling auf dem Eis". The special emphasis on the elements of art and entertainment in Eva Pawlik´s figure skating is what makes this document of European show business history that outstanding.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f6468daa7ceffdb721eaa881e49e72db4ecab941a41c643bf0eea72d32f89a
+size 268

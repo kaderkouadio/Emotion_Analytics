@@ -1,1 +1,3 @@
-At first the movie seemed like an excuse for a soft porn movie. The only reason I stayed with it was because the acting was pretty good. Later it evolves into an interesting, twisted who's it. So in the end, I'm glad I stayed with it.<br /><br />In a movie this complicated, I am sure there are some loose ends, but I thought they did a good job of tying things together in the end.<br /><br />I was OK with the flashbacks and plot twists, but I am probably not your average viewer. It is true you have to pay attention to keep everything straight. If you don't like to stay with a film, it may not be the film for you.<br /><br />They do keep you guessing to the end.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28294848cd9ea1f9b4b252489477325baedac3f5ae65fa0d0952084abcb429f4
+size 668

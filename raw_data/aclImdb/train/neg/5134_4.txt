@@ -1,1 +1,3 @@
-SCARECROWS seems to be a botched horror meets supernatural film. A group of thugs pull off a paramilitary-like robbery of the payroll at Camp Pendleton in California. They high-jack a cargo plane kidnapping the pilot and his daughter with demands to be flown to Mexico. Along the way one greedy robber decides to bailout with the money landing in a cornfield monitored by strange looking scarecrows. These aren't just any run-of-the-mill scarecrows...they can kill. The acting is no better than the horrible dialog. And the attempts at humor are not funny. Very low budget and shot entirely in the dark.<br /><br />The cast includes: Ted Vernon, Michael David Simms, Kristina Sanborn, B.J. Turner, Phil Zenderland and Victoria Christian.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3be4925e9dfe01c12fc3a06e6d5558246e3d3f9ffd621c5d44191a2b37491a0
+size 737

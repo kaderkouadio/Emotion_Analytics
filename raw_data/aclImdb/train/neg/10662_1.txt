@@ -1,1 +1,3 @@
-I am definitely a Burt Reynolds fan, but sorry, this one really stinks. Most of the dialogue is laughable and the only interesting plot twist is in the last five minutes of the movie. I can't believe he even made this one. Is he actually that hard up for money?
+version https://git-lfs.github.com/spec/v1
+oid sha256:46b4c5ca48d0c55452f81983b62f762a9ebe26eac1bca4b2284aad108033834f
+size 261

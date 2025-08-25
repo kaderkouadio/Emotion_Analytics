@@ -1,1 +1,3 @@
-I admit it, I rented this film because Billy Campbell is in it, but it was a disappointment. I won't say it was a huge disappointment, as I wasn't expecting much, I still found it to be plodding and boring. Outrageously funny? I can't imagine where or how. Don't waste your time with this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:554da0d6a6e4545b126562a55342af6457c7d2f605297175615c98aed43f6bbd
+size 293

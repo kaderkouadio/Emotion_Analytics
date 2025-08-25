@@ -1,1 +1,3 @@
-Dull, predictable and uninteresting story of a man contaminated by a chemical substance (Weller) who goes on across the country just to find his ex-wife and children; meanwhile, he kills everyone in his way only by a single touch of his hands. In his dangerous track, a doctor (Hurt) and a young reporter (Natasha) try to stop the man. The movie has a not original premise but even though could be much better. The final result is just a movie without suspense or gritting moments. Even the good cast is completely waste. I give this a 4 (four).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c51c7684c0a9589419410274ddf109ebdb7d2a751bcb333ba65894a5ab04d2a
+size 545

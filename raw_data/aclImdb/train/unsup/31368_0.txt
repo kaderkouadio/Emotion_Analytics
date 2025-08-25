@@ -1,1 +1,3 @@
-I saw The Architect at the Tribeca Film festival earlier this year, and it has really stuck with me. It's one of those movies that asks tough questions about difficult issues like race, sexual identity and economic justice, and leaves room for the viewer to form their own opinions. Unlike the movie Crash, which deals with many of the same themes, there are no spoon fed answers in this film. Instead of one dimensional characters the Architect brings to life some complex and flawed individuals, and shows us their struggles to find the right path. Some really strong performances here, especially from Viola Davis. If you get a chance to see it, I highly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ee4b8de19a3e6eef0129e70bf070e5d18c3859a6335a67b0202112281238e0f
+size 671

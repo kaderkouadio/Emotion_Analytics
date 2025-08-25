@@ -1,1 +1,3 @@
-My Brother And I Have Pokemon 4Ever On DVD. We Watched It Like A Couple Of Times And It Was The Best. Too Bad It A New Pokemon Didn't Talk This Time. I'll Get Used To It.<br /><br />The Iron Masked Marauder Was Pretty Mean When He Captured Celebi With His Dark Ball. Good Thing Ash And Sam Managed To Snap Him Out Of His Control.<br /><br />There Was Only One Song In The Ending Credits Called Cele-B-R-A-T-E Performed By Russell Velazquez.<br /><br />Pokemon 4Ever Became A Success Since The Three Previous Films And People Will Always Love That Film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57e9c246485581dcb8f2e929bc88876c11f32cf62bbb7f7d0e34f9971d7eb421
+size 552

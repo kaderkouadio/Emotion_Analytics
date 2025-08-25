@@ -1,1 +1,3 @@
-This film could have been good : Michelle Yeoh, Ben Chaplin, Richard Roxburgh (the funny duke in Moulin Rouge!) and Basil Poledouris (soundtrack). Instead of a good action/fantasy movie, we have this... thing. The story is so stupid, the special effects are very terrible. Oh, yes, you can see many good looking Asian hunks (Karl's group), but these good looking guys were not supposed to be the only interesting thing in The Touch. Poor Michelle Yeoh...
+version https://git-lfs.github.com/spec/v1
+oid sha256:30af1ea9fd6c7985f9daf697fb592e63aa2fe8db773fec9e38931886be52589b
+size 454

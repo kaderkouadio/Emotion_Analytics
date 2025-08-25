@@ -1,1 +1,3 @@
-Not one to dish out 10 out of 10 easily (check my other verdicts!), I must defer one to this film.<br /><br />It has been years since I saw it, but it is one of half a dozen films I'm still hassling the DVD shop if it will be available on one.<br /><br />All the elements of a great film are there, ruined if it had been shot in colour, ruined if the tune had been played on a piano, ruined if the echoes had been on modern Hi-fi, ruined if it had been any other way.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2d1ff68b4e890dbf2c0c78f90aab8257addbc4bdc8166df0d9ee67929cab47
+size 479

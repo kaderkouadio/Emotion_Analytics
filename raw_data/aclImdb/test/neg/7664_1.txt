@@ -1,1 +1,3 @@
-Its a truly awful movie with a laughable storyline.some awful acting.and a script that Ed Wood might be ashamed of.Wagner is laughable in this. He plays his role like number two in Austin Powers.Easily the worst of the Airport movies.1 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a5510e0d559e40d057e6e0f4ad78f270cb7d1f64b4947e53f470bd29b85e80f
+size 245

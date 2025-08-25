@@ -1,1 +1,3 @@
-This movie was one of the most boring horror movies I have seen in a long time (and I have seen a lot). Personally I liked the piercing take on it all that was original but other than that it was pretty unwatchable. I could not stand Dee Snider as an actor nor as a singer. I seemed that he was trying with everything he said to make it a memorable quote, which they weren't. I can get movies for free and I still didn't think it was worth the time to get.
+version https://git-lfs.github.com/spec/v1
+oid sha256:674cf975a4cd2c44f46f8f01f2fa0e9546070d896b1ffc62da4437936f66fe34
+size 456

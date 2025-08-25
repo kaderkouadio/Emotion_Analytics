@@ -1,1 +1,3 @@
-It is amazing to me the kind of trash that people pass off as art! Now, I'm an educated person with two graduate degrees, and the only "lesson" I learned from this movie was that if you are sharing a prison cell with a homosexual for an extended period of time, you too will become a homosexual. Hmmm, that makes perfect sense! What kind of dopes do these filmmakers think we are? If you're going to write fantasy, please stick to a plot that's interesting and enjoyable, like a rebellion against a galactic empire. Please wake me up when they release "Wrath of the Spider-Man!"
+version https://git-lfs.github.com/spec/v1
+oid sha256:772fb8fd467d4ac0b7d43d787e7d533597dba381e3403e43f763587c390414de
+size 578

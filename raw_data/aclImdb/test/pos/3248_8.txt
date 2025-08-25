@@ -1,1 +1,3 @@
-A good story, well-acted with unexpected character twists eg. vicious murderous gangster Bryan Brown teaching his son macrame. Although it succeeds as an action drama where you hope the good guy (Ledger) and his gilrfriend succeed, it also has some hilarious ironic black humour eg. the bank robbers who become radio competition "winners" and their reaction, the busker's revenge etc. Well worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8705faa17c6a3db84b5bdd0577573ab0d72bca943753c9cc0f3c6dd7f3077d2b
+size 405

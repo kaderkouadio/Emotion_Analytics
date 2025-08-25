@@ -1,1 +1,3 @@
-Ever since I was 12, I fell in love with SpongeBob, and could imitate his voice very well and liked the show for years. But now it has changed significantly in the middle of 4th and 5th season and has gotten worse. SpongeBob has changed in a bad way, and also the humor has changed. What's with SpongeBob's new smile? It freaks me out, his original smile was just fine. The plots of the newest episodes seem pointless; SpongeBob and other characters seem to becoming more stupid. The studio has got to get their heads together and redeem the show or it will lose its high ratings and come to an end. However, I will still like SpongeBob in the early years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e85f4b4aa02e6acf56a1f76b988b39c90b08a2344e61b57a15b2317006ab29fd
+size 656

@@ -1,1 +1,3 @@
-toplines this ok comedy about an aging father (C. Aubrey Smith) who decides to gather his grown children from around the world. Davies is working as a chorus girl in New York when she gets the news that "daddy" wants her. Hmmmm, sounds familiar. Davies' considerable talents as a comedienne save this otherwise so-so comedy as she upsets the staid British countryside with her brazen American personality. Not as sharp as some other Davies comedies, but still worth a look. Ray Milland plays her long-lost "brother." Doris Lloyd, Elizabeth Murray, and Halliwell Hobbes are all fun, too.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1b731483652f932a2141dc55e796a6745456000eeaa990dc4c30ccbac11d170
+size 586

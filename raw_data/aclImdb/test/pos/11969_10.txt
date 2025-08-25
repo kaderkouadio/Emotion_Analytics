@@ -1,1 +1,3 @@
-Scary in places though the effects did leave something to be desired unless you have bad eyesight or are afraid of the dark. However most of the acting was convincing and most of the effects were well done. I thought the creature looked a bit too much like a man in a gorilla suit for my liking. It reminded me of the original pink panther film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13e269528e00e28fac949883bd10ff1fa3879bd7b5ef4cf6a2e655d07e22cd3e
+size 345

@@ -1,1 +1,3 @@
-Of all the kids movies I have seen over the years this was probably the worst. I took four kids aged from 7 to 11 and none of them liked it.<br /><br />The script seemed to be based on a Willy Wonka style story but it just didn't have anything to it.<br /><br />If you are considering seeing this movie dont waste your time, it is bad.<br /><br />They are making a sequel, so it may be worth watching to see if they can even make a worse movie, but I don't think it is possible.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88af56e8efe5897d55423bf80a59d371a4048047bff14b5e1923961061e8a9d6
+size 478

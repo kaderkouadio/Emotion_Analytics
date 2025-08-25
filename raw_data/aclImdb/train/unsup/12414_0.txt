@@ -1,1 +1,3 @@
-With Mifunes sidste sang, Søren Kragh-Jakobsen continues the Danish Dogma group project (Idioterna, Festen) of providing us with original pictures from Denmark. We know the rules by now: camera on the shoulder, no added light, no added music, and all properties to be fond on location. This gets us as far as Wonderful Copenhagen -- The official slogan of the Danish capital city -- as one could come: Dogma stands for a dark realism, although the critique is more individual than social. And Mifume confirms the Dogma's ability to deal in an innovative way with as important matters as deviance, everyday's violence, or modern loneliness.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eb07d0ce244dc513c1f5a996e2f99e90f317414166d5273c90474822c501506
+size 640

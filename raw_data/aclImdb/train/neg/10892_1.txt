@@ -1,1 +1,3 @@
-This movie is AWFUL! I don't even know where to begin, I'm speechless I can't even describe how awful this is. The blood is flourescent first of all, and the acting is AWFUL! The only good part was the biker chick that saves the day. This movie was rediculous, I don't see how it could even get a vote of 1 its so bad. It looks like it was made by highschool students.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eedc00b2dd149fb75ecaa45b13492eb2a9c5058f0de6b2190d929b71dc0c72ed
+size 368

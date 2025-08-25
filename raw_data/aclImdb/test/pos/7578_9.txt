@@ -1,1 +1,3 @@
-I enjoyed two of the three movies in the "Sarah, Plain & Tall" trilogy. This, the final of the three, was definitely one of the "good ones. " It is an excellent family film with wonderful acting by the three adult stars: Christopher Walken, Glenn Close and Jack Palance. <br /><br />The storyline is simple but well-told. The only sub-par performance was by one of the kids. It was interesting to see how the kids had grown since that first movie. <br /><br />Of the three, that initial "Sarah," was the best- filmed with some beautiful cinematography. This movie didn't have that, but it had the best story. It had some genuinely-tearful sentimental moments and a very nice ending. <br /><br />Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82186544adf7f3862283a4f2adff95c4108bc9fa074f2e1444b9499b78cbe692
+size 714

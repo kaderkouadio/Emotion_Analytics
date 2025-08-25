@@ -1,1 +1,3 @@
-This is a totally inept movie. I cannot believe that it was released. It is eerie in its own horrible way. The girl is who plays the lead character is very cute - but where´s the horror? Where´s the humour? This is such an insult both to the genre and to any decent viewer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbac443c17112c03af9743a703244d481c9e12be07edff3628c545e0086322a
+size 275

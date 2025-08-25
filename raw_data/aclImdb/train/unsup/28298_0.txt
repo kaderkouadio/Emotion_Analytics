@@ -1,1 +1,3 @@
-I rediscovered this show through the wonders of (how fitting!) the Internet. The show is funnier for me today than when it first aired, mainly because I now understand that the main target were not children but people of more age, something that is relatively unknown. The show is wonderfully silly and smart, referencing itself constantly, spoofing Hollywood, breaking character and being as "Brechtian" as possible. Live action sequences are constantly used and clichés are consciously overdone. It is a fantastic piece of work that makes fun of TV and movies in a wacky and enjoyable way. I wish it could be revived, I really do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33f5ec1c1c68e417edf62f117b6ab531eba35096ef453a0f74608cc4606b2252
+size 633

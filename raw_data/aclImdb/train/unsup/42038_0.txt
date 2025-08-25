@@ -1,1 +1,3 @@
-Oldman's intense performance and an obvious effort to make a surreal, metaphysical statement weren't enough to pull the weight of this film. Long, drawn out scenes reminded me of the guy who goes "Get it? Get it yet? Get it now?" long after the joke has been made. Also irritating were Russell and Camps' performances, which were hard to pinpoint as whiny scripting or whiny acting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5c699d6a30fd9f9acadd3dc92b788238b6d3a6510ba2d77094c709479d2898
+size 382

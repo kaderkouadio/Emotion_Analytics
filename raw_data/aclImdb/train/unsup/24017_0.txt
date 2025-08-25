@@ -1,1 +1,3 @@
-How bad is this film??? How bad is Chinese water torture or the Spanish Inquisition. The modern day equivalent to these beauties would be forcing someone to watch 'Get Carter' over and over again. It was terrible from start to finish and I cannot say a single good thing about it except the ensemble cast was interesting and one or two of the cast did their best to salvage the wreck. 2/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc4fe4bf7ab0033bcc381bf93e506e973ad56a9d8d88e3dce5b2d9c02de27a9
+size 389

@@ -1,1 +1,3 @@
-The characters in Laurel Canyon exist as stereotypes of rich, spoiled Californians the kind of people we love to hate but we're supposed here to like. The plot develops so predictably that it couldn't hold my attention. Why would Sam consent to stay with a mother he has only bad feelings about (and he's a psychiatric resident, heaven help those suffering from mental illness)? Frances McDormand is the only reason to watch this film and even she wasn't nearly enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7665b822b3213165d8d37de7eb0465a67a9a2b6677262173c1e41752560e3c7b
+size 469

@@ -1,1 +1,3 @@
-There's definitely something a little redeemable about it, but I'm not sure what. The storyline was awful. So maybe it was the acting? Not sure, I did laugh a few times, but I think those were mostly at the movie and not with it.<br /><br />I didn't find the individual characters' preachy comments on men, women, relationships very witty. The ending was way too forced.<br /><br />Perhaps the silliness of it all is enough to make it worth a viewing if you catch it on HBO.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:624efffca4375584ed2ee5343748c38728a92a926651b7e71c1ef273b001f055
+size 486

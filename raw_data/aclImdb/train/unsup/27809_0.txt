@@ -1,1 +1,3 @@
-Carpenter does it again in this futuristic movie about New York being a maximum security prison. A great supporting cast is present, as is Kurt Russell in the movie that made him a star. For its time the F/X are good, but seem dated now. The story is great and moves at a good pace. The best thing about the movie is its bleak ending. See the movie, you'll have fun...<br /><br />RATING = 8 of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:56b11e5ad8da18b1c823d4d52739d57e6f87b2feb60f8fd657a83681dc2fdc26
+size 396

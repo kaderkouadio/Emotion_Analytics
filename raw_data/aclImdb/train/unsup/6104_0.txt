@@ -1,1 +1,3 @@
-Can a movie get any better than that? I don't think so. Polanski's masterpiece is a statement about how love has no limits and how people are guided by their sexual instincts even if they don't admit it. The film is absolutely perfectly cast and Peter Coyote deserved an oscar. A really beautifully twisted story with unforgettable performances.<br /><br />10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b878e5146dada94ec5c4a9a7e81efef6a1b410c99c411c5b7453e7f8e75964
+size 360

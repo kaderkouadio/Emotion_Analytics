@@ -1,1 +1,3 @@
-This movie is absolutely excellent and SO under-rated I can hardly believe it. The New York Police Department is trying to catch a serial killer whose victims are all men who've placed "lonely hearts" adverts with rhyming poems. Everyone thinks these crimes are being committed by a psychopathic woman so the NYPD place an "ad" of their own and 2 detectives (played by Al Pacino & John Goodman) pose as "lonely hearts" and try to snare the murderer. What elevates this film beyond the norm is the fantastic chemistry between Pacino & Goodman and the anguish driving Pacino's character. He plays a divorced detective who's probably lonelier than most of the people who place such adverts and falls madly in love with Ellen Barkin, the prime suspect. To say any more would spoil things so watch it for yourself, it's a great movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9850b4e973f51549356e1ee014d53eb1ee497f70e748add1b675c5238b2e0dc
+size 829

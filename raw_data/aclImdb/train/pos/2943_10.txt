@@ -1,1 +1,3 @@
-I think this still is the best routine. There are some others, like Rock's "bring the pain", and Allen's "Men are Pigs" that are hilarious; "Damon Waynes last stand" is also funny in a tearful way - but this routine has no errors. All the jokes are funny, and the time limit of 70 minutes is perfect. Just long enough to last 20 years. I just love how he allows the audience to be totally themselves and unrestricted. I'm a fan of the classics and for a guy who watched a lot of of Jim Carrey growing up, watching a more laid back comic is pretty cool. Not putting in a category with Ellen and Newhart, but something you can watch if you're bloated. Thanks Eddie, god bless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ee6ea3e645fa2d8b807868c2710f8a99953a722b62aed53a3b32c258c91349
+size 674

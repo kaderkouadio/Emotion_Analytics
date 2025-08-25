@@ -1,1 +1,3 @@
-I saw this movie on the Starz channel. I'd never heard of it. I watched it because I thought that Jeff Goldblum, being a star, would pick good projects. This movie is one of his poorer choices.<br /><br />Theres not much I can say about this film other than it was boring and preachy in a very amateurish kind of way, with B-movie style dialogue and unconvincing performances.<br /><br />I walked away from watching this mess not giving a hoot or a holler about the Hollywood Ten, Salt of the Earth, the Blacklist and above all this dreadful "student" film.<br /><br />In fact I hope I never hear about it ever, ever again!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1db6b2d2c438875e898f1c35b357041f049e868cdedaa5e5bee62a8adbc4352
+size 623

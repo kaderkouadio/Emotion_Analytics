@@ -1,1 +1,3 @@
-Well I gave this movie a 7. It was better than "Thirdspace" but not as good as "In the Beginning" as far as the B5 movies go. I really think the television series did a much better job overall with the special effects and character portrayal. Let's hope the producers and cast get the next series "Crusade" up to the standards of B5.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff736b96dac4a3a26bebb69542e23887a81920142c51b418a4a2b2d494a95776
+size 333

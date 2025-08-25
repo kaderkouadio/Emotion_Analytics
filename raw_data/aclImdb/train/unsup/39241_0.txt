@@ -1,1 +1,3 @@
-Beyond its attractive, feathered hero and a surprise appearance by Thelma Ritter (her last as it happens) as a woman in the hospital's waiting room, "What's So Bad About Feeling Good?" actually has very little to recommend it even to the most desperate entertainment-seeker.<br /><br />In this labored farce, seemingly endless variations on its one joke are tirelessly milked to extinction.<br /><br />True, Dom De Luise, when he finally appears on the scene, does liven things up considerably. But is it worth waiting for Dom through a boring hour with pallid George Peppard and tiresome Mary Tyler Moore? Even the New York locations and a Vic Mizzy score fail to overcome the ennui produced by a combination of dull writing and charmless leads.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49200c2accc284438663a5db6bc4bf51a598bbefa2c122e7c492d75b08543f27
+size 746

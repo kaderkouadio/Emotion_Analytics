@@ -1,1 +1,3 @@
-This movie is fantastic. I don't think anyone except Hitchcock could have made such humour out of a dead body. Shirley MacLaine (in her first role) is delightful and Edmond Gwenn perfect. You'll see a young Jerry Mathers pre-dating Leave it to Beaver by a few years. Don't miss this little gem, it's as funny today as it was in 1955 and I suspect for a long time to come.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0eba8a68d0d8d170dd5e365aae6dbd361da389d383eba7ee7c236366e441d5
+size 371

@@ -1,1 +1,3 @@
-This movie had lots of potential, beautiful women, cute guys, a beach, beer, a hot tub, a mansion on the beach, a swimming pool, a sexy maid who hates her job, and really nice cars. However, the movie had one thing that doomed it to failure... a full length script and a bunch of sexy women who want to give acting a try because they think it would be a cool idea.<br /><br />Let's put it this way...<br /><br />If you find yourself at a party and you have a choice between watching this movie or a childs potty training video from the 70s, choose the potty training video.
+version https://git-lfs.github.com/spec/v1
+oid sha256:044b1c123764dfe05c4d1ee915554a6bac74071f523e68e605ac366c25a2f6ba
+size 573

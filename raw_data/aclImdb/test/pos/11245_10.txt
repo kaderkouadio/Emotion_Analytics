@@ -1,1 +1,3 @@
-The show itself basically reflects the typical nature of the average youth; partying and picking up chicks is the common weekend goal at the clubs. People frown upon the show due to its "perverted" idea of picking up girls using technique and strategic characterization, but truth be told, practically every young guy is out doing it at the club. Overall, the show really appeals to the younger population, as we like to see the outcome of a "player's" performance at the club, as the show offers a comical approach made possible by the judging panel. <br /><br />10/10; a cool, fun and thrilling series that allows the audience to really interact. Good Job Boys.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2396776a41816eb8f2f4f395dd221d9b7e39393d8e2872c13d257b0e15ad790
+size 663

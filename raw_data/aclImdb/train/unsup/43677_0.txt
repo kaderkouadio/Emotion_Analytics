@@ -1,1 +1,3 @@
-in that dying minute of the action part of the movie, that seems to last an hour, the conflicts between the aspiration of the scriptwriter and the inspiration of the filming crew is revieled. from an A to a F in just 1 mínute, huh?<br /><br />however what is more worrying, is that this recipe has been used to cook up that world famous jack 24 hour bauer story, that makes you wanna move to the country or beyond!
+version https://git-lfs.github.com/spec/v1
+oid sha256:62682c8ac4ad364b6088d85977602cd08d6e886e39f6b2f68827b354dd50f682
+size 415

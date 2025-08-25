@@ -1,1 +1,3 @@
-The plot is tight. The acting is flawless. The directing, script, scenery, casting are all well done. I watch this movie frequently, though I don't know what it is about the whole thing that grabs me. See it and drop me a line if you can figure out why I like it so much.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30055b52ecc0282ff8ffcb15fdd7d8d00de6a4b2175d5710692c76622f7fcfe5
+size 271

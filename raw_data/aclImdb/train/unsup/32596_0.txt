@@ -1,1 +1,3 @@
-Apparently everyone likes this movie except me. Strange thing, too, because while I was watching this I couldn't find a single positive redeeming quality to raise my opinion of it - even the locations are not photographed very attractively. It's a boring mystery tale, that never manages to get you involved, and when everything is revealed you don't get any particular pleasure from the resolution. In fact, the movie takes so long to reach at wherever it's going that you may feel like dozing off on several occasions. Denzel Washington, in this particular role, doesn't show enough star charisma to hold the picture; his co-star, Robert Townsend, steals the show as the cheerfully irresponsible "victim of circumstances". (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b1c0e06e2db949000d961d349b6f756a8db87dbd3c6a087548ad546d1420728
+size 731

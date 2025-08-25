@@ -1,1 +1,3 @@
-I personally thought this film was good. 7 out of 10. I thought the acting was very good. But I have to admit the plot was interesting. Unusual. Different. But that is why I liked it. It wasn't like every other gangsta, mob, shoot 'em and kill 'em film I'd seen. There wasn't 60 minutes of blood and gore. Which I am glad about: there is too much in this industry anyway.<br /><br />So if you want a movie that is a little different. And maybe even a bit unusual, go to your local video store and rent Gun Shy.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:eaf2bd3d5693c7de349b0e1281bbaafc0f60e9f43ca59113687be7f50925b4cd
+size 522

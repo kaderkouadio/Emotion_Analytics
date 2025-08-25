@@ -1,1 +1,3 @@
-As a piece of art, the film might suck, but who cares? Plenty of the greatest names of occidental modern music didn't, why should I? Not to mention that Elwood's speech about the mission of the band is one of the best I ever saw on a movie. Gonna make a t-shirt of it. P.S.: I dress and act exactly like Elwood in real life, so remember this is a fan's opinion... :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7888c3c09c9e707d60f17c58eabeb361ac7bf3567442572f9ce28a4d07b0978
+size 366

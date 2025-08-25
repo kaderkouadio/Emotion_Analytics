@@ -1,1 +1,3 @@
-This film was more effective in persuading me of a Zionist conspiracy than a Muslim one. And I'm Jewish.<br /><br />Anbody go to journalism school? Read an editorial? Freshman year rhetoric? These alarmist assertions, presented in a palatable way, might prove persuasive. But by offering no acknowledgment of possible opposing arguments, nor viable (or any at all) solutions, few sources and each of dubious origin, makes the argument an ineffectual diatribe.<br /><br />And thank goodness for that -- I wouldn't want anyone to leave the theatre BELIEVING any of this racist claptrap.<br /><br />A good lesson for me -- and hopefully a cautionary tale for you -- to actually read about a film before seeing it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b931b20eb9ef9b7212ccac9caa09a5435d31eadf2e4755342ebc0d7cd4edc73
+size 710

@@ -1,1 +1,3 @@
-Howling V is my favorite so far out of all the Howling movies. However, that doesn't mean this is a good film. The acting is pretty bad and the effects are absolutely horrid, but the plot is decent enough to make it tolerable. This one, the original Howling, and Howling IV are the only ones worth watching out of the first 5 flicks. The Howling series is really really bad. Only true horror fanatics would be interested in them at all. The only worse horror series i have encountered is the Children of the Corn series. Howling V is pretty predictible and the characters aren't killed off fast enough, so it moves kind of slowly. The music played after each death is annoying too. Recommended for Horror/Werewolf fans. Rating 4 of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a3af15f43d8f28a350829691972a83e757d84e8619d81ff9727c0b52b8222c6
+size 735

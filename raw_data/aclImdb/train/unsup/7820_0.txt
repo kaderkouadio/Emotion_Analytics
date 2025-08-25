@@ -1,1 +1,3 @@
-SPIDER LABYRINTH is a late Italian Horror film, obviously inspired by the classic works of Mario Bava and Dario Argento. However, this is a classic in it's own right. A young scientist travels to Budapest to investigate the reasons for unexpected problems with a top secret project. He soon becomes, ah, entangled in the web of a sinister society... Highly recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bba7dd31750a44022a7d9c48b68fcc5bc1bfbbdead69269bae9dae758bd4015
+size 369

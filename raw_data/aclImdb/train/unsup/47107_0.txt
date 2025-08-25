@@ -1,1 +1,3 @@
-Simple fun.<br /><br />Often movies with a simple and low brow approach fall on their face but this one pokes fun at itself for it so it's not necessarily a requirement.<br /><br />Drew Barrymore was the only mis-cast person I can recall. I appreciate her as an actress but she hardly seems fit enough for the physicality of the part.<br /><br />Largely eye candy, it's worth a watch.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:dff4c8de57c426b5c23a54390f1e3f870a3748833132f4bc35ce279978b1e26e
+size 396

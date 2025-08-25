@@ -1,1 +1,3 @@
-Bravo Bava! This is cinematographer/director Mario at his excessive peak in this brilliantly fast and furious slasher classic. From the chilling outset to the "knock you out of your seat" closing, Bava handles the breaknet speed of plot development and the whirlwind body count escalation with masterly finesse. This is all served up with his trademark excesses of color, cinematic camera techniques, diametric mood shifts and glorious ghastly gore at there pinnacle, as well as with the slyest Italian tongue-in-cheek. The definitive slasher flick. God Bless Bava!
+version https://git-lfs.github.com/spec/v1
+oid sha256:68d965140eaed31c2fe53d4aa1454d2ed799718dd93d4385d6913939050295dd
+size 565

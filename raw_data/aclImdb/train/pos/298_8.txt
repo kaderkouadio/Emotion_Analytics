@@ -1,1 +1,3 @@
-New York has never looked so good! And neither has anyone in this movie. While the script is a bit lightweight you can't help but like this movie or any of the characters in it. You almost wish people like this really existed. The appeal of the actors are what really put it over(John Ritter, Colleen Camp and the late Dorothy Stratten are particularly good.) Go ahead and rent or buy this movie you'll be glad you did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5aedb7e7e772c9e195784917da9614ac81f68ee7f15d70b5f78ef4e8d03591a
+size 419

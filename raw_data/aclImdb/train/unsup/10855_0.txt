@@ -1,1 +1,3 @@
-this movie was Excellent.. lots of excitement... and scary at the same time.. i really enjoyed it.. but the only thing i didnt like about it was Amy Irving.. shes not one of my favourite actresses.. but Andrew Stevens and Kirk Douglas were very good in this one..<br /><br />I highly recommend this movie..
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0276d323066ec89fc59154f7d9b002c0d20b30c8b465b058b20be124dc2fca6
+size 306

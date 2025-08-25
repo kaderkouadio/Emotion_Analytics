@@ -1,1 +1,3 @@
-Well, if you're expecting a Hollywood blockbusting action style flick, you'll be sorely disappointed. It is based on a Japanese manga, but it's not one of the kill everything type of mangas. The vast majority of people are already dead.<br /><br />The film loses something in its translation to English. It is based on a bleak view of how an apocalypse would affect Japan, or more particularly Tokyo. All I can say is that the characters reactions, psyches and the types of characters involved are typically Japanese in style. The extremities of some characters reactions seems unbelievable, but they are common extreme reactions found in Japanese mangas and other Japanese productions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02abe0ed5619d1cdec56e712ecd3f2deb93ac041606ae928f94730e6f7297f7f
+size 686

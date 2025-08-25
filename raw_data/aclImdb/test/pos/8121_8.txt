@@ -1,1 +1,3 @@
-After a long wait, "Bedrooms and Hallways" made it to Perth cinemas - not a commercial one mind you - and I thought it was fun, honest and took a swipe at those 'tribal scream' groups running around trying to find meaning in rocks and 'what's behind my eyes'. It is playing to full houses over here because it tells a story, has terrific acting and says something about the human condition.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b162156138696d5df4860b34e1e0e30f5fdbe7a6703c0dfb06cf6c70a2f3ae9
+size 390

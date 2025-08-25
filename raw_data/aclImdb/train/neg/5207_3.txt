@@ -1,1 +1,3 @@
-Anemic comedy-drama, an unhappy, seemingly rushed affair featuring Cher as a woebegone housewife who slowly makes friends with the hit-man who's been hired to kill her by her husband. Chazz Palminteri, as the talkative hired gun, adapted the screenplay from his own play, with stagy set-ups and back-and-forth dialogue that quickly tires the eye and ear. An air of gloom hangs over the entire project, and director Paul Mazursky can't get Cher out of her perpetual funk (she's listless). Despite all the top talent (including Robert De Niro as one of the producers), "Faithful" is fraudulent, with no substance to the story and characters who rarely come to life. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:4282dcdc3db7dd47476adbd682d90f60b98cfc062b9fb042f5ce189b04c56bca
+size 678

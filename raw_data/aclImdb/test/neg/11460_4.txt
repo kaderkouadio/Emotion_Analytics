@@ -1,1 +1,3 @@
-Unfortunately, this film is typical of the watering down of a good film by numerous sequels. Universal made several serial monster films in the 1940s, which were pale imitations of the original. The intelligent Egyptologist Imhotep has been replaced by a leg-dragging Frankenstein in mummy wrappings, who exhibits no signs of intelligent life. This film is entertaining in spots but if you have seen The Mummy (1932), you will be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ace49a110d4800e73b6ac672e62da317be289b727548beb7003552cab36263b
+size 443

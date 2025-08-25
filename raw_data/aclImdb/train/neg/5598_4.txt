@@ -1,1 +1,3 @@
-Saw it at the Philadelphia Gay and Lesbian Film Fest.<br /><br />What can I say? Against my better judgment, I liked it, but it seemed to me that that acting was a little...weak (mostly I noticed this from the family of the teen boy). I mean, the script wasn't stellar to begin with, but the actors didn't make me believe the relationships.<br /><br />The plot is also predictable.<br /><br />Nonethelss, I liked it. The characters are likable, and the plot is not challenging or upsetting. It's sweet, the characters care about each other, and I don't count it as fifty minutes ill-spent. <br /><br />But I don't recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49750455bbb2d40f1966a002cc921aec7dba7e78e8de09bd5ae74fe2c1e3c081
+size 627

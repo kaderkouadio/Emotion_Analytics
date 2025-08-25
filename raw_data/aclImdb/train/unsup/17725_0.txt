@@ -1,1 +1,3 @@
-I had never knew that this Silly Symphony was Donald Duck's first theatrical appearance as well as for his voice-artist Clarence "Ducky" Nash too; and besides, I love Donald Duck, along with Mickey Mouse, his canine pal Pluto (which is unusual, because I am a cat-lover) and Chip n' Dale. This Silly Symphony is adapted from "The Little Red Hen" fable, and I know that story well; I love it whenever the Wise Little Hen says:<br /><br />"Will you help me plant my corn? Will you help me plant my corn?" And Donald and Peter Pig would say in this cartoon: <br /><br />"Who? me?! oh no! I've got a belly ache!" (that was great timing).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7be61812c563731b686b3ab017a2ed274a949f282190cb3e2cad0caf29b07818
+size 633

@@ -1,1 +1,3 @@
-Cheesy script, cheesy one-liners. Timothy Hutton's performance a "little" over the top. David Duchovny still seemed to be stuck in his Fox Mulder mode. No chemistry with his large-lipped female co-star.He needs Gillian Anderson to shine. He does not seem to have any talent of his own.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9151b1a6831a38e11bcdd4e998f5cc1e79296f5e18bce08ec4e06688afcd7d52
+size 285

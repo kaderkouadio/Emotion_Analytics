@@ -1,1 +1,3 @@
-I work at a video rental store, so I get to rent movies for free. I like horror movies, really any type of movie. As someone else stated the covers for these monstrosities are getting much better. I rented this one on a whim because it didn't look too bad, but I was way off point. The acting is terrible, the plot is terrible, the script is terrible, everything about this movie is terribad. How it even got picked up for production is a feat in itself.<br /><br />Don't waste your time on this piece of crap. It's an hour and a half of your life you will never get back. At least it didn't cost me any money.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c512caadd4fc1694f7e599b210cabd27b4af0afb36e4b9432411ddd64dd95ce2
+size 610

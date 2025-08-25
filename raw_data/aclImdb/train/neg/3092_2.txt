@@ -1,1 +1,3 @@
-If movies like Ghoulies rip off Gremlins, then Hobgoblins sinks to the new low of ripping off garbage like Ghoulies. These barely-animated furbies have some kind of scheme to fulfill fantasies (which involve basically groteque characters' sex dreams - oh joy), but what that has to do with anything is anybody's guess, except to let the director indulge his kinky penchant for erotica. They show this down in the 8th circle of Hell, one suspects. There's no real plot - just "goblins - kill!" and feeble attempts at humor and a mild attempt to arouse the viewing audience.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ba221b8ffeff3c049367a4a7841c1c05862c4f836173c830b723ea27e9c12de
+size 572

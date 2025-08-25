@@ -1,1 +1,3 @@
-I remember watching this movie. It was like 10 years ago. I was only 13 and I still remember it. Because of all the excitement and nice working. I really think that this is one of the real classics of movies! What gets me even more is that the story doesn't end "good". The main character dies and that is a rather suprise ending. All in all a real classic of a movie. In my opinion
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b0519ba706cc99a1ef8880ae9b240fde36725727632e8a12072000cc0736c5e
+size 382

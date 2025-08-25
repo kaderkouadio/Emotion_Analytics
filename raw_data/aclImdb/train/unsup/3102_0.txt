@@ -1,1 +1,3 @@
-Gremlins probably is under rated, but it thourougly delivers when your looking for a comedy and a bit of tame horror(theres hardly any). Even though the little critters are evil, they are very likeable and the people who created them did a fantastic job in designing them.<br /><br />And in the end, after you watch it, you really will wonder if thats a possum or gremlin in the vent ;)
+version https://git-lfs.github.com/spec/v1
+oid sha256:93ec2a4c70710200cf3c8fdcec17cfb5993a6d996fd682e4d2b4b2ccaf5bb5e5
+size 386

@@ -1,1 +1,3 @@
-A wonderful surprise of the Spanish cinema. I never thought Jordi Molla could be such a great director, after all, I really don't care much for his choice in movies. However this film was absolutely fantastic and not predictable at all... something I ALWAYS enjoy! It hasn't enjoyed much good press and I really don't think it'll ever be released in the US market. We'll have to content ourselves with the DVD or VHS if even that... I don't want to say much about the story because I don't want to spoil it for you but basically the movie is about a homeless drunk who becomes the new messiah just for kicks and to get some money out of it (like sooooooooooo many), before he knows it he is immerse in a life he was not counting on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b93ea91e4172cc1ab6ab0dec5251a2da2b67ec0b5a24c40a6717876fc89677
+size 732

@@ -1,1 +1,3 @@
-People love the original story for its ending. The Hollywood style ending made this 99 version of 'A Dog of Flanders' just for kids movie. I didn't cry this time because the story was too Hollywood. Japanese TV series are much better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a872a5ee0c38a271a8bd17d09727181a4165aab847aa0cba7be66306cd82e21f
+size 234

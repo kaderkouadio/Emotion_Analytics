@@ -1,1 +1,3 @@
-This film is bad. It's filled with glaring plot holes, characters who are ruled by stupidity, bad acting and above all, a poor script which has been done before in many, many films, only better. I feel sorry for Donald Sutherland, I just hope he had to do this film rather than wanted to! Miss it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df7749937d0a115c5872269d39b9dde55243ad5702b5fbff17b0a048e8722a4
+size 297

@@ -1,1 +1,3 @@
-This movie was rented by a friend. Her choice is normally good. I read the cover first and was expecting a good movie. Although it<br /><br />was a horror movie. Which i don't prefer. But no horror came to mind while watching the movie. It was a dull,<br /><br />not very entertaining movie. The appearance of Denise Richards<br /><br />was again a pleasure for the eye. But that's it. We (the four of us)<br /><br />we're a little bit disappointed. But feel free to see this movie and<br /><br />judge it yourself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd88b0002772156ede3ed0eb1db619e4d79d9bea54cc93eaf20b3a7112bf3de5
+size 515

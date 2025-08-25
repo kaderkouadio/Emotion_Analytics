@@ -1,1 +1,3 @@
-A fantastic film featuring great Aussie talent. Director Mark Lamprell dealt with the potentially sob-inducing subject matter in a way which was humorous and refreshing. Definitely the highlight of the 2000 Brisbane International Film Festival. Australian film veteran, Sam Neill was, as always, fabulous in the role of Frank's uni professor and new talent Matt Newton gave a performance which will have people saying, " you know, Bert Newton, Matt's dad!" Get out and see this movie!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbcbe9fb29525850a1e4d5c2497707f5295d90efa54d4d7e8af5c6d5646bc06c
+size 486

@@ -1,1 +1,3 @@
-If it wasn't meant to be a comedy, the filmmakers sure goofed. If they intended for it to be a comedy, they hit the mark. Our critic says Homegrown is a wonderful film filled with family values and community spirit, recommends it for all audiences, and says that he really liked Jamie Lee Curtis's performance. It deserves a theatrical re-release.
+version https://git-lfs.github.com/spec/v1
+oid sha256:966cd273d23c39024acc18c0d83bacef6d80ebcce11496564bb7e1aa40092ff5
+size 347

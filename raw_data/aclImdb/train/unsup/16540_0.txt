@@ -1,1 +1,3 @@
-This is probably the worst movie ever made, the worst about it is that it's norwegian. Norwegian moviebuisness isn't exactly the best in the world, which by the way is perfectly illustrated by this dreadful, lame no-good piece of "art". A disgrace for all mankind!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1339be81bf38a11ebcdabb00d460d75eb537408c70fee8cc06021743f470dca7
+size 264

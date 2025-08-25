@@ -1,1 +1,3 @@
-Dramas and Romances are usually movies I tend to avoid like the plague most of the time, although on occasion I sit through one or two every so often to remind me that men & women have the same basic emotions and that it is possible to get along and be happy. This movie in particular exemplifies this completely. Its the classic rags to riches type story with an unknown, in this case a tour bus driver, who falls for a movie star and in the process learns a lot about himself, movies, screen-writing, and the joys of life. I highly recommend this as a good family, make-u-feel-good type movie!<br /><br />Overall Rating 4.5 out of 5
+version https://git-lfs.github.com/spec/v1
+oid sha256:677ee6022c52c45acbb0bf113189953950fe428b03e977a094fd700738adae4f
+size 634

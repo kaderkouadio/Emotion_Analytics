@@ -1,1 +1,3 @@
-I had no expectations when seeing the movie because I was seeing it with a bunch of friends and had no idea what it was. Some parts were silly and some parts were lame, but overall the movie was worth watching. I like goth looking women; this movie has plenty of it. The fangs do look really lame though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:babd5d1aa1ff2adcba52ca64c7165baaf7fff244c2549b2cb22a43b56c4bdd47
+size 304

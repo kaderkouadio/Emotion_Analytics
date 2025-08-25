@@ -1,1 +1,3 @@
-The Poverty Row horror pictures of the 1930s and '40s depress the hell out of me. God knows I have nothing against low-budget films, but the ones produced in that period have such a dreary, shabby look about them--and, in the final analysis, just aren't very good. "The Corpse Vanishes" is slightly more entertaining than bottom-of-the-barrel dreck like "The Invisible Ghost" and "The Ape Man", but it's no classic. Bela Lugosi, long past his "Dracula" heyday, plays yet another mad doctor; the unbearable Elizabeth Russell plays his wife. They sleep in coffins because, as Lugosi explains to a doubtful young female reporter (Luana Walters), a coffin is much more comfortable than a bed. Ho hum. Angelo Rossitto and Minerva Urecal are also on hand, which might please hardcore fans of '30s and '40s films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cfff5ae820902dc3ecd19cd4d748e74f1412d0f63506834c5d72f9897a6a282
+size 806

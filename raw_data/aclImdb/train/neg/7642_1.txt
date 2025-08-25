@@ -1,1 +1,3 @@
-Everybody just seems to be raving about the subject, and not really noticing how the movie was made. The deaf, mute guy is fine, the underdog wins - that's good, the cricket aspect is great, but the movie is average overall. I think it could be made much much better than it is.<br /><br />The plot is too predictable for a movie that is not based on a real life event. I'm sure the movie could have been made more interesting. The songs are just stuffed in there, and I had to literally forward the scenes where the same thing would be shown from different angles.<br /><br />Good acting, though. Watchable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:070da2b1d6920cd3c87f3105bc5b7bfd5bcc51a927d18b1af654c452af392623
+size 608

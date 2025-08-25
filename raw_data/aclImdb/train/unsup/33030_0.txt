@@ -1,1 +1,3 @@
-This is the second worst film of the year. First Prize went to Thin Red Line (Nominated for Best Picture??????). All the actors, who in my opinion are decent actors, had the "oh my god, my career is over" look throughout the entire film and who could blame them, Virus was a waste of time, energy and money. The story was decent, but the director completely screwed it up. It was poorly done and never seemed to captivate the viewer.<br /><br />0 stars and a 1 on the IMDB.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecdb972866a686f151cd0d1b1a3ec210b1eb6a73cda01ad4d1fc7ce430877cd0
+size 473

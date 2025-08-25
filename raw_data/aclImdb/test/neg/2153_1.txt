@@ -1,1 +1,3 @@
-The seasoned actors in this do know how to act and have proved that before but the Director, who also wrote and produced this travesty, is incompetent on so many levels. O.K. it's low budget but I know films students with lower budgets and lesser known actors who can do much, much better. For example, since there were people involved who should know better some of the gun rigs were totally out of place and never existed in those days. The stunt work was clumsy - the story stale and hokey. If some one gives you a copy of this use it for a coaster. By the way, I love westerns and have known many stunt men and even went to high school with one of the actors so I was looking for it to be good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2d96a1fd6f9f234b33a2cf4af5d7a8f4e05b7c099c9d5d66bc8b99a0707da9f
+size 698

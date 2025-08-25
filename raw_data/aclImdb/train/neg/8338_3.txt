@@ -1,1 +1,3 @@
-This movie is very important because suggested me this consideration: sometimes you can wish to be sick ... sometimes you can wish to have a syndrome ... sometimes, for example, you can wish have Goldfield Syndrome... that way you'd not remember this boring movie ... and above all you'd not remember Adam "superfluos" Sandler... sometimes, simply, you can wish... have rented another movie...<br /><br />My vote? 3 out of 10. My suggestion? If you are neither a fan of boring romantic comedies or Adam Sandler (...it's a joke don't exist Adam Sandler's fan...I want to hope it), save yourself... Someone to save? Drew Barrymore. ... perhaps.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9412ac963831008b349e3acdf879b3a8d897255dcee8acf13167bce1428b9b0
+size 642

@@ -1,1 +1,3 @@
-Ugh. The first words that came out of my mouth when I found out my friend's sister wanted to see this for her birthday. First off, I have never bothered to play with Bratz dolls once in my life, nor will I ever. This movie has got to have some of the worst dialog in a movie ever. (Note to script writers: If you really have to put "OMG" as an actual spoken line, then I think it's time to rethink your career) After this monstrosity finally ended, I looked to my friend and we looked to her sister, who then informed us that the movie was horrible. In the words of the Bratz Girls: "Like OMG! No way!" Seriously, if you want to ruin someone's birthday, then I recommend Bratz: The Movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8d1d7ba12c38cbf45f21f90083d42f1917013e0df1214be6ac11bc6270bbf90
+size 688

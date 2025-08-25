@@ -1,1 +1,3 @@
-Some where in this thing called a movie is a plot. A lot like the movie "The Candidate" but with an Italian shoot 'em up twist. I watched this one because I'm a Skeet Ulrich fan, almost turned it off it was so bad but managed to hang in till the end. Beware of this one, it has continuous flash backs which add nothing and only take up time. Cut out all the manure and the movie would of only run about 30 minutes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ae0837bb6be3ff17a4613f6d1dd898dccb284e1e1c3290a8785216a3a03e005
+size 414

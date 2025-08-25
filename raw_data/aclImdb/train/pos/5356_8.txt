@@ -1,1 +1,3 @@
-Running Man isn't a great movie, in fact it's kinda silly. But it delivers what you want in an Arnie movie and that is action and entertainment. I don't see how anyone couldn't enjoy this picture, it's so silly and over the top, that it almost makes fun of itself. By the way, this is probably one of the most quotable Arnie movies out there.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf3c221ac652bc82848a53e0d1f91ce9711f783b76218dba1156f6ac57f1cefe
+size 342

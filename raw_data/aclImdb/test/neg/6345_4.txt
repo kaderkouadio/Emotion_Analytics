@@ -1,1 +1,3 @@
-This pathetic excuse for a movie doesn't have a decent structure or a sensible closure. The characters were confusing and the entire plot kept getting off track. I'd have to say that Pixel Perfect was a disgrace. This is what happens when you let Disney channel make movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbb76c09b5ac1a229d77746c19ba6e32a116b38f2de816435162fe663456afcf
+size 274

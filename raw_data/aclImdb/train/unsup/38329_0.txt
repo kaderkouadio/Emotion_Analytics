@@ -1,1 +1,3 @@
-"What About Bob?" is one of the worst movies I have ever seen. Sure, Bill Murray did a good job, but the humor was low and the plot very untasteful. Someone earlier said that this movie "must be seen and not analyzed." That right there was enough warning for me not to see it, but did I listen? No. I just had to see the star of "Groundhog Day"--a far, far superior film--in another so-called comedy. If you haven't seen this movie yet, don't. Spend your valuable time elsewhere.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa61297a5bf8590396c5282ceb1ed8f6d52b6d384fd2496d9adef99f582235c1
+size 479

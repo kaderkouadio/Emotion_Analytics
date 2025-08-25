@@ -1,1 +1,3 @@
-I remember this movie from the 50s when I was in college. It is one of the funniest satires of American Westerns that I have ever seen. I'm only sorry that I have not been able to see it recently and that it is is not out on tape or DVD. It is a real treat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:379b70b9b39636aa2cbe2887fb95d6703e76a442d1f948ad04ed31c4cf24ea47
+size 257

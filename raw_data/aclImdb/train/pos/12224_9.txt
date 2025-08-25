@@ -1,1 +1,3 @@
-i got to see the whole movie last night and i found it very exciting.it was at least,not like the teen-slasher movies that pop out every now and then.the search for the killer and the 'partner' relationship between the hero&the so-called bad guy was parts i liked about the movie.also,i remember once being on the edge of my seat during a specific scene in the movie.i mean it's exciting.maybe some time later,i might watch the movie again...
+version https://git-lfs.github.com/spec/v1
+oid sha256:830db17eaaa44d1442d2ae37c69caab2eb4b49014568fb18e8aa1d15fd8c603f
+size 442

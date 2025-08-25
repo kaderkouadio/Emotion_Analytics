@@ -1,1 +1,3 @@
-One of Corbucci's better westerns. The story concerns a bandit (Musante) who wants the legitimacy of being a "revolutionary", but needs the help of a hardened professional (Nero) to do it. Palance gives the movie some of its best moments as a gay gunslinger ( a rival mercenary) out to revenge himself on Musante for humiliating him. Not much plot, but Corbucci's fluid direction keeps it from growing stale and the god performances from the stars make it worth watching. Also look for fun, cynical dialogue and story elements from genre expert Vincenzoni. Contains the dark undertones present in other Corbucci (and Leone) westerns, but not to as great an extent as his masterpiece, "The Great Silence".
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fafe797da912567097b9f2db8066c69e2d37cfa3abe561cef72fe9769388c42
+size 704

@@ -1,1 +1,3 @@
-This movie was such a blast! It has that feel-good, yet totally in your face attitude that draws me to a movie. It has a good message (party girl decides she needs a real job) yet she doesn't completely lose all sense of fun. I recommend this movie for anyone who needs some humor, but is also a thinker! :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:268c7f3c4f3ae55ec4ef33701a3d146708ef0bc6b7d4864a0512d583ca431359
+size 307

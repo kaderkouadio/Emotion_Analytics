@@ -1,1 +1,3 @@
-Almost laughable production, but still basically just plain bad. Impressive fire shots are almost "Backdraft" quality. Score rips-off "The Rock" except it lacks energy, just like this lame film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d8730abf63688181ce6c4fd9fa8e803c51da339f1bb8b670e0cb8c0749b5c2c
+size 194

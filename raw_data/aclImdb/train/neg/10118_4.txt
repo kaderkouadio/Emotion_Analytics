@@ -1,1 +1,3 @@
-Acclaimed director Mervyn LeRoy puts drama on film that competes with the best of soap operas. High drama is found in the loves and infidelities in New York's social set. Oh yes, don't forget jealousy can bring about tainted hearts and murder. The all star cast features: Barbara Stanwyck, Van Heflin, James Mason, Ava Gardner, Cyd Charisse and Nancy Davis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3bc76c14effc43f21009b004018a128b491d5170399ee113192dedb4ce8d83
+size 357

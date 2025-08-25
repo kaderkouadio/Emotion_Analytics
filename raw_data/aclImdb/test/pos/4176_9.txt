@@ -1,1 +1,3 @@
-"Head" is a film that has held up well since its original release date in 1968. The movie is a complete contradiction of the Monkees image. It presents the Monkees in a way their fans never perceived them; men with real thoughts. Totally controlled by their producers, the Monkees were given the opportunity to tell their side of the story. The film pokes fun at their image, the entertainment industry, and corporate America. The soundtrack contains some of their best music. It's a movie well worth seeing over and over again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0cd2e241e82556c2b151e8c9f7d2969359126786775d45ddb8352df7a083fc8
+size 528

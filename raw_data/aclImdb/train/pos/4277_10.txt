@@ -1,1 +1,3 @@
-"Ko to tamo peva" is one of the best films I ever saw. A tragicomedy with very deep implications on the fate of humankind shown through the eyes of seemingly very plain and common people from a God-forsaken Serbian province just before the start of the World War II. I saw it in a small movie theater in Russia where the film had had a very limited distribution, and I had no chance to come across it ever since. It is such a pity that this excellent film is almost forgotten now. I searched for a VHS or DVD copy of it many times, and alas - could find none. I would be most grateful to other fans of this little gem of movie-making for a suggestion of the ways to purchase a copy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe4b26f3f6e8453a793fb464c871b7f787c1c46a47464457304f2e08715a7603
+size 682

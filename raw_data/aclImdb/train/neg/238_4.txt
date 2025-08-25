@@ -1,1 +1,3 @@
-A Cinderella story made for adults who live in dreamland. The romance is very unrealistic, fluttery, lovey dovey, perfect etc. The Cinderella plot till the very end and Shahid Kapoor is the only reason for my stars. If you're looking for a dreamy romance with a twist, this is definitely you're movie, but for the rest of us real world people, I'd highly recommend saving your three hour watch time. Wake up people!<br /><br />Four out of the five people that saw the film with me would not recommend the film. We had a great time bashing majority of the unrealistic scenes. Maybe I'm missing something.. I just can't believe a movie like this can beat a classic like HDDCS!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eb7641b4be20c6a80b4009aa432cb312a7df2720c465ccf9502e8ca46b8e846
+size 675

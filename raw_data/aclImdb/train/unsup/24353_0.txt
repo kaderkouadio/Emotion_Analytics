@@ -1,1 +1,3 @@
-It is amazing how much this film sucks... The special effects are ground-breaking and I must say, the acting is the best I've seen in 27 years! Nick Jolley stars as some lady's boyfriend and his acting is pure-genious... When you see this film, watch the big fight scene he's in, it is flabber-gasting. Dr. Spectre is by far one of the best villians I've seen since Kevin Spacey in se7en. Rent, Buy, Or Steal this movie right away before you die...
+version https://git-lfs.github.com/spec/v1
+oid sha256:cabcf0f61a4c0bd89d3231fde9a12e28939c46d40c12298fd30fcc30bc87123a
+size 448

@@ -1,1 +1,3 @@
-Masterful French comedy. Brilliant visuals, and fantastic use of music and choreography alone make this a joy to watch. But Delicatessen has so much more, which may only be revealed after repeated viewing. It is moving, funny and thought-provoking all at once, excelling in every aspect a film should. At least as good as Caro and Jeunet's next film, which is often put above this, the City of Lost Children. Exceptional viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0697423f9f08b5f47f96a1f5431f7f1becc8e0e066141479f28b9e229f9e283
+size 429

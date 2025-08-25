@@ -1,1 +1,3 @@
-It's refreshing to see a movie that has very little sentimental value, but where the villains get exactly what they deserve. Gwyneth Paltrow is outstanding as the heroine who has an affair with an ill-advised lover. Michael Douglas, trying to avoid being typecast as the rich business tycoon he has played a lot of recently, is now a rich business tycoon who tries to kill his wife. The plot, though not entirely believable, at least made some sense, no small triumph in today's mystery/thriller genre. I understand that this film is a re-make of a Hitchcock movie, but unlike many, this one was a worthwhile effort.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57af24fd43b82ade0f333c13ab63d8826b52c4871ef04a444b12e87a05fff34d
+size 616

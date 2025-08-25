@@ -1,1 +1,3 @@
-This is a great movie to watch with a good friend, boy/girl friend or family. Basically one of those feel good movies you want to share with your loved ones....without all the girlie crap you find in a lot of American feel good movies. This movie is light hearted but makes you think, and will make you laugh. <br /><br />Just a really simple but universal plot. Would think most people could relate in some way to this movie. The characters in the movie are amazing and the actors do a great job in sucking you into the movie. And the movie is topped off all along the way with hilarious true to life Jewish humor. I watched the movie for the first time last night, and now I want to own it. :)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c941fddd9fdab20807ffe18a2b33292eda6baf99780f7c2ef59f14c4f47a38de
+size 695

@@ -1,1 +1,3 @@
-Uncompromising look at a suburb in 21st century Vienna mixing the stories of six groups of characters by former documentary maker U.Seidl is a provocative, minimalistic and intense piece of observation cinema.<br /><br />After the world-wide spread of Big Brother reality shows, Hundstage takes modern voyeurism to an unsettling, profound level. Hard to like but unignorable piece of European art-cinema might seem cruel and seedy, yet manages to convey the nihilistic alienated feeling of modern society in a praiseworthy manner.<br /><br />A must for lovers of world cinema.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96078446d5d8309ae813e11f537e6121c15863f7421af4c5454edfd1929d1eff
+size 576

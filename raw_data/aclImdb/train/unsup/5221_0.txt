@@ -1,1 +1,3 @@
-What better way to make an encore performance of a classic TV series? Make a movie.<br /><br />The Superdimension (not Superdimensional) Fortress Macross: Do You Remember Love? re-tells the famed Macross story with a whole new style. Actually a "fiction within fiction," it varies from the original storyline, a near-perfect complement to the series. Perhaps it doesn't match the substance of the series, but the improved style makes up for it. With improved designs, animation, and the new title song, even the most ardent Macross "purist" will enjoy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4674f4b36816fa28925d2aa7a2e8b46f2923fbcf5cb20e5ea267a0d000fdbf4
+size 552

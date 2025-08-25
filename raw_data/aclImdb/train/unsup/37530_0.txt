@@ -1,1 +1,3 @@
-This movie is very similar to the 1980 film Xanadu. A lot of IMDB users may not like that film either, but at least Xanadu had the beautiful Olivia Newton-John and a great soundtrack. This film has about 10 minutes of the cute Marisa Tomei and 1 decent soundtrack song (Say the Word by Arcadia). I wanted this movie to end so badly, yet it was like watching a car accident. I just couldn`t turn away because it was so bad!! This movie is no `Xanadu`.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea2a58479cf293a37f03199a7779a1c5de3466249b7006cf092acc3b1f2e9d4
+size 450

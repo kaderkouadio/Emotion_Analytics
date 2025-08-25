@@ -1,1 +1,3 @@
-I've never seen a film starring DeNiro which disappointed. He is a brilliant actor, one of the very best, and I expect first class entertainment. Some situations in this film are hard to swallow i.e. the helicopter chase where machine guns fail to stop DeNiro and his two "companions", a "dip" in a very turbulent river fails to shake the determination of DeNiro's pursuit of Grodin who manages, despite the encumbrance of a large overcoat, to remain afloat. Aside from a few other minor flaws it is good entertainment with lots of wise cracks from DeNiro which help underline the comedic aspects of the film. I've seen it three times and will see it again.........K.M.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef9004619e5a4b5d5e7eb96ff5d9ae89c09ee649201f623f90f097f196afa4d8
+size 669

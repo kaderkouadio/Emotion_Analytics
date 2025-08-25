@@ -1,1 +1,3 @@
-I can think of no movie that better captures the concept of grace, in a theological sense. The well-intentioned religiosity of a small congregation, gone awry after the death of their leader, robs from them the very thing they preach: grace. The costly gift of a humbled Parisian culinary genius returns them to their calling to love one another, and humbles an aging general concerned that he's wasted his life. CHOICES is a central theme, as well as grace. At the same time, artistic gifting is recognized as having a powerful, transcendent role to play in everyday life, and the life to come. Impossible to improve or ignore. This is a life-changing film for those who hear its message.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10466259d63b175da4bced996d19d03cb4a1281d049457a74a7282f996700fef
+size 689

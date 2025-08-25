@@ -1,1 +1,3 @@
-The pros of this film are the astonishing fighting scenes - absolutely incredible sword-moves and martial art show off. A true John Woo masterpiece. The story tends to be a bit week though, but it never overshadows the overwhelming display of acrobatic martial art action. If you are into martial art movies, you are going to LOVE this one!
+version https://git-lfs.github.com/spec/v1
+oid sha256:28588ff61419b9f109444f9db1abbafd1c0ebfe79e5e413cb3772f464cc4217c
+size 340

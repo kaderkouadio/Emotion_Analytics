@@ -1,1 +1,3 @@
-Adventures in Dinosaur City, though a creative idea, was a nauseatingly atrocious attempt at filmmaking. Being sucked into a TV and into a new world is interesting. Three teens obsessively enthralled with half-animated dinosaurs is not. Don't waste the time or the brain power to see this sure loser. I wouldn't even let my kids watch it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5883cba5e12bd541ab3cff0a9a91d28480d85fba430104d7e9e352bad10a4bc8
+size 338

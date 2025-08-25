@@ -1,1 +1,3 @@
-When they came up with the title, if the filmmakers meant the seemingly endless stock of poor genre films that are being pumped out in the wake of digital film-making, then this is indeed "one of them". This cheap, irritating and boring "horror" film tries to be a combination of Final Destination and the Skulls. <br /><br />Viewers are treated to horrible lighting and dismal video quality. The plot, such as it is, concerns a bunch of teenagers who are being hunted by other dead teenagers. I wish I could be more specific, but the story was so confusing and badly written that I am hard pressed to tell you what this movie was about. I just wish that I had bypassed this one altogether.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8b8c9be7f38f42753da53ef703a6022b6ee5061324cdb4bdb57d998bfe689b
+size 690

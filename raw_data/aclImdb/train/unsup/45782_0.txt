@@ -1,1 +1,3 @@
-John Wayne was never a great actor. But his films were entertaining.<br /><br />Most American films of this era were similar in that the actors never looked and spoke authentically. The costumes and animals were first rate and you could not tell they filmed the picture both in radioactive contaminated desert and radioactive contaminated movie set. It appears all involved thought they were making some kind of epic, but really you can see the overacting.<br /><br />If someone would dub the film with mongolian accents, it would be highly comical.<br /><br />The untamed princess Bortai, Susan Hayward was such a hot babe for her time. Those crazy hairstyles!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f5e2c4f902b15eccb832b39b61b9db0cda331f6efc2fc5662f9cef84cb61fce
+size 661

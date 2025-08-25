@@ -1,1 +1,3 @@
-Generally political messages are done on television, so if you are a big fan of environmental correctness, watch to your hearts content. Most people go to the movies to be entertained, not sold some poppycock political nonsense. The hook here is the big name cast. Unfortunately the sum of the performances equals a whole movie that went absolutely nowhere. The two best performances, Chris Cooper, and Richard Dreyfus, have minimal screen time. In short, "Silver City" is to be avoided as entertainment. It is nothing more than a non documentary, rambling political expose on illegal immigration, pollution, and any number of other causes that do not belong anywhere except on the small screen. - MERK
+version https://git-lfs.github.com/spec/v1
+oid sha256:75bf74ca2f26f3d671afb189cc673f5fa8bbcb45c65fcc9e5e492909007b7cea
+size 702

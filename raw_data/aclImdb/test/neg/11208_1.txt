@@ -1,1 +1,3 @@
-For many year I saw this movie as a real movie of ninjas but after study more about this culture I can only think this is just another karate film. A black shinobi and some weapons doesn't make a ninja, it's much more than that. The ninja are the most dangerous warrior of the japan because they are trained in every aspect of life to survive to anything, killing whatever try to stop them. This movie is not a about a ninja warrior just about a clown trying to be something he cannot even understand.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae39364533e01116d1ca1fea91909d147234928813bf9c563de2e0263d01713
+size 501

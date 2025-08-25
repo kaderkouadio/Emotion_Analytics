@@ -1,1 +1,3 @@
-Mainly a biography of a lustful doctor, "Robert Merivel ," (Robert Downey) who has his way in the king's palace for the first half of the film and then helps out the downtrodden in the second half, mainly "Katharine" (Meg Ryan).<br /><br />The GOOD - Fantastic set decoration (i.e. the lush king's palace) and costuming make this a visual treat. The language is also very tame. Ian McKellen and Hugh Grant provide interesting support.<br /><br />The BAD - After 50-60 minutes, this movie simply gets too boring. It desperately needed to be given some spark after an hour but it does the opposite: it drags on and on. The script certainly needed some badly-needed "restoration," shall we say? The film may look nice but it's a long two hours to sit through.....too long.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b71f4899e9ce43ce3eb3c660a9947527b13a767d8a7366b0ea80695cfb9640
+size 769

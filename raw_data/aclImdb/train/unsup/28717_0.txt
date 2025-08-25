@@ -1,1 +1,3 @@
-The special effects and make-up are well done. The plot is standard. Characters are really fun, especially the priest. But the main girl and guy were a bit of a bore. As if cast only for their looks (which is usual, but at least look for a bit more, right?) The Scarecrow is funny and entertaining. He could've easily become one of those horror film characters like Leprechaun, or PumkinHead, or Jack Frost. But not exciting enough to become a Jason, or Freddy. Not much to say except i enjoyed it, rather than getting just plain bored.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d38e1289d6c74ddc51374016a3adafdb1602302f1308f98befa5685455cc43
+size 536

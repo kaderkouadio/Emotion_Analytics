@@ -1,1 +1,3 @@
-I am a major horror film buff, but this was one of the worst films I have ever seen. Typical of "Special Effects" movie, the story line suffered (or should I say, "What story line????") The gore wasn't even cool gore, just lame! I had to shut it off, and come back to it later. That was the longest 96 minutes of my life. Three story in one movie, but you never really knew when one ended and another began. I actually didn't realize that it was 3 separate stories until I read it here. Lucky for me, I purchased this at the local swapmeet for $1.00, which was actually overpriced by 99 cents. Don't bother with this film, unless you need something to put you to sleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ddd38c685cb813d3066b434f5ebb444541ec9043a4292c4d11094fc1bbf73d
+size 669

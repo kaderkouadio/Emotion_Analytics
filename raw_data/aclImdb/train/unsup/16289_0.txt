@@ -1,1 +1,3 @@
-The horrors of the Nazi death camps is brought into sharp, stark focus in this brilliant movie. A horrific study of human nature. A deeply disturbing collection of graphic images. Intense acting and very unusual direction tells the story of the Sonderkomandos... those hapless inmates who where given the terrible task of loading the ovens with the copses of their gased neighbours, friends and family. Not suitable for a first date, but definitely a movie you should see with someone with whom you can talk openly afterwards.<br /><br />Watch it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:09d2abc26ab6ad48dde9a5131fac7b374317ff1e236c88f49820d78eb7cea6ea
+size 547

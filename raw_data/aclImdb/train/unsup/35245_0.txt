@@ -1,1 +1,3 @@
-Remember Paul Brickman?<br /><br />The director and writer of "Risky Business"? The director of "Men Don't Leave"? Remember?<br /><br />Well, here's one to forget.<br /><br />In spite of Friedkin as director, in spite of great special FX and in spite (or maybe because of) Chevy Chase as the star, "Deal of the Century" is more of a swindle. <br /><br />1983 wasn't a very good year for movies, and here's more proof if you needed it.<br /><br />If this really was the "Deal of the Century", let's all try to hold out until the year 2983, shall we?<br /><br />Two stars. One for the effects and another for Sigourney Weaver. She did better in "Ghostbusters".
+version https://git-lfs.github.com/spec/v1
+oid sha256:e053400404bf3c873507e58d1cc31af1afa6270ea9d4b2b14a67d1bb65dc323f
+size 658

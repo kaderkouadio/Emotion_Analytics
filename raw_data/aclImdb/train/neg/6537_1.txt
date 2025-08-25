@@ -1,1 +1,3 @@
-First be warned that I saw this movie on TV and with dubbed English - which may have entirely spoiled the atmosphere. However, I'll rate what I saw and hope that will steer people away from that version. I found this movie excruciatingly dull. All the movie's atmosphere is lost with dubbing leaving the slow frustration of a stalker movie. I'm sorry, but the worst movie sin in my book is to be slow except when the movie about philosophy. I didn't see any deep philosophical meaning in this movie. Maybe I missed something, but I have to tell it like I see it. I rated it a "1". What can I say, U.S. oriented tastes, maybe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22482f059b59ba207cd78a4bbc05328c01ebf3ea639d903172f3909b1bf9f8ea
+size 625

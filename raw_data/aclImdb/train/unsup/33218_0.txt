@@ -1,1 +1,3 @@
-First of all, I'm not a Pokemon fan. I rented this movie one day because I was frightfully bored. Now, the movie itself was not ALL THAT BAD. Sure, the dialogue sucks, the characters suck and you could care less if Ash suddenly blows up, but the movie did have a few redeeming qualities. <br /><br /> The animated short, Pikachu's Vacation was not one of them. The short was nearly UNBEARABLE, as it was all in Pokemon Jive Talk. It was so excruciating I nearly fast forwarded to the movie. Now the movie itself was ALMOST average. I didn't care for any character except maybe Mewtwo, who was the only one somewhat developed. The movie does have a good message, but they almost state it directly. The final battle was almost exciting, but other than that, this movie is for the Pokemon fans. 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d75bde9f6d653287719def57956f379414cb9fddd4c77860f8f8b2a3a33b7a83
+size 796

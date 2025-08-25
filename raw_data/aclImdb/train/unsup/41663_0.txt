@@ -1,1 +1,3 @@
-This is sheer torture. Pure trash. Genuine idiocy. Absolute pretentiousness.<br /><br />I cringe every time the characters lapse into theatrical dialog in French. I seethe with unbridled rage every time the characters deliver philosophical pieces of crap. I switched off the player after 15 minutes of uncontained stupidity of characterization, plot, and amateurish film-making.<br /><br />You have no budget for authentic 1920's French backgrounds? Throw in the smoke machine. Ninety percent of the film is drenched in smoke to hide the fake settings.<br /><br />I can go on and on explaining what is wrong with this movie but my patience has run out.<br /><br />Gpo see your nearest lobotomist.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc2f9935918a32ffc1b4b81204ee9498614b5152d237cdca7fc7b4017eb7d74a
+size 696

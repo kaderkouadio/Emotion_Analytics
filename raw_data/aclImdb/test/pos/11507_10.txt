@@ -1,1 +1,3 @@
-This film by Friðrik Þór, director of Children of Nature, is powerful. It has great music by Sigurrós and good acting. It shows how sad insanity as a disease can be. There are many good jokes but the humor is dark. If that is not a problem then you should see this film. Note though this is not a comedy but a drama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42b393398d33f83c09d30c64c8a17d382de3418914743101cbc023277b77bc0
+size 320

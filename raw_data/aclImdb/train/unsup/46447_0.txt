@@ -1,1 +1,3 @@
-OK. "American Ninja 3 - Blood Hunt". Starring David Bradley as the lead. I don't know why Dudikoff quit, but I wish that it hadn't happened. Not that I dislike David Bradley, but Dudikoff is just a better actor, without doubt. On the contrary, Bradley is better in the fighting scenes, which (as always) makes up an important part in the movie. The problem is that Michael Dudikoff and Steve James had a special chemistry between themselves that now is gone. But it was a relief finding out that James was in this movie. Without him, it had been much worse. "American Ninja 3" has much of the same as in the two first movies, but with lower quality.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b1676c8d90ab7001920e708a86307d23c8db17afc8e01424b5602aada04f6d
+size 649

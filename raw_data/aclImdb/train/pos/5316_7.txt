@@ -1,1 +1,3 @@
-This is the second film I've seen of Ida Lupino as a director after 53's the hitch-hiker. I think this one was a better film then that one. This one has a girl who is about to get married and she is then sexually assaulted and doesn't like everyone looking and talking about her so she runs away and and is taken in by a family. I think Leonard Maltin's review is right only to give it 2 and 1/2 stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:909d54fc81b88c4a89b8ec441f5fefcc3dd9f797e60c60a104fa5ff7bb86fbcc
+size 402

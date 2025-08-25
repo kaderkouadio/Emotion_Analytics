@@ -1,1 +1,3 @@
-Strangely, this version of OPEN YOUR EYES is more mature and more nuanced. Aided by hindsight, Crowe's screenplay is a lot tighter and more fleshed out than Amenabar's original. The Spanish filmmaker should get credit for thinking of the story first, but there's no doubt that Crowe has improved on it -- if just slightly. Notice that you have no idea what the lead did in OPEN YOUR EYES, but you know almost everything about the lead in VANILLA SKY. That's what i mean by more "fleshed out."
+version https://git-lfs.github.com/spec/v1
+oid sha256:231e9b9cd03ac6438a6af7009d9cd415b31dd1c5136aa83c14ad45e5832ee39d
+size 492

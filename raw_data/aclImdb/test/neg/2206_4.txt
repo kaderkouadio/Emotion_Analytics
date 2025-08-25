@@ -1,1 +1,3 @@
-This was a modest attempt at a film, though it appeared more like a TV pilot extended.<br /><br />Some may find this unfair, but it looks like someone saw "The Brothers" and "Save the Last Dance", and thought "Hey, I could do that too." Well, not quite.<br /><br />While I personally found the movie predictable, somewhat poorly acted, and contrived (watch for the cookies), Carl Payne shows that he can carry off a lead role, and should be back on television. The leading lady (can't remember her name, sorry) was plausible too, but you keep thinking of Julia Stiles (she was the one in "Save the Last Dance", right?) because this one was really stuck in "white girl" mode.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c7e1c52c99d2122d5bf392c3b2ddd135a719652621338afa29a1d03bc70c5c6
+size 674

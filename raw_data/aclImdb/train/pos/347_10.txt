@@ -1,1 +1,3 @@
-Valentine is now one of my favorite slasher films. The death scenes are elaborate and the most of the acting is good. Marley Shelton did great as the female lead (much better than Jennifer Love Hewitt in the "I Know..." films). David Boreanaz, whom is the main reason I saw this movie, had a pretty small role, but he played it well. The exception to the list of good actors is Denise Richards. She was horrible in this. The only scene I was glad to see her in was *SPOILER* her death scene. All in all, it's a good movie to watch. You should definitely watch this before you watch "Scream" or "I Know..." again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d44323390283097d1ee7b46c0502ea02a3283afff9c81dfb9fbfb70ace6c8637
+size 612

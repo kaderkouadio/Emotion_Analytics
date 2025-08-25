@@ -1,1 +1,3 @@
-This movie was without a doubt, very predictable. There have been a hundred other movies made with basically a similar plotline. But I still enjoyed it, simply because I enjoy this type of movie. Jessica Lange gave a great performance as the deranged mother in law. It's fun to watch, even though you know how it's probably going to turn out in the end. I think everyone should at least give this movie a chance. It's worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a6f038dc555f4e382271d20e54665bf76e0071f8b391611ab86b5ed9d1ca45
+size 433

@@ -1,1 +1,3 @@
-This movie was the darkest movie (besides Christine) that I have ever seen. I would not recommend either of them. Although the cars were pretty cool. The movie was, well, evil.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dce1f7a4ce100405fa43af11e69ce19ad1450e1ccd906963973f2a4cb046f743
+size 176

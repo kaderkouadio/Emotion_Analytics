@@ -1,1 +1,3 @@
-Honestly, on the subject of the death penalty, I could take it or leave it. The problem I have with this documentary lies in the fact that it is a complete love-fest for the murderer, with absolutely no sympathy for the family. The Execution of Wanda Jean, with it's completely one sided view, only reinforced my view that she should have been executed for her crimes. It tried to argue that she was mentally retarded, but nothing in the video supported that view. She seemed uneducated, but so did her entire family, but that doesn't mean they were all retarded. I can completely understand if someone is opposed to the death penalty, but to completely ignore the crime, as if it didn't happen, and try to put Wanda on some moral mountain top, is offensive in nature, and that's not the side of the issue I would be associated with.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fdaa74c3a0afc45902dbc575389971b116ec0c3f9ff2c9e7c585191694ed464
+size 833

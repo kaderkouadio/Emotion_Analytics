@@ -1,1 +1,3 @@
-By Randolph Scott standards of the 1950s, this is a disappointing and heavy-handed star western. Two or three of the characters could be dispensed with, while two or three other characters could be given more prominence. (The humour needs to be completely rewritten.) De Toth handles the action well - as always - but his grasp of the overall narrative is weak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c04d0dcf853f7ead80db42dd82328fe38c5a8a695ad45e0926082f0f793dae
+size 361

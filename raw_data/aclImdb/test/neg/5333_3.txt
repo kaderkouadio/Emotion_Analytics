@@ -1,1 +1,3 @@
-This 'documentary' sheds absolutely no light on what it would be like to be backstage during the Hard Knock Life tour. Granted, I wasn't there, but watching this film didn't make me feel like I was. And for a film like this, that's not exactly a compliment. The whole time I watched it, all I could think was, "What are they leaving out?" When it's all over, the only rapper you feel like you have some insight into is DMX, and that's mainly because he just talks about his dogs. A waste of time.<br /><br />3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f664ec721a6fbcb35250298b1c42698f5caefd1388f5515d840b6c22f42ad3
+size 512

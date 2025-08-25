@@ -1,1 +1,3 @@
-The director seems like a good, solid man. His parents struggle with the same issues we all cope with. They strayed from each other. They loved each other. They misunderstood each other. And the poor audience has to sit through ninety minutes of what is possibly the trials and tribulations of one of the most boring families ever to come out of Long Island.<br /><br />There are few interesting choices in this documentary--the music is banal, the filming uninspired, and the story is the same story that has played out on every Birch Street in every town in America. I don't mean to sound too harsh--seldom has a sweeter, more well-intentioned documentary been made. The director is the kind of man with whom you'd want to be friends. You just wish he had struggled as much presenting the material as his parents did keeping their marriage alive.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d044da1a7e604bdeeef5816afa5f48562b0e96b745a61ba8f36e1e80c271c0ba
+size 848

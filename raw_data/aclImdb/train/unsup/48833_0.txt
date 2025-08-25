@@ -1,1 +1,3 @@
-As with the sequel to THE GODFATHER, they all said it couldn't be done, but the makers of the RETURN TO THE BLUE LAGOON really managed to make a sequel that's even worse than the first one. Again some bland teenagers (one of them the son of the couple from the first film) strand on the same island, try to survive, fall in love, make love and so on. Essentially a remake, rather than a sequel, this is probably one of the worst "teen" movies ever made. Still, it has Milla Jovovich being young and pretty.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27707e818c75d6ec89ad5f2722ca9e0b5f0334da06e1c2d0bfe16e93404fe30
+size 506

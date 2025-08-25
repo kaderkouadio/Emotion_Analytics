@@ -1,1 +1,3 @@
-What a crime...<br /><br />You forgot to brush your teeth...let's make a 30 minute show about it and have a couple of kids make some noise and then have the dad lecture them all because that's what he has to do.<br /><br />But, don't forget Uncle Joey has to make some weird noises and cooky faces, then Uncle Jesse has to show up with his black leather jacket and some jeans and look pretty for a few minutes while everybody discusses how Mother would have done things if she were around..<br /><br />Yep, full of zany little adventures about a whole bunch of nothing and an entire overlong story to build around it.<br /><br />Full House will not only bore you to tears, but it will make you age twenty times faster than you normally would.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de04826e2b97e05a0a12287c69aab7bf350e1f88eb474ce3dabc881c1ef7a659
+size 742

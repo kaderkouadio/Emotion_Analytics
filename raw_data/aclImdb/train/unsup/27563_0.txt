@@ -1,1 +1,3 @@
-This show appeals to a certain type of audience - it's not particularly clever but it's enjoyable to watch if not taken so seriously.<br /><br />This is one of those shows that will age well given time - it feels like the actors/writers haven't quite settled into the show yet. Buffy the Vampire Slayer had a disastrous first season with terrible, cheesy writing, low brow plot lines and terrible acting... yet it went on to have a huge cult following and seven seasons. I think this series deserves a chance.<br /><br />The characters are endearing and it has a clear direction that I'm interested in. I hope we see a second season.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d87249f15a94d085ba7e13b2f12e0accb39965a738542f22d49dcf3b4ed9a73d
+size 633

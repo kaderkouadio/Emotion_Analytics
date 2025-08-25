@@ -1,1 +1,3 @@
-Yes, it has some of the usual corny cliches of made-for-TV movies, especially ones made in the 70's. Yet all in all, it's a very decent movie and I would recommend it to high school sex ed. classes. Much better and more hard-hitting than the usual TV movies that simply just exploit people and their situations without adding any depth or insight. It's a very realistic, honest, gritty portrayal of the struggles of teenage motherhood. There doesn't seem to be a lot of movies out there on this subject, so this little gem is unique. Certainly better than the awful 'For Keeps' with Molly Ringwald that came out in the late 80's. That one was sooo badly written and had the worst dialogue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cf672bd42021489b9626b18bffad678086ffa33eadda5ddd7a4991960f3bba0
+size 689

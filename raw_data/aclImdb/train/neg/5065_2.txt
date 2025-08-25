@@ -1,1 +1,3 @@
-This movie is just plain bad. Weak story , weak directing and below average acting. The thing that really irritated me was the blatant advertising - constantly - for a well known internet provider. It is obvious some scenes are written to do just that , advertising. This movie is a slap in the face to anyone who payed money for this.<br /><br />Do not watch this, it not worth your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d05e915735c5a1681c1a73a502efb400ccca08de276d5b327bf28656e32136
+size 389

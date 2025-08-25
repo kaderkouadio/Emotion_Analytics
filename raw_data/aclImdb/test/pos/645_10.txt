@@ -1,1 +1,3 @@
-I felt that this movie had a lot of heart and must have been a labor of love for Eleanor Bergstein. The primary actors (Campbell Scott, Jennifer Beals, Yancy Butler, James Goodwin III, Patrick Stewart, and Leslie Caron) were very well selected and played their parts with excellence. It was a very uplifting movie that I wish was available on tape or DVD. A rare gem.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde902579d419dba1539c06923e92308d3dd3ad535fc375b9e57687b38754822
+size 367

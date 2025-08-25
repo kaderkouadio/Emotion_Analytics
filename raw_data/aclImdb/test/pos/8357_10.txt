@@ -1,1 +1,3 @@
-Hilarious film, I had a great time watching it. The star (Cuneyt Arkin, sometimes credited as Steve Arkin) is a popular actor from Turkey. He has played in lots of tough-guy roles, epic-sword films, and romances. It was fun to see him with an international cast and some real lousy looking pair of gloves. If I remember it was also dubbed in English which made things even more funnier. (kinda like seeing John Wayne speak Turkish).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3bdb668833ff5f0074d30dbb6cd161b3f8cb7ba4e3ec1364ce5788a5fc893f
+size 432

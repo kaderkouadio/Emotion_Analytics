@@ -1,1 +1,3 @@
-The Camera-work on the film is complete crap, it looks like it was filmed on a second hand camera brought from a car boot sale in Tokyo, and edited on an old junk yard hard drive. <br /><br />The actors look like they've been pulled off the street or are out of work porn stars, <br /><br />The special FX consist of a fake knife, and some ketchup. <br /><br />Its filmed in some kind of basement, with lousy shots of a city street. <br /><br />In all, it serves only as inspiration to make your own low budget film, you could pick up some techniques, <br /><br />other than that, don't bother watching it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:793054613cc7365777e6725c374a118e95bde007269b2b2e2db19fcbbeda61b8
+size 606

@@ -1,1 +1,3 @@
-I originally saw this film while I was working as a musician doing musical theatre in summer stock. If you've ever done any work in theatre - especially at a summer stock theatre - you'll really enjoy this film.<br /><br />Yes, there are some moments of really bad writing in the film, but overall it's a lovely tribute to the theatre and why people love it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4078790269988ba60129726fbc77f217cd23cf5c685420c6c75383a580ff5e3
+size 358

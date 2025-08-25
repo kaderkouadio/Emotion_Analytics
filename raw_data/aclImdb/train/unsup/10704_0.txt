@@ -1,1 +1,3 @@
-I saw this first at Sundance and again last week. It's great. Fantastic music and you know that some of these guys and girls are going to be big stars. Probably the best thing is that it's a completely fresh film; no hollow, over budgeted, OTT, trillion dollar musical. CAMP's got soul.
+version https://git-lfs.github.com/spec/v1
+oid sha256:868390dacfaedb94cb465219821da8f8b8ce440be8466f3c117b68af06b04963
+size 286

@@ -1,1 +1,3 @@
-It's no "City Hunter," but this is a pretty goofy flick...It's just good fun though, and even if you think twin movies are bad---THIS IS JACKIE CHAN!!! I like it, it's just a cute, fun flick. Let's not forget to mention the ending though, it's worth the price of admission alone, with some of the coolest and most dangerous stunts I've ever seen! Can't take my eyes off Nina Li, or Maggie Cheung either!
+version https://git-lfs.github.com/spec/v1
+oid sha256:02e9ff4b7f3c60175018550eb0dfbd54cf908739b4110b72df3f688b41b7d340
+size 403

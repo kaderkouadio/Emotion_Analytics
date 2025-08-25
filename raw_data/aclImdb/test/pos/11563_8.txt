@@ -1,1 +1,3 @@
-A widely unknown strange little western with mindblowing colours (probably the same material as it was used in "Johnny Guitar", I guess "Trucolor" or something, which makes blood drips look like shining rubies), nearly surrealistic scenes with twisted action and characters. Something different, far from being a masterpiece, but there should be paid more attention to this little gem in western encyclopedias.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc53b5182fda780af315bdb05bdd427dac7d1e9e88f5e685b7890a3e876246ad
+size 410

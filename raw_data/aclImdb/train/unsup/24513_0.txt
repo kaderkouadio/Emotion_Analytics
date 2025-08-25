@@ -1,1 +1,3 @@
-I liked this film, but it had so much potential to be an important film in Austrian horror-film history. As a thriller, it had every element that makes a European-style thriller breathtakingly beautiful, but as a slasher, this visual beauty took away the terror and fun that is usually associated with the genre. The film is slow and only has fun teen-slasher music at the very beginning and very end. If re-edited with a new soundtrack, faster cuts, and shortened to around the 80minute mark, I believe this could be the film it's solid script hoped it would be.<br /><br />I look forward to watching the sequel as I have read good things about it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23298facf4979fc5caf2703cd30c79d77c2ee15c2769957b527a01f5ab9fcd33
+size 649

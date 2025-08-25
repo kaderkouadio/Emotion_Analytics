@@ -1,1 +1,3 @@
-"Bones," starring Snoop Doggy Dogg and Pam Grier and directed by Ernest Dickerson, is a great horror film with lots of violence and gore. Snoop Dogg was perfect as the main character, Jimmy Bones. The movie also had solid special effects. If you like Snoop Dogg, then you'll love "Bones." Doggy dog brother, doggy dog!!<br /><br />A+ ****** (out of ****** stars) 13/13
+version https://git-lfs.github.com/spec/v1
+oid sha256:29ed2e0300cf9519e0893b3d3b4b80a3f309a163bfce1d1b20849c132a311dbe
+size 368

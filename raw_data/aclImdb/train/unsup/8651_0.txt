@@ -1,1 +1,3 @@
-It seems like most (if not all) the movies I can remember watching with Meryl Streep in the lead are at least solid movies. This one is no exception. Although the pacing trickles at time I always was interested in the characters. Streep, Cher, and Russell are all pretty good. Fred Ward and Craig T Nelson also lend some good support to the leads. There are quite a few supporting actors who have made their niche over the years and are recognizable. Based on a true, Silkwood is deliberate and methodical; at times feeling cozy. The set (house) of the main characters serves as a great backdrop for their bantering dialog. It's set in the south around Oaklahoma and Texas. Only small problem was the ending seemed a little bit hastily put together though, a little bit detracting. Nevertheless worth at least one sit down viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24b5913a9be0d9e77af9a1cb1e46bf7509e47c39d6418f0d45a0b69dfe9b777d
+size 831

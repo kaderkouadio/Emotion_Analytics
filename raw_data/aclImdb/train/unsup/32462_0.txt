@@ -1,1 +1,3 @@
-This was by far one of the worst "horror" flicks I have ever had the displeasure of enduring. Despite the fact it appeared as if it were made on a $50 budget, the acting was just as bad. Mario "AC Slater" Lopez has ruined any last hope of any future acting carer by appearing in this thing. And Gary Busey shows his desperation to remain in the film business by shamelessly appearing as a "chicken-killing" mad-man. The movie stars a group of spoiled rich tree-hugging college kids who will never be "coming to a theater near you" again. Trust me, this movie is not worth the tape-dvd it is recorded on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92f67d574431c3fb0d7a272b2dd86a28d8b5c2b01e363b4ccfc2682294cd9329
+size 603

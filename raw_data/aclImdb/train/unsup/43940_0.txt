@@ -1,1 +1,3 @@
-I have no idea what I was doing watching this film. I purchased it from Family Video for $2.99 to add to my already impressive horror collection, and I ended up suffering through the worst "horror" film in modern history. The movie takes over an hour to even get to the "House of Death", the characters are under-developed and not memorable, and - not to give away the ending - I was staring dumbfounded at the screen for a good six minutes after the credits rolled. Let's not even get started on the music, because I wouldn't know how to characterize the noise I heard. The only credit I can give this film is... no, I changed my mind, this film is worthless in every way. You'd be better off watching "The Beast Must Die."
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36d0172cd1cf6f3c2840357464e01e5778ab52b8068d1302092634da6af92aa
+size 724

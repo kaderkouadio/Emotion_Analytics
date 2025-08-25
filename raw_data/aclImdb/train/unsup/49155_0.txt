@@ -1,1 +1,3 @@
-This film is one of the worst melodramas I have ever seen. The plot is witless and contrived, the songs are boring and the acting is wooden. Just when you think it couldn't get any worse, some ridiculous plot twist comes flying in from the clouds. <br /><br />I am no fan of Salman Khan and while I am still willing to give Ash a chance, this film is the sort of junk that gave her a bad reputation in the first place.<br /><br />I will say, however, that the photography and sound were good, so it wasn't completely painful to watch. It's only bad when you pay attention to the actors or the script.<br /><br />You have better things to do with your time, believe me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f453464694d2339ed154a5d95dd924bd03866520b2ff81f837d962ba3b02d66
+size 668

@@ -1,1 +1,3 @@
-I read that "There's a Girl in My Soup" came out during Peter Sellers's low period. Watching the movie, I'm not surprised. Almost nothing happens in the movie. Seemingly, the very presence of Sellers and Goldie Hawn should help the movie; it doesn't. The whole movie seems like they just randomly filmed whatever happened without scripting anything. Maybe I haven't seen every movie about middle-aged to elderly people trying to be hippies, but this one gives such movies a pretty bad name.<br /><br />All in all, both Sellers and Hawn have starred in much better movies than this, so don't waste your time on this. Pretty worthless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1c0257cbecbc281c694274b4b14e2b5d1a588c71ea843ddd5a7411c6b1ab904
+size 633

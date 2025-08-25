@@ -1,1 +1,3 @@
-Surely this deserves to be in the bottom 10 films of all time, pity it's just a TV movie. Rubbish that only we British can produce! It perhaps has some merit in the so awful it's good scale. Watch out for scene where they start dancing !
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a930d246e8c9bc3b5d0819bf40a2115d3313af2eb8179cca72df26ad75abfde
+size 237

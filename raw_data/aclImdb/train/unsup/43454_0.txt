@@ -1,1 +1,3 @@
-Nothing new, nothing great, but kinda funny in spots. There was no one in it I ever heard of, but I don't watch that many newer pictures these days. No big belly laughs, but a few good chuckles. I don't think I could sit through it a second time though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:160d1a6e8bbdd87e6cccb0b90bc7d2ecbce95e353c2a1905540ea994f17a925e
+size 253

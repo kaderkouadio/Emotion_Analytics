@@ -1,1 +1,3 @@
-I'm a huge Tom and Jerry fan, and this is probably my all-time favorite Tom and Jerry cartoon. I always root for Tom, so in the rare case he actually lays some punishment on that bratty mouse, I love it. There's a really funny instance in this one where Tom gives Jerry an unwanted bath in the golf ball cleaner, hilarious! Of course, Jerry gets the best of Tom by the end, by making Tom eat some bees and then Jerry golfs a ball at Tom's head, I sure wish Tom would have won more of these battles!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e8352f8b78d36f7a77eb26eeb59287e7fc3f9bc41bcb87ec2394986b593b384
+size 498

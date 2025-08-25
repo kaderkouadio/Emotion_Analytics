@@ -1,1 +1,3 @@
-Drivel. Utter junk. The writers must not have read the book, or seen David Lynch's film. Not worth wasting your time.<br /><br />Longer does not make better. While more in-depth then Lynch's film, it has gross in-accuracies, and down-play's key parts of the story.<br /><br />"A Night at the Roxbury" is more worth your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:223272ebe26f0bacf99b835b817676f303817fe1007b6575c6f95973f3b56a0d
+size 325

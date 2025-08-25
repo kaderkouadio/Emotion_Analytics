@@ -1,1 +1,3 @@
-This is an atrocious movie. Two demented young women seduce and torture a middle aged man. There's not much to give away in regards to a plot or a "spoiler". I would only comment that the ending is nearly the most preposterous part of the flick. Much of the film involves Locke and Camp cackling obnoxiously, all the while grinning psychotically at the camera. Add to this a soundtrack that repeats again and again, including a vaudevillian song about "dear old dad" that suggests an incestuous quality the viewer never really sees. The music is annoying at first, then ends up subjecting the viewer to a torture worse than that depicted on the screen. The theme here is of youth run amok, understandable as a reaction to the '60s, but done with little imagination or style. Avoid it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:464588915822bf04a7d491d000aaa66b82b9b6910c1d6d38c757e76162179ab7
+size 784

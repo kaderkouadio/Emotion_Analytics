@@ -1,1 +1,3 @@
-I have seen this film twice and was very moved by the heartfelt performance of Joseph Gordon-Levitt as the troubled teen. Everyone in the film is at their best, and the director seems to have a clear vision of what he wants the viewer to see and feel. In the beginning, he takes us through the start of the kids problems, using young actors with a remarkable likeness to their older counterparts. He then slowly shows the results these experiences have have had on the kids as teenagers. The film is not easy nor pleasant to watch, but is never boring. I can't give away any plot details and spoil the film, but I will say it is a very strong NC17, unrated, and if you are not moved by the final ten minutes, you will never be affected by anything.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a67a49ef3afec6b7b33571524050f1d76b5f583180ebb47e718bbd0a7b30f824
+size 748

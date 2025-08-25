@@ -1,1 +1,3 @@
-Like many movies with political/ideological messages, this movie veers into the preachy at times, but the character development is good. Fine acting from Ling Bai. The plot unfolds well and develops and maintains suspense. A fascinating and sometimes chilling peek into a legal system very different from America's.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69bb1c2dd1fb9c77bf74569590a8f453e6471ae44ef9e98265eec9ed3d3d068b
+size 315

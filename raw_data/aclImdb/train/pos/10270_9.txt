@@ -1,1 +1,3 @@
-A film destined to be on late-night TV long after the present instant "money-makers" have long been forgotten. Perhaps a little too subtle for today's youngsters, but in time they'll grow into an appreciation of this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d973f0681612903595dfa5f5fff35dfe5ff9597a0c731dc003e5ba88fc23905
+size 223

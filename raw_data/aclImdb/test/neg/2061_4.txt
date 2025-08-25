@@ -1,1 +1,3 @@
-A girl is looking for her soul mate-- this movie was very strange-- lots of sequences that look like an hallucinations. Tommy Lee Jones is the only stable one in the picture. It was hard to figure out what the director was trying to say-- Most of the time the main character is dressed in weird clothes and makeup. A weird combination of reality and madness.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bdaca092386b5bddd569c51b6743bc02db7eb4a75a288ffd19a476a94c0d9ec
+size 358

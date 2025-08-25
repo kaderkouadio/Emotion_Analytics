@@ -1,1 +1,3 @@
-Destined to become a classic in its genre, DUMB & DUMBER reaches its objective of making people laugh off their seats, in a film that crowns Carrey as the modern Lewis & gives Daniels a great chance to show us his lighter side. This is the kind of movie you want to see 100 times, with pranks & puns so silly you love to hate! high moments are Daniel`s bout with the toilet, the parakeet incident, and Jim Carrey`s love declaration to a schoolboy. If U R not silly and have no sense of humor, and basically are not alive , don`t watch this movie...otherwise, rent the video, order some pizza & beer and prepare for 1999: Dumb & Dumber (The early years) Two fingers up
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c537edff532c4371daaef6f58a8c2afd1c22aaf359dddf5ba95836ee3dbc4d9
+size 667

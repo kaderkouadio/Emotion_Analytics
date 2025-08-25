@@ -1,1 +1,3 @@
-'The Eel' proved how the director Shohei Imamura is good at describing life-sized characterization and mental state. The main character's suspicion, madness, kindness and love, are closely related to what we have inside. Which made me sympathetic and devoted to the character. Shohei Imamura described the main character's complication by using the character's delusion. And, the usage of psychological and fantastic images strongly helped to express the human mind. 'The Eel' is a unique human drama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea79a8bd049ea85ba2250e1ce3518ae43f63c851f31445d8b1bfd03830080b29
+size 501

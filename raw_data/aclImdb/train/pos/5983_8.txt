@@ -1,1 +1,3 @@
-I first saw this film as a teenager. It was at a time when heavy metal ruled the world. Trick Or Treat has every element for a movie that rocks. With a cast that features Skippy from Family Ties, Gene Simmons of Kiss and Ozzy Osbourne as a Preacher, how can you go wrong? Backwards evil messages played on vinyl! Yes thats right, they use records in this movie. In one scene Eddie (Skippy) is listening to a message from the evil rockstar on his record player when things begin to get scary. Monsters start to come out of his speakers and his stereo becomes possessed. As a teenager I tried playing my records backwards hoping it would happen to mine. Almost 20 years later Trick Or Treat is still one of my all time favorite movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:680afaddc4c3f842f4db5fa857134ed79600d1ed1f9668d9d29b00ce527770cf
+size 733

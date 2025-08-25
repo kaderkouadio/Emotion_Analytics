@@ -1,1 +1,3 @@
-I don't see why everyone loves this film so much. True, it does have good intentions and meaning, but you cannot compensate for such a poor script. Woody Allen is a brilliant filmaker, but I'm afraid this is just a piece of garbage. It's extremely predictable and the subject matter is all too visible. I happen to be a huge Woody Allan fan and love most of his work, but this I cannot recomend.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23f0e0f8015f834876adcb73197a53764534af9a7a7398d85763a60bd27ffeb3
+size 395

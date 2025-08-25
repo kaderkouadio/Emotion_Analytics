@@ -1,1 +1,3 @@
-Another attempt to cash in on the slasher craze of the early 80's. The head being cut off a wheel-chair bound victim was poorly done, in sillouette. Then the "drump-drump-drump" sound when the mad man was coming after a victim just got on your nerves. It's a wonder this film hasn't shown up on cable yet. Bad? That's a good word for it. Especially when you notice no sequel was made. Thank god.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a8b8ae1d2e009fad0a3a79357c11af19784f72058c9fe4c3712242be382693
+size 395

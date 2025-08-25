@@ -1,1 +1,3 @@
-I LOVE THIS MOVIE!!!<br /><br />This beautiful, charming love story drew me in immediately with its lovable characters and heart-warming romance. I became so attached to the characters throughout the film that I felt as if I knew them personally. The storyline is very enchanting, and it brought me to tears in several touching moments. Duchovny and Driver have a very cute, chaste relationship that you can't help getting involved in. This one's worth watching more than once, and showing to all your friends. I'm just curious, why wasn't this a big hit?<br /><br />I give this a 10 out of 10! Spectacular film! (And this is coming from a guy who thinks that 9 out of 10 movies aren't even worth watching.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9edf0891b037a32602e3711ee7c9647f7f10a4bed273245cf1f68e2f64e1cce2
+size 707

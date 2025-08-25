@@ -1,1 +1,3 @@
-Hinterholz 8 is a bad Austrian movie compared to Indien, Muttertag and Freispiel. The actors and actresses are good, but the story is poor. Some dialogs and scenes are really good but there are few. If you expect another movie typical Düringer movie like Muttertag, save your money!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd5d5004c96418e2fe68cb91ef138b974694c26aca230257bdb7104ad5da049
+size 283

@@ -1,1 +1,3 @@
-I could not get past the scam where they were comping rooms for points accrued through "coin purchases." No casino has ever rated players that way. Also, what was Sydney's great professional gambling technique? Every time we saw him playing he was making high-risk and not very smart bets that failed to pay off.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f93df3af3cf026768cc6df48cdc80b8b05c73658a6cab31dda040b8832c47bdd
+size 312

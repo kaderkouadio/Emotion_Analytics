@@ -1,1 +1,3 @@
-Rework a Dashiell Hammett short story for the screen, get Samuel L. Jackson to play Bogart and Milla Jojovich to play Bacall, and you've got one heck of an entertaining little movie. I seriously liked all the performances, but I was especially taken by Milla Jojovich. You know she's bad but she's also irresistible. She pulls that off, too, and not many actresses could. They don't make many movies like this anymore and that's a shame. Delightful!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cf3b87d03629ca39349c934346cf227899d2c981656818653cda7a44665e971
+size 449

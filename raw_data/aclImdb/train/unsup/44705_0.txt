@@ -1,1 +1,3 @@
-This is one bad movie. I've seen better acting in adult movies. The plot if there is one is totally pointless as you just see skinheads do exactly what the cliché tells you they do: going round being racist and aggressive to everything and everyone. Stay clear of this one because it's a real stinker.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bafc3e2be121f428857b0824a6ae31816945d9d4c0f09c9561ea1828903181e4
+size 302

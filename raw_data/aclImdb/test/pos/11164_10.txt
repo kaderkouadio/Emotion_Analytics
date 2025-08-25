@@ -1,1 +1,3 @@
-I've just seen this movie in a preview and I can only recommend to watch it. It was about 90 minutes long and when it was over I felt like it could go on for hours. The stories of the protagonists are so realistic and you feel really at home. The movie basically consists of dialogs but I wasn't bored a minute. 18 people of really different characters and each one of them acted out so well. I had to laugh, felt awkward, was sad and still felt happiness. All in all it is a movie that shows the different kinds of people in our society, the way they communicate and how love has changed and nowadays is handled as an economic thing. Dating becomes something that is similar to an audition. The whole audience loved it. So please watch it if there's a possibility. You'll love it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b2d16a091e0127b0dec5e21c1fbab1def2e2ddd021308be2648f201700f90d
+size 781

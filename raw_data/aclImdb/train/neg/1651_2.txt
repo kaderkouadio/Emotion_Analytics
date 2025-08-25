@@ -1,1 +1,3 @@
-A poorly written script with no likeable characters. As for it being a comedy, I forgot to laugh. It's about 2 conceited friends who scam to get women in too bed with them (no sex scenes) and another friend(who is semi-discustingly weird)who sometimes also scams but mainly is considered as being the guy who masterbates. The 3 friends separately meet and fall for the same woman (Amanda Peet). Somehow this is done without really any romance. The 3 guys stop being friends as they separately dated her. She scammed them out of their friendship because they scammed women. -- A bad movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d3391f0683a0e918033662a92a74e2570992b422e07fc417b994ec1610c00bf
+size 587

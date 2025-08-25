@@ -1,1 +1,3 @@
-Kits of the worst kind. Bad acting by virtually the whole cast. Highly predictable. Beauty of the lead actress is corrupted by her overacting. Cannot be saved by William - Marathon Man - Devane's method acting too. <br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a66aaa3e6b63995f8ea6b202f5540ab060a73b4c01036948f9f8f73c59e5827
+size 227

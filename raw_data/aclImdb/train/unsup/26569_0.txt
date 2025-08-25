@@ -1,1 +1,3 @@
-Jessica Fletcher is one of my favorite actresses and she hits a home run with this one.<br /><br />The movie is set in Ireland, and the cast is mainly Irish, except for Jessica of course. The scenery and characters are very vivid and make you long to visit Ireland.<br /><br />So Jessica is called to Ireland for the reading of the will. The deceased leaves a riddle to be solved, of which the prize is something of great value....<br /><br />And so it is off. The riddle takes teamwork as each person is left a small piece of a puzzle to be solved. Several murders ensue and the race is on to solve the riddle and find the killer.<br /><br />I loved this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:510a292ee6d9098271926c1dac192243f6259cad7f7b62db26d1e869c813d015
+size 660

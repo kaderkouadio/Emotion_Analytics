@@ -1,1 +1,3 @@
-I like Kevin Bacon and Cathy Moriarty, and I love Mary Stuart Masterson, but the movie wasn't good at all. There wasn't a likable character in the picture, and the plot was nearly non-existent.<br /><br />Ms. Masterson is a great actress, but she just didn't pull off the "tough girl" character. (She had similar problems with her character in THE SECOND DAY OF Christmas.) Perhaps she should avoid these characters, especially those with an obnoxious female child to play off of.<br /><br />Evan Rachel Wood was unimpressive. Her character was a brat, plain and simple, and no young actress could have given Harriet any positive feelings.<br /><br />In the interest of full disclosure, I couldn't even finish watching this picture. Forty-five minutes of my time is enough to waste.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09a7bfb17fc1ed3006f0b534b0121f3d27f5bad0eac29228763d9c41b7109893
+size 782

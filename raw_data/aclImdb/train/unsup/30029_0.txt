@@ -1,1 +1,3 @@
-This early Kay Francis vehicle is quite an enjoyable potboiler. Kay had not yet developed the sophisticated, edgy style she was so famous for later in her career. She starts out a rather naive young bride who is dumped off in Paris by her older husband while he toots off to India for a year. It doesn't take a lot of imagination to figure out the general direction the plot will take, but Kay makes makes her metamorphosis from sweet young thing to party girl quite believable. The rest of the cast is at least adequate, but it's really Kay's movie all the way. <br /><br />The plot has some clever, if improbable, twists and the timing coincidences are beyond belief even for Hollywood. Not a great film, but definitely worth a look for pre-Code aficionados and Francis fans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8214574b98e3e9ccae792ed20f5ae1c3fd69e9b9bc5b37df4eb2fafb32ee678b
+size 777

@@ -1,1 +1,3 @@
-This is my personal favorite movie of all time. I like just about about every Adam Sandler movie that there is. But the main reason I like this movie so much is the 80's theme. Also, I myself am a big karaoke fan and this has the similarities that go along with that. Also I love 80's music. And romantic comedies are also among my favorites. So this almost has it all for me. The only thing that I would have liked more about it was better music and better comedy. The 80's songs that were selected were not really all the biggest hits. I would have added a Madonna song because of Christine Taylor's character trying to copy her. Also as a comedy film, this isn't as funny as say "Anger Management" or "Billy Madison". But the sum of the parts equal a great whole.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b901ffbedfc749605c584c052e0b33bfd793c9fd7cdc732c7867ecbd158fd08c
+size 766

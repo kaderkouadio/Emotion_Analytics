@@ -1,1 +1,3 @@
-I've always been a big Cybill Shepperd fan, ever since I saw her series a few years ago!! This film certainly shows her in her best light yet!! The film was so wonderfully cast and played!! Every now and again she drops little amusing lines, just to make this film one of the best I've ever seen!! Everybody really out does themselves!! Especially Robert Downey Jr and Cybill Shepperd, they really made the film come true!! Also I loved the little bit where Mavis loses her wig and she nearly dies when she falls to the floor!! This is film at its best!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:50a6c58baf3e8e21b20ad0b9824dad5a81016e2f73a6ad06dd8739a588ba56e1
+size 554

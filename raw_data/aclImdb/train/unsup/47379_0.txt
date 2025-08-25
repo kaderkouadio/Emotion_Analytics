@@ -1,1 +1,3 @@
-I cannot think of one redeeming feature about this movie. The acting is wooden, the script unbelievably bad!! If there is a redeeming feature it is the scenery from many shots taken around New Zealand and the brief appearance of some rarely seen New Zealand artists.<br /><br />If you have a choice between a dentist appointment and watching this film, take the drill every time, even if it means a root canal!!!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:68ee49b88a6343a931685767c57ae0b171d2eea6102c56b1a03034d99e6bb635
+size 424

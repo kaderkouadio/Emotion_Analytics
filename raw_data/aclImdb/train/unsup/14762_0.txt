@@ -1,1 +1,3 @@
-Ever since I saw this movie when it first came out, I have loved it. Okay, so it's about a boy who wants his dad to marry this hooker. But, once you get past that, it's really a cute movie. If you are in the mood to watch a fun movie, this would be a great choice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2777cd1738dc9826df8828758c4f846001bae31cdb1eca0f61a9c1e8a9174cc8
+size 264

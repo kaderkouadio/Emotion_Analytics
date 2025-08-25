@@ -1,1 +1,3 @@
-An overlong, highly episodic excuse for some burlesque and indulgent violence masquerading part-time as a film of historical interest and validity. With Leonardo scowling, Diaz giggling and Day Lewis doing his best De Niro, this film takes itself far too seriously for the leaden-handed and juvenile treatment of a story which seems suspect the moment you think about it. Its a shame to see a director with such a great track-record try so hard to convince us that he's still 'got it'. Couldn't he have left this drekk to Jerry Bruckheimer?
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d30c01b81864bd487561ec983ddf93046487d33dff29a942aa367eb1dc9532b
+size 540

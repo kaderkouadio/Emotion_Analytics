@@ -1,1 +1,3 @@
-<br /><br />The play has been heavily edited and the order of the scenes has been completely mixed up. The acting is appalling (especially by Helena Bonham Carter) and the cinematography poor.<br /><br />The result is a slow, confused, boring film which will put those new to Shakespeare off Shakespeare instantly!<br /><br />If you can't see a stage play then at least see the Olivier version (1948) instead of this drivel!
+version https://git-lfs.github.com/spec/v1
+oid sha256:034a8fc66c56a02b6096aa87a48dbcec5d8fa0301bc491ce968acb5aea189cb3
+size 424

@@ -1,1 +1,3 @@
-Such a delightful movie! Very heart warming. One can't help falling in love with the character of Gigi. He's adorable as a child and grows into a sensitive artist. The whole movie revolves around him. He lives in a wonderful world  living all life  curiosity, desire and anticipation. There is an elder brother who tries to steal his glory but really remains in the shadow all his life. The father is very stereotypically Italian and so is the mother. I wanted the father to come and reunite with the mother in the last scene  and have them cry and laugh. I also wish that there was at least something redeeming about the elder brother. His personality seems to have been trashed entirely. Passion and ardour  that's the key to life. And looking through the camera  focusing on small details and savoring the delicate details of life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bef88457b199a15ff007921d33259075723f106b283a5931307fdc32b985eaa5
+size 844

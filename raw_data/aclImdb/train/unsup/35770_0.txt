@@ -1,1 +1,3 @@
-Here we go again. Just as it happened with Aladdin, the Disney studios has taken advantage of the massive box-office appeal of one of their feature length animated films. And just as it happened with Aladdin, it is awful and a downright waste of time. If you want to be reunited with Simba and the others, buy the original.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77b62fe0f6002365beed21fd20f933a9df95656579225affc4da26225265d824
+size 323

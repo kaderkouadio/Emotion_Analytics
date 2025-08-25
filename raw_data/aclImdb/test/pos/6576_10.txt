@@ -1,1 +1,3 @@
-almost 4 years after the events of 911, if asked what comes to mind about that day, most people would probably comment on things such as the sight of planes crashing into and the collapse of the twin towers, the scores of people being killed, acts of terrorism and heroism mixed together, etc. everyone who was alive at the time will never forget that day. yet for most of us the memories, although moving, are not on a personal level. now comes an extraordinary film which gives everyone who did not lose a friend or a family member a chance to become involved at a personal level in just what we lost on 911. this is a film that needs to be seen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e643f5c1ca2001cee8e29a38c07dee74d4db4deffb182f5693aef18232e44b0e
+size 648

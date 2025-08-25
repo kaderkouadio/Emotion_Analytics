@@ -1,1 +1,3 @@
-Christina Applegate put in a great performance in her interpretation of the role of Claudine. The rest of the movie did not support her performance, however. The plot was weak, with the only substantive storyline occurring in the first 15 mins., and the last 15 mins. The rest of the movie could have been cut, and the audience would not have missed much. Tibaldi's direction used a lot of close shots, and free camera work, that actually detracted from the story. In scenes where the audience might have wanted to pay attention, we were getting distracted by the edgy camera motions. There were a number of subplots that never played into the story, and ended up like flotsam on a beach, with no purpose.
+version https://git-lfs.github.com/spec/v1
+oid sha256:274f1a18fb22d74accac8cb2dbfa8eb1b49e9d871df50fbb3556f8efba9e7e06
+size 705

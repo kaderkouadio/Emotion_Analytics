@@ -1,1 +1,3 @@
-This movie was o.k. but it could have been much better. There are some spooky moments but there aren't enough of them to make me ever want to see this movie again. There are some scenes you could fast forward through & not miss anything. The biggest flaw is that it is so predictable, & that is the reason why I rated it so low. It's watchable but don't expect anything great.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2f40aa15b9807b9b387a5043d99c73222ebd26fa6fbb2e204b5d98e0869fb66
+size 376

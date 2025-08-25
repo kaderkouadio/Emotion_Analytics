@@ -1,1 +1,3 @@
-They're trying to kill the president (again!) and this time they're using dolphins. No kidding. Whoever thought that getting Buck Henry and Mike Nichols together to make an action film hopefully lost their job, as The Day of the Dolphin is silly and boring, to boot. Dolphins were all the rage in the seventies (they're really intelligent, they can read minds, they can talk) and now that most of those theories have been debunked we're left with this curio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc0701afdf91a431648a7d6c45812aa2c8795e3e1c770b7a5d9cfb730569eca
+size 458

@@ -1,1 +1,3 @@
-This movie predates some of Duvall's more critically acclaimed and popularly received turns, but in truth, this may be the finest acting job of his career. Duvall is this film, and he has made this kind of intense, honest character study his own (Tender Mercies, The Apostle, The Great Santini). The black and white cinematography is perfectly suited to the story and the acting. It works as a far more honest story-telling device than Spielberg's "Schindler's List." This is a must-see for Duvall fans and for fans of small, independent films as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b82e6d9de31d541cf72300676b221ec785eb312d536915f5232f377fd5deff
+size 552

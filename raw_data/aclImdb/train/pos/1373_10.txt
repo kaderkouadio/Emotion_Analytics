@@ -1,1 +1,3 @@
-This movie should be required viewing for all librarians or would-be librarians. All of the best lines are directly related to librarianship. The public library vs. academic library argument is a classic argument waged among librarians and library school students. It also breaks many librarian stereotypes. Librarians might even be capable of having fun -- even if they don't *usually* have sex in the romance languages section! (The best movie about librarians? Desk Set, with Katherine Hepburn and Spencer Tracy, of course.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1fce0a8eac305dbe8718a30aee9aed8b774f922c5054f4a6207cd3dd10a9be5
+size 527

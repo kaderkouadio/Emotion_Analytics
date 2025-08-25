@@ -1,1 +1,3 @@
-This is one of the worst films I have seen in a while.<br /><br />The problem is that it doesn't know whether it wants to be an intelligent political film, 'artistic' or an exercise is eroticism. As a result it fails on all accounts.<br /><br />The acting is atrocious, the narration off putting and the supposed symbolism pointless.<br /><br />Klaus Kinski is probably the best thing about this film but that isn't a good thing. Sure he has an intense and 'unique' look but ultimately he can't actually act. Just look at how he reacts when his mistress leaves....<br /><br />Really don't watch this film, some say it needs repeat viewings I say one is too many.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2236df122b81956533fa9d1b589e0d8984fe7d8e07f504aacf3f5a717634e161
+size 662

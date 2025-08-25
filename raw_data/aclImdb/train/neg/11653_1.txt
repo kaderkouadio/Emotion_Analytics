@@ -1,1 +1,3 @@
-The first one was different and funny. This attempt should have never left the studio. This movie does not make you laugh. It is a weak attempt at gross out humor. The movie picks out current and old movies to rip-off. This time the jokes seem used and overdone. The audience that I saw it with only re-acted to Hannibal dinner scene and was otherwise asleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aea21a30e1e64ada97c13c2f024085e8a792473bb4ab54135ecef74ffab4bbe
+size 359

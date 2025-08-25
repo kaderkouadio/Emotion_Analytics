@@ -1,1 +1,3 @@
-This movie was horrible. This only reason I watched it was because my roommate and I were playing Mystery Science Theater 3000 to it. The technical facts are virtually all incorrect, and the acting is even worse. The producers couldn't even afford to produce their own effects, they had to steal footage from Flight of the Intruder, Crimson Tide, Bat 21, and others. Do not watch this movie unless you want a good hour and a half worth of laughs (although the director didn't intend this ).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4cdc8113a4ed060e2621b6cfb2206a5d5f5bc2ffb2ea785137ecddf6ba802e
+size 490

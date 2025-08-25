@@ -1,1 +1,3 @@
-It just seems to run true to form, any movie starring Dolph Lundgren is bad! I don't know if it is the fact that the storyline in full of holes, or that Dolph is such a bad actor. No spoiler here, He seems to overdue the pushing and shoving and grabbing and touching thing in this movie. In my opinion it is a wonder that some of these projects find venture capital to get in the can and to the theatre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ae2d253115fd3086612b4cb90691ef9a9e34609016a9ba8e6b8e3df8cd05a3
+size 403

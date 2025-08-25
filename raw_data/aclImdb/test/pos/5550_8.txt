@@ -1,1 +1,3 @@
-Treading Water is a very beautiful movie. I would put it straight under the wonderful short movie : Cosa bella from Fiona MacKenzie. It's not only about coming out but also about tolerance and acceptance in general. I am looking forward to seeing more of Laurel Himmel's work in the future. The actors, Angie Redman and Nina Landey are quite good. The main characters relationship could have been strenghtened a bit as we understand there is a very strong bond between them but maybe this could have been explained a bit. I am surprised that Angie Redman doesn't appear much in other movies. A great first step as a director for Laurel Himmel, I am sure there's more to see from her skills.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbcde92e0601fa671278fc7213df501352778511a0c35cb15db8f139800c721
+size 690

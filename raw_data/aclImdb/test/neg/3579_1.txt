@@ -1,1 +1,3 @@
-The whole movie seemed to suffer from poor editing - every scene seemed to take forever to unfold and when they did, I felt like I had waited a long time for very little to happen. I guess I missed the whole point of the movie - either that or there wasn't one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7f8b434a3f9d1cdb86cf9e8606928dedbf11e3a2537bcf4c1a374d4d22e33e8
+size 261

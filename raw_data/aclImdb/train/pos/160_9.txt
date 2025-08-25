@@ -1,1 +1,3 @@
-A funny comedy from beginning to end! There are several hilarious scenes but it's also loaded with many subtle comedic moments which is what made the movie for me. Creative story line with a very talented cast. I thoroughly enjoyed it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5db02cccff27acccab38c44c133bcf0d08254b6238e0d37056ac61a081b4092
+size 235

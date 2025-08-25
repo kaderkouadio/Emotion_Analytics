@@ -1,1 +1,3 @@
-Starts OK. But... Then all goes downhill. Reminds me too much of the Swedish TV series (3 parts) 'Dödspolare'. I do not want to spoil the plot, far from! But if you like films where bad turns to worse only to end at...<br /><br />The movie hits rock bottom, and starts to dig.<br /><br />The only positive I can post is; Jack performs excellently! As always!<br /><br />If you like this kind of movie, you must see 'Dödspolare'!
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbd3678e27995302a43ad12dbc179cc05b1d1176f36205b72a11ef1b8e797bb4
+size 430

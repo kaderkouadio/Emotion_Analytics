@@ -1,1 +1,3 @@
-If you ever wondered why the passion about Ferraris is, you have to see the show. Sadly, I don't see a DVD release, but it would be a darn shame if a producing company would not put it on DVD...<br /><br />The story is, in the end - about the passion. Passion for something higher, a dream to achieve more than people around you can achieve. Enzo took the brave step and moved forward with his dream, from being a small-time mechanic amongst the greats like Alfa Romeo and FIAT, to setting up a small shop and going to produce marveleous cars.<br /><br />Ferrari is a synonym for everything great in automotive industry, not a rich man's dream like DeLorean, Lamborghini or Porsche.<br /><br />Do you dare to dream?
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd3bf443e0bb09f7eba720b2683cf09e7ca36fdffc2418ad6139f4f75b53f22
+size 715

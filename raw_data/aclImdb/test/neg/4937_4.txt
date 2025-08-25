@@ -1,1 +1,3 @@
-"Shuttle" is an indie thriller about four young adults who get a ride late one night on a shuttle bus from the airport to find out that the driver is a sadistic psychopath.<br /><br />Although some of the sequences of scares and it's unconventionally interesting plot work, some aspects just don't. The bad dialogue and unlikeable characters gives a good reason to not care for them. But, often the suspense works and asks you the question of "What would you do?" and usually what you WOULD do isn't what these idiots on the shuttle do. <br /><br />If you're expecting a mindless, bloody horror film, you'll be mistaken. This is a film that causes you to use your mind, but, unfortunately, not until the end.<br /><br />Four out of ten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09361e4301d96f192be17d7c1fc0a8f485f2b784632788d907ac28ea2171494
+size 736

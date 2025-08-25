@@ -1,1 +1,3 @@
-This is definitely a bad movie, especially taking into account the over-positive magazine quotes on the DVD cover: "The best movie I have ever seen.", must have been his first.<br /><br />The retard is a miscast of the worst possible case, he does not even come close to scary at any point in the movie. The plot is thin and the characters are not detailed.<br /><br />The retard should have been treated when he first struck but then the movie would have ended half an hour after it started. It does not make any sense.<br /><br />It would have made a nice last year school project, but should never have been released!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1274244c566e8ce86ac5f3239280fa972a6cbe490b4a158ceada7e15dbca0063
+size 622

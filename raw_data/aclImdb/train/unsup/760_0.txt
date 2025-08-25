@@ -1,1 +1,3 @@
-I thought that the movie was dramatic with heart touching scenes.<br /><br />I would like to see a sequel to this movie.<br /><br />The ending does leave one to wonder what will happen to the Invisible People.<br /><br />Also a story line could be built on the idea that Tomme is now the Chief.<br /><br />A future sequel could show us how the tribe has thrived under the leadership of Tomme.<br /><br />This sequel could also show us Tomme and Kachiri and their family.<br /><br />I would like to see Tomme teaching his children about the traditions that were passed down to him from his adopted father Wanadi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f11fb200d33ec8e277461fa6d2c08b4d81af207145924a0a247eeed45184d5d
+size 611

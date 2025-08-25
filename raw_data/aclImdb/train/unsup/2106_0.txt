@@ -1,1 +1,3 @@
-Steinbeck's classic story of 'my brother's keeper' brought to the silver screen in a reverent manner. Perhaps the biggest story in this film is the fact that Chaney jr. could REALLY act-he was undoubtedly cheated out of the Oscar for best actor. Merideth, best known to younger folks as Rocky's trainer does a fine job as the brains in this two man operation. Veteran cowboy star Bob Steele does a stand-out job as the heavy. The direction is steady and the script lifted literally from the novel(why improve perfection?) Remade several times, but never as effectively. Even if you've seen it 100 times, keep a hankie handy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06572d61a60f89d98f116a2b287f05967faf7a839988e4b6ef0b946f05d14e17
+size 624

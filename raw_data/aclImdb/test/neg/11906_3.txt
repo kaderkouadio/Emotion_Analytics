@@ -1,1 +1,3 @@
-There's a certain irony in a parody of the Gothic genre being turned into a mess of clichés by filmmakers who either had no idea what the story's purpose was, or just didn't care. All of the hallmarks of your average family film are present- rambunctious younger siblings, a grumpy teenager who doesn't want to move, unsympathetic parents who are unable to see the apparition, and of course a romantic subplot. The movie has very little in common with Wilde's original story, which was largely written to poke fun at the melodramatic Gothic novellas that were all the rage at the time. If Wilde saw this version, he'd probably laugh- and then of course, write a parody. One can only hope that the children who watched this bland, mass-produced pap eventually discovered the wit and sparkle of the original version.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eb9bc830815588cf6b3a54f093022b2e3fdee6d01e938c1ab3af58c70d823d9
+size 815

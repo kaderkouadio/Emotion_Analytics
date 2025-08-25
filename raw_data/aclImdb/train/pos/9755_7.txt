@@ -1,1 +1,3 @@
-The last time I saw the movie I was around seven years, so my opinions might be jaded over time. At the time I enjoyed the filming that switched between cartoon and live action. At the time I felt sad for the blue camel and his sad life. Also I felt glee when after Captain Contagious kidnapped the heroine (a princess or toy shepherdess) the tables the were turned on him. Unfortunately the producers never decided to transfer this movie to VHS, so all I have are twenty year old memories. I am sure that if I saw the movie again I would consider it corny and sappy, but I really enjoyed it the movie at the time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2153d9d470cdcad7ddacdcffd3cc24f5e4a3e09bcfcb7d02dadd9f119af2d1d
+size 614

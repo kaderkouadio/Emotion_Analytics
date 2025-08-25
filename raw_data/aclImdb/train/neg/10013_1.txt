@@ -1,1 +1,3 @@
-A worn-out plot of a man who takes the rap for a woman in a murder case + the equally worn-out plot of an outsider on the inside who eventually is shut out.<br /><br />With such an outstanding case, one would think the film would rise above its hackneyed origins. But scene after scene drones by with no change in intensity, no character arcs, and inexplicable behavior.<br /><br />The homosexuality theme was completely unnecessary -- or on the other hand, completely unexplored. It seemed to be included only to titillate the viewers. When will Hollywood learn that having gay characters does not automatically make a more compelling picture?<br /><br />A regrettably dreadful movie. When will Lauren Bacall pick a good one? I expected better of her and Kristin Scott Thomas. This one is definitely one to miss.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0542c6c9c15f29aab40f7fe2d54579735422ac271fb1b09077a57f75faaea216
+size 813

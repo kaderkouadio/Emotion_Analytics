@@ -1,1 +1,3 @@
-Elliot Gould salvages what is otherwise a very mediocre movie. Candice Bergen's early reputation as a bad actress was molded in part by this film, where virtually the only thing she does in Getting Straight is whine, whine, & whine. I remember watching this film for the first time, and thinking to myself "Will somebody PLEASE slap her?" Her father's dummies, Charlie McCarthy & Mortimer Snerd, were better actors than her, and made better movies. Elliot Gould did M*A*S*H that same year, and built a well-deserved reputation as an excellent actor, even though he's had his cinematic ups-and-downs since then, like most actors. His work in Getting Straight is excellent, but unfortunately is balanced out by a typically bad performance by Candice Bergen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:326498888e65c0b7d0e0ef729f0b463e01a9b18353f29f94fd4f1e8131d1fc05
+size 755

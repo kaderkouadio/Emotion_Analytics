@@ -1,1 +1,3 @@
-I actually got my son a typical 16 year old to come over and see what i was watching and laughing at. He walked in just as the bridge was collapsing under the train. He sat and watched the end of the movie with me, then he actually started it over to watch the whole thing. This from a "its a black and white picture dad and where the heck is the sound turn it up" kid.<br /><br />And he absolutely floored me when he said after he watched the whole thing he thought it was great "but I prefer Chaplin". Seems he has been digging into my DVD collection when I wasn't watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e8f7c28627fd0c1f0649c1ff33de2ff590cf1b28eb39a2d4c820e36a209434
+size 576

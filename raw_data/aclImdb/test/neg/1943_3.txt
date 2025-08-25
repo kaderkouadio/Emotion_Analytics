@@ -1,1 +1,3 @@
-Overall I'd call this a disappointing performance. It attempts the old "Horror Anthology" approach, but fails miserably. The acting was bad, and so were the stories. Any skin shown in the movie was obviously random, just to attract the R-rating for sex. Typical, I guess, but bad nonetheless. Take your $5 and rent a REAL movie instead!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa907aeba03bb45a5fed929ed4f1232cf9c31b57908ec690b3697f4c2e3d0a69
+size 336

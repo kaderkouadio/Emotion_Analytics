@@ -1,1 +1,3 @@
-I saw this movie at a drive-in in 1959. Until "Howard the Duck" I considered this the worst movie I had ever seen. This movie tried to combine all the genera in one; comedy, horror, teenage angst, and the hot rod that must have sired "My Mother, The Car." Maybe it deserves a second viewing to see if it is an accurate reflection of it's time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2037818468a5d707087ce5976d30d274dc6b788c51113fbfd6e01ad4fbe75e3f
+size 343

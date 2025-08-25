@@ -1,1 +1,3 @@
-This flic will be remembered as a classic for the some of the funniest dead-pan dialogue and gratuitous shots of T&A to fill one of the most absurd plots since "Gymkata". From the asteroid showers, to the extended shower scenes, to the blow-up doll decoy, to the awkward reactions to the horse race which obviously isn't taking place, this movie never stops entertaining.<br /><br />It stays perfectly on the line between over-the-top farce while appearing to try to be a "real" film, in true Ed Wood fashion. It's amusing to read the comments of disappointed viewers who attempted to derive substance from this B-movie. This is one to watch late night on cable, preferably with some good friends and a keg.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81b2413b3922c3e0b224c6ec63748da8980853e43f7319557b89d5c3d176e288
+size 707

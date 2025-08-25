@@ -1,1 +1,3 @@
-This comes close to the worst movie I've ever seen. The writer starts you out in a way that you'll side with Jasper (Josh Hartnett). When he did absolutely nothing wrong, Sam (Leelee Sobiesky) leaves him for Kelley (Chris Klein), in a way that leaves you mad at Sam. You aren't let in on what she feels, so her feelings with Kelley aren't real to you, and their relationship is phony. It drags you in either direction, and it gets rather exhausting and annoying. The only good thing about this movie that I saw was the cast.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:7097397385b83ad04ee0183cec2813f978ca64183bd1ee1a38a39568be3c5284
+size 536

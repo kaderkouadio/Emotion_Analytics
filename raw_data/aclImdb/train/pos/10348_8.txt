@@ -1,1 +1,3 @@
-This movie is very good. The screenplay is enchanting. But Meryl Streep is most impressive. Her performance is excellent. She brings me to go into the heart of her role.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5fbb43a96f1369db2becf59b1d9f41ddaed487b9e6f6a0cf3cb8ca60a211b2
+size 169

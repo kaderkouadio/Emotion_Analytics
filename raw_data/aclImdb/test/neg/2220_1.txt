@@ -1,1 +1,3 @@
-There I am sitting at home in the morning, suddenly my brother flips on what appears to be the stupidest looking movie i have ever seen. Considering it was the 70's and special effects weren't to sharpe, this movie just about equaled the definition of crap. The stupid monsters, the stupid story line, and the stupid setting made this the worst movie I have ever seen. So bad in fact I didnt even finish it, I made it up to a certain point then proceeded to see how long I could go without putting a rope around my neck and hanging myself. (im just kidding haha) AWFUL MOVIE
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ff14f181099484aa3f6cea8eb06c39e57caef2a9714f1b6c5e8d220849a5e0d
+size 574

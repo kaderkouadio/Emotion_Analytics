@@ -1,1 +1,3 @@
-SPOILER<br /><br />I think this film should be a classic. The story was very engaging at it moved along at a near perfect pace. Sutherland and Connery were very good together and I was rooting for them the whole time.<br /><br />I think that the big problem with this film that keeps it from being a classic film is the ending. Something much better could have been done rather then them just "getting away" in a very improbable event. I don't know what it could have been done, but it should have been done.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:0048cb6552b316ae3a359224003d48614dfa646366b400cb34a98c2ef4515858
+size 520

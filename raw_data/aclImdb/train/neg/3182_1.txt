@@ -1,1 +1,3 @@
-Final Justice has the great Joe Don Baker running around Texas, shooting people who shoot people. Then he's off to Malta where he shoots more people. He gets locked up many times for shooting people. Then he gets into a gunfight with the bad guy, who is dressed like a monk. There is a boat chase, and Joe Don winds up in jail again. Finally Joe Don, with the help from Elaine from "Seinfeld" kill the bad guy, blow up a boat or two and someone gets shot with a flare. All this and a catchy theme song, just like Mitchell!
+version https://git-lfs.github.com/spec/v1
+oid sha256:708b2a3be04efccb47cb77b65accc1ccfe7d7bd2308d0448f068cce7c60999a7
+size 522

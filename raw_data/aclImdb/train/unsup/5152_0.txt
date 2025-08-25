@@ -1,1 +1,3 @@
-It is a nice change; the story was light and had a nice ending (a must in my opinion. The world has enough evil in it; I don't need that for my entertainment as well!) and even the violence was "ok" meaning, not too graphic. Cute movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8070eb46faa73b82c7a2728fee2312c4c5df49660d9630487411c74af823c82
+size 236

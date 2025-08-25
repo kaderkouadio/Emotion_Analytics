@@ -1,1 +1,3 @@
-Unique, amazing, massive project thoroughly documenting the expansion of the United States into the vast territories of the American WEST. Brutally honest, sympathetic insight into the fall of the many Native American peoples... some of the material is painful, sometimes bleak, but an absolute MUST SEE for any feeling person with even a passing interest in the history of America. Outstanding photography and the classic Ken Burns look & feel (executive & senior producer), but with director Stephen Ives' own insightful point-of-view. This series ranks right along side Burns' "Civil War" in scope and depth, IMHO. See it anyway you can, then demand the set on DVD! (DVD not available at this writing).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecbb22250c8ed974854946a9dad6d609d86294053b0cecd18a611e0501e0c0d7
+size 705

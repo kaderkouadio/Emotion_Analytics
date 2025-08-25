@@ -1,1 +1,3 @@
-I usually have a difficult time watching a TV movie, the extra long commercial breaks will break my concentration and I give up and find a good book. This one however made me put up with the adds and stay with it to the end. I realize the movie was based on a true story but it was not brought out why it took so long to find Denny? They had his name and I would presume his social security number. While he did move around a lot it would seem he would be found as soon as his number was entered for a job etc. The actors seemed a bit old for the part and a buried metal object when dug up had no rust. These were only technical glitches and did not take from the file. For a LifeTime Movie it was better than most.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aedd32071e180c0b94da07374624d19ac0fc93d9b96b344a4689f11d9cd711cd
+size 715

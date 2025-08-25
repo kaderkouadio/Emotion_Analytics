@@ -1,1 +1,3 @@
-Limp and dire. I fell upon this dreadful TV version being shown one afternoon on ITV1. The brilliant original overflows with abundant warmth, charm, wit, humour and is beautifully acted. Alas the trash that I watched had the heart of the original ripped out of it, it lacked the pace, eccentricity and repeatability that the original film had and the acting seemed one dimensional compared to the outstanding original. So I was utterly disappointed when I watched the television version it is nothing more that TV fodder to fill a gap between two other television programs. Luckily I have a video copy of the original and watched the brilliance of Josephine Hull and James Stewart their performances are such an amazing contrast to the lack luster television production
+version https://git-lfs.github.com/spec/v1
+oid sha256:784b50fe1b46d28971e2d1c8e82488a5e45b4a135628d8c04d3e38834201d873
+size 769

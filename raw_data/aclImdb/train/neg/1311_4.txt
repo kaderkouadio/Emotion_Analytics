@@ -1,1 +1,3 @@
-Jerry spies Tom listening to a creepy story on the radio and seizes the opportunity to scare his nemesis.<br /><br />I didn't find this particular episode that funny: the humour seemed rather constrained and the whole set up was kinda lame (Jerry is essentially the 'bad guy' in this one, tormenting poor Tom for no particular reason).<br /><br />There is the occasional flash of inspiration (such as Tom's literal 'heart in mouth' experience, and the moment when his nines lives are sucked out of his body), but, on the whole, this effort lacks the frenetic pacing, excellent animation and sheer wit of most of T&J's other cartoons.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20b93a5307550c102c5b394761623b78649f100c3e7b400978aec0dfde8fd627
+size 633

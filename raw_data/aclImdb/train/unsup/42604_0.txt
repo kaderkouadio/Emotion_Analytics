@@ -1,1 +1,3 @@
-I won't go into the problems that I had with this movie. Most of them have been touched on, from sexuality, to mild swearing, to stereotypes. I had a hard time staying interested after the first 30-45 minutes. I was bored and looking at my watch a lot, especially after they found the city. The animation was nice but the story was not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33d0d71d03343bd523175d3e50e53f32471e6a336eb488ae1bdd4bd9f84a7433
+size 336

@@ -1,1 +1,3 @@
-I found Sally Prager's portrayal of Claudia delightful. The character is intelligent, curious, full of wonder, and caring toward her younger brother. Her independence and courage are admirable. I sympathized completely with "Mrs. Frankweiler's" attraction to this spunky young girl. Ingrid Bergman's appearance toward the end of this movie elevates the film to a new level; as ever, her acting is superb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:995613021360339c2cc17a5353b3facfcedf054312b13fef6a8741d2c04ff51e
+size 404

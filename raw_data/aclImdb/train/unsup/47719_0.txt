@@ -1,1 +1,3 @@
-This feels very stilted and patronizing to a great extent. The whole plot is extremely forced - especially the "gallant" effort to save the college from ruin, and the moralistic overtone (especially by the leading lady) grates a bit.<br /><br />But there are one or two comic moments that do help relieve the boredom, and the dancing is quite fun (especially for alleged amateurs - ha, ha!)<br /><br />The shop proprietor and the young guy doing spectacular tap dancing were particular highlights. And I liked Peter Hayes impressions of Charles Laughton and Ronald Coleman as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57adecd5d73a8b57925ca6f4ce385a26c5bbcf97058616eef6f249bfd1e0d990
+size 581

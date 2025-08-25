@@ -1,1 +1,3 @@
-According to the government, in the United States there are about 50 million gun owners.<br /><br />You would think with statistics like that, the Director could have found believable characters and storylines, regardless of which side of the debate he wanted to portray.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b27741b7f5af83bc89e78bbc85781c05d7e53c0deeb933b8a06761ab07a95a8
+size 271

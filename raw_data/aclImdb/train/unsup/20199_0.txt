@@ -1,1 +1,3 @@
-there are some films that you watch and recognize that it is good, but your insides are screaming - this is horrible. that pretty much sums up the entire experience of this film. if you truly enjoy yourself watching the film, really love it in the moment, then i think you missed the point (and probably are kinda scary and desensitized). but after your stomach stops turning, you are left with a film that has pushed past the regular or expected, into a space of unique social and political commentary. As disgusting as this film is, and it is by far the most disgusting thing i've ever seen, it absolutely has to go that far to shake people up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df46aaa3aa50cdc24f48448416131b5ecc6bbab2f8da4e3b530abb565b73437e
+size 646

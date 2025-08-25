@@ -1,1 +1,3 @@
-This film (along with Rinne) are minor gems amongst the retread homage pics that have passed for horror movies so far at the 8FTDF "HorrorFest." And, yes, that's faint praise indeed. 'Cause there's not much worse in filmdom than would-be auteurs who think atmosphere is a substitute for a coherent plot.<br /><br />And that's all you get with The Abandoned. This is a film that was made almost entirely in the directors head. Sure, it would have been nice if he'd transfered it to film, but this happened instead. It's a very pretty film with a few genuine scares, but the last reel is strictly for the latte slurping cineaste crowd.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36277ccc62a2dba3519586cce53c0e1e350aa0c594486f6f826a464ae8a5ec5b
+size 633

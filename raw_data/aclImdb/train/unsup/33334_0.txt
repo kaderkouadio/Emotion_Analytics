@@ -1,1 +1,3 @@
-"Dead Kids" aka "Strange Behavior" is really lame movie without scares or invention.The cast is horrid and very unappealing,the special effects are truly awful and the film is incredibly boring.Why do a lot of people like this piece of scum is beyond me.Sure,the concept is original and creative,but it should be better revealed.In conclusion,don't bother with this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcf3af35a24b8cde475fe1bcfe760fdbe421a0ae8ce0fc8b738f56c6e6d6449e
+size 370

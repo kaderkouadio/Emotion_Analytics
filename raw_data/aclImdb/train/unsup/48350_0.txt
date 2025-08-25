@@ -1,1 +1,3 @@
-Vampire Vincent Price introduces his latest victim, John Carradine, to a nightclub where various badly made-up monsters hang out. There Carradine hears three stories  a con artist couple try to steal from a freakish 'shadmock'; Donald Pleasence is a special branch copper hunting down a vampire; and film director Stuart Whitman finds himself trapped in a ghoulish village. Although there is some fun to be had from Price's tongue-in-cheek performance, a couple of good songs and the occasional bit of amusing dialogue ("A vampire film producer?" "Aren't they all?"), the movie is slow-going and the stories prove too floppy to maintain interest despite their short running times.
+version https://git-lfs.github.com/spec/v1
+oid sha256:270331ae380a0c7d0ad4e22fa8d1f89aefb844169cbc5cebb0e58ead736aeddc
+size 682

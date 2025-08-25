@@ -1,1 +1,3 @@
-*shrug* I guess it's a sequel, and we see some sequences from the original, and some people have claimed to see it, so I guess it must exist. But why anyone would want to make a sequel is anyone's guess, much less _this_ sequel. Jack Palance is the big-name star, and he manages to embarrass himself fully as a priest in leftover Pharisee robes from Jesus Christ Superstar. he's given plenty of help by the amateur Italian movies who appear here, though. If you ever felt tempted to pick up the misogynistic Gor series of novels, watching this movie should convince you otherwise.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3db14135323b21b2b4f7a40d8bcdf8ddc46fec300cb8e8682aaa0d0024f6bed
+size 580

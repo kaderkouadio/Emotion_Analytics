@@ -1,1 +1,3 @@
-I think this show is definitely the greatest show. Jessica Alba does such a great job in it. Michael Weatherly also does an awesome job, as well as the rest of the cast. The show is very intriguing and they have wonderful storylines and their stunts are amazing. It's like watching a 1-hour movie. It's definitely worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e67e97ba5d9d0f80814d985f15524b754e2349d04ccbd1750d0ea9c3d8e4df3
+size 329

@@ -1,1 +1,3 @@
-If not for the title, I would barely have recognized LeGuin's book. The story and characters have been dumbed down so much they barely exist. There's no development of either plot or people. There's no hint of motivation for any character, especially Dr. Haber: no interior monologue, no back-story. There's no tension, either between characters or in the society. The actors appear to be sleepwalking (except for David Straithern, wonderful as always as Manny). The script is so bland, it could have been computer generated. I can't believe Brcce Davison, who was in the wonderful 1980 version, or LeGuin would have allowed this travesty to be made -- they turned a brilliant book into a chick-flick. Blech.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44f7d710caa0af0e1fff20b458b68e26c3d487aef0cd34a571fadc8ea4e7b093
+size 708

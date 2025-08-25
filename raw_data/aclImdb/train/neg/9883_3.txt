@@ -1,1 +1,3 @@
-Reasons to watch the movie:<br /><br />1) Bo Derek at 16 looks good and occasionally gets naked. She does a pretty good job playing an immature, insecure 16 year old beauty, in fact<br /><br />2) Many shots of a pretty Greek island<br /><br />But:<br /><br />1) Peter Hooten turns in the worst performance by an actor since Brutus played Caeser's friend in "Roman Senate Proceedings of March 15." He delivers each and every line in a delightful baritone bellow. Turn down the volume whenever he speaks. Preferably all the way down<br /><br />2) Bo's fantasies are sadly tame, especially by today's standards. A few turns in the bath and as a fully clothed model<br /><br />3) The plot is skimpier than Bo's costumes
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e4e41fdf3ab04c0cb6ae2fe2f075076774b6133cea19d31d336d1e8fa03eee
+size 715

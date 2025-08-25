@@ -1,1 +1,3 @@
-Avoid this movie like the plague! This stinks so bad it's like the worst thing ever put on film. It ranks "up" there with an Ed Wood flick.<br /><br />However there is something that may make you watch it - it "stars" Keanu Reeves! Holy maceral! I wondered if there was another actor similar to Jack Nicholson who was completely untalented at the start of their career and later developed into a star... it's Keanu Reeves. (But his performance in "Bill and Ted's Adventures" was cool.)<br /><br />Burn the master... they don't allow negative scores on IMDb.com... 1/10<br /><br />-Zafoid<br /><br />PS: Some real good music.<br /><br />-Z
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbd850d7eb19d6fe0aecb8895ac5ebd3fb7ed37dd95c6dad72ffdc2fd394f6b8
+size 638

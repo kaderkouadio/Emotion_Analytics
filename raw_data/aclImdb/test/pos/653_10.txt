@@ -1,1 +1,3 @@
-In the early '80s, I recorded Honky Tonk Freeway from the cable. Since then I have waited, hoping it would be on DVD. Yesterday I found it. It is one of the best humorous character studies I ever saw. The Old Fashioned episode is priceless. At this time (4/28/02) only two have reviewed it. One hated it, the other loved it. If you have a DVD player, either rent it, or buy it as I did.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1433a2fbcef8e2e3055a7af22f1791a60380c3642623732c1080e946110cc345
+size 386

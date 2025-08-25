@@ -1,1 +1,3 @@
-The male star's vocabulary consisted of "one word" The word that would get 'erased' at least fifty times if we were to think this horrible movie would ever make it to the TV screen for humans to watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9115bf3734abc6a8550daf15ef9cb2dbe0af4e6e33ef23033d710faff4144ef
+size 201

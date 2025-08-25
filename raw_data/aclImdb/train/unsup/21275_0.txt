@@ -1,1 +1,3 @@
-Joan Crawford is in her element here! As a deceitful, manipulative woman with the Medusa touch she's in her glory. You get the feeling she's enjoying herself immensely. Hell, you even get the feeling she's enjoying the costumes! She tears into the part of Eva Phillips as if it were her last meal, and takes the rest of the cast along for the ride. They don't make movies like this anymore and it's a shame. It's good, clean, sinister fun with Joan in control every step of the way.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cf88f7aa5dfe0d06d4613e9b88ad2a4ce715d184e7dd4a63c46e33956bd39f9
+size 482

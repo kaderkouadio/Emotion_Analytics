@@ -1,1 +1,3 @@
-The only way this is a family drama is if parents explain everything wrong with its message.<br /><br />SPOILER: they feed a deer for a year and then kill it for eating their food after killing its mother and at first pontificating about taking responsibility for their actions. They blame bears and deer for "misbehaving" by eating while they take no responsibility to use adequate locks and fences or even learn to shoot instead of twice maiming animals and letting them linger.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1380173a422b2245281d5f1592ecd71b177420facd31270d7a6c1749036726ac
+size 480

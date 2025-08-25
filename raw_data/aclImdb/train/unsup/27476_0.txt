@@ -1,1 +1,3 @@
-This is as depressing as the rest of the specials, though not as much as the Christmas one. It's amazing to me that more of my generation didn't grow up angst-ridden because of pap like this. You want to THROTTLE Lucy and the rest of the girls, save for Peppermint Patty, who at least tries to be nice to Charlie Brown, and give the rest of the gang a whop upside the head while imitating Cher in 'Moonstruck': "Snap out of it!" When CBS chose not to air any of the specials one year I sat down and wrote a personal letter to Roone Arledge, CEO at the time, profusely thanking him. These shows should be put in the dustbin, have kerosene poured over them, and set alight!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a184dc228ab01dec74b6821cf6bd3a0ac2b698dcf78e0116a85b531c76aaeed
+size 671

@@ -1,1 +1,3 @@
-This was the worst film I had ever seen (until I saw "Welcome II Terrordome"). While I understand the potential necessity of the polemic that it so burdensomely carries, Sankofa is not fit for any sort of consumption. While it does portray slavery in a brutally realistic fashion, any drama or complexity that might have at one point existed, is destroyed by one of the poorest scripts ever produced, the poorest editing and music ever seen in a film, and some of the worst acting ever to not grace the screen. Yes, this is a terrible terrible film. Yes, I know it was low budget, but the reason why is that it lacked a script that could carry it. Skip Sankofa, it is two hours of your life you will never get back.
+version https://git-lfs.github.com/spec/v1
+oid sha256:302215ed1cb415e198ad2479e8301bb6c55e682bcc3fc2d6d97077cceb36e7b3
+size 715

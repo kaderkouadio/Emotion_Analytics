@@ -1,1 +1,3 @@
-This was absolutely one of the best movies I've seen. <br /><br />Excellent performances from a marvelous A-List cast that will move you from smiles to laughter to tears and back.<br /><br />I couldn't help but care about the characters. Ms. Merkerson will blow you away, as will the young man playing the young lead.<br /><br />I also thought that the set design was top-rate. The viewer is really placed inside each era as it's presented. <br /><br />The music is a blast, too. Nice selections to represent mood, time and place. The blind blues man is stereotypic but he delivers some great songs. <br /><br />This is a great story that will survive many repeated viewings. Take the time to watch it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:acf5a0426cd2194451a0a92dde264d708b055f747f26fd68507a37c45ed93ee3
+size 702

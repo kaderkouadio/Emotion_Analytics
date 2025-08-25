@@ -1,1 +1,3 @@
-Give H.G. Lewis points: He managed to incorporate beefy exotic dancers, gallons of his notorious fake blood, and Henny Youngman all in one movie. "The Gore Gore Girls" was Lewis's horror film swan song, and ends with a head being squashed by an automobile. Oh... Henny plays a surly night club owner whose girls are falling prey to Lewis's standard butchery.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d83e8d7c6956740e4e685e6f18c53e4fed401f9ad5c4a279803acab541837c6e
+size 358

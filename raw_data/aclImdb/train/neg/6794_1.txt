@@ -1,1 +1,3 @@
-Friday the 13th step over! There is officially a worse movie than your hateful series out there. I won this movie in a contest at college, and it was a waste of money even if it was free. Jack Jones stars as a truly awful singer whose trying to find some murderers or something. At least Friday the Thirteenth never bored me. I'd rather have my fingernails pulled than see this again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45f66ac0d3863301b38ccda22cca7058f8bbeffbc972173721a007ed3d0dd114
+size 384

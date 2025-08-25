@@ -1,1 +1,3 @@
-How can you make a joke about Mafia? It is not the kind of subject to laugh at! A near movie cannot make me laugh, because I am comparing it to Jane Austen's Mafia!. Mafia! wasn't a good movie but Hoods is really worse! In Mafia!, there were some good jokes but in this one there are maybe two or three...that make you smile. Not too bad actors but very bad scenario!! We sure prefer something serious like The Godfather. I give it * out of *****.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f143e4ca65f187951df5854318db4be7b92bcad590f88ec044714824d9dad56
+size 447

@@ -1,1 +1,3 @@
-This was so so bad, they tried so hard at every moment to be Hollywoood... this was crap. I felt betrayed by the time it was over. Just cliche after cliche. Run fast from this Hollywood wannbe movie. The characterers were never developed, the plot was a farce and noting worked. Even parts that seemed to be redeeming turned out crap... it's a bad joke.... do not see this thing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e344c52567ea3d9b10038406bf698686296aa5dce77a02255b6e99d2667934e2
+size 379

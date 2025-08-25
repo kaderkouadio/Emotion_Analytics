@@ -1,1 +1,3 @@
-This movie has some beautiful sets and Albert Finney does a great job as the ruthless father. The movie fails because Jennifer Jason Leigh is too jumpy as the daughter and is no match whatever for Olivia De Havilland's far more nuanced, mature rendering in The Heiress (1949). The film's feminist-leaning conclusion also goes against the austere conclusion of the novel, Washington Square, whose author, Henry James, savagely parodied feminism in some of his other novels. As a fan of old Hollywood and great literature, I found this movie very disappointing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83b0261e9e5c8e51eabbec28174c40288a2ed6238609ca2d88cc96730dbc8d27
+size 559

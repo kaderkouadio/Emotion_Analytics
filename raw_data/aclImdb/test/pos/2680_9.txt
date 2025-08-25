@@ -1,1 +1,3 @@
-"THE KING OF QUEENS," in my opinion, is a pure CBS hit! Despite the fact that I've never seen every episode, I still enjoy it very much. For that reason, it's hard for me to say which episode is my favorite. Even so, I must say that CBS really knows how to make a good sitcom. Before I wrap this up, I'd like to say that everyone always gives a good performance, the production design is spectacular, the costumes are well-designed, and the writing is always very strong. In conclusion, if this show lives on in syndication after it goes off CBS, I strongly recommend you catch it just in case it goes off the air for good.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82471122c150eaf552ed19fe2ef33369006bc42d92c84d5b5043a8d51698f015
+size 623

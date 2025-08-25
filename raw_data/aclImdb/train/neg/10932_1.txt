@@ -1,1 +1,3 @@
-The really sad thing is that this was supposedly the highest budget "Halestorm Entertainment" has had to work with. All involved should be fined for littering since all the celluloid they wasted is good for nothing more than filling the trash. Not only is the writing atrocious and the jokes awful, but the camera work and film quality are amateur at best. The soundtrack sounds like it was created on some guys laptop PC. The worst part of all is that I actually sat through the whole thing. I think just because I couldn't believe that I had actually paid to buy a ticket and that the theater I was watching it in had actually agreed to show the "film".
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e445acf040f8d483d1facc262ae3452a73308ea85b8f74a26a8988440045e74
+size 655

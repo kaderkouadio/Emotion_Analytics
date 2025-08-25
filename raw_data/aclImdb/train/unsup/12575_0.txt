@@ -1,1 +1,3 @@
-Even though there are a few stupid parts, overall I really like this movie. To me, they dumbed-up Debbie Renyolds, and I think Kimberly J. Brown has really improved since the first one. In the first one she seemed very one dimensional and didn't show a lot of emotion, in the second and third she has more character and showed better emotion. The acting is better from everyone and better lines. It doesn't feel like they're just reading off of a script but are putting themselves into it. The magic and the spells are more advanced as Marnie is growing up, and the wardrobe is better suited for all of the characters. I personally like it, I'm actually watching it now and would recommend it to others.
+version https://git-lfs.github.com/spec/v1
+oid sha256:794e6a18aca221f166354e04ca737cb2822a8f9d85fd809a1f3acecb06609d46
+size 703

@@ -1,1 +1,3 @@
-A study in bad. Bad acting, bad music, bad screenplay, bad editing, bad direction and a bad idea. Pieces of schlock don't come any cheesier or unintentionally funnier than this... thing. By the end of the "movie", you are left wondering why did they bother in the first place. Poor Malcolm McDowell, was he short of cash or something? Still thinking of seeing this? *SPOILERS AHOY*: If you haven't died of laughter in the first thirty minutes, by the time you'll see the cyborg-populated town named "Cytown", you will. Avoid this, my movie-loving friends. Avoid.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ef76deb10a97db6789af377f8796475f5be3106d128b27fbad3bc75e83bb95
+size 562

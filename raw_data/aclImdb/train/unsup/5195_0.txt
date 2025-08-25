@@ -1,1 +1,3 @@
-"Miracles" debuted on January 27, 2003 on the ABC Television Network. After constant pre-emptions and special episodes of "The Practice", "Miracles" was cancelled after only six episodes. The Save Miracles Team, even after a year has passed, is still doing what it can to save the show. For more information, please visit MiraclesHQ or feel free to contact me personally.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eab4cdc63cd23940b875b3f19ffa94b7a5698ec1e959c57f7635f4043fdfdf24
+size 371

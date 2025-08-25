@@ -1,1 +1,3 @@
-This was a pleasant musical about the creation of the Moulin Rouge dance hall. In many ways, this reminds me of the Hollywood musicals of the 40s and 50s, in that it has many clichés leading up to the inevitable conclusion ("will the show STILL go on?"). While of course none of this is new, it was enjoyable and well made. The musical numbers at the end are frenetic and beautiful to watch. In many ways it reminds me of a sexier version of THE GREAT ZIEGFELD. In real life, Ziegfeld was quite the player but this was sanitized in the American film. But, in FRENCH CANCAN, the characters have fully functioning libidos--but nothing is really shown, so the movie is okay for kids.<br /><br />Nothing new but well done nevertheless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eb9a33d4953d5c52f478b45c056c34d8362d5c41113cc93575bf365869f4c02
+size 732

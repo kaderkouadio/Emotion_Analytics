@@ -1,1 +1,3 @@
-This movie lacks anything worthwhile. The story is rehash and the cinematics get annoying within the first ten minutes. Constant closeups and slow motion get too aggravating that this movie looses its entertainment value very quickly.<br /><br />Although whenever one watches a movie, a bit of "suspension of reality" is to be expected. But with this movie, it becomes laughable and lame. I had flashbacks of watching "The Core" with some of the cheesier moments.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06b94ce654ab4caff3b12e003f336933a4c923e64552ce490f50061ca6175de
+size 463

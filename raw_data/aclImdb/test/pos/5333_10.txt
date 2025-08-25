@@ -1,1 +1,3 @@
-Following on from the huge success of Nick Park and the Aardman team with the Wallace and Gromit short animations we now have the first (hopefully of many) feature with the plasticine characters that so many love. The DVD of the movie has proved to be the most durable and best used of my two children's many Christmas presents by a long way. The plot of the movie is straightforward enough but the beauty of the W & G films for me is the background gags. There are plenty of up front gags and slapstick for kids and adults to enjoy but the background is the killer for me. All in a classy addition to an already classy filmography for Nick Park etal and I would recommend fans and new watchers to see this film....often.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89776c60df37d35b296a65b08d2f060f8065a2e1ad8027566923c26f72eb2a0b
+size 721

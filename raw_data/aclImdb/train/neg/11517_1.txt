@@ -1,1 +1,3 @@
-I really wanted to like this movie because the critics have been unkind<br /><br />to it (to say the least)... but it was terrible. Really terrible. Badly<br /><br />acted, a witless script, cack handed direction... Watching this film was<br /><br />like watching a car crash- you want to look away but you keep staring<br /><br />because you want to see how messy it's going to get. Well, the car is<br /><br />wrecked and there are no survivors. On the plus side, the cinematography<br /><br />was nice, made me want to go on holiday, if only to cleanse myself from<br /><br />this unholy
+version https://git-lfs.github.com/spec/v1
+oid sha256:5418981d170993a300d3d0d6381d460d8b2771d66f02c5ad54f036740b55b919
+size 590

@@ -1,1 +1,3 @@
-Slipstream is such an inventive and exciting piece of film-making that it is impossible to forget about it. The casting of every character involved was absolutely perfect, and the performances were spectacular. One of the best things about Slipstream is that it really makes you think. You can have in-depth conversations about the plausibility of the story-line and spend hours discussing the film. The story is awesome, it is delivered cleverly and entertainingly, and the movie as a whole is just so much FUN that it can be forgiven whatever number of time-travel discrepancies that may be found in the plot. I cannot recommend this roller-coaster ride of a movie enough.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55a46e1f33b830f5e27bf97a22ea0ef39826e8fbd01235eaa25cea608830adf9
+size 674

@@ -1,1 +1,3 @@
-Skip all the subjective "this is a great film" reviews and read the IMDB trailer or the back the KINO videobox (which includes both versions of this flick) which I'll paraphrase: "To the tune of sci-fi score by George Antheil, the camera goes on a sleepwalk through B-Movie hell, all photographed by Will Thompson (who did 'Plan 9 from outer space' & 'Maniac')." You don't know whether to laugh AT the film or WITH it. So if you like self-produced B or C-grade noir-wannabe actors and effects with pretensions of surrealism, this could be for you! Otherwise, get a copy of "Screamplay", a modern low-budget expressionist masterpiece.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d994eef95ad1f5d30f4749533d7bb167877800a4b6fd9a6e57c941bd4ef5a6b
+size 633

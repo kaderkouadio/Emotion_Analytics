@@ -1,1 +1,3 @@
-As I said in the summary line, in the end of the movie when the screen went black, had I not paid so much for my TV and if I knew it would have done good, I would have thrown something at it. Instead I'm left yelling, "Aaaaaaarrrrrhhhhh, no way are they going to leave it like that!!!!" Not that the movie was great, but it should have been, so sometimes I have a feeling of hope that a movie like this could at some point take a turn for the better, and really get to the level it should have been. Instead they leave you feeling empty about so many different things in the movie, yes a lot did tie together but there could have been so much more.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1216decbf958dda1029343e725fa6df1a376260291fec7f87462ea1a4035ce9
+size 648

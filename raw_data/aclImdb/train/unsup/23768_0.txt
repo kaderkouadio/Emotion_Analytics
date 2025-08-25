@@ -1,1 +1,3 @@
-Escaping from various hunters, Bugs burrows underground and winds up popping into Sing Song prison where (Yosemite) Sam Schultz, a prison guard attempts to keep the rabbit in line thinking he's one of his jailbirds. Of course, Bugs turns the tables on him every time, including two attempts that almost kill Sam! Once again, Friz Freling mines great comedy out of the bunny and his gruffly loud antagonist. Also here is the famous exchange of Bugs, with one word change, tricking Sam (or in other cartoons, Daffy) of doing something he wouldn't have done otherwise. So if you've loved these Looney Tune/Merrie Melodie cartoons for years or simply want to find out what all the fuss over them are about, Big House Bunny isn't a bad place to start.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbcfbf019d3816c6089caee666a893b0675705a708a5a1babe34e02a2e0dd282
+size 746

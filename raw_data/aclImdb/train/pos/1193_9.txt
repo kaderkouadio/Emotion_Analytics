@@ -1,1 +1,3 @@
-The memory of the "The Last Hunt" has stuck with me since I saw it in 1956 when I was 13. It is a movie that was far ahead of others at the time in that it addressed the treatment of the natives, the environment, and the ever present contrast between the short and long term effects of greed. It is as relevant today as in 1956, a cinemagraphic discussion of utmost depth and relevance. To top it off the setting is beautiful and the cinematography excellent. The memory of this movie will be with me to the end of my days.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0fd48e5889bde7a98399e40a7b65f82e11e8e02c204dfe62217ea3808947e47
+size 523

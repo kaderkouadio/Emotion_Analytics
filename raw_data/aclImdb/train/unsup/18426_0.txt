@@ -1,1 +1,3 @@
-Entertaining but flawed screen version of Dafoe's novel. Kingston is excellent as Flanders and the rest of the cast does well also. The claustrophobic sets and many close-in shots add to the personal (and earthy!) nature of the story.<br /><br />The only problem I have with the movie is the pacing (I didn't read the book, but most movies based on books seem to have this same problem). Some sequences are given too much screen time and other elements are glossed over. The "theme" is given more importance than the story, which is a shame because there are some really good things here.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eadab496987ee08744c7ad617f100172f6d280267075c6e6d657a6b2add0e25f
+size 588

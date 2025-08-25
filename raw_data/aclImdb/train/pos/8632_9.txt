@@ -1,1 +1,3 @@
-This is a comedy of morals, so occasionally a gentle touch of bitterness occurs, but a lightness soften all sarcasm and irony flows till all of a sudden one moment will halt your heart and changes everything.<br /><br />This film, marvelously written and directed, is a gem that shines perfectly, with beautiful acting by all. Jean-Louis Trintignant is exquisite as usual, and Romy Schneider is a pearl, perfect and glowing, that is not to be missed. A truly wonderful film !!
+version https://git-lfs.github.com/spec/v1
+oid sha256:5466a7250dfcc78d8367247dc664399f887ff64accdfe7d650a258f55b0d8bb6
+size 476

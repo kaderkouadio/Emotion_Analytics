@@ -1,1 +1,3 @@
-Never will I forget this made-for-TV movie. It should be professionally transferred to DVD medium! With sub-titles in various languages so that more people worldwide can enjoy it.<br /><br />The acting was fantastic. The impact of the script was unusual for any movie, most of all for a made-for-TV one. I have never forgotten any of the scenes or the characters --- and I am NOT a movie fan! Nor am I Jewish, and I am too young to relate to WWII events. After reading that Redgrave was anti-semitic, I am even more impressed with her acting. It was flawless, as was the acting of every supporting character, including those playing the Germans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93459bbeba593db6a9ac76fa77e68215373cdd44d115bb47babcab26341547b3
+size 645

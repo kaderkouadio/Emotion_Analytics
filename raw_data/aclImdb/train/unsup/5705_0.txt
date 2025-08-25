@@ -1,1 +1,3 @@
-This is a nifty little piece of American Cold War propaganda. Much time is spent comparing the methods of the USSR to those of the WWII Axis powers.<br /><br />Deeper than that, though, is the ending, which draws a clear comparison of the "medicine-man" tactics used by all those aforementioned enemies and the McCarthyites, who at the time of this film's release were in full swing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8113bb74b712b536f54c26e99bc1306cdbccb823135878c10323266a0956523a
+size 383

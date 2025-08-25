@@ -1,1 +1,3 @@
-A really lousy movie. Alicia Silverstone needs more than her "cute" looks to recoup the producer's money. The dialogue ranges from incredibly dumb to hilariously stupid. Director Marco Brambilla was out to lunch on this one. Don't watch this film, read the phone book.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aab70dd811de7314030bd81c2877f619440da85007747fcab7355483d03d269
+size 268

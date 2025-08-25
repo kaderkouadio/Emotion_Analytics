@@ -1,1 +1,3 @@
-Top performances from Epps and Shakur make this film watchable, the story a fairly mundane one of street youth gangs drifting into crime in search of kicks, streetcred and "juice" (or power). Shakur is the nutter who leads the way on a downward spiral, eager to get involved in any crazy venture and leading his more cautious friends down with him, Epps the good kid hoping to escape the ghetto life through his DJing skills. Uniformly good acting especially from the two leads, cameos from Queen Latifah and Samuel L. Jackson, tense atmosphere and a funny, slang-heavy script all act in its favour, but a lack of originality and a rather mediocre ending bring it down a notch or two. Worth a look if it's your scene though.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cea8f4cd7976f4489068cc37773419efc4a4e16d718623c80768977f4aee70e9
+size 724

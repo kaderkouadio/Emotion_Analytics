@@ -1,1 +1,3 @@
-I didn't know it was possible to release a movie this bad. The labeling sounded so promising, but you would think that with a cast of 20, at least one of them would be able to act. My wife left me and went to bed after the first 20 minutes. She made a wise decision.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6124948f83834ae7650c37ffb54c06c9bd34891e6d2278fc5d44b602779267ab
+size 266

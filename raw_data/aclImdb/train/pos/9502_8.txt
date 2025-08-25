@@ -1,1 +1,3 @@
-I liked this movie very much. Although this movie doesn't boast of big (or even known) names, its very charming. Its one of those feel good types where you know that everythings gonna be just fine in the end. My favorite scene is with the baby elephant part. I rate this movie at 7.5
+version https://git-lfs.github.com/spec/v1
+oid sha256:999a44e8850ef14cef531b33eeb24517d3a12561ed15006af67d7238c885d494
+size 283

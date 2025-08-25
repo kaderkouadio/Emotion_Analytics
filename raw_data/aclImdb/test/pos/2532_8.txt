@@ -1,1 +1,3 @@
-I've been studying Brazilian cinema since 2004, when I stumbled onto "Cidade de Deus / City of God". Let me tell you something, this movie is probably as good or BETTER than "City of God".<br /><br />The acting, cinematography and music supervision make this movie a unique experience. I have not been to Brazil yet, but this movie presents the harsh reality that is beset before the citizens of São Paulo.<br /><br />I recommend this movie if you enjoy good cinema. This movie is disturbing and you may feel a bit despondent after watching it.<br /><br />Something you want to watch, but nothing you want to go to sleep on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e87786763c9a99549af5bb78b47a6739d4900f226b361827d4101832cde4d01
+size 625

@@ -1,1 +1,3 @@
-This was a pretty good episode. Though no "Trapped in the Closet" or "Cartoon Wars," it had a lot of things going for it. The character of Al Gore and that bizarre-as-hell "super cereal" thing was pretty darn funny. But, the scene that made me adore this episode was one I'm sure everyone will agree was one of the greatest Cartman/Kyle moments ever. When Cartman is superstitious of Kyle that he'll be stealing his gold(which of course is fake!), and he comes within inches of his face. Suddenly, Kyle wakes up, and they have that crazy conversation where Cartman tries to act like everything is completely fine. Cartman crapping out the treasure at the end, though predictable, was pretty funny.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6108c8af33b2e8f5441e8a1e1895dfb39e6be0641448931166e23a96e8e1389a
+size 697

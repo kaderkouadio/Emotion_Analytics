@@ -1,1 +1,3 @@
-I can't believe that in the 34 prior comments, nobody mentioned that this film is a blatant rip-off of Born Yesterday. A man is hired to bring an ostensibly dumb blonde up to the requirements of a gangster. Hired gun and blonde fall in love and live happily ever after. Gangster is left in the lurch. But Born Yesterday was an intelligent treatment whereas this is just so much fluff. Technicolor transfer to DVD is deplorable. Natalie Kalmus would be rolling over in her grave. Check out the paperboy. Recognize him? But, it's historically interesting to see the roots of Rock 'n Roll. Also interesting is Ewell's introduction to CinemaScope, a new format at the time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8665eec60d7406019c48f4845c788508dcb20efe2b5280ad0e98524a67b4e984
+size 669

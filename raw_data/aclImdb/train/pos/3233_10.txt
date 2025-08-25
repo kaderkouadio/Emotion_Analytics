@@ -1,1 +1,3 @@
-This is a top finnish film this year,although Tango Kabaree comes close.The Director Lampela made couple of years back another nice little film called Rakastin epätoivoista naista (I was in love with a desperate woman).Joki is truly true-to-life beautiful film of one saturday afternoon in a little village/town.The actors are maybe not so handsome or beautiful but they do act beautifully.I certainly do hope that many of them get JUSSI statue (finnish OSCAR) next spring.I think this film could make it abroad as well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aa4cb3d6e355307c783e30b7014abcc3967fd52b0cd46b21f13229f482a03f9
+size 521

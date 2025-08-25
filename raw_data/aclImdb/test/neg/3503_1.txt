@@ -1,1 +1,3 @@
-i am amazed anyone likes this film. i never walk out of movies, but my friend had to physically stop me from leaving the theater during this insulting disaster. the white characters are saints and the Asian characters are practically nonexistent and worthless to the story. they exist only as objects, surprise. characters of other races fare much better. the twists and turns were laughable and predictable. but if you're reading this, you know that already. Paul Haggis is a hack. Hollywood can't even do multicultural movies right. do yourself a favor and watch a much more honest take on race relations, Harold and Kumar Go To White Castle!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2f386db319fbff390d3c6af9563a8338bcd720276ead57bceeabf5793a99380
+size 644

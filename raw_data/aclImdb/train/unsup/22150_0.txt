@@ -1,1 +1,3 @@
-Since this film doesn't have huge studio promotion or A-list stars, you might be inclined to dismiss it. But this is a very entertaining film, with a surprisingly good look for a small-budget independent production. This football film has lots of solid action and avoids most of the usual cliches. It features solid performances by a mostly unknown cast. Nearly everything works -- the drama is dramatic, the comedy is funny. Do yourself a favor and give this film a chance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb6818bb41fb751e549dd0506899db648a514d9655ee0ba172bacd83784912f
+size 474

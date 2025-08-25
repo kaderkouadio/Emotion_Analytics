@@ -1,1 +1,3 @@
-Very poor effort that offers pretty much nothing to anyone but a hardcore fan of Stanley Tucci, who tries, but can not save the poor structure, dialogue, direction, or talent of our leading man.<br /><br />Pretty much the only trick this plodding tale of a naive new salesman for an alarm company has, is its quirky side characters. But without a realistic backdrop, such characters are pointless.<br /><br />Nothing to see here, keep moving...<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5a42787e679dfec2e601ded9e533de2945bcec3b0fdcef0f8ee4d44fe811b1
+size 456

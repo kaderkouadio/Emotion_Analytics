@@ -1,1 +1,3 @@
-This movie is about as exciting to watch as paint drying. Granted, it wasn't a complete loss, Ewan was nice to look at...and someone loaned it to me, so I was spared the expense of movie rental. There are worse movies and there are far better movies, but I honestly watched it because I'm in the process of watching Ewan McGregor movies because he has this presence that is so strong that you just have to watch his work because he draws you in, and you end up sitting there watching, totally mesmerized. Very commanding! Now, only if Rogue Trader were a strong enough movie to carry him....
+version https://git-lfs.github.com/spec/v1
+oid sha256:a39188ef6854634f0de3665ca1b77e84b5cfe8ef6ce91e8a5a7faeee509ebb2a
+size 591

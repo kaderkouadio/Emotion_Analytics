@@ -1,1 +1,3 @@
-No doubt, this was an obvious attempt to rip-off Martin & Lewis at the height of their popularity. That said, this is a funny movie. Perhaps if M&L had stayed together, stuck to basic comedy, like this, their pictures wouldn't seem so dated today. Alright, so 'the Duke' is no 'Dino'...but Petrillo gives rise to the thought that perhaps we really didn't need Lewis. Ray 'Crash' Corrigan is in the gorilla suit.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7c8113fe6396aaa0cc70cf0a187834f363f38f6d116207cee7d11067e1a5a37
+size 411

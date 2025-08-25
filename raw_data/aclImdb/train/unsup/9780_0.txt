@@ -1,1 +1,3 @@
-Definitely a rare and wonderful find for a movie which includes a cast of REAL (instead of hired hearing-actor-pretending-as-a-deaf-person actors that you see sometimes in films!) deaf actors in the movie world nowadays.... <br /><br />Also, it's a bigger plus when you consider the directional approach chosen for this film -- it's an appreciative success.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77109ac4c1ed4758e8f2962151ed18df8a0a475905d6c741f0f2251a93746e20
+size 357

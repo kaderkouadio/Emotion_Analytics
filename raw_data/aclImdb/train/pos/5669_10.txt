@@ -1,1 +1,3 @@
-In her first nonaquatic role, Esther Williams plays a school teacher who's the victim of sexual assault. She gives a fine performance, proving she could be highly effective out of the swimming pool. As the detective out to solve the case, George Nader gives perhaps his finest performance. And he is so handsome it hurts! John Saxon is the student under suspicion, and although he gets impressive billing in the credits, it's Edward Andrews as his overly-protective father who is the standout.<br /><br />Bathed in glorious Technicolor, The Unguarded Moment is irresistible hokum and at times compelling drama.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24927ce3c36e171e998861877af8adcaf1d1993a09be7627fdd7720949bd9e7e
+size 610

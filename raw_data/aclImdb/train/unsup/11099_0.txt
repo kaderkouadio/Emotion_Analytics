@@ -1,1 +1,3 @@
-Much better-than-average, very different suspense film. The few plot holes and the occasional trite dialogue don't detract from the overall work. It's such a great improvement on the usual hackneyed crap put out by Hollywood that it's hard not to like it a lot. The acting, largely by no one you ever heard of, is so much better than anything you EVER see in big-money films... it makes you realize what junk we usually have to pay seven bucks to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f10009d7dee53248bc290fef2a1a47d6ccf4583ea8e981a28b0f4d47e523c82b
+size 451

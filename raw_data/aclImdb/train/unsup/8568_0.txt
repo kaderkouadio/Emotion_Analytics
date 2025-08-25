@@ -1,1 +1,3 @@
-this movie is hilarious! my friends and i couldn't stop laughing. and the way the professional actors try to learn how to be a gangsta from a book is even funnier! go and see this movie now! i recommend it totally! go, y r u stilL here? GO ~!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f82446605e6cf4f0f2e1cfa8f738effedd22647afb69d34a07aa740d5ca67c
+size 244

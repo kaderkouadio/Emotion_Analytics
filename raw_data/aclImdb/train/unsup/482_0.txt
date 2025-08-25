@@ -1,1 +1,3 @@
-The original "Blues Brothers" is one of my favorite movies, so although I didn't expect BB2000 to be as good, there is no way I expected to be so bad. The beginning was decent, and the new characters were for the most part acceptable, but the further into the movie you go, the worse it gets, until finally you get into flying characters and voodoo witches, neither of which (in my opinion) belongs in a "Blues Brothers" movie. However, the music is excellent. So instead of renting or buying the movie, opt for the soundtrack.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a55db0080ff365e7eb4ddebb90151d39d7b14a2352c3dd1ce85e51f0f06fbb
+size 527

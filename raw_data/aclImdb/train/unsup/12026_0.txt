@@ -1,1 +1,3 @@
-Yeomen of the Guard is especially fine because Joel Grey is such a superb actor who conveys the sadness and folly of loving someone who fails to return your love. It is a melancholy but realistic story of love unrequited. The entire cast is superb. The set is excellent. This is one of the finest Gilbert and Sullivan movies brought to TV.<br /><br /> Give it a try. You will also enjoy this story and its wonderful music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f224a4809e98b4b9e39f14cd03af55d4ec4e27d55bdb0b2af845c1d4d2f501e
+size 422

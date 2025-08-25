@@ -1,1 +1,3 @@
-Henry Fonda was always quite surprising pulling off a villainous role, and his mangy varmit in "Firecreek" is no exception(as an actor, he seems such an upright citizen that it takes a few scenes to accept him as a scurrilous killer, but he certainly makes it work). Murderous gang rides into dirtwater town and terrorizes the locals, including honorary sheriff James Stewart. Despite a very odd direction(with titillation asides), this is a formidable western with a sturdy cast. The mean-spiritedness of the picture is extremely tough to shake off however, and action-fans won't get much satisfaction until the bullet-ridden finale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e91cf3f507a967560e26faedd03b37f3384c351f99073c5c42eae7b7566b56f
+size 634

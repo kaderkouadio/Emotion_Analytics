@@ -1,1 +1,3 @@
-Mr Bean was great fun, i loved it, every episode was really funny, Rowan Atkinson was perfect for this role, he's a funny looking bloke and his facial expressions were hilarious!!! <br /><br />The series was so successful that they even made a Mr Bean movie in 1997, which was also pretty funny by the way!! <br /><br />It's funny seeing all the adventures and situations he gets himself into, this series was a classic for sure, and i still watch an episode from time to time.<br /><br />Mr Bean is well worth a 10/10 in my book, fans of offbeat comedy must check this out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b36a6b7079f019f0403a7ba451ee453766bdf9f1ec75da8a4e19e41160d06e3
+size 574

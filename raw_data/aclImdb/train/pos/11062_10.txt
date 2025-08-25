@@ -1,1 +1,3 @@
-Real cool, smart movie. I loved Sheedy's colors, especially the purple car. Alice Drummond is Wise And Wonderful as Stella. I liked Sheedy's reference to how her face had gotten fatter. The roadside dance scene is brilliant. Really liked this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a614f7ebe87c2ad327f0a6ea7d3731e46aede672cc49cefa7474ca9e65df8d
+size 247

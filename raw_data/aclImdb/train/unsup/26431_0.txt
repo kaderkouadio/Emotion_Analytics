@@ -1,1 +1,3 @@
-The film starts out with a quote from Herman Melville's MOBY DICK, "Woe to him who seeks to please rather than appall," which by the end turns out to be a commentary on the inner workings of Hollywood and if the main character played brilliantly by Peter Sarsgaard wants to be a part of that. In MOBY DICK, the quote is used to expound the point of telling the truth. Here, that's where the main struggle is also centered. Telling the truth and being honest, like in the movie CLOSER, becomes entangled in a deadly, KINSEY-like love triangle here. Campbell Scott (RODGER DODGER & DYING YOUNG) and Patricia Clarkson (PIECES OF APRIL & THE GREEN MILE) round out the cast and give amazing performances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13fde72047b20a2fc2a3b3602f414ebd7bb7e188e8c4a72467f1f4e2405d2f30
+size 699

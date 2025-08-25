@@ -1,1 +1,3 @@
-The best musical ever. A movie for all the family to watch and enjoy. John Travolta was perfect for the role of Danny and Olivia was just right for the sweet and innocent Sandy. The songs will live forever as will the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db920099577716fa62f4fd2306007ec0a51a684716fe1f8e193c8258cc429c54
+size 224

@@ -1,1 +1,3 @@
-As Roger Ebert said in his review, brilliant, literate film noir with excellent performances...particularly Milla Jovovitch as the femme fatale. A steamy seductress tried to seduce a cop with her beauty and stunning abilities as a pianist. Samuel Jacksin is the cello play cop who wanders into a nest of thieves...some brutal the other weirdly comical. Dashiell Hammett to the core. Well worth your seeing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fafa43747da99cb25c44a769293de655d8919a692a7357cd5a47b0045ae5c28b
+size 406

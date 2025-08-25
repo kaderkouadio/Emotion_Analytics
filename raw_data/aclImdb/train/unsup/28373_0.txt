@@ -1,1 +1,3 @@
-In a screwball comedy, the dialogue should be sharp, witty, and come fast and furious.<br /><br />"Nothing Sacred" has a few flashes of true humor delivered by Carole Lombard, but is an otherwise plodding, dull, and pedestrian comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afec0933c78b82bb5fb0c1f180bb865c93629cd44059fbcd7e69823182b3075e
+size 234

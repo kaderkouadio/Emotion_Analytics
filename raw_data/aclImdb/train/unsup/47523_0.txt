@@ -1,1 +1,3 @@
-best you can do while watching this movie is guessing which scene was stolen from which movie - so you could be able to stay awake. though sebastian niemann tries hard to give it a personal touch, he can´t overcome the ill-fated premise of the muddled script. worst of all- you simply don´t care for the characters. amanda plummer looks more like her father than ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffc9029285ffd91f987a46e978d6851a1e59a46c661d7bb0286f0277878ead59
+size 370

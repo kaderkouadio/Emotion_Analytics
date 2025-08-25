@@ -1,1 +1,3 @@
-Oh my, how I really tried to like this movie. Very funny and sardonic lines here and there, good actors (well almost, but Tori Spelling actually does a good job here) and an interesting plot. But sadly, everything was in vain for me, because I just couldn't stand the pretentious tone of everything. I snickered a couple of times but more often I looked at the clock, expecting something to happen. Well it did, but not until the last quarter of the movie. I saw it, but was not amused!
+version https://git-lfs.github.com/spec/v1
+oid sha256:047204374835622429ce69b76c2629b7ccc0462c5b5137fdcb3b0594fd3c7977
+size 486

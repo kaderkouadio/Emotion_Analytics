@@ -1,1 +1,3 @@
-Me and my girlfriend went to see this movie as a "Premiere Surprise" that is we bought at ticket to the preview to a movie before it opened here in Denmark. We sat through the 1st hour or so and then we left! The point of the movie seemed to be simply to portray the era (and club 54), but it did so at the expence of character development, of which there was none, and plot of which there was little.<br /><br />Seldom have I been so indifferent to the characters in a movie!<br /><br />The music was good though. So if you like to hear some good music and get a fix of that 70ies mood I guess it is OK. But don't expect to get a plot of believable characters.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f98a014a1b48277c83a05ab4246c6f9ed0472eb7cddbdd288374d0b141b768
+size 673

@@ -1,1 +1,3 @@
-The first half hour of "Homegrown" was rather boring and not absorbing, but as the film progressed, so did my interest in the characters and the plot. Several scenes are really scary and you fear for the main characters who you actually grow attached to. The story is about three hired hands on a hidden illegal marijuana farm in southern California. They witness the murder of the farm's owner, Malcolm (John Lithgow), and they take over the weed for their own. The three rather simple-minded farm hands soon get swept up into a scary world of mafia and local interest, while all of the time trying to convince everyone that Malcolm is still alive. While the movie had several faults and a slow beginning, it turned out to be worthwhile. 7/10 stars.
+version https://git-lfs.github.com/spec/v1
+oid sha256:352359b591c672238d797cb2cecee48789dad3103e6ae703e6b9ac663dab2fae
+size 750

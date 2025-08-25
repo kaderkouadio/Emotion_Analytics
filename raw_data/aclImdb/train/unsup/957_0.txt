@@ -1,1 +1,3 @@
-I was blown away by this flick. I have never heard of this movie until one of my friends had purchased the DVD. The movie has no one very famous in it, but the acting, dialogue and story are terrific. It is a hilarious movie. I highly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:860428815b940060f29b1ccf8147f1078b4eff1333b3feae3a148fa6a6fbf2e7
+size 248

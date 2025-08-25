@@ -1,1 +1,3 @@
-This is the kind of film that, if it were made today, it would probably star Sandra Bullock and Hugh Grant; actually, now that I think about it, this one is quite liable to be remade one day. It's pleasant, but with no depth whatsoever. It suffers from the almost fatal miscasting of James Stewart in a role he is about 20 years too old for, and as a result there is no chemistry between him and the beautiful Kim Novak. Ernie Kovacs, in the small supporting role of an aspiring writer, is the only actor in the film whose performance approaches what you might call "wit". (**1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdec2fb59f9432f9305e811d542d175d0d074833ba3c272ac9e189519fb0830a
+size 580

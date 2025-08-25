@@ -1,1 +1,3 @@
-While "Land of the Lost" wasn't a terrible flick, it certainly didn't exude greatness. Mediocre is the most fitting compliment that I can honestly apply to what was the equivalent of a really long Saturday morning cartoon(although, most episodes of "Ducktales" harbor more of a plot). If you're a tremendous fan of Ferrell or McBride, then this picture might be tolerable. Beyond that, the presentation is reserved for minds and ages ten and under. It has a lot of useless fluff, anchored by meaningless dialogue. Wonderful stuff, if I'm watching eight minutes of the "Herculoids"... but not something I want to drive to, pay for, and sit down in an actual theatre to watch.<br /><br />So, if you paid to see "Land of the Lost", I'm sorry. On the bright side, maybe you can sneak into "Up" after suffering through this bland, over-hyped vehicle.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38872e1ea4d2d01d771d7107d4b6c759bc96d22385e23d0742765fddea871992
+size 845

@@ -1,1 +1,3 @@
-I suggest that this movie should not be to closely associated with "Vikings". It is an artistic interpretation of a certain stage in the evolution of societies in the most northern reaches of Europe, in which the "Viking" culture is an element-inasmuch as it refers to a seafaring population. Once established in new territory, the history of evolution seems to follow the same lines as in Western Europe. I suggest background reading of the Icelandic Sagas as a start-no doubt you will find referrals to Norwegian, Swedish and Danish annals as well. This comment is placed in the hope that a great effort, and a great result, shall be remembered some more years-BECAUSE I WANT TO HAVE THIS, AND THE FOLLOWUP, IN MY LIBRARY. And I haven't the faintest where to get hold of them...<br /><br />BRGDS K
+version https://git-lfs.github.com/spec/v1
+oid sha256:f963a8acdd92539c8b16534ffa3cd2f0eb872521631e4983b484220f455b543b
+size 799

@@ -1,1 +1,3 @@
-I would most definitely have to say that this is the most terrible movie I have ever seen. It's not just the actors that are bad, but also the fact that the camera person taped the wall and the clocks for about 5 minutes at a time. Anyone that likes this must be crazy! THIS MOVIE IS A WASTE OF TIME
+version https://git-lfs.github.com/spec/v1
+oid sha256:abae031ebdb0797d6af92fe4f6e32105d5ac3e4a24ab794d64df6896ddc6b733
+size 299

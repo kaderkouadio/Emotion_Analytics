@@ -1,1 +1,3 @@
-this film is terrible. The characters are completely unbelievable, and wildly inconsistent. The plot is awful and some of the classroom scenes are cringe-worthy and make for uncomfortable viewing.<br /><br />In fact the quality of the script and characterisation would suggest that this film was written by high school students, only the utter lack of credibility to the school environment would suggest that, in fact, the writers probably never went to high school. The acting in most cases was weak too, although a lot of this was down to a poor script and plot, i am not sure that any actors could have made this film watchable.<br /><br />having said that the sound track was OK, and the cinematography was nice in places (although the editing was poor).
+version https://git-lfs.github.com/spec/v1
+oid sha256:61d0fc432c9fdb803292e827b7e6a85fad1ddad37d3c5ec620e0eb79060678ac
+size 758

@@ -1,1 +1,3 @@
-I live in Jasper, Texas. I was born and raised here, and this was one inaccurate movie. I liked the cast of characters, but they definitely made the town look like a small hick town that is not current, and it is nothing like that. I thought that Jon Voight, and Louis Gossett Jr. gave great performances. I also didn't like the fact that they showed the dragging so violently. Many of us here were reminded of how horrible it was. It is behind us, and that is where we would like to keep it. Overall I did not enjoy this movie. I have seen it twice, and I really doubt that I will watch it again. I feel that many people would be greatly surprised if they ever came to Jasper. It is nothing like it is portrayed in this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd5d6d7047655056cf7363b2df76e862f11c279c0ec2b2aaeb9cbd2087e996b7
+size 727

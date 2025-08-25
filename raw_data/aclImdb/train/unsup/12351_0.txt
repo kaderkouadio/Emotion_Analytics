@@ -1,1 +1,3 @@
-Unfortunately even though there is plenty of air action, one is left flat with this film. The build up is great, however as the movie comes to a close and the viewer realizes the final outcome, one cannot help but feel cheated.<br /><br />The paradox at the end is good. Kirk Douglas is (as always)a great presence. Marting Sheen's acting on the other hand, has a lot to be desired. Katharine Ross is adequate, but I would have liked to see more involvement with her character. Charles Durning's character was very good, if not a little over the top.<br /><br />This movie really had a lot of potential. It's unfortunate that the writers didn't work up a better ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46eb9c26dd72760625d23f2decdb97b386d9a19cc75585ad025cd5b30c796b66
+size 669

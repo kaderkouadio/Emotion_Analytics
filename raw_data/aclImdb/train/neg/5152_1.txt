@@ -1,1 +1,3 @@
-The worst movie in the history of cinema. I don't know if it was trying to be funny or sad, poignant or droll, but the end result was unwatchable. Everyone from Key Grip, to Robin Williams, and back down to Best Boy should be ashamed to be a part of this film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4997eb869b6ae69bcda4750676bb83faefa197aa92f996ff0ba01979de4c7734
+size 260

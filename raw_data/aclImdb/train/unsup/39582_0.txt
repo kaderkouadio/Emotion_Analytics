@@ -1,1 +1,3 @@
-This movie really sucks. The US anti-terror unit are using German Schmeisser submachine guns from the Second World War.<br /><br />Absolutely ridiculous!!!<br /><br />This is probably the worst Tom Berenger movie ever.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c20501436269ee675e815b289b7f4da8923f3ab8fd9e5bedc8af91f079f5d6
+size 218

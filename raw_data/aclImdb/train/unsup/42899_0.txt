@@ -1,1 +1,3 @@
-I don't know... I give kids this age much more credit then the director of this movie... I mean, it wasn't bad... it was fun... at the beginning and i know that they have to put in a lot of educational statements... but couldn't they found a better more intelligent way of putting them in? and the ending... it was too unbelievable... i dont know... as i said... maybe its just me and maybe I'm too old for it... but if i were a kid i would b insulted
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6602c816369a44f6f2408e41cef4ec7e8cb8e67cf6170d896c92ffc896409d
+size 451

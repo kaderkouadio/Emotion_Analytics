@@ -1,1 +1,3 @@
-Ridiculous, nauseating doggerel with terrible acting; ineptly, superficially, and condescendingly trawling all the most banal clichés about Tuscany and Italy, divorce and midlife. The main actor nervously grimaces her way through the film, struggling to portray the appropriate level of smug, self-congratulatory self-pity the worthless character and script call for. I'm sure the book was bad, but it can't have been this bad! The camera is permanently fitted with a vomit-yellow "Tuscan" lense filter (perhaps the Tuscan sun wasn't Tuscan enough?), which they forgot to remove when the scene shifts to Rome and (how imaginative!) the Amalfi coast. You've never seen the white marble of Rome's Vittorio Emmanuelle monument looking so yellow... I mean Tuscan. One of the worst movies ever, and therefore quite worth a look.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb2621ac3f712d9e0f053c513efc5752f300d73860d145d550a37e7ca35153f
+size 824

@@ -1,1 +1,3 @@
-This is about the funniest movie I've ever seen. Billy Crystal is perfect as the psychiatrist and DeNiro does wonderful comedy. I don't often laugh out loud in movies--I laughed heartily all through this one. DeNiro's parodies of his own previous movies is wonderful. It's wonderful fluff and I highly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f55e8eb019ca018ef5bbdefd14b78cae56fae44ea79f9f54388d1088e35a68
+size 315

@@ -1,1 +1,3 @@
-El Padrino has just been released in Europe and is really kicking ass. This film with its great cast - Damian Chapa ( Blood in Blood Out ), Robert Wager, Jennifer Tilly, Robert Wagner and many more ) - is the best gangster movie since SCARFACE. A Film that everyone MUST SEE. 2 hours full of action with fantastic unbelievable stunt !!!!<br /><br />GRACIAS JENNIFER !!!! We are eagerly waiting for part 2 !!!! Does anyone know if there will be one ? Keep up the good work !!! I loved it !!
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8ba257cb8365eab63020877664e73e9ba59a26a6d9ca672d052f848db1ac1cf
+size 489

@@ -1,1 +1,3 @@
-This film is absolute trash and proceeds to become even worse towards the, very protracted, end! <br /><br />The plot is confused and laboured, the actors have a couldn't care less attitude (maybe they were paid in advance - bad move, or knew they weren't going to get paid), and the sets were featureless, boring and cheap.<br /><br />I fell asleep twice and actually decided to not bother with the last 5 minutes as I assumed the actors would have fallen asleep themselves by then. More unrecoverable life time wasted!<br /><br />If you must watch it, then take it to the bedroom and forget the sleeping pills for once. But maybe you'll need an antidepressant instead!<br /><br />Sometimes it's good if celluloid degrades.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61bff0478e1e4f4d6825b05f0ef895fb2e2fe2866a7d4b8f2e6bb2ce827b2b6a
+size 724

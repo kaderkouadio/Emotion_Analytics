@@ -1,1 +1,3 @@
-Just a dumb old movie. First Stanwyck's son gets his foot trapped in a really dumb way, and then her husband gets his foot trapped in another really dumb way. In an effort to save him, Stanwyck gets unlucky, yet again, and comes across an escaped convict. She has a chance to kill him but fails in a very dumb way. In the end her husband is saved, and Stanwyck tells us through narration what the dumb message of the movie is. All's well than ends dumb.<br /><br />I could never figure out how an unattractive woman like Stanwyck ever made it as a leading lady in Hollywood's glamour-oriented Golden Era; that nose is so beautiful So photogenic The film is mercifully short, running a little over an hour. It's as though the director sensed that he was making crap, so he thought it best to keep the crap short.
+version https://git-lfs.github.com/spec/v1
+oid sha256:038817cc4fb107075450ac60f2eee8ef69c3211244b9c2bf3e21cf2fde890107
+size 815

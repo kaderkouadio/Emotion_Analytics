@@ -1,1 +1,3 @@
-I'm a huge Zappa fan, but this is easily one of the worst movies I've ever seen, right next to Star Wars The Phantom Menace. Frank and company should have taken a cue from the Beatles' Magical Mystery Tour and realized that you just can't shoot random weirdness and expect to have a watchable movie.<br /><br />The music's just ok, too. This version of the Mothers with Flo and Eddie was never one of my favorites. Still, the film does kind of suck you in and dares you to watch it. Some of the really old and cheeseball special effects, reverse film tricks, etc. come off as disturbing, but all in all, this is quite a snooze.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4138387b9ca110c74ba0145be9fa92dab47506256f01c396d787e139cd2765c0
+size 627

@@ -1,1 +1,3 @@
-This gets my vote as worst movie I've ever seen. I can't believe it was ever made. You know sometimes you rent B-movies so you can laugh at them? This isn't even worthy of that. If you want to see a poorly made, poorly acted, and just plain stupid movie, this is it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd72fdbaed4c4a53b0cb5986d3c33a4948f0ba4ee744970296360adaff26b7cc
+size 266

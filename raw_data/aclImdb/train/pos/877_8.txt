@@ -1,1 +1,3 @@
-Jean-Jacques' career began with his essay answer to a prize question: civilization makes us evil. This intelligent and exciting movie supports that argument. In that sense it repeats a theme common to French films: society is real, identity is a construction, freedom is criminal. Here the idea is treated literally. Both main characters find themselves, and each other, only when breaking rules. This discovery may well hold true in France; at any rate, it's quite romantic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca6102f44fc3e96cc6c3926794d994e1a7b8be0569dfbde0862408db9e230fbc
+size 475

@@ -1,1 +1,3 @@
-Sure I've seen bad movies in my life, but this one was so bad that I actually became angry in the theater. I wanted my money back. I wrote to the director asking him to refund my movie ticket, of course I didn't receive a refund (or even a reply) but it's the point that matters. On a scale of 1-10 I give this movie a -42. Why did the "Jeep" (Chevy Blazer??) stop running from being hit with a bat? Why did they hit the "Jeep"(Chevy Blazer?????) with the bat in the first place instead of cracking the bum's skull? The plot was thin, the movie filled with obvious clichés, and certain parts of it just didn't make any sense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7ae5f7680849fe92ed9c4b33294ab3ecf6ad0c469340e081e14f8cc8988c33
+size 626

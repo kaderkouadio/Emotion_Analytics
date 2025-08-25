@@ -1,1 +1,3 @@
-It is worth the price of admission, but I did not like the quick-editing techniques in the movie. I was with the movie but 20 minutes before the end the story could have been written better. Just a little less vengefulness was needed in certain places.<br /><br />All and all, Sly Stallone's acting is enough to make this film entertaining. It is good to see him put himself and his style of acting into the film.<br /><br />I might add, movie score and incidental music was superb Good compositioning and orchestration. Good Seattle scenery, and some Pacific Northwest scenes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d85c8f85753d97b205923ab6998bea6b798c6469f94808429f14907f46065ec3
+size 577

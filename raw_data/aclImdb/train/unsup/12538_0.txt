@@ -1,1 +1,3 @@
-A free afternoon, a few bucks to go see a movie, some good friends by my side, and I made the regretful mistake of going to see "Cats & Dogs." As you have probably devised, I did not like the film...at all. I found it overly childish, and frankly unbearable. Juvenile humor is occasionally acceptable for adult viewers, but not in this case. "Cats & Dogs" is really a "must not see" for everyone. I gave it a well-thought-out 2 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fac121e81fcaa375e16b60cfbc9772c0792a76eae7ae02109084f8582701be
+size 438

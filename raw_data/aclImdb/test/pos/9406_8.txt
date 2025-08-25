@@ -1,1 +1,3 @@
-This great TV movie told of the 1975 murder of Martha Moxley in Greenwich, Connecticut by a nephew of Ethel Kennedy. The use of the "ghost" of Martha to provide some of the details was very effective and added a lot of heart to the story. Christopher Meloni seemed to capture the personality of Mark Fuhrman very well. Furhman, who got so much underserved bad publicity in the O.J. Simpson trial has certainly vindicated himself by his contribution of bringing the killer to justice after about 27 years.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a762defac1b07d85649b60b7cb38c54ff986e8790486529b92572870c9fae0d
+size 504

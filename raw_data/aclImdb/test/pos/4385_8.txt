@@ -1,1 +1,3 @@
-The Coen's strike again. I had no presuppositions going in and I was amazed at the bizarre telling of a good-bad guy story. Although Clooney is easily replaceable in this, his cornball style is welcome. Turturro and Nelson are dead ringers. And I loved "I Am a Man of Constant Sorrow" as performed by the "Soggy Bottom Boys". Catchy tune...<br /><br />8 of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1217eb93eb98bb01b86cabb13f6149f72f02adf0b7221a351973fabe5f03fce
+size 359

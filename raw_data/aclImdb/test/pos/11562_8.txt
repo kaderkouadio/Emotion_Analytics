@@ -1,1 +1,3 @@
-I haven't seen this film since it came out in the mid 70s, but I do recall it as being a very realistic portrayal of the music business ( right up there with Paul Simons "One Trick Pony " ..another vastly underrated film IMO )<br /><br />Harvey Keitel does an excellent job as a producer caught between the music he believes in , and the commercial "tripe" the record company "suits" want him to work with.<br /><br />Since I spent my entire career in the music business as a composer /arranger /producer, I can really vouch for the verisimilitude this film possesses. <br /><br />If it should ever come out on DVD uncut, I'd buy it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c1cbb5e9f2ae53ec1fdf3ee2125fb73aa851d516ccfb42bc9e5cfb0da29b1b
+size 633

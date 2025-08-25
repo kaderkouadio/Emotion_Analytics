@@ -1,1 +1,3 @@
-This film is supposedly about the inner workings of a couple and their marriage, following them on a fifteen year journey as an "us." All I can say is that if that was what marriage was really like, weddings would be outlawed. Neither of the major characters (Bruce Willis and Michelle Pfeiffer) are redeeming in any way. They are both stubborn, shallow and completely self-centered, except when it comes to their children which, I suspect, is supposed to make us see their true caring personas that are otherwise non-existent. The movie was disjointed, all the flash backs were poorly done and made it seem more like a series of vignettes, wherein the same actors played multiple parts, than one flowing story. And it can best be summed up by a man, speaking to his wife, who was walking behind me as I left the theater, "What a piece of #$@%."
+version https://git-lfs.github.com/spec/v1
+oid sha256:39c4f6a59d2a7a5f6c6076b631a5859077455fbbee41a1dac52ef20bc4b6b884
+size 845

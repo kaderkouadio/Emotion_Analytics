@@ -1,1 +1,3 @@
-...means "take up and read", which is precisely what I felt like doing after having seen this marvelous film.<br /><br />Von Ancken stimulates and inspires with this breathtaking and superbly executed adaptation of Tobias Wolff's 1995 New Yorker article of the same name. The incredible performance by Tom Noonan is brilliant and provocative and the editing, sound design, cinematography and directing are truly inspired. The nuanced changes and embellishments on the original story are subtle, clever, and make the film cinematically more dynamic. It's lyrical pacing is mesmerizing and begs you to watch it again.<br /><br />Watch out for this young director...he's going places.
+version https://git-lfs.github.com/spec/v1
+oid sha256:790cefc82395b98a2168e101c7f329d85c2af55d5d8a9318774424825e0160d5
+size 681

@@ -1,1 +1,3 @@
-Muscular 'scientists', unpleasantly thin females in swimsuits, lots of beer drinking.. Yet it's too long to be a beer commercial. Oh, okay, there's some plot about a big shark-like monster that's killing people and stuff. But it's nothing you haven't seen before.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25febbbfbff30fe483ab45eaabff728783151e91bf04439c9003947de879b495
+size 263

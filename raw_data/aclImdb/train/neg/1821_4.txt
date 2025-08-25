@@ -1,1 +1,3 @@
-Working with one of the best Shakespeare sources, this film manages to be creditable to it's source, whilst still appealing to a wider audience.<br /><br />Branagh steals the film from under Fishburne's nose, and there's a talented cast on good form.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23291e48086b920cb796d830e9785b31970752803e438b1ee707258d9d9ea661
+size 250

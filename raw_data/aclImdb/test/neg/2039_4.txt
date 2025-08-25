@@ -1,1 +1,3 @@
-Kinda boring, kinda gross, kinda unsettling, this wasn't horrible, but not too good. There's a good creepy bit when the statue comes to life, though, props to this scene. Not much happens, and the movie just feels sort of scummy. I was happy when it ended, and don't believe anything about this being a true story....very surprised this is averaging around 6.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a0a2b8a08d0303c358c879c33542772c5ca0d163f6ee70278f46538027a28f1
+size 359

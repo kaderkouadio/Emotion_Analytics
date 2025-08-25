@@ -1,1 +1,3 @@
-Percy Kilbride shows up often on Jack Benny's radio show, particular those broadcast during World War II. His deadpan delivery always had the cast and audience in stitches and it is a real treat to encounter Kilbride in roles as a postal official or delivery man, bent on enforcing the "rules" much to the chagrin of Benny, and his sidekicks. Later, as Pa Kettle, Kilbride enjoyed his greatest success. Any fan of Jack Benny and anyone who has access to Benny's radio shows can benefit from "George Washington Slept Here" because you not only get a good look at the man himself, but in this case you get the extra benefit of seeing Benny and Kilbride reprise, so to speak, their wonderfully workable comedy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a91ccc735885f28f35b26d3d132361c0164ffed90e679df9b67115dc3ff56f36
+size 707

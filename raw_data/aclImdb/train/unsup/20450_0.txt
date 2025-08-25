@@ -1,1 +1,3 @@
-When I saw the movie picture I thought it was something like Alien or maybe like Jurassic Park, but I found a movie that is completely dissapointing, with an high level of violence/gore unnecesary, a stupid end, a creature that is ridiculous, etc, etc. If I have to say something good about this movie is that it taught me when I have to safe my money instead to rent a stupid movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:763849eaee231cff255400af43b0e0f96ed2c71c7f6aa4cfb264cd8f229375ce
+size 383

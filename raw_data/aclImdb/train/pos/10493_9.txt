@@ -1,1 +1,3 @@
-This movie is inspiring to anyone who is or has been in a tough jam, whether financially or emotionally. You will definitely laugh, which is the best medicine! :) Left in a bad financial situation when her husband dies, Grace has to find a new way to make some money and it's not exactly legal which adds to the humour. Even my boyfriend liked it so don't think that it's a chick-flic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f8323323915a07fe293cdd158b912d78b2008521baf768be148417502a89909
+size 385

@@ -1,1 +1,3 @@
-This has to be one of the best shows ever made! I've never laughed at a show as much as this. Dodgey sets, acting and scripts with some of the funniest one-liners that would make Bruce Campbell fell proud. And this is only after the fist 3 episodes
+version https://git-lfs.github.com/spec/v1
+oid sha256:a345b98ab4037647900a6af37fabf49eb5c94145a8d4f923b464a0c2bce8fa42
+size 248

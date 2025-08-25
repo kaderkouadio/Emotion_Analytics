@@ -1,1 +1,3 @@
-Although Never Say Never Again (NSNA) has a weak sound track, it is far superior to its competition at the time, "Octopussy." Never Say Never Again is an updated and improved version of Thunderball (Connery's least popular bond flick). NSNA is rich with clever dialogue, wit, smarts, sex appeal, and one of the best and most convincing bad guys in the entire Bond series. In addition, NSNA features a very talented young and beautiful Kim Basinger. British comedy fans will also recognize the actor (Attwood), known as, "Mr. Bean." I wouldn't trade any of the Moore pictures for this one. However the earlier Connery/Bond efforts (with the exception of "Thunderball,") are superior.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:20e0ccdba0a159e3daa8f068a0b30555cb1866bb934dea11d9193dd27b6aa2f6
+size 694

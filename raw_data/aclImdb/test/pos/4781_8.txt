@@ -1,1 +1,3 @@
-This era was not just the dawn of sound in cartoons, but of a cartoon character which would go down in history as the world's most famous mouse. Yes, Mickey makes his debut here, in this cheery tale of life on board a steamboat. The animation is good for it's time, and the plot - though a little simple - is quite jolly. A true classic, and if you ever manage to get it on video, you won't regret it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e100cdb8948f99965c3596f76fcf9e84cf6daf168a171380508e4d5ced2409a2
+size 401

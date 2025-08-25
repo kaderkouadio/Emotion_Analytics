@@ -1,1 +1,3 @@
-I enjoyed this movie. Unlike like some of the pumped up, steroid trash that is passed off as action movies, Playing God is simple and realistic, with characters that are believable, action that is not over the top and enough twists and turns to keep you interested until the end.<br /><br />Well directed, well acted and a good story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb03e05bd331f44d87900937bb74b9b1e1b24d2e97edaa8a57e165172a0fd8af
+size 334

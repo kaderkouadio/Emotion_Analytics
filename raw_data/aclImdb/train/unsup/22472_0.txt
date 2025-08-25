@@ -1,1 +1,3 @@
-I remeber my brother playing this nonstop on our Original Nintendo and then we sold it... 5 years later we got it on our computer and I played it for awhile. It is a great game and even better on computer because the computer won't screw up every ten seconds like the original Nintendo did. Who needs good graphics? When you've got non-stop adventure there is no need. 10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:588c44cf910c1a79ae67ef7d8ffb6a2d681ec3879889a281f2de2dbdd89600cd
+size 374

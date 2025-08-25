@@ -1,1 +1,3 @@
-A horribly dated movie. Made in 1992, the clothes, hair and music all cry early 1990s. Contains a very simplistic plot about a murder during a robbery, this is no classic. The only stand out scene is the school locker confrontation between Omar Epps and Tupac Shakur (Shakur showed he could act). Overall, rather bafflingly over-rated by IMDB reviewers and for die hard Tupac Shakur fans only.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78ca8d63459c823d91a1c25c6ad1e665cad239e434e25e6adae5eb876b5cfc86
+size 393

@@ -1,1 +1,3 @@
-For a movie that gets no respect there sure are a lot of memorable quotes listed for this gem. Imagine a movie where Joe Piscopo is actually funny! Maureen Stapleton is a scene stealer. The Moroni character is an absolute scream. Watch for Alan "The Skipper" Hale jr. as a police Sgt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a2e35eb0584b390a48f3165eb403db6b1118b85acd288372f03e6bd63ec891b
+size 284

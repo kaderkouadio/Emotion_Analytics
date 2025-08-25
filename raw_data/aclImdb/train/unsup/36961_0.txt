@@ -1,1 +1,3 @@
-Slap Shot 2 could have been a whole lot better, the original blows this away, but too bad Stephen Baldwin wasn't around for the original he is the only player that fits in this film. Gary Busey looked like he was about the croak, but he was perfect for his part. Slap Shot 2 wasn't awful, but could have so much better. I myself wasn't a big fan of the hockey chick thing, but whatever draws people to this wasted effort.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f02c58fd17749c84e43da5d650286f77e139dc6716b391dd47cea4016fa177
+size 421

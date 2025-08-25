@@ -1,1 +1,3 @@
-A Frenchman and his wife come to Old West America circa 1870 in search of new lives for themselves, but he is soon killed and she becomes acquainted with a shy, gentle American widower. Director Claude Lelouch whips up an appropriately dusty, windswept scenario, and the film's keenly-observed atmosphere is bracing and real. Unfortunately, the film, in both English and French, is woefully lumbering and overlong, and the promising casting of James Caan and Genevieve Bujold fails to set off sparks. Fascinatingly detailed, with beautiful camera-work and art direction, but the narrative might have stood some tightening. ** from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4e5fb7f819e36fca79009cbc5110bffd2b0153855dcbfcfb96482bc067f5441
+size 635

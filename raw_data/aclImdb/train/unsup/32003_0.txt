@@ -1,1 +1,3 @@
-I saw Danika's world premiere at the CineVegas film festival this past weekend. It was an excellent psychological thriller with many twists and turns. Marisa Tomei is exceptionally convincing in the lead role as a soccer mom tortured by visions which could be premonitions or hallucinations. The action in the movie intersperses tension-building dialog and dramatically shocking visuals with tremendous effectiveness. The supporting cast is also exceptional in the roles and convince you of the impact that Danika's visions are having upon them. Regina Hall is especially impressive as Danika's psychologist.<br /><br />I would highly recommend seeking this movie out if it comes to a festival or theater near you!
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d504c8417dfc3c94e4562d4fcff706c6bf4aac2e294a0e23b3bd2cb240b78df
+size 714

@@ -1,1 +1,3 @@
-Watching this movie made me think constantly; why are they making such a problem out of some broken brakes? There are a million options to slow down the car! In the movie Speed the writers a least thought of a good reason why the car wasn't able to stop...<br /><br />There aren't many good things to say about this film; all the usual narrative cliche's make their appearance, the actors are very bad, the story is as leak as a sieve etc. That makes this movie a waste of time and money.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:895f8ad85c8b33c4d503d95dee32537808e6a08c997f235948a0e4b3c3c993c6
+size 500

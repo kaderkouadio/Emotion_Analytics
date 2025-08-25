@@ -1,1 +1,3 @@
-All the comments so far about this movie are negative but I have to say I found "The Net" engaging. Few movies can keep me on the edge of my seat but this one did. Another plus for it is that most action/suspense films are full of language but this one had little profanity. I found it an enjoyable movie to watch. I am slightly biased though, being a big Sandra Bullock fan. *wink*
+version https://git-lfs.github.com/spec/v1
+oid sha256:083b17b1dc7f9e776f6043b1198b986fec55671a4fb067cb3f6667973dbd5b4f
+size 382

@@ -1,1 +1,3 @@
-My first encounter with Vincent Gardenia was in All In The Family, as he played the ditsy neighbor who cooked. Imagine my surprise when he put in a splendid effort in a serious way! The cast and story were superb. One of HBO's best! A Solid 9.
+version https://git-lfs.github.com/spec/v1
+oid sha256:335699551e9782270dd8f476e1b7403a45bcdf4a576d43586052ce923e494499
+size 243

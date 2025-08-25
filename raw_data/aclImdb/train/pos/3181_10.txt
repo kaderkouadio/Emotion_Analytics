@@ -1,1 +1,3 @@
-I had the opportunity to see this film debut at the Appalachian Film Festival, in which it won an award for Best Picture. This film is brilliantly done, with an excellent cast that works well as an ensemble. My favorite performances were from Youssef Kerkour, Justin Lane , and Adam Jones. Also, there are some great effects with dragonflies and cockroaches, that I was surprised to find out that this film was done on a small budget. The writer-director Adam Jones, who I believe also won an award for his writing, does an excellent job with direction. The audience loved this movie. Cross Eyed will keep you laughing throughout the movie. Definitely a must see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:307d28a3b903c70c31e41af3c4b6137d88e8ee8bd41150d8191c968497d725b4
+size 663

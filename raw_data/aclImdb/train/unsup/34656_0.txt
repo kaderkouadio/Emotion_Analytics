@@ -1,1 +1,3 @@
-This film ranks with "They Saved Hitler's Brain" as one of the most campy films of all time. The story and performances are laughably unbelievable. Basically the scenario is this: Mengele (Peck) clones Hitler about 100 times, then kills all the clones' adoptive fathers because Hitler's father died. And there's something about a dog's birthday. One of the few B movies by the otherwise great actors Peck and Olivier. The only interesting scene was at the end when Olivier shakes hands with a clone. Worth watching only for camp value.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d662ac6b5fbd3fa13aff01c62ad2410946c46ef8d6dfd4220050cc89ca46713
+size 535

@@ -1,1 +1,3 @@
-If Ursula LeGuin was dead, she would be turning in her grave. Since she isn't, she can only watch in horror how they mangled one of the best fantasy series ever written. Almost every character looks and behaves like an idiot, especially those who are kind and good. Bad guys are even worse. You can see that they spend a lot of money in this productions, it doesn't look cheap or unpolished, but it's completely wasted. Writers, or whoever is responsible, used the book as a very faint guideline, but their story makes little sense; if I haven't read the book before, I am not sure I would "catch their drift". A very sad attempt and a waste of time. Better see anime version.
+version https://git-lfs.github.com/spec/v1
+oid sha256:016d3af716c694de99962f710fe084a7070217474d5f92e13b4e1a88a6740ffc
+size 676

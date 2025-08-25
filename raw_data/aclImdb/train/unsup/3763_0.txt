@@ -1,1 +1,3 @@
-In the Family Dog, Brad Bird was already demonstrating the brilliance that would propel him to greater fame with The Incredibles. The writing, timing, voice casting, and music are all spot on. I recorded this episode off the air in the late 80s, and my wife and I watched it repeatedly. Recently my kids (15 and 9) were wondering what this show is that we quote from all the time. Just last weekend I dug out the tape to show them. Now there's a new generation of Family Dog lovers in our house. Enjoy watching the inter-related stories of the dog suffering humiliation from every family member before engineering an escape to the outdoors, a short family holiday film, and the longer adventure of the dog failing to protect the home from thieves, being sent to attack dog training school, and... well you'll have to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdfb834f70b99679fc200656c80b66a1a03339e9f16c62d7a1b6fdb739bfaef3
+size 821

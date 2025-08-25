@@ -1,1 +1,3 @@
-Blindingly stupid guff from the formerly talented John Hughes, who'll soon be making a film with the sperm from 'Look Who's Talking' if his stars get any younger. He recycles the 'Home Alone' formula yet again to produce this idiotic comedy, in which a baby makes his way around Chicago while inept kidnappers Joe Mantegna, Joe Pantoliano and Brian Haley try to catch him, along the way enduring much tiresome slapstick. If Mantegna and Pantoliano can't find a laugh somewhere in your movie then you're in trouble, but the laziness of the movie is most glaring in the scenes where crowds of people fail to notice a baby crawling around on the pavement. Utter nonsense.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e9a74691909545114358b8c99bac91715ba40480258aee5f311b1ff8aa7fe5
+size 668

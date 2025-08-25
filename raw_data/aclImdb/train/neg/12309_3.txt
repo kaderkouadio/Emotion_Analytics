@@ -1,1 +1,3 @@
-This was a disappointing movie. Considering the material---army life is always good for a laugh---and the stars, this movie should have been a fall down laughfest. It was worth a couple of chuckles, at best. Steve Martin has been much funnier than this and it appears that Dan Ackroyd should stick to dramatic roles, where he might follow Robin Williams' lead and someday win an Oscar.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e748b7c511e89e7fa67222b0ece680a73aabec29bb56d0679827abc4c9c7210
+size 385

@@ -1,1 +1,3 @@
-Went into the movie with a bit of curiosity on how they'd handle the drumline aspect (I didn't expect the movie plot to be any good anyway). It was entirely disppointing. I've been out of a competitive drumline for 25 years, and I can still play better than they did. The showdown was a crock. I doubt if that is what really goes on - it was all flash and little chops.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf36ae241788d2d446867400e316b38ff9d087c6a66d7fca30f85c770753bbd0
+size 369

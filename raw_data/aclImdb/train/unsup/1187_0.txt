@@ -1,1 +1,3 @@
-My wife says at least once a week that I picked the worst possible film for us to watch. In this case I almost agree! This is one of the worst conceived and bad acted science fiction movie, and one asks itself who gave the credit to the director to do this movie, and then who let it be released. Avoid this complete waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9e7500d9266635dae892bc36acf212b5f134623aeb3315378aa7b5a9c0a0d0
+size 331

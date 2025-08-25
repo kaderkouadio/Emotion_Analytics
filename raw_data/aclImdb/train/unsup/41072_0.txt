@@ -1,1 +1,3 @@
-This is the worst film I've seen Peter Sellers in. The opening is pure budget and the overlong scene stretches till it gets boringly ridiculous. And those British "oh God how embarrassing!"-jokes just annoyed me. Overacting is not good comedy and most of the time the movie is not funny at all. Artistic value zero. A memorable two, three scenes saves this picture from a 1-rating.<br /><br />3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:2223bad42f885a6cf372027f51fdd8fa921b6729fed31a6bc3deb71712df0e5f
+size 397

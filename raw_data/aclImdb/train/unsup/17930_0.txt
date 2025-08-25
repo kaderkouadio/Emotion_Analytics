@@ -1,1 +1,3 @@
-I caught this amateurish effort on late-late-night Showtime when the only alternatives were infomercials. This apparently home-made video rambled on with a barely discernable plot and featured a family of losers who have something to do with a fruit market and an opera singer who looks like a Saturday Night Live parody of an aged Maria Callas. I watched with disbelief as the amateur ensemble of would-be "actors" stumbled through the film as a lesson in bad ad-libbing.<br /><br />Either those on IMBD who claim they liked it are related to the video's producers or rank the Cartoon Channel as great TV. What a waste.<br /><br />Mark Pearlman
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca8d6994a645910f69786589b2d90206937da388b2e9aab1a5b7589cca35614a
+size 645

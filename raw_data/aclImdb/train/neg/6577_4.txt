@@ -1,1 +1,3 @@
-Small college town coed OD's? (Why do we care?) Acting sheriff investigates the incident. (Why do we care?) The interviews show us the comatose subject (Kirshner) as different as the opinions of the subjects being interviewed. (Why do we care?) Result? A mess of flashbacks in this mess of a movie featuring a handful of one-hit wonders and B-flick divas which begs the question...Why do we care?
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c238d3a0e71f632146cd1ffcdccdf436fa7093619fc7b6cc692a1bb086f217b
+size 396

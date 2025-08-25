@@ -1,1 +1,3 @@
-This wasn't the major disaster that I was expecting, but that is about as positive as I can be in my description of the movie. I'm not sure what was meant to be funny about this movie, but I suppose it's all a matter of taste. Personally, I don't find it funny to watch morons living their idiotic lives or making fools of themselves on television, but then again, I'm not a fan of Jerry Springer's pathetic daytime talk show. I didn't get too bored watching this, but I was definitely never enjoying it, either. If you're in the mood to see a bad movie, but one that isn't too painful to sit through, this is a good choice.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b0579e1948fdc868af40dfae330aae3706d8f817e0c8d91f643b1af70481d25
+size 624

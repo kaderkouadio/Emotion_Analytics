@@ -1,1 +1,3 @@
-Very inferior to Children of the Damned. There's no mystery in this movie. Plus, the townspeople and the Feds figure out pretty quickly what's going on. This doesn't seem to help, though. Everyone KNOWS that the children can read their minds and are capable of forcing them to kill themselves, but this doesn't seem to improve their planning. The general attitude is, "Hey...they may have made five other people kill themselves, but that's not going to happen to me." Of course, it does.<br /><br />It's a shame that this was Christopher Reeve's last movie before he was paralyzed. He deserved much better than this.<br /><br />Rent the "original", which is lot creepier. It doesn't spell everything out for the hard of viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a50bb5bd7dea5c086c07e01a4754ea66649e8abe6464a270481aebe41b6f8a30
+size 728

@@ -1,1 +1,3 @@
-While I was on Thanksgiving Vacation visiting my relatives in America. I saw the film "In his Life" The John Lennon Story. Being a big Beatle fan I enjoyed it alot.<br /><br />I was impressed with the Dramatic performances from Irish Actor<br /><br />Phillip McQuillan. I thought he represented Lennons esscence quite well in this movie. What I would like to know is when is he making a Sequel?<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09d3b922befeb5b8883922f285125a753b45c335cb5a87749417940e6d22d62
+size 406

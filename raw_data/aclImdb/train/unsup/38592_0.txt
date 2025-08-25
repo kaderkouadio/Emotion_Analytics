@@ -1,1 +1,3 @@
-Sure the original theatrical version was bad but that was not due to the makers, it was due to a financial company that backed the production. Here (in the directors cut) is the way that it was supposed to be made. It has great action, great production value plus the return of Sean Connery. It gives some explanation as to how the competition began and it shows how Connor used the "prize" from the first film. It's a lot better than any of the Highlander films and series that followed. If this had been the version that was originally released on the theatre's in 1991, then the series would still have been alive today.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc5b9eeed6dbfeb91f0e73fe6b550c6973c350dfd9cfdb9c60589f61a599966
+size 623

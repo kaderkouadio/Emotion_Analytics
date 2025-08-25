@@ -1,1 +1,3 @@
-For those that are great fans and collectors of dinosaurs like I am, it is not only a very informative series but also puts our imagination to fly. Colors, composition, great models and camera angles. Fantastic photography and filming presentation. Superb. Thanks.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80412921d92336dcf33caafc05d73323e1189773fd9531420b266230c92fc0f8
+size 264

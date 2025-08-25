@@ -1,1 +1,3 @@
-Stars: Hayden Pantierre.<br /><br />There have been so many movies that have this exact same plot, and this one is just a poor rehashing of it. Populer white girl moves to ethnic school, doesn't fit in, soon becomes accepted. Originality is nonexistent in this, and neither are the laughs. It uses so many old poorly executed jokes it's annoying. I don't know why they think it's a good idea to make made for video sequels to mediocre films, but it isn't. With that said, the positives in this are that all the people in it are fairly competent actors and actresses.<br /><br />My rating: * out of ****. PG-13 for Language and Sexual Humor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f7e75b2558a04a309c8a7f8a4d12a634ae612598bd969a03accbcff1ab401c
+size 640

@@ -1,1 +1,3 @@
-This expresses a great sadness about the lives of men at sea. Some are doomed to stay forever. One of the goals of the movie is to finally get John Wayne, an innocent Swedish man, off the boats and home to his old mother. It paints such a bleak picture you really root for him, even with Wayne's horrible performance. It goes right for the heartstrings. There's a great performance by Ian Hunter as the fellow who mainly keeps to himself. He has a secret past, and they suspect he's a spy. This one of John Ford's least self-conscious movies, there's no heavy Americana to deal with and he directs you to the heart of the story and the often drunken emotions of the sailors. **** out of ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a9b3d2acd004fda6a334797d791efc95c30276b3d9f252eabd64663b1cc25e
+size 691

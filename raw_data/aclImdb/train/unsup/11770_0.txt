@@ -1,1 +1,3 @@
-I mean, really. The lights and stuff, they were fantastic. Not a single extension cord in ANY shot. Take that you auteur gaffers and best boys! Luciano Galli my butt! Tom Kiefer ROCKS! This is not mockery. This is straight up truth. If you can't handle the truth, don't rent METALBEAST.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c475eca9cae35458ebdc737409bea5d007426c9adb1f1270945250a98d7b88
+size 286

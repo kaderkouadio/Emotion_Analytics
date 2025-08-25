@@ -1,1 +1,3 @@
-First of all it's a delight to watch such unselfconscious acting and to hear English (and Hindi, Bengali) spoken so naturally. First time director Shobnali Bose elicits wonderful performances from most of her cast - many of whom are 'non-actors'. The script, too, is deliciously funny in parts, which off-sets well with the powerful and serious message underlying the film. The locations chosen capture the actual places represented so that the whole has the verisimilitude of a documentary film, even while the spectator is drawn into the lives of the characters whose stories are being told. All in all a very satisfying film, and a great debut.
+version https://git-lfs.github.com/spec/v1
+oid sha256:278c434aef229b0f0a2a6976f2b90c5aa15ddb6878abd66958148aa328c880e7
+size 647

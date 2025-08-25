@@ -1,1 +1,3 @@
-I noticed that about half the voters gave "Mafia vs. Ninja" a 10. I sincerely hope this has nothing to do with quality (that's what we're supposed to vote on, right? :-D)<br /><br />Fake blood, horrible video effects, and strings holding up the fighters all are featured. Ridiculously choreographed ninja battles reign supreme in one of the worst movies ever. It's also the movie that's made me laugh the most (except maybe Sinbad and the Seven Seas), for hours on end. You must see this movie at least once, and see how a real ninja movie is done!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f311c197bf3cd865a794fe0b7632fba20dad06e8f89b7edf3f25a586444a41d5
+size 548

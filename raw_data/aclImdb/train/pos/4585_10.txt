@@ -1,1 +1,3 @@
-This movie is Jackie's best. I still cant get enough of watching some of his best stunts ever. I also like the bad guys in this movie (the old man looks like a Chinese version of John Howard). Unlike some of Jackie's other work, this movie has also got a great story line and i recommend it to all of Jackie's fans.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be5743829c01187f736a8bdae36085a8eb327c37a1226a8056b9384229928ad
+size 315

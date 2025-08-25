@@ -1,1 +1,3 @@
-This is absolutely the worst trash I have ever seen. When I saw it in the theater (arghhh!), it took 15 full minutes before I realized that what I was seeing was the feature, not a sick joke!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab4bda54f54ead3d3fc67843c22f494acbcb22c611cebb52084f6835da4499e4
+size 191

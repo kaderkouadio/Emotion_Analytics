@@ -1,1 +1,3 @@
-This, of course, was McQueen's last role. It is nothing grand, and for the most part there really is no plot, but it is still a rather good movie. This movie revolves around McQueen's character who is a bounty hunter. This movie shows him go after various people and also shows his home life...which is a bit unique too. He goes after super big rednecks, small time crooks, crazy guys who blow things up, and one rather dangerous individual. Someone who he captured in the past also stalks him. All in all it isn't the greatest movie, but it mixes action and humor well. Even though McQueen was feeling the effects of his illness during the shooting of this one, he still does a great job.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a44f28995a348e17bc4a54dde09add9f523122ea4757e426fce4ced4233402a5
+size 689

@@ -1,1 +1,3 @@
-Susan Sarandon. She made this movie for me. I've never appreciated her acting more than as I did in this movie. She really acted as though she were Adele August. I can appreciate actors and actresses who leave their individual persona and create a character who's truly believable. <br /><br />Natalie Portman as Ann August helped create the ideal antagonist as their characters developed through the movie. The movie was about them so the other characters were peripheral.<br /><br />I gave this movie an eight rating, but Susan received a ten from me because of her performance. As far as relationship movies go, Beaches and Terms of Endearment had a greater impact on me than this movie, but I highly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf81f12f0e6bea4a74384021b7a0c0a029118dd069a514ffb43ee40cfead24d
+size 717

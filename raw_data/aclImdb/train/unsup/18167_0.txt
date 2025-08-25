@@ -1,1 +1,3 @@
-This movie is a HOOT! Unintentionally, of course--which makes it all the better. Dean Stockwell moves through most of the movie like he's heavily sedated (or maybe in shock at finding himself in such a bad movie), only coming to life in the film's climax.<br /><br />Poor Sandra Dee--the eternal virgin--has to learn the hard way never to give strange young men a ride home from the library.<br /><br />Psychedelic "special effects" complete the experience...all of it taking place in the accursed hamlet of Dunwich...but I won't spoil the fun by saying any more. Let me just add that I am a fan of Lovecraft's & should have been miffed at this botched attempt...but I was too busy laughing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad7dc7a76c273cca609de8f9699292a635bce639dae3201de853d0a2167f729
+size 691

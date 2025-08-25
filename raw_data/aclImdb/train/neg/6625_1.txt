@@ -1,1 +1,3 @@
-this is the first time I'm writing a comment on a movie on IMDb. but i had to write it for this one. its 3 hrs of unadulterated torture. from the starting u get the idea that the movie is gonna be bad. the acting is pathetic. I'm a big fan of Ajay devgan (loved him in bhagat singh) but he is at his worst in this movie. amitabh seems to have worked hard for this one, but somehow the fear is missing. prashant raj is a non actor. and the most irritating part of the movie is nisha kothari. i have no clue why the director took her in this movie. the background score is repetitive. somehow i felt that ramu tried to repeat a sarkar, the color theme, the background score, the camera angles, but it didn't work. PLEASE Don't WATCH IT
+version https://git-lfs.github.com/spec/v1
+oid sha256:67a22d83f5d2b3b479e74dadd031f31c3c6c9d605ce2a41c9631291575230584
+size 733

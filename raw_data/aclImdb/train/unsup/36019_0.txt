@@ -1,1 +1,3 @@
-A few funny moments stretched paper thin. Nothing original here, except maybe the level of obnoxiousness. This movie has virtually no plot, instead relying on Chris Tucker to carry the unfunny movie. If you enjoy excessive bathroom humor, and can stand Chris Tucker for more than 10 minutes, then by all means, enjoy. Ugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c6852b0881949ee98c8d3d9f2984f1eff06d715a9895c105c05dba76c235e5d
+size 322

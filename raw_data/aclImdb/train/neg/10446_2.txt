@@ -1,1 +1,3 @@
-B movie at best. Sound effects are pretty good. Lame concept, decent execution. I suppose it's a rental.<br /><br />"You put some Olive Oil in your mouth to save you from de poison, den you cut de bite and suck out de poisen. You gonna be OK Tommy."<br /><br />"You stay by the airphone, when Agent Harris calls you get me!" "Give me a fire extinguisher."<br /><br />"Weapons - we need weapons. Where's the silverware? All we have is this. Sporks!?"<br /><br />Dr Price is the snake expert.<br /><br />Local ERs can handle the occasional snakebite. Alert every ER in the tri-city area.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9932c01a228b2e846671e89abb6fbb522d71fda51611b25b83f09f9d46839750
+size 585

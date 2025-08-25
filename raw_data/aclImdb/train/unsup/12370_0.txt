@@ -1,1 +1,3 @@
-A man takes a strange trip with an aircraft carrier and lives an amazing nightmare with a bizarre twist. Time travel, moral sensibilities and harmful consequences are explored when the crew is confronted with a chance to change history. Trying to control the political impact of altering history, the captain makes a painful decision that ultimately leads to a happy ending. This one has sadness, irony and moments where ones wants to say, "how stupid can they get?" Overall, just a great Sci-Fi Thriller that will leave an impression.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d8c386e2672f93af6f6e6c690605aea8ebabff6a5b50fda32fb7e78c85190a
+size 535

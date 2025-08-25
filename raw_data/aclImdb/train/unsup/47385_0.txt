@@ -1,1 +1,3 @@
-This film is utterly terrible on all fronts, and it is remarkable that it was made at all being as unfunny as it is.<br /><br />This is clearly an attempt to be a slapstick film in the mode of Airplane. There's a difference - Airplane was original and funny, and had talented actors in it.<br /><br />At least Tia Carrere was nice to look at as usual.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b860a7f1cf7c702185b156d34fd5f654cf05500059664337397caebca03fd10f
+size 351

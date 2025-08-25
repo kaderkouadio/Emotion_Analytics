@@ -1,1 +1,3 @@
-This movie was so dark and creepy. It was perfect and the director was a genius. The scenes in it were so well-thought-out, and the costumes were fantastic. This all including the trueness of the plot. It said everything about what happened in Dracula's life. The Dark Prince is a must-see!
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d6e536119dbd6223b2c356ce26789418e4e9af69dfb35548fb03e02766f577
+size 290

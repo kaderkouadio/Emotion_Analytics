@@ -1,1 +1,3 @@
-Jack Palance,(John Witting), was usually a bad guy in most of his films and in this film, he showed his great acting talents above and beyond my expectations. John Witting unexpectedly returns to his son's farm after years and years of separation. Christopher Walken,(Jacob), has a hard time trying to accept his father's appearance after he spent the night in the family barn. Jacob's son and younger daughter greet their new grandpa and accept him just as he is, a very old man, at the end of his ropes. Glenn Close,(Sarah Witting), delves into the character of John Witting and starts to bring out the truth about what happened to him during his years of absence from the family. This is a very warm and loving down to earth film about real events that happen in most families for generations to come and go.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1208b7af4c36f9918026bdf3367dcc0a2436a6a506a0c7f86baf4da5216974
+size 811

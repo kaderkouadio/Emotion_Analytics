@@ -1,1 +1,3 @@
-A bad remake of a bad 1960 film, somebody inexplicably decided that it would play better as a musical. It doesn't. A really weak plot about a carnivorous alien plant made all the worse by putting it into musical form, thus treating us to Rick Moranis' singing "ability". Far worse than the original for just awful acting performances, a miserable score, and laughable special FX. I would not even consider seeing this turkey again unless somebody held a gun to my head or the head of a loved one and forced me to. Since that is unlikely, I am thankfully done with any involvement with this pitiful failure of a film.<br /><br />1 out of 10. only because they won't register a zero.
+version https://git-lfs.github.com/spec/v1
+oid sha256:818ceaacf72cd5bd6f3575d9f37949ab0220f47ef8d502e064a326d84e7b9feb
+size 681

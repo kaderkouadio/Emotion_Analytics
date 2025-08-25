@@ -1,1 +1,3 @@
-Now let me tell you about this movie, this movie is MY FAVORITE MOVIE!!! This movie has excellent combat fighting. This movie does sound like a silly story line about how Jet Li plays a super hero, like Spider-Man, or etc. But once you've seen this movie, you would probably want to see it again and again. I rate this movie 10/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a1e3aeac52a2fec674d64451dccffc5eb4499c29183a3d83bdcbc87f25316e
+size 331

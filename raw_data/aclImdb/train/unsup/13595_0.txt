@@ -1,1 +1,3 @@
-I love the Charlie's Angels just like you do. When I lived in Hong Kong I recorded all the episodes on to VHS and have since placed on DVD-R. Now that Seasons 1, 2 and 3 are out, rumors are that 4 and 5 will never be released because of trouble with Spelling and Robert Wagner. If you love to chat about Angels, email me and let's talk or if you want to know about seasons 4 and 5 I can tell you about them. Are they beautiful or what!! The season opener is Love Boat Angels which is really cool, and then they have more episodes in Hawaii. Then Jill (Farrah) has three more episodes in season 4, Fallen Angel, The Prince & The Angel, An Angel's Trail. These have been lost. Let's Chat, just call me Bosley. He was the luckiest man in the world.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9226fdff61f78d200b6de32f803aeebcef11212d1ec67bdefa5d41f27e36240c
+size 745

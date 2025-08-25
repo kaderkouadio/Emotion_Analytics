@@ -1,1 +1,3 @@
-Baadshah is a comedy about a young and enthusiastic, small time detective, trying to make it big. The comedy is good,and Shah Rukh has given an excellent performance. However the direction is not upto the mark, and that is bad for the movie. <br /><br />Still it is a ShahRukh's movie and he has done ample justice to his role. His fans will definitely like him in the movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96ec5546f5872cca52c69177aeeb662f44cc19ac444eb672797c15de26da7b8
+size 375

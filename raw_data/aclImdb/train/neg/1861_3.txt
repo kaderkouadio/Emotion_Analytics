@@ -1,1 +1,3 @@
-You know what kind of movie you're getting into when the serial killer main character is being transported to the electric chair (in what seems to be a bakery truck), only to have the prison vehicle collide with (and I'm not making this up) a genetic engineering tanker truck. The goo which spurts forth melts him, and fuses his DNA with the snow, creating our protagonist, the killer snowman.<br /><br />My favorite portion of the movie, however, is an over-the-shoulder shot of the snowman thrashing some poor schmuck, in which his hands look suspiciously like a couple of white oven-potholder gloves.<br /><br />Mmmmm, schlock...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cea33c9fa26403c1c21a04bd1aeaa59cf6dafd54211c93b77a5919e81fbe5c5
+size 632

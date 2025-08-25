@@ -1,1 +1,3 @@
-Do not watch this film alone!! Brilliant thriller without all the blood they put in common thrillers of today. The chase in the building area at the end could have been made a lot shorter. I rated this breathtaking movie 9.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79a0617912270348ae4ec0211eee51aeb3e6f1d1793e49f4c218f236e41f2fee
+size 223

@@ -1,1 +1,3 @@
-This review is assuming you've seen the movie. In case you haven't a woman releases a murderer through reading his books. The killer becomes infatuated with the woman. This movie has a nice simple feel to it, it is graphic at times. There is a creepy atmosphere created with shadows. It's like a Grimm's fairy tale to the nth degree. There is some really good transitions to what she thinks she is seeing versus what she is really seeing. A small simple scary movie, no big name actors but, has a good story to pull it all together. Interesting idea that the killer fuses his victims facial features to his own face. The story uses the familiar police don't believe the woman scenario.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0caa0b50edd7aa0c40050e078d32e52d3343182c64c2f5d39c5f4cfe1e0d2cee
+size 685

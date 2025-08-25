@@ -1,1 +1,3 @@
-This bright hilarious English comedy about school girl antics is a neglected gem. The significant question is where is the audience? The film is rated 10 by most voters, but how many voters is that? They don't make comedies like this anymore because the films don't get distributed or seen. I would never miss a chance to see this old art house classic again. But where are the art houses?
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6236c733a3c782cd0717c15b3cb0cc38520e19e427591e660900c34b39bad0c
+size 389

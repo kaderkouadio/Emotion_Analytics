@@ -1,1 +1,3 @@
-I consider myself to be more cynical, jaded, and negative than most people, but this movie will not allow it! This is an honest, feel-good movie with likeable characters and a story anyone can relate to. It is very well-written and well-acted as well. It also has a really good ending, which is very important. This is one of those movies I took a chance on in the rental store, and boy am I glad that I did! Enjoy!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f24af01d88af5315a31e78cb4c0d7fa8813f1d254a405beb5056200a0f76a31
+size 415

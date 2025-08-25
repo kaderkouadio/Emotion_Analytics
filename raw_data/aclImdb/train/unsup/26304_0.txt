@@ -1,1 +1,3 @@
-This is one of my all time favorite T.V. series. The only problem I have is that it is no longer on the air here. Is there a cable station that it airs on? How do I obtain copies of this great show? Give me a hollar at: Trosperjam@yahoo.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b32eed9122c31f0125a0ff2f3b229751d35317b0497852531f98d2b6ffbaf50
+size 240

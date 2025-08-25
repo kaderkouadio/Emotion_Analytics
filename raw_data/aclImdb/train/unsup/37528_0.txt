@@ -1,1 +1,3 @@
-I rented this movie last week because I love 80's teen movies (License To Drive, Can't Buy Me Love, Don't Tell Her It's Me, etc.) I read the reviews (which were pretty negative), but decided to give "Playing For Keeps" a chance anyway. My conclusion: YOU GUYS WE'RE RIGHT! This movie is LOUSY! I tried so hard to like it, but I couldn't. I won't bother explaining the reasons why (because there are so many reasons). Just trust me, and all the other reviewers. Don't bother.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f35ebe739eaa7f45561405064bab8924108b0a8ec6844f5be932b54a8fec7401
+size 474

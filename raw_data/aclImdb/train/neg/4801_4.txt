@@ -1,1 +1,3 @@
-I really wanted to like this movie. It has a nice prison setting, conspiracy theories, bloodthirsty zombies, a perfectly hideous 80s-touch and it is a directorial effort by actor John Saxon, who also plays a bad (you guessed it) a bad guy. It reminds me of some (beloved) Italian horror flicks. But the direction is very wooden and there is no nightmarish/frightening moment in there. It just goes on and on and on, and then it (logically) has to end. More suspense and more daring visuals and its destiny as a cult classic would have been sealed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a06b107e8f3b3698c444cfd6a04c01fc9f9a8ed85204490bf8ecbc11b34f25e
+size 547

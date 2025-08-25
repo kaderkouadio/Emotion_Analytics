@@ -1,1 +1,3 @@
-as the title of this post says, the section above that says 'the plot synopsis is empty' basically covers it. and inasmuch as the section above that says 'the plot synopsis is empty' basically covers it, it seems absurd to need ten whole lines of text just to be able to convey the only necessary information, that the section above that says 'the plot synopsis is empty' basically covers it. nonetheless these are the rules, like the rules of brainless boardroom production writers who come up with this kind of empty, synopsis-less drivel. it's fair to say the section above that says 'the plot synopsis is empty' basically covers it, so i will: the section above that says 'the plot synopsis is empty' basically covers it. pardon the spoiler.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3820ea5b3670e0f73a3c3a00d194851410df694f5c547e80e0054822651f05a9
+size 745

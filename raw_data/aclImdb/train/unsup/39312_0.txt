@@ -1,1 +1,3 @@
-Sad to day -what was once a great idea has become painful.<br /><br />This should never have hit theaters - a DVD only release would be pushing it. Strained, forced, uninteresting and poorly conceived.<br /><br />Tim Allen created a great character in the first film - the 2nd was pushing it - this 3rd outing was simply vengeful.<br /><br />The idea was bad; its execution is worse - to subject movie audiences to this type of tripe should be illegal, if not unconstitutional. (Oops! wait - it is... cruel and unusual punishment....) The best use for the DVD release of this? Christmas ornaments for your tree next year...
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4d2d19139c34469ac3e09d5c536d7f8928ca361ca6ae961fe89c9f67ff7d4ef
+size 623

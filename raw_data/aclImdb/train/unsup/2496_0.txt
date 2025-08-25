@@ -1,1 +1,3 @@
-it is mind-boggling to see this short. It reminds me a little of michel gondry's video for "let forever be" by the chemical brothers. I feel reluctant making this comparison though, in a way, because it is evident that this piece of animation must have taken thousands of hours to produce. i love it.<br /><br />the rendering alone shows a mastery of this obscure medium, pinscreen animation.<br /><br />I still have not been able to find a clip of this piece anywhere on the internet. I saw it on TV on a channel in new york called fine arts showcase.<br /><br />If anyone knows where I could view it again, please post.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ff6d75ad00520aaee2fb6c49b7f678e650b658305964c1b5f75a0b1c882b37d
+size 621

@@ -1,1 +1,3 @@
-On the cover of my DVD it says: "Will make American Pie fade in comparison". What? No way. This is absolutely the worst movie ever. If American Pie is a 100, then this one gets a 2. Please don't go and see this, or the producers might think you liked it and make a sequel. And a sequel might mess up the way we watch movies for generations to come...
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b3077eccad3f262f100de340ae5c602347869732075a72e8c28188abb94e06a
+size 350

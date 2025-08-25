@@ -1,1 +1,3 @@
-I understand there was some conflict between Leigh and the great Maggie Smith during the filming. Understandable when you put one of the world's greatest actresses of all time (Smith, of course) with one whose performances seem to get worse with each subsequent film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2872366ffcc7372d982f560d25060c47fadda5fa45defd5d8548bde4f58df562
+size 267

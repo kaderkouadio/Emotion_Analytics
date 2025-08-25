@@ -1,1 +1,3 @@
-Erinn Bartlett is in this movie, the only reason for me watching it to the end. Do not compare Girl Fever with 100 Girls, no matter what. The story in this one makes no sense at all. On top of that it's vulgar & gross most of the time, without being the least bit funny. It might be good if you're about 11 years old, even though I doubt it. So if you have a choice between watching Girl Fever & a different movie, choose the other one. Even if you don't have a choice, don't waste your time watching this awful film.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f03e8df9b5460df0001ca58e4c94708a7860625f159ade3268a5c8931b172f
+size 529

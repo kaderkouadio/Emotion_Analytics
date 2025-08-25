@@ -1,1 +1,3 @@
-This is a unique and bold film. It's energetic, with highly developed characters. Very good performances. <br /><br />I love directors who are not afraid to ask the audience to think... <br /><br />Bret Carr dares to look inward, ask questions, and dig underneath the surface. By the nature of the film, it practically demands that the viewer look inward as well. It can take some courage to do this. I can see how some close-minded people might find this quite disturbing. However, I found it thought-provoking, much more than just entertainment.<br /><br />Bret Carr is truly an original filmmaker, with vision. I am curious to see what he will do next.<br /><br />Watch him.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b689c8bef99963bc244020e9de1f6a6b841e505412c0828c05cd23f50d780763
+size 677

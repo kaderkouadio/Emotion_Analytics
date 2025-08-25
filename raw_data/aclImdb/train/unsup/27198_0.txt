@@ -1,1 +1,3 @@
-Not only is it unrealistic, it's flat out insulting. Complete torture to watch and the ending made me want to break my TV.<br /><br />Those "commercial breaks" are the dumbest movie gimmick out. I was at least hoping for some clever future ad tag lines like "the sky is no longer the limit", but no, all you get is a blank screen. What a way to bore anyone watching. Actually, I might have perfered to watch a blank screen for the entire hour and a half.<br /><br />Anyone giving this movie a positive comment must have worked on it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2c849895e43be0b96167cf11815fe699083a1d9619f0c360f7a832dc3d77b59
+size 533

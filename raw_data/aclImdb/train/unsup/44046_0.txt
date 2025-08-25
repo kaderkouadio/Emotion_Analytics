@@ -1,1 +1,3 @@
-This movie was just terrible. It was a complete waste of time and money, and although I am a fan of Keanu Reaves and Vince, they really should have avoided this script.<br /><br />I watched quite a while back, so can't really comment on the editing, etc - but the bitter after-taste still lingers and when I came across it here on IMDb, had to vent some latent frustration that had been pent up.<br /><br />It's over-rated as a comedy, actually there's nothing remotely funny about it, and has no direction as a "coming-of-age" movie.<br /><br />My advice : save yourself the hassle of returning to this page and commenting on how much this movie sucked.
+version https://git-lfs.github.com/spec/v1
+oid sha256:674f02cc1af7c4557a28678857130d6e74597af7cf02d2d71b09892dcc32fc50
+size 654

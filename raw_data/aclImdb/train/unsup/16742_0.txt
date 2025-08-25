@@ -1,1 +1,3 @@
-This is a great show. I always somehow manage to laugh my bag off whenever it was on. It's from Matt Groening man! It's got to be hilarious. I may sound a little one sided here, but I find this show to be better than "The Simpsons" in some ways. While Simpsons humor is starting to dry up, Futurama manages to stay fresh and new. I just wish they would keep it on the air. Great show!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7dd1be9d8cc212e629c24b00348ab270981890719d43b1a07ec67b1d06c3ec6
+size 384

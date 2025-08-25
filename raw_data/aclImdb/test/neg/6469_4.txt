@@ -1,1 +1,3 @@
-this movie wasn't good. i thought it'd be a cute disney movie just like the original. wrong. it was awkward for christina ricci, whom i expect so much more than this, you could just tell by watching. i think doug e. doug did the best he could. sit 5 year olds in front of the this, any older, and they might start to fall asleep.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1acd35fc128a9a32802bb4e3c4fa68559ecab48e6757bf2a44d012dfd7e1f3
+size 329

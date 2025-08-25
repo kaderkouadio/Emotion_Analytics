@@ -1,1 +1,3 @@
-I have never seen such terrible performances in all my life.<br /><br />Everyone in the entire film was absolute rubbish.<br /><br />Not one decent actor/actress in the whole film, it was a joke.<br /><br />Reminded me of drama at school...
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0d98e38a98a1112b44a77dda53110198db64aab8fd7dc38cfe61efc47b02518
+size 240

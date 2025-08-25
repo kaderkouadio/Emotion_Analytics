@@ -1,1 +1,3 @@
-This Stooges short is a very good one and I love the performance by Stanley Blystone.The Stooges are very funny Half-Shot Shooters.The explosions are excellent especially for the time period.If you like the Stooges then I think you'll love this!
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab279fdd55865d69b28fbee2b22d8113923f2f25f8b32fd85974d418d442ce53
+size 245

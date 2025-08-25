@@ -1,1 +1,3 @@
-This sci-fi/horror film is very unusual.I really don't want to spoil it but it has a slow beginning and middle but the climax is a long intense ending!If you haven't seen this movie before than give it a chance,it'll be a different experience for the sci-fi and horror film fan!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b36256f3decf1530a73e6824f17e12a6a9abcfe580711f353c981e5e35b71e3d
+size 278

@@ -1,1 +1,3 @@
-If you are Italian and old enough to have lived there in the 70s/80s, then you will probably get the point of this movie: Moretti's conflictual relationship with the (then) Italian Communist Party. But that doesn't change the fact that the film is weird and delirious.<br /><br />If your clique is the intellectual/radical/snobbish kind, you'll have to say that the movie is superb.<br /><br />If none of the above applies, then pick another film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc92866928c615d6c78914247b6978c5ec47dc6099ab6863540496bd8e3fa286
+size 447

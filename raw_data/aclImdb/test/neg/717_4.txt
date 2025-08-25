@@ -1,1 +1,3 @@
-Despite the fact that the plot follows the well-known recipe of "who did it", which has characterised all the Perry Mason movies so far, the characters of the present film are not so well-developed and the selected cast fails to give them flesh and blood. Of course, in general, the Perry Mason movies are not significant, but, even for their low standards, this one is weak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4bf82f2913c85c173d5177bdb47e5f63797b8334e7fa1a865966f12c32b4c6e
+size 375

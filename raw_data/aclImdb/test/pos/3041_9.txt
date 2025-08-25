@@ -1,1 +1,3 @@
-John Voight plays the title character in this movie based on author Pat Conroy's (Prince of Tides) autobiography. A fine teacher film, it tells the story of a naive Pat Conroy, a young English teacher whose first assignment is in an elementary school on a rural island. The only white man on the island, he must battle internal and external pressures as he attempts to instill education and values in children who for generations have been systematically denied such things. A solid performance that really makes you think.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1308570db62ce7de611cef33d27a299c5f7ac5f8f636f7d59a0e68043bd4883e
+size 523

@@ -1,1 +1,3 @@
-This snail's-pace "thriller"/mystery seems to have been designed for the theater, not for the movie screen. There is a single set, the various characters' entrances and exits give the film an extremely stagy feeling and when they talk, they usually utter lines of heavily portentous dialogue. The performances are generally stiff, except for Bela Lugosi, who overworks his facial muscles. (*1/2)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d10d5a204167460f01c880ddc41a23a1a728ba0e02f4e67c828da0662d0b3c3
+size 395

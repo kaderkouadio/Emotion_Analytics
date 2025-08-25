@@ -1,1 +1,3 @@
-I thought that the love letter was a pretty good movie. There were certain things that could have made it better. But Kate Capshaw is absolutely beautiful, and she showed it in this movie. I wish that there could have been a few more revealing scenes of her, but it was still a very good movie. It was very fun to watch!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c185988f5583c8fc51d28ba197fd66ec5d554605d8d8aa4795425e4966d734f5
+size 320

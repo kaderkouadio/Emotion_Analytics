@@ -1,1 +1,3 @@
-As an American Indian in New York I could relate to the title character's confusion about his Indianness. At the same time I sympathised with him about the religious mumbo-jumbo thrust upon young Indians. A romantic story at heart, this movie skewers various stereotypes about the Indian community. A tremendously enjoyable film, specially if you understand the setting of an ABCD.
+version https://git-lfs.github.com/spec/v1
+oid sha256:076d7ceb459b103486488ac9a8fad74ba17f41cc3855b0179b5250c1201526fd
+size 381

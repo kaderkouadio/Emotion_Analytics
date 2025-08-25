@@ -1,1 +1,3 @@
-Ghost Story (the TV Movie--1972) was the pilot for the NBC series. The movie was well-written and well-acted and, I thought, when the 1972-73 tv season started, if the tv series is half as good as the movie, then NBC has a winner. (I wish this film was available on video!!) The series was a colossal disappointment--even with William Castle as exec. producer. If, however,you have a chance to see the original TV movie, Ghost Story, check it out. You won't be disappointed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c31312d63a2877fab88da977f6fd866d3ea09ac0e0325adf14a1aa7166629b3
+size 474

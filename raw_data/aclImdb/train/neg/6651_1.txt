@@ -1,1 +1,3 @@
-This is absolutely the worst movie I've seen all year.<br /><br />First, I will say that the acting was very good, and by all of the cast.<br /><br />This was apparently meant to be very offbeat, and in that regard it succeeded. By the same token, the story revolves around a self-centered wannabe, who is a clueless, talentless chronic liar, whose source of self confidence comes from a pair of leather slippers.<br /><br />This was worse than watching a car wreck.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69adb03bc92a1c49763e3d3e475d7bf05a1c3413f9829bbdbb5b08e489caaf8
+size 466

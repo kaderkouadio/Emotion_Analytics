@@ -1,1 +1,3 @@
-Simply the best and most realistic movie about World War II I've ever seen. Not only because the German soldiers talk German and Russian soldiers talk Russian (no English in a German or Russian dialect)also because of the realistic decor in which the movie was shot. The acting is outstanding. No Hollywood-sentiment at all even no love story...Stalingrad was supposed to be one of the most horrific battles during the war, and in such context there's no place for sentiment or romantic scenes. What you get is a movie which will make you thrill to the bone and which have one of the best unhappy endings a movie could have.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45245797c0ef4ba462b1c00c313c308aca19cd2ebed94909355d9fba53948d88
+size 624

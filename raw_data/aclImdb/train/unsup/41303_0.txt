@@ -1,1 +1,3 @@
-Kind of dated'80s sort of comedy movie.<br /><br />It was cute then.<br /><br />High point is TC dropping his pants, and dancing.<br /><br />He was still cute back then.<br /><br />This movie was Tom Cruise's claim to fame, probably still is.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee60e497877e3cb58bd93446475ea0b5df8fbb1c12faa6fe635c3a34d9b9f8bb
+size 254

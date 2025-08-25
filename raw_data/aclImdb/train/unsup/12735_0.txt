@@ -1,1 +1,3 @@
-This story is charming and refreshingly uncontrived. Imaginative whimsy fills a tale that takes the viewer into a land overlaid by myth. The soundtrack is one of my personal favorites, filled with authentic Irish music. I highly recommend this for viewers interested in a movie that's a little different from the norm, but is still rich, innocent fun.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ecd53fa49b53d7c3add33ff3162545aeaa9c6812a36c6182f6e0da882b1511f
+size 351

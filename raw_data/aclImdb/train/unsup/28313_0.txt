@@ -1,1 +1,3 @@
-We rented this movie over the weekend and just loved it! It had it's share of good scares. I collect horror movies and definitely want to add this to my collection. If you don't really like horror this is not the movie for you. It has a low budget, sure, but so did Evil Dead and it has a following. The girl who played Laura actually made you feel her fear and added to the suspense. It had the typical "Don't go down there" theme that freaks my husband out. And the "ghost" was just spooky enough, bald men seem scarier than men with hair. I think anyone should give this movie a chance, I personally liked it better than "The Grudge"!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6902a8fb23985d06db016a0a42fe327688a42c87967c54bc2dc2eddd81669eed
+size 637

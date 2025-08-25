@@ -1,1 +1,3 @@
-This film was released in the wake of "Pulp Fiction" et al. It contained Roth (who was in vogue), and dealt with the underworld. It flopped.<br /><br />In many ways it is not a crowd pleaser. However i has a talented cast, deals with family tribulations well; and has a distinctive style of it's own.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e959d123d202c714663c57a0cbc68f393a880571a04ee83bdc7bef383bfafdac
+size 300

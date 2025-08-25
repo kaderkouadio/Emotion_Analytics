@@ -1,1 +1,3 @@
-I rented this as a free rental, and I am so glad that I didn't spend money on it. With the cast, I thought it would be pretty good, but the acting was not good at all. The story was old and used... the only mediocre part was the special effects. If you can see it for free, go for it - just don't waste any more money on it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:7681873978f9d686f9f2fa0c9bd22bddbd1cb96a1fc21ca607e9e7a5dea8ec39
+size 324

@@ -1,1 +1,3 @@
-This movie is hilarious. The laughs never stop. Every scene is packed to the limit with hilarious comedy. Chris Farley is a comic genius, and Spade plays his character to a tee. Farley was one of the best slap stick comics ever, and in this movie(as with all his movies) we see how much time and energy he devoted to portraying his character the way he saw fit. "Tommy Boy" is an excellent example of a comedy, it always makes me laugh, no matter how many times I have seen it before.
+version https://git-lfs.github.com/spec/v1
+oid sha256:195f283392915f4fa7b34e1a98e3acf8ad51bd7576816bf9bb398ec21dc418ba
+size 484

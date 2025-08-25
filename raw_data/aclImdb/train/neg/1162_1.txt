@@ -1,1 +1,3 @@
-I went to see this movie at our college theater thirty years ago because I liked Bruce Dern in Silent Running and Family Plot. To this day (sorry Jack Nicholson), it is still the dullest movie I've ever seen. It just went on and on with no discernible point and then - it just ended. The lights came up and I watched everyone looking around in confusion. Had the projectionist missed a reel? I've never had the urge to find out. All I remember about the movie is that it was a non-drama about some annoying college basketball players and their coach. The most enjoyable part of the movie was watching the totally mystified audience afterwords. Fortunately, this was just an exception for Jack, Bruce, and Karen Black.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92491e191d6034db17024f35e3b008d82bbae9a3a98a183fc5cb1f9e344835ca
+size 717

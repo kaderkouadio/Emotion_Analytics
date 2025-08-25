@@ -1,1 +1,3 @@
-Dana Andrews George Sanders Thomas Mitchell Vincent Price Ida Lupino Fritz Lang<br /><br />How could this go wrong? 'While the City Sleeps' probably would have made a better movie if it had been shot as a big, gaudy, Technicolor melodrama, a soap opera about the inner workings of a news conglomerate. It could have been a who's sleeping with who, who's stabbing who in the back-type of movie punctuated with a subplot about a serial killer on the loose. It fails, however, as a noirish crime drama. Pretty dull stuff.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b42a8aca8a6e717689aa2e547bf26a0a92256ec637d7a492e917fa8a152e5fe9
+size 518

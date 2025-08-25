@@ -1,1 +1,3 @@
-As a reviewer has already commented, this made for tv comedy is up there amongst the best football parodies ever. But....having failed to video it when it was first aired, I now find that it isn't around in any format. OK, so this has only polled 17 votes to date, but a 9+ average does seem to suggest something special. Basically, I suppose it's a case of tough luck if you missed it 'cos it's no longer available to view !! Aaaaaaaargh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e90d8ff919290ccdd8b89dd8804087268e9d7db7f6ee80a97fb6430fd34320b7
+size 439

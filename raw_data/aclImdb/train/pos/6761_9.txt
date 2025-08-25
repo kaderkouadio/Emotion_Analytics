@@ -1,1 +1,3 @@
-Otto Preminger's Dana Andrews cycle of films noirs are among the (largely) unsung jewels of the genre. Because they lack paranoia, misogyny or hysteria, they may have seemed out of place at the time, but the clear-eyed imagery, the complex play with identity, masculinity and representation, the subversion of traditional psychological tenets, the austere, geometrical style all seem startlingly modern today, and very similar to Melville. The lucid ironies of this film are so loaded, brutal and ironic that the 'happy' ending is one of the cruellest in Hollywood history. Brilliant on the level of entertaining thriller as well, tense, and packed with double-edged dialogue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fb7e01ca8b44c5535ae263f0d5bc970dad8954db3eb5907ab1a48c80954e495
+size 676

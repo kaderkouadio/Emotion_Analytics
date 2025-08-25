@@ -1,1 +1,3 @@
-Very much in the tradition of the American gangster films of the 30s and 40s, this movie centres around a bravura performance by the central gangster (Edward G Robinson/James Cagney then; Bob Hoskins now). Bob Hoskins raves and fights against a world that is rapidly moving beyond his control and, although he is an unpleasant, violent and vicious character, you end up caring for him.<br /><br />Interesting also as a historical snapshot of a period in London's history (the redevelopment of the Docklands) now gone.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7e5db11db55db2f58f7b159d2066283cf8a638a26dcd1643794847ff56e64e
+size 517

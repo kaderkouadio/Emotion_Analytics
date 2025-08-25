@@ -1,1 +1,3 @@
-Though not seen in too many films prior, you have certainly seen the basic plot themes in too many films since. <br /><br />Not one of Grant's nor Loy's best films, they make an outstanding effort together. After all, with that much talent and very good supporting cast, you know the laughs will be there.<br /><br />The film is light, has some dramatic spotting but keeps the plot moving and gets you to smile the whole way through.<br /><br />A great example of classic American film fare that has stood the test of time.<br /><br />Definite Saturday afternoon fare, heavy on the popcorn.
+version https://git-lfs.github.com/spec/v1
+oid sha256:960a7e3f0913d9c3001cf305da9548d187e785e7523ea0b8516c42cdba8b23b5
+size 590

@@ -1,1 +1,3 @@
-almost every review of this movie I'd seen was pretty bad. It's not pretty bad, it's actually pretty good, though not great. The Judy Garland character could have gotten annoying, but she didn't allow it to. Somewhere along the line, i've become a fan of brooding, overbearing, overacting Van Heflin, at least in the early 40's. Judy's singing is great, but the film missed a great chance by not showing more of their relationship. I gave it a 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ba6bf1c61856041dbfb4d67580e5d76d71be2fe94587b796e9d2b496e7bb9d
+size 446

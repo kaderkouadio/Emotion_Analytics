@@ -1,1 +1,3 @@
-This movie has lots of action and a decent storyline for it to be a good movie, but the writing and directing of this movie is very poor. This movie's plot was of a murder mystery, but the creators don't leave the audience in suspense because they reveal the killer as he is slaying his victim. Also, Pamela Anderson's character had no reason to be in this film. She plays a hooker, but her character doesn't affect the main story in anyway at all. Pamela was just thrown in the movie so they producers could incorporate two sex scenes into their film. The sex scenes were very entertaining, but they were highly unnecessary.
+version https://git-lfs.github.com/spec/v1
+oid sha256:133721b444c481b1f0ded533ea66519fc4a6590be3ee6b2d7d85cbd4a58c4b26
+size 625

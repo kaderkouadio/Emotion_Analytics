@@ -1,1 +1,3 @@
-This movie is truly an excellent example of how computer animation is supposed to be done, realistic look is unbelievable and the feeling of movie is unforget-able and need to see again like experience. extraordinarily well done expressions were so humanlike and had this thing called SOUL in them. Awesome accomplishment from animator/s! So many good things in it that if I try to write them all down I'll never leave this computer in this life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e14f285250bd8c5ca494b0a0d401277ff558ae80c03fefa871594ae0291164c
+size 446

@@ -1,1 +1,3 @@
-I thought that it was well done. The script closely parallel the book. This animation and love ballad must be critiqued in the context of it's time. Filmed in Techi-color and just the second full-length animated feature, it rivalled many of the light musicals on the silverscreen in the 1930's.<br /><br />If you have not seen it, judge for yourself.
+version https://git-lfs.github.com/spec/v1
+oid sha256:259aedf02d5c55deaa7abc4845a75681dbdd518f4d505264cdfa9f44f12361f4
+size 350

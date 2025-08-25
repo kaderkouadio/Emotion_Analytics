@@ -1,1 +1,3 @@
-From the pen of Richard Condon (The Manchurian Candidate 1962) comes this muddled tale of political intrigue and assassination. The story, told in almost comic book fashion is difficult to swallow. All-star cast considered, this poor effort is not entirely the fault of the cast and crew: the novel was replete with the same short-comings. It seems as though at times the story is actually mocking the more sincere effort put forth in "Manchurian Candidate." A disappointment on all counts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7b3355127397426bfca275b636f0b42b91e9fc91569c96224a9410bfd6d5c0c
+size 490

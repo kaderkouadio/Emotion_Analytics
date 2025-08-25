@@ -1,1 +1,3 @@
-Even if you're not a big Ramones fan, Rock 'N' Roll High School is *still* the greatest rock 'n' roll movie ever made. Why? Because under all the campiness, it treats with respect the contempt and loathing teens often feel (and justifiably so) for the boring, stupid, fascist, establishment world of adults. That final scene is one of the most glorious and uplifting final scenes to a movie I have ever seen. "Mine eyes have seen the glory of the..." Rock 'n' roll!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b104ffe3ae1205ccc08b1f1d1ee7cdd137e159e9f436d4ada22ffcb539131df
+size 477

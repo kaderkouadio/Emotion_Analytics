@@ -1,1 +1,3 @@
-I was a little skepticle if I should watch this when it was first shown on CBS. I was one of the many people who were in NYC on that day, I was going to school at Hunter College. I didnt want to see all the devistation and carnage again, but like many I was curious to see what this was all about. Tears came to my eyes watching this documentary. All my memories returned and just the intense images were unbelievable. I bought the DVD on the one year anniversary and watched it a few times. How these guys were able to capture this footage was incredible. If you have not seen this documentary, do yourself a favor and check it out. It is obviously depressing and will bring tears to eyes, but it's an incredible document of this countries darkest hour.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd50913bb8eefc9c2d98add68f03c688e01a160581c166b2ea0b4c1edff8248d
+size 754

@@ -1,1 +1,3 @@
-Well... Vivah is quite a good, but typical Sooraj Barjatya's movie. It shows different aspects of Indian families, wedding ceremonies, etc. The movie is more than good, but not extremely good.<br /><br />The big plus point of the movie is direction, music and Shahid and Amrita's acting (especially the last scene). The movie starts with a common factor of Indian movie--- A girl being disliked by her step-mother. Story is the movie is a bit common, but it is good, good enough to make the movie a blockbuster.<br /><br />Minus point is common story of Bollywood movie. Overall I would say it is two times must watch movie, if you want to see typical Indian family values and of-course love!
+version https://git-lfs.github.com/spec/v1
+oid sha256:30e220c0075185c8f9f90e1c9cf14540c7a66bc187d8336e8d4547b0ad11f6a3
+size 692

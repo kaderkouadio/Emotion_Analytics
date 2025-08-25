@@ -1,1 +1,3 @@
-Walter Matthau and George Burns just work so well together. The acidity of Willy with the perplexed amnesic Al is a mixture made in heaven. The scene when they meet again in Willy's flat is a gem and the final scene rounds up the film to perfection. Walter Matthau gives a superb performance as the irascible semi-retired comedian as only he can, the intonation in the voice and the exaggerated dramatics coupled with his general misunderstanding of what is going on form a great characterization. George Burns timing is legendary and nowhere was it better than in this film, his calm aplomb with desert dry replies are memorable. Watch for the scene near the end when Al and his daughter ask something of the Spanish caretaker, and Al's reaction - priceless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc35f4ef1de97b4e25959d94e0d13d2f5fd529556b7097b6678879fb926457db
+size 759

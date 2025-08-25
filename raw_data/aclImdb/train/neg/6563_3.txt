@@ -1,1 +1,3 @@
-Bugs Bunny accidentally ends up at the South Pole while trying to vacation in Florida. Where he meets a little penquin, which he tries to save from an Eskimo. This short tries and the penquin is adorable, but in the end it's a bit too light in the laughs department. The Eskimo isn't really that great of a foil for Bugs and I just seen a lot better Bugs Bunny cartoons frankly, even other shorts when he's paired with other unknown antagonists. So I can't in good conscience recommend this one. However it is nice to see it in it's uncut form. This cartoon is on Disk 3 of the "Looney Tunes Golden Collection Volume 1" <br /><br />My Grade: C
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8f1bc2c2b26221dc850430b331e159debb0dec6ba9bb0183f5816496a783b9f
+size 643

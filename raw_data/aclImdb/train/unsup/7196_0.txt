@@ -1,1 +1,3 @@
-J.T. debuted on CBS in 1969 and won a Peabody Award that year. I probably saw it in 1969, but I know for sure I saw it during the 1970s as it was rebroadcast several times, usually around Christmas.<br /><br />Although a bit of a sentimental weeper, the acting and portrayal of life in a tough urban neighborhood are gritty and believable. I doubt that today's tastemakers would approve of anything so realistic being offered as fare for children.<br /><br />It is too bad J.T. is no longer broadcast and is not readily available on VHS or DVD. To my mind, J.T. is as much of a Christmas classic as It's A Wonderful Life or A Christmas Story.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74d906cb26184b6e06c2383d5c138346f9989478ab2349e3d745c39f5e44ce5c
+size 642

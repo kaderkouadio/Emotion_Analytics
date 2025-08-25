@@ -1,1 +1,3 @@
-I wasn't expecting much when i watched this, maybe something like the dawn patrol. Fredric March is excellent in this movie and cary grant is ok. Carole Lombard is only in one scene, and i had never heard of the director before. Watch it if you like these kind of movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d881ddc986859fe546fb8428994535fe57b59497108b920e1249407eefb6c7
+size 271

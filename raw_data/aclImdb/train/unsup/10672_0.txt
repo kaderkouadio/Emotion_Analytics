@@ -1,1 +1,3 @@
-An interesting and somewhat mysterious tale of a middle aged couple who grow disillusioned with their dry cleaning business and find outlet with a cross dressing brother-sister-lover couple of performers. Their mutual obsession naturally leads to the demise of their relationships, businesses and ultimately their lives.<br /><br />The script is a bit dry, and lacks the punch that the subject matter is capable of delivering. Near the final act it tries to catch up as the homosexual attraction between the young man and the older husband comes zooming out of nowhere. A good editor would've suggested they drop some kind of hint earlier on.<br /><br />The abrupt and troubling ending leaves you satisfied.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d3690385f26fb682a55eee8a7ff60168b6cc6fe351323fe19307006b752905
+size 707

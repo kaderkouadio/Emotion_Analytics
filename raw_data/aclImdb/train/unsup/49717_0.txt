@@ -1,1 +1,3 @@
-Many Irish films have failed because they try to be too commercial - The Courier (attempt at an Irish gangster film), I Went Down (attempt at an Irish Tarantino), the list is elsewhere. The makers of Finbar have obviously learned a lesson from this, and have made a film that is totally un-commercial. The settings are boring (nondescript Dublin housing estate, Sweden). The acting is execrable. The plot is feeble.<br /><br />The main character is trying to find Finbar (after a lot of tiresome teenage angst), but the scintilla of suspense that this search might have evoked is spoiled by the fact that Finbar is an obnoxious bore, and not worth finding. In short, too much Finbar, not enough disappearance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7591e93d2d95595deea6de1d0e8cd9628fabc916edb81b711e618a79228c4904
+size 709

@@ -1,1 +1,3 @@
-A solid B movie.<br /><br />I like Jake Weber. His understated delivery is refreshing in a time of over the top performances. I liked the relationship between the father and son. I liked the family dynamics. The Wendigo looks silly, but it is a representation of the kid's toy and the dead deer. It's an amalgamation like, see? This is a psychological story, not a Freddy slash em up instant gratification flick. Watch it and reflect on your inner child and what the movie might have to say to you and you'll be fine.<br /><br />Nice work.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2530d1f088a6f69b1bb08a57fcc7b4793576f28832f78bd166d077dcf0f6733
+size 539

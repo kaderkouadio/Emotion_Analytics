@@ -1,1 +1,3 @@
-Having been a Marine, I can tell you that the D.I. is as accurate a portrayal to date depicting Marine Corp boot camp and how boys are turned into men. Jack Webb is excellent as Sgt.Jim Moore, a tough, but fair drill instructor in Paris Island North Carolina. The film centers on one recruit who doesn't seem to "get with the program." A more recent film, Full Metal Jacket, also shows life in basic training and is well worth viewing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50605a2e0b64cb13c1adee93c06f5ea94392deb48414014b33836c931c15b738
+size 435

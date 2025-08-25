@@ -1,1 +1,3 @@
-Lenzi has done excellent action thrillers and great gialli, but here, there's nothing worth losing 90 minutes over. Even George eastman isn't very good. And the plot ? An outcast from his tribe discovers the sword ; a beefy hero (steroids were already invented ?) discovers the bow and arrow (though he looks like he wouldn't invent his way out of a paper crate) and defeats him. The end. That's it. No more time too waste on this one. See Lenzi's seventies thrillers with Thomas Milian (one of the most under-rated actors of all time)
+version https://git-lfs.github.com/spec/v1
+oid sha256:518ee8effda57ba6dcdbdc1cd8f4323b04fde0483470939c5b3e7a7ee1104ef3
+size 535

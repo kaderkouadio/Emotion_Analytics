@@ -1,1 +1,3 @@
-This is a delightful, they-don't-make-em-like-this-anymore kind of film. Well performed by everyone and peopled with interesting character actors. An intelligent, witty script acted with the right blend of broad comedy and understated humor. Holds up for repeated (annual?) viewings.<br /><br />**WARNING** the re-make of this film with the same name, directed by Arnold Whatwashethinking, is an unbearable mess - painful to watch - without a scintilla of the charm and wit of the original.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3535a1fa61d5a35abb97f082105c6eeaefb01e838cbf9e5db6e5c7579daec01
+size 490

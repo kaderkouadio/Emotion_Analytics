@@ -1,1 +1,3 @@
-My girlfriend and I got the video in hopes of seeing an arousing movie. We were disappointed. The movie was slow, the storyline was okay, but wouldn't make sense if you didn't already know something about Karma and the Kama Sutra to begin with. The whole story could have taken up 30 minutes of film. If it did, it would have been better.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffe5c3b928bf29d63af2273f5417b7642c510b896632392b8731d3e3fc52f8a4
+size 338

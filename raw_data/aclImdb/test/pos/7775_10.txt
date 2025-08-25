@@ -1,1 +1,3 @@
-I think this is one of the best movies of all time. I just think it shows realistically what romance and especially black romance is all about. Would love to know what others think as well. The acting was just out done. Where is Tate anyway? It has been awhile since I have seen him in anything, however I think he has out did his acting performance in this movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cc5df2920e382ac7264e861fcfbadb83672b796d74332e2cc3e26bac7bf9a06
+size 364

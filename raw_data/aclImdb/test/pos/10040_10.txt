@@ -1,1 +1,3 @@
-Although "They Died with their Boots On" is not entirely historically accurate it is a very entertaining western. Not only is Flynn the perfect Custer, the character actors are superb. Besides the action portion of the movie Flynn and DeHavilland's love scenes are very touching and believable.(Flynn and DeHavilland were very fond of each other in real life). Flynn was always so tormented for being not taken seriously if only he knew that there were very few actors who could play the characters he played and play them well!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f89f357826bc0ff9fcb9a06e9e14ad6ecfc57cfae52e574219fb03288fc22a
+size 528

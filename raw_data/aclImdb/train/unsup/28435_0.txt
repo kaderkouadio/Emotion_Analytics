@@ -1,1 +1,3 @@
-TRAPPED is a very good example of the documentary- styled noir film. Lloyd Bridges gives an energetic performance as a greedy and cunning counterfeiter whose brains are not equal to his ambitions. The film also features tragic sex bomb Barbara Payton in her first major role and she also scores as a somewhat naive, yet ruthless, partner to Bridges. Richard Fleischer directs with his usual stylishness and the look of the film will satisfy the diehard noir fan. Very enjoyable.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:86fb1a142798e57d64d68a335a0baac00f0c5d4ff025821523e9136f35e49f54
+size 490

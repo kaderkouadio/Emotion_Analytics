@@ -1,1 +1,3 @@
-This movie was alright, i wouldn't watch it again but it was okay, some people thought it was great and some people thought it was the stupidest movie in history but i disagree with both sides of the story. It was funny in some parts and Jon Lovitz is a great comedy actor but needed some work in this movie
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f2698dbe437cb0d05a0e111327e7dbd6e35062bfbcb6bf2a5e47e4dbccea6bf
+size 307

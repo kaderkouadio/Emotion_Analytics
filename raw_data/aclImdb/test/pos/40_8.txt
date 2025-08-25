@@ -1,1 +1,3 @@
-Lackawana Blues An impressive HBO movie about a beautiful woman that made her house a home for several characters.Touching,alive,entrancing-a great mix of sound and story- based on a true story featuring an All-Star cast.A time capsule about .....<br /><br />you get the point and no I am not on the payola for the HBO crew- I would throw around more superlatives but I am about to go out . The extras on the DVD include a deleted scene,a featurette and commentary.The funniest part about the featurette was "star" lighting they used when interviewing exec producer Halle Berry..<br /><br />OK seriously - good times A
+version https://git-lfs.github.com/spec/v1
+oid sha256:89eab9027a807563e54bb5dfdecde2c7fbddd4a6d24c342d6218e68216cf04a2
+size 618

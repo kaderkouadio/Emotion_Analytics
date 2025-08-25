@@ -1,1 +1,3 @@
-What were they thinking? This movie's script is terrible (cliche after cliche), and it's doubtful that even appropriate actors could have rescued it. Olivia de Havilland looks about 50 here (Myrna Loy is supposed to be decades older, but they look like contemporaries), rather than the ingenue the role calls for. Compare this to Roman Holiday, made about the same time--a wonderful script, marvelously appropriate actors, and enchanting use of its location. This movie represents the worst of 50's film-making--a huge waste of talent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c815ed04c36a32f3842d553c769f9b53b147d0dbf1b90e3f0e84503ff551e07a
+size 535

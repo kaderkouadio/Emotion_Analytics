@@ -1,1 +1,3 @@
-A very short comment really, the title kinda sums it up. How the hell did this concept for a 'film' get past the numerous vetting stages of production? Why was money spent on it when people in the world are going hungry? How could they try to pass off a guy in the worst monkey suit in the world as an actual monkey? It is the most appaling, un-funny, dull, predictable piece of crap that I have ever seen in my entire life. Urgh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e200dfa9e090e82673041938413fd2aa48d82a646cf0ed8cb789e1b9ac697ab9
+size 430

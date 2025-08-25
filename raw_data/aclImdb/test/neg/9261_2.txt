@@ -1,1 +1,3 @@
-I bought this movie for 99 cents at K-mart several years back (along with "Hawken's Breed") figuring anything with Gabriel Byrne and Amanda Donahoe is surely worth that much. It wasn't. "Dark Obsession" (the title I bought it under) was a slight cut above "Hawken's Breed" (IMBD rated at 2.4), but not enough to allow me to even keep it in the house. I threw both movies in the trash.<br /><br />This thing fails on so many levels it's hard to narrow it down, but let's just say it's tawdry, incredible, boring, hedonistic, confusing and even at 100 minutes, way too long.<br /><br />I love Byrne as an actor, but this schlock really looks bad on his resume.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f05f02770aad3b197f4a05f6e19a8d954feec0d36605961441d3a0983143b899
+size 658

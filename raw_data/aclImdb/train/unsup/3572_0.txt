@@ -1,1 +1,3 @@
-What a fun and delightful movie... Just wish it was available on DVD. Family Fun... Already a Christmas Classic. Mimi is once again at her best. There is great emotional displays from Happy, sad, love, concern, twists and turns. It is creative and a joy to watch over and over. The characters are normal, wacky and arrogant.... a wide variance.<br /><br />The plot is smooth and fine for any age in my opinion.<br /><br />Humor, drama and a love story. This Movie seems to have increased in showing frequency since it first aired. I continue to check DVD sources to see if it is released. Will buy when it is as I can't say enough about the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f999fb85f4da84be717f6f7908272c4ae12192fea96662c926b383c1748de5
+size 646

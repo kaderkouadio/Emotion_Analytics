@@ -1,1 +1,3 @@
-I just saw "Checking Out" at the Philadelphia Film Festival. What a terrific combination of a heartwarming storyline and a great cast. Director Jeff Hare has done an outstanding job of inviting the audience into the disjointed, yet hilarious world of Morris Applebaum and family. The family life is presented in such a way that we enjoy the crazy antics yet feel the real pain and concern they have for one another.<br /><br />Typically I am not a Peter Falk fan, but he IS Morris Applebaum and plays the role with great humor and humanity.<br /><br />I hope that everyone gets to see this wonderful movie and enjoy it as I did.<br /><br />Hats off to the Director, Cast, and Crew for a job well done!
+version https://git-lfs.github.com/spec/v1
+oid sha256:24d9790243afaff325c7071d25e0bcf695df13e6b927bb2330d0b5c6f20cab77
+size 701

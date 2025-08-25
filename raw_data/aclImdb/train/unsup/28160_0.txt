@@ -1,1 +1,3 @@
-Another made-for-TV movie inspired by true events, this movie is rerun on lifetime quite often. It's scary to contemplate a person treating another human being like the girls in this film. This movie is better than most "women in jeopardy, inspired by the story of" television flicks of the late 80s/early 90s. Patty Duke is excellent as bereaved mother and Loretta Swit (Hot Lips from M*A*S*H) lends solid support as the investigating detective who tries to keep Duke's character from jeopardizing the case. A very sad disturbing film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17488942ed3aba3398384de7e00cd2245f36cfe1081014ba8da6c316689d068a
+size 536

@@ -1,1 +1,3 @@
-being a NI supporter, it's hard to objectively review a movie glorifying ulster nationalists. characters who are hard to root for, typical heavy-handed anti-violence messages, and a predictable 'poetic justice' ending makes this an awkward watch...
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec953205cd042e22608fa1bb3c32c2a121f2938466ab0ec4ff6678207facd504
+size 248

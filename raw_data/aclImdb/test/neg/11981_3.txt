@@ -1,1 +1,3 @@
-I was actually fairly surprised to find out a movie based on the Far Cry game had been created. The story here is not something I would consider to be a strong point in the game universe. No worries though as in typical Boll fashion the story in the movie has very little to do with the game it is based on. Now I understand that certain liberties need to be taken to make a transfer from one form of media to another but it seems like he really just doesn't even try to make a connection. Not only that but the acting and action sequences are so corny it almost makes you feel like the whole project was one big joke. It has been said a million times before but why couldn't someone more talented pick up the video game rights to create a movie????
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f7c6120131085b3edb9d5c67cdcdd55fd868b5905e1585c744a2f001a64484
+size 749

@@ -1,1 +1,3 @@
-GREASE is the best film musical I've ever known. As a JT fan, I think that all JT movies are excellent but GREASE is his funniest movie. AWOMP BAMMA LOOMA AWOMP BAMP BOOM!!!!!!!!!!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2354ef04fb05529278da9c7d88fb81333f30badc06e8340f6409a822b1bd2a7d
+size 182

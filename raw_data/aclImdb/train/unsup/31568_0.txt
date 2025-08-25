@@ -1,1 +1,3 @@
-The story is centered around a psychologist(Robert De Niro) and his daughter(Dakota Fanning). They move over to a house by the countryside when De Niro's wife is mysteriously murdered. There Emily(Dakota Famming) makes a new mysterious friend named Charlie. De Niro is initially happy to find her making new friends but this slowly turns to dread as he sees his own daughter turning against him and preferring to stay with Charlie himself. Add to that that he does not get to ever meet the mysterious Charlie. The scene turns ugly when Charlie starts killing people. A thriller to boot with the ultimate climax being finding out who Charlie really is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8392ce4cfa89ef195cba6fbd933e5a57b4da66ff732a2ea8e03065dc5e418e35
+size 651

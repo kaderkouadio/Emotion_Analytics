@@ -1,1 +1,3 @@
-I was in AWWW, the whole time I was watching it. After seeing the series then the movie, this is the best Gundam series ever. The music was exquisite, the animation was one of the best I've ever seen. You have to see the 49-episode series before you watch this excellent movie. It will take your breath away.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c16d79ea17661cc7a2313c15bf4a06e176a0ead8b838afd5930527669bafb80
+size 308

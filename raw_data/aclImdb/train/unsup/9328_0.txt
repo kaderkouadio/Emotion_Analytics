@@ -1,1 +1,3 @@
-Another boring "comedy" from the Lorry gang. An orgy in boredom, although not as dull as "Yrrol", focusing on some married couples and their endless whining and nagging...<br /><br />A fat 0 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:e791fc607b25ddbbd99475a17c67b485f0caa4463f91dc86c7b934d22bddf5cd
+size 200

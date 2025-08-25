@@ -1,1 +1,3 @@
-This is a great movie, great action, great characters, I love it. It certainly resembles "Big Trouble In Little China" in several ways. Kurt Russell is awesome as Snake Plisken(in one of his best roles), who is the prisoner who is chosen to rescue the President when Air Force crashes in New York City in exchange for a full parole. The music is also very cool, it will stay with you a long time after you see the film. Overall "Escape From New York" is a very fun action movie. *** out of ****.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44616a1ec091a1a8454befc1dac934448025dd97997829a164f11efb15273733
+size 495

@@ -1,1 +1,3 @@
-Sony Pictures Classics, I'm looking at you! Sony's got the rights to Harry records -- you need to distribute the film and you'll get radically increased sales of his back catalog! Anyhow, this is a great study of a fascinating musician, woefully underknown, full of great stories, greater music, and it could have been 3 hours longer and I'd have loved it even more. Saw it at the American Cinemateque Mods & Rockers Festival at the Aero Theatre in Santa Monica, where it played to a packed house. They were turning people away at the door! I went to many of the Mods & Rockers festival films, and let me assure you that no other film came even close to selling out, let alone turning people away. See it in the theatre, buy the DVD, and make sure some slow-on-the-uptake company [*cough SONY cough*] picks it up ASAP!
+version https://git-lfs.github.com/spec/v1
+oid sha256:70904073817398ca3f4a5e83983ed09bb160a13dd9d4414e19ed82bb25703c2d
+size 818

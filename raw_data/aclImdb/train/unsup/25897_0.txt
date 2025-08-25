@@ -1,1 +1,3 @@
-I thought "The Blair Witch Project" was awful, but this movie is worse than that!! It was super cheesy and the most boring movie in the world! Why did they waste their time making it? They shouldn't have even wasted their time!! Did those "actors" get paid to do what they did? They would have been better off working at McDonald's for the day!! ABSOLUTELY AWFUL!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:791e28052e2ef014cf7372172fcc68697040dfd0554e703d0698dfe49baed0b8
+size 364

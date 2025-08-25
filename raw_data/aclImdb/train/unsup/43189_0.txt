@@ -1,1 +1,3 @@
-Average cast. Predictable plot. And a happy ending... Uhh.. What kinda movie is this supposed to be anyways? Too lame to be a thriller, so let's say it's one of those semi-suspense flicks. Pretty standard film all in all that really has not much new to offer... If you don't have anything better to do, you might as well watch this.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23fc0182650c85d9c309534b8b036cd384b6a94f67597385bdc07330bacf04b1
+size 332

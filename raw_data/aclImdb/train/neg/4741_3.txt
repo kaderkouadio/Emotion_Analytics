@@ -1,1 +1,3 @@
-Wendy Wu: Homecoming Warrior has a very good, strong plot but is ruined by cheesy details throughout the movie. I am a younger teenager and didn't enjoy this movie very much. I thought the effects were horrible, but they might seem entertaining to younger children. The matrix moves ruined the action, you know that it was absolutely fake. Then there was the Yen Lo, an evil spirit who temporarily possesses random people and homecoming in which Wendy was striving to win. It all ends like a typical feel good movie when Wendy and her Buddhist monk cousin Shen defeat Yen Lo (and destroy him forever) in the end. So Wendy learns a lesson...blah, blah, blah. I'm ready for the next DCOM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f270f2d3d9b27d0e15a05f6b2b1ceffda0b83f60621829f07d34b28f691447d1
+size 686

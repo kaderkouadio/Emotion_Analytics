@@ -1,1 +1,3 @@
-Cross-eyed is a very original and funny movie. I think Adam Jones brings a refreshing new set of eyes to the comedy genre and really reinvents it in a good way. This film is smart, concise, and consistently entertaining and funny. As a writer/director, Jones exhibits complete control over his characters who are both absurd and lovable. The story is definitely something you haven't seen before which is good. It's unique and fun, and manages to work in visually fantastic elements as well as the long lost slapstick genre together to form a hearty comedy.<br /><br />A very promising first film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:552515648fa670d9e3e49356f3b0f03572f783d5a322b02d7caf6864dabc1189
+size 597

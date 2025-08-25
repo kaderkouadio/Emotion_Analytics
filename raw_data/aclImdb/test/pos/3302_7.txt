@@ -1,1 +1,3 @@
-A sincere tribute to Suzy Parker, who's just passed away. Not only is TBoE one of the cheesiest movies ever made, but Miss Parker's performance is, in this cheesy-movie-lover's opinion, among the worst performances of all time. Her last scene is especially overplayed. I loved it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb2849c8186c27154c72d9d5df84db5d0d172bf9c6c97a36fec0333eceefc0b9
+size 280

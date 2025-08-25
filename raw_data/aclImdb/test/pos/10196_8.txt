@@ -1,1 +1,3 @@
-Looks as if the Robocop writer has been wholesale looting The Vindicator. This is a very solid horror/action movie about a man set up in an accident to be used in cruel experiment. Anyone who have seen Robocop knows the story. Watch out for Pam Grier as a bitchy and darn good looking assassin. This highly effective, violent and bloody horror movie may not be to everyones liking, but this Canadian outing is well worth seeking out for anyone who is fan of the genre. 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:d27e78fe9567486a0515e8e00d94f5003a1171a190ad8c3a74d9fbd266c32bf1
+size 473

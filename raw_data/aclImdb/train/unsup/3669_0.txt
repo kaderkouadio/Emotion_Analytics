@@ -1,1 +1,3 @@
-I saw this movie at NY New Directors/New Films. Was skeptic at the beginning. I haven't seeing "Saturday", another movie by Matías Bize. The plot is simple. Two strangers having sex in the motel. They introduce themselves only afterwords. They start talking, telling truth and lies. Slowly they start revealing their true past. As one can notice they start flirting and seducing each other. When spiritual connections between two of them establish viewer realized that under different circumstances it would be a happy couple. However they will go their own ways... Excellent dialogs. Way above ordinary play of Blanca Lewin and Gonzalo Valenzuela
+version https://git-lfs.github.com/spec/v1
+oid sha256:3de5992a653fe87525e1355dedf5bd3b0aed06e78919f5af2ec0c5945dc0ffd7
+size 648

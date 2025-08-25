@@ -1,1 +1,3 @@
-This HTV series is beautiful. I strongly recommend watching the movie. It has got everything it should: remarkable script, strong characters, beautiful scenery and exceptional atmosphere. Add some ambient score from Clannad and you receive unforgettable picture. I love every adventure movie from HTV I saw: Return To Treasure Island, Smuggler, Adventurer, but Robin of Sherwood beats them all. I would like to thank the whole HTV production team and Richard Carpenter in particular for giving me plenty of adventures and excitement. I have got the DVD release in my little movie collection. I regret very much movies like these are not made anymore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2615bdde3f7799915907bd885f794cec2bba850932cd7983d9ad23a1c8326425
+size 650

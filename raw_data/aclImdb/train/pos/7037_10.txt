@@ -1,1 +1,3 @@
-This is a brilliant political satire. No wonder why it was largely ignored in the U.S.: it exposes our murderous foreign policy for what it really is.<br /><br />Another good film from this era, Rendition, was also totally dismissed simply because it showed, accurately, that the U.S. is a war machine bent on torturing, murdering, and maiming civilians in its quest for total world domination.<br /><br />A clever plot, good acting, some big stars (John Cusack, Ben Kingsley, Marisa Tomei anyone?) and some scenes of hilarity should have made this movie a hit. Unfortunately, Americans don't like to hear the truth about themselves, especially when they are complicit in mass murder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b528bdcfeed41bc33c55b6611b1efe3cf232c792f932e71693006a75406ff37
+size 684

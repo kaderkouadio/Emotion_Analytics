@@ -1,1 +1,3 @@
-The first season was great - good mix of the job and the brother and friends at home. it was actually a pretty funny show.<br /><br />Now it shows up again and the brother and the two hot chicks are gone -- and the whole thing revolves around the airline company. Even the old man who runs the company has gone downhill - way too over the top, where before it was perfect.<br /><br />That and no more Sarah Mason - one of the best looking girls in Hollywood.<br /><br />This is what happens when you let some execs get their hands on a show. You can almost see the meeting "the old man is funny, lets focus on him, make him way over the top and make it all about the airline.. it'll be a nutty version of the office!" Anyhow, no hot chicks, no watch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10e88760581994cd9c80e1cbd3593dd51a58e1fac70a698c10f1bbbbc64c9374
+size 750

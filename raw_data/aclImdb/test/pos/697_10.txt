@@ -1,1 +1,3 @@
-I think this movie is my favorite movie. I am not sure why, but it is. Julia Duffy has been my favorite actress for awhile, and when I saw this, I went crazy. It's sort of romantic, and I definitely recommend this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1637d7aa6f3e6191a117e36d987bea1dca57876eae0f069709f123032b09d260
+size 220

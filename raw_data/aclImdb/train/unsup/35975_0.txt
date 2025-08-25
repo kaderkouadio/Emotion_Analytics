@@ -1,1 +1,3 @@
-The ambitious script deserves some credit for the way it keeps intercutting the past with the present tense, a technique that results in some intriguing effects; in one scene we see somebody killed, in the next scene there he is, moving and talking! But, the pace of the film is plodding, the performances detached and completely unengaging (or maybe the characters are detached and completely unengaging; in any case, you don't sympathize with them), the direction too "arty" (for example, a driving scene with no dialogue runs about five minutes, while one of Karen Black's "melancholy" songs plays on the soundtrack). Plus, the VHS print I saw was SEVERELY damaged. (**)
+version https://git-lfs.github.com/spec/v1
+oid sha256:456d5bc121873d6b7bc07d60d48cb8de0428dab286e8ecd0d2bad36dea8477e7
+size 673

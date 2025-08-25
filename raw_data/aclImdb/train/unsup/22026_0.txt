@@ -1,1 +1,3 @@
-This is a sweet, quirky, feel good movie that does a decent job of capturing the Santa Cruz climate. I'm generally good at picking up on contrived plots and have spoiled more than one movie for my friends by guessing out loud what would happen next. Although this happened in a few places in this movie, there were also many times where I guessed wrong. There are some unexpected twists and turns, making the film less contrived than might be anticipated.<br /><br />The film wraps up in that typical Hollywood way, in terms of most everyone seeming to live happily ever after. I do have to wonder, though, if Priestly has lived happily ever after...
+version https://git-lfs.github.com/spec/v1
+oid sha256:a629fac3391f917bbaf0aa9818721adcbf0b3dc0bce2fe42f42da887d84b40a4
+size 650

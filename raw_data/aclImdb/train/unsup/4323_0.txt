@@ -1,1 +1,3 @@
-This has got to be one of the worst pieces of c**p ever put on film. OK the first one wasn't bad, but the violence in this goes to a bugs bunny G rated level of stupidity. The robbers take a little too much from this kid. Ever heard of a gun? And come on now a 12 year old kid dressed in expensive yuppie clothes walking around central park at night and not being mugged. I don't think so. Then there's another lame happy odd stranger side plot. This is just bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:009c58857a83607c6508d12d876f001a34a8b23941dc55c71508312f14f657ee
+size 463

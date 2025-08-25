@@ -1,1 +1,3 @@
-I saw this movie in the Rotterdam Film Festival and I was pleasantly surprised. The photography is just so stylish and beautiful, and the story it's just not your average mafia movie, actually that storyline is pretty much in the background. It's more the personal journey of a middle age man that is trapped in an existence he was forced to live. The actor, Toni Servillo, is superb, he excels this "quiet man". The girl, Olivia Magnani, is the grand-daughter of Italian actress Anna Magnani and lives up to the family surname.<br /><br />If you're expecting your typical Italian movie where everybody is screaming to each other in big families, this is NOT your movie. There are not you're average clichés and it's definitively worth seeing this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6738a5444e460fa59743e359c6d7f93bd1889a85d7d8f736eeb1c87152e98344
+size 753

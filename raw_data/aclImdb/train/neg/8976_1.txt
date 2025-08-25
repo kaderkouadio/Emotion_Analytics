@@ -1,1 +1,3 @@
-The first point that calls the attention in "For Ever Mozart" is the absence of a plot summary in IMDb. The explanation is simple since there is no story, screenplay, plot or whatever might recall the minimum structure of a movie. Jean-Luc Godard is one of the most overrated and pretentious directors of the cinema industry and this pointless crap is among his most hermetic films. I believe that neither himself has understood what is this story about; but there are intellectuals that elucubrate to justify or explain this messy movie, and it is funny to read their reviews. <br /><br />My vote is one.<br /><br />Title (Brazil): "Para Sempre Mozart" ("Forever Mozart")
+version https://git-lfs.github.com/spec/v1
+oid sha256:9edc279e1571b0ce4f646651432cd1d90eeb5c12a603e1ddc1cb3a461100f227
+size 672

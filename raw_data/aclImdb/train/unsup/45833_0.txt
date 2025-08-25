@@ -1,1 +1,3 @@
-this was a horrible disappointment, with equally terrible acting, direction and screenplay. it's so bad one can't help thinking it's somehow a comedic takeoff on the Maugham book, but the punch line never arrives. there is a reason as to why it failed - it's worse than a TV movie. they shamelessly butcher the Maugham classic - reducing it to a charmless mess. the characters have none of Maugham's depth or interest, and are reduced to one dimension. it was extremely difficult to sit through, and while i love Bill Murray, i'm sure this is some of his worst work. seems like he stepped out of Saturday Night Live sketch. i don't know how anyone could recommend this. don't waste your time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e1c42d3d9c877352a6bb61eb526e99342188b62e9ced6c1a0932679f57f2b3
+size 692

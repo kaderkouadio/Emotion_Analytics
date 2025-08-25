@@ -1,1 +1,3 @@
-I too remember seeing this film as a youngster at a local small theater that presented foreign films each week. It was the daring adventure of it all that stayed in my memory ever since.<br /><br />Especially impressionable was the scene with Noel Purcell as the old seaman, Paddy, who drank too much, saw or heard apparitions and died of fright in a cave. I always kept track of Noel's career even decades later due to my seeing him then. There's also a youngish Cyril Cusack as the leering boatman, James, with designs on the lovely Jean Simmons, shown as Emmeline grown up.<br /><br />Would very much like to own a video of this haunting film and refresh my memory of it. Where do I send my request?
+version https://git-lfs.github.com/spec/v1
+oid sha256:f809874e76ab10cc7f70d0c1f0bfee1dfd11799f8ac97e0c669a1359e2e36e20
+size 702

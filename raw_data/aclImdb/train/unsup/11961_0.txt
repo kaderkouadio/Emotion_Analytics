@@ -1,1 +1,3 @@
-With most Hollywood garbage these days being so formulaic and cliché we can all be thankful for those making movies outside of LA. Kung Fu Hustle combines humor, creativity, imagination (WAY out the box when compared to most US movies) epic fight scenes and wonderful cinematography. The references it makes are side-splitting and the Bugs Bunny and Shining examples stand out as two that are remarkably timed. I think if you go see this movie and check all your expectations and disbelief at the door you will have the fantastic movie experience of being whisked away to another world... the reason we see movies in the first place, right?
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d7190139ba2319430a10db85433a65d220a51035b3cc8cab657e2665565bc1
+size 641

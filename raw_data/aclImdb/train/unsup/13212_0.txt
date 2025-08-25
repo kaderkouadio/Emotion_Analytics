@@ -1,1 +1,3 @@
-I was suckered into paying to see this movie in the theater because of the title and because I like the actors.<br /><br />For 19 years now, this movie has been my standard by which to judge all terrible films.<br /><br />There was no excuse for the distribution of this film.<br /><br />Plodding, meandering, insulting to the intelligence of the viewer, and not a sufficient allegory for the cold war to have made it worth seeing.<br /><br />The only reason to watch this movie is to see how truly awful a movie can be.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acebe97284a42a7c7c3eedbee81714883f9d94a3f287667eaa0c617b2abfa07d
+size 520

@@ -1,1 +1,3 @@
-I never saw this movie until I bought the tape last year. I was enthralled and entertained. It has all the elements of what I love to see in a Sci-Fi story, in a book or on the screen. There's social commentary, speculation, and a good story.<br /><br />There's something eerie, and amusing, watching a 1936 view of the 'distant future' of the 60s and 70s.<br /><br />I think it's a must see, and not only for Sci-Fiers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b7dd64c9b50a51d6268b66828471f4c9e6be251b3bbfe30c102ee320bcf6d70
+size 420

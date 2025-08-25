@@ -1,1 +1,3 @@
-Billy Crystal normally brings the crowd to laughter, but in this movie he and all the rest of them cannot bring any smile on my face.... or perhaps just one. They call it comedy, I say it's a waste of my time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d13400fe9d5aaecb09ef4ad07ec36b32c92f90a9a20a7f41b2a0179f1d23777f
+size 209

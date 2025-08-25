@@ -1,1 +1,3 @@
-Upon seeing this film once again it appeared infinitely superior to me this time than the previous times I have viewed it. The acting is stunningly wonderful. The characters are very clearly drawn. Brad Pitt is simply superb as the errant son who rebels. The other actors and actresses are equally fine in every respect. Robert Redford creates a wonderful period piece from the days of speakeasies of the 1920s. The scenery is incredibly beautiful of the mountains and streams of western Montana. All in all, this is one of the finest films made in the 1990s.<br /><br />You must see this movie!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ada359cea94fb17d7e070471b38040e26640af89f1d6305804867d12fe4d46
+size 607

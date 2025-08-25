@@ -1,1 +1,3 @@
-While this movie isn't spectacular, it is a well told story that becomes increasingly intriguing as it unfolds. I initially identified with the Mexican culture portrayed, but foolishly so--the novel (Midaq Alley) is based in Cairo and written by an Egyptian author. The story is that of a neighbourhood, its residents, and how they progress. It is a depressing story of sorts, told from the perspective of the different characters. At first the characters don't seem to have the depth needed to sustain the movie, but as we watch we learn more about each and the decisions they make to "better" their circumstances and the repercussions of those decisions. This is perhaps the best role I have seen Salma Hayek portray. She is, for once, cast in a role that has more depth. For those who like movies, this story is worth the time spent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4799776ad992b49a1add6f20a85870a938dedcdcd2e8c8cac84416aba2343615
+size 836

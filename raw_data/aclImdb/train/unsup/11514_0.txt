@@ -1,1 +1,3 @@
-There's something about the idealized look of early animation that appeals to me. This cartoon (though I haven't seen it in years) presents a peek into the imaginary high-living, cosmopolitan lifestyle of the well-to-do in the 1930's. The music is memorable, the drawing and shading are gorgeous. If you're anything like me this cartoon will have you longing for a life which only exists in our dreams.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c9b1a630a3a99f126b6228f6b1f9ccfe5a543896eda18e6d481c83b8ea7da01
+size 402

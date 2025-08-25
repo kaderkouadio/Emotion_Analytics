@@ -1,1 +1,3 @@
-I saw this movie in Denver for free and I still to this day feel like someone owes me money for seeing this. Horrible all the way around. I had to leave the theatre after about an hour and 10 min. How anyone can enjoy this just astounds me. I rate it as the worst movie I've seen.(Never had the privilege of seeing Ishtar)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fd53cf9f6b216e535f2517ec3305177a6c3abf309d94414d93121c8da8ab470
+size 322

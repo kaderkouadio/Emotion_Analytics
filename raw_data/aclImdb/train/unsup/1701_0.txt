@@ -1,1 +1,3 @@
-This is the perfect movie to cheer you up when you're feeling blue. Almost everyone I have shown it to ends up smiling. There are so many things to notice that you can watch it again and again. (I also recommend Jittlov's many short movies, such as Animato, Good Grief and the original short version of the WoSaT. Grab any copy you can find-- they're not in stores and I had to beg to get mine.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f88d99c39ae52aac5790ce9ea0e255f5edd41cd875a2d5a1d3dc9deafa6279d
+size 395

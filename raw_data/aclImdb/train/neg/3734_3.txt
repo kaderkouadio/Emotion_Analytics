@@ -1,1 +1,3 @@
-A truly muddled incomprehensible mess. Most things in the film look more or less like 1987, but then there are futuristic things just thrown in, like the policeman's ray gun. And that car! The director seemed to be in love with colored lights. The only really notable performance was the girl who played Valerie, but since there was no cast listing, I don't know which actress that was. This one is worth missing. Grade: F
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ab2685375c960563128de007183c2309790689912324a87aa976be7bd5c327
+size 422

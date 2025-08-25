@@ -1,1 +1,3 @@
-This short, nominated for an Academy Award, (I'm surprised it lost, though I've never seen the winner, as far as I know) is a funny, sad, sweet look at life through the eyes of a child growing up in Canada. An excellent adaptation (by the author) of a story by Mordecai Richter and yet another feather in the NFBC's cap. Caroline Leaf is a marvelous director and this is one of her best. Most recommended.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6f503c936801db44e5665f654a2f07040cc69c55fa05dedb3d7d8f8e84287b
+size 405

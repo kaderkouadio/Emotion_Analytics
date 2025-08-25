@@ -1,1 +1,3 @@
-Sherman's March is three hours of footage from a broken man's life. Ross McElwee takes us on a journey to make a documentary on Sherman's March, but ends up showing us a sequence of extensive real life footage from his subsequent crisis in love. The picture feels like a home movie. Experiencing so much of the director's personal life is an unusual experience and takes the motion picture somewhere it doesn't often go. However, the movie is long and I feel it should have been further edited for the public. it is a bit egocentric to expect people to spend so much time watching some random guy's life.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af26b5ca2a23cd61fabaa0da62d5d6542b79db4a03c76d1ba6321db22bd1165c
+size 604

@@ -1,1 +1,3 @@
-Outstanding performance by Tantoo Cardinal. She carries this movie alone. Rip Torn is great but just a shadow to Tantoo. A bitter sweet story of a woman who loves a very stubborn man. Beautiful, funny, sad, touching, a must see film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce084d6df687974eff30ea7ab847d2a4c27f08b392cbaa8ca55120012ab88f97
+size 233

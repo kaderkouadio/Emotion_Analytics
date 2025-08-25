@@ -1,1 +1,3 @@
-I saw this at matinee prices, and feel that I overpaid. This movie is very predictable, and the plot hinges largely on completely implausible items. For example, after sitting in a warehouse for 1000 years, Harriers will still fly. And illiterate people can learn to fly them in battle in a week. And they carry enough fuel to get from Texas to Denver, hover interminably, and dogfight without refueling. And 1000 year old fuel will still be good. Oh, and igniting a planet's atmosphere will cause the planet itself to disintegrate into tiny pieces.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b0bbe6834bcfa6c61f9967fc4595819e97f6157b118de9d36fb9388f4bdbde
+size 549

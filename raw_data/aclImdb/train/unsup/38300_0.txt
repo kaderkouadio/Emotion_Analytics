@@ -1,1 +1,3 @@
-One of the worst sequels I've ever seen. I loved the original FDTD and was thrilled at the idea of a sequel, but this movie was pathetic.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ce89b99ef362841c16c593450961a89590518678192f6bc364181bda51cb08
+size 137

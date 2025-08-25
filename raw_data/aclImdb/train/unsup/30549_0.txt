@@ -1,1 +1,3 @@
-I had never heard of this movie before and had low expectations. However, I was amazed at what a wonderful movie it is. Not only is it "Hitchcocky" and suspenseful, it is also humorous and touching. Jane Wyman and Richard Todd did particularly well in this film. I do not usually like Marlene Dietrich, but I have to admit that she did a splendid job as the flamboyant theater star. This movie is set in London, and Hitchcock did a wonderful job of picking out the crew's British actors and actresses such as Alistair Sim and Michael Wilding. Surprisingly he even gave his own daughter, Patricia Hitchcock, a bit part towards the end. It is too bad "Stage Fright" is not more well known, and I highly recommend it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:113c6ea57b8fcae83ef158343cd2ae0ad4c21cae4af18310a757fb3b0ebd70b8
+size 714

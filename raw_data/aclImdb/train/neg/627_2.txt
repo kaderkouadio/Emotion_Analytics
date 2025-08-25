@@ -1,1 +1,3 @@
-Oh dear lord. This movie... It was horrible. I am a HUGE fan of horror movies. And most of the time, horror movies other people say are bad, I like. The actor who played 'Scarecrow' was amazing, I will say that. But this plot was awful. It made no sense! It had way too much gore, and an unnecessary (and revolting) sex scene at the beginning. I do believe the director was trying to be 'shocking' or whatnot, but it just came out awful. To add to the pile of festering crap they called a plot, the actors (besides 'scarecrow') we're awful, and I cared so little about them that I soon forgot who was who. In conclusion, this movie made me sick. If you can avoid watching this movie in anyway, please do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:950f47e335d106d4bfb0e73bcf9980986111898fb3a30a9082891eae87540bc9
+size 704

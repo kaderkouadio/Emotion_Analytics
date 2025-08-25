@@ -1,1 +1,3 @@
-What can you say about a movie whose funniest episode sees a fat man wrestling a garden hose? The acting, particularly that of lead man Jerry O'Connel, is embarrassing. The dialogue is so contrived and unfunny it makes you cringe. The controlling idea is actually not a bad one for this genre (infantile teen comedy), but, somehow, the director manages to make the least of it. I rate it a 2 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f22b7b89de5895cb389511e8a85c1833845631469eaf71b8dee0aecb2fc0120
+size 402

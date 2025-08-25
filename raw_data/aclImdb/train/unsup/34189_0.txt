@@ -1,1 +1,3 @@
-Somewhat entertaining. The movie is essentially plot -driven. The plot is incredulous at best but when it has holes in it there isn't much left. The bit with the birds is a major flaw. Homing pigeons "home" to one location only. They will not fly back & forth. In my mind the romance at the end is also totally unbelievable. 4/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bdca1bbbf9a872af0aee197619c1593f703be25d55bdac3ae24f4f39f898f59
+size 329

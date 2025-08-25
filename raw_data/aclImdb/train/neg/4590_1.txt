@@ -1,1 +1,3 @@
-Anyone who has studied any physics or cognitive science will walk out disgusted after 40 min., as my wife and I did. The ignorant masses might be entertained by the hand-waiving arguments and the absurd "conclusions" drawn (without even an attempt at a logical reason) from real science. I'm offended by such nonsense presented under the guise of "science". I can only conclude that the writers picked up a quantum physics book, didn't understand a word of it, then watched The Matrix about a thousand times, and proceeded to write this movie.<br /><br />For example, the Washington DC crime experiment was done by The Transcendental Meditation Program. A brief search will reveal the science of their methods. (http://www.freedomofmind.com/resourcecenter/groups/t/tm/dissenter.htm)<br /><br />Save your money.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e4f6c87b80bcba54696edef509d1e78c507a34ff7e03cf7a496c2051cc3512
+size 810

@@ -1,1 +1,3 @@
-Pretty dreadful movie about several unbalanced young people in a car starts off reasonably well but becomes more bizarre and hard to swallow as it progresses. Rachel Leigh Cook is the sole highlight in a tender and sexy performance, but I would recommend this film only to die-hard fans of the actress.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52a8bdab5800320a670579025e5a851ec52104178889a343efc69803ea49608a
+size 302

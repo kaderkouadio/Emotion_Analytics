@@ -1,1 +1,3 @@
-Really enjoyed this one, primarily because of the vigilante angle. I like to see a guy get paid back for messing where he shouldn't. The bad guys messed with the family of the hero, so he came to town and paid them back in spades. Swayze carried a double rig shoulder holster, and knew how to use the hardware. Lots of gunplay.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b0ff763a92c37bfe0a2952718b3926c8bb279f260eb187a7104927b2272931e
+size 327

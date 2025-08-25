@@ -1,1 +1,3 @@
-I stopped watching lost at this episode because I thought Ana-Lucia and Libby's deaths were unnecessary and really depressing. Then I found out that they kept Libby around just to die in the next episode! Gah! I can't handle it.<br /><br />I liked this show for the first season, but it definitely declined in the second season, I found Jack and Locke's little religious feud to be annoying. The deaths of Rodriguez & Watros' characters was the final straw! <br /><br />I give this episode a 4/10, for being the end to my viewing of this formerly great series created by Alias legend J.J. Abrams. I hope his series in the future will improve on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f5e4cbecc2df62a5d86b2cb32cda47307a524f4e4db03dc66f1bb2b1798daa
+size 654

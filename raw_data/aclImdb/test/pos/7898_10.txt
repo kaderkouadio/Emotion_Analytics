@@ -1,1 +1,3 @@
-I don't care if some people voted this movie to be bad. If you want the Truth this is a Very Good Movie! It has every thing a movie should have. You really should Get this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62e39eb789f124f2ce264f527ead0193e9307b8a33e427ff265ff9115975eeca
+size 176

@@ -1,1 +1,3 @@
-I saw this film in Winnipeg recently - appropriate, given the location used. I first read Lawrence's book back in the 70's and for me, it's always been a very powerful picture of the trials of aging in our society. It resonated when I was young, and it resonates even more now. When the film came out, I was keen to see if the story could survive. and was thoroughly impressed, especially with Ellen Burstyn's performance. She manages to give us a complete human being, even though the character is generally cranky and judgmental - someone that you wouldn't want to live with. It's great to be able to see favourite characters come to life so authentically.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ba0a5f2252d04f57c10b4bdbf7f08088663817923b4082811d1715544c34cd
+size 658

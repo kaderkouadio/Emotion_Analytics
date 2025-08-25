@@ -1,1 +1,3 @@
-This film is quite simply the best thing I have seen for a very long time.<br /><br />A seemingly straightforward morality tale of revenge and retribution, it builds to a climax that will hold you fixed in place and squirming as the conclusion unfolds.<br /><br />There are violent moments in the film, but life is sometimes violent, and what you see is never glamorized or fetishized - it is simply the way it is.<br /><br />I heartily recommend this film to anyone who is sick of big budget Hollywood nonsense and longs for a simple story, well told and superbly acted.<br /><br />10/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba3a5546747067986fa65428a443363c237fa9de9c6cdbce20489aac0f9a625b
+size 588

@@ -1,1 +1,3 @@
-I don't like movies where the girl leaves the guy who doesn't do anything wrong within the relationship. That is just because I am insecure. Aside from that this is a pretty good movie. It is surreal at times, but doesn't go to far and become pretentious art schlock. If you are looking for something weird and fun, think about this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a429e47e8a0ca63e5901cbd1cc780553274f14f490e99b9f1e41ae7650d07d
+size 337

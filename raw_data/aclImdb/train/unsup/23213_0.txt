@@ -1,1 +1,3 @@
-Praise should still go out to the supporting acting of Wendy Hamilton, Bill Dwyer, and Will Sasso for their hilarious little performances within this movie. "Ski School 2" is funny for anyone. The other performances and the lead Dean Cameron are funny as well. I wish that Will Sasso had won Wendy Hamilton's affection by the end of the film but the writing never gives their character's the chance we wish they deserved. In the tradition of "Caddyshack" and "Bachelor Party" this film is hilarious regarding the war between the snobs and the slobs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b86a9d51684ec1b32463b665831b57a3129662a374ec3dea93e6935bd7357ccb
+size 549

@@ -1,1 +1,3 @@
-I was surprised to catch this on TV Friday, and I enjoyed it. Between the presence of Bobbie Phillips and the numerous references to everything that could be considered "cyberpunk", this was a fun movie to watch. I enjoyed the story, which reminded me of a book I've read ("Earth", David Brin), and was fun to see on TV. Bobbie looks great, but I also enjoyed her performance as Kam because she did seem different from everyone else. But the greatest thing about this movie was the atmosphere that has been described in books by Gibson, Sterling, and others. It was just fun to see it on TV.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c2d5c36f0c4176122846ba5cf921923915be0788b5b22427489c0b44aa4ae3d
+size 591

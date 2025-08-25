@@ -1,1 +1,3 @@
-The worst movie I have seen since Tera Jadoo Chal Gaya. There is no story, no humor, no nothing! The action sequences seem more like a series of haphazard Akshay Kumar Thumbs-Up advertisements stitched together. Heavily influenced from The Matrix and Kung-Fu Hustle but very poorly executed.<br /><br />I did not go a lot of expectations, but watching this movie is an exasperating experience which makes you wonder "What were these guys thinking??!!".<br /><br />The only thing you might remember after watching it is an anorexic Kareena in a bikini.<br /><br />The reason why I did not give a rating of '1' is that every time I think I have seen the worst, Bollywood proves me wrong.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c57d98c858cd6f2dc540cba33b432fdd69f70b5ef1a1f9220cac2c825054cd0
+size 685

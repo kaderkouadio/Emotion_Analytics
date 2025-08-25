@@ -1,1 +1,3 @@
-Woody Allen's nostalgic look at the golden age of radio through concentration on one ordinary family and the variety of favorite shows among that household is both interesting and entertaining. It doesn't possess the usual cleverness or snappy dialogues and comedic moments of most Woody Allen films, but it achieves some emotional elements which are not present in many of the 80s and 90s Woody Allen flicks. Radio Days isn't the best film to watch from the writer/director but it definitely isn't the worst. Its good to watch this film to get a sense of some different work Allen did. I liked the use of the old age music and the impressive cinematography from Carlo Di Palma and Susan E. Morse's editing was also good. -- IMDb Rating: 7.3, my rating: 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:07978ba05b3ffa5a27b1e95ea099cbe7df262306db9ac455eba679d784b3e47b
+size 758

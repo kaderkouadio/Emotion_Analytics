@@ -1,1 +1,3 @@
-*****************Possible spoiler******************<br /><br />Intense and sometimes shocking movie about two ignorant men who decide to rage their own private war on women. The sense of 'justice' our main characters employ taught me that two wrongs don't make a right. Be warned; the ending may leave a knot in your stomach, but a lesson on the way not to treat people who have done you no wrong. Brilliant film making.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afc35646ae06b08dac97a9f27ff925a155f3339a890096f46033772d10faee4
+size 420

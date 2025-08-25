@@ -1,1 +1,3 @@
-L'Auberge Espagnole is full of energy, and it's honest, realistic, and refreshing. Not a comedy or drama but more a slice of life movie about this particular group of very interesting but still normal young people who share an apartment in Barcelona for one year. Beautifully photographed with a nice soundtrack. If you're older, this movie should bring back a flood of good memories. If you're young, learn by this example.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c02351b66ad3d5c5e256902ea9ad01505e137cd4fce1b3f267127a124e93996
+size 424

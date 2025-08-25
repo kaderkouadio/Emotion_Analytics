@@ -1,1 +1,3 @@
-This is an excellent movie. The cast is a great mix of characters and the story is decent. The movie is basically about a well-accomplished doctor stealing the bodies of dead brides and taking them to his home. Once the bodies are at his home, he removes stuff (i hate to use such a general term, but i forget what it was he removed) and puts it into his wife to retain her youth. Then a reporter, Patricia Hunter, investigates the situation and begins to find answers on why the brides were dying. She takes a trip to the doctors house and the interesting things begin to take place. Definitely watch this oldie, but goodie if you can.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13399c9facd07c3210a0ae0c5b3a9b1f3993245a97377a4620f7f949501a8503
+size 636

@@ -1,1 +1,3 @@
-This is supposed to be the first Norwegian slasher. It is the first norwegian movie to be worse than Dis, that's it. The makers should watch Braindead and Cannibal Holocaust and learn what a slasher is. I have no words to describe how much this suck. And now my waste of time on this POS is up.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f6462dbd63e3d2fccc590f0b0118cdf44e4b86f80d05134d40f59e06ed5c64f
+size 294

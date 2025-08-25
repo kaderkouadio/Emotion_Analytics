@@ -1,1 +1,3 @@
-"After the Sunset" - Pierce Bros- nan, Salma Hayek, Woody Harrelson, Naomi Harris, Don Cheadle. Master thief Max (Brosnan) and his lovely accomplice Lola (Hayek) are retired on a paradise island. Or so they say. FBI agent Stan (Harrelson), whose tracked them there and isn't buying that for a minute, reckons that MaxÕs sights are on a fabulous diamond about to arrive on a touring cruise ship exhibition. But a local gangster (Cheadle), who also has plans for the diamond, befriends Max and now the twists and double-crosses begin. Compared to Brosnan's Õ99 "The Thomas Crown Affair," this is heist film-lite, having less-than-satisfying details and various lapses in logic. Brosnan, however, is just so cool, and Hayek breathes sexuality nonstop
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f27330aba52cea3c4495159a941ea9c558712bc4d5d21006482551e5c39a29
+size 749

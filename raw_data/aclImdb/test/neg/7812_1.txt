@@ -1,1 +1,3 @@
-To be fair, I couldn't bear to watch this movie all the way thru, so I have no idea if it suddenly gets better half way thru the film. But the first 30 minutes or so are amongst the worst I have seen in a while. Children under twelve might get a kick out of the poorly written, acted, and directed slapstick humor, but adults in full control of all their faculties should steer clear of this stinker.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaede99300125feac06555ce4b7cf84b425f0d59f364fc5684cfc1352721a231
+size 400

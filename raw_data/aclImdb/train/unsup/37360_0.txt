@@ -1,1 +1,3 @@
-ok, Tank is under the curse, and he is making a puppet, which is going to contain his life essence... I understand this part. what I don't understand is why is he carving a humanoid body, when he ends up as a TANK!?!? I Don't get it.... also the use of old footage for the puppets is just bad. I usually enjoy full moon films.. . I did not enjoy this.....
+version https://git-lfs.github.com/spec/v1
+oid sha256:406969a9ef497aec92e72a9612a7d2db8ddda9952f11d55d230484ff91feaf91
+size 355

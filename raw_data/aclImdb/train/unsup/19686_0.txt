@@ -1,1 +1,3 @@
-This is the quintessential example of a bad book being turned into an excellent film. The novel was an international best seller which "ripped the lid off" a small town. The movie explored the psychology of the characters and featured some superb acting as well as a musical score that ranks with the very best. Franz Waxman flavored the music with a touch of Aaron Copland and came up with a real winner. Photography was stunning, and the movie makes great use of wide screen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77886a5366a21e1d71d3c9a95fadc1d1903b8c639bf4a1675728e3c926cb9a79
+size 477

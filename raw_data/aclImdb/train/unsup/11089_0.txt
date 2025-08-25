@@ -1,1 +1,3 @@
-There are few things to say about this incredibly stupid movie, but the most important thing is: stay AWAY from it. It's so bad I was about to leave the theater after 15 minutes of it, but I stayed, hoping it would get better (by the way, how come I saw it in a movie theater if it was made for TV?). The acting is bad, dialog is stupid, the premise is dumb, and you actually begin to think that you would be grateful if the woman died. You never really care about the characters, actually.<br /><br />It might be the worst movie I have seen in 2 or 3 years. It is that bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a2cd28c4cc50e958326c52e765b3e7ebc9c575c98e00e58f5d2bbe305c248ef
+size 574

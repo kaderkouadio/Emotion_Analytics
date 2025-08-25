@@ -1,1 +1,3 @@
-I have seen some of the stupidest films ever made, but THIS beats all of them. It doesn't make up it's mind if it want's to be a children's film, a message against poaching or a slasher film. The dubbing is worse than some of the Godzilla films and what the hell were the scenes with that green alien at the begining and closing credits for? The thing wasn't even in the movie! Even I could make a movie better than this with a hand-held camera.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b857316bb8cbe7d5767cf1169055f546d9db3a6ddc1ebcdda1aef715e6bffad
+size 445

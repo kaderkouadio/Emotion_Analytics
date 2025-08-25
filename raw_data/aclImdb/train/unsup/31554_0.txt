@@ -1,1 +1,3 @@
-What a fascinating movie!<br /><br />I loved the style and information. I saw the short version and hope to one day see the longer version. What even the most ardent supporters of the lone-gunman theory cannot say about this film is that it was made based on conspiracy beliefs. On the contrary, every bit of dialogue is based on actual testimony and telephone recordings of the persons portrayed.<br /><br />Director Mark Sobel is neither a lone-gunman theory supporter or conspiracy/truth theorist. Sobel has taken quotations from the historical record and organized them into an outstanding film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11ddaf8b7ebfb9fedcd7228697def9dd1ccbbef77b12cc7872021dcaab8c55b6
+size 599

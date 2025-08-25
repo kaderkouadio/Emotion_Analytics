@@ -1,1 +1,3 @@
-Rarely have I seen a work of literature translated so badly to the screen. The hysterical cast of b-movie and sitcom extras simply make the characters seem like bad Jewish stereotypes. The worst of all is Melissa Gilbert, who you hate from scene one and never develop any sympathy for. Performances like this should be noted and used against actors who wish to work again. All in all, a seedy, low-budget made-for-TV film of the sort that gives made-for-TV films a bad name.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d447b59bf4288c585260f49fc971043f28bced26dd32338aefcb64e158bb99af
+size 474

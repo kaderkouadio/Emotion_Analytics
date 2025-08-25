@@ -1,1 +1,3 @@
-I am quite frankly astonished by the low imdb average for this film. I thought it was a more than respectable suspense thriller. It definitely kept me riveted throughout. Gwenyth Paltrow, who was offered Kate Winslet's part in Titanic at the time she committed to this project, devles into her role as the unsuspecting fiancee with grace and down to earth affability. But this is clearly Jessica Lange's film. Her psychotic mother-in-law is one of the most disturbing characters I have come across in any film. In my opinion this film rates an 8/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5864a2adc3ff02c0b557ecf3b1b7a6e64a19eeb4ecb6a126c75e8336e38387d4
+size 549

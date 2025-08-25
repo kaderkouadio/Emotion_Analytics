@@ -1,1 +1,3 @@
-Nightmare Weekend stars a cast of ridiculous actors with even less of an idea of what is going on than the director had, if you can imagine that. There is no decipherable plot or story, the special effects are a joke, and even the sound is terrible. This film was directed by Henry Sala. It was the only film that he ever directed, and the reason is obvious.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1957beda733cda5bbc4809a3f2978f0bda176c73e78bc33d2a9dc8f9143d3410
+size 358

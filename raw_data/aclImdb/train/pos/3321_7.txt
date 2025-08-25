@@ -1,1 +1,3 @@
-I saw "Fever Pitch" sort of by accident; it was playing on the airplane going over to Europe. It actually wasn't half bad. Ben (Jimmy Fallon) is the world's #1 Red Sox fan, but his relationship with Lindsay Meeks (Drew Barrymore) may strain that. The movie is a fairly interesting look at how world events can affect peoples' relationships. It's especially eye-opening now that the Red Sox have ended their 80-odd-year losing streak. I guess that these sorts of things happen all the time and we just don't tend to notice them. Not too bad.<br /><br />Another movie portraying an unusual relation to baseball is 2000's "Frequency". Check them both out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a8b073d78c61728296bff19405647b5aeba0b3ca4af356664fe5e10b1ac2c71
+size 652

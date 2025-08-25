@@ -1,1 +1,3 @@
-I saw this film and thought it was totally cool. Finally... a chic flick without a bunch of wimpy women. This is the real stuff girls. And guys... this is what we're all about. Thora Birch was amazing. The clothes were killer. Loved it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28807fece327c3989e67a5e45b16c168f44ca86f079ca40533460f505e67d1c8
+size 236

@@ -1,1 +1,3 @@
-Almost no martial arts and what there was, appeared to be simulated by camera. All the fight scenes took place in the dark making it difficult to see the action and the camera angles suggested that someone else was doing Mr. Seagal's fighting for him. Why would one view a Steven Seagal movie other than for the martial arts? In this film, it sure wasn't for plot, special effects, or acting. All of the tension was derived from digital timers. I'd pass on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:486e2a84d265fd767d4c3b06ef3e6a75a9591ea015e1e73efd672035da5f74d7
+size 466

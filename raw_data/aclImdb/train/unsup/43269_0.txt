@@ -1,1 +1,3 @@
-Second to Space Cases, My Brother and Me was possibly the worst show I've ever seen on Nickelodeon. Not only did it have no premise, but it contained a series of the worst actors I've ever seen. Each actor spoke as if they were reading their lines off a wall - broken speech that made them all sound incredibly dumb. It used to pain me, as a kid, to watch this show when it was on and usually I'd have to change the channel halfway through. Suffice to say, none of the actors from the show has gone anywhere, more or less. I can't even remember any of the plots because none of them had the possibility of holding my attention. And the funniest thing of all was throwing in the token white kid with blond hair and glasses. Overall, a poor effort on someone's part.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2fb26153b58cd8abc863c549d22be5b12ed95ec63b57db0ebea7c98f0032833
+size 764

@@ -1,1 +1,3 @@
-I've been studying film half my life, and THE GRANNY is without any question the most abysmal, disgusting movie I've ever laid eyes on. And I've seen some bad movies! Stella Stevens is unwatchable, the script is beneath contempt, and I wouldn't wish this movie on my worst enemy. To be avoided like the bubonic plague.
+version https://git-lfs.github.com/spec/v1
+oid sha256:046934e2c3ee843a13c2048dfd8253a20262c868981a72ae2326f30962ddb4b4
+size 318

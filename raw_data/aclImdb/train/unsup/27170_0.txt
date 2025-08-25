@@ -1,1 +1,3 @@
-His movies may not be the most original but they are the best. He has amazing whitty dialogue and always pics the perfect actors for the characters. This movie is essentially the same as 100 girls (hence the name 100 women) but hey when you're on a winning formula stick with it. The script and acting are second to none and the laughs are plentyful... don't be fooled by the fact it was straight to video because this movie is cinema at it's best!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b134128291d456c74e989eccd426b7231f89c7aaaabcf78a0337b9052f8202b3
+size 448

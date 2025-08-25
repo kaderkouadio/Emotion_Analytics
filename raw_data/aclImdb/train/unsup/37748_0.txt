@@ -1,1 +1,3 @@
-Gary Daniels stars as Kenshiro a banished warrior who takes on Lord Shin (Costas Mandylor) to avenge his father's death and reclaim his bride in this visually appealing yet terrible actioner. Some good sets and a good atmosphere remain the film's only asset.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbd26dc63c3caf11e35d8d6673a065c8e3c1f7f97c059ad1a04dafb537e4eb36
+size 258

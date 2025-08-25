@@ -1,1 +1,3 @@
-It's frequently said that movies can never equal the original book. Well, in this case, not only the movie is not "as good" as the book, but is an insult to the book. I'd rather see Milan Kundera's novel turned on fire than into this "something," which the director probably calls "adaptation."<br /><br />All the beautiful philosophy that asks "is it better to carry a heavy load on your shoulders, or cope with the unbearable lightness of being?" is put aside, and instead, all the movie deals with is Daniel Day Lewis' (I cannot say Tomas) sexual adventures with his dumb wife, his mistress, and his other mistresses. François Truffaut already said it: bad directors make bad movies. Don't waste your time and money. Read the book instead, it's really worth it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1d4b25044d72da0ffde1a355d27ff26743d362c349cee8cfcb50e7e31f3067
+size 765

@@ -1,1 +1,3 @@
-From Wendy MacLeod's play about a 1963 Thanksgiving reunion between a young man and his peculiar family, including a twin sister who is obsessed with Jacqueline Kennedy. Oppressively set in a shadowy house during a raging storm, this head-scratching talk-fest quickly tires both the eye and the ear. The scenario is full of dreary eccentrics, although Parker Posey's 'Jackie-O' is a dark, original creation unto herself. The actress, known for going out on a limb with basically unplayable roles, manages to walk a fine line between comically scabrous and downright scary (which, in an otherwise boring movie, is a triumph). Other performances by Josh Hamilton, Tori Spelling, Freddie Prinze, Jr., and a sadly under-valued Genevieve Bujold are not quite as on-target, mainly due to the sophomoric writing. *1/2 from ****
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4425b7706a03b900f1aed2e0be205228c61ae54bf3dd60189ed4eb0f58b5f4
+size 820

@@ -1,1 +1,3 @@
-Night on Earth... Just another picture that you didn't plan to see, but you just couldn't stop watching when you got to see on your TV set. It's not one great story, but several, and the comical about the driver who doesn't understand the gear box, but lets his passenger drive his car, and the tragical about the Finnish driver whose 14-year-old daughter has got pregnant, is a great mix. Next time it's showing on TV, be sure not to miss it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c9302929a4e1c8d6018bac97b2ae60f1084eacaa88e57d16f2004cf89500b6c
+size 443

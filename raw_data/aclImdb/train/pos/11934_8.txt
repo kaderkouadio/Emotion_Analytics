@@ -1,1 +1,3 @@
-At first you think another Disney movie, it might be good, but it's a kids movie. But when you watch it, you can't help but enjoy it. All ages will love this movie. I first saw this movie when I was 10 and now 8 years later I still love it! Danny Glover is superb and could not play the part any better. Christopher Lloyd is hilarious and is perfect for the part. Tony Danza is so believable as Mel Clark. You can't help, but to enjoy this movie! I give it a 10/10!
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17017f2ddb11f6be8f14547a5364d40056d8da048a2529af96d0634f47556b9
+size 465

@@ -1,1 +1,3 @@
-Totally gripping; the story weaves between ancient myths and legends and present day reality. <br /><br />The characters are engaging, the acting is great, and the special effects are phenomenal.<br /><br />I was reminded what special effects are really for - used right, they really bring a story to life, enhance it, engage your imagination and convey more than could be done any other way.<br /><br />This film stayed with me for days. Full of depth, wisdom, action and adventure. a must see.<br /><br />(I also recommend the "making of" that accompanies the movie).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e3856e3335984583aeed10d7392866de1347a87ca5cc759a27ab99a4d93e829
+size 569

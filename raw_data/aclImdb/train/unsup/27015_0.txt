@@ -1,1 +1,3 @@
-There is nothing worse than this so called reality TV Show, quite frankly I would rather watch the Telletubies.<br /><br />The contestants chosen are normally very annoying, very boring or just think they're God's gift on earth. Having said all this occasionally you get some good contestants, including Jon Tickle, Shiabaz and my all time favourite house mate Eugene.<br /><br />When it first started it was reality, but now people are just coming in being people completely different to what they actually are. There is too much of contestants coming in half way through, contestants coming back, there's too many tasks. Please, Channel 4 don't do another series
+version https://git-lfs.github.com/spec/v1
+oid sha256:856addbbb96055a4d1e95b67a7b539a367a38ddfb478662b737440cfb081a597
+size 664

@@ -1,1 +1,3 @@
-Through rave reviews and an outstanding 7+ rating on IMDb I have finally succumbed to the 'temptation' to watch this film. I found myself waiting for something amazing or even slightly interesting to happen and then the credits rolled. It is like watching paint dry but less happens. I have no idea why anyone likes this movie, there are two locations in the whole film, which is usually an intriguing quality, but there needs to be more. Why make this film? Why watch this film? Why even bother writing a review for this film? These are questions that were obviously answered by acting first and questioning the action afterwards.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f4ff8580408ec3a42c69db3fd9c432866f1970dd6a00da0885727145706b6f4
+size 631

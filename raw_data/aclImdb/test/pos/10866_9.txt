@@ -1,1 +1,3 @@
-Here we've got an intelligent mixture of typical hongkongmovieshootouts, worlddestructionthemes and intelligent filmmaking. Not that the script has not its big holes and a few specialeffects are a bit cheaplooking. But the cinematography is a optical treat and the soundtrack is first rate. The blend of fast actionsequences and colorful slow, sometimes nearly poetic parts, has no comparison in its kind of movie, so a classification is rather hard. The closest genre is a disaster or terroristmovie with deeper human and political notes than usual. Well worth to be seen worldwide in cinemas. But i am hoping this for so many other (mostly asian) movies before and nobody seems to believe me. Unfortunately.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a0dad2e82b21818f6828b8f5bd4c2075f24c49c14e12319fd82189e6096fea
+size 709

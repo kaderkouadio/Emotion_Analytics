@@ -1,1 +1,3 @@
-I love this trailer, brings me back to the horror movies of the 70's and early 80's. Films like Nightmare on Elm Street, Friday the 13th, Children of the Corn, Halloween, films that had a lot of memorable villains were so much fun to watch. I don't like a lot of the new horror movies today like Hostile, The Descent and a lot of the films that Lionsgate puts out. There is so much over the top, icky, gross violence. Watching this preview, I felt like a little kid in the theater again. Even the actors kind of have a nostalgic look to them. Actor David Morwick reminds me of Tommy of Eight is Enough who I had a huge crush on. She, (Vigdis Anholt) reminds me of Glenn Close from Fatal Attraction - fun stuff!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f94fa2c4ac845a4e546f1bf48152d60f5b805fd40a6b0be1d603e423d2134278
+size 710

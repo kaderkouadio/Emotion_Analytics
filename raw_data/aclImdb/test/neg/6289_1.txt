@@ -1,1 +1,3 @@
-This is just a very bad film. Miles looks as if she is in pain during the sex scenes and the acting is wooden. It also drags on slowly and never really finds a point to it all. One of the worst films that I have ever seen!
+version https://git-lfs.github.com/spec/v1
+oid sha256:13c1d16a5f8b91b04e50a1458985c36983a4bef7bb3fab9294276c9de5e8540b
+size 222

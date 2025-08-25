@@ -1,1 +1,3 @@
-Just plain terrible. Nick and Michael are WAY better actors than this. A "C" rated flick at best. The plot was weak and the characters totally undeveloped. Even the film and sound quality was terrible. I suppose that these were all young actors at the time and this script just filled a job nitch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8305b10393bfb6b98b1c2e4b2013229d31c781fb43b1d8bac61cfc0b29fc9809
+size 297

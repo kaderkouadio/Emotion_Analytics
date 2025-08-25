@@ -1,1 +1,3 @@
-The master of cheap erotic horror, Rolfe Kanefsky, finally makes a movie that doesn't go straight to the Playboy Channel. "The Hazing" borrows heavily from everything that came before it from Nightmare on Elm Street to Evil Dead, but still manages to do it with enough humor to make it watchable... just barely. The characters are cardboard, the dialogue is wooden, the story is paper-thin and the actors couldn't act their way out of a grocery bag. Put that all together and you have a pulpy ball of mulch for a movie. Sometimes, when I'm bored, I like to eat paper. Watching this movie is a lot like that. Chew on it for 90 minutes and you're left with a weird taste in your mouth and no nutritional value.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d524e625207ccfaa616b2f826b783083a0907f8f980f1678c7dd6d45800b14
+size 708

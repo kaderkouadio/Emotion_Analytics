@@ -1,1 +1,3 @@
-What was a great movie in 1932 is still a good movie in 1999. In the Grandest Hotel of them all as "People come, people go. (but) Nothing ever happens." This is a story of a day at the hotel. Nothing out of the ordinary occurs, except lots of drinking, gambling, a love triangle, .... This film is one of the last big-budget "studio" Hollywood movies from its era (20's-30's) and is frequently studied for both this aspect and its photographic techniques (like the revolving doorway). The two hours is well worth it. Lionel Barrymore's performance is also really memorable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dc468b328d1ece90d910210031855c965bdd0e179c74781acab1631b827e3e4
+size 573

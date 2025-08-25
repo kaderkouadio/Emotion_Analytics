@@ -1,1 +1,3 @@
-A `Wacky Chick' flick. A beauty contestant winds up dead and the Usual Suspects are rounded up. Another entry in the vein of the Texas Cheerleader, this is an average example of its type.<br /><br />Yasmine Bleeth turns in her usual wholesome girl performance, and Jill Clayburgh does a good job as her stressed-out slightly obsessed mom.<br /><br />Some mildly funny moments listening to the vapid self-serving PR coming out of contestants' mouths. (`I'd like to own a restaurant so I can give left-over food to the homeless.')<br /><br />You have to ask yourself what people are using for brains when they think a cheerleader spot or beauty crown is worth killing for!<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd92a4356e03993579a57c7be25f49773571e4401d43596ba8b76b9b9ceb3c47
+size 682

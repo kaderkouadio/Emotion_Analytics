@@ -1,1 +1,3 @@
-This outrageous comedy was a box office smash in Korea for a reason. It was hilarious and poignant! The direction was terrific as the tone was always right on, and placed every event into the evolution of the story. The absurd slapstick humor hides the statement about barriers of social status and changes to one's life. The performances make this film even more outstanding.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea2ecb655aff875747c4b42cdc31ed25366a744541deb90f6924256f5cc1715c
+size 376

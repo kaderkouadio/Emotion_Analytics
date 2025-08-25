@@ -1,1 +1,3 @@
-This movie is a real turkey. While almost nothing happens, R. Burton looks scared from the beginning until the end. The girl who plays Regan is miscast (I wouldn't rely on her to save the world), the "new age" message is absolutely laughable and the whole movie is as pretentious and empty as one of Nicholas Roeg's. One has to be VERY IMPRESSIONABLE to like (or even be scared by) this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fe97ecc93f574026f3f36f3911d280d2aa47d87291cbc33bb248b722557bebc
+size 391

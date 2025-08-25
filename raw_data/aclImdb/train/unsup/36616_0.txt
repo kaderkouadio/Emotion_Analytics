@@ -1,1 +1,3 @@
-Powder follows a well-established formula: outcast develops special powers, finds love, gets vengeance on his tormentors. Many good movies have been made on this theme. Powder is not one of them - after a promising beginning, it turns into one of the worst films I have ever seen. The film wallows in its victim mentality, and one emerges not with a sense of victory but of depression.<br /><br />Rating: skip this one, see Phenomenon instead.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b54c24e778c8f3941946b5d1826960b00cb137d67ec00ca1b37f1844e115b8d8
+size 443

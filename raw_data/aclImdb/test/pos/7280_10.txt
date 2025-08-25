@@ -1,1 +1,3 @@
-The first thing I noticed about this movie was how well everything was set up. A quality movie all round. <br /><br />I suppose you could love this film just for its action, but I liked it for more than that.<br /><br />This is a pure thriller/horror movie. It offers a more fully-fleshed script than most horror films do. I thought, at least the U.S. version, ended brilliantly, and was great throughout. The story felt honest and brutal.<br /><br />The film has an excellent, tight script that keeps the action moving, with believable characters in largely believable situations.
+version https://git-lfs.github.com/spec/v1
+oid sha256:654805e40061adcfcccfb31e404d95cfb61e7f56d9062800d8eed435d80f3cc9
+size 581

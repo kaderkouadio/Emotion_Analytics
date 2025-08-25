@@ -1,1 +1,3 @@
-Yes, yes, it's an early gay film and it's a film about AIDS. But beyond that, it's just a so-so film. It's just not very fun to watching people dying... and that's just about what the movie is about. Gay men dying of AIDS. On the subject, I would much prefer AND THE BAND PLAYED ON and other notable documentaries which are more effective.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9edcb1adc4a23fff1e723541c0b734e2ea97f0c5c1b5d4a157448263f9907f
+size 339

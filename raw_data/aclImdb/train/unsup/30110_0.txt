@@ -1,1 +1,3 @@
-It's "TV weight". It drags on and on with silly "revelations" and preposterous situations. It's profoundly ordinary and unlikely to make any sense if you think about it at all. I suppose the intent is just to keep you watching week after week with the anticipation that the story will be tied up in 24 episodes - Which should not come as a surprise as THIS IS JUST A TV SHOW. I nearly gave up on it about 10 minutes into episode 1 Season 1 and by the end of that episode I was astonished that THIS was the hot show people had been so impressed by... I've seen the next two episodes and parts of episodes 4-12 (My wife is watching the series - Her review would be, at least, Luke-warm but she does just like to veg in front of the TV).<br /><br />Watch a bad movie instead. It won't last as long.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93153666e1b29fca84987e7db721a0c3f22a766a085bd7d8297ebdcc7d10247e
+size 795

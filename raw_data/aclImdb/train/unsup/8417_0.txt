@@ -1,1 +1,3 @@
-A very bad adaptation of a wonderful short story by master fantasy and sci-fi writer Roger Zelazny. None of Zelazny's many other novels or shorts were made into features in his lifetime, and this film is probably why. The Sci Fi Channel is currently threatening a TV version of Zelazny's Amber series (Nine Princes in Amber, etc.) Let's pray it is light years away from this turkey.<br /><br />If Stephen Spielberg is reading this, check out Zelazny's Jack of Shadows or Doorways in the Sand.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b25b1e61b54fc487222514d6a2a6c9e08609a53f421022a64aacb5f1e7209c82
+size 492

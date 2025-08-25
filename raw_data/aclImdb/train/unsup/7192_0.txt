@@ -1,1 +1,3 @@
-Kevin Hooks doesn't hit a wrong note in this very early performance. No cuteness, no mugging; just a real little kid who finds something in his life worth fighting for. Surprisingly gritty location photography, especially for TV. Watch this one with your kids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1566ba3772be34585774e2e5656d17acf3914ae60efb2c9122b9deff40d38d4
+size 260

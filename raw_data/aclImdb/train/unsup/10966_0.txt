@@ -1,1 +1,3 @@
-Edward Burns likes Woody Allen. Edward Burns is a very clever writer. Woody Allen is a very clever writer. Both Edward Burns & Woody Allen are from New York. Woody Allen does not appear in "Sidewalks of New York." I expected Woody Allen to walk on the set at any time during "Sidewalks of New York," but Woody Allen does not appear in "Sidewalks of New York." Edward Burns stars in "Sidewalks of New York." Imitation is the perfect form of flattery. Flatter yourself, Edward Burns; you have touched graces with a master (on the sidewalks of New York). Good Job!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f04cd891e8c2cb6e9c255974fdb0b0ceee3902f27a4e68a75e3805ed3c116bb2
+size 561

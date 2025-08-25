@@ -1,1 +1,3 @@
-Par for the course, regarding Troma films. Got a few chuckles from me just out of pure silliness, but it's a one-joke comedy movie with some action and cartoon sound effects thrown in for good measure. Not the worst, but I didn't have a good feeling about myself after watching this movie in it's entirety.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc193c1e944c7bc947c0b22ddc78113337f733a3ad33a388d21b3d2870c9b5c2
+size 306

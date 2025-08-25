@@ -1,1 +1,3 @@
-I just finished watching this. I have to admit, in terms of tone and emotions, this is definitely the heaviest animation that I have seen. In this sense, Oseam bears some similarities with Grave of the Fireflies. This is not to say, however, that the movie is sad through and through.<br /><br />There is no point in revealing any of the plot - suffice to say, the journey is ultimately fulfilling. In terms of animation quality, it is second to none. It is especially impressive considering that it was hand-drawn. Last but not least, this is not your average Disney flick - teens may be able to appreciate the story, but younger kid most likely cannot handle it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ed5142c696f04f19a6d1518b5bb547e851d18c3e62c50138dc2def5ee70ebb
+size 664

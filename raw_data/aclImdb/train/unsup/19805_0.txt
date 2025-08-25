@@ -1,1 +1,3 @@
-I just watched this movie because Hopkins was in it, I expected another boring Hollywood style comedy. But it turned out to be a very funny movie. It was very entertaining to me. Good acting, good story (the side story fits in perfectly also) and good jokes. Don't watch this movie if you are narrow minded and can't appreciate humor about sex, dung and bodily fluids.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4656858760708a25d9c068741625db2265941f577a84c294b84d052598028114
+size 368

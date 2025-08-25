@@ -1,1 +1,3 @@
-I saw this film knowing absolutely nothing about both it and its stars, Chris Farley and David Spade, and I have to say that this film is a comic classic. It is so stupid at times that it can only be hilarious. Farley is brilliant as the bumbling idiot who takes to the road with his dad's right hand man (the equally excellent Spade) to find the funding to save the families 'auto parts' business. Relax, put your brain on auto-pilot and soak up the fun. A great supporting cast features film favourites such as Brian Dennehy (Cocoon), Rob Lowe (Wayne's World) and Bo Derek ("10"). Highly recommended for a good laugh.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d805f7ecc6ef22d2a21a2e9a7371385b2394036ce7c9d58ab5d1a5179648f3eb
+size 619

@@ -1,1 +1,3 @@
-Gary Busey is superb in this musical biography. Great singing and excellent soundtrack. The Buddy Holly Story is a much better movie than La Bamba. From reading other comments, there may be some historical inaccuracies. Regardless, it is a fun toe-tapping film, and a good introduction to Buddy Holly's music.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e65e9cabec18add65d2b717298f87fdab4bb1391547f928b545256c0614dabd
+size 309

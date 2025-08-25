@@ -1,1 +1,3 @@
-The person making taffy in this movie was so realistic. That person must have been trained so well! If I were buying taffy from the store featured in this fine romantic comedy, I would demand to be served by the guy who trained the person who played the guy selling taffy.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a9d648451e828e9995dcd910e725db39ea363ad1e3b04afe525cbb4c0e9ac73
+size 272

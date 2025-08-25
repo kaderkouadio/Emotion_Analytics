@@ -1,1 +1,3 @@
-Yuva is a sheer waste of time. Apart from Abhishek's performance, there is nothing to watch. There are too many characters in the movie and which makes it very irritating to watch, especially Kareena. The movie has absolute zero entertainment value and it is filled with unnecessary violence. The movie doesn't even seem motivating in any sense to the youth. The characters look so unreal that many times it made me think that how can someone take this movie seriously. You got to be insane to appreciate this movie as good one. I am rating it as 1 just because I couldn't find any negative ratings in the drop down menu. Otherwise it deserves -5.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d4ba0b1ae776c6c9e93cf50dbc61c8d720b7588d8d3ed2afd38fbf03fceec03
+size 647

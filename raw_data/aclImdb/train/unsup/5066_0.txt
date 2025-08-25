@@ -1,1 +1,3 @@
-The young Victor is irresistible to Clara and Helena, and you can see why. This man is the sexiest thing I've seen on the screen in a long time. Great story, Almodovar style, a different perspective of Madrid, great acting, but Liberto Rabal stands out amongst all of it. Very tasty indeed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cacfc149e9a084a4947be7a8f6b56e083ee5bb7925ebc41ec42e6ea76ffed3c1
+size 290

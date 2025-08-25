@@ -1,1 +1,3 @@
-This game is a true gem -- gorgeous graphics, extremely engaging and entrancing story. The puzzles are not too difficult, but are fun and fit well into the story. I'd encourage EVERYONE to play this game -- yeah, I'm talking to YOU! There's philosophy and humor, excitement and mystery, and most of all -- well, ADVENTURE. It's fun. It's interesting. You'll love it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab5615b494bea7cd70636f51b13dd69bef5ecbbebde5e5cdb4a573bb96897d1b
+size 366

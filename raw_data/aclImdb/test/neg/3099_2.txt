@@ -1,1 +1,3 @@
-What is the story what is it on the screen. At first I must say, do not touch this movie, it is for your own best (it sucks). And really what is the story, in the beginning it seems okay but after ten minutes it all gets worse. And that is not all, you can hardly see what it is on the screen it is too dark all the time.<br /><br />Do not touch.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ffb3371728647ae61e18e49fcd4e99fa01d649d2282e82ef04f4c9264876233
+size 346

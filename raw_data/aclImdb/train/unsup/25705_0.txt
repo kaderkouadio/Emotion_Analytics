@@ -1,1 +1,3 @@
-This movie was good.....but i suggest you see the original.(Walking Tall) I find that this movie shows Buford Pusser as just a fantasy movie character, and not the real tennessee sheriff he was. Bo Svenson was terrible as the role of Sheriff Buford. Why didn't Joe Don Baker act in the final two? They probably would have been alot better if he were in them.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fce5b2fc48fc37c0f8ff62e4e097a92a05b1860039c3105a7b80b31c2e78f33
+size 358

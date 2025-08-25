@@ -1,1 +1,3 @@
-Three likable and spirited actresses are stuck with weak material here. The film sags in the first hour because there is too much exposition (and some attempts at social-drama undertones), and it doesn't much improve when the actual heist begins. There is not much fun to be had here. Don't bother watching this. (**)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5ed96036331f1b11e227c071d4741d9fa14a0cb0c56e83ffbba1f90b2a833c5
+size 317

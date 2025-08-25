@@ -1,1 +1,3 @@
-Elissa Down has used her personal experience of growing up with two autistic brothers, one of whom she describes as a "Rainman" character, and the other the inspiration for Charlie, the autistic and ADHD-afflicted brother of Thomas. The story is touching, sometimes side-splittingly funny, sometimes tragically upsetting, but ultimately uplifting. There isn't a weak performance, and as usual Toni Collette gives a believable portrayal of a mother whose strength holds her family together. Luke Ford is amazing as Charlie, reminiscent of Leonardo Di Caprio in "What's Eating Gilbert Grape?" It's good to see an Australian film that tackles such a difficult subject, and does so brilliantly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7da0cde4eb5c80120fc012278d7b5f7f9fb372ec38230818574601e513017676
+size 690

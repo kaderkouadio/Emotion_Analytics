@@ -1,1 +1,3 @@
-One of the finest films ever made! Why it only got a 7.6 rating is a mystery. This film is a window into the world of the black experience in America. Should be mandatory viewing for all white people and all children above age 10. I recommend watching it with "The Long Walk Home" as a companion piece. If you think Whoopi Goldberg's work is about "Homer and Eddie" or "Hollywood Squares," think again. Don't miss this movie, which should have won the Oscar. (And read the book, too!)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d81e7e9de47ecd5f01e71c19df80f8f2c5be35a82900867d3ad06fe5a0f94c8
+size 484

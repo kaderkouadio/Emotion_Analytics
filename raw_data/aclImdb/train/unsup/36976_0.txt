@@ -1,1 +1,3 @@
-There's no doubt that The Waterboy will be a hit. It wasn't with me though. It's not that I don't like Sandler. It's just that I found him annoying in Billy Madison and a little annoying in Happy Gilmore. This movie shows Sandlers' truly annoying side.<br /><br />If you're going to see The Waterboy because of the physical hits don't bother. I didn't see ONE hit in the movie that they didn't show on TV. I would recommend the movie to kids under 12 (Or adults who are waterpeople).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aaca272a19757f18eba329143862ac4ab9959624baf8b70d37c3f3b6d89bd03
+size 483

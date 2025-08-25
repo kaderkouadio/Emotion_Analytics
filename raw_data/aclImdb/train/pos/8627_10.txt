@@ -1,1 +1,3 @@
-My god ! Buttgereit's masterpiece is one of the best movies I've ever seen. Closer to Peter Greenaway and Jean-Luc Godard's movies, this one is really disturbing but not gruesome as the Nekromantiks. All the little stories have a deep philosophic interest and the directing is totally inventive, in spite of the lack of money (see the "bridge" sketch). Highly highly recommended !
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c49d637777f9bb7fc762ff5fe44f3c33b5bbfc6b3847a8ba4079ad7f76f9457
+size 380

@@ -1,1 +1,3 @@
-For any person that grew up in the late 70's and 80's, like myself, with the notion of punk rock, anarchy, and social dysfunction, I think that The Anarchist Cookbook closely reflects the confused geopolitical ideas that many young people have shared throughout the course of time.<br /><br />As children, truth and justice are basic instincts, until such a time that society impedes upon and clouds the notion of truth through the perversion of the soul. Puck clearly struggles with this confusion as he transitions from child to adult, and explores the sociological gamut.<br /><br />
+version https://git-lfs.github.com/spec/v1
+oid sha256:25c8cd18d6f2e6b05e040d2c12cd5264224eac4e0afa5365b6a0a5f56b1c65af
+size 586

@@ -1,1 +1,3 @@
-What a strange atmosphere is being created in the streets and on the Golden Gate Bridge of San Francisco in this exciting action picture. Although the characters and the story are in fact bad, it still has a certain cult-flair.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb7c51e6276f0972c61201910d485c81e487f972da1c04325570792e2d3173f4
+size 227

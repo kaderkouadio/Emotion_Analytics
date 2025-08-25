@@ -1,1 +1,3 @@
-This movie is so bad, in every way, that the one line summary just about covers it!<br /><br />There's no action, no excitement, no special effects, no script, no acting, no nothing. So do yourself a BIG favor - and do not watch this so called movie!<br /><br />I regret it bitterly and it's the worst movie experience of my entire life. YUK!
+version https://git-lfs.github.com/spec/v1
+oid sha256:571e44aa362966ccb59d5303c0b691005533a3d9a5e310d2660730da080c0bd6
+size 342

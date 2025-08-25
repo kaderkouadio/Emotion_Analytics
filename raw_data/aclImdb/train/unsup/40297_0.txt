@@ -1,1 +1,3 @@
-Scarcely worthy of comment, except to say that "Eyes Wide Shut" would have been much better if Tom Cruise's character had a similar fate to Mr. Cleves (to the tune of the high piano note playing over and over).<br /><br />Although I was enjoying it at first, I began to suspect that something was awfully awry during the drawing room scene where 'the accident' was revealed in the news.<br /><br />It was all downhill from there
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c3283a8c97a672ea1c4e2e883c92eebf89493421ab8a256414567f4ec800e9b
+size 428

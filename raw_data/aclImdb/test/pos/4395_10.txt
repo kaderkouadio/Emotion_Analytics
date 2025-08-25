@@ -1,1 +1,3 @@
-This film makes Clooney. All his films combined before this have all been based on the same character. This film he transcends his previous body of work and proves his capability as a top notch actor. The soundtrack defeats most one-handedly. The brothers have truly made a classic. One to own and watch repeatedly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb4091e044bca6232bdf246d533c2c8fe7102a0896b32addeccb0a1f65198d0d
+size 315

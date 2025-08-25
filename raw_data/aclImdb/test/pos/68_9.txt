@@ -1,1 +1,3 @@
-Julie Andrews and Rock Hudson were great in this movie / musical. The opening song by Ms. Andrews, "Whistling Away the Dark," will always be in the back roads of my mind. The plot line during World War I, is great and suspenseful one. If you are a romantic, you will love this movie. This is a movie that I always enjoy to see again and again.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c8095086ab1eba899e5c21a1484ab15032666661e94fc3382047897ee55b8ed
+size 343

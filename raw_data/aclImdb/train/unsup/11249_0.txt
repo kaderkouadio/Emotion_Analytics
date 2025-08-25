@@ -1,1 +1,3 @@
-this is what made hk films memorable in the early 90's. I love this film when i first saw it, and once i watched it again it got even better. Pure slapstick comedy is included, and great acting by the actors/actresses. Stuff like the 'wink' that tony lau kar fai gave followed with a mesmerizing wing going pass bridgette lin, you dont see that stuff anymore.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2a9178b7c6868cde0389819063ef7ab7a6957bdfc44b8e7bbcda2e03f869799
+size 359

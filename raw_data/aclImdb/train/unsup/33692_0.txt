@@ -1,1 +1,3 @@
-I hated Adrenaline Rush: The science of Risk. Not that I hate documentaries, I just hated this movie that's it. No but seriously, the dialogs were boring and there were only 2 positive things I found in this stupid documentary : The stunts were crazy and they were performed in nice places. The last positive thing in this documentary are the parachutes and engines were captivating . Unfortunately, these 2 positive things appeared only 4 to 5 times throughout the movie. You might like it, but I didn't. It's not worth paying to watch this piece of crap. If you really want to see it, wait until the DVD. And I'm not even sure about the a DVD Release.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d07d9dc38b49a51fc8354dd7148b7017d7fb668e790637671779e9a3d2162237
+size 653

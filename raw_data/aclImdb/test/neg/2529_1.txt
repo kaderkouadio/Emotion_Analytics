@@ -1,1 +1,3 @@
-I can't believe it! Were they crazy in filming a movie about Connecticut in southern California? For god's sake, there's Palm Tree's everywhere. In one of the opening scenes a guy says "Welcome to Connecticut" and throws down a newspaper, the newspaper says something like "Greenwich Herald". Greenwich Connecticut doesn't have a "Herald" it has a "Times" as in "Stamford Advocate AND THE GREENWICH TIMES." (Refering to the Stamford, Connecticut Newspaper). Maybe the film makers should have done a little research, I mean my god, at least get the name of the newspaper right, or film in locations that look at least remotely like Connecticut.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a82984ca9ed24ae5c3ea0cdca7f217fa5320f5cb26b7a89ca2fdd4a6d92a7b
+size 643

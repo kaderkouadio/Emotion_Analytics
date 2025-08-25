@@ -1,1 +1,3 @@
-Fragglerock is excellent in the way that Schindler's List was excellent. A Great watch for children and adults of all genders. Big noses can be seen as hinting towards phallic symbols, in the same way that H.R. Puff N Stuff had hinted towards marijuana smoking. Your kids will love this movie. I enjoyed it very much as a child. My father showed me this movie as a child. He enjoyed it as well and pointed out that the exaggerated noses were phallic symbols. Although at the time I had no clue about what those were. The movie is comedy and adventure. The storyline is wacky and cheerful. I and you shall enjoy this together.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49d2ae1ad83c2d2d1718adae7831085eb5da3f3b8da253c2d51867ac777f7afc
+size 625

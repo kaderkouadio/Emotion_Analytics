@@ -1,1 +1,3 @@
-Set in the Japanese gangster underworld, Sonatine gives insight into not just Kitanos Murakawa character, but also Japanese culture and behavior, which is quite different from the Scorsese school of western films. Sonatine presents a real story of the mobster tired of a trade he is being squeezed out of by rivals. Kitano is clearly a "less is more" type of actor, but more is shown in his gaze than any other actor, something anyone knowing "Beat" Takeshi's troubled history will understand. Takeshis stand up history also comes across in Sonatines several humorous moments, such as the William Tell sequence on the beach. The cinematography is also absolutely beautiful, nice and simple static shots plus some pretty locations, such as the beach. Sonatine is recommended for its mixture of action, humour and poetically alternative performances.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c22a3c6de263b875a88b3e7edef22cba6773cf3991a309a8318d443fdca73b5
+size 848

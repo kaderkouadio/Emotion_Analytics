@@ -1,1 +1,3 @@
-This is probably the most amateurish commercial film I've ever seen. With the possible exception of Lance Henricksen as Long John Silver, acting isn't even passable. Costumes look more as if they were made with high school production rental in mind, although they are generally immaculately clean  even those worn by "pirates" of the lowest rank. Colonial wigs look as if they might have been included with Halloween costumes at Wal-Mart.<br /><br />Avoid this one at all costs. It hasn't any saving grace except for a few good camera shots. The story lacks even the basic imagination of the Robert Louis Stevenson book. If you want to see a worthwhile and fun version, get the 1950 film with the great Robert Newton.<br /><br />I'm still wondering who ever told these Asylum people they are movie makers.
+version https://git-lfs.github.com/spec/v1
+oid sha256:574f2af5f8861693c21ce0e80989f9220885280c3cc34b3608d5ccc7d7ea30d0
+size 807

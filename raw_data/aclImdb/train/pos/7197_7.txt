@@ -1,1 +1,3 @@
-There have been several films about Zorro, some even made in Europe, e.g. Alain Delon. This role has also been played by outstanding actors, such as Tyrone Power and Anthony Hopkins, but to me the best of all times has always been Reed Hadley. This serial gives you the opportunity to see an interesting western, where you will only discover the real villain, Don del Oro, at its end. The serial also has good performance of various actors of movies B like Ed Cobb, ex- Tarzan Jim Pierce, C. Montague Shaw, eternal villains like John Merton and Charles King, and a very good performance of Hadley as Zorro. He was quick, smart, used well his whip and sword, and his voice was the best for any Zorro.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfb568846a771be9def40888a157236933547e8607d9b1ecde33b8d1b1c17344
+size 699

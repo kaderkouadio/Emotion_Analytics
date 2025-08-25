@@ -1,1 +1,3 @@
-This movie is just so good! Despite Carmen Electra, this has to be one of the better films I have seen in awhile. Jamie Kennedy is just amazing, and Loren Dean plays an insane spoiled movie star very well. The plot is great as well. It's all very real which is scary. It says here that it's a drama, but this is one of the damn funniest dramas I have ever seen. Go check it out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d75c291750304ac4444a07f6b5c8b70f24eb3782b741d83fc03235e49645045a
+size 378

@@ -1,1 +1,3 @@
-Despite of the success in comedy or drama, the Turkish directors are failure in horror-thriller. "Okul-D@bbe" are good examples for the awful horror Turkish films.<br /><br />But if you watch "Gen" you will understand that it is a strike. The atmosphere of the movie is impressive and dark. Also the special features are colorful and not cheap. The soundtracks fit the movie, but the script is not totally perfect and the theme of the movie is ordinary.<br /><br />As a result "Gen" does not add any difference to horror movies, but it does not disappoint thriller fans. In this respect it is a success for Yesilcam and Turkey. (7/10)
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0eb4194c62e2f0777d161402fe3d4eff9e99cee2e75492fa1687ddef0e5e78d
+size 634

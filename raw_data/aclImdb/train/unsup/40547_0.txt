@@ -1,1 +1,3 @@
-This movie was very basic in the sense that nothing was developed in every sense of a plot . There was no conflicts in the story really. Let me just say that there was no beginning, middle, or end . And when it was over you felt like all you did was watch nothing evolve into nothing.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5be3250cadef33299f092d388ce696f3c0684b8610ba9998997b541d320ca4eb
+size 284

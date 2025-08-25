@@ -1,1 +1,3 @@
-Easily the best political movie in the past 20 years. If you watch this movie and are not moved by the story of the abuse and the archbishop's fight against it, you need to go to a doctor to see if your heart is still in your chest. While it is a moving film, it is also very disturbing because of the graphic nature of some of the abuse suffered by characters in the film. A must see for Catholics. While the events depicted in the movie are true, keep in mind that there are exaggerations and omissions. Don't believe everything that is in a political movie as fact. Check out the story yourself from respected sources on both sides of the argument.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c4954106469dd56ff0f0e3f8ef79275525aa10988995b7f8b8e9c42da13b30c
+size 651

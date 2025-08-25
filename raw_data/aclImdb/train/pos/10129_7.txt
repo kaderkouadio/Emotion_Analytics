@@ -1,1 +1,3 @@
-And that's how the greatest comedy of TV started! It has been 12 years since the very first episode but it has continued with the same spirit till the very last season. Because that's where "Friends" is based: on quotes. Extraordinary situations are taking place among six friends who will never leave from our hearts: Let's say a big thanks to Rachel, Ross, Monica, Joey, Chandler and Phoebe!!! In our first meet, we see how Rachel dumps a guy (in the church, how ... (understand), Monica's search for the "perfect guy" (there is no perfect guy, why all you women are obsessed with that???), and how your marriage can be ruined when the partner of your life discovers that she's a lesbian. Till we meet Joey, Phoebe and Chandler in the next episodes... ENJOY FRIENDS!
+version https://git-lfs.github.com/spec/v1
+oid sha256:c601fa7d1018c8b49565f2dc35d17c7fc3e6c8a4548543409b4039de04f55ecd
+size 768

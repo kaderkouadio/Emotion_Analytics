@@ -1,1 +1,3 @@
-Power rangers, the moronic merchandising television kids show from the 1990s, has got to be the most pointless and ridiculous television show ever created.<br /><br />What exactly is the point of this show anyway, other than to sell second rate plastic nonsense to children? There is nothing even remotely redeeming or interesting about this show in anyway.<br /><br />Look at the costumes, which look like spandex gone bad.<br /><br />The mullet style hair, earrings, and fashions of the early 1990s look completely ridiculous these days.<br /><br />Avoid this show at all costs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:0edf1517305b03ec66cf7fe536d9f7ec704663fed264b5a39f48dd041a728058
+size 580

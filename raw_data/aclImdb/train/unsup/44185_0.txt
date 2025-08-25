@@ -1,1 +1,3 @@
-Comically bad.<br /><br />I watched it for the "Louis Gosset Jr." scene but I didn't get to see it.<br /><br />Otherwise I would have given it a 3.<br /><br />The LGJ-Scene is like in Iron Eagle I and Toy Soldiers where there's some kid who's in waaaaaay over his head and the guys in charge are about to give up, but then LGJ says...<br /><br />"This kid is different! I believe in him! He can be trusted to take on terrorists OR fly a billion-dollar jet into enemy territory, you got to trust me!" and sure enough, he always sways their opinion.<br /><br />The 80's rocked.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e71c04a8292c80948569eb08e47d3276d7f461c97eeac696e9657e7dc2029a4
+size 575

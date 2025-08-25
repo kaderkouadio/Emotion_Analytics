@@ -1,1 +1,3 @@
-I didn't particularly like this movie, mainly due to it's lack of storyline and acting. Sure, we all like gunfights and explosions, but when the movie mainly contains an opening scene and then people having flashbacks of that same scene (I think I counted this happening about 3 times) then it starts to get a bit dull. As far as being an action movie, I have seen better. This one seemed far too generic and dull for the lead actor, especially with the poor supporting cast.<br /><br />Good 'ol Wes has definitely seen better films. (and I don't know why they got that east enders woman in it. after seeing her on naff British TV, it was rather a shock to see her brandishing a pistol rather than a pint of larger or an iron)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ecba32e3838b6f3d8de8129d7cbb487fef4929052e65ef0d49ac893de563b48
+size 726

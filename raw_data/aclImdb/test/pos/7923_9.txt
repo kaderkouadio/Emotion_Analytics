@@ -1,1 +1,3 @@
-ALEXANDER NEVSKY is nothing short of a grand film on a grand scale. The film opens a window to a world and culture most Americans will never become acquainted with. And much has been said and written regarding the film's thinly veiled patriotism in the face of imminent war with the German Nazis.<br /><br />By US standards the acting is a bit stilted. The screenplay is short on words and big on visuals and action. And while the action can become tiresome, the visuals are often stunning. Direction is incredible.<br /><br />On another note, fans of Ralph Bakshi animation might notice that he stole a lot of his visuals for WIZARDS directly from a copy of ALEXANDER NEVSKY.
+version https://git-lfs.github.com/spec/v1
+oid sha256:990b45c3452bf9c5ab0deef87952279ef4fe8545c0dd025aedc13d12dbd2d839
+size 676

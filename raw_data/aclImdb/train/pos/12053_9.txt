@@ -1,1 +1,3 @@
-Well-done ghost story that will give you the creeps and some pretty fair scares along the way. The story unfolds slowly, building atmosphere all the way until you're ready to see the woman in black. You won't forget her once you've seen her. No gore, no knives, no hockey masks--just a well-constructed story that is best viewed at night with the lights out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea4a5fc26a666c906c068c4152f7fc4b0d8e75df99fcd62cc077f165f29cc616
+size 358

@@ -1,1 +1,3 @@
-This delightful documentary shows the secrets of many clever tricks that were a mystery until two film historians studied Charles Chaplin's works. Highly recommended to any serious fan of Chaplin. The backwards hat trick alone is worth viewing the whole series.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4aae8fc3a9926f7b8bf245891209564550c773f911c54753dabd34c18b237d5
+size 261

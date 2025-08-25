@@ -1,1 +1,3 @@
-This is horrible even for a TV movie. I can't believe it took three people to write this movie. I am not familiar with the novel on which this film was based, but it has got to be better than this. I'd rather watch a "Full House" marathon than this stupid movie. I gave it 2 out of 10 stars only because it was made better by commercials.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8953cda43e3b582d05d550af573fcd7b309fb2d4efb0587c74ff8f02104f2909
+size 338

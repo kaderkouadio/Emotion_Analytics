@@ -1,1 +1,3 @@
-After an intriguing (if not blatantly derivative of FRIDAY THE 13TH PART 2) opening scene which sets the stage for the story, the film plunges into a pointless series of murders. Some gore, but annoyingly little nudity, so it's a mixed bag for slasher fans, and garbage for fans of good movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ff741950ebba877f4318363be10de1107927c714991539c2b22a8bb88c260c
+size 294

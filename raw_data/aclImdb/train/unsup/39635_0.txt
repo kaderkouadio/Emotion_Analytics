@@ -1,1 +1,3 @@
-This movie is a pile of garbage. Dont get me wrong i like splatter, but hey, I would be nice with some kind of plot. And dialog. The guy who wrote the script should start doing something else. Why the hell does talentless people waste their and my time by producing something as s***ty as this ? The dialog is boring, and free from logic. And the characters ? The last half-hour in the building you get introduced to a lot of characters who just isn't needed. The effects and the camera were ok, all actors sucked bad. I'll give this 3/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:814403d8dfec6595752d0cb651f3dd5d652e253a446d2384af1e64adf655fc19
+size 538

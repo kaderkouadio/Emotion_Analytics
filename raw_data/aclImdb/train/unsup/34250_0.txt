@@ -1,1 +1,3 @@
-If any proof was needed to show that John Malkovich is probably the most over-rated actor of his generation, then this it it. <br /><br />His performance is a total embarrassment, as is his attempt at an English accent.<br /><br />What is a great premise for a movie is ruined within minutes by inept direction and poor casting. <br /><br />In the most unsubtle and ham-fisted of ways this film tries to reference Kubrick's pictures by using music associated with his films. <br /><br />Two boys walk down a west London street with....what else but bowler hats.<br /><br />This is unwatchable rubbish, plain and simple.
+version https://git-lfs.github.com/spec/v1
+oid sha256:890529755520e149bdbb15fd88fbb8f4e0f44f284689732bbd0bb0c415fda04a
+size 619

@@ -1,1 +1,3 @@
-Sorry - this movie is just a cheap TV-Production. I saw very much promotion Material and expect a professionell Movie like "Stormriders" - what i was presented was a Low-Budget-Movie like "XENA" or "Hercules" on TV. No Atmosphere, very boring, more then worse Fight-Scenes. Some good ideas - not more. I hope i will get the Chance to make a movie like this and then i show how to do such a movie!!!<br /><br />My ASIAN-Tips: "MUSA - THE WARRIOR", "STORMRIDERS", "SHAOLIN SOCCER", "BATTLE ROYAL", "VERSUS", etc.<br /><br />Sorry for my bad English!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8845359b3d6770f5b69241e7eadf68b9f49b6033732208e2ef70afc55eb2ce5c
+size 547

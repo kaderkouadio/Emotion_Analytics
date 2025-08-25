@@ -1,1 +1,3 @@
-It's been a while since I saw this movie, but I remember being impressed with the performances of both Fess Parker and Jeff Chandler.<br /><br />The other person who commented on this movie implied the Chandler character murdered Parker's wife. I don't think that's correct. He just dumped her and she killed herself, or some sort of indirect thing like that.<br /><br />I've since heard part of the movie score on a soundtrack CD showcasing the music of Jerome Moross. Wow! No wonder I liked the movie, the score is really great with a driving main theme. Look for a CD called "The Cardinal - Classic Film Scores of Jerome Moross". There is 16 minutes of music from "The Jayhawkers".
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c2cc14833ee8fbc8ced1b10c4dea492fa6fc316dea0e95062bf2f8b46214fd4
+size 684

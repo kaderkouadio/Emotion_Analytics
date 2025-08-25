@@ -1,1 +1,3 @@
-I can't remember many films where a bumbling idiot of a hero was so funny throughout. Leslie Cheung is such the antithesis of a hero that he's too dense to be seduced by a gorgeous vampire... I had the good luck to see it on a big screen, and to find a video to watch again and again. 9/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c2e0087fbb0a4bf14f3815128d65d8357ccd2c3961aa49e6621cdf228e5e33
+size 289

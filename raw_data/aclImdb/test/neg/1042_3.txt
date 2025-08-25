@@ -1,1 +1,3 @@
-Rented this one by mistake thinking it was another film with the same title, and realizing that I had rented it some time before.<br /><br />Quick plot line. A couple consisting of an artist and photographer rent a studio apartment in Los Angeles from Joe Estevez, still cursing the fact his brother Martin Sheen could actually ACT! They find a bed in a forgotten room, but the bed is haunted by a nasty looking serial killer from the 1930's and his last victim. Their ghosts inhabit the couple, first enhancing their sex life, but eventually becoming more menacing.<br /><br />What ensues is cheap R-rated sex scenes, cheaper thrills and kind of a waste of time.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6a6601bf20f3314e318193c3bfd4745ed21effc2421958350bbe487d6d4eb71
+size 663

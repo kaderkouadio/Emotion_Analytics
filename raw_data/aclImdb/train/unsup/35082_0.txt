@@ -1,1 +1,3 @@
-Man this thing stinks bad! I don't think I've ever seen a worse piece of garbage in my life. I love B grade horror films, but this stinker takes it to a new low. Acting stinks. Script stinks. Effects stink. I don't think this film has one good thing about it. Maybe the relief of seeing the closing credits is about it! And to top it off...they made a part two! Pass this thing up if you see it on the rental shelf. My friend didn't, and we really paid dearly for it! Time wasted that I'll never get back. I do believe tweezing my own nose hairs would be more fun. Well thats it. Be warned! THIS THING SUCKS!!! 1 out of 10 rating.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58686d77b41b38f5fbd433476c3eb6db51d82b40235e9e80f2c0628ccdf3727e
+size 630

@@ -1,1 +1,3 @@
-The film is entirely about sexual perversions, even though it is not technically erotic Allen has taken some of the most popular clinical treatments of sexual fetishes and has placed them into very unusual situations <br /><br />Gene Wilder, for example, falls in love with a sheep; Woody Allen plays a medieval court jester who gets his lance stuck in his lady's chastity belt while the king is off fighting in the Crusades; a giant breast is released upon the countryside; an Italian couple can only find happiness in public sex; and we are taken into the inner labors of a male human body as it tries to seduce a woman in a car<br /><br />Each individual scene is quite well done The tales are rapid filled with irony about the overly exaggerated importance of sex in our culture
+version https://git-lfs.github.com/spec/v1
+oid sha256:0506747f24ff5828b6c8b17cae33abfee31bce8e554f84c9c2c9c0e73ba9586e
+size 792

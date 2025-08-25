@@ -1,1 +1,3 @@
-This is a gem. The animation is beautiful, with lovely colourful backgrounds and the character animation is very good. The music was brilliant, very playful and jolly, and the theme tune somewhat reminds me of that for Peculiar Penguins. The characters are engaging, with the exception of Peter Pig, whose presence seemed unnecessary at times. The hen of the title is fun, the chicks are ADORABLE(I know I keep using this word, but most of the silly symphonies are), but what makes this short for me is the presence of Donald Duck, voiced by the one and only Ducky Nash. Everything else was fine, but my favourite duck's presence elevates this gem to a greater level.<br /><br />Two words for this- wonderful gem! 9.5/10 Bethany Cox
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8176c902e58588e81832ccd91c41885a69b12cf0c925854139c51f2c40f983
+size 732

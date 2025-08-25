@@ -1,1 +1,3 @@
-I think this movie is well done and realistic. I you are used to watching Hollywood "action" movies, and use that as a standard to rate this movie, you are bound to be disappointed. This movie is much closer to real life than 95% of what Hollywood can produce, and that is what lifts it above the average action movie. I have no experience with Swedish military whatsoever, and can therefore not point out any mistakes in the way they act. But as i have seen the "making of" extra I'm convinced that there has been done a lot to avoid any mistakes. This is a movie i will recommend for others to watch. High quality realistic story and movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03607fae3a62254cb93a1853d3a61d5e728ccd53334adf8bcbd4299cfbb08e75
+size 642

@@ -1,1 +1,3 @@
-I'm sorry but saying this movie sucks is an understatement, the beginning and the ends were good, stay awake for the ending, despite the boring inbetween stuff, but don't miss the odd stuff inbetween it was either humorus, or gothic in a way. I can stay awake through anything, even HobGoblins, this is a great movie for animation lovers, definitely not for kids, but still this was a good animation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7234ffbed54e4b531110efd8b873ba347366f8ddd483b310cacdceecb7c23273
+size 400

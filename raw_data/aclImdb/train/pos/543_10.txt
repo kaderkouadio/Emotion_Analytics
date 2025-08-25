@@ -1,1 +1,3 @@
-This movie is the best horror movie, bar-none.I love how Stanley just dumps the women into the lake.I have been a fan of Judd Nelson's work for many years, and he blew me away. Its a blend of horror, and drama ,and romance, not so much comedy. His evil, yet charming look captured me right then and there. That look in his eyes, I will never forget. There's something about him, I cant describe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20225ccc1a8a220177bfb8cc989e95ed9e80039d9c04ad605c139571510b6b62
+size 395

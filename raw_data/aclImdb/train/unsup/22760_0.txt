@@ -1,1 +1,3 @@
-A fun filled Johnnie To bullet extravaganza. Andy Lau plays a stylish, over-the-top, film loving, movie scene reproducing assassin with a compulsion to be the number one hit man. His only problem is that another chic antihero already has that title. So an outrageous game of cat and mouse is played out with lots of humor and film related in-jokes as well as unique gun battles done with sexy cinematographic elan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1781f0ce1c993f7ece3ec81df21778d6c4159f0e95d2fbb449c34be7fc0694f2
+size 414

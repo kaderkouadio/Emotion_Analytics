@@ -1,1 +1,3 @@
-Quite poor. It had potential but fell short with completely false dialogue and horrible acting. I felt like I was watching a cable access attempt at a movie. It was pretty funny, but I don't think the meant it to be. The ending was like a slap in the face after a punch in the stomach.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0de95ff4f1f151fd9a14fcd78acd875b6952b0882c41e85dac40b2771f277ff6
+size 285

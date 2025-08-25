@@ -1,1 +1,3 @@
-The film is creative and really well-made. I can only imagine the difficulties that face children when their parents get divorced, but the film also includes the anxieties of teenagers something that most people can relate to in one way or another. Alcohol, sex, masturbation as well as the radical change in behaviour of some teenagers especially with expressing their hurt at school and with other relationships.<br /><br />An upsetting scene in the film was when the girlfriend of the older son says that her mum doesn't like her dating him because his parents are divorced, and that that bad relationship might reflect on their relationship.<br /><br />Great movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8bbc7af20e2739a8b8912700738347f20de297e602028b0f9f20599d34a54d
+size 669

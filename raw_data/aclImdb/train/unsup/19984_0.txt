@@ -1,1 +1,3 @@
-This movie was pretty well done for a sequel.It has tons of drama, and romance. It felt at times like it was made for a TV movie. But if you like dramas or even a update on the people from "Terms of Endearment". This movie is a update of that movie. It was one of the best dramas I saw that year. The only problem with the movie is this, I wish it was a little bit longer. If you want to spend some time with old movie friends ,s ee this movie!!The cast is great especially Bill Paxton!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2216180e53ce5752df9fd80014adbc65213fb464a5da5395f6bbd2ebbe1b4f
+size 488

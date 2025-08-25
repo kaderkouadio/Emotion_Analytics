@@ -1,1 +1,3 @@
-A really great movie and true story. Dan Jansen the Greatest skater ever. A touching and beautiful movie the whole family can enjoy. The story of Jane Jansens battle with cancer and Dan Jansen love for his sister. Of a important promise made by Jansen to win a gold medal to prove his sister Jane was right to believe in his talent in speed skating was justified. This picture is well worth the time. I wish they would make more films of this quality. Thank you for a great film with excellent actors and an excellent story. It is a very touching story about a beautiful family support and faith for their children and a special dream for their youngest son and his sister.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f5e572307c79162b594002dcdfe73a302d7e284db5d02be61f9f056e8febd2c
+size 673

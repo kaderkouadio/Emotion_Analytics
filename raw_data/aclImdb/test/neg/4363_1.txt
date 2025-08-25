@@ -1,1 +1,3 @@
-<br /><br />This movie sucked! The first one was way better. No one from the first has returned in this dumb sequel and in some way that is a good thing because of the bad acting but the characters in this film are not even better. Killjoy in the woods? Come on! Give me a break! I'm suprised killjoy's friend the Blair Witch didn't show up to make a cameo. Bad acting, bad story and just plain out silly and boring. DON'T WASTE YOUR TIME!
+version https://git-lfs.github.com/spec/v1
+oid sha256:b81b3a6bc4651d9f7a6529cb014b9440b6423285c11c0e0c4d5994f105f1aeda
+size 439

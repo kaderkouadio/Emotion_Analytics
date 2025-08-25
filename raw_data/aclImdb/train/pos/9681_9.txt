@@ -1,1 +1,3 @@
-Add Paulie the parrot to beloved movie animal characters. This movie is a love story - bird and Gena Rowlands, Bird and beloved Marie, Michael and Marie. A Russian janitor helps a talking and thinking parrot find his rightful owner many years after Marie's parents sell him to a pawn shop. Before the heart warming ending we learn all the misadventures of Paulie. Cheech Marin and his dancing parrots are marvelous. Beautiful photography throughout. Great little movie, word of mouth will make it a cult favorite.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a892e70dfb212ddb61b05652b7ce9c80bb6dff90592df2165dc0a1760208644
+size 513

@@ -1,1 +1,3 @@
-In what must be one of the most blood-freezing movies ever, a transvestite is murdering people in New York, and the answer to everything may not be what people suspect. One can see how Brian DePalma takes some influence from Hitchcock with camera angles and stuff. Michael Caine plays a most thought-provoking character, while Angie Dickinson is basically a bored rich woman with a bad hairdo. Keith Gordon (who later starred in "Christine") is probably the most interesting character in the movie. But you can't really understand this movie without seeing it. And after seeing it, you may never know just whom you can trust. Also starring Nancy Allen and Dennis Franz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5835cdc0e143edce55cf54a13028538f9102c596a4658b35e004a8352434fb6
+size 669

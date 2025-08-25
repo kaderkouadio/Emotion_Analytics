@@ -1,1 +1,3 @@
-This was the best film of 1998 and one of the best of the 90's. Yes, it is a rip off of Goodfellas. But as the saying goes, good poets borrow, great poets steal. And PTA has stolen brilliantly from some of the best, plus added some genius touches of his own. I gave this a ten (which is very rare for me).<br /><br />The main reason I am commenting on this though (cause i could just rave all night) is all those people who have seen it on VHS standard issue...what are you thinking? This deserves the FULL SCREEN experience. Look at the ratio it was shot in! I saw it 5 times at the cinema and haven't bothered to watch it on video.<br /><br />Nuff said!
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc197e281bcaa70dcb0a74adf3d8a72d4262dbcadbb1a302bd13ff3bcc6b6414
+size 655

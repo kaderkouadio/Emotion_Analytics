@@ -1,1 +1,3 @@
-Lau Ching-Wan continues to amaze me with his transformations into his character. This was a great acting vehicle for both Lau Ching-Wan and Tony Leung. The story was good, and the direction was tightly wound and suspenseful. Unfortunately, all the tension unravels into an extremely unsatisfying ending.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b78c1dfca8b62325c864fbf815e0f10d5abd3fd492ce42a65af5d68771b2fa9d
+size 303

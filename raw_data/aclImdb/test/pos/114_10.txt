@@ -1,1 +1,3 @@
-I admire Deepa Mehta and this movie is a masterpiece. I'd recommend to buy this movie on DVD because it's a movie you might want to watch more often than just once. And trust me, you'd still find little meaningful details after watching it several times.<br /><br />The characters - except for the grandmother perhaps - are all very balanced, no black and white. Even though you follow the story from the perspective of the two protagonists, there is also empathy for the other characters.<br /><br />I think the IMDb rating for the movie is far too low - probably due to its politically controversial content.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed5906aa3099ed22897323bc7c92c5e782676c6c7b276b3b206014df3bc109f3
+size 610

@@ -1,1 +1,3 @@
-This terrible flick is simply beyond bad.The plot is not interesting and stupid,the acting is atrocious,the special effects are fake(I found here possibly the lamest throat-slashing ever)and there is absolutely no suspense,no thrills.This poorly made,miserable movie is not even funny in some campy ways.To sum up,I wouldn't recommend this ridiculous mess.You should learn from my mistake.My evaluation:2/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dbb75174a7c7c27e2f0ba0af99c8df192624da4e7ecea15177c8581311065fc
+size 408

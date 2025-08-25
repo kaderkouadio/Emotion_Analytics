@@ -1,1 +1,3 @@
-yes, worse than anaconda.<br /><br />consists of mostly pointless and usually very violent animations. revels in pointless grossouts -- not grossouts that have a point and humor, but for the sake of the grossout. same for the ubiquitous violence -- no point, no reason, no humor, just because animation can do it. i went with high hopes of good entertainment, but I didn't laugh once -- and I held out for almost an hour hoping.<br /><br />don't do it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f90c1d5c1c3ffc2a54e16187c72e679c66d0d3cbe6e88802f21019fa0bd6e1a
+size 452

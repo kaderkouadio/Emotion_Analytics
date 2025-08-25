@@ -1,1 +1,3 @@
-An enjoyable Batman animated film. Not on par with "Return of the Joker" or "Mask of the Phantasm", but solid nonetheless. I liked how the movie kept you guessing as to who Batwoman was. There was nice twist. Nice action sequences. I've always been of the opinion that the Batman cartoons are better then any of the pitiful Batman live action film sequels. The trend continues here.<br /><br />7.5 out of 10
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4be9ee6aa174cf2e5e7f8969273f1755138a465f2d42b2514afec86fa9226b
+size 407

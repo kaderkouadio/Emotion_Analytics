@@ -1,1 +1,3 @@
-Superbly developed characters into the lots of funny situations full of spirit, absurdness and Serbian mentality. Movie is a great comedy, enjoyable, interesting, unpredictable. Best point in a film: characters, then humor itself, story and dialogs. Humor has 'inner development' , rare in Serbian movies. So, it is consequence of characterization, is well motivated, spontaneous and cogent. Also it is sharp, intelligent and lucid. Most of the movies, unfortunately, had constructed humor (devise a joke and put it into a characters's mouth) or ordinary situation comedy, burlesque, farce. Some of the 'art immortality' are incorporated in this movie. Little masterpiece, hardly reachable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea814cd3e4b77ce6e5fe4d5bba831257d6caaf86dfe70e5fa9080ba50f273245
+size 690

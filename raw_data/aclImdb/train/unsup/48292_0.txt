@@ -1,1 +1,3 @@
-Daughter of famous WW 2 novelist (James Jones, though not called by that name), grows up in Paris and matures in 70s USA. OK cast, good performances (Sobieski is just fine here), even has subtitles for French dialogue during the Parisian sequences, but distinctly a case of so what? This goes on for hours and never gets to any point except that the daughter eventually writes a novel about her own life. I think I'm happy I didn't read it; I wish I could say I'd also missed the film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc03ed06c52fd58247acefc48149e40b30363bb9e5eace88de4576030315b06e
+size 485

@@ -1,1 +1,3 @@
-For the 1980s, this is a very dark movie. At this point, filmmakers were beginning to operate under the assumption that all films require smarmy comic relief (which, of course, is taken to the extreme today), flashy action scenes (even more overdone today), or steamy sex scenes.<br /><br />Hutton and Penn are stupendous in their roles as childhood friends turned Soviet spies. Penn in particular is brilliant as hapless drug dealer Daulton Lee.<br /><br />What you have here is a true thriller/drama. There is no eye candy to speak of, but the story is so compelling and the acting so superb that (hopefully) most people wouldn't miss it. There are a couple amusing scenes, in particular the one where Penn tries to get his Soviet benefactors involved in a major drugrunning deal.<br /><br />Well worth watching.
+version https://git-lfs.github.com/spec/v1
+oid sha256:039e69ccb7f182c40bb5bd8e2c7c180dcc474b3630a55ec122f1d429898ed778
+size 814

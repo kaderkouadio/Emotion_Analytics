@@ -1,1 +1,3 @@
-I saw "The Birdcage" because I'd already seen "La Cage aux Folles." And I thought this one was a great remake, if not better. Robin Williams and Nathan Lane give hilarious performances as the lead couple. I haven't seen "La Cage" in ages, but there were tidbits in "The Birdcage" that I remembered from the original. Of all American remakes of French movies, this is by far my favorite!
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f2a773a785b36d950c9a5d1309c8d6329183f8a270f96a05c49435a6400367
+size 386

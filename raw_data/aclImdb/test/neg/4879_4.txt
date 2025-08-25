@@ -1,1 +1,3 @@
-This is a really mediocre film in the vein of "Buckaroo Banzai." The cast runs around like "Mad Max" wannabes, and they seem to be sharing a joke that they do not want to share with the audience. Wheeler-Nicholson is one of the those guilty pleasure actresses you are delighted to stumble across in films, but she isn't worth the price of rental. Space Maggot starts an electrical fire, and burns a vote of 4.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c46c9ad13902d8dfe767fc858e7e748d7eb59efdf92ccfff9bf5c07f0c5de0c1
+size 409

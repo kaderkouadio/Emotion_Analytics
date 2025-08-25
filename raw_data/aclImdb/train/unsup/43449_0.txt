@@ -1,1 +1,3 @@
-How did this guy make it through law school? The main character in this movie makes so many stupid moves he deserves to be locked up. And the detective? He's so sure he has everything figured out when in fact he doesn't know jack.<br /><br />The plot had potential, the acting wasn't bad, but normal people just aren't this clueless.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54d71414b6a7128c4e15c886e9e3b13e923ee7d44788b01ae07dabb79c9e752f
+size 333

@@ -1,1 +1,3 @@
-A trio of detestable hoodlums - Steele, Lomax and Billy - beat a man to death, torment a convenience store employee and after arriving at an isolated farmhouse keep a weird girl and her grandfather hostage. This film is also known as The California Axe Massacre which is strange considering it was filmed in North Carolina.
+version https://git-lfs.github.com/spec/v1
+oid sha256:639b23c4a97b3ffd47f00e3305d14f29eb13c211073bc044f1e51170460a901f
+size 323

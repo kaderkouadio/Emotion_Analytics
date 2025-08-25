@@ -1,1 +1,3 @@
-Hollywood at its worst. No story, no script, wooden (Glenn Ford, Inger Stevens, and George Hamilton) or over- (Max Baer as Jethro on angel-dust) acting, even the "comic" relief is embarrassing. This leaves you with only violence and photography. Zion National Park looks good. Flick looks bad.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36839f818aa9b2f7abd464d4dac8e709e2179d42fa21cfcfac3dcc077c71315
+size 293

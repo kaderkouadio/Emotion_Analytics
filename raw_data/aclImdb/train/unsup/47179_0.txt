@@ -1,1 +1,3 @@
-This is the worst movie I've seen in a long, long time. It's supposedly an action comedy, but the "humor" is less funny than puppies getting run over on the highway. The action scenes are funnier as Rodman tries to look like he knows martial arts, but you just wonder how come he isn't getting beaten senseless by people who are obviously thousands of times better than him. No action, no comedy, only pain.
+version https://git-lfs.github.com/spec/v1
+oid sha256:22c1377c6d8a524a5acfdcb0f89a006799d3d5a004436b55a5de3319508e8abf
+size 407

@@ -1,1 +1,3 @@
-This movie was highly entertaining. The soundtrack (Bian Adams) is simply beautiful and inspiring. Even more impressive is Brian Adams doing all the songs in French as well. The score is also uplifting and dramatic.<br /><br />The movie is made from a mix of traditional animation, combined with computer generated images. The result is truly stunning. I watch this film at least once a week with my kids and we never tire of it. The story is compelling and well narrated.<br /><br />I don't understand anyone who would rank this movie less than a 7. Definately a keeper in my household.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e716ee475b319635b000effd4802b53cb1ba9fdb96f7be0be3587b0b605d67a9
+size 587

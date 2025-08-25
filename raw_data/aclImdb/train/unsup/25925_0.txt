@@ -1,1 +1,3 @@
-Okay, so the film is based on a true life documentary right? What's the point in that? You'd probably get much more entertainment from that rather than this film. The insults were just cringe worthy and let's face it, it isn't just a fat person who would get insulted in an American high school. You could be whether you were a size 0 or a size 20. People get bullied ruined for all kinds of reasons. And to make it even more insulting, they use a fat suit! It's just ridiculous. I don't think using a thin blonde girl to 'reveal' the typical ordeals an over weight teenager would have to face would be the way to do it. Seriously just watch "My teenage of daughter is obese" on an episode of Jerry springer or something, you'd be bound to get more laughs!
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a169edc727b2cd62989633768709520c82593228d7dbd50ec1cb9285ff4d2d8
+size 756

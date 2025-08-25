@@ -1,1 +1,3 @@
-Written and acted by sincere amateurs, produced by some exploitation monger, this is dull and hard to watch.<br /><br />Not the worst movie ever, but at least schlock like _Plan 9 From Outer Space_ usually had a real actor or two. I'd recommend _A Thief In The Night_ only to hardcore ironists and hardcore Dispensationalists. I'm neither.<br /><br />Don't believe me? Watch it for free (albeit sourced from poor VHS) here: http://www.archive.org/details/Thief-In-The-Night<br /><br />Relevant links added mostly to reach IMDb's 10-line minimum: http://en.wikipedia.org/wiki/Dispensationalism http://www.dvdtalk.com/reviews/3199/thief-in-the-night-se-a/
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd686d38edcd5326721c697e5b8ca5b5d6535d93be14a44aaf63f005566fa26
+size 653

@@ -1,1 +1,3 @@
-I thought Meenaxi was a self indulgent waste of time. The movie was poorly edited and artistic for the sake of being artistic rather being incorporated into the plot. Apart from the main protagonist, the quality of acting was mediocre and dialog was pithy. One of the two bright sparks was the choreography of the musical pieces, which were acrobatic and classical. Most importantly, they were a refreshing change from the usual bollywood crass belly gyrations. The other, positive (which is no reflection on the film makers) are the locations. It is hard to miss the beauty of cities like Jaisalmer and Prague. Overall, for some visual appeal and a cloudy plot-line, Meenaxi is watchable. But I would recommend getting on with household chores instead!
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a0aaf24c8e17507b51963fb1a13811cbc1ee3fa5dd4d98d2a317bde917d564
+size 753

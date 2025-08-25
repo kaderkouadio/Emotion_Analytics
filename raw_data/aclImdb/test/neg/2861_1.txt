@@ -1,1 +1,3 @@
-This seemed really similar to the CHILD'S PLAY movies except so much worse. A lawyer tries to save a criminal, who was convicted of killing his son, from execution. She fails. The lawyer's daughter then finds a puppet that the killer had buried with his son and is immediately attached to it. Then after several people are seriously injured they find the little girl secretly talking to the doll saying that she didn't hurt anyone. Throughout this movie I found myself asking myself ' why am I watching this cheeze?' over and over. The end sucked so bad that I went and watched the Disney cartoon version right after and slept with the light on.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9f652bd317024f2ed3759c533a53bc58ed607642f3681ff6f25f61c557f496
+size 645

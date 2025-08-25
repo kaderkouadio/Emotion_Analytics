@@ -1,1 +1,3 @@
-Jerry Warren strikes again, here is a plot so stupid (an island 30 miles from the mainland that everybody has forgotten!) acting is non existent, not as if the actors(?) are requested to act anyway. But stick it through just to see the climatic fist fight in the mad scientist's lab.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b64ceb52794d86dd6830f7bbc826aa6161a151380fe563673e8b52120a7057ed
+size 283

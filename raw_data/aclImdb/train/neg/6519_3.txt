@@ -1,1 +1,3 @@
-Filmed in a documentary style, but you can pretty well tell participants had been coached. A recently divorced wannabe film maker(Myles Berkowitz)sees a chance to liven up his love life and step into the movie biz at the same time. He intends to make a documentary piece about finding love by filming twenty dates including ramifications. The comedy is spotty at best; the rest is mishap after mishap. Also taking part are Richard Arlook, Robert McKee and the enticing Elisabeth Wagner. Trying for credibility the fetching Tia Carrere is talked into a cameo. This will suffice as a handbook on how NOT to get a satisfactory date.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cacc279f4d68b8bac426f1547520fe366491582b410b768f086ad6c8a83fa98
+size 629

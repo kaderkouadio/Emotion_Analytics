@@ -1,1 +1,3 @@
-What a waste of film....<br /><br />Formulaic and nothing original - quite often during the film I thought I was watching another movie - Event Horizon / 1st Contact - basically anything with evil object / Cyborgs in...<br /><br />Quite dreadful, thought it would be good for a late Friday night but OUCH !
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c11c97a29fb6b8c12fe7f4f79dc8a9b527689ddf9dfd02d298654b77d1e5b14
+size 306

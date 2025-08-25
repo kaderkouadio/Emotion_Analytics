@@ -1,1 +1,3 @@
-"Necronomicon" is an analogy of three short stories:1)"The Drowned"(Christophe Gans)2)"Cold"(Shusuke Kaneko)and 3)"Whispers"(Brian Yuzna).In my opinion,the first one is the best one maybe because it's highly atmospheric and a little bit creepy.It has also very appealing cast(Bruce Payne,Richard Lynch or wonderful Belinda Bauer).The second one is very weak:boring and full of uninteresting characters.I didn't enjoy it.The third one is too bizarre and also very ridiculous.It has some nice gore effects and nothing more.I suggest you to watch only the first story-"The Drowned".Don't bother with rest.My evaluation:4/10 perhaps 5/10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9f4c54f119d85005d1171c53728c5c2f34e0e514e3d7e696e6650c26c4d8361
+size 634

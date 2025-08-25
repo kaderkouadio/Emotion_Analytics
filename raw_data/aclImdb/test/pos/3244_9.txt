@@ -1,1 +1,3 @@
-The movie is made in a style that resembles Lock, stock and two smoking barrels, with lot's of subplots, fancy camerawork, cool music and that great tongue-in-cheek Aussie type of humor you'll find nowhere else. How this movie has escaped the European and American audience is a mystery!
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9e70bbc9946907360d6a9a19a6833c55ad5050d2eaa2da695c0b1480c17c4dc
+size 287

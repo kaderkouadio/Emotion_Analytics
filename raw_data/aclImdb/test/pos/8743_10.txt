@@ -1,1 +1,3 @@
-Traffik is an excellent miniseries dealing with drug trafficking in Europe. This is the European produced PBS series on which the Oscar-nominated movie Traffic is based on. If you loved Traffic then Traffik is a must see.<br /><br />Overall I would highly recommend this miniseries to anyone that is interested in seeing drugs from a social point of view. The screenplay is exciting and unexpected as it weaves through the lives of drug dealers, traffickers, farmers, policians, and police officers. Unlike other movies that sensationalize the issue of drugs, Traffik presents it AS IS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e96fb005a9accfd7a381663dc902cf493f56c9e1283e388651203bd0e95434
+size 586

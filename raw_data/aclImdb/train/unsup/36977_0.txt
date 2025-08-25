@@ -1,1 +1,3 @@
-Geez, Adam Sandler can be really funny, but when he bombs, he really bombs. Waterboy wasn't funny at all, whereas Happy Gilmore was hilarious. Too bad. Adam better get his act in gear, because after The Wedding Singer (ugh) I had hoped to see him return to good form. Maybe next time...
+version https://git-lfs.github.com/spec/v1
+oid sha256:b55dc3172423cb765e50d7de95d8b72e2e649afa277b9e03733ffdb400dd0310
+size 286

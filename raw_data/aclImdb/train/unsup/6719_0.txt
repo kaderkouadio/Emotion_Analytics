@@ -1,1 +1,3 @@
-I've enjoyed every major computer animated Pixar and Dreamworks film that I've seen since, well, Toy Story. However, the honeymoon (no pun intended) is over.<br /><br />This tripe is lacking in almost every regard. The story is completely inane. It's moralistic bullshit from the get-go. Of all food industries to criticise, honey is probably one of the least deserving.<br /><br />The jokes are all at best old, more often just not fun. The only thing this movie has going for it is pretty colours and a few visual gags that are quite funny. Perhaps this is the beginning of when computer animated movies will suffer all the bad points of regular (children's) comedies. I sure hope not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da8ab03660d96f27a126df82b19f8235d2ea9e3549e05711303f2d62e2022046
+size 687

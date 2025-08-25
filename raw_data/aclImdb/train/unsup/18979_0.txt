@@ -1,1 +1,3 @@
-I thought Sweet Hideaway was a good movie. I found it to be very entertaining. I knew it was an independent film prior to my viewing it, so I did not go to see it expecting a "Feature Film" presentation. I especially liked the family scene with the Aunt and the little boy. The coach was hilarious (although he did go a little over board with the profane language). It was nice seeing all the new faces (actors) in the movie. Everyone did a great job!<br /><br />Overall, I enjoyed the movie!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6756ec334104e8b103129c9007f77d7988a201268f5e3c40fcd718fc46a7b5d2
+size 492

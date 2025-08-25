@@ -1,1 +1,3 @@
-FIREWALL plays out like an abbreviaton of every Harrison Ford thriller ever made. It's a criminal waste of talent, especially Virginia Madsen, Robert Patrick and Ford himself. The dialogue is hackneyed, the supporting characters are clichéd... Paul Bettany is slumming it here with a stock bad guy role. You won't believe how this movie builds him up as a super a**hole only to have absolutely no payoff! The characters are so cardboard, there's no sense of immediacy and whatever threat level it attempts to build simply flatlines. A huge step backwards for Ford, you can almost see him and the supporting cast clocking out at 5:00, cashing their checks and heading off to the fairway. A-List junk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf07c5b6b1b18b0107ccecc8d8f81d230a59a703e75a8613505a878143a87111
+size 700

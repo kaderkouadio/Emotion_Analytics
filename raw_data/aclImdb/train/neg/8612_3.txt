@@ -1,1 +1,3 @@
-This was a watchable movie, but plot was a little weak and most of the jokes were from some of Rodney's earlier movies. With that said, it was worth the time to watch. I gave this a 5 out of 10. So basically, its one of those movies that you do not go out of your way to see, but if you find it on the tube, take a chance.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d62326b1718e6747804017358488000f73dd6c815f937a6ee1bd49b35d0e424
+size 322

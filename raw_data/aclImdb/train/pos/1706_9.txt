@@ -1,1 +1,3 @@
-I don't know how anyone could hate this movie. It is so funny. It took a unique mind to come up with this storyline. It's not your typical alien movie. These aliens are so stupid and confused. You need to rent it at least once.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d64b5a1a2f5d48581c962a61d656bd4572554f6e4d5933bf34733daa8fbdc37
+size 227

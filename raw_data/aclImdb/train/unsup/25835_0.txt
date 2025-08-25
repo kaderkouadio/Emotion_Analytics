@@ -1,1 +1,3 @@
-This movie is really cool even though there are to much early 90's reminders in it. I just love the scenery and the acting. you want to watch a real swedish gansgta movie rent this one. Liam was the kind of gangster he played in this movie ( he has changed to the better now.. he found god). I really hope they will show his upcoming movies on cinemas.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6efe5e43312f63e1a4fb425c6face98c46e236cb41732c410e6132d22f1beb7a
+size 352

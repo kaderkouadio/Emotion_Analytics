@@ -1,1 +1,3 @@
-Powder Keg is the fifth short made by BMW. The film is one of the better of the five shorts. Instead of the usually slick presentation of the other BMW shorts, Powder Keg takes a different approach going with a lot of handheld and grainy pictures. Clive Owen does a solid job as he has done in all of the BMW shorts. Clive Owen is responsible for bring a photographer back across the border, because he was injured. Of course there is a chase, but there is less action then most of the other shorts. The short is pretty effective and an enjoyable change of pace from some of the other disappointing shorts, like Star and Chosen. I would consider this short the second best of the five, with Follow being the best.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24cb7fdbbb9758b69c5488fcba2553a017a91754f116c44cdad049a8a8ef49d6
+size 713

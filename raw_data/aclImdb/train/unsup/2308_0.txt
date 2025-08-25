@@ -1,1 +1,3 @@
-This is easily the better of all the Robin Hood versions, simply for sheer charm. The chivalry and gallantry of Robin Hood makes him one of the alltime heroes to all ages. The story holds strong in that, for the time, they didn't need nearly as much special effects as we use now. It's bravado and excitement, a movie your kids deserve to see.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d61c16c3790ad87316973f800911de54fe5cb87ec25161bc1edf4b050f5b449
+size 343

@@ -1,1 +1,3 @@
-This movie is so terrible, yet so funny. There are so many flaws with this movie. Many parts of the movie have nothing to do with the plot. The ape one time wears shoes, flicks the camera(and its no accident, he holds it for 4 seconds), and seems to be different sized throughout the movie. You cannot make a worse movie. Period. This movie must be seen, it is too funny to explain.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2bc7919a406317e8ef934696832a6756a3b1d5ae7ab78ec750223eb5b3b0e4f
+size 382

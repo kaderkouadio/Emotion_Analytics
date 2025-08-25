@@ -1,1 +1,3 @@
-I enjoyed the movie: Found, for the most part. A good drama. Very good cast members. However, there were some parts that weren't accounted for. Like, who checked out roger from the hotel room, and who returned his car back into the rental company? Also, where was roger's body when the police and paramedics came? I really think that Joanna Cassidy knew the first time she saw "katherine", she knew even from 16 years ago that she was not her original adopted daughter. But she was so glad just to have a daughter. Remember, when her husband showed her the pictures and she found out that the girl was in a scam with the investigator, she didn't disown the girl as her daughter. Anyway, I give the movie what I think it deserves, a 7.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78ec740c3d6c785cccd16981e5e5751721ffb5c1ea884da2e8d394c13ac2147d
+size 734

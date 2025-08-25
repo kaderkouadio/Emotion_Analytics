@@ -1,1 +1,3 @@
-Yes, this film is quite awful which, I am afraid, is ultimately the director's fault. It does not help that the story is very thin and the action almost awkward.<br /><br />However, this Dan Andersen intrigues me -- not just the great body but also the vulnerable giant quality. He seems to have a bit of an accent. What is it? Danish, like the name Andersen? His acting makes fellow beefcake Vin Diesel look like Lawrence Olivier? Nonetheless, to a certain point acting is a skill that can be worked on.<br /><br />Any information on Dan Andersen would be appreciated. Usually thorough IMDb has nothing on him. Even Google can't find him.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4976ce84e0a02f4355ce599557ef0a0ef8ffb69ffa087d5f77a9712779ac9bc
+size 639

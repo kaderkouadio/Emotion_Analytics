@@ -1,1 +1,3 @@
-What is it with Americans and their hang-up with religious gobbledy-gook? To think this was a best-selling novel is incredible, but to pull it off as a movie you really need good acting and a script that delivers. In this case, all the good actors have gone to heaven and we're left with Kirk Cameron as a CNN-type journalist(!) trying to discover why a lot of people have simply disappeared. Oh yeah, there's a subplot about an evil world conspiracy and famine, or something. The good news is that this is done so cheaply, and with such inane dialogue, that it has sheer entertainment value in all of its unintended laughs. Not recommended for anyone with a 3-digit IQ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a91bd2e9195c34a54718c7b593db693b59e62bbcd23967998229a78fbab48dce
+size 670

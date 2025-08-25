@@ -1,1 +1,3 @@
-They give you the set up then bore you to death with a constant cat and mouse chase. The main characters are involved in one constant stand-off where they threaten each other, every five minutes or less. And I'd like to see the police force that would let one of their cops pull off the A. Garcia bit. It's like some local cop walking Charlie Manson out of prison to go get a cup of coffee. Get real!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fd18f75191b04b0a48a9f173239b633b1c23eb549e2a0e2e9c3c6e283c8582d
+size 400

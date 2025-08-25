@@ -1,1 +1,3 @@
-While the quality may not be the best, the concept and action were perfect for anyone under the age of 12! Now, years later, I find myself remembering the oddest parts of this show, mostly the outfits and vehicles. I seem to remember the Cartoon Network running this late at night; a nostalgic must-see!<br /><br />Ace Goodheart and crew boarding their ship, the Phoenix, to do battle with the menace from space,...or some such place. The creative force behind these concepts is impressive, most impressive!
+version https://git-lfs.github.com/spec/v1
+oid sha256:89db798290596d4c64c0d5697a39f472cfc8e7391f57d5889e325f16dc7d2adc
+size 507

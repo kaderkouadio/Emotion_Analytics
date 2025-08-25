@@ -1,1 +1,3 @@
-Fairly appalling enterprise suggests Welsh to be an infantile artist, helplessly drawn to the violent milieu he knows best, but unable to resist vacuous elaborations rooted in banal fantasy. The first story is a ham-fisted, meaningless trudge with a B-movie sci-fi premise. The second achieves some poignancy, but only via the outrage-inducing surplus of humiliation visited on its central character. The third and most risible seems to aspire to being a dislocated sequel to Child's Play. The direction is consistently clueless - all whirling sound and fury, a slave to the extreme unpleasantness of the environment; suffocating in an ill-chosen music score and in indifferently flashy acting. This is sheer stupidity masquerading as a guerilla sensibility - as arbitrary and hollow as the abstract images that link the three sections.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa33b98e6255b95f6b35dc98576f6fc00dd7d14384590dccc02fe7ffa3532da7
+size 836

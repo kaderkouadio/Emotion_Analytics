@@ -1,1 +1,3 @@
-This movie stinks majorly. The only reason I gave it a 3 was because the graphics were semi charming. It's total disregard for a plot and the lack of even insubstantial surface character development made it seem like just a bunch of nice drawings. This is by far THE worse anime that came out of Japan. I can't believe they actually put their names on this garbage. What a rip off selling this thing for $20. If you haven't seen this don't bother. If you have, I pity you.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14c85410d8cd81859744b5cf78fc8083a05bc02971738158f9bc5060430f1009
+size 472

@@ -1,1 +1,3 @@
-This is a pretty good film version of the play. Sure, Jason Robards is a little stiff at first, but he gets better as the film goes on. John Gielgud is fine as to be expected. Charlton Heston does an admirable job as Antony. Overall, this is a very good movie version that doesn't take a backseat to the earlier Mason/Brando version. Try to follow it up with the Antony and Cleopatra with Charlton Heston taking up the Antony role again. They complement each other well.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27494701c6e118e592999f11221328fd60bb2d5f48d23b71e1e31cac7bbbcfb0
+size 470

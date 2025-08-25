@@ -1,1 +1,3 @@
-The title suggests this was supposed to be in the same spirit as The Naked Gun, but the only similarity is Leslie Nielson. Drastically unfunny, even when it is technically bad. It drags like a rainy Boxing day. The sets are straight out of a 60's TV Sci-fi soap, the songs excruciatingly dull (and badly sung) and the the only suspense is how they got the money to make this low-point of Nielson's career.<br /><br />Go and see a good film, like Plan 9, or Robot Monster! If you want to see a good film in the same genre (and budget) try Dark Star. Its beach ball monster shames the rubber beast in this film right back to Toyo studios.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7a1745d2227a26bcad6b361a386118b314f2e4a1b02c13404f7c391f52eb78d
+size 636

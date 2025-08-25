@@ -1,1 +1,3 @@
-I wasted two hours of my life watching this movie. It felt like it was 4 hours long. I kept watching because it said on the box "rated R for sex and a shocking scene." Well guess what? There was neither. I know the critics liked this movie, and it had that independent film feel to it, but come on, it moved slow and there was no conflict or drama. Just a weird kid who who did weird things. (I would say more but I'm unclear on the spoiler guideline.) Maybe I'm just not smart enough to appreciate the movie on all it's levels. It just seemed boring to me. However, there are couple semi-funny moments, but not many.<br /><br />I recommend passing up on this movie at the rental store.<br /><br />Thanks
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa12107ee1c5650b24abf54b991ab185812d1c9e1534ce0d25240212f4c10bbb
+size 704

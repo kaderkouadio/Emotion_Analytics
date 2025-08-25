@@ -1,1 +1,3 @@
-This film was sometimes good, but far too often things got silly and it became hard to take the movie seriously. The more dramatic parts actually aren't that bad, but there are many pointless and fluffy moments in this film, and they really killed any momentum. About an hour in, it was clear that this film would only be good in brief spurts, so in addition to being irritated by dumb scenes, I was getting somewhat bored as well. And then there was the predictability of the whole story. So all-in-all, there isn't much to recommend about this film, and therefore I wouldn't suggest that anyone bother with this movie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaafaba55efdec58f4ff4ff4354c13e81c680c638b3e5173df6ee6b3006f36e3
+size 620

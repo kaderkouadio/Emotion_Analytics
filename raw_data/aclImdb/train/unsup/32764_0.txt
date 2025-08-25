@@ -1,1 +1,3 @@
-"The Philadelphia Experiment" takes the intriguing idea of time travel forward and turns it into a routine, often silly thriller. Michael Pare, hot off "Eddie and the Cruisers" stars as one of two WWII soldiers that are time warped to present day (1984) and try to get back. When his buddy does go back Pare seeks him out in 1984 and when he finds him the scene is so ridiculously written it kills the whole movie. Not a chance would the friend act the way he does to his supposedly long lost buddy. It's awkward and unintentionally funny - which can be said for the whole film.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8580c4875164a000e7e71ab2c7231b5bfa6e6917cfc9ff408a0254f0a2a43dc5
+size 578

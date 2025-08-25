@@ -1,1 +1,3 @@
-I saw this movie today for the umpteenth time and it finally occurred to me... Weren't both men to blame? Wasn't Herbert Deever really just as guilty as Joe Keller? No matter who "says" they are responsible, anyone involved in knowingly shipping faulty parts that could kill people is responsible. Deever shouldn't have sent them out, no matter what he was told. Isn't that what all those Nazis claimed when asked how they could commit so many atrocities? "I was just taking orders." That doesn't wash with me or with most people. We all have a responsibility to follow our own consciences with regard to right and wrong.<br /><br />They were both guilty....<br /><br />It's a wonderful story and very well performed and written, but that fact remains to be discussed.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea067d17f2d6b28604b48a4292688e4d74474523b87531de58e0845b11317be8
+size 768

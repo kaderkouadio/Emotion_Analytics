@@ -1,1 +1,3 @@
-Possibly the worst acting ever in a genre not noted for its sterling thespians. Quigley is the best of the lot, shining (relatively) in her role as one of the many disposable sacks of blood in this tedious time-sink. Who lives through it? Who cares? Since the characters are all blanks, there's no suspense and the little interest there is wanes quickly. One of the all-time worst horror films.
+version https://git-lfs.github.com/spec/v1
+oid sha256:209c7a6d442b6614274664e7425ce407cc9e2c4c1a1515abfa455cc55d00b6ef
+size 394

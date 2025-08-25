@@ -1,1 +1,3 @@
-Empty headed precis of a middle brow novel. Lots of "fine acting" and an Antiques Roadshow design aesthetic is supposed to compensate for its total lack of emotional or intellectual content and its narrative illiteracy. Manages to be both finicky and slapdash at the same time. Pants.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0aa4ec98b72c9d981f51b2206f9b33c045033694ced329180ee7958f031ebc
+size 284

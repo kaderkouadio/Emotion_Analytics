@@ -1,1 +1,3 @@
-If you're thinking about renting this flick, you might as well go for the trifecta and rent Gigli & Glitter as well. The acting is beyond bad. Laughable is a better term. However, go rent it anyway because no one will ever believe how bad this movie is unless they see it for themselves.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b71ce3a27a9f359fcae168abad183f900943fe5ce148fb191321fbb2b6e5619
+size 287

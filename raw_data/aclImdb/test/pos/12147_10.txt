@@ -1,1 +1,3 @@
-I saw this film at Telluride Film Festival in 1997, where one of the screenwriters, José Giovanni, was being honored. It ranks highly as a great noir-crime-drama, incredible performances by Belmondo and Lino Ventura. The attention given to every character, and complex psychological portrayals, detailing loyalty, treachery, love, and hope, are tremendous. It is an excellent drama, an excellent thriller, and an excellent film. Up there with the best of Melville. (The title in English 'Class all risk,' in French 'Classe tous risques' is word-play on 'Classe Touriste,' meaning 'Tourist Class'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eea5f116598f4e341e0fd08faec65484629599259d4f97fe4ac8269c9b2726f
+size 597

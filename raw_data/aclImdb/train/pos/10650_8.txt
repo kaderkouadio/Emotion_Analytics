@@ -1,1 +1,3 @@
-I rented this movie this past weekend, cranked up the surround sound system, and got some great sound from special affects. This movie is a great movie rental, the special affects where enough to scare my fiance, but I noticed some looked suprisingly computer generated. I didn't go to the movies and see this, but its a scary late night don't feel like going out movie. I would recommend it!
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa4e6a8068aac257ec206d88e7561077e9ef95c461d06dd957c1c8a4f85b3f12
+size 392

@@ -1,1 +1,3 @@
-The Canterville Ghost (1996).The director made this too sappy a production. Maybe it's the generation, but I really liked the Charles Laughton version. There is a time and place for "emoting" and this production does not translate very well. Patrick Stewart, reciting Shakespeare was very good, but still inappropriate. Would neither recommend nor watch again. The close-ups and padded text and sub-plots were lost on me. Adding extraneous material and scenes takes away from a truly great work. The screenplay writer should find another profession in which to misplace his talent, maybe afternoon soap operas would be a better venue. Check out the really good version and pass on this one.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51f8a116ed77f18b5d2a059d1d175830168b93fe536596d72a2fafdf6dc7976a
+size 690

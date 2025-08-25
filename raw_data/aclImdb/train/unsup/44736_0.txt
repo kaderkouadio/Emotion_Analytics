@@ -1,1 +1,3 @@
-Why would you bother getting so many great cameos and waste them on a made-up character? The identical movie, with the identical actors, without the fake character would have been educational and entertaining.<br /><br />Who was the target audience here? Some of the references were so vague as to not even be funny by the 10 people who got the joke. (Example: The parody of Fredric Wertham's "Seduction of the Innocent" - what point did this serve???) Poorly done, poorly conceived, and another step down the road to obscurity for Mark Hamill.<br /><br />If you like comic books, rent something else... especially if you haven't seen "An Evening With Kevin Smith" - you'll understand the giant spider joke better if you do.
+version https://git-lfs.github.com/spec/v1
+oid sha256:896146df2e99a97b889b4b85ddbf5f8c224bfb64177a83510581c58e65b0c052
+size 724

@@ -1,1 +1,3 @@
-As a popular sport, surfing was liked by many people. Just after watched the documentary, I realized how dangerous it could be. In fact the surfers also scared of big waves. Even somebody got killed by it. But they still kept on surfing and enjoyed themselves. Only brave people can do it.<br /><br />According to what the surfers said, we can clearly knew what they felt when the big wave came at them. You have to adjust to your best and avoid direct strike from the big wave. When you win it, that will obviously bring you huge satisfaction.<br /><br />The amazing cinematography cannot be overlooked. That is absolutely visual enjoyment.<br /><br />An excellent sports documentary. 8/10
+version https://git-lfs.github.com/spec/v1
+oid sha256:657ed5418c72874d90af5aaef6af8cf4e02e2adf57b130fde960c163f7a1eac2
+size 690

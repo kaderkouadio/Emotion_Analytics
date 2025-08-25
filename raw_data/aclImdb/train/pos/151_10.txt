@@ -1,1 +1,3 @@
-Film is designed to affect the audience and this film left me speechless. Gorgeously photographed and well acted with dialog that approaches poetry the film involves lust, hate, murder, rape, theft and deception. It weaves an intense web that left me unable to take my eyes off the screen until the closing credits. The story is sweeping. It takes the audience from the atrocities of the Spanish Civil War to the human wreckage left behind. Roger Casamajor and Bruno Bertanzoni are two young actors who command the screen. Supporting players are excellently cast and lend a real sense of authenticity. Sets, lighting, scenery and cinematography are wonderful. I absolutely love the photography.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7396d4e4ef24a44a8c2325467a53c8d63beaea500c2bb10790d5975206a1da16
+size 694

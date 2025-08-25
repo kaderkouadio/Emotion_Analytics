@@ -1,1 +1,3 @@
-This film, like much of their music, is either underrated or unnoticed by the casual observer. It is terrific and, in many ways, ahead of its time.<br /><br />The images are funny, disturbing, and at the very least, engaging. <br /><br />The music is amazing. <br /><br />This is not the "candy pop" sound they are unfortunately associated with. This is the sound of a band in exploration and revolt.<br /><br />HEAD, alone, should put The Monkees into the Rock and Roll Hall of Fame. <br /><br />Can anyone tell me why these guys are not in there?
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eff3b663d3460b8c03c7d81757b67da2f82d4d41ebc18842d14221b311c9a11
+size 548

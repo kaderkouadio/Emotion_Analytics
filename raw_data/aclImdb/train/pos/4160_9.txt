@@ -1,1 +1,3 @@
-One word can describe this movie and that is weird. I recorded this movie one day because it was a Japanese animation and it was old so I thought it would be interesting. Well it was, the movie is about a young boy who travels the universe to get a metal body so he can seek revenge. On the way he meets very colorful characters and must ultimately decide if he wants the body or not. Very strange, if you are a fan of animation/science-fiction you might want to check this out.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5041b4dfccbc9f5758c7c090908a4e8af587b10ba002435d3c7c5cb2be626d87
+size 478

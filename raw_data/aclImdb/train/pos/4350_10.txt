@@ -1,1 +1,3 @@
-This film is one of those that has a resounding familiarity to it. It is earthy, grounded and a film that will make you think...and smile. Paul Reiser and Peter Falk take you on a journey that you will not forget. The soundtrack is beautifully varied and fitting; and the film itself is like a breath of fresh air. This surely deserves recognition for both the film and the actors! Finally, a piece of art that departs from the obvious love story and the frequent special affects that are seen today. Never have I walked out from a movie with such deep warmth and feeling of thoughtfulness in my heart; for it felt as if someone had just wrapped it in a fluffy fleece blanket. To see this film is to find a real treasure and delight in it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3073d7ae81e22df6e62c92883d7e3d5d41f2d8d2c40c33f3a93228f3651a59
+size 739

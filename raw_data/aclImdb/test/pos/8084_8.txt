@@ -1,1 +1,3 @@
-This is a plot driven movie and extremely entertaining. Nothing startling or original within the plot, but crucially, it moves along at a great pace and therefore keeps your attention. I didn't really notice the acting which I guess is a good thing. John Mills was fine but did seem to take everything in his stride somewhat considering how his life was falling apart around him. He would be clumped on the head, stand up 20 seconds later, dust himself down and carry on as if nothing had happened. A minor quibble in a film with a strong story, authentic locations and a plot that continually keeps you guessing right up to its conclusion.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd15061104911216de3a4fe70ee5dde6d3ddc5101cf4a1a52cf2fe343b5d25a
+size 640

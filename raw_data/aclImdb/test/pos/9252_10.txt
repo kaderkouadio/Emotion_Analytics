@@ -1,1 +1,3 @@
-Not only was this movie better than all the final season of H:LOTS. But it was better than any movie made for TV I have ever seen!<br /><br />Looking at the "Top 250" I see that only one small screen movie has made it: How the Grinch Stole Christmas. I think it is time to increase that group to 2.<br /><br />I will admit that the original series had several shows that were better than this, but I didn't mind. I just LOVED being able to enter the world of the Baltimore Homicide Squad again!
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbcfb5bbaa5284c7538b4239ece86476c8bed6f444a7e25f504eb904bc267f20
+size 494

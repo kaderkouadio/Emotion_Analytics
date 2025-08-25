@@ -1,1 +1,3 @@
-For die-hard Judy Garland fans only. There are two (2) numbers that are really good -- one where she does a number with an older cleaning lady (you've all seen the pics), and a pretty good number at the very end. There are a couple of scenes where the lines are funny. But, basically, the script is so bad and the movie so dated that it's hard not to cringe at the awfulness throughout. But it's worth the 2.50 to rent the movie -- just be prepared to fast-forward it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b82d3c2a419a8b84e62f790cfbc8d042d3deb7f19973f76179dd0f345e24198
+size 468

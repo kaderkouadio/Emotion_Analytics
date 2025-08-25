@@ -1,1 +1,3 @@
-I am kicking myself for not getting to a theater to see this when it was out last Spring. But at least the video came out. I've just watched it for the second time and it just gets better!<br /><br />The new Godzilla is definitely edgier than his father. The look is more bestial, the creature's actions more savage. After victory, the earlier Godzilla would walk off to the sea. THIS one kills the human who tried to kill him and then burns down another half mile of Tokyo as an afterthought!<br /><br />Traditionally Godzilla is considered a metaphor for nuclear warfare. With the new one, I wonder if Godzilla is more a metaphor for the gods we worship. This Godzilla knows who you are and can kill you any time he wants. Just like a god.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26d85585102f04ca8708b86e7856372e0383cde2a4b72dee03bc6c1c50949e69
+size 741

@@ -1,1 +1,3 @@
-This film version of one of the Arthurian legends is badly done, with cheesy special affects, stagey acting and a green knight with an enormous green-tinted wig and false beard that must be seen to be believed. All I can say is that the members of Monty Python MUST have seen this before they sat down to write The Holy Grail (Gawain was released in England 2 years prior), and decided to make fun of it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf1eac1fa353949c4005aef0b3552a95dba5ca9547e72755bc568fbfc020e6a
+size 404

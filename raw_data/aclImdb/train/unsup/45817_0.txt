@@ -1,1 +1,3 @@
-If you're a true Highlander fan, even a desperate one, steer clear of this movie. It is a disaster. The worst movie I've ever seen, and I've seen quite a lot of bad ones. Perhaps it's just because I love the original Highlander so much, that I am so angry. But my review is as follows: -The story is confusing, more supernatural than ever -The acting is horrible, particularly on Adrian's part. I could stand him in Endgame but he seems to be sleepwalking throughout this so-called sequel.<br /><br />Need I go on? Let's just say Highlander 2 is a masterpiece compared to this... exactly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5389dd2a3ad9f5c016f90b22788d8837f361c2c0b92b33538f63d165146b9bb
+size 588

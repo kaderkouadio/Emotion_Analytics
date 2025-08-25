@@ -1,1 +1,3 @@
-Personally I would advise people to stay clear of this movie. It's on the whole a bore to watch and the fighting is poorly choreographed. Slow and not very convincing. If you buy the Hong Kong Legends DVD release of this movie, then the only thing worth listening to is the Bey Logan audio commentary.<br /><br />But in any case, since when has there ever been a Ninja film worth watching. I cannot think of one and frankly do not wish to.<br /><br />Overall, when it comes to Movies, I have one golden rule: Avoid any films that contains the word 'Ninja'.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29161229a3c28b78a875e91ec0b2560b3e110f609e04fc8a3112d8101cdaf4e7
+size 556

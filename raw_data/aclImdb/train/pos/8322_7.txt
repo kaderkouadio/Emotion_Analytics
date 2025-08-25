@@ -1,1 +1,3 @@
-IQ is a cute romantic comedy featuring two great actors that seem to click well on screen. Plot is a typical guy wrong for girl, guy gets girl format, but makes the solid point that one must love with the heart and not the the mind. Addition of Albert Einstein and his band of geniuses provides excellent comic relief. Overall, a good movie. Not great, but good
+version https://git-lfs.github.com/spec/v1
+oid sha256:486a654b26abd2aa9a5670bfd251770c59a0e5099854eadf9fbd0b8a40f3e746
+size 361

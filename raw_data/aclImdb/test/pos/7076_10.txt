@@ -1,1 +1,3 @@
-After renting One True Thing the other night, I have learned to respect my family, and not take their health for granted. I have never seen such a real-life portrayal of a cancer victim on screen like Meryl delivered. She deserves the Oscar nomination, but she has some tough competitors in the running. All I can say is Beautiful film, great acting from Streep and Zellwegger. Meryl Streep revealed her one true ability in this excellent film!
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ba3f2c4359a50852a79f849a6e8c4afd01010a1d542bd6d62a558eb9dbf172
+size 444

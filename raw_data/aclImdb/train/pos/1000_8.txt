@@ -1,1 +1,3 @@
-I liked the film. Some of the action scenes were very interesting, tense and well done. I especially liked the opening scene which had a semi truck in it. A very tense action scene that seemed well done.<br /><br />Some of the transitional scenes were filmed in interesting ways such as time lapse photography, unusual colors, or interesting angles. Also the film is funny is several parts. I also liked how the evil guy was portrayed too. I'd give the film an 8 out of 10.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be2f76a87caec176c08bbd57609e49d56b551a0083792c4fd02f1137f1d2efe
+size 473

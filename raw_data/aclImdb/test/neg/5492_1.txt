@@ -1,1 +1,3 @@
-I don't mind the odd artsy film. But when they are larded with arcane symbolism and murky dialogue and when it's obvious they were done for the filmmaker's ego rather than the viewer's benefit, I get upset. I'm not a stupid person yet I simply didn't understand what this film was trying to say. Or do. Film is a magnificent form of human communication. Why do some filmmakers use it instead for obfuscation?
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd568eafa5b3aa60e225cb301f3403f615e5cc3a1cd79c3b94dc0ba3f435cd2
+size 408

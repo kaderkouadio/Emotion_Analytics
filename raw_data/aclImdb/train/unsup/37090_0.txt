@@ -1,1 +1,3 @@
-I kept waiting for this movie to make sense at some point, and it never happened. I looked at the IMDB rating hoping to get some kind of an idea how many people saw the film and how many people gave it a rating higher than 7. Boy was I disapointed. What a waste of celluloid!
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f858dc504a4f32c6da785083e87825ad84ec6e9be415d77411240be8540a466
+size 275

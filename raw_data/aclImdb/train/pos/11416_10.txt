@@ -1,1 +1,3 @@
-An excellent family movie... gives a lot to think on... There's absolutely nothing wrong in this film. Everything is just perfect. The script is great - it's so... real... such things could happen in everyone's life. And don't forget about acting - it's just awesome! Just look at Frankie and You'll know what I thought about... This picture is a real can't-miss!!!
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ba492c529c4d8eec1d00d56e7f2e45eb1dab7ad05cfa13b3e11f293d0dac48b
+size 365

@@ -1,1 +1,3 @@
-Young Lara is in a most unusual situation: her parents are both deaf-mute, so she has to communicate for both of them. It's sort of a constraining situation, and when a relative gives Lara the chance to become a musician, her parents try to keep her at home. She will have to choose.<br /><br />The idea of the daughter having to speak for her parents is not something that I ever would have thought about, but "Jenseits der Stille" (called "Beyond Silence" in English) made me think about it. It's always good to be able to see such intellectual stories, especially when Hollywood makes so many pointless blow-'em-up movies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ce031185195280a5a219ea01324dcba7ad8961507d1b8548a238c63d49d81cd
+size 625

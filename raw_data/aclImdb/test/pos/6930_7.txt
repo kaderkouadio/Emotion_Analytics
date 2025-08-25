@@ -1,1 +1,3 @@
-To surmise, this film involves two actors (Caine and Moran) trying to con a gangster. The plot is flimsy at best as several plot holes occur throughout. However this normally shouldn't matter as the comedy should carry a film like this. There are some genuinely funny bits (mostly provided by Dylan Moran). However, other times, there are long melodramatic scenes that fail to add anything to the movie. Caine's character seemed overdone to me. Especially at the start, he continually quotes Shakespeare and acts like a pompous actor. One could say he was playing the part properly but the character seemed to me flat and unfunny. Overall I would say see only if a fan of the actors involved. Otherwise wait for video or tv.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50c6e42fda30982952d854ef459b03b79c374e6503e1f9ea85e5fcfb6e9909dd
+size 724

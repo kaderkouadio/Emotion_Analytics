@@ -1,1 +1,3 @@
-This must be one of the worst movies of all time. Just the fact that a woman is playing a horny young man proves how pathetic this movie is. There seems to be no humor in this movie. Luckily I saw this movie on TV, so I didn't waste any money on it.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1933e596542ed906e88194606a84208a872eac12d2fd4c887805dc3d7bbfa259
+size 249

@@ -1,1 +1,3 @@
-I wish as we looked through the new releases that I'd known this was the bad made for tv movie that I saw on USA network (cable). Had I known this wasnt' your typical cheesy snake flick, I wouldn't have rented it. while part of the acting is fine, and the snakes are semi believable (not outragiously huge) the speed with which the victims die is too exagerated, and it is almost identical to the old movie "Rattler" that is now makign the rounds of network tv movie filler during reruns seasons.
+version https://git-lfs.github.com/spec/v1
+oid sha256:593dadd37df7d00cbc93f87ee469ba67fbbea1ed8e7d01a5ddec4ad8a3aa04ef
+size 496
