@@ -1,6 +1,28 @@
-.git
+# --- Environnements virtuels ---
+.venv/
+env/
+venv/
+
+# --- Fichiers Python compilés ---
 __pycache__/
 *.pyc
 *.pyo
-.venv
+*.pyd
+
+# --- Config & secrets ---
 .env
+*.env
+
+# --- Cache & logs ---
+*.log
+*.sqlite3
+.cache/
+.ipynb_checkpoints/
+
+# --- OS spécifiques ---
+.DS_Store
+Thumbs.db
+
+# --- Déploiement / IDE ---
+.vscode/
+.idea/
