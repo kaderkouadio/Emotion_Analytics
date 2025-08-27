@@ -236,6 +236,11 @@ with col2:
     <p style='text-align: center; font-size: 1.1em; margin-top: 0.5em; margin-bottom: 0.5em;'>
         API + Interface Streamlit : prédisez les sentiments de vos textes en direct.
     </p>
+    <p style='text-align: center;'>
+        <a href='https://emotion-analytics-jfqy.onrender.com' target='_blank' style='color: #1f77b4; text-decoration: none;'>
+            🔗 Accéder a l'api
+        </a>
+    </p>
     """,
     unsafe_allow_html=True
 )

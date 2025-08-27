@@ -20,10 +20,9 @@ st.set_page_config(
 
 # Définition des pages avec icônes
 pages = {
-    "🏠 Home": "App.py",                        # Page d'accueil / présentation du projet
-    "🎬 A propos": "page1.py",                  # Visualisations générales et pipeline
-    # "📊 Analyse exploratoire": "page2.py",      # Analyse des données détaillée
-    "🔎 Prédiction": "page3.py"                 # Formulaire de prédiction taxi
+    "🏠 Home": "App.py",                       
+    "🎬 A propos": "page1.py",                  
+    "🔎 Prédiction": "page2.py"                
 }
 
 # Barre latérale pour la navigation

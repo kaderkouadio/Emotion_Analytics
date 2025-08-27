@@ -30,6 +30,7 @@ Elle permet de prédire si un texte est **positif**, **neutre** ou **négatif**,
 
 # Cloner le dépôt
 git clone https://github.com/kaderkouadio/Emotion_Analytics.git
+
 cd Emotion_Analytics
 
 # Installer les dépendances Python

@@ -1,5 +1,5 @@
 #############################################
-# page3.py: Emotion_Analytics application streamlit pour prédire le sentiment à partir d'un modèle TFLite
+# page2.py: Emotion_Analytics application streamlit pour prédire le sentiment à partir d'un modèle TFLite
 ##############################################
 
 import tensorflow as tf
