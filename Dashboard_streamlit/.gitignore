@@ -1,0 +1,169 @@
+####################################
+#       ENVIRONNEMENT PYTHON       #
+####################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# Environnements virtuels
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Packages installés
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+####################################
+#        DONNÉES & FICHIERS RAW    #
+####################################
+Data/raw/
+Data/glove/*.txt        # Fichiers GloVe ou embeddings volumineux
+
+# Fichiers data lourds
+*.parquet
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Ignorer les modèles ML
+*.joblib
+*.h5
+*.hdf5
+*.pkl
+*.sav
+*.pth
+*.pt
+models/
+
+
+####################################
+#         JUPYTER NOTEBOOKS        #
+####################################
+.ipynb_checkpoints/
+
+
+####################################
+#       LOGS & FICHIERS TEMP       #
+####################################
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.out
+*.err
+*.DS_Store
+Thumbs.db
+
+
+####################################
+#          OUTILS D’ANALYSE        #
+####################################
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+
+####################################
+#          OUTILS STATIQUES        #
+####################################
+.mypy_cache/
+.dmypy.json
+.pytype/
+.ruff_cache/
+.pyre/
+
+
+####################################
+#      FICHIERS DE CONFIG CACHE    #
+####################################
+*.sqlite3
+*.db
+*.lock
+.pdm.toml
+.pdm-python
+.pdm-build/
+Pipfile.lock
+poetry.lock
+uv.lock
+
+
+####################################
+#          FICHIERS DOCKER         #
+####################################
+*.pid
+*.seed
+*.pid.lock
+docker-compose.override.yml
+
+
+####################################
+#            DOCUMENTATION         #
+####################################
+docs/_build/
+site/
+
+
+####################################
+#        OUTILS ET ÉDITEURS        #
+####################################
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# Cursor
+.cursorignore
+.cursorindexingignore
+
+# Abstra
+.abstra/
+
+
+####################################
+#         FICHIERS PERSONNELS      #
+####################################
+*.key
+*.pem
+*.crt
+*.env.local
+secrets/
+config/local.yaml
+secrets.json
