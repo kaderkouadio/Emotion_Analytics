@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import requests
 import json
+import uuid
 
 
 # --- Configuration de la page ---
@@ -35,7 +36,7 @@ lottie_url = "https://assets10.lottiefiles.com/packages/lf20_t24tpvcu.json"
 lottie_json = load_lottie_url(lottie_url)
 
 if lottie_json:
-    st_lottie(lottie_json, height=250, key="nlp_animation")
+    st_lottie(lottie_json, height=250, key=f"nlp_animation_{uuid.uuid4()}")
 else:
     st.warning("⚠️ Impossible de charger l'animation Lottie.")
 

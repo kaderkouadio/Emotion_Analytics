@@ -21,7 +21,7 @@ st.set_page_config(
 # Définition des pages avec icônes
 pages = {
     "🏠 Home": "App.py",                       
-    "🎬 A propos": "page1.py",                  
+    "ℹ️ A propos": "page1.py",                  
     "🔎 Prédiction": "page2.py"                
 }
 
