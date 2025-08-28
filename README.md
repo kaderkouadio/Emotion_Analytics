@@ -160,7 +160,7 @@ streamlit run app.py
 
 🔗 API FastAPI : https://emotion-analytics-jfqy.onrender.com
 
-🔗 Interface Streamlit : (lien à ajouter si déployée)
+🔗 Interface Streamlit : https://emotionanalytics-by-kaderkouadio.streamlit.app
 
 
 ## 🔗 Me retrouver
